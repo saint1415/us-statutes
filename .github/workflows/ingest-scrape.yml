@@ -1,0 +1,123 @@
+name: Ingest Justia (Scraped) Sources
+
+on:
+  schedule:
+    - cron: '0 4 * * 0'  # Every Sunday at 4 AM UTC
+  workflow_dispatch:
+    inputs:
+      batch:
+        description: 'Batch number (1-6) or "all"'
+        required: false
+        default: 'all'
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
+    steps:
+      - name: Set batch matrix
+        id: set-matrix
+        run: |
+          if [ "${{ inputs.batch }}" = "all" ] || [ -z "${{ inputs.batch }}" ]; then
+            echo 'matrix={"batch":["1","2","3","4","5","6"]}' >> "$GITHUB_OUTPUT"
+          else
+            echo 'matrix={"batch":["${{ inputs.batch }}"]}' >> "$GITHUB_OUTPUT"
+          fi
+
+  ingest:
+    needs: prepare
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    strategy:
+      matrix: ${{ fromJson(needs.prepare.outputs.matrix) }}
+      fail-fast: false
+
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Checkout data branch
+        uses: actions/checkout@v4
+        with:
+          ref: data
+          path: data-output
+        continue-on-error: true
+
+      - name: Create data branch if needed
+        run: |
+          if [ ! -d "data-output/.git" ]; then
+            mkdir -p data-output/data/states
+            cd data-output
+            git init
+            git checkout -b data
+          fi
+
+      - name: Setup Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r pipeline/requirements.txt
+
+      - name: Determine states for batch ${{ matrix.batch }}
+        id: states
+        run: |
+          # Split ~31 Justia states into 6 batches
+          ALL_JUSTIA=(
+            alabama alaska arizona hawaii illinois indiana
+            iowa kansas louisiana maine massachusetts michigan
+            minnesota missouri montana nevada new-hampshire new-jersey
+            new-mexico new-york north-dakota ohio oklahoma pennsylvania
+            rhode-island south-carolina south-dakota texas utah washington
+            west-virginia wisconsin
+          )
+
+          BATCH=${{ matrix.batch }}
+          BATCH_SIZE=$(( (${#ALL_JUSTIA[@]} + 5) / 6 ))
+          START=$(( (BATCH - 1) * BATCH_SIZE ))
+
+          STATES=()
+          for (( i=START; i<START+BATCH_SIZE && i<${#ALL_JUSTIA[@]}; i++ )); do
+            STATES+=("${ALL_JUSTIA[$i]}")
+          done
+
+          echo "states=${STATES[*]}" >> "$GITHUB_OUTPUT"
+          echo "Batch $BATCH states: ${STATES[*]}"
+
+      - name: Ingest batch ${{ matrix.batch }}
+        run: |
+          for STATE in ${{ steps.states.outputs.states }}; do
+            echo "=== Ingesting $STATE ==="
+            python -m pipeline.cli ingest \
+              --state "$STATE" \
+              --data-dir data/states \
+              --content-dir data-output/data/states || echo "WARN: Failed $STATE"
+            echo ""
+          done
+
+      - name: Commit TOC/manifest changes to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Update Justia batch ${{ matrix.batch }} TOC/manifests [automated]"
+          git push origin main
+        continue-on-error: true
+
+      - name: Commit content to data branch
+        run: |
+          cd data-output
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Update Justia batch ${{ matrix.batch }} content [automated]"
+          git push origin data
+        continue-on-error: true

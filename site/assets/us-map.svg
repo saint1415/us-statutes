@@ -1,0 +1,309 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600">
+  <style>
+    .state {
+      fill: #d0d8e8;
+      stroke: #8899aa;
+      stroke-width: 1.5;
+      cursor: pointer;
+      transition: fill 0.15s ease;
+    }
+    .state:hover {
+      fill: #4a6db5;
+    }
+    .state-label {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      fill: #334155;
+      text-anchor: middle;
+      dominant-baseline: central;
+      pointer-events: none;
+    }
+    g.state-group:hover .state {
+      fill: #4a6db5;
+    }
+    g.state-group:hover .state-label {
+      fill: #ffffff;
+    }
+  </style>
+
+  <!--
+    Standard US tile grid cartogram.
+    Grid is 12 columns (0-11) x 8 rows (0-7).
+    Each cell: 66 wide x 55 tall, with 4px gap.
+    Origin offset: x0=48, y0=20.
+    Tile size: 62 x 51 (with 4px gap = 66x55 pitch).
+  -->
+
+  <!-- === Row 0 === -->
+  <!-- AK: col 0, row 0 -->
+  <g class="state-group">
+    <rect id="alaska" class="state" data-abbr="AK" x="48" y="20" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="79" y="45.5">AK</text>
+  </g>
+  <!-- ME: col 10, row 0 -->
+  <g class="state-group">
+    <rect id="maine" class="state" data-abbr="ME" x="708" y="20" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="739" y="45.5">ME</text>
+  </g>
+
+  <!-- === Row 1 === -->
+  <!-- WI: col 5, row 1 -->
+  <g class="state-group">
+    <rect id="wisconsin" class="state" data-abbr="WI" x="378" y="75" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="409" y="100.5">WI</text>
+  </g>
+  <!-- VT: col 9, row 1 -->
+  <g class="state-group">
+    <rect id="vermont" class="state" data-abbr="VT" x="642" y="75" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="673" y="100.5">VT</text>
+  </g>
+  <!-- NH: col 10, row 1 -->
+  <g class="state-group">
+    <rect id="new-hampshire" class="state" data-abbr="NH" x="708" y="75" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="739" y="100.5">NH</text>
+  </g>
+
+  <!-- === Row 2 === -->
+  <!-- WA: col 0, row 2 -->
+  <g class="state-group">
+    <rect id="washington" class="state" data-abbr="WA" x="48" y="130" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="79" y="155.5">WA</text>
+  </g>
+  <!-- ID: col 1, row 2 -->
+  <g class="state-group">
+    <rect id="idaho" class="state" data-abbr="ID" x="114" y="130" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="145" y="155.5">ID</text>
+  </g>
+  <!-- MT: col 2, row 2 -->
+  <g class="state-group">
+    <rect id="montana" class="state" data-abbr="MT" x="180" y="130" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="211" y="155.5">MT</text>
+  </g>
+  <!-- ND: col 3, row 2 -->
+  <g class="state-group">
+    <rect id="north-dakota" class="state" data-abbr="ND" x="246" y="130" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="277" y="155.5">ND</text>
+  </g>
+  <!-- MN: col 4, row 2 -->
+  <g class="state-group">
+    <rect id="minnesota" class="state" data-abbr="MN" x="312" y="130" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="343" y="155.5">MN</text>
+  </g>
+  <!-- IL: col 5, row 2 -->
+  <g class="state-group">
+    <rect id="illinois" class="state" data-abbr="IL" x="378" y="130" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="409" y="155.5">IL</text>
+  </g>
+  <!-- MI: col 6, row 2 -->
+  <g class="state-group">
+    <rect id="michigan" class="state" data-abbr="MI" x="444" y="130" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="475" y="155.5">MI</text>
+  </g>
+  <!-- NY: col 8, row 2 -->
+  <g class="state-group">
+    <rect id="new-york" class="state" data-abbr="NY" x="576" y="130" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="607" y="155.5">NY</text>
+  </g>
+  <!-- MA: col 9, row 2 -->
+  <g class="state-group">
+    <rect id="massachusetts" class="state" data-abbr="MA" x="642" y="130" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="673" y="155.5">MA</text>
+  </g>
+
+  <!-- === Row 3 === -->
+  <!-- OR: col 0, row 3 -->
+  <g class="state-group">
+    <rect id="oregon" class="state" data-abbr="OR" x="48" y="185" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="79" y="210.5">OR</text>
+  </g>
+  <!-- NV: col 1, row 3 -->
+  <g class="state-group">
+    <rect id="nevada" class="state" data-abbr="NV" x="114" y="185" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="145" y="210.5">NV</text>
+  </g>
+  <!-- WY: col 2, row 3 -->
+  <g class="state-group">
+    <rect id="wyoming" class="state" data-abbr="WY" x="180" y="185" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="211" y="210.5">WY</text>
+  </g>
+  <!-- SD: col 3, row 3 -->
+  <g class="state-group">
+    <rect id="south-dakota" class="state" data-abbr="SD" x="246" y="185" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="277" y="210.5">SD</text>
+  </g>
+  <!-- IA: col 4, row 3 -->
+  <g class="state-group">
+    <rect id="iowa" class="state" data-abbr="IA" x="312" y="185" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="343" y="210.5">IA</text>
+  </g>
+  <!-- IN: col 5, row 3 -->
+  <g class="state-group">
+    <rect id="indiana" class="state" data-abbr="IN" x="378" y="185" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="409" y="210.5">IN</text>
+  </g>
+  <!-- OH: col 6, row 3 -->
+  <g class="state-group">
+    <rect id="ohio" class="state" data-abbr="OH" x="444" y="185" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="475" y="210.5">OH</text>
+  </g>
+  <!-- PA: col 7, row 3 -->
+  <g class="state-group">
+    <rect id="pennsylvania" class="state" data-abbr="PA" x="510" y="185" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="541" y="210.5">PA</text>
+  </g>
+  <!-- NJ: col 8, row 3 -->
+  <g class="state-group">
+    <rect id="new-jersey" class="state" data-abbr="NJ" x="576" y="185" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="607" y="210.5">NJ</text>
+  </g>
+  <!-- CT: col 9, row 3 -->
+  <g class="state-group">
+    <rect id="connecticut" class="state" data-abbr="CT" x="642" y="185" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="673" y="210.5">CT</text>
+  </g>
+  <!-- RI: col 10, row 3 -->
+  <g class="state-group">
+    <rect id="rhode-island" class="state" data-abbr="RI" x="708" y="185" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="739" y="210.5">RI</text>
+  </g>
+
+  <!-- === Row 4 === -->
+  <!-- CA: col 0, row 4 -->
+  <g class="state-group">
+    <rect id="california" class="state" data-abbr="CA" x="48" y="240" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="79" y="265.5">CA</text>
+  </g>
+  <!-- UT: col 1, row 4 -->
+  <g class="state-group">
+    <rect id="utah" class="state" data-abbr="UT" x="114" y="240" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="145" y="265.5">UT</text>
+  </g>
+  <!-- CO: col 2, row 4 -->
+  <g class="state-group">
+    <rect id="colorado" class="state" data-abbr="CO" x="180" y="240" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="211" y="265.5">CO</text>
+  </g>
+  <!-- NE: col 3, row 4 -->
+  <g class="state-group">
+    <rect id="nebraska" class="state" data-abbr="NE" x="246" y="240" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="277" y="265.5">NE</text>
+  </g>
+  <!-- KS: col 4, row 4 -->
+  <g class="state-group">
+    <rect id="kansas" class="state" data-abbr="KS" x="312" y="240" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="343" y="265.5">KS</text>
+  </g>
+  <!-- MO: col 5, row 4 -->
+  <g class="state-group">
+    <rect id="missouri" class="state" data-abbr="MO" x="378" y="240" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="409" y="265.5">MO</text>
+  </g>
+  <!-- KY: col 6, row 4 -->
+  <g class="state-group">
+    <rect id="kentucky" class="state" data-abbr="KY" x="444" y="240" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="475" y="265.5">KY</text>
+  </g>
+  <!-- WV: col 7, row 4 -->
+  <g class="state-group">
+    <rect id="west-virginia" class="state" data-abbr="WV" x="510" y="240" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="541" y="265.5">WV</text>
+  </g>
+  <!-- VA: col 8, row 4 -->
+  <g class="state-group">
+    <rect id="virginia" class="state" data-abbr="VA" x="576" y="240" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="607" y="265.5">VA</text>
+  </g>
+  <!-- MD: col 9, row 4 -->
+  <g class="state-group">
+    <rect id="maryland" class="state" data-abbr="MD" x="642" y="240" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="673" y="265.5">MD</text>
+  </g>
+  <!-- DE: col 10, row 4 -->
+  <g class="state-group">
+    <rect id="delaware" class="state" data-abbr="DE" x="708" y="240" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="739" y="265.5">DE</text>
+  </g>
+
+  <!-- === Row 5 === -->
+  <!-- AZ: col 1, row 5 -->
+  <g class="state-group">
+    <rect id="arizona" class="state" data-abbr="AZ" x="114" y="295" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="145" y="320.5">AZ</text>
+  </g>
+  <!-- NM: col 2, row 5 -->
+  <g class="state-group">
+    <rect id="new-mexico" class="state" data-abbr="NM" x="180" y="295" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="211" y="320.5">NM</text>
+  </g>
+  <!-- OK: col 3, row 5 -->
+  <g class="state-group">
+    <rect id="oklahoma" class="state" data-abbr="OK" x="246" y="295" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="277" y="320.5">OK</text>
+  </g>
+  <!-- AR: col 4, row 5 -->
+  <g class="state-group">
+    <rect id="arkansas" class="state" data-abbr="AR" x="312" y="295" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="343" y="320.5">AR</text>
+  </g>
+  <!-- TN: col 5, row 5 -->
+  <g class="state-group">
+    <rect id="tennessee" class="state" data-abbr="TN" x="378" y="295" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="409" y="320.5">TN</text>
+  </g>
+  <!-- NC: col 6, row 5 -->
+  <g class="state-group">
+    <rect id="north-carolina" class="state" data-abbr="NC" x="444" y="295" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="475" y="320.5">NC</text>
+  </g>
+  <!-- SC: col 7, row 5 -->
+  <g class="state-group">
+    <rect id="south-carolina" class="state" data-abbr="SC" x="510" y="295" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="541" y="320.5">SC</text>
+  </g>
+  <!-- DC: col 8, row 5 (small square) -->
+  <g class="state-group">
+    <rect id="district-of-columbia" class="state" data-abbr="DC" x="586" y="302" width="42" height="37" rx="4" ry="4"/>
+    <text class="state-label" x="607" y="320.5">DC</text>
+  </g>
+
+  <!-- === Row 6 === -->
+  <!-- TX: col 3, row 6 -->
+  <g class="state-group">
+    <rect id="texas" class="state" data-abbr="TX" x="246" y="350" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="277" y="375.5">TX</text>
+  </g>
+  <!-- LA: col 4, row 6 -->
+  <g class="state-group">
+    <rect id="louisiana" class="state" data-abbr="LA" x="312" y="350" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="343" y="375.5">LA</text>
+  </g>
+  <!-- MS: col 5, row 6 -->
+  <g class="state-group">
+    <rect id="mississippi" class="state" data-abbr="MS" x="378" y="350" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="409" y="375.5">MS</text>
+  </g>
+  <!-- AL: col 6, row 6 -->
+  <g class="state-group">
+    <rect id="alabama" class="state" data-abbr="AL" x="444" y="350" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="475" y="375.5">AL</text>
+  </g>
+  <!-- GA: col 7, row 6 -->
+  <g class="state-group">
+    <rect id="georgia" class="state" data-abbr="GA" x="510" y="350" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="541" y="375.5">GA</text>
+  </g>
+
+  <!-- === Row 7 === -->
+  <!-- HI: col 0, row 7 -->
+  <g class="state-group">
+    <rect id="hawaii" class="state" data-abbr="HI" x="48" y="405" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="79" y="430.5">HI</text>
+  </g>
+  <!-- FL: col 8, row 7 -->
+  <g class="state-group">
+    <rect id="florida" class="state" data-abbr="FL" x="576" y="350" width="62" height="51" rx="4" ry="4"/>
+    <text class="state-label" x="607" y="375.5">FL</text>
+  </g>
+
+</svg>

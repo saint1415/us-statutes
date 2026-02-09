@@ -1,0 +1,208 @@
+# State metadata: FIPS codes, abbreviations, names, slugs
+# Slug is used as the directory name and URL path component
+
+states:
+  - name: Alabama
+    abbr: AL
+    fips: "01"
+    slug: alabama
+  - name: Alaska
+    abbr: AK
+    fips: "02"
+    slug: alaska
+  - name: Arizona
+    abbr: AZ
+    fips: "04"
+    slug: arizona
+  - name: Arkansas
+    abbr: AR
+    fips: "05"
+    slug: arkansas
+  - name: California
+    abbr: CA
+    fips: "06"
+    slug: california
+  - name: Colorado
+    abbr: CO
+    fips: "08"
+    slug: colorado
+  - name: Connecticut
+    abbr: CT
+    fips: "09"
+    slug: connecticut
+  - name: Delaware
+    abbr: DE
+    fips: "10"
+    slug: delaware
+  - name: Florida
+    abbr: FL
+    fips: "12"
+    slug: florida
+  - name: Georgia
+    abbr: GA
+    fips: "13"
+    slug: georgia
+  - name: Hawaii
+    abbr: HI
+    fips: "15"
+    slug: hawaii
+  - name: Idaho
+    abbr: ID
+    fips: "16"
+    slug: idaho
+  - name: Illinois
+    abbr: IL
+    fips: "17"
+    slug: illinois
+  - name: Indiana
+    abbr: IN
+    fips: "18"
+    slug: indiana
+  - name: Iowa
+    abbr: IA
+    fips: "19"
+    slug: iowa
+  - name: Kansas
+    abbr: KS
+    fips: "20"
+    slug: kansas
+  - name: Kentucky
+    abbr: KY
+    fips: "21"
+    slug: kentucky
+  - name: Louisiana
+    abbr: LA
+    fips: "22"
+    slug: louisiana
+  - name: Maine
+    abbr: ME
+    fips: "23"
+    slug: maine
+  - name: Maryland
+    abbr: MD
+    fips: "24"
+    slug: maryland
+  - name: Massachusetts
+    abbr: MA
+    fips: "25"
+    slug: massachusetts
+  - name: Michigan
+    abbr: MI
+    fips: "26"
+    slug: michigan
+  - name: Minnesota
+    abbr: MN
+    fips: "27"
+    slug: minnesota
+  - name: Mississippi
+    abbr: MS
+    fips: "28"
+    slug: mississippi
+  - name: Missouri
+    abbr: MO
+    fips: "29"
+    slug: missouri
+  - name: Montana
+    abbr: MT
+    fips: "30"
+    slug: montana
+  - name: Nebraska
+    abbr: NE
+    fips: "31"
+    slug: nebraska
+  - name: Nevada
+    abbr: NV
+    fips: "32"
+    slug: nevada
+  - name: New Hampshire
+    abbr: NH
+    fips: "33"
+    slug: new-hampshire
+  - name: New Jersey
+    abbr: NJ
+    fips: "34"
+    slug: new-jersey
+  - name: New Mexico
+    abbr: NM
+    fips: "35"
+    slug: new-mexico
+  - name: New York
+    abbr: NY
+    fips: "36"
+    slug: new-york
+  - name: North Carolina
+    abbr: NC
+    fips: "37"
+    slug: north-carolina
+  - name: North Dakota
+    abbr: ND
+    fips: "38"
+    slug: north-dakota
+  - name: Ohio
+    abbr: OH
+    fips: "39"
+    slug: ohio
+  - name: Oklahoma
+    abbr: OK
+    fips: "40"
+    slug: oklahoma
+  - name: Oregon
+    abbr: OR
+    fips: "41"
+    slug: oregon
+  - name: Pennsylvania
+    abbr: PA
+    fips: "42"
+    slug: pennsylvania
+  - name: Rhode Island
+    abbr: RI
+    fips: "44"
+    slug: rhode-island
+  - name: South Carolina
+    abbr: SC
+    fips: "45"
+    slug: south-carolina
+  - name: South Dakota
+    abbr: SD
+    fips: "46"
+    slug: south-dakota
+  - name: Tennessee
+    abbr: TN
+    fips: "47"
+    slug: tennessee
+  - name: Texas
+    abbr: TX
+    fips: "48"
+    slug: texas
+  - name: Utah
+    abbr: UT
+    fips: "49"
+    slug: utah
+  - name: Vermont
+    abbr: VT
+    fips: "50"
+    slug: vermont
+  - name: Virginia
+    abbr: VA
+    fips: "51"
+    slug: virginia
+  - name: Washington
+    abbr: WA
+    fips: "53"
+    slug: washington
+  - name: West Virginia
+    abbr: WV
+    fips: "54"
+    slug: west-virginia
+  - name: Wisconsin
+    abbr: WI
+    fips: "55"
+    slug: wisconsin
+  - name: Wyoming
+    abbr: WY
+    fips: "56"
+    slug: wyoming
+  - name: District of Columbia
+    abbr: DC
+    fips: "11"
+    slug: district-of-columbia

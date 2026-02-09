@@ -1,0 +1,525 @@
+# Data sources for all 51 jurisdictions (50 states + DC)
+#
+# source_type: justia | law_resource_org | internet_archive | state_provided | dc_council
+# url: primary source URL for ingestion
+
+jurisdictions:
+
+  # === DC Council (GitHub XML) ===
+  district-of-columbia:
+    source_type: dc_council
+    code_name: "District of Columbia Official Code"
+    url: "https://github.com/DCCouncil/law-xml"
+    year: 2024
+    structure:
+      - {level: division, label: Division}
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  # === Law.Resource.Org (XML bulk) ===
+  arkansas:
+    source_type: law_resource_org
+    code_name: "Arkansas Code"
+    url: "https://law.resource.org/pub/us/code/ar/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: subtitle, label: Subtitle}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  california:
+    source_type: law_resource_org
+    code_name: "California Codes"
+    url: "https://law.resource.org/pub/us/code/ca/"
+    year: 2024
+    structure:
+      - {level: code, label: Code}
+      - {level: division, label: Division}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  colorado:
+    source_type: law_resource_org
+    code_name: "Colorado Revised Statutes"
+    url: "https://law.resource.org/pub/us/code/co/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: article, label: Article}
+      - {level: section, label: Section}
+
+  delaware:
+    source_type: law_resource_org
+    code_name: "Delaware Code"
+    url: "https://law.resource.org/pub/us/code/de/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  georgia:
+    source_type: law_resource_org
+    code_name: "Official Code of Georgia Annotated"
+    url: "https://law.resource.org/pub/us/code/ga/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  idaho:
+    source_type: law_resource_org
+    code_name: "Idaho Statutes"
+    url: "https://law.resource.org/pub/us/code/id/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  mississippi:
+    source_type: law_resource_org
+    code_name: "Mississippi Code"
+    url: "https://law.resource.org/pub/us/code/ms/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  oregon:
+    source_type: law_resource_org
+    code_name: "Oregon Revised Statutes"
+    url: "https://law.resource.org/pub/us/code/or/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  tennessee:
+    source_type: law_resource_org
+    code_name: "Tennessee Code"
+    url: "https://law.resource.org/pub/us/code/tn/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  # === Internet Archive ===
+  kentucky:
+    source_type: internet_archive
+    code_name: "Kentucky Revised Statutes"
+    url: "https://archive.org/details/kentucky-revised-statutes"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  north-carolina:
+    source_type: internet_archive
+    code_name: "North Carolina General Statutes"
+    url: "https://archive.org/details/north-carolina-general-statutes"
+    year: 2024
+    structure:
+      - {level: chapter, label: Chapter}
+      - {level: article, label: Article}
+      - {level: section, label: Section}
+
+  vermont:
+    source_type: internet_archive
+    code_name: "Vermont Statutes"
+    url: "https://archive.org/details/vermont-statutes"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  virginia:
+    source_type: internet_archive
+    code_name: "Code of Virginia"
+    url: "https://archive.org/details/code-of-virginia"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  wyoming:
+    source_type: internet_archive
+    code_name: "Wyoming Statutes"
+    url: "https://archive.org/details/wyoming-statutes"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  # === State-provided bulk data ===
+  connecticut:
+    source_type: state_provided
+    code_name: "Connecticut General Statutes"
+    url: "https://www.cga.ct.gov/current/pub/titles.htm"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  florida:
+    source_type: state_provided
+    code_name: "Florida Statutes"
+    url: "http://www.leg.state.fl.us/statutes/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  maryland:
+    source_type: state_provided
+    code_name: "Maryland Code"
+    url: "https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes"
+    year: 2024
+    structure:
+      - {level: article, label: Article}
+      - {level: title, label: Title}
+      - {level: section, label: Section}
+
+  nebraska:
+    source_type: state_provided
+    code_name: "Revised Statutes of Nebraska"
+    url: "https://nebraskalegislature.gov/laws/browse-statutes.php"
+    year: 2024
+    structure:
+      - {level: chapter, label: Chapter}
+      - {level: article, label: Article}
+      - {level: section, label: Section}
+
+  # === Justia (web scraping) - remaining ~31 states ===
+  alabama:
+    source_type: justia
+    code_name: "Code of Alabama"
+    url: "https://law.justia.com/codes/alabama/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  alaska:
+    source_type: justia
+    code_name: "Alaska Statutes"
+    url: "https://law.justia.com/codes/alaska/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  arizona:
+    source_type: justia
+    code_name: "Arizona Revised Statutes"
+    url: "https://law.justia.com/codes/arizona/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  hawaii:
+    source_type: justia
+    code_name: "Hawaii Revised Statutes"
+    url: "https://law.justia.com/codes/hawaii/"
+    year: 2024
+    structure:
+      - {level: division, label: Division}
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  illinois:
+    source_type: justia
+    code_name: "Illinois Compiled Statutes"
+    url: "https://law.justia.com/codes/illinois/"
+    year: 2024
+    structure:
+      - {level: chapter, label: Chapter}
+      - {level: act, label: Act}
+      - {level: section, label: Section}
+
+  indiana:
+    source_type: justia
+    code_name: "Indiana Code"
+    url: "https://law.justia.com/codes/indiana/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: article, label: Article}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  iowa:
+    source_type: justia
+    code_name: "Iowa Code"
+    url: "https://law.justia.com/codes/iowa/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: subtitle, label: Subtitle}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  kansas:
+    source_type: justia
+    code_name: "Kansas Statutes"
+    url: "https://law.justia.com/codes/kansas/"
+    year: 2024
+    structure:
+      - {level: chapter, label: Chapter}
+      - {level: article, label: Article}
+      - {level: section, label: Section}
+
+  louisiana:
+    source_type: justia
+    code_name: "Louisiana Revised Statutes"
+    url: "https://law.justia.com/codes/louisiana/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  maine:
+    source_type: justia
+    code_name: "Maine Revised Statutes"
+    url: "https://law.justia.com/codes/maine/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  massachusetts:
+    source_type: justia
+    code_name: "Massachusetts General Laws"
+    url: "https://law.justia.com/codes/massachusetts/"
+    year: 2024
+    structure:
+      - {level: part, label: Part}
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  michigan:
+    source_type: justia
+    code_name: "Michigan Compiled Laws"
+    url: "https://law.justia.com/codes/michigan/"
+    year: 2024
+    structure:
+      - {level: chapter, label: Chapter}
+      - {level: act, label: Act}
+      - {level: section, label: Section}
+
+  minnesota:
+    source_type: justia
+    code_name: "Minnesota Statutes"
+    url: "https://law.justia.com/codes/minnesota/"
+    year: 2024
+    structure:
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  missouri:
+    source_type: justia
+    code_name: "Missouri Revised Statutes"
+    url: "https://law.justia.com/codes/missouri/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  montana:
+    source_type: justia
+    code_name: "Montana Code Annotated"
+    url: "https://law.justia.com/codes/montana/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  nevada:
+    source_type: justia
+    code_name: "Nevada Revised Statutes"
+    url: "https://law.justia.com/codes/nevada/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  new-hampshire:
+    source_type: justia
+    code_name: "New Hampshire Revised Statutes"
+    url: "https://law.justia.com/codes/new-hampshire/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  new-jersey:
+    source_type: justia
+    code_name: "New Jersey Statutes"
+    url: "https://law.justia.com/codes/new-jersey/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: section, label: Section}
+
+  new-mexico:
+    source_type: justia
+    code_name: "New Mexico Statutes"
+    url: "https://law.justia.com/codes/new-mexico/"
+    year: 2024
+    structure:
+      - {level: chapter, label: Chapter}
+      - {level: article, label: Article}
+      - {level: section, label: Section}
+
+  new-york:
+    source_type: justia
+    code_name: "New York Consolidated Laws"
+    url: "https://law.justia.com/codes/new-york/"
+    year: 2024
+    structure:
+      - {level: law, label: Law}
+      - {level: article, label: Article}
+      - {level: section, label: Section}
+
+  north-dakota:
+    source_type: justia
+    code_name: "North Dakota Century Code"
+    url: "https://law.justia.com/codes/north-dakota/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  ohio:
+    source_type: justia
+    code_name: "Ohio Revised Code"
+    url: "https://law.justia.com/codes/ohio/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  oklahoma:
+    source_type: justia
+    code_name: "Oklahoma Statutes"
+    url: "https://law.justia.com/codes/oklahoma/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: section, label: Section}
+
+  pennsylvania:
+    source_type: justia
+    code_name: "Pennsylvania Consolidated Statutes"
+    url: "https://law.justia.com/codes/pennsylvania/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  rhode-island:
+    source_type: justia
+    code_name: "Rhode Island General Laws"
+    url: "https://law.justia.com/codes/rhode-island/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  south-carolina:
+    source_type: justia
+    code_name: "South Carolina Code of Laws"
+    url: "https://law.justia.com/codes/south-carolina/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  south-dakota:
+    source_type: justia
+    code_name: "South Dakota Codified Laws"
+    url: "https://law.justia.com/codes/south-dakota/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  texas:
+    source_type: justia
+    code_name: "Texas Statutes"
+    url: "https://law.justia.com/codes/texas/"
+    year: 2024
+    structure:
+      - {level: code, label: Code}
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  utah:
+    source_type: justia
+    code_name: "Utah Code"
+    url: "https://law.justia.com/codes/utah/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  washington:
+    source_type: justia
+    code_name: "Revised Code of Washington"
+    url: "https://law.justia.com/codes/washington/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  west-virginia:
+    source_type: justia
+    code_name: "West Virginia Code"
+    url: "https://law.justia.com/codes/west-virginia/"
+    year: 2024
+    structure:
+      - {level: chapter, label: Chapter}
+      - {level: article, label: Article}
+      - {level: section, label: Section}
+
+  wisconsin:
+    source_type: justia
+    code_name: "Wisconsin Statutes"
+    url: "https://law.justia.com/codes/wisconsin/"
+    year: 2024
+    structure:
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}

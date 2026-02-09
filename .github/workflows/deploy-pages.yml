@@ -1,0 +1,79 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main, data]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: main
+
+      - name: Checkout data branch
+        uses: actions/checkout@v4
+        with:
+          ref: data
+          path: data-branch
+        continue-on-error: true
+
+      - name: Merge data into site
+        run: |
+          # Copy site files from main
+          cp -r main/site/ output/
+
+          # Copy data directory from main (TOC, manifests)
+          cp -r main/data/ output/data/
+
+          # Overlay content files from data branch if available
+          if [ -d "data-branch/data/states" ]; then
+            cp -r data-branch/data/states/ output/data/states/
+          fi
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Pagefind
+        run: |
+          npm install -g pagefind
+
+      - name: Build search index
+        run: |
+          # Create HTML stubs from JSON for Pagefind to index
+          python main/pipeline/search/build_index.py \
+            --content-dir output/data/states \
+            --output-dir output/pagefind \
+            --site-dir output
+        continue-on-error: true
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: output
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

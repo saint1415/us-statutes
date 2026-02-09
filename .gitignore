@@ -1,0 +1,32 @@
+# Cache directories (local only)
+cache/
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pagefind output (built at deploy time)
+site/pagefind/
+
+# Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Content files (these live on the data branch)
+data/states/*/content/

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>US Statutes</title>
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="#/" class="logo">US Statutes</a>
+      <div class="search-bar">
+        <input type="text" id="search-input" placeholder="Search statutes..." aria-label="Search statutes">
+        <button id="search-btn" aria-label="Search">Search</button>
+      </div>
+    </div>
+  </header>
+
+  <nav class="breadcrumb" id="breadcrumb" aria-label="Breadcrumb"></nav>
+
+  <main id="app">
+    <div class="loading" id="loading">Loading...</div>
+  </main>
+
+  <footer class="site-footer">
+    <p>US state statutes are public domain. Data sourced from official state repositories, Justia, Law.Resource.Org, and Internet Archive.</p>
+    <p><a href="https://github.com/saint1415/us-statutes">GitHub Repository</a></p>
+  </footer>
+
+  <script src="js/router.js"></script>
+  <script src="js/lazy-loader.js"></script>
+  <script src="js/state-browser.js"></script>
+  <script src="js/search.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
