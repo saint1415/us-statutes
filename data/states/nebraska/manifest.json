@@ -1,0 +1,28 @@
+{
+  "state": "nebraska",
+  "state_abbr": "NE",
+  "code_name": "Revised Statutes of Nebraska",
+  "source": "state_provided",
+  "source_url": "https://nebraskalegislature.gov/laws/browse-statutes.php",
+  "last_updated": "2026-02-10T12:57:44.097776+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "chapter",
+      "label": "Chapter"
+    },
+    {
+      "level": "article",
+      "label": "Article"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 1,
+    "chapters": 1,
+    "sections": 178
+  }
+}

@@ -1,0 +1,785 @@
+{
+  "state": "oklahoma",
+  "children": [
+    {
+      "id": "title-title-02",
+      "number": "title-02",
+      "heading": "Title 02",
+      "children": [
+        {
+          "id": "chapter-title-02",
+          "number": "title-02",
+          "heading": "Title 02",
+          "section_count": 26,
+          "children": [
+            {
+              "id": "section-1",
+              "number": "1",
+              "heading": "Definitions"
+            },
+            {
+              "id": "section-2",
+              "number": "2",
+              "heading": "State Board of Agriculture"
+            },
+            {
+              "id": "section-2a",
+              "number": "2A",
+              "heading": "Environmental Provisions"
+            },
+            {
+              "id": "section-3",
+              "number": "3",
+              "heading": "Entomology and Plant Industry"
+            },
+            {
+              "id": "section-4",
+              "number": "4",
+              "heading": "Livestock Brands"
+            },
+            {
+              "id": "section-5",
+              "number": "5",
+              "heading": "Marketing"
+            },
+            {
+              "id": "section-6",
+              "number": "6",
+              "heading": "Livestock Diseases"
+            },
+            {
+              "id": "section-7",
+              "number": "7",
+              "heading": "Milk and Dairy Products and Milk Product Plants"
+            },
+            {
+              "id": "section-8",
+              "number": "8",
+              "heading": "Seed, Feed, and Fertilizer"
+            },
+            {
+              "id": "section-9",
+              "number": "9",
+              "heading": "Warehouses, Livestock Auction Markets, and Market News"
+            },
+            {
+              "id": "section-10",
+              "number": "10",
+              "heading": "Poultry and Poultry Products"
+            },
+            {
+              "id": "section-11",
+              "number": "11",
+              "heading": "Miscellaneous"
+            },
+            {
+              "id": "section-12",
+              "number": "12",
+              "heading": "Wildlife Services"
+            },
+            {
+              "id": "section-13",
+              "number": "13",
+              "heading": "Status of Statutes"
+            },
+            {
+              "id": "section-14",
+              "number": "14",
+              "heading": "Agricultural Laboratory and Weights and Measures"
+            },
+            {
+              "id": "section-15",
+              "number": "15",
+              "heading": "Agricultural Fairs and Expositions"
+            },
+            {
+              "id": "section-16",
+              "number": "16",
+              "heading": "Oklahoma Forestry Code"
+            },
+            {
+              "id": "section-17",
+              "number": "17",
+              "heading": "Cooperative Marketing Associations"
+            },
+            {
+              "id": "section-18",
+              "number": "18",
+              "heading": "Agricultural Associations and Commissions"
+            },
+            {
+              "id": "section-19",
+              "number": "19",
+              "heading": "Cooperative Agreement with the United States Department of Agriculture"
+            },
+            {
+              "id": "section-20",
+              "number": "20",
+              "heading": "Feeding Operations and Animal Unit Capacity"
+            },
+            {
+              "id": "section-20a",
+              "number": "20A",
+              "heading": "Oklahoma Concentrated Animal Feeding Operations Act"
+            },
+            {
+              "id": "section-i",
+              "number": "I",
+              "heading": "Forestry Administration and Enforcement"
+            },
+            {
+              "id": "section-ii",
+              "number": "II",
+              "heading": "Forest Fire Prevention"
+            },
+            {
+              "id": "section-iii",
+              "number": "III",
+              "heading": "General Forestry Laws"
+            },
+            {
+              "id": "section-iv",
+              "number": "IV",
+              "heading": "Miscellaneous Provisions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-05",
+      "number": "title-05",
+      "heading": "Title 05",
+      "children": [
+        {
+          "id": "chapter-title-05",
+          "number": "title-05",
+          "heading": "Title 05",
+          "section_count": 14,
+          "children": [
+            {
+              "id": "section-icle",
+              "number": "icle",
+              "heading": "I"
+            },
+            {
+              "id": "section-iv",
+              "number": "IV",
+              "heading": "A"
+            },
+            {
+              "id": "section-i",
+              "number": "I",
+              "heading": "House of Delegates"
+            },
+            {
+              "id": "section-ii",
+              "number": "II",
+              "heading": "Officers"
+            },
+            {
+              "id": "section-iii",
+              "number": "III",
+              "heading": "Nominations and Elections"
+            },
+            {
+              "id": "section-v",
+              "number": "V",
+              "heading": "Vacancies in Office and Ineligibility"
+            },
+            {
+              "id": "section-vi",
+              "number": "VI",
+              "heading": "Board of Governors - Duties"
+            },
+            {
+              "id": "section-vii",
+              "number": "VII",
+              "heading": "Bar Journal"
+            },
+            {
+              "id": "section-viii",
+              "number": "VIII",
+              "heading": "Legislative Studies and Proposals"
+            },
+            {
+              "id": "section-ix",
+              "number": "IX",
+              "heading": "Sections"
+            },
+            {
+              "id": "section-x",
+              "number": "X",
+              "heading": "Amendment of Bylaws"
+            },
+            {
+              "id": "section-xi",
+              "number": "XI",
+              "heading": "Amendment of Bylaws"
+            },
+            {
+              "id": "section-xii",
+              "number": "XII",
+              "heading": "Immediate Effect"
+            },
+            {
+              "id": "section-xiii",
+              "number": "XIII",
+              "heading": "Immediate Effect"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-06",
+      "number": "title-06",
+      "heading": "Title 06",
+      "children": [
+        {
+          "id": "chapter-title-06",
+          "number": "title-06",
+          "heading": "Title 06",
+          "section_count": 16,
+          "children": [
+            {
+              "id": "section-i",
+              "number": "I",
+              "heading": "General Provisions"
+            },
+            {
+              "id": "section-ii",
+              "number": "II",
+              "heading": "Banking Department"
+            },
+            {
+              "id": "section-iii",
+              "number": "III",
+              "heading": "Organization"
+            },
+            {
+              "id": "section-iv",
+              "number": "IV",
+              "heading": "Powers"
+            },
+            {
+              "id": "section-v",
+              "number": "V",
+              "heading": "Branch Banking - Bank Holding Companies"
+            },
+            {
+              "id": "section-vi",
+              "number": "VI",
+              "heading": "Hours and Closings"
+            },
+            {
+              "id": "section-vii",
+              "number": "VII",
+              "heading": "Corporate Functions, Banks and Trust Companies"
+            },
+            {
+              "id": "section-viii",
+              "number": "VIII",
+              "heading": "Regulation of Banks"
+            },
+            {
+              "id": "section-ix",
+              "number": "IX",
+              "heading": "Deposits and Collections - Notary Public - Protests"
+            },
+            {
+              "id": "section-x",
+              "number": "X",
+              "heading": "Regulation of Trust Companies"
+            },
+            {
+              "id": "section-xi",
+              "number": "XI",
+              "heading": "Merger, Consolidation, Conversion, and Sale of Assets"
+            },
+            {
+              "id": "section-xii",
+              "number": "XII",
+              "heading": "Liquidation, Dissolution, and Reorganization"
+            },
+            {
+              "id": "section-xiii",
+              "number": "XIII",
+              "heading": "Safe Deposit and Safekeeping Facilities"
+            },
+            {
+              "id": "section-xiv",
+              "number": "XIV",
+              "heading": "Offenses, Violations, and Penalties"
+            },
+            {
+              "id": "section-xv",
+              "number": "XV",
+              "heading": "Repeal, Severability, and Construction"
+            },
+            {
+              "id": "section-xvi",
+              "number": "XVI",
+              "heading": "Oklahoma Financial Transaction Reporting Act"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-10",
+      "number": "title-10",
+      "heading": "Title 10",
+      "children": [
+        {
+          "id": "chapter-title-10",
+          "number": "title-10",
+          "heading": "Title 10",
+          "section_count": 16,
+          "children": [
+            {
+              "id": "section-1",
+              "number": "1",
+              "heading": "Dependent and Delinquent Children"
+            },
+            {
+              "id": "section-2",
+              "number": "2",
+              "heading": "Counties With Population Over 100,000"
+            },
+            {
+              "id": "section-3",
+              "number": "3",
+              "heading": "Area Children's Detention Centers"
+            },
+            {
+              "id": "section-4",
+              "number": "4",
+              "heading": "State Institutions for Children"
+            },
+            {
+              "id": "section-4a",
+              "number": "4A",
+              "heading": "Group Homes for Persons with Developmental or Physical Disabilities Act"
+            },
+            {
+              "id": "section-5",
+              "number": "5",
+              "heading": "Miscellaneous Provisions"
+            },
+            {
+              "id": "section-6",
+              "number": "6",
+              "heading": "Termination of Parental Rights"
+            },
+            {
+              "id": "section-7",
+              "number": "7",
+              "heading": "Child Welfare System Reform Committee"
+            },
+            {
+              "id": "section-7a",
+              "number": "7A",
+              "heading": "Judicial Coordination Advisory Study Panel"
+            },
+            {
+              "id": "section-7b",
+              "number": "7B",
+              "heading": "Task Force on Reactive Attachment Disorder in Children"
+            },
+            {
+              "id": "section-8",
+              "number": "8",
+              "heading": "Oklahoma Children and Juvenile Law Reform Committee"
+            },
+            {
+              "id": "section-iii",
+              "number": "III",
+              "heading": "Custody and Proceedings"
+            },
+            {
+              "id": "section-9",
+              "number": "9",
+              "heading": "Interstate Compact for Juveniles Act"
+            },
+            {
+              "id": "section-10",
+              "number": "10",
+              "heading": "Subsidized Adoption Programs"
+            },
+            {
+              "id": "section-11",
+              "number": "11",
+              "heading": "Studies and Committees"
+            },
+            {
+              "id": "section-4",
+              "number": "4-",
+              "heading": "Reserved"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-11",
+      "number": "title-11",
+      "heading": "Title 11",
+      "children": [
+        {
+          "id": "chapter-title-11",
+          "number": "title-11",
+          "heading": "Title 11",
+          "section_count": 55,
+          "children": [
+            {
+              "id": "section-i",
+              "number": "I",
+              "heading": "General Provisions and Definitions"
+            },
+            {
+              "id": "section-ii",
+              "number": "II",
+              "heading": "Incorporation and General Provisions"
+            },
+            {
+              "id": "section-iii",
+              "number": "III",
+              "heading": "Incorporation of Towns"
+            },
+            {
+              "id": "section-iv",
+              "number": "IV",
+              "heading": "Incorporation of Cities"
+            },
+            {
+              "id": "section-v",
+              "number": "V",
+              "heading": "City Incorporating as a Town"
+            },
+            {
+              "id": "section-vi",
+              "number": "VI",
+              "heading": "Consolidation"
+            },
+            {
+              "id": "section-vii",
+              "number": "VII",
+              "heading": "Dissolution"
+            },
+            {
+              "id": "section-viii",
+              "number": "VIII",
+              "heading": "Officers - General Provisions"
+            },
+            {
+              "id": "section-ix",
+              "number": "IX",
+              "heading": "Aldermanic Form of Government"
+            },
+            {
+              "id": "section-x",
+              "number": "X",
+              "heading": "Council-Manager Form of City Government"
+            },
+            {
+              "id": "section-xi",
+              "number": "XI",
+              "heading": "Statutory Strong-Mayor-Council Form of City Government"
+            },
+            {
+              "id": "section-xii",
+              "number": "XII",
+              "heading": "Statutory Town Board of Trustees Form of Government"
+            },
+            {
+              "id": "section-xiii",
+              "number": "XIII",
+              "heading": "Municipal Charters"
+            },
+            {
+              "id": "section-xiv",
+              "number": "XIV",
+              "heading": "Municipal Ordinances"
+            },
+            {
+              "id": "section-xv",
+              "number": "XV",
+              "heading": "Initiative and Referendum - Municipal Questions"
+            },
+            {
+              "id": "section-xvi",
+              "number": "XVI",
+              "heading": "Municipal Elections"
+            },
+            {
+              "id": "section-xvii",
+              "number": "XVII",
+              "heading": "Municipal Finances"
+            },
+            {
+              "id": "section-xviii",
+              "number": "XVIII",
+              "heading": "Change in Stautory Form of City Government"
+            },
+            {
+              "id": "section-xix",
+              "number": "XIX",
+              "heading": "Change of Name of Municipality"
+            },
+            {
+              "id": "section-xx",
+              "number": "XX",
+              "heading": "Changing Wards"
+            },
+            {
+              "id": "section-xxi",
+              "number": "XXI",
+              "heading": "Changing Limits"
+            },
+            {
+              "id": "section-xxii",
+              "number": "XXII",
+              "heading": "General Powers of Municipalities"
+            },
+            {
+              "id": "section-xxiii",
+              "number": "XXIII",
+              "heading": "Liability and Insurance"
+            },
+            {
+              "id": "section-xxiv",
+              "number": "XXIV",
+              "heading": "Oklahoma Municipal Power Authority Act"
+            },
+            {
+              "id": "section-xxv",
+              "number": "XXV",
+              "heading": "Oklahoma Municipal Energy Independence Act"
+            },
+            {
+              "id": "section-xxvi",
+              "number": "XXVI",
+              "heading": "Cemeteries"
+            },
+            {
+              "id": "section-xxvii",
+              "number": "XXVII",
+              "heading": "Courts"
+            },
+            {
+              "id": "section-xxviii",
+              "number": "XXVIII",
+              "heading": "Municipal Criminal Courts of Record - Cities Over 65,000"
+            },
+            {
+              "id": "section-xxix",
+              "number": "XXIX",
+              "heading": "Fire Departments"
+            },
+            {
+              "id": "section-xxx",
+              "number": "XXX",
+              "heading": "Hospitals"
+            },
+            {
+              "id": "section-xxxi",
+              "number": "XXXI",
+              "heading": "Libraries"
+            },
+            {
+              "id": "section-xxxii",
+              "number": "XXXII",
+              "heading": "Parking Stations"
+            },
+            {
+              "id": "section-xxxiii",
+              "number": "XXXIII",
+              "heading": "Parks and Recreation"
+            },
+            {
+              "id": "section-xxxiv",
+              "number": "XXXIV",
+              "heading": "Police Departments"
+            },
+            {
+              "id": "section-xxxv",
+              "number": "XXXV",
+              "heading": "Public Utilities"
+            },
+            {
+              "id": "section-xxxvi",
+              "number": "XXXVI",
+              "heading": "Streets and Roads"
+            },
+            {
+              "id": "section-xxxvii",
+              "number": "XXXVII",
+              "heading": "Sewer and Water Systems"
+            },
+            {
+              "id": "section-xxxviii",
+              "number": "XXXVIII",
+              "heading": "Urban Renewal"
+            },
+            {
+              "id": "section-xxxix",
+              "number": "XXXIX",
+              "heading": "Improvement District Act"
+            },
+            {
+              "id": "section-xl",
+              "number": "XL",
+              "heading": "Neighborhood Redevelopment Act"
+            },
+            {
+              "id": "section-xli",
+              "number": "XLI",
+              "heading": "Survey and Plat"
+            },
+            {
+              "id": "section-xlii",
+              "number": "XLII",
+              "heading": "Vacating Plats and Public Ways"
+            },
+            {
+              "id": "section-xliii",
+              "number": "XLIII",
+              "heading": "Buildings and Zoning"
+            },
+            {
+              "id": "section-xliv",
+              "number": "XLIV",
+              "heading": "Board of Adjustment"
+            },
+            {
+              "id": "section-xlv",
+              "number": "XLV",
+              "heading": "Municipal Planning Commissions"
+            },
+            {
+              "id": "section-xlvi",
+              "number": "XLVI",
+              "heading": "Regional Planning Commissions"
+            },
+            {
+              "id": "section-xlvii",
+              "number": "XLVII",
+              "heading": "City Planning - Cities With Populations Over 200,000"
+            },
+            {
+              "id": "section-xlviii",
+              "number": "XLVIII",
+              "heading": "Retirement Systems"
+            },
+            {
+              "id": "section-xlix",
+              "number": "XLIX",
+              "heading": "Firefighters Pension and Retirement System"
+            },
+            {
+              "id": "section-l",
+              "number": "L",
+              "heading": "Police Pension and Retirement System"
+            },
+            {
+              "id": "section-li",
+              "number": "LI",
+              "heading": "Fire and Police Arbitration"
+            },
+            {
+              "id": "section-li-a",
+              "number": "LI-A",
+              "heading": "Oklahoma Municipal Employee Collective Bargaining Act"
+            },
+            {
+              "id": "section-lii",
+              "number": "LII",
+              "heading": "Commission on Training Municipal Clerks, Treasurers, and Finance Officers"
+            },
+            {
+              "id": "section-lv",
+              "number": "LV",
+              "heading": "Severability  - Effective Date"
+            },
+            {
+              "id": "section-lvi",
+              "number": "LVI",
+              "heading": "Amateur Radio Antenna"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-12",
+      "number": "title-12",
+      "heading": "Title 12",
+      "children": [
+        {
+          "id": "chapter-title-12",
+          "number": "title-12",
+          "heading": "Title 12",
+          "section_count": 11,
+          "children": [
+            {
+              "id": "section-i",
+              "number": "I",
+              "heading": "Bases of Personal Jurisdiction Authorizing Service Outside State"
+            },
+            {
+              "id": "section-ii",
+              "number": "II",
+              "heading": "Service"
+            },
+            {
+              "id": "section-iii",
+              "number": "III",
+              "heading": "Taking Depositions"
+            },
+            {
+              "id": "section-iv",
+              "number": "IV",
+              "heading": "Determination of Foreign Law"
+            },
+            {
+              "id": "section-v",
+              "number": "V",
+              "heading": "Proof of Official Records"
+            },
+            {
+              "id": "section-vi",
+              "number": "VI",
+              "heading": "Miscellaneous"
+            },
+            {
+              "id": "section-vii",
+              "number": "VII",
+              "heading": "Expert and Opinion Testimony"
+            },
+            {
+              "id": "section-viii",
+              "number": "VIII",
+              "heading": "Hearsay"
+            },
+            {
+              "id": "section-ix",
+              "number": "IX",
+              "heading": "Authentication and Identification"
+            },
+            {
+              "id": "section-x",
+              "number": "X",
+              "heading": "Contents of Writings, Recordings and Photographs"
+            },
+            {
+              "id": "section-xi",
+              "number": "XI",
+              "heading": "Miscellaneous Provisions"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

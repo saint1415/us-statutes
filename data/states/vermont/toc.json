@@ -1,0 +1,1090 @@
+{
+  "state": "vermont",
+  "children": [
+    {
+      "id": "title-title-10-appendix-conservation-and-development",
+      "number": "title-10-appendix-conservation-and-development",
+      "heading": "Title 10 Appendix Conservation And Development",
+      "children": [
+        {
+          "id": "chapter-title-10-appendix-conservation-and-development",
+          "number": "title-10-appendix-conservation-and-development",
+          "heading": "Title 10 Appendix Conservation And Development",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-10-conservation-and-development",
+      "number": "title-10-conservation-and-development",
+      "heading": "Title 10 Conservation And Development",
+      "children": [
+        {
+          "id": "chapter-title-10-conservation-and-development",
+          "number": "title-10-conservation-and-development",
+          "heading": "Title 10 Conservation And Development",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-11-corporations-partnerships-and-associations",
+      "number": "title-11-corporations-partnerships-and-associations",
+      "heading": "Title 11 Corporations Partnerships And Associations",
+      "children": [
+        {
+          "id": "chapter-title-11-corporations-partnerships-and-associations",
+          "number": "title-11-corporations-partnerships-and-associations",
+          "heading": "Title 11 Corporations Partnerships And Associations",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-11a-vermont-business-corporations",
+      "number": "title-11a-vermont-business-corporations",
+      "heading": "Title 11A Vermont Business Corporations",
+      "children": [
+        {
+          "id": "chapter-title-11a-vermont-business-corporations",
+          "number": "title-11a-vermont-business-corporations",
+          "heading": "Title 11A Vermont Business Corporations",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-11b-nonprofit-corporations",
+      "number": "title-11b-nonprofit-corporations",
+      "heading": "Title 11B Nonprofit Corporations",
+      "children": [
+        {
+          "id": "chapter-title-11b-nonprofit-corporations",
+          "number": "title-11b-nonprofit-corporations",
+          "heading": "Title 11B Nonprofit Corporations",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-11c-mutual-benefit-enterprises",
+      "number": "title-11c-mutual-benefit-enterprises",
+      "heading": "Title 11C Mutual Benefit Enterprises",
+      "children": [
+        {
+          "id": "chapter-title-11c-mutual-benefit-enterprises",
+          "number": "title-11c-mutual-benefit-enterprises",
+          "heading": "Title 11C Mutual Benefit Enterprises",
+          "section_count": 18,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            },
+            {
+              "id": "section-001",
+              "number": "001",
+              "heading": "General ProvisionsContains: §§ 101 - 120"
+            },
+            {
+              "id": "section-002",
+              "number": "002",
+              "heading": "Filing and Annual ReportsContains: §§ 201 - 208"
+            },
+            {
+              "id": "section-003",
+              "number": "003",
+              "heading": "Formation and Initial Articles of Organization of Mutual Benefit EnterpriseContains: §§ 301 - 304"
+            },
+            {
+              "id": "section-004",
+              "number": "004",
+              "heading": "Amendment of Organic Rules of Mutual Benefit EnterpriseContains: §§ 401 - 407"
+            },
+            {
+              "id": "section-005",
+              "number": "005",
+              "heading": "MembersContains: §§ 501 - 517"
+            },
+            {
+              "id": "section-006",
+              "number": "006",
+              "heading": "Member's Interest in Mutual Benefit EnterpriseContains: §§ 601 - 605"
+            },
+            {
+              "id": "section-007",
+              "number": "007",
+              "heading": "Marketing ContractsContains: §§ 701 - 704"
+            },
+            {
+              "id": "section-008",
+              "number": "008",
+              "heading": "Directors and OfficersContains: §§ 801 - 823"
+            },
+            {
+              "id": "section-009",
+              "number": "009",
+              "heading": "IndemnificationContains: §§ 901 - 909"
+            },
+            {
+              "id": "section-010",
+              "number": "010",
+              "heading": "Contributions, Allocations, and DistributionsContains: §§ 1001 - 1008"
+            },
+            {
+              "id": "section-011",
+              "number": "011",
+              "heading": "DissociationContains: §§ 1101 - 1103"
+            },
+            {
+              "id": "section-012",
+              "number": "012",
+              "heading": "DissolutionContains: §§ 1201 - 1215"
+            },
+            {
+              "id": "section-013",
+              "number": "013",
+              "heading": "Action by MemberContains: §§ 1301 - 1305"
+            },
+            {
+              "id": "section-014",
+              "number": "014",
+              "heading": "Foreign EnterprisesContains: §§ 1401 - 1408"
+            },
+            {
+              "id": "section-015",
+              "number": "015",
+              "heading": "Disposition of AssetsContains: §§ 1501 - 1504"
+            },
+            {
+              "id": "section-016",
+              "number": "016",
+              "heading": "Conversion and MergerContains: §§ 1601 - 1612"
+            },
+            {
+              "id": "section-017",
+              "number": "017",
+              "heading": "Miscellaneous ProvisionsContains: §§ 1701 - 1703"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-12-court-procedure",
+      "number": "title-12-court-procedure",
+      "heading": "Title 12 Court Procedure",
+      "children": [
+        {
+          "id": "chapter-title-12-court-procedure",
+          "number": "title-12-court-procedure",
+          "heading": "Title 12 Court Procedure",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-13-crimes-and-criminal-procedure",
+      "number": "title-13-crimes-and-criminal-procedure",
+      "heading": "Title 13 Crimes And Criminal Procedure",
+      "children": [
+        {
+          "id": "chapter-title-13-crimes-and-criminal-procedure",
+          "number": "title-13-crimes-and-criminal-procedure",
+          "heading": "Title 13 Crimes And Criminal Procedure",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-14-decedents-estates-and-fiduciary-relations",
+      "number": "title-14-decedents-estates-and-fiduciary-relations",
+      "heading": "Title 14 Decedents Estates And Fiduciary Relations",
+      "children": [
+        {
+          "id": "chapter-title-14-decedents-estates-and-fiduciary-relations",
+          "number": "title-14-decedents-estates-and-fiduciary-relations",
+          "heading": "Title 14 Decedents Estates And Fiduciary Relations",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-14a-trusts",
+      "number": "title-14a-trusts",
+      "heading": "Title 14A Trusts",
+      "children": [
+        {
+          "id": "chapter-title-14a-trusts",
+          "number": "title-14a-trusts",
+          "heading": "Title 14A Trusts",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-15-domestic-relations",
+      "number": "title-15-domestic-relations",
+      "heading": "Title 15 Domestic Relations",
+      "children": [
+        {
+          "id": "chapter-title-15-domestic-relations",
+          "number": "title-15-domestic-relations",
+          "heading": "Title 15 Domestic Relations",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-15a-adoption-act",
+      "number": "title-15a-adoption-act",
+      "heading": "Title 15A Adoption Act",
+      "children": [
+        {
+          "id": "chapter-title-15a-adoption-act",
+          "number": "title-15a-adoption-act",
+          "heading": "Title 15A Adoption Act",
+          "section_count": 10,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            },
+            {
+              "id": "section-001",
+              "number": "001",
+              "heading": "General ProvisionsContains: §§ 101 - 114"
+            },
+            {
+              "id": "section-002",
+              "number": "002",
+              "heading": "Adoption of MinorsContains: §§ 101 - 409"
+            },
+            {
+              "id": "section-003",
+              "number": "003",
+              "heading": "General Procedure for AdoptionContains: §§ 101 - 802"
+            },
+            {
+              "id": "section-004",
+              "number": "004",
+              "heading": "Adoption of Minor Stepchild by StepparentContains: §§ 101 - 113"
+            },
+            {
+              "id": "section-005",
+              "number": "005",
+              "heading": "Adoption of Adults and Emancipated MinorsContains: §§ 101 - 109"
+            },
+            {
+              "id": "section-006",
+              "number": "006",
+              "heading": "Records of Adoption Proceeding; Retention, Confidentiality, and AccessContains: §§ 101 - 112"
+            },
+            {
+              "id": "section-007",
+              "number": "007",
+              "heading": "Prohibited and Permissible Activities in Connection with AdoptionContains: §§ 101 - 105"
+            },
+            {
+              "id": "section-008",
+              "number": "008",
+              "heading": "Interstate Compacts on Adoption and Medical AssistanceContains: §§ 101 - 101"
+            },
+            {
+              "id": "section-009",
+              "number": "009",
+              "heading": "Enforcement, Modification, and Termination of Postadoption Contact AgreementsContains: §§ 101 - 101"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-15b-uniform-interstate-family-support-act-1996",
+      "number": "title-15b-uniform-interstate-family-support-act-1996",
+      "heading": "Title 15B Uniform Interstate Family Support Act 1996",
+      "children": [
+        {
+          "id": "chapter-title-15b-uniform-interstate-family-support-act-1996",
+          "number": "title-15b-uniform-interstate-family-support-act-1996",
+          "heading": "Title 15B Uniform Interstate Family Support Act 1996",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-15c-parentage-proceedings",
+      "number": "title-15c-parentage-proceedings",
+      "heading": "Title 15C Parentage Proceedings",
+      "children": [
+        {
+          "id": "chapter-title-15c-parentage-proceedings",
+          "number": "title-15c-parentage-proceedings",
+          "heading": "Title 15C Parentage Proceedings",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-16-appendix-education-charters-and-agreements",
+      "number": "title-16-appendix-education-charters-and-agreements",
+      "heading": "Title 16 Appendix Education Charters And Agreements",
+      "children": [
+        {
+          "id": "chapter-title-16-appendix-education-charters-and-agreements",
+          "number": "title-16-appendix-education-charters-and-agreements",
+          "heading": "Title 16 Appendix Education Charters And Agreements",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-16-education",
+      "number": "title-16-education",
+      "heading": "Title 16 Education",
+      "children": [
+        {
+          "id": "chapter-title-16-education",
+          "number": "title-16-education",
+          "heading": "Title 16 Education",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-17-elections",
+      "number": "title-17-elections",
+      "heading": "Title 17 Elections",
+      "children": [
+        {
+          "id": "chapter-title-17-elections",
+          "number": "title-17-elections",
+          "heading": "Title 17 Elections",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-18-health",
+      "number": "title-18-health",
+      "heading": "Title 18 Health",
+      "children": [
+        {
+          "id": "chapter-title-18-health",
+          "number": "title-18-health",
+          "heading": "Title 18 Health",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-19-highways",
+      "number": "title-19-highways",
+      "heading": "Title 19 Highways",
+      "children": [
+        {
+          "id": "chapter-title-19-highways",
+          "number": "title-19-highways",
+          "heading": "Title 19 Highways",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-20-internal-security-and-public-safety",
+      "number": "title-20-internal-security-and-public-safety",
+      "heading": "Title 20 Internal Security And Public Safety",
+      "children": [
+        {
+          "id": "chapter-title-20-internal-security-and-public-safety",
+          "number": "title-20-internal-security-and-public-safety",
+          "heading": "Title 20 Internal Security And Public Safety",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-21-labor",
+      "number": "title-21-labor",
+      "heading": "Title 21 Labor",
+      "children": [
+        {
+          "id": "chapter-title-21-labor",
+          "number": "title-21-labor",
+          "heading": "Title 21 Labor",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-22-libraries-history-and-information-technology",
+      "number": "title-22-libraries-history-and-information-technology",
+      "heading": "Title 22 Libraries History And Information Technology",
+      "children": [
+        {
+          "id": "chapter-title-22-libraries-history-and-information-technology",
+          "number": "title-22-libraries-history-and-information-technology",
+          "heading": "Title 22 Libraries History And Information Technology",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-23-motor-vehicles",
+      "number": "title-23-motor-vehicles",
+      "heading": "Title 23 Motor Vehicles",
+      "children": [
+        {
+          "id": "chapter-title-23-motor-vehicles",
+          "number": "title-23-motor-vehicles",
+          "heading": "Title 23 Motor Vehicles",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-24-appendix-municipal-charters",
+      "number": "title-24-appendix-municipal-charters",
+      "heading": "Title 24 Appendix Municipal Charters",
+      "children": [
+        {
+          "id": "chapter-title-24-appendix-municipal-charters",
+          "number": "title-24-appendix-municipal-charters",
+          "heading": "Title 24 Appendix Municipal Charters",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-24-municipal-and-county-government",
+      "number": "title-24-municipal-and-county-government",
+      "heading": "Title 24 Municipal And County Government",
+      "children": [
+        {
+          "id": "chapter-title-24-municipal-and-county-government",
+          "number": "title-24-municipal-and-county-government",
+          "heading": "Title 24 Municipal And County Government",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-25-navigation-and-waters",
+      "number": "title-25-navigation-and-waters",
+      "heading": "Title 25 Navigation And Waters",
+      "children": [
+        {
+          "id": "chapter-title-25-navigation-and-waters",
+          "number": "title-25-navigation-and-waters",
+          "heading": "Title 25 Navigation And Waters",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-26-professions-and-occupations",
+      "number": "title-26-professions-and-occupations",
+      "heading": "Title 26 Professions And Occupations",
+      "children": [
+        {
+          "id": "chapter-title-26-professions-and-occupations",
+          "number": "title-26-professions-and-occupations",
+          "heading": "Title 26 Professions And Occupations",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-27-property",
+      "number": "title-27-property",
+      "heading": "Title 27 Property",
+      "children": [
+        {
+          "id": "chapter-title-27-property",
+          "number": "title-27-property",
+          "heading": "Title 27 Property",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-27a-uniform-common-interest-ownership-act-1994",
+      "number": "title-27a-uniform-common-interest-ownership-act-1994",
+      "heading": "Title 27A Uniform Common Interest Ownership Act 1994",
+      "children": [
+        {
+          "id": "chapter-title-27a-uniform-common-interest-ownership-act-1994",
+          "number": "title-27a-uniform-common-interest-ownership-act-1994",
+          "heading": "Title 27A Uniform Common Interest Ownership Act 1994",
+          "section_count": 5,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            },
+            {
+              "id": "section-001",
+              "number": "001",
+              "heading": "General ProvisionsContains: §§ 1 - 1"
+            },
+            {
+              "id": "section-002",
+              "number": "002",
+              "heading": "Creation, Alteration, and Termination of Common Interest CommunitiesContains: §§ 2 - 2"
+            },
+            {
+              "id": "section-003",
+              "number": "003",
+              "heading": "Management of the Common Interest CommunityContains: §§ 3 - 3"
+            },
+            {
+              "id": "section-004",
+              "number": "004",
+              "heading": "Protection of PurchasersContains: §§ 4 - 4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-28-public-institutions-and-corrections",
+      "number": "title-28-public-institutions-and-corrections",
+      "heading": "Title 28 Public Institutions And Corrections",
+      "children": [
+        {
+          "id": "chapter-title-28-public-institutions-and-corrections",
+          "number": "title-28-public-institutions-and-corrections",
+          "heading": "Title 28 Public Institutions And Corrections",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-29-public-property-and-supplies",
+      "number": "title-29-public-property-and-supplies",
+      "heading": "Title 29 Public Property And Supplies",
+      "children": [
+        {
+          "id": "chapter-title-29-public-property-and-supplies",
+          "number": "title-29-public-property-and-supplies",
+          "heading": "Title 29 Public Property And Supplies",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            },
+            {
+              "id": "section-in",
+              "number": "in",
+              "heading": "State Buildings"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-3-appendix-executive-orders",
+      "number": "title-3-appendix-executive-orders",
+      "heading": "Title 3 Appendix Executive Orders",
+      "children": [
+        {
+          "id": "chapter-title-3-appendix-executive-orders",
+          "number": "title-3-appendix-executive-orders",
+          "heading": "Title 3 Appendix Executive Orders",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-30-public-service",
+      "number": "title-30-public-service",
+      "heading": "Title 30 Public Service",
+      "children": [
+        {
+          "id": "chapter-title-30-public-service",
+          "number": "title-30-public-service",
+          "heading": "Title 30 Public Service",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-31-recreation-and-sports",
+      "number": "title-31-recreation-and-sports",
+      "heading": "Title 31 Recreation And Sports",
+      "children": [
+        {
+          "id": "chapter-title-31-recreation-and-sports",
+          "number": "title-31-recreation-and-sports",
+          "heading": "Title 31 Recreation And Sports",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-32-taxation-and-finance",
+      "number": "title-32-taxation-and-finance",
+      "heading": "Title 32 Taxation And Finance",
+      "children": [
+        {
+          "id": "chapter-title-32-taxation-and-finance",
+          "number": "title-32-taxation-and-finance",
+          "heading": "Title 32 Taxation And Finance",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-33-human-services",
+      "number": "title-33-human-services",
+      "heading": "Title 33 Human Services",
+      "children": [
+        {
+          "id": "chapter-title-33-human-services",
+          "number": "title-33-human-services",
+          "heading": "Title 33 Human Services",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-4-judiciary",
+      "number": "title-4-judiciary",
+      "heading": "Title 4 Judiciary",
+      "children": [
+        {
+          "id": "chapter-title-4-judiciary",
+          "number": "title-4-judiciary",
+          "heading": "Title 4 Judiciary",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-5-aeronautics-and-surface-transportation",
+      "number": "title-5-aeronautics-and-surface-transportation",
+      "heading": "Title 5 Aeronautics And Surface Transportation",
+      "children": [
+        {
+          "id": "chapter-title-5-aeronautics-and-surface-transportation",
+          "number": "title-5-aeronautics-and-surface-transportation",
+          "heading": "Title 5 Aeronautics And Surface Transportation",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-6-agriculture",
+      "number": "title-6-agriculture",
+      "heading": "Title 6 Agriculture",
+      "children": [
+        {
+          "id": "chapter-title-6-agriculture",
+          "number": "title-6-agriculture",
+          "heading": "Title 6 Agriculture",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-7-alcoholic-beverages-cannabis-and-tobacco",
+      "number": "title-7-alcoholic-beverages-cannabis-and-tobacco",
+      "heading": "Title 7 Alcoholic Beverages Cannabis And Tobacco",
+      "children": [
+        {
+          "id": "chapter-title-7-alcoholic-beverages-cannabis-and-tobacco",
+          "number": "title-7-alcoholic-beverages-cannabis-and-tobacco",
+          "heading": "Title 7 Alcoholic Beverages Cannabis And Tobacco",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-8-banking-and-insurance",
+      "number": "title-8-banking-and-insurance",
+      "heading": "Title 8 Banking And Insurance",
+      "children": [
+        {
+          "id": "chapter-title-8-banking-and-insurance",
+          "number": "title-8-banking-and-insurance",
+          "heading": "Title 8 Banking And Insurance",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-9-commerce-and-trade",
+      "number": "title-9-commerce-and-trade",
+      "heading": "Title 9 Commerce And Trade",
+      "children": [
+        {
+          "id": "chapter-title-9-commerce-and-trade",
+          "number": "title-9-commerce-and-trade",
+          "heading": "Title 9 Commerce And Trade",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            },
+            {
+              "id": "section-urities",
+              "number": "urities",
+              "heading": "Act"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-9a-uniform-commercial-code",
+      "number": "title-9a-uniform-commercial-code",
+      "heading": "Title 9A Uniform Commercial Code",
+      "children": [
+        {
+          "id": "chapter-title-9a-uniform-commercial-code",
+          "number": "title-9a-uniform-commercial-code",
+          "heading": "Title 9A Uniform Commercial Code",
+          "section_count": 14,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of the Senate"
+            },
+            {
+              "id": "section-001",
+              "number": "001",
+              "heading": "General ProvisionsContains: §§ 1 - 1"
+            },
+            {
+              "id": "section-002",
+              "number": "002",
+              "heading": "SalesContains: §§ 2 - 2"
+            },
+            {
+              "id": "section-002a",
+              "number": "002A",
+              "heading": "LeasesContains: §§ 2A - 2A"
+            },
+            {
+              "id": "section-003",
+              "number": "003",
+              "heading": "Negotiable InstrumentsContains: §§ 3 - 3"
+            },
+            {
+              "id": "section-004",
+              "number": "004",
+              "heading": "Bank Deposits and CollectionsContains: §§ 4 - 4"
+            },
+            {
+              "id": "section-004a",
+              "number": "004A",
+              "heading": "Funds TransfersContains: §§ 4A - 4A"
+            },
+            {
+              "id": "section-005",
+              "number": "005",
+              "heading": "Letters of CreditContains: §§ 5 - 5"
+            },
+            {
+              "id": "section-006",
+              "number": "006",
+              "heading": "Bulk TransfersContains: §§ 6 - 6"
+            },
+            {
+              "id": "section-007",
+              "number": "007",
+              "heading": "Documents of TitleContains: §§ 7 - 7"
+            },
+            {
+              "id": "section-008",
+              "number": "008",
+              "heading": "Investment SecuritiesContains: §§ 8 - 8"
+            },
+            {
+              "id": "section-009",
+              "number": "009",
+              "heading": "Secured TransactionsContains: §§ 9 - 9"
+            },
+            {
+              "id": "section-ured",
+              "number": "ured",
+              "heading": "Transactions"
+            },
+            {
+              "id": "section-012",
+              "number": "012",
+              "heading": "Controllable Electronic RecordsContains: §§ 12 - 12"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

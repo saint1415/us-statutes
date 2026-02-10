@@ -1,0 +1,28 @@
+{
+  "state": "colorado",
+  "state_abbr": "CO",
+  "code_name": "Colorado Revised Statutes",
+  "source": "official_website",
+  "source_url": "https://leg.colorado.gov/colorado-revised-statutes",
+  "last_updated": "2026-02-10T14:11:59.707203+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "title",
+      "label": "Title"
+    },
+    {
+      "level": "article",
+      "label": "Article"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 5,
+    "chapters": 5,
+    "sections": 7
+  }
+}

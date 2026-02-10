@@ -1,0 +1,115 @@
+{
+  "state": "california",
+  "children": [
+    {
+      "id": "title-california-constitution-cons",
+      "number": "california-constitution-cons",
+      "heading": "California Constitution Cons",
+      "children": [
+        {
+          "id": "chapter-california-constitution-cons",
+          "number": "california-constitution-cons",
+          "heading": "California Constitution Cons",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-1",
+              "number": "1",
+              "heading": "SEC. 32"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-corporations-code-corp",
+      "number": "corporations-code-corp",
+      "heading": "Corporations Code Corp",
+      "children": [
+        {
+          "id": "chapter-corporations-code-corp",
+          "number": "corporations-code-corp",
+          "heading": "Corporations Code Corp",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-1770101",
+              "number": "17701.01",
+              "heading": "17713.13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-health-and-safety-code-hsc",
+      "number": "health-and-safety-code-hsc",
+      "heading": "Health And Safety Code Hsc",
+      "children": [
+        {
+          "id": "chapter-health-and-safety-code-hsc",
+          "number": "health-and-safety-code-hsc",
+          "heading": "Health And Safety Code Hsc",
+          "section_count": 3,
+          "children": [
+            {
+              "id": "section-179690",
+              "number": "1796.90",
+              "heading": "1796.91"
+            },
+            {
+              "id": "section-119994",
+              "number": "11999.4",
+              "heading": "11999.13"
+            },
+            {
+              "id": "section-1199920",
+              "number": "11999.20",
+              "heading": "11999.25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-streets-and-highways-code-shc",
+      "number": "streets-and-highways-code-shc",
+      "heading": "Streets And Highways Code Shc",
+      "children": [
+        {
+          "id": "chapter-streets-and-highways-code-shc",
+          "number": "streets-and-highways-code-shc",
+          "heading": "Streets And Highways Code Shc",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-20045",
+              "number": "2004.5",
+              "heading": "2704.79"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-vehicle-code-veh",
+      "number": "vehicle-code-veh",
+      "heading": "Vehicle Code Veh",
+      "children": [
+        {
+          "id": "chapter-vehicle-code-veh",
+          "number": "vehicle-code-veh",
+          "heading": "Vehicle Code Veh",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-400001",
+              "number": "40000.1",
+              "heading": "41610"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

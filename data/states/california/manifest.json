@@ -1,0 +1,32 @@
+{
+  "state": "california",
+  "state_abbr": "CA",
+  "code_name": "California Codes",
+  "source": "official_website",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
+  "last_updated": "2026-02-10T14:11:23.284226+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "code",
+      "label": "Code"
+    },
+    {
+      "level": "division",
+      "label": "Division"
+    },
+    {
+      "level": "chapter",
+      "label": "Chapter"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 5,
+    "chapters": 5,
+    "sections": 7
+  }
+}

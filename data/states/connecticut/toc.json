@@ -1,0 +1,1785 @@
+{
+  "state": "connecticut",
+  "children": [
+    {
+      "id": "title-01",
+      "number": "01",
+      "heading": "TITLE 1*",
+      "children": [
+        {
+          "id": "chapter-01",
+          "number": "01",
+          "heading": "TITLE 1*",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "1-1 to 1-3b"
+            },
+            {
+              "id": "section-unknown",
+              "number": ".",
+              "heading": "1-56r"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-02",
+      "number": "02",
+      "heading": "TITLE 2",
+      "children": [
+        {
+          "id": "chapter-02",
+          "number": "02",
+          "heading": "TITLE 2",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "2-1 to 2-53n"
+            },
+            {
+              "id": "section-unknown",
+              "number": ".",
+              "heading": "2-80"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-02",
+      "number": "02",
+      "heading": "TITLE 2c",
+      "children": [
+        {
+          "id": "chapter-02",
+          "number": "02",
+          "heading": "TITLE 2c",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "2c-1 to 2c-20"
+            },
+            {
+              "id": "section-unknown",
+              "number": ".",
+              "heading": "2c-21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-03",
+      "number": "03",
+      "heading": "TITLE 3",
+      "children": [
+        {
+          "id": "chapter-03",
+          "number": "03",
+          "heading": "TITLE 3",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "3-1 to 3-10f"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-04",
+      "number": "04",
+      "heading": "TITLE 4",
+      "children": [
+        {
+          "id": "chapter-04",
+          "number": "04",
+          "heading": "TITLE 4",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "4-1 to 4-23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-04",
+      "number": "04",
+      "heading": "TITLE 4a",
+      "children": [
+        {
+          "id": "chapter-04",
+          "number": "04",
+          "heading": "TITLE 4a",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "4a-1 to 4a-18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-04",
+      "number": "04",
+      "heading": "TITLE 4b",
+      "children": [
+        {
+          "id": "chapter-04",
+          "number": "04",
+          "heading": "TITLE 4b",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "4b-1 to 4b-50"
+            },
+            {
+              "id": "section-urity",
+              "number": "urity",
+              "heading": "for State Facilities"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-04",
+      "number": "04",
+      "heading": "TITLE 4c",
+      "children": [
+        {
+          "id": "chapter-04",
+          "number": "04",
+          "heading": "TITLE 4c",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "4c-1 and 4c-2. Department of Business Regulation. Secretary or department head; appointment and general responsibilities; divisions within department. Divisions of Banking, Insurance, Liquor Control, Public Utility Control and Consumer Counsel. Banking Commissioner, Insurance Commissioner; appointme"
+            },
+            {
+              "id": "section-4c-3",
+              "number": "4c-3.",
+              "heading": "Divisions to retain powers and functions of predecessor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-04",
+      "number": "04",
+      "heading": "TITLE 4d",
+      "children": [
+        {
+          "id": "chapter-04",
+          "number": "04",
+          "heading": "TITLE 4d",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "4d-1 to 4d-79"
+            },
+            {
+              "id": "section-unknown",
+              "number": ".",
+              "heading": "4d-100"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-04",
+      "number": "04",
+      "heading": "TITLE 4e",
+      "children": [
+        {
+          "id": "chapter-04",
+          "number": "04",
+          "heading": "TITLE 4e",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "4e-1 to 4e-69"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-05",
+      "number": "05",
+      "heading": "TITLE 5*",
+      "children": [
+        {
+          "id": "chapter-05",
+          "number": "05",
+          "heading": "TITLE 5*",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "5-1 to 5-93b"
+            },
+            {
+              "id": "section-unknown",
+              "number": ".",
+              "heading": "5-192nn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-06",
+      "number": "06",
+      "heading": "TITLE 6",
+      "children": [
+        {
+          "id": "chapter-06",
+          "number": "06",
+          "heading": "TITLE 6",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "6-1 to 6-2b"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-07",
+      "number": "07",
+      "heading": "TITLE 7*",
+      "children": [
+        {
+          "id": "chapter-07",
+          "number": "07",
+          "heading": "TITLE 7*",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "7-1 to 7-9d"
+            },
+            {
+              "id": "section-unknown",
+              "number": ".",
+              "heading": "7-233ii"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-08",
+      "number": "08",
+      "heading": "TITLE 8*",
+      "children": [
+        {
+          "id": "chapter-08",
+          "number": "08",
+          "heading": "TITLE 8*",
+          "section_count": 3,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "8-1 to 8-13a"
+            },
+            {
+              "id": "section-unknown",
+              "number": ".",
+              "heading": "8-17a"
+            },
+            {
+              "id": "section-urity",
+              "number": "urity",
+              "heading": "Deposit Assistance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-09",
+      "number": "09",
+      "heading": "TITLE 9*",
+      "children": [
+        {
+          "id": "chapter-09",
+          "number": "09",
+          "heading": "TITLE 9*",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "9-1 to 9-8a"
+            },
+            {
+              "id": "section-unknown",
+              "number": ".",
+              "heading": "9-760"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-10",
+      "number": "10",
+      "heading": "TITLE 10*",
+      "children": [
+        {
+          "id": "chapter-10",
+          "number": "10",
+          "heading": "TITLE 10*",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "10-1 to 10-14d"
+            },
+            {
+              "id": "section-unknown",
+              "number": ".",
+              "heading": "10-380"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-10",
+      "number": "10",
+      "heading": "TITLE 10a",
+      "children": [
+        {
+          "id": "chapter-10",
+          "number": "10",
+          "heading": "TITLE 10a",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "10a-1 to 10a-60"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-11",
+      "number": "11",
+      "heading": "TITLE 11",
+      "children": [
+        {
+          "id": "chapter-11",
+          "number": "11",
+          "heading": "TITLE 11",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "11-1 to 11-9d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-12",
+      "number": "12",
+      "heading": "TITLE 12*",
+      "children": [
+        {
+          "id": "chapter-12",
+          "number": "12",
+          "heading": "TITLE 12*",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "12-1 to 12-34e"
+            },
+            {
+              "id": "section-unknown",
+              "number": ".",
+              "heading": "12-268s"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-13",
+      "number": "13",
+      "heading": "TITLE 13",
+      "children": [
+        {
+          "id": "chapter-13",
+          "number": "13",
+          "heading": "TITLE 13",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "13-1 to 13-249"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-13",
+      "number": "13",
+      "heading": "TITLE 13a*",
+      "children": [
+        {
+          "id": "chapter-13",
+          "number": "13",
+          "heading": "TITLE 13a*",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "13a-1 to 13a-13a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-13",
+      "number": "13",
+      "heading": "TITLE 13b*",
+      "children": [
+        {
+          "id": "chapter-13",
+          "number": "13",
+          "heading": "TITLE 13b*",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "13b-1 to 13b-57c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-14",
+      "number": "14",
+      "heading": "TITLE 14*",
+      "children": [
+        {
+          "id": "chapter-14",
+          "number": "14",
+          "heading": "TITLE 14*",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "14-1 to 14-164a"
+            },
+            {
+              "id": "section-unknown",
+              "number": ".",
+              "heading": "14-164aa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-15",
+      "number": "15",
+      "heading": "TITLE 15*",
+      "children": [
+        {
+          "id": "chapter-15",
+          "number": "15",
+          "heading": "TITLE 15*",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "15-1 to 15-26a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-16",
+      "number": "16",
+      "heading": "TITLE 16*",
+      "children": [
+        {
+          "id": "chapter-16",
+          "number": "16",
+          "heading": "TITLE 16*",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "16-1 to 16-50f"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-16",
+      "number": "16",
+      "heading": "TITLE 16a",
+      "children": [
+        {
+          "id": "chapter-16",
+          "number": "16",
+          "heading": "TITLE 16a",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "16a-1 to 16a-16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-17",
+      "number": "17",
+      "heading": "TITLE 17",
+      "children": [
+        {
+          "id": "chapter-17",
+          "number": "17",
+          "heading": "TITLE 17",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "17-1 to 17-675"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-17",
+      "number": "17",
+      "heading": "TITLE 17a*",
+      "children": [
+        {
+          "id": "chapter-17",
+          "number": "17",
+          "heading": "TITLE 17a*",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "17a-1 to 17a-89"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-17",
+      "number": "17",
+      "heading": "TITLE 17b",
+      "children": [
+        {
+          "id": "chapter-17",
+          "number": "17",
+          "heading": "TITLE 17b",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "17b-1 to 17b-59g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-18",
+      "number": "18",
+      "heading": "TITLE 18*",
+      "children": [
+        {
+          "id": "chapter-18",
+          "number": "18",
+          "heading": "TITLE 18*",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "18-1 to 18-23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-19",
+      "number": "19",
+      "heading": "TITLE 19",
+      "children": [
+        {
+          "id": "chapter-19",
+          "number": "19",
+          "heading": "TITLE 19",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "19-1 to 19-626d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-19",
+      "number": "19",
+      "heading": "TITLE 19a*",
+      "children": [
+        {
+          "id": "chapter-19",
+          "number": "19",
+          "heading": "TITLE 19a*",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "19a-1 to 19a-134"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-20",
+      "number": "20",
+      "heading": "TITLE 20*",
+      "children": [
+        {
+          "id": "chapter-20",
+          "number": "20",
+          "heading": "TITLE 20*",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "20-1 to 20-7i"
+            },
+            {
+              "id": "section-unknown",
+              "number": ".",
+              "heading": "20-278h"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-21",
+      "number": "21",
+      "heading": "TITLE 21*",
+      "children": [
+        {
+          "id": "chapter-21",
+          "number": "21",
+          "heading": "TITLE 21*",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "21-1 to 21-5a"
+            },
+            {
+              "id": "section-unknown",
+              "number": ".",
+              "heading": "21-48"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-21",
+      "number": "21",
+      "heading": "TITLE 21a*",
+      "children": [
+        {
+          "id": "chapter-21",
+          "number": "21",
+          "heading": "TITLE 21a*",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "21a-1 to 21a-12g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-22",
+      "number": "22",
+      "heading": "TITLE 22*",
+      "children": [
+        {
+          "id": "chapter-22",
+          "number": "22",
+          "heading": "TITLE 22*",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "22-1 to 22-26z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-22",
+      "number": "22",
+      "heading": "TITLE 22a*",
+      "children": [
+        {
+          "id": "chapter-22",
+          "number": "22",
+          "heading": "TITLE 22a*",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "22a-1 to 22a-27y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-23",
+      "number": "23",
+      "heading": "TITLE 23",
+      "children": [
+        {
+          "id": "chapter-23",
+          "number": "23",
+          "heading": "TITLE 23",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "23-1 to 23-27k"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-24",
+      "number": "24",
+      "heading": "TITLE 24",
+      "children": [
+        {
+          "id": "chapter-24",
+          "number": "24",
+          "heading": "TITLE 24",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "24-1 to 24-4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-25",
+      "number": "25",
+      "heading": "TITLE 25",
+      "children": [
+        {
+          "id": "chapter-25",
+          "number": "25",
+          "heading": "TITLE 25",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "25-1 to 25-18"
+            },
+            {
+              "id": "section-unknown",
+              "number": ".",
+              "heading": "25-109q"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-26",
+      "number": "26",
+      "heading": "TITLE 26",
+      "children": [
+        {
+          "id": "chapter-26",
+          "number": "26",
+          "heading": "TITLE 26",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "26-1 to 26-186a"
+            },
+            {
+              "id": "section-unknown",
+              "number": ".",
+              "heading": "26-302"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-27",
+      "number": "27",
+      "heading": "TITLE 27",
+      "children": [
+        {
+          "id": "chapter-27",
+          "number": "27",
+          "heading": "TITLE 27",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "27-1 to 27-100g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-28",
+      "number": "28",
+      "heading": "TITLE 28",
+      "children": [
+        {
+          "id": "chapter-28",
+          "number": "28",
+          "heading": "TITLE 28",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "28-1 to 28-22"
+            },
+            {
+              "id": "section-unknown",
+              "number": ".",
+              "heading": "28-22d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-29",
+      "number": "29",
+      "heading": "TITLE 29",
+      "children": [
+        {
+          "id": "chapter-29",
+          "number": "29",
+          "heading": "TITLE 29",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "29-1 to 29-1yy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-30",
+      "number": "30",
+      "heading": "TITLE 30*",
+      "children": [
+        {
+          "id": "chapter-30",
+          "number": "30",
+          "heading": "TITLE 30*",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "30-1 to 30-118"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-31",
+      "number": "31",
+      "heading": "TITLE 31",
+      "children": [
+        {
+          "id": "chapter-31",
+          "number": "31",
+          "heading": "TITLE 31",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "31-1 to 31-11k"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-32",
+      "number": "32",
+      "heading": "TITLE 32",
+      "children": [
+        {
+          "id": "chapter-32",
+          "number": "32",
+          "heading": "TITLE 32",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "32-1 to 32-9zz"
+            },
+            {
+              "id": "section-unknown",
+              "number": ".",
+              "heading": "32-31a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-33",
+      "number": "33",
+      "heading": "TITLE 33",
+      "children": [
+        {
+          "id": "chapter-33",
+          "number": "33",
+          "heading": "TITLE 33",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "33-1 to 33-11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-34",
+      "number": "34",
+      "heading": "TITLE 34",
+      "children": [
+        {
+          "id": "chapter-34",
+          "number": "34",
+          "heading": "TITLE 34",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "34-1 to 34-8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-35",
+      "number": "35",
+      "heading": "TITLE 35",
+      "children": [
+        {
+          "id": "chapter-35",
+          "number": "35",
+          "heading": "TITLE 35",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "35-1 to 35-3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-36",
+      "number": "36",
+      "heading": "TITLE 36",
+      "children": [
+        {
+          "id": "chapter-36",
+          "number": "36",
+          "heading": "TITLE 36",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "36-1 to 36-583"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-36",
+      "number": "36",
+      "heading": "TITLE 36a*",
+      "children": [
+        {
+          "id": "chapter-36",
+          "number": "36",
+          "heading": "TITLE 36a*",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "36a-1 to 36a-9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-36",
+      "number": "36",
+      "heading": "TITLE 36b",
+      "children": [
+        {
+          "id": "chapter-36",
+          "number": "36",
+          "heading": "TITLE 36b",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-unknown",
+              "number": ".",
+              "heading": "36b-1"
+            },
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "36b-2 to 36b-39"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-37",
+      "number": "37",
+      "heading": "TITLE 37",
+      "children": [
+        {
+          "id": "chapter-37",
+          "number": "37",
+          "heading": "TITLE 37",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "37-1 to 37-10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-38",
+      "number": "38",
+      "heading": "TITLE 38",
+      "children": [
+        {
+          "id": "chapter-38",
+          "number": "38",
+          "heading": "TITLE 38",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "38-1 to 38-546"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-38",
+      "number": "38",
+      "heading": "TITLE 38a*",
+      "children": [
+        {
+          "id": "chapter-38",
+          "number": "38",
+          "heading": "TITLE 38a*",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "38a-1 to 38a-40"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-39",
+      "number": "39",
+      "heading": "TITLE 39",
+      "children": [
+        {
+          "id": "chapter-39",
+          "number": "39",
+          "heading": "TITLE 39",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "39-1 to 39-190. Act of 1897."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-40",
+      "number": "40",
+      "heading": "TITLE 40",
+      "children": [
+        {
+          "id": "chapter-40",
+          "number": "40",
+          "heading": "TITLE 40",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-unknown",
+              "number": ".",
+              "heading": "40-1"
+            },
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "40-2 to 40-59"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-41",
+      "number": "41",
+      "heading": "TITLE 41",
+      "children": [
+        {
+          "id": "chapter-41",
+          "number": "41",
+          "heading": "TITLE 41",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "41-1 to 41-53"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-42",
+      "number": "42",
+      "heading": "TITLE 42*",
+      "children": [
+        {
+          "id": "chapter-42",
+          "number": "42",
+          "heading": "TITLE 42*",
+          "section_count": 5,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "42-1 to 42-76"
+            },
+            {
+              "id": "section-unknown",
+              "number": ".",
+              "heading": "42-116aa"
+            },
+            {
+              "id": "section-42-511",
+              "number": "42-511",
+              "heading": "to 42-514"
+            },
+            {
+              "id": "section-42-515",
+              "number": "42-515",
+              "heading": "to 42-899"
+            },
+            {
+              "id": "section-42-900",
+              "number": "42-900",
+              "heading": "to 42-901"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-42",
+      "number": "42",
+      "heading": "TITLE 42a*",
+      "children": [
+        {
+          "id": "chapter-42",
+          "number": "42",
+          "heading": "TITLE 42a*",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "42a-1-101 to 42a-1-310"
+            },
+            {
+              "id": "section-ured",
+              "number": "ured",
+              "heading": "Transactions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-42",
+      "number": "42",
+      "heading": "TITLE 42b",
+      "children": [
+        {
+          "id": "chapter-42",
+          "number": "42",
+          "heading": "TITLE 42b",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "42b-1 to 42b-15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-43",
+      "number": "43",
+      "heading": "TITLE 43",
+      "children": [
+        {
+          "id": "chapter-43",
+          "number": "43",
+          "heading": "TITLE 43",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "43-1 to 43-9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-44",
+      "number": "44",
+      "heading": "TITLE 44",
+      "children": [
+        {
+          "id": "chapter-44",
+          "number": "44",
+          "heading": "TITLE 44",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "44-1 to 44-6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-45",
+      "number": "45",
+      "heading": "TITLE 45",
+      "children": [
+        {
+          "id": "chapter-45",
+          "number": "45",
+          "heading": "TITLE 45",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "45-1 to 45-363"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-45",
+      "number": "45",
+      "heading": "TITLE 45a",
+      "children": [
+        {
+          "id": "chapter-45",
+          "number": "45",
+          "heading": "TITLE 45a",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "45a-1 to 45a-97"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-46",
+      "number": "46",
+      "heading": "TITLE 46",
+      "children": [
+        {
+          "id": "chapter-46",
+          "number": "46",
+          "heading": "TITLE 46",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "46-1 to 46-65e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-46",
+      "number": "46",
+      "heading": "TITLE 46a*",
+      "children": [
+        {
+          "id": "chapter-46",
+          "number": "46",
+          "heading": "TITLE 46a*",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "46a-1 to 46a-6"
+            },
+            {
+              "id": "section-46a-175",
+              "number": "46a-175",
+              "heading": "to 46a-179"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-46",
+      "number": "46",
+      "heading": "TITLE 46b",
+      "children": [
+        {
+          "id": "chapter-46",
+          "number": "46",
+          "heading": "TITLE 46b",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "46b-1 to 46b-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-47",
+      "number": "47",
+      "heading": "TITLE 47",
+      "children": [
+        {
+          "id": "chapter-47",
+          "number": "47",
+          "heading": "TITLE 47",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "47-1 to 47-36"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-47",
+      "number": "47",
+      "heading": "TITLE 47a*",
+      "children": [
+        {
+          "id": "chapter-47",
+          "number": "47",
+          "heading": "TITLE 47a*",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "47a-1 to 47a-20f"
+            },
+            {
+              "id": "section-urity",
+              "number": "urity",
+              "heading": "Deposits"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-48",
+      "number": "48",
+      "heading": "TITLE 48",
+      "children": [
+        {
+          "id": "chapter-48",
+          "number": "48",
+          "heading": "TITLE 48",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "48-1 to 48-57"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-49",
+      "number": "49",
+      "heading": "TITLE 49",
+      "children": [
+        {
+          "id": "chapter-49",
+          "number": "49",
+          "heading": "TITLE 49",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "49-1 to 49-31v"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-50",
+      "number": "50",
+      "heading": "TITLE 50",
+      "children": [
+        {
+          "id": "chapter-50",
+          "number": "50",
+          "heading": "TITLE 50",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "50-1 to 50-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-50",
+      "number": "50",
+      "heading": "TITLE 50a",
+      "children": [
+        {
+          "id": "chapter-50",
+          "number": "50",
+          "heading": "TITLE 50a",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "50a-1 to 50a-29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-51",
+      "number": "51",
+      "heading": "TITLE 51",
+      "children": [
+        {
+          "id": "chapter-51",
+          "number": "51",
+          "heading": "TITLE 51",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "51-1 to 51-26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-52",
+      "number": "52",
+      "heading": "TITLE 52*",
+      "children": [
+        {
+          "id": "chapter-52",
+          "number": "52",
+          "heading": "TITLE 52*",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "52-1 to 52-45"
+            },
+            {
+              "id": "section-unknown",
+              "number": ".",
+              "heading": "52-484"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-53",
+      "number": "53",
+      "heading": "TITLE 53*",
+      "children": [
+        {
+          "id": "chapter-53",
+          "number": "53",
+          "heading": "TITLE 53*",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "53-1 to 53-8"
+            },
+            {
+              "id": "section-unknown",
+              "number": ".",
+              "heading": "53-450"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-53",
+      "number": "53",
+      "heading": "TITLE 53a*",
+      "children": [
+        {
+          "id": "chapter-53",
+          "number": "53",
+          "heading": "TITLE 53a*",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "53a-1 to 53a-3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-54",
+      "number": "54",
+      "heading": "TITLE 54*",
+      "children": [
+        {
+          "id": "chapter-54",
+          "number": "54",
+          "heading": "TITLE 54*",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "54-1 to 54-41"
+            },
+            {
+              "id": "section-unknown",
+              "number": ".",
+              "heading": "54-156"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-55",
+      "number": "55",
+      "heading": "TITLE 55",
+      "children": [
+        {
+          "id": "chapter-55",
+          "number": "55",
+          "heading": "TITLE 55",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-s",
+              "number": "s.",
+              "heading": "55-1 to 55-4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

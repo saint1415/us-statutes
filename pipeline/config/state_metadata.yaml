@@ -206,3 +206,16 @@ states:
     abbr: DC
     fips: "11"
     slug: district-of-columbia
+  # US Territories
+  - name: Puerto Rico
+    abbr: PR
+    fips: "72"
+    slug: puerto-rico
+  - name: Guam
+    abbr: GU
+    fips: "66"
+    slug: guam
+  - name: US Virgin Islands
+    abbr: VI
+    fips: "78"
+    slug: us-virgin-islands

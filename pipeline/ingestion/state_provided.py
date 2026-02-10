@@ -28,9 +28,11 @@ class StateProvidedIngestor(BaseIngestor):
 
     def __init__(self, state: str, config: dict, cache_dir: Path | None = None):
         super().__init__(state, config, cache_dir)
+        verify_ssl = config.get("verify_ssl", True)
         self.http_cache = HttpCache(
             cache_dir=(cache_dir or Path("cache")) / "http",
             rate_limiter=RateLimiter(requests_per_second=1.5),
+            verify_ssl=verify_ssl,
         )
 
     def fetch(self) -> Path:
@@ -320,34 +322,44 @@ def _extract_sections_from_html(soup: BeautifulSoup) -> list[Section]:
     sections = []
     seen_numbers = set()
 
-    # Strategy 1: look for elements with section numbers in text
-    for elem in soup.find_all(["p", "div", "li", "span", "td"]):
+    _PATTERNS = [
+        re.compile(r"(?:§+\s*)([\d\-\.a-zA-Z:]+)\s*[.\-–—:\s]+(.*)", re.DOTALL),
+        re.compile(r"SECTION\s+([\d\-\.a-zA-Z:]+)\s*[.\-–—:\s]+(.*)", re.DOTALL),
+        re.compile(r"Sec(?:tion)?\.?\s*([\d\-\.a-zA-Z:]+)\s*[.\-–—:\s]+(.*)", re.DOTALL),
+        re.compile(r"^([\d]+[\-\.]\d[\d\-\.a-zA-Z]*)\s*[.\-–—:\s]+(.*)", re.DOTALL),
+    ]
+
+    for elem in soup.find_all(["p", "div", "li", "span", "td", "h2", "h3", "h4", "h5", "dt", "b", "strong"]):
         text = elem.get_text(strip=True)
-        if not text:
+        if not text or len(text) < 5:
             continue
 
-        # Match section number patterns
-        match = re.match(
-            r"(?:§|Sec(?:tion)?\.?\s*)([\d\-\.a-zA-Z]+)\s*[.\s]+(.*)",
-            text,
-        )
-        if match:
-            num = clean_section_number(match.group(1))
-            if not num or num in seen_numbers:
-                continue
-            seen_numbers.add(num)
+        for pattern in _PATTERNS:
+            match = pattern.match(text)
+            if match:
+                num = clean_section_number(match.group(1))
+                if not num or num in seen_numbers or len(num) > 30:
+                    break
+                seen_numbers.add(num)
 
-            rest = match.group(2)
-            lines = rest.split("\n", 1)
-            heading = lines[0].strip()[:300]
-            body = lines[1].strip() if len(lines) > 1 else ""
+                rest = match.group(2)
+                lines = rest.split("\n", 1)
+                heading = lines[0].strip()[:300]
+                body = lines[1].strip() if len(lines) > 1 else ""
 
-            sections.append(Section(
-                id=f"section-{_slugify(num)}",
-                number=num,
-                heading=heading,
-                text=clean_text(body or rest),
-            ))
+                if len(heading) > 150 and "." in heading:
+                    dot = heading.find(".", 30)
+                    if dot > 0:
+                        body = heading[dot+1:].strip() + ("\n" + body if body else "")
+                        heading = heading[:dot]
+
+                sections.append(Section(
+                    id=f"section-{_slugify(num)}",
+                    number=num,
+                    heading=heading,
+                    text=clean_text(body or rest),
+                ))
+                break
 
     return sections
 

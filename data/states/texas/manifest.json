@@ -1,0 +1,32 @@
+{
+  "state": "texas",
+  "state_abbr": "TX",
+  "code_name": "Texas Statutes",
+  "source": "official_website",
+  "source_url": "https://statutes.capitol.texas.gov",
+  "last_updated": "2026-02-10T14:11:47.783239+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "code",
+      "label": "Code"
+    },
+    {
+      "level": "title",
+      "label": "Title"
+    },
+    {
+      "level": "chapter",
+      "label": "Chapter"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 0,
+    "chapters": 0,
+    "sections": 0
+  }
+}

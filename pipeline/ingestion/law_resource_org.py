@@ -43,32 +43,48 @@ class LawResourceOrgIngestor(BaseIngestor):
             logger.info("Using cached XML for %s at %s", self.state, extract_dir)
             return extract_dir
 
-        # Try to download as a zip first, then individual XML files
-        # Law.Resource.Org typically provides XML files directly
-        index_html = self.http_cache.fetch(base_url + "/")
-
-        # Parse the directory listing for XML/zip links
+        # Law.Resource.Org has XML in subdirectories like state.xml.2012/
         from bs4 import BeautifulSoup
-        soup = BeautifulSoup(index_html, "html.parser")
 
         extract_dir.mkdir(parents=True, exist_ok=True)
         downloaded = 0
 
+        # Fetch the top-level index
+        index_html = self.http_cache.fetch(base_url + "/")
+        soup = BeautifulSoup(index_html, "html.parser")
+
+        # Collect all URLs to check (top-level + subdirectories)
+        urls_to_scan = [(base_url, soup)]
+
+        # Find subdirectories that might contain XML
         for link in soup.find_all("a", href=True):
             href = link["href"]
-            if href.endswith(".xml") or href.endswith(".zip"):
-                file_url = base_url + "/" + href if not href.startswith("http") else href
+            if href.endswith("/index.html") and "xml" in href.lower():
+                subdir_url = base_url + "/" + href.replace("/index.html", "")
                 try:
-                    if href.endswith(".zip"):
-                        data = self.http_cache.fetch_bytes(file_url)
-                        with zipfile.ZipFile(BytesIO(data)) as zf:
-                            zf.extractall(extract_dir)
-                    else:
-                        content = self.http_cache.fetch(file_url)
-                        (extract_dir / href).write_text(content, encoding="utf-8")
-                    downloaded += 1
+                    sub_html = self.http_cache.fetch(subdir_url + "/index.html")
+                    sub_soup = BeautifulSoup(sub_html, "html.parser")
+                    urls_to_scan.append((subdir_url, sub_soup))
                 except Exception as e:
-                    logger.warning("Failed to download %s: %s", file_url, e)
+                    logger.debug("Skip subdir %s: %s", subdir_url, e)
+
+        # Download all XML/zip files from all directories
+        for dir_url, dir_soup in urls_to_scan:
+            for link in dir_soup.find_all("a", href=True):
+                href = link["href"]
+                if href.endswith(".xml") or href.endswith(".zip"):
+                    file_url = dir_url + "/" + href if not href.startswith("http") else href
+                    try:
+                        if href.endswith(".zip"):
+                            data = self.http_cache.fetch_bytes(file_url)
+                            with zipfile.ZipFile(BytesIO(data)) as zf:
+                                zf.extractall(extract_dir)
+                        else:
+                            content = self.http_cache.fetch(file_url)
+                            (extract_dir / href).write_text(content, encoding="utf-8")
+                        downloaded += 1
+                    except Exception as e:
+                        logger.warning("Failed to download %s: %s", file_url, e)
 
         logger.info("Downloaded %d files for %s", downloaded, self.state)
         return extract_dir

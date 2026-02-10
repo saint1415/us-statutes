@@ -1,0 +1,70 @@
+{
+  "state": "south-dakota",
+  "children": [
+    {
+      "id": "title-title-1",
+      "number": "title-1",
+      "heading": "Title 1",
+      "children": [
+        {
+          "id": "chapter-title-1",
+          "number": "title-1",
+          "heading": "Title 1",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "Of State"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-31",
+      "number": "title-31",
+      "heading": "Title 31",
+      "children": [
+        {
+          "id": "chapter-title-31",
+          "number": "title-31",
+          "heading": "Title 31",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-ondary",
+              "number": "ondary",
+              "heading": "Roads [Repealed]"
+            },
+            {
+              "id": "section-line",
+              "number": "-Line",
+              "heading": "Highways"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-47",
+      "number": "title-47",
+      "heading": "Title 47",
+      "children": [
+        {
+          "id": "chapter-title-47",
+          "number": "title-47",
+          "heading": "Title 47",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-urities",
+              "number": "urities",
+              "heading": "Registration And Sales [Repealed]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -17,11 +17,11 @@ jurisdictions:
       - {level: chapter, label: Chapter}
       - {level: section, label: Section}
 
-  # === Law.Resource.Org (XML bulk) ===
+  # === Former Law.Resource.Org states (switched to official websites) ===
   arkansas:
-    source_type: law_resource_org
+    source_type: official_website
     code_name: "Arkansas Code"
-    url: "https://law.resource.org/pub/us/code/ar/"
+    url: "https://www.arkleg.state.ar.us/Bills/Codified"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -30,9 +30,9 @@ jurisdictions:
       - {level: section, label: Section}
 
   california:
-    source_type: law_resource_org
+    source_type: official_website
     code_name: "California Codes"
-    url: "https://law.resource.org/pub/us/code/ca/"
+    url: "https://leginfo.legislature.ca.gov/faces/codes.xhtml"
     year: 2024
     structure:
       - {level: code, label: Code}
@@ -41,9 +41,9 @@ jurisdictions:
       - {level: section, label: Section}
 
   colorado:
-    source_type: law_resource_org
+    source_type: official_website
     code_name: "Colorado Revised Statutes"
-    url: "https://law.resource.org/pub/us/code/co/"
+    url: "https://leg.colorado.gov/colorado-revised-statutes"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -51,9 +51,9 @@ jurisdictions:
       - {level: section, label: Section}
 
   delaware:
-    source_type: law_resource_org
+    source_type: official_website
     code_name: "Delaware Code"
-    url: "https://law.resource.org/pub/us/code/de/"
+    url: "https://delcode.delaware.gov/"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -61,9 +61,9 @@ jurisdictions:
       - {level: section, label: Section}
 
   georgia:
-    source_type: law_resource_org
+    source_type: official_website
     code_name: "Official Code of Georgia Annotated"
-    url: "https://law.resource.org/pub/us/code/ga/"
+    url: "https://www.lexisnexis.com/hottopics/gacode/Default.asp"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -71,9 +71,9 @@ jurisdictions:
       - {level: section, label: Section}
 
   idaho:
-    source_type: law_resource_org
+    source_type: official_website
     code_name: "Idaho Statutes"
-    url: "https://law.resource.org/pub/us/code/id/"
+    url: "https://legislature.idaho.gov/statutesrules/idstat/"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -81,9 +81,9 @@ jurisdictions:
       - {level: section, label: Section}
 
   mississippi:
-    source_type: law_resource_org
+    source_type: official_website
     code_name: "Mississippi Code"
-    url: "https://law.resource.org/pub/us/code/ms/"
+    url: "https://www.lexisnexis.com/hottopics/mscode/"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -91,70 +91,18 @@ jurisdictions:
       - {level: section, label: Section}
 
   oregon:
-    source_type: law_resource_org
+    source_type: official_website
     code_name: "Oregon Revised Statutes"
-    url: "https://law.resource.org/pub/us/code/or/"
+    url: "https://www.oregonlegislature.gov/bills_laws/Pages/ORS.aspx"
     year: 2024
     structure:
-      - {level: title, label: Title}
       - {level: chapter, label: Chapter}
       - {level: section, label: Section}
 
   tennessee:
-    source_type: law_resource_org
+    source_type: official_website
     code_name: "Tennessee Code"
-    url: "https://law.resource.org/pub/us/code/tn/"
-    year: 2024
-    structure:
-      - {level: title, label: Title}
-      - {level: chapter, label: Chapter}
-      - {level: section, label: Section}
-
-  # === Internet Archive ===
-  kentucky:
-    source_type: internet_archive
-    code_name: "Kentucky Revised Statutes"
-    url: "https://archive.org/details/kentucky-revised-statutes"
-    year: 2024
-    structure:
-      - {level: title, label: Title}
-      - {level: chapter, label: Chapter}
-      - {level: section, label: Section}
-
-  north-carolina:
-    source_type: internet_archive
-    code_name: "North Carolina General Statutes"
-    url: "https://archive.org/details/north-carolina-general-statutes"
-    year: 2024
-    structure:
-      - {level: chapter, label: Chapter}
-      - {level: article, label: Article}
-      - {level: section, label: Section}
-
-  vermont:
-    source_type: internet_archive
-    code_name: "Vermont Statutes"
-    url: "https://archive.org/details/vermont-statutes"
-    year: 2024
-    structure:
-      - {level: title, label: Title}
-      - {level: chapter, label: Chapter}
-      - {level: section, label: Section}
-
-  virginia:
-    source_type: internet_archive
-    code_name: "Code of Virginia"
-    url: "https://archive.org/details/code-of-virginia"
-    year: 2024
-    structure:
-      - {level: title, label: Title}
-      - {level: chapter, label: Chapter}
-      - {level: section, label: Section}
-
-  wyoming:
-    source_type: internet_archive
-    code_name: "Wyoming Statutes"
-    url: "https://archive.org/details/wyoming-statutes"
+    url: "https://www.lexisnexis.com/hottopics/tncode/"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -166,6 +114,7 @@ jurisdictions:
     source_type: state_provided
     code_name: "Connecticut General Statutes"
     url: "https://www.cga.ct.gov/current/pub/titles.htm"
+    verify_ssl: false
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -202,11 +151,12 @@ jurisdictions:
       - {level: article, label: Article}
       - {level: section, label: Section}
 
-  # === Justia (web scraping) - remaining ~31 states ===
+  # === Official state websites (direct scraping) ===
+  # Tier 1: Static HTML, easy to scrape
   alabama:
-    source_type: justia
+    source_type: official_website
     code_name: "Code of Alabama"
-    url: "https://law.justia.com/codes/alabama/"
+    url: "https://alison.legislature.state.al.us/code-of-alabama"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -214,9 +164,9 @@ jurisdictions:
       - {level: section, label: Section}
 
   alaska:
-    source_type: justia
+    source_type: official_website
     code_name: "Alaska Statutes"
-    url: "https://law.justia.com/codes/alaska/"
+    url: "https://www.akleg.gov/basis/statutes.asp"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -224,9 +174,9 @@ jurisdictions:
       - {level: section, label: Section}
 
   arizona:
-    source_type: justia
+    source_type: official_website
     code_name: "Arizona Revised Statutes"
-    url: "https://law.justia.com/codes/arizona/"
+    url: "https://www.azleg.gov/arsTable/"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -234,9 +184,9 @@ jurisdictions:
       - {level: section, label: Section}
 
   hawaii:
-    source_type: justia
+    source_type: official_website
     code_name: "Hawaii Revised Statutes"
-    url: "https://law.justia.com/codes/hawaii/"
+    url: "https://www.capitol.hawaii.gov/hrscurrent/"
     year: 2024
     structure:
       - {level: division, label: Division}
@@ -245,9 +195,9 @@ jurisdictions:
       - {level: section, label: Section}
 
   illinois:
-    source_type: justia
+    source_type: official_website
     code_name: "Illinois Compiled Statutes"
-    url: "https://law.justia.com/codes/illinois/"
+    url: "https://www.ilga.gov/legislation/ilcs/ilcs.asp"
     year: 2024
     structure:
       - {level: chapter, label: Chapter}
@@ -255,9 +205,9 @@ jurisdictions:
       - {level: section, label: Section}
 
   indiana:
-    source_type: justia
+    source_type: official_website
     code_name: "Indiana Code"
-    url: "https://law.justia.com/codes/indiana/"
+    url: "https://iga.in.gov/laws/current/ic"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -266,30 +216,39 @@ jurisdictions:
       - {level: section, label: Section}
 
   iowa:
-    source_type: justia
+    source_type: official_website
     code_name: "Iowa Code"
-    url: "https://law.justia.com/codes/iowa/"
+    url: "https://www.legis.iowa.gov/law/iowaCode/sections"
     year: 2024
     structure:
       - {level: title, label: Title}
-      - {level: subtitle, label: Subtitle}
       - {level: chapter, label: Chapter}
       - {level: section, label: Section}
 
   kansas:
-    source_type: justia
+    source_type: official_website
     code_name: "Kansas Statutes"
-    url: "https://law.justia.com/codes/kansas/"
+    url: "https://www.ksrevisor.org/statutes.html"
     year: 2024
     structure:
       - {level: chapter, label: Chapter}
       - {level: article, label: Article}
       - {level: section, label: Section}
 
+  kentucky:
+    source_type: official_website
+    code_name: "Kentucky Revised Statutes"
+    url: "https://apps.legislature.ky.gov/law/statutes/index.aspx"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
   louisiana:
-    source_type: justia
+    source_type: official_website
     code_name: "Louisiana Revised Statutes"
-    url: "https://law.justia.com/codes/louisiana/"
+    url: "https://www.legis.la.gov/legis/LawSearch.aspx"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -297,9 +256,9 @@ jurisdictions:
       - {level: section, label: Section}
 
   maine:
-    source_type: justia
+    source_type: official_website
     code_name: "Maine Revised Statutes"
-    url: "https://law.justia.com/codes/maine/"
+    url: "https://legislature.maine.gov/statutes/"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -307,9 +266,9 @@ jurisdictions:
       - {level: section, label: Section}
 
   massachusetts:
-    source_type: justia
+    source_type: official_website
     code_name: "Massachusetts General Laws"
-    url: "https://law.justia.com/codes/massachusetts/"
+    url: "https://malegislature.gov/Laws/GeneralLaws"
     year: 2024
     structure:
       - {level: part, label: Part}
@@ -318,9 +277,9 @@ jurisdictions:
       - {level: section, label: Section}
 
   michigan:
-    source_type: justia
+    source_type: official_website
     code_name: "Michigan Compiled Laws"
-    url: "https://law.justia.com/codes/michigan/"
+    url: "https://www.legislature.mi.gov/Laws/MCL"
     year: 2024
     structure:
       - {level: chapter, label: Chapter}
@@ -328,18 +287,18 @@ jurisdictions:
       - {level: section, label: Section}
 
   minnesota:
-    source_type: justia
+    source_type: official_website
     code_name: "Minnesota Statutes"
-    url: "https://law.justia.com/codes/minnesota/"
+    url: "https://www.revisor.mn.gov/statutes/"
     year: 2024
     structure:
       - {level: chapter, label: Chapter}
       - {level: section, label: Section}
 
   missouri:
-    source_type: justia
+    source_type: official_website
     code_name: "Missouri Revised Statutes"
-    url: "https://law.justia.com/codes/missouri/"
+    url: "https://revisor.mo.gov/main/Home.aspx"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -347,9 +306,9 @@ jurisdictions:
       - {level: section, label: Section}
 
   montana:
-    source_type: justia
+    source_type: official_website
     code_name: "Montana Code Annotated"
-    url: "https://law.justia.com/codes/montana/"
+    url: "https://leg.mt.gov/bills/mca/index.html"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -357,9 +316,9 @@ jurisdictions:
       - {level: section, label: Section}
 
   nevada:
-    source_type: justia
+    source_type: official_website
     code_name: "Nevada Revised Statutes"
-    url: "https://law.justia.com/codes/nevada/"
+    url: "https://www.leg.state.nv.us/nrs/"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -367,9 +326,9 @@ jurisdictions:
       - {level: section, label: Section}
 
   new-hampshire:
-    source_type: justia
+    source_type: official_website
     code_name: "New Hampshire Revised Statutes"
-    url: "https://law.justia.com/codes/new-hampshire/"
+    url: "https://gc.nh.gov/rsa/html/NHTOC.htm"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -377,18 +336,18 @@ jurisdictions:
       - {level: section, label: Section}
 
   new-jersey:
-    source_type: justia
+    source_type: official_website
     code_name: "New Jersey Statutes"
-    url: "https://law.justia.com/codes/new-jersey/"
+    url: "https://pub.njleg.state.nj.us/statutes/"
     year: 2024
     structure:
       - {level: title, label: Title}
       - {level: section, label: Section}
 
   new-mexico:
-    source_type: justia
+    source_type: official_website
     code_name: "New Mexico Statutes"
-    url: "https://law.justia.com/codes/new-mexico/"
+    url: "https://nmonesource.com/nmos/nmsa/en/nav.do"
     year: 2024
     structure:
       - {level: chapter, label: Chapter}
@@ -396,19 +355,29 @@ jurisdictions:
       - {level: section, label: Section}
 
   new-york:
-    source_type: justia
+    source_type: official_website
     code_name: "New York Consolidated Laws"
-    url: "https://law.justia.com/codes/new-york/"
+    url: "https://legislation.nysenate.gov/api/3"
     year: 2024
     structure:
       - {level: law, label: Law}
       - {level: article, label: Article}
       - {level: section, label: Section}
 
+  north-carolina:
+    source_type: official_website
+    code_name: "North Carolina General Statutes"
+    url: "https://www.ncleg.gov/Laws/GeneralStatutesTOC"
+    year: 2024
+    structure:
+      - {level: chapter, label: Chapter}
+      - {level: article, label: Article}
+      - {level: section, label: Section}
+
   north-dakota:
-    source_type: justia
+    source_type: official_website
     code_name: "North Dakota Century Code"
-    url: "https://law.justia.com/codes/north-dakota/"
+    url: "https://ndlegis.gov/general-information/north-dakota-century-code"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -416,9 +385,9 @@ jurisdictions:
       - {level: section, label: Section}
 
   ohio:
-    source_type: justia
+    source_type: official_website
     code_name: "Ohio Revised Code"
-    url: "https://law.justia.com/codes/ohio/"
+    url: "https://codes.ohio.gov/ohio-revised-code"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -426,18 +395,18 @@ jurisdictions:
       - {level: section, label: Section}
 
   oklahoma:
-    source_type: justia
+    source_type: official_website
     code_name: "Oklahoma Statutes"
-    url: "https://law.justia.com/codes/oklahoma/"
+    url: "https://www.oscn.net/applications/oscn/index.asp?ftdb=STOKST&level=1"
     year: 2024
     structure:
       - {level: title, label: Title}
       - {level: section, label: Section}
 
   pennsylvania:
-    source_type: justia
+    source_type: official_website
     code_name: "Pennsylvania Consolidated Statutes"
-    url: "https://law.justia.com/codes/pennsylvania/"
+    url: "https://www.palegis.us/statutes/consolidated"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -445,9 +414,9 @@ jurisdictions:
       - {level: section, label: Section}
 
   rhode-island:
-    source_type: justia
+    source_type: official_website
     code_name: "Rhode Island General Laws"
-    url: "https://law.justia.com/codes/rhode-island/"
+    url: "https://webserver.rilegislature.gov/Statutes/"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -455,9 +424,9 @@ jurisdictions:
       - {level: section, label: Section}
 
   south-carolina:
-    source_type: justia
+    source_type: official_website
     code_name: "South Carolina Code of Laws"
-    url: "https://law.justia.com/codes/south-carolina/"
+    url: "https://www.scstatehouse.gov/code/statmast.php"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -465,9 +434,9 @@ jurisdictions:
       - {level: section, label: Section}
 
   south-dakota:
-    source_type: justia
+    source_type: official_website
     code_name: "South Dakota Codified Laws"
-    url: "https://law.justia.com/codes/south-dakota/"
+    url: "https://sdlegislature.gov/api/Statutes"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -475,9 +444,9 @@ jurisdictions:
       - {level: section, label: Section}
 
   texas:
-    source_type: justia
+    source_type: official_website
     code_name: "Texas Statutes"
-    url: "https://law.justia.com/codes/texas/"
+    url: "https://statutes.capitol.texas.gov/"
     year: 2024
     structure:
       - {level: code, label: Code}
@@ -486,9 +455,29 @@ jurisdictions:
       - {level: section, label: Section}
 
   utah:
-    source_type: justia
+    source_type: official_website
     code_name: "Utah Code"
-    url: "https://law.justia.com/codes/utah/"
+    url: "https://le.utah.gov/xcode/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  vermont:
+    source_type: official_website
+    code_name: "Vermont Statutes"
+    url: "https://legislature.vermont.gov/statutes/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  virginia:
+    source_type: official_website
+    code_name: "Code of Virginia"
+    url: "https://law.lis.virginia.gov/vacode/"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -496,9 +485,9 @@ jurisdictions:
       - {level: section, label: Section}
 
   washington:
-    source_type: justia
+    source_type: official_website
     code_name: "Revised Code of Washington"
-    url: "https://law.justia.com/codes/washington/"
+    url: "https://app.leg.wa.gov/rcw/"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -506,9 +495,9 @@ jurisdictions:
       - {level: section, label: Section}
 
   west-virginia:
-    source_type: justia
+    source_type: official_website
     code_name: "West Virginia Code"
-    url: "https://law.justia.com/codes/west-virginia/"
+    url: "https://code.wvlegislature.gov/"
     year: 2024
     structure:
       - {level: chapter, label: Chapter}
@@ -516,10 +505,51 @@ jurisdictions:
       - {level: section, label: Section}
 
   wisconsin:
-    source_type: justia
+    source_type: official_website
     code_name: "Wisconsin Statutes"
-    url: "https://law.justia.com/codes/wisconsin/"
+    url: "https://docs.legis.wisconsin.gov/statutes/statutes"
     year: 2024
     structure:
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  wyoming:
+    source_type: official_website
+    code_name: "Wyoming Statutes"
+    url: "https://wyoleg.gov/NXT/gateway.dll?f=templates&fn=default.htm"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  # === US Territories ===
+  puerto-rico:
+    source_type: official_website
+    code_name: "Laws of Puerto Rico"
+    url: "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/lista.htm"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  guam:
+    source_type: official_website
+    code_name: "Guam Code Annotated"
+    url: "https://www.guamcourts.org/CompilerofLaws/GCA.html"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
+      - {level: chapter, label: Chapter}
+      - {level: section, label: Section}
+
+  us-virgin-islands:
+    source_type: official_website
+    code_name: "Virgin Islands Code"
+    url: "https://law.justia.com/codes/virgin-islands/"
+    year: 2024
+    structure:
+      - {level: title, label: Title}
       - {level: chapter, label: Chapter}
       - {level: section, label: Section}

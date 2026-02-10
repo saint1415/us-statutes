@@ -1,0 +1,28 @@
+{
+  "state": "vermont",
+  "state_abbr": "VT",
+  "code_name": "Vermont Statutes",
+  "source": "official_website",
+  "source_url": "https://legislature.vermont.gov/statutes",
+  "last_updated": "2026-02-10T13:17:17.632684+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "title",
+      "label": "Title"
+    },
+    {
+      "level": "chapter",
+      "label": "Chapter"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 43,
+    "chapters": 43,
+    "sections": 88
+  }
+}

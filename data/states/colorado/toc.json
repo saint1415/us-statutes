@@ -1,0 +1,115 @@
+{
+  "state": "colorado",
+  "children": [
+    {
+      "id": "title-capitol-security-protocol",
+      "number": "capitol-security-protocol",
+      "heading": "Capitol Security Protocol",
+      "children": [
+        {
+          "id": "chapter-capitol-security-protocol",
+          "number": "capitol-security-protocol",
+          "heading": "Capitol Security Protocol",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-ond",
+              "number": "ond",
+              "heading": "Regular Session | 75th General AssemblyColorado General AssemblySearchMenu"
+            },
+            {
+              "id": "section-urity",
+              "number": "urity",
+              "heading": "at the Colorado State Capitol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-colorado-open-records-act-maximum-hourly-research-and-retrie",
+      "number": "colorado-open-records-act-maximum-hourly-research-and-retrie",
+      "heading": "Colorado Open Records Act Maximum Hourly Research And Retrie",
+      "children": [
+        {
+          "id": "chapter-colorado-open-records-act-maximum-hourly-research-and-retrie",
+          "number": "colorado-open-records-act-maximum-hourly-research-and-retrie",
+          "heading": "Colorado Open Records Act Maximum Hourly Research And Retrie",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-ond",
+              "number": "ond",
+              "heading": "Regular Session | 75th General AssemblyColorado General AssemblySearchMenu"
+            },
+            {
+              "id": "section-24-72-205",
+              "number": "24-72-205",
+              "heading": "(6) (b), C.R.S., requires the Director of Research of the Legislative Council Staff to adjust the Colorado Open Records Act maximum hourly fee for the research and retrieval of public documents for inflation on July 1, 2019, and each five years thereafter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-language-interpretation-services-policy",
+      "number": "language-interpretation-services-policy",
+      "heading": "Language Interpretation Services Policy",
+      "children": [
+        {
+          "id": "chapter-language-interpretation-services-policy",
+          "number": "language-interpretation-services-policy",
+          "heading": "Language Interpretation Services Policy",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-ond",
+              "number": "ond",
+              "heading": "Regular Session | 75th General AssemblyColorado General AssemblySearchMenu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-policy-on-member-requests-for-csp-protection",
+      "number": "policy-on-member-requests-for-csp-protection",
+      "heading": "Policy On Member Requests For Csp Protection",
+      "children": [
+        {
+          "id": "chapter-policy-on-member-requests-for-csp-protection",
+          "number": "policy-on-member-requests-for-csp-protection",
+          "heading": "Policy On Member Requests For Csp Protection",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-ond",
+              "number": "ond",
+              "heading": "Regular Session | 75th General AssemblyColorado General AssemblySearchMenu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-remote-testimony-and-remote-participation-policies",
+      "number": "remote-testimony-and-remote-participation-policies",
+      "heading": "Remote Testimony And Remote Participation Policies",
+      "children": [
+        {
+          "id": "chapter-remote-testimony-and-remote-participation-policies",
+          "number": "remote-testimony-and-remote-participation-policies",
+          "heading": "Remote Testimony And Remote Participation Policies",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-ond",
+              "number": "ond",
+              "heading": "Regular Session | 75th General AssemblyColorado General AssemblySearchMenu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

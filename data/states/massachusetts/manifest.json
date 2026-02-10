@@ -1,0 +1,32 @@
+{
+  "state": "massachusetts",
+  "state_abbr": "MA",
+  "code_name": "Massachusetts General Laws",
+  "source": "official_website",
+  "source_url": "https://malegislature.gov/Laws/GeneralLaws",
+  "last_updated": "2026-02-10T12:56:48.730216+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "part",
+      "label": "Part"
+    },
+    {
+      "level": "title",
+      "label": "Title"
+    },
+    {
+      "level": "chapter",
+      "label": "Chapter"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 15,
+    "chapters": 15,
+    "sections": 1975
+  }
+}

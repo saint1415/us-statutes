@@ -1,0 +1,28 @@
+{
+  "state": "south-dakota",
+  "state_abbr": "SD",
+  "code_name": "South Dakota Codified Laws",
+  "source": "official_website",
+  "source_url": "https://sdlegislature.gov/api/Statutes",
+  "last_updated": "2026-02-10T14:12:00.279568+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "title",
+      "label": "Title"
+    },
+    {
+      "level": "chapter",
+      "label": "Chapter"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 3,
+    "chapters": 3,
+    "sections": 4
+  }
+}

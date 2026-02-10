@@ -31,10 +31,12 @@ class HttpCache:
         cache_dir: Path,
         ttl: int = DEFAULT_TTL,
         rate_limiter: RateLimiter | None = None,
+        verify_ssl: bool = True,
     ):
         self.cache_dir = cache_dir
         self.ttl = ttl
         self.rate_limiter = rate_limiter or RateLimiter()
+        self.verify_ssl = verify_ssl
         self.cache_dir.mkdir(parents=True, exist_ok=True)
 
     def _cache_key(self, url: str) -> str:
@@ -99,8 +101,11 @@ class HttpCache:
 
         kwargs.setdefault("timeout", 60)
         kwargs.setdefault("follow_redirects", True)
+        kwargs.setdefault("verify", self.verify_ssl)
         kwargs.setdefault("headers", {
-            "User-Agent": "us-statutes-bot/1.0 (+https://github.com/saint1415/us-statutes)"
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.5",
         })
 
         response = httpx.get(url, **kwargs)
@@ -130,8 +135,10 @@ class HttpCache:
 
         kwargs.setdefault("timeout", 120)
         kwargs.setdefault("follow_redirects", True)
+        kwargs.setdefault("verify", self.verify_ssl)
         kwargs.setdefault("headers", {
-            "User-Agent": "us-statutes-bot/1.0 (+https://github.com/saint1415/us-statutes)"
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+            "Accept": "*/*",
         })
 
         response = httpx.get(url, **kwargs)

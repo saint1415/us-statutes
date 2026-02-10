@@ -39,6 +39,7 @@ def _get_ingestor(state_slug: str, source_config: dict, metadata: dict) -> BaseI
     from pipeline.ingestion.law_resource_org import LawResourceOrgIngestor
     from pipeline.ingestion.internet_archive import InternetArchiveIngestor
     from pipeline.ingestion.state_provided import StateProvidedIngestor
+    from pipeline.ingestion.official_website import OfficialWebsiteIngestor
 
     source_type = source_config["source_type"]
     state_meta = metadata.get(state_slug, {})
@@ -58,6 +59,7 @@ def _get_ingestor(state_slug: str, source_config: dict, metadata: dict) -> BaseI
         "justia": JustiaIngestor,
         "law_resource_org": LawResourceOrgIngestor,
         "internet_archive": InternetArchiveIngestor,
+        "official_website": OfficialWebsiteIngestor,
         "state_provided": StateProvidedIngestor,
     }
 

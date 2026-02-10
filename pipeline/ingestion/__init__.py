@@ -4,6 +4,7 @@ from .law_resource_org import LawResourceOrgIngestor
 from .internet_archive import InternetArchiveIngestor
 from .state_provided import StateProvidedIngestor
 from .dc_council import DCCouncilIngestor
+from .official_website import OfficialWebsiteIngestor
 
 __all__ = [
     "BaseIngestor",
@@ -16,4 +17,5 @@ __all__ = [
     "InternetArchiveIngestor",
     "StateProvidedIngestor",
     "DCCouncilIngestor",
+    "OfficialWebsiteIngestor",
 ]

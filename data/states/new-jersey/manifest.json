@@ -1,0 +1,24 @@
+{
+  "state": "new-jersey",
+  "state_abbr": "NJ",
+  "code_name": "New Jersey Statutes",
+  "source": "official_website",
+  "source_url": "https://pub.njleg.state.nj.us/statutes",
+  "last_updated": "2026-02-10T14:11:36.083299+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "title",
+      "label": "Title"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 0,
+    "chapters": 0,
+    "sections": 0
+  }
+}

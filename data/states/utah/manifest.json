@@ -1,0 +1,28 @@
+{
+  "state": "utah",
+  "state_abbr": "UT",
+  "code_name": "Utah Code",
+  "source": "official_website",
+  "source_url": "https://le.utah.gov/xcode",
+  "last_updated": "2026-02-10T14:13:19.822901+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "title",
+      "label": "Title"
+    },
+    {
+      "level": "chapter",
+      "label": "Chapter"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 0,
+    "chapters": 0,
+    "sections": 0
+  }
+}

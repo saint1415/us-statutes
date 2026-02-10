@@ -1,0 +1,28 @@
+{
+  "state": "wyoming",
+  "state_abbr": "WY",
+  "code_name": "Wyoming Statutes",
+  "source": "official_website",
+  "source_url": "https://wyoleg.gov/NXT/gateway.dll?f=templates&fn=default.htm",
+  "last_updated": "2026-02-10T14:11:48.197049+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "title",
+      "label": "Title"
+    },
+    {
+      "level": "chapter",
+      "label": "Chapter"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 0,
+    "chapters": 0,
+    "sections": 0
+  }
+}

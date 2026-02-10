@@ -1,0 +1,28 @@
+{
+  "state": "tennessee",
+  "state_abbr": "TN",
+  "code_name": "Tennessee Code",
+  "source": "official_website",
+  "source_url": "https://www.lexisnexis.com/hottopics/tncode",
+  "last_updated": "2026-02-10T14:11:47.473980+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "title",
+      "label": "Title"
+    },
+    {
+      "level": "chapter",
+      "label": "Chapter"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 0,
+    "chapters": 0,
+    "sections": 0
+  }
+}

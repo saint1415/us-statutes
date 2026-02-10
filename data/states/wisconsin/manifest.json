@@ -1,0 +1,24 @@
+{
+  "state": "wisconsin",
+  "state_abbr": "WI",
+  "code_name": "Wisconsin Statutes",
+  "source": "official_website",
+  "source_url": "https://docs.legis.wisconsin.gov/statutes/statutes",
+  "last_updated": "2026-02-10T14:11:48.211813+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "chapter",
+      "label": "Chapter"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 0,
+    "chapters": 0,
+    "sections": 0
+  }
+}

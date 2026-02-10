@@ -1,0 +1,385 @@
+{
+  "state": "washington",
+  "children": [
+    {
+      "id": "title-title-18",
+      "number": "title-18",
+      "heading": "Title 18",
+      "children": [
+        {
+          "id": "chapter-title-18",
+          "number": "title-18",
+          "heading": "Title 18",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-dealers",
+              "number": "dealers",
+              "heading": "Artists."
+            },
+            {
+              "id": "section-urity",
+              "number": "urity",
+              "heading": "guards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-21",
+      "number": "title-21",
+      "heading": "Title 21",
+      "children": [
+        {
+          "id": "chapter-title-21",
+          "number": "title-21",
+          "heading": "Title 21",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-urities",
+              "number": "urities",
+              "heading": "act of Washington."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-23",
+      "number": "title-23",
+      "heading": "Title 23",
+      "children": [
+        {
+          "id": "chapter-title-23",
+          "number": "title-23",
+          "heading": "Title 23",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of state, duties: Chapter43.07RCW."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-23b",
+      "number": "title-23b",
+      "heading": "Title 23B",
+      "children": [
+        {
+          "id": "chapter-title-23b",
+          "number": "title-23b",
+          "heading": "Title 23B",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of state, duties: Chapter43.07RCW."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-24",
+      "number": "title-24",
+      "heading": "Title 24",
+      "children": [
+        {
+          "id": "chapter-title-24",
+          "number": "title-24",
+          "heading": "Title 24",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of state, duties: Chapter43.07RCW."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-28a",
+      "number": "title-28a",
+      "heading": "Title 28A",
+      "children": [
+        {
+          "id": "chapter-title-28a",
+          "number": "title-28a",
+          "heading": "Title 28A",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-ondary",
+              "number": "ondary",
+              "heading": "career and technical education."
+            },
+            {
+              "id": "section-tarian",
+              "number": "tarian",
+              "heading": "control, free from: State Constitution Art. 9 s 4."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-28b",
+      "number": "title-28b",
+      "heading": "Title 28B",
+      "children": [
+        {
+          "id": "chapter-title-28b",
+          "number": "title-28b",
+          "heading": "Title 28B",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-tarian",
+              "number": "tarian",
+              "heading": "control, free from: State Constitution Art. 9 s 4."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-35",
+      "number": "title-35",
+      "heading": "Title 35",
+      "children": [
+        {
+          "id": "chapter-title-35",
+          "number": "title-35",
+          "heading": "Title 35",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-ond-class",
+              "number": "ond-class",
+              "heading": "cities."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-43",
+      "number": "title-43",
+      "heading": "Title 43",
+      "children": [
+        {
+          "id": "chapter-title-43",
+          "number": "title-43",
+          "heading": "Title 43",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of state."
+            },
+            {
+              "id": "section-s",
+              "number": "s",
+              "heading": "commission."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-47",
+      "number": "title-47",
+      "heading": "Title 47",
+      "children": [
+        {
+          "id": "chapter-title-47",
+          "number": "title-47",
+          "heading": "Title 47",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-erial",
+              "number": "erial",
+              "heading": "highways, designation: RCW46.61.195."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-58",
+      "number": "title-58",
+      "heading": "Title 58",
+      "children": [
+        {
+          "id": "chapter-title-58",
+          "number": "title-58",
+          "heading": "Title 58",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-ond-class",
+              "number": "ond-class",
+              "heading": "tidelands or shorelands separated from uplands: RCW79.125.230."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-60",
+      "number": "title-60",
+      "heading": "Title 60",
+      "children": [
+        {
+          "id": "chapter-title-60",
+          "number": "title-60",
+          "heading": "Title 60",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-ured",
+              "number": "ured",
+              "heading": "transactions: Article 62A.9A RCW."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-62a",
+      "number": "title-62a",
+      "heading": "Title 62A",
+      "children": [
+        {
+          "id": "chapter-title-62a",
+          "number": "title-62a",
+          "heading": "Title 62A",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-ured",
+              "number": "ured",
+              "heading": "transactions; sales of accounts, contract rights and chattel paper."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-65",
+      "number": "title-65",
+      "heading": "Title 65",
+      "children": [
+        {
+          "id": "chapter-title-65",
+          "number": "title-65",
+          "heading": "Title 65",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-retary",
+              "number": "retary",
+              "heading": "of state, duties: RCW43.07.030."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-67",
+      "number": "title-67",
+      "heading": "Title 67",
+      "children": [
+        {
+          "id": "chapter-title-67",
+          "number": "title-67",
+          "heading": "Title 67",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-ond-class",
+              "number": "ond-class",
+              "heading": "cities, additional powers—Acquisition of property for municipal purposes: RCW35.23.452."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-80",
+      "number": "title-80",
+      "heading": "Title 80",
+      "children": [
+        {
+          "id": "chapter-title-80",
+          "number": "title-80",
+          "heading": "Title 80",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-urities",
+              "number": "urities",
+              "heading": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-81",
+      "number": "title-81",
+      "heading": "Title 81",
+      "children": [
+        {
+          "id": "chapter-title-81",
+          "number": "title-81",
+          "heading": "Title 81",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-urities",
+              "number": "urities",
+              "heading": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-90",
+      "number": "title-90",
+      "heading": "Title 90",
+      "children": [
+        {
+          "id": "chapter-title-90",
+          "number": "title-90",
+          "heading": "Title 90",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-esian",
+              "number": "esian",
+              "heading": "wells."
+            },
+            {
+              "id": "section-ond-class",
+              "number": "ond-class",
+              "heading": "citiesacquisition of property for municipal purposes (waterfront leases, etc"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

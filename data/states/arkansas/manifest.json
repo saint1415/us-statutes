@@ -1,0 +1,32 @@
+{
+  "state": "arkansas",
+  "state_abbr": "AR",
+  "code_name": "Arkansas Code",
+  "source": "law_resource_org",
+  "source_url": "https://law.resource.org/pub/us/code/ar/",
+  "last_updated": "2026-02-09T21:58:29.812691+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "title",
+      "label": "Title"
+    },
+    {
+      "level": "subtitle",
+      "label": "Subtitle"
+    },
+    {
+      "level": "chapter",
+      "label": "Chapter"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 0,
+    "chapters": 0,
+    "sections": 0
+  }
+}
