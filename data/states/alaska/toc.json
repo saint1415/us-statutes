@@ -173,6 +173,76 @@
               "heading": "Declaration of Rights"
             },
             {
+              "id": "section-ii",
+              "number": "II",
+              "heading": "The Legislature"
+            },
+            {
+              "id": "section-iii",
+              "number": "III",
+              "heading": "The Executive"
+            },
+            {
+              "id": "section-iv",
+              "number": "IV",
+              "heading": "The Judiciary"
+            },
+            {
+              "id": "section-v",
+              "number": "V",
+              "heading": "Suffrage and Elections"
+            },
+            {
+              "id": "section-vi",
+              "number": "VI",
+              "heading": "Legislative Apportionment"
+            },
+            {
+              "id": "section-vii",
+              "number": "VII",
+              "heading": "Health, Education and Welfare"
+            },
+            {
+              "id": "section-viii",
+              "number": "VIII",
+              "heading": "Natural Resources"
+            },
+            {
+              "id": "section-ix",
+              "number": "IX",
+              "heading": "Finance and Taxation"
+            },
+            {
+              "id": "section-x",
+              "number": "X",
+              "heading": "Local Government"
+            },
+            {
+              "id": "section-xi",
+              "number": "XI",
+              "heading": "Initiative, Referendum, and Recall"
+            },
+            {
+              "id": "section-xii",
+              "number": "XII",
+              "heading": "General Provisions"
+            },
+            {
+              "id": "section-xiii",
+              "number": "XIII",
+              "heading": "Amendment and Revision"
+            },
+            {
+              "id": "section-xiv",
+              "number": "XIV",
+              "heading": "Apportionment Schedule (repealed)"
+            },
+            {
+              "id": "section-xv",
+              "number": "XV",
+              "heading": "Schedule of Transitional Measures"
+            },
+            {
               "id": "section-1",
               "number": "1.",
               "heading": "Inherent RightsThis constitution is dedicated to the principles that all persons have a natural right to life, liberty, the pursuit of happiness, and the enjoyment of the rewards of their own industry; that all persons are equal and entitled to equal rights, opportunities, and protection under the l"
@@ -298,16 +368,6 @@
               "heading": "Marriage"
             },
             {
-              "id": "section-ii",
-              "number": "II",
-              "heading": "The Legislature"
-            },
-            {
-              "id": "section-iii",
-              "number": "III",
-              "heading": "The Executive"
-            },
-            {
               "id": "section-26",
               "number": "26.",
               "heading": "Boards and Commissions"
@@ -316,66 +376,6 @@
               "id": "section-27",
               "number": "27.",
               "heading": "Recess Appointments"
-            },
-            {
-              "id": "section-iv",
-              "number": "IV",
-              "heading": "The Judiciary"
-            },
-            {
-              "id": "section-v",
-              "number": "V",
-              "heading": "Suffrage and Elections"
-            },
-            {
-              "id": "section-vi",
-              "number": "VI",
-              "heading": "Legislative Apportionment"
-            },
-            {
-              "id": "section-vii",
-              "number": "VII",
-              "heading": "Health, Education and Welfare"
-            },
-            {
-              "id": "section-viii",
-              "number": "VIII",
-              "heading": "Natural Resources"
-            },
-            {
-              "id": "section-ix",
-              "number": "IX",
-              "heading": "Finance and Taxation"
-            },
-            {
-              "id": "section-x",
-              "number": "X",
-              "heading": "Local Government"
-            },
-            {
-              "id": "section-xi",
-              "number": "XI",
-              "heading": "Initiative, Referendum, and Recall"
-            },
-            {
-              "id": "section-xii",
-              "number": "XII",
-              "heading": "General Provisions"
-            },
-            {
-              "id": "section-xiii",
-              "number": "XIII",
-              "heading": "Amendment and Revision"
-            },
-            {
-              "id": "section-xiv",
-              "number": "XIV",
-              "heading": "Apportionment Schedule (repealed)"
-            },
-            {
-              "id": "section-xv",
-              "number": "XV",
-              "heading": "Schedule of Transitional Measures"
             },
             {
               "id": "section-28",
@@ -408,8 +408,13 @@
           "id": "chapter-constitutional-convention-files",
           "number": "constitutional-convention-files",
           "heading": "Constitutional Convention Files",
-          "section_count": 125,
+          "section_count": 143,
           "children": [
+            {
+              "id": "section-retariat",
+              "number": "retariat",
+              "heading": "Numbered Secretariat Documents"
+            },
             {
               "id": "section-1801",
               "number": "180.1",
@@ -524,6 +529,11 @@
               "id": "section-20303",
               "number": "203.03",
               "heading": "Article I"
+            },
+            {
+              "id": "section-icle",
+              "number": "icle",
+              "heading": "I"
             },
             {
               "id": "section-203031",
@@ -861,9 +871,19 @@
               "heading": "Chief Clerk's File - Committee Proposal No. 17b"
             },
             {
+              "id": "section-s",
+              "number": "s",
+              "heading": "I to XV - First Sytle & Drafting Reports"
+            },
+            {
               "id": "section-4101",
               "number": "410.1",
               "heading": "Article I. Preamble and Declaration of Rights (C/P 7)"
+            },
+            {
+              "id": "section-i",
+              "number": "I.",
+              "heading": "Preamble and Declaration of Rights (C/P 7)"
             },
             {
               "id": "section-4102",
@@ -871,9 +891,19 @@
               "heading": "Article II. The Legislature (C/P 5)"
             },
             {
+              "id": "section-ii",
+              "number": "II.",
+              "heading": "The Legislature (C/P 5)"
+            },
+            {
               "id": "section-4103",
               "number": "410.3",
               "heading": "Article III. The Executive (C/P 10a)"
+            },
+            {
+              "id": "section-iii",
+              "number": "III.",
+              "heading": "The Executive (C/P 10a)"
             },
             {
               "id": "section-4104",
@@ -881,9 +911,19 @@
               "heading": "Article IV. The Judiciary (C/P 2)"
             },
             {
+              "id": "section-iv",
+              "number": "IV.",
+              "heading": "The Judiciary (C/P 2)"
+            },
+            {
               "id": "section-4105",
               "number": "410.5",
               "heading": "Article V. Suffrage and Elections (C/P 1)"
+            },
+            {
+              "id": "section-v",
+              "number": "V.",
+              "heading": "Suffrage and Elections (C/P 1)"
             },
             {
               "id": "section-4106",
@@ -891,9 +931,19 @@
               "heading": "Article VI. Legislative Apportionment (C/P 14)"
             },
             {
+              "id": "section-vi",
+              "number": "VI.",
+              "heading": "Legislative Apportionment (C/P 14)"
+            },
+            {
               "id": "section-4107",
               "number": "410.7",
               "heading": "Article VII. Health, Education, and Welfare (C/P 7)"
+            },
+            {
+              "id": "section-vii",
+              "number": "VII.",
+              "heading": "Health, Education, and Welfare (C/P 7)"
             },
             {
               "id": "section-4108",
@@ -901,9 +951,19 @@
               "heading": "Article VIII. Natural Resources (C/P 8a)"
             },
             {
+              "id": "section-viii",
+              "number": "VIII.",
+              "heading": "Natural Resources (C/P 8a)"
+            },
+            {
               "id": "section-4109",
               "number": "410.9",
               "heading": "Article IX. Finance and Taxation (C/P 9)"
+            },
+            {
+              "id": "section-ix",
+              "number": "IX.",
+              "heading": "Finance and Taxation (C/P 9)"
             },
             {
               "id": "section-41010",
@@ -911,9 +971,19 @@
               "heading": "Article X. Local Government (C/P 6a)"
             },
             {
+              "id": "section-x",
+              "number": "X.",
+              "heading": "Local Government (C/P 6a)"
+            },
+            {
               "id": "section-41011",
               "number": "410.11",
               "heading": "Article XI. Initiative, Referendum, and Recall (C/P 3)"
+            },
+            {
+              "id": "section-xi",
+              "number": "XI.",
+              "heading": "Initiative, Referendum, and Recall (C/P 3)"
             },
             {
               "id": "section-41012",
@@ -921,9 +991,19 @@
               "heading": "Article XII. General Provisions (C/P's 12, 15, and 16)"
             },
             {
+              "id": "section-xii",
+              "number": "XII.",
+              "heading": "General Provisions (C/P's 12, 15, and 16)"
+            },
+            {
               "id": "section-41013",
               "number": "410.13",
               "heading": "Article XIII. Amendment and Revision (C/P 3)"
+            },
+            {
+              "id": "section-xiii",
+              "number": "XIII.",
+              "heading": "Amendment and Revision (C/P 3)"
             },
             {
               "id": "section-41014",
@@ -931,9 +1011,19 @@
               "heading": "Article XIV. Apportionment Schedule (C/P 14)"
             },
             {
+              "id": "section-xiv",
+              "number": "XIV.",
+              "heading": "Apportionment Schedule (C/P 14)"
+            },
+            {
               "id": "section-41015",
               "number": "410.15",
               "heading": "Article XV. Schedule of Transitional Measures (C/p 17b)"
+            },
+            {
+              "id": "section-xv",
+              "number": "XV.",
+              "heading": "Schedule of Transitional Measures (C/p 17b)"
             },
             {
               "id": "section-410161",
@@ -1964,8 +2054,13 @@
           "id": "chapter-accessibility",
           "number": "accessibility",
           "heading": "Accessibility",
-          "section_count": 1,
+          "section_count": 2,
           "children": [
+            {
+              "id": "section-907-465",
+              "number": "907-465",
+              "heading": "3854"
+            },
             {
               "id": "section-907-465-4648",
               "number": "907-465-4648",
@@ -2140,6 +2235,76 @@
               "heading": "Declaration of Rights"
             },
             {
+              "id": "section-ii",
+              "number": "II",
+              "heading": "The Legislature"
+            },
+            {
+              "id": "section-iii",
+              "number": "III",
+              "heading": "The Executive"
+            },
+            {
+              "id": "section-iv",
+              "number": "IV",
+              "heading": "The Judiciary"
+            },
+            {
+              "id": "section-v",
+              "number": "V",
+              "heading": "Suffrage and Elections"
+            },
+            {
+              "id": "section-vi",
+              "number": "VI",
+              "heading": "Legislative Apportionment"
+            },
+            {
+              "id": "section-vii",
+              "number": "VII",
+              "heading": "Health, Education and Welfare"
+            },
+            {
+              "id": "section-viii",
+              "number": "VIII",
+              "heading": "Natural Resources"
+            },
+            {
+              "id": "section-ix",
+              "number": "IX",
+              "heading": "Finance and Taxation"
+            },
+            {
+              "id": "section-x",
+              "number": "X",
+              "heading": "Local Government"
+            },
+            {
+              "id": "section-xi",
+              "number": "XI",
+              "heading": "Initiative, Referendum, and Recall"
+            },
+            {
+              "id": "section-xii",
+              "number": "XII",
+              "heading": "General Provisions"
+            },
+            {
+              "id": "section-xiii",
+              "number": "XIII",
+              "heading": "Amendment and Revision"
+            },
+            {
+              "id": "section-xiv",
+              "number": "XIV",
+              "heading": "Apportionment Schedule (repealed)"
+            },
+            {
+              "id": "section-xv",
+              "number": "XV",
+              "heading": "Schedule of Transitional Measures"
+            },
+            {
               "id": "section-1",
               "number": "1.",
               "heading": "Inherent RightsThis constitution is dedicated to the principles that all persons have a natural right to life, liberty, the pursuit of happiness, and the enjoyment of the rewards of their own industry; that all persons are equal and entitled to equal rights, opportunities, and protection under the l"
@@ -2265,16 +2430,6 @@
               "heading": "Marriage"
             },
             {
-              "id": "section-ii",
-              "number": "II",
-              "heading": "The Legislature"
-            },
-            {
-              "id": "section-iii",
-              "number": "III",
-              "heading": "The Executive"
-            },
-            {
               "id": "section-26",
               "number": "26.",
               "heading": "Boards and Commissions"
@@ -2283,66 +2438,6 @@
               "id": "section-27",
               "number": "27.",
               "heading": "Recess Appointments"
-            },
-            {
-              "id": "section-iv",
-              "number": "IV",
-              "heading": "The Judiciary"
-            },
-            {
-              "id": "section-v",
-              "number": "V",
-              "heading": "Suffrage and Elections"
-            },
-            {
-              "id": "section-vi",
-              "number": "VI",
-              "heading": "Legislative Apportionment"
-            },
-            {
-              "id": "section-vii",
-              "number": "VII",
-              "heading": "Health, Education and Welfare"
-            },
-            {
-              "id": "section-viii",
-              "number": "VIII",
-              "heading": "Natural Resources"
-            },
-            {
-              "id": "section-ix",
-              "number": "IX",
-              "heading": "Finance and Taxation"
-            },
-            {
-              "id": "section-x",
-              "number": "X",
-              "heading": "Local Government"
-            },
-            {
-              "id": "section-xi",
-              "number": "XI",
-              "heading": "Initiative, Referendum, and Recall"
-            },
-            {
-              "id": "section-xii",
-              "number": "XII",
-              "heading": "General Provisions"
-            },
-            {
-              "id": "section-xiii",
-              "number": "XIII",
-              "heading": "Amendment and Revision"
-            },
-            {
-              "id": "section-xiv",
-              "number": "XIV",
-              "heading": "Apportionment Schedule (repealed)"
-            },
-            {
-              "id": "section-xv",
-              "number": "XV",
-              "heading": "Schedule of Transitional Measures"
             },
             {
               "id": "section-28",
@@ -2375,8 +2470,13 @@
           "id": "chapter-constitutional-convention-files",
           "number": "constitutional-convention-files",
           "heading": "Constitutional Convention Files",
-          "section_count": 125,
+          "section_count": 143,
           "children": [
+            {
+              "id": "section-retariat",
+              "number": "retariat",
+              "heading": "Numbered Secretariat Documents"
+            },
             {
               "id": "section-1801",
               "number": "180.1",
@@ -2491,6 +2591,11 @@
               "id": "section-20303",
               "number": "203.03",
               "heading": "Article I"
+            },
+            {
+              "id": "section-icle",
+              "number": "icle",
+              "heading": "I"
             },
             {
               "id": "section-203031",
@@ -2828,9 +2933,19 @@
               "heading": "Chief Clerk's File - Committee Proposal No. 17b"
             },
             {
+              "id": "section-s",
+              "number": "s",
+              "heading": "I to XV - First Sytle & Drafting Reports"
+            },
+            {
               "id": "section-4101",
               "number": "410.1",
               "heading": "Article I. Preamble and Declaration of Rights (C/P 7)"
+            },
+            {
+              "id": "section-i",
+              "number": "I.",
+              "heading": "Preamble and Declaration of Rights (C/P 7)"
             },
             {
               "id": "section-4102",
@@ -2838,9 +2953,19 @@
               "heading": "Article II. The Legislature (C/P 5)"
             },
             {
+              "id": "section-ii",
+              "number": "II.",
+              "heading": "The Legislature (C/P 5)"
+            },
+            {
               "id": "section-4103",
               "number": "410.3",
               "heading": "Article III. The Executive (C/P 10a)"
+            },
+            {
+              "id": "section-iii",
+              "number": "III.",
+              "heading": "The Executive (C/P 10a)"
             },
             {
               "id": "section-4104",
@@ -2848,9 +2973,19 @@
               "heading": "Article IV. The Judiciary (C/P 2)"
             },
             {
+              "id": "section-iv",
+              "number": "IV.",
+              "heading": "The Judiciary (C/P 2)"
+            },
+            {
               "id": "section-4105",
               "number": "410.5",
               "heading": "Article V. Suffrage and Elections (C/P 1)"
+            },
+            {
+              "id": "section-v",
+              "number": "V.",
+              "heading": "Suffrage and Elections (C/P 1)"
             },
             {
               "id": "section-4106",
@@ -2858,9 +2993,19 @@
               "heading": "Article VI. Legislative Apportionment (C/P 14)"
             },
             {
+              "id": "section-vi",
+              "number": "VI.",
+              "heading": "Legislative Apportionment (C/P 14)"
+            },
+            {
               "id": "section-4107",
               "number": "410.7",
               "heading": "Article VII. Health, Education, and Welfare (C/P 7)"
+            },
+            {
+              "id": "section-vii",
+              "number": "VII.",
+              "heading": "Health, Education, and Welfare (C/P 7)"
             },
             {
               "id": "section-4108",
@@ -2868,9 +3013,19 @@
               "heading": "Article VIII. Natural Resources (C/P 8a)"
             },
             {
+              "id": "section-viii",
+              "number": "VIII.",
+              "heading": "Natural Resources (C/P 8a)"
+            },
+            {
               "id": "section-4109",
               "number": "410.9",
               "heading": "Article IX. Finance and Taxation (C/P 9)"
+            },
+            {
+              "id": "section-ix",
+              "number": "IX.",
+              "heading": "Finance and Taxation (C/P 9)"
             },
             {
               "id": "section-41010",
@@ -2878,9 +3033,19 @@
               "heading": "Article X. Local Government (C/P 6a)"
             },
             {
+              "id": "section-x",
+              "number": "X.",
+              "heading": "Local Government (C/P 6a)"
+            },
+            {
               "id": "section-41011",
               "number": "410.11",
               "heading": "Article XI. Initiative, Referendum, and Recall (C/P 3)"
+            },
+            {
+              "id": "section-xi",
+              "number": "XI.",
+              "heading": "Initiative, Referendum, and Recall (C/P 3)"
             },
             {
               "id": "section-41012",
@@ -2888,9 +3053,19 @@
               "heading": "Article XII. General Provisions (C/P's 12, 15, and 16)"
             },
             {
+              "id": "section-xii",
+              "number": "XII.",
+              "heading": "General Provisions (C/P's 12, 15, and 16)"
+            },
+            {
               "id": "section-41013",
               "number": "410.13",
               "heading": "Article XIII. Amendment and Revision (C/P 3)"
+            },
+            {
+              "id": "section-xiii",
+              "number": "XIII.",
+              "heading": "Amendment and Revision (C/P 3)"
             },
             {
               "id": "section-41014",
@@ -2898,9 +3073,19 @@
               "heading": "Article XIV. Apportionment Schedule (C/P 14)"
             },
             {
+              "id": "section-xiv",
+              "number": "XIV.",
+              "heading": "Apportionment Schedule (C/P 14)"
+            },
+            {
               "id": "section-41015",
               "number": "410.15",
               "heading": "Article XV. Schedule of Transitional Measures (C/p 17b)"
+            },
+            {
+              "id": "section-xv",
+              "number": "XV.",
+              "heading": "Schedule of Transitional Measures (C/p 17b)"
             },
             {
               "id": "section-410161",
@@ -4235,8 +4420,13 @@
           "id": "chapter-accessibility",
           "number": "accessibility",
           "heading": "Accessibility",
-          "section_count": 1,
+          "section_count": 2,
           "children": [
+            {
+              "id": "section-907-465",
+              "number": "907-465",
+              "heading": "3854"
+            },
             {
               "id": "section-907-465-4648",
               "number": "907-465-4648",
@@ -4924,6 +5114,76 @@
               "heading": "Declaration of Rights"
             },
             {
+              "id": "section-ii",
+              "number": "II",
+              "heading": "The Legislature"
+            },
+            {
+              "id": "section-iii",
+              "number": "III",
+              "heading": "The Executive"
+            },
+            {
+              "id": "section-iv",
+              "number": "IV",
+              "heading": "The Judiciary"
+            },
+            {
+              "id": "section-v",
+              "number": "V",
+              "heading": "Suffrage and Elections"
+            },
+            {
+              "id": "section-vi",
+              "number": "VI",
+              "heading": "Legislative Apportionment"
+            },
+            {
+              "id": "section-vii",
+              "number": "VII",
+              "heading": "Health, Education and Welfare"
+            },
+            {
+              "id": "section-viii",
+              "number": "VIII",
+              "heading": "Natural Resources"
+            },
+            {
+              "id": "section-ix",
+              "number": "IX",
+              "heading": "Finance and Taxation"
+            },
+            {
+              "id": "section-x",
+              "number": "X",
+              "heading": "Local Government"
+            },
+            {
+              "id": "section-xi",
+              "number": "XI",
+              "heading": "Initiative, Referendum, and Recall"
+            },
+            {
+              "id": "section-xii",
+              "number": "XII",
+              "heading": "General Provisions"
+            },
+            {
+              "id": "section-xiii",
+              "number": "XIII",
+              "heading": "Amendment and Revision"
+            },
+            {
+              "id": "section-xiv",
+              "number": "XIV",
+              "heading": "Apportionment Schedule (repealed)"
+            },
+            {
+              "id": "section-xv",
+              "number": "XV",
+              "heading": "Schedule of Transitional Measures"
+            },
+            {
               "id": "section-1",
               "number": "1.",
               "heading": "Inherent RightsThis constitution is dedicated to the principles that all persons have a natural right to life, liberty, the pursuit of happiness, and the enjoyment of the rewards of their own industry; that all persons are equal and entitled to equal rights, opportunities, and protection under the l"
@@ -5049,16 +5309,6 @@
               "heading": "Marriage"
             },
             {
-              "id": "section-ii",
-              "number": "II",
-              "heading": "The Legislature"
-            },
-            {
-              "id": "section-iii",
-              "number": "III",
-              "heading": "The Executive"
-            },
-            {
               "id": "section-26",
               "number": "26.",
               "heading": "Boards and Commissions"
@@ -5067,66 +5317,6 @@
               "id": "section-27",
               "number": "27.",
               "heading": "Recess Appointments"
-            },
-            {
-              "id": "section-iv",
-              "number": "IV",
-              "heading": "The Judiciary"
-            },
-            {
-              "id": "section-v",
-              "number": "V",
-              "heading": "Suffrage and Elections"
-            },
-            {
-              "id": "section-vi",
-              "number": "VI",
-              "heading": "Legislative Apportionment"
-            },
-            {
-              "id": "section-vii",
-              "number": "VII",
-              "heading": "Health, Education and Welfare"
-            },
-            {
-              "id": "section-viii",
-              "number": "VIII",
-              "heading": "Natural Resources"
-            },
-            {
-              "id": "section-ix",
-              "number": "IX",
-              "heading": "Finance and Taxation"
-            },
-            {
-              "id": "section-x",
-              "number": "X",
-              "heading": "Local Government"
-            },
-            {
-              "id": "section-xi",
-              "number": "XI",
-              "heading": "Initiative, Referendum, and Recall"
-            },
-            {
-              "id": "section-xii",
-              "number": "XII",
-              "heading": "General Provisions"
-            },
-            {
-              "id": "section-xiii",
-              "number": "XIII",
-              "heading": "Amendment and Revision"
-            },
-            {
-              "id": "section-xiv",
-              "number": "XIV",
-              "heading": "Apportionment Schedule (repealed)"
-            },
-            {
-              "id": "section-xv",
-              "number": "XV",
-              "heading": "Schedule of Transitional Measures"
             },
             {
               "id": "section-28",
@@ -5159,8 +5349,13 @@
           "id": "chapter-constitutional-convention-files",
           "number": "constitutional-convention-files",
           "heading": "Constitutional Convention Files",
-          "section_count": 125,
+          "section_count": 143,
           "children": [
+            {
+              "id": "section-retariat",
+              "number": "retariat",
+              "heading": "Numbered Secretariat Documents"
+            },
             {
               "id": "section-1801",
               "number": "180.1",
@@ -5275,6 +5470,11 @@
               "id": "section-20303",
               "number": "203.03",
               "heading": "Article I"
+            },
+            {
+              "id": "section-icle",
+              "number": "icle",
+              "heading": "I"
             },
             {
               "id": "section-203031",
@@ -5612,9 +5812,19 @@
               "heading": "Chief Clerk's File - Committee Proposal No. 17b"
             },
             {
+              "id": "section-s",
+              "number": "s",
+              "heading": "I to XV - First Sytle & Drafting Reports"
+            },
+            {
               "id": "section-4101",
               "number": "410.1",
               "heading": "Article I. Preamble and Declaration of Rights (C/P 7)"
+            },
+            {
+              "id": "section-i",
+              "number": "I.",
+              "heading": "Preamble and Declaration of Rights (C/P 7)"
             },
             {
               "id": "section-4102",
@@ -5622,9 +5832,19 @@
               "heading": "Article II. The Legislature (C/P 5)"
             },
             {
+              "id": "section-ii",
+              "number": "II.",
+              "heading": "The Legislature (C/P 5)"
+            },
+            {
               "id": "section-4103",
               "number": "410.3",
               "heading": "Article III. The Executive (C/P 10a)"
+            },
+            {
+              "id": "section-iii",
+              "number": "III.",
+              "heading": "The Executive (C/P 10a)"
             },
             {
               "id": "section-4104",
@@ -5632,9 +5852,19 @@
               "heading": "Article IV. The Judiciary (C/P 2)"
             },
             {
+              "id": "section-iv",
+              "number": "IV.",
+              "heading": "The Judiciary (C/P 2)"
+            },
+            {
               "id": "section-4105",
               "number": "410.5",
               "heading": "Article V. Suffrage and Elections (C/P 1)"
+            },
+            {
+              "id": "section-v",
+              "number": "V.",
+              "heading": "Suffrage and Elections (C/P 1)"
             },
             {
               "id": "section-4106",
@@ -5642,9 +5872,19 @@
               "heading": "Article VI. Legislative Apportionment (C/P 14)"
             },
             {
+              "id": "section-vi",
+              "number": "VI.",
+              "heading": "Legislative Apportionment (C/P 14)"
+            },
+            {
               "id": "section-4107",
               "number": "410.7",
               "heading": "Article VII. Health, Education, and Welfare (C/P 7)"
+            },
+            {
+              "id": "section-vii",
+              "number": "VII.",
+              "heading": "Health, Education, and Welfare (C/P 7)"
             },
             {
               "id": "section-4108",
@@ -5652,9 +5892,19 @@
               "heading": "Article VIII. Natural Resources (C/P 8a)"
             },
             {
+              "id": "section-viii",
+              "number": "VIII.",
+              "heading": "Natural Resources (C/P 8a)"
+            },
+            {
               "id": "section-4109",
               "number": "410.9",
               "heading": "Article IX. Finance and Taxation (C/P 9)"
+            },
+            {
+              "id": "section-ix",
+              "number": "IX.",
+              "heading": "Finance and Taxation (C/P 9)"
             },
             {
               "id": "section-41010",
@@ -5662,9 +5912,19 @@
               "heading": "Article X. Local Government (C/P 6a)"
             },
             {
+              "id": "section-x",
+              "number": "X.",
+              "heading": "Local Government (C/P 6a)"
+            },
+            {
               "id": "section-41011",
               "number": "410.11",
               "heading": "Article XI. Initiative, Referendum, and Recall (C/P 3)"
+            },
+            {
+              "id": "section-xi",
+              "number": "XI.",
+              "heading": "Initiative, Referendum, and Recall (C/P 3)"
             },
             {
               "id": "section-41012",
@@ -5672,9 +5932,19 @@
               "heading": "Article XII. General Provisions (C/P's 12, 15, and 16)"
             },
             {
+              "id": "section-xii",
+              "number": "XII.",
+              "heading": "General Provisions (C/P's 12, 15, and 16)"
+            },
+            {
               "id": "section-41013",
               "number": "410.13",
               "heading": "Article XIII. Amendment and Revision (C/P 3)"
+            },
+            {
+              "id": "section-xiii",
+              "number": "XIII.",
+              "heading": "Amendment and Revision (C/P 3)"
             },
             {
               "id": "section-41014",
@@ -5682,9 +5952,19 @@
               "heading": "Article XIV. Apportionment Schedule (C/P 14)"
             },
             {
+              "id": "section-xiv",
+              "number": "XIV.",
+              "heading": "Apportionment Schedule (C/P 14)"
+            },
+            {
               "id": "section-41015",
               "number": "410.15",
               "heading": "Article XV. Schedule of Transitional Measures (C/p 17b)"
+            },
+            {
+              "id": "section-xv",
+              "number": "XV.",
+              "heading": "Schedule of Transitional Measures (C/p 17b)"
             },
             {
               "id": "section-410161",
@@ -8280,8 +8560,13 @@
           "id": "chapter-accessibility",
           "number": "accessibility",
           "heading": "Accessibility",
-          "section_count": 1,
+          "section_count": 2,
           "children": [
+            {
+              "id": "section-907-465",
+              "number": "907-465",
+              "heading": "3854"
+            },
             {
               "id": "section-907-465-4648",
               "number": "907-465-4648",
@@ -8771,6 +9056,76 @@
               "heading": "Declaration of Rights"
             },
             {
+              "id": "section-ii",
+              "number": "II",
+              "heading": "The Legislature"
+            },
+            {
+              "id": "section-iii",
+              "number": "III",
+              "heading": "The Executive"
+            },
+            {
+              "id": "section-iv",
+              "number": "IV",
+              "heading": "The Judiciary"
+            },
+            {
+              "id": "section-v",
+              "number": "V",
+              "heading": "Suffrage and Elections"
+            },
+            {
+              "id": "section-vi",
+              "number": "VI",
+              "heading": "Legislative Apportionment"
+            },
+            {
+              "id": "section-vii",
+              "number": "VII",
+              "heading": "Health, Education and Welfare"
+            },
+            {
+              "id": "section-viii",
+              "number": "VIII",
+              "heading": "Natural Resources"
+            },
+            {
+              "id": "section-ix",
+              "number": "IX",
+              "heading": "Finance and Taxation"
+            },
+            {
+              "id": "section-x",
+              "number": "X",
+              "heading": "Local Government"
+            },
+            {
+              "id": "section-xi",
+              "number": "XI",
+              "heading": "Initiative, Referendum, and Recall"
+            },
+            {
+              "id": "section-xii",
+              "number": "XII",
+              "heading": "General Provisions"
+            },
+            {
+              "id": "section-xiii",
+              "number": "XIII",
+              "heading": "Amendment and Revision"
+            },
+            {
+              "id": "section-xiv",
+              "number": "XIV",
+              "heading": "Apportionment Schedule (repealed)"
+            },
+            {
+              "id": "section-xv",
+              "number": "XV",
+              "heading": "Schedule of Transitional Measures"
+            },
+            {
               "id": "section-1",
               "number": "1.",
               "heading": "Inherent RightsThis constitution is dedicated to the principles that all persons have a natural right to life, liberty, the pursuit of happiness, and the enjoyment of the rewards of their own industry; that all persons are equal and entitled to equal rights, opportunities, and protection under the l"
@@ -8896,16 +9251,6 @@
               "heading": "Marriage"
             },
             {
-              "id": "section-ii",
-              "number": "II",
-              "heading": "The Legislature"
-            },
-            {
-              "id": "section-iii",
-              "number": "III",
-              "heading": "The Executive"
-            },
-            {
               "id": "section-26",
               "number": "26.",
               "heading": "Boards and Commissions"
@@ -8914,66 +9259,6 @@
               "id": "section-27",
               "number": "27.",
               "heading": "Recess Appointments"
-            },
-            {
-              "id": "section-iv",
-              "number": "IV",
-              "heading": "The Judiciary"
-            },
-            {
-              "id": "section-v",
-              "number": "V",
-              "heading": "Suffrage and Elections"
-            },
-            {
-              "id": "section-vi",
-              "number": "VI",
-              "heading": "Legislative Apportionment"
-            },
-            {
-              "id": "section-vii",
-              "number": "VII",
-              "heading": "Health, Education and Welfare"
-            },
-            {
-              "id": "section-viii",
-              "number": "VIII",
-              "heading": "Natural Resources"
-            },
-            {
-              "id": "section-ix",
-              "number": "IX",
-              "heading": "Finance and Taxation"
-            },
-            {
-              "id": "section-x",
-              "number": "X",
-              "heading": "Local Government"
-            },
-            {
-              "id": "section-xi",
-              "number": "XI",
-              "heading": "Initiative, Referendum, and Recall"
-            },
-            {
-              "id": "section-xii",
-              "number": "XII",
-              "heading": "General Provisions"
-            },
-            {
-              "id": "section-xiii",
-              "number": "XIII",
-              "heading": "Amendment and Revision"
-            },
-            {
-              "id": "section-xiv",
-              "number": "XIV",
-              "heading": "Apportionment Schedule (repealed)"
-            },
-            {
-              "id": "section-xv",
-              "number": "XV",
-              "heading": "Schedule of Transitional Measures"
             },
             {
               "id": "section-28",
@@ -9006,8 +9291,13 @@
           "id": "chapter-constitutional-convention-files",
           "number": "constitutional-convention-files",
           "heading": "Constitutional Convention Files",
-          "section_count": 125,
+          "section_count": 143,
           "children": [
+            {
+              "id": "section-retariat",
+              "number": "retariat",
+              "heading": "Numbered Secretariat Documents"
+            },
             {
               "id": "section-1801",
               "number": "180.1",
@@ -9122,6 +9412,11 @@
               "id": "section-20303",
               "number": "203.03",
               "heading": "Article I"
+            },
+            {
+              "id": "section-icle",
+              "number": "icle",
+              "heading": "I"
             },
             {
               "id": "section-203031",
@@ -9459,9 +9754,19 @@
               "heading": "Chief Clerk's File - Committee Proposal No. 17b"
             },
             {
+              "id": "section-s",
+              "number": "s",
+              "heading": "I to XV - First Sytle & Drafting Reports"
+            },
+            {
               "id": "section-4101",
               "number": "410.1",
               "heading": "Article I. Preamble and Declaration of Rights (C/P 7)"
+            },
+            {
+              "id": "section-i",
+              "number": "I.",
+              "heading": "Preamble and Declaration of Rights (C/P 7)"
             },
             {
               "id": "section-4102",
@@ -9469,9 +9774,19 @@
               "heading": "Article II. The Legislature (C/P 5)"
             },
             {
+              "id": "section-ii",
+              "number": "II.",
+              "heading": "The Legislature (C/P 5)"
+            },
+            {
               "id": "section-4103",
               "number": "410.3",
               "heading": "Article III. The Executive (C/P 10a)"
+            },
+            {
+              "id": "section-iii",
+              "number": "III.",
+              "heading": "The Executive (C/P 10a)"
             },
             {
               "id": "section-4104",
@@ -9479,9 +9794,19 @@
               "heading": "Article IV. The Judiciary (C/P 2)"
             },
             {
+              "id": "section-iv",
+              "number": "IV.",
+              "heading": "The Judiciary (C/P 2)"
+            },
+            {
               "id": "section-4105",
               "number": "410.5",
               "heading": "Article V. Suffrage and Elections (C/P 1)"
+            },
+            {
+              "id": "section-v",
+              "number": "V.",
+              "heading": "Suffrage and Elections (C/P 1)"
             },
             {
               "id": "section-4106",
@@ -9489,9 +9814,19 @@
               "heading": "Article VI. Legislative Apportionment (C/P 14)"
             },
             {
+              "id": "section-vi",
+              "number": "VI.",
+              "heading": "Legislative Apportionment (C/P 14)"
+            },
+            {
               "id": "section-4107",
               "number": "410.7",
               "heading": "Article VII. Health, Education, and Welfare (C/P 7)"
+            },
+            {
+              "id": "section-vii",
+              "number": "VII.",
+              "heading": "Health, Education, and Welfare (C/P 7)"
             },
             {
               "id": "section-4108",
@@ -9499,9 +9834,19 @@
               "heading": "Article VIII. Natural Resources (C/P 8a)"
             },
             {
+              "id": "section-viii",
+              "number": "VIII.",
+              "heading": "Natural Resources (C/P 8a)"
+            },
+            {
               "id": "section-4109",
               "number": "410.9",
               "heading": "Article IX. Finance and Taxation (C/P 9)"
+            },
+            {
+              "id": "section-ix",
+              "number": "IX.",
+              "heading": "Finance and Taxation (C/P 9)"
             },
             {
               "id": "section-41010",
@@ -9509,9 +9854,19 @@
               "heading": "Article X. Local Government (C/P 6a)"
             },
             {
+              "id": "section-x",
+              "number": "X.",
+              "heading": "Local Government (C/P 6a)"
+            },
+            {
               "id": "section-41011",
               "number": "410.11",
               "heading": "Article XI. Initiative, Referendum, and Recall (C/P 3)"
+            },
+            {
+              "id": "section-xi",
+              "number": "XI.",
+              "heading": "Initiative, Referendum, and Recall (C/P 3)"
             },
             {
               "id": "section-41012",
@@ -9519,9 +9874,19 @@
               "heading": "Article XII. General Provisions (C/P's 12, 15, and 16)"
             },
             {
+              "id": "section-xii",
+              "number": "XII.",
+              "heading": "General Provisions (C/P's 12, 15, and 16)"
+            },
+            {
               "id": "section-41013",
               "number": "410.13",
               "heading": "Article XIII. Amendment and Revision (C/P 3)"
+            },
+            {
+              "id": "section-xiii",
+              "number": "XIII.",
+              "heading": "Amendment and Revision (C/P 3)"
             },
             {
               "id": "section-41014",
@@ -9529,9 +9894,19 @@
               "heading": "Article XIV. Apportionment Schedule (C/P 14)"
             },
             {
+              "id": "section-xiv",
+              "number": "XIV.",
+              "heading": "Apportionment Schedule (C/P 14)"
+            },
+            {
               "id": "section-41015",
               "number": "410.15",
               "heading": "Article XV. Schedule of Transitional Measures (C/p 17b)"
+            },
+            {
+              "id": "section-xv",
+              "number": "XV.",
+              "heading": "Schedule of Transitional Measures (C/p 17b)"
             },
             {
               "id": "section-410161",

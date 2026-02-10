@@ -4,7 +4,7 @@
   "code_name": "Revised Code of Washington",
   "source": "official_website",
   "source_url": "https://app.leg.wa.gov/rcw",
-  "last_updated": "2026-02-10T14:12:02.685696+00:00",
+  "last_updated": "2026-02-10T23:53:19.044517+00:00",
   "year": 2024,
   "structure": [
     {
@@ -21,8 +21,8 @@
     }
   ],
   "stats": {
-    "titles": 18,
-    "chapters": 18,
-    "sections": 22
+    "titles": 101,
+    "chapters": 101,
+    "sections": 5363
   }
 }

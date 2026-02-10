@@ -4,7 +4,7 @@
   "code_name": "Kentucky Revised Statutes",
   "source": "official_website",
   "source_url": "https://apps.legislature.ky.gov/law/statutes/index.aspx",
-  "last_updated": "2026-02-10T13:57:50.810276+00:00",
+  "last_updated": "2026-02-10T23:47:33.328344+00:00",
   "year": 2024,
   "structure": [
     {
@@ -21,8 +21,8 @@
     }
   ],
   "stats": {
-    "titles": 10,
-    "chapters": 10,
-    "sections": 35
+    "titles": 202,
+    "chapters": 203,
+    "sections": 4442
   }
 }

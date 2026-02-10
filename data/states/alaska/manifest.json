@@ -4,7 +4,7 @@
   "code_name": "Alaska Statutes",
   "source": "official_website",
   "source_url": "https://www.akleg.gov/basis/statutes.asp",
-  "last_updated": "2026-02-10T12:54:42.087768+00:00",
+  "last_updated": "2026-02-10T23:41:28.555507+00:00",
   "year": 2024,
   "structure": [
     {
@@ -23,6 +23,6 @@
   "stats": {
     "titles": 4,
     "chapters": 299,
-    "sections": 1843
+    "sections": 1918
   }
 }

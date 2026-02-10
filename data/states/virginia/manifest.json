@@ -4,7 +4,7 @@
   "code_name": "Code of Virginia",
   "source": "official_website",
   "source_url": "https://law.lis.virginia.gov/vacode",
-  "last_updated": "2026-02-10T13:18:35.864521+00:00",
+  "last_updated": "2026-02-10T23:54:51.102796+00:00",
   "year": 2024,
   "structure": [
     {
@@ -22,7 +22,7 @@
   ],
   "stats": {
     "titles": 76,
-    "chapters": 76,
-    "sections": 91
+    "chapters": 1599,
+    "sections": 35737
   }
 }

@@ -4,7 +4,7 @@
   "code_name": "Oregon Revised Statutes",
   "source": "official_website",
   "source_url": "https://www.oregonlegislature.gov/bills_laws/Pages/ORS.aspx",
-  "last_updated": "2026-02-10T14:11:47.419880+00:00",
+  "last_updated": "2026-02-10T23:51:15.472620+00:00",
   "year": 2024,
   "structure": [
     {
@@ -17,8 +17,8 @@
     }
   ],
   "stats": {
-    "titles": 0,
-    "chapters": 0,
-    "sections": 0
+    "titles": 259,
+    "chapters": 259,
+    "sections": 2399
   }
 }

@@ -4,7 +4,7 @@
   "code_name": "Minnesota Statutes",
   "source": "official_website",
   "source_url": "https://www.revisor.mn.gov/statutes",
-  "last_updated": "2026-02-10T14:11:35.148082+00:00",
+  "last_updated": "2026-02-10T23:47:48.931620+00:00",
   "year": 2024,
   "structure": [
     {
@@ -17,8 +17,8 @@
     }
   ],
   "stats": {
-    "titles": 0,
-    "chapters": 0,
-    "sections": 0
+    "titles": 103,
+    "chapters": 1133,
+    "sections": 1179
   }
 }

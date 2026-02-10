@@ -1,4 +1,25 @@
 {
   "state": "tennessee",
-  "children": []
+  "children": [
+    {
+      "id": "title-2018-tennessee-code",
+      "number": "2018-tennessee-code",
+      "heading": "2018 Tennessee Code",
+      "children": [
+        {
+          "id": "chapter-title-48-corporations-and-associations",
+          "number": "title-48-corporations-and-associations",
+          "heading": "Title 48 Corporations And Associations",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-uritiesfor-profit",
+              "number": "uritiesFor-Profit",
+              "heading": "Business CorporationsNonprofit CorporationsMiscellaneous Corporation ProvisionsLimited Liability Companies"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

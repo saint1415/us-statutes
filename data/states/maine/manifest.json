@@ -4,7 +4,7 @@
   "code_name": "Maine Revised Statutes",
   "source": "official_website",
   "source_url": "https://legislature.maine.gov/statutes",
-  "last_updated": "2026-02-10T14:11:25.387578+00:00",
+  "last_updated": "2026-02-10T23:49:12.988967+00:00",
   "year": 2024,
   "structure": [
     {
@@ -21,8 +21,8 @@
     }
   ],
   "stats": {
-    "titles": 0,
-    "chapters": 0,
-    "sections": 0
+    "titles": 64,
+    "chapters": 3145,
+    "sections": 3624
   }
 }

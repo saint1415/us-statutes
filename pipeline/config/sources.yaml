@@ -63,7 +63,7 @@ jurisdictions:
   georgia:
     source_type: official_website
     code_name: "Official Code of Georgia Annotated"
-    url: "https://www.lexisnexis.com/hottopics/gacode/Default.asp"
+    url: "https://law.justia.com/codes/georgia/"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -83,7 +83,7 @@ jurisdictions:
   mississippi:
     source_type: official_website
     code_name: "Mississippi Code"
-    url: "https://www.lexisnexis.com/hottopics/mscode/"
+    url: "https://law.justia.com/codes/mississippi/"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -102,7 +102,7 @@ jurisdictions:
   tennessee:
     source_type: official_website
     code_name: "Tennessee Code"
-    url: "https://www.lexisnexis.com/hottopics/tncode/"
+    url: "https://law.justia.com/codes/tennessee/"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -111,10 +111,9 @@ jurisdictions:
 
   # === State-provided bulk data ===
   connecticut:
-    source_type: state_provided
+    source_type: official_website
     code_name: "Connecticut General Statutes"
-    url: "https://www.cga.ct.gov/current/pub/titles.htm"
-    verify_ssl: false
+    url: "https://law.justia.com/codes/connecticut/"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -122,7 +121,7 @@ jurisdictions:
       - {level: section, label: Section}
 
   florida:
-    source_type: state_provided
+    source_type: official_website
     code_name: "Florida Statutes"
     url: "http://www.leg.state.fl.us/statutes/"
     year: 2024
@@ -132,9 +131,9 @@ jurisdictions:
       - {level: section, label: Section}
 
   maryland:
-    source_type: state_provided
+    source_type: official_website
     code_name: "Maryland Code"
-    url: "https://mgaleg.maryland.gov/mgawebsite/Laws/Statutes"
+    url: "https://law.justia.com/codes/maryland/"
     year: 2024
     structure:
       - {level: article, label: Article}
@@ -142,9 +141,9 @@ jurisdictions:
       - {level: section, label: Section}
 
   nebraska:
-    source_type: state_provided
+    source_type: official_website
     code_name: "Revised Statutes of Nebraska"
-    url: "https://nebraskalegislature.gov/laws/browse-statutes.php"
+    url: "https://law.justia.com/codes/nebraska/"
     year: 2024
     structure:
       - {level: chapter, label: Chapter}
@@ -156,7 +155,7 @@ jurisdictions:
   alabama:
     source_type: official_website
     code_name: "Code of Alabama"
-    url: "https://alison.legislature.state.al.us/code-of-alabama"
+    url: "https://alisondb.legislature.state.al.us/alison/CodeOfAlabama/1975"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -176,7 +175,7 @@ jurisdictions:
   arizona:
     source_type: official_website
     code_name: "Arizona Revised Statutes"
-    url: "https://www.azleg.gov/arsTable/"
+    url: "https://www.azleg.gov/arsDetail/"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -228,7 +227,7 @@ jurisdictions:
   kansas:
     source_type: official_website
     code_name: "Kansas Statutes"
-    url: "https://www.ksrevisor.org/statutes.html"
+    url: "https://www.kslegislature.org/li/b2025_26/statute/"
     year: 2024
     structure:
       - {level: chapter, label: Chapter}
@@ -338,7 +337,7 @@ jurisdictions:
   new-jersey:
     source_type: official_website
     code_name: "New Jersey Statutes"
-    url: "https://pub.njleg.state.nj.us/statutes/"
+    url: "https://law.justia.com/codes/new-jersey/"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -347,7 +346,7 @@ jurisdictions:
   new-mexico:
     source_type: official_website
     code_name: "New Mexico Statutes"
-    url: "https://nmonesource.com/nmos/nmsa/en/nav.do"
+    url: "https://law.justia.com/codes/new-mexico/"
     year: 2024
     structure:
       - {level: chapter, label: Chapter}
@@ -527,7 +526,7 @@ jurisdictions:
   puerto-rico:
     source_type: official_website
     code_name: "Laws of Puerto Rico"
-    url: "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/lista.htm"
+    url: "https://law.justia.com/codes/puerto-rico/"
     year: 2024
     structure:
       - {level: title, label: Title}
@@ -537,7 +536,7 @@ jurisdictions:
   guam:
     source_type: official_website
     code_name: "Guam Code Annotated"
-    url: "https://www.guamcourts.org/CompilerofLaws/GCA.html"
+    url: "https://law.justia.com/codes/guam/"
     year: 2024
     structure:
       - {level: title, label: Title}

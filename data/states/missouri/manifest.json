@@ -4,7 +4,7 @@
   "code_name": "Missouri Revised Statutes",
   "source": "official_website",
   "source_url": "https://revisor.mo.gov/main/Home.aspx",
-  "last_updated": "2026-02-10T13:05:07.338117+00:00",
+  "last_updated": "2026-02-10T23:47:12.600799+00:00",
   "year": 2024,
   "structure": [
     {
@@ -21,8 +21,8 @@
     }
   ],
   "stats": {
-    "titles": 112,
-    "chapters": 112,
-    "sections": 173
+    "titles": 458,
+    "chapters": 458,
+    "sections": 30169
   }
 }

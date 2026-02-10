@@ -2,9 +2,9 @@
   "state": "florida",
   "state_abbr": "FL",
   "code_name": "Florida Statutes",
-  "source": "state_provided",
-  "source_url": "http://www.leg.state.fl.us/statutes/",
-  "last_updated": "2026-02-10T14:10:34.246014+00:00",
+  "source": "official_website",
+  "source_url": "http://www.leg.state.fl.us/statutes",
+  "last_updated": "2026-02-10T23:44:48.209253+00:00",
   "year": 2024,
   "structure": [
     {
@@ -21,8 +21,8 @@
     }
   ],
   "stats": {
-    "titles": 0,
-    "chapters": 0,
-    "sections": 0
+    "titles": 635,
+    "chapters": 635,
+    "sections": 26368
   }
 }

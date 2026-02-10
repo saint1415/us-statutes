@@ -32,7 +32,7 @@ class OfficialWebsiteIngestor(BaseIngestor):
         self.http_cache = HttpCache(
             cache_dir=(cache_dir or Path("cache")) / "http",
             ttl=7 * 24 * 3600,
-            rate_limiter=RateLimiter(requests_per_second=1.0, burst=2),
+            rate_limiter=RateLimiter(requests_per_second=3.0, burst=5),
             verify_ssl=verify_ssl,
         )
         self.base_url = config["url"].rstrip("/")
@@ -176,9 +176,16 @@ class OfficialWebsiteIngestor(BaseIngestor):
 
     def _extract_sections_from_file(self, path: Path) -> list[Section]:
         """Extract sections from an HTML file."""
-        content = path.read_text(encoding="utf-8", errors="replace")
-        soup = BeautifulSoup(content, "html.parser")
-        return extract_sections_from_soup(soup)
+        try:
+            content = path.read_text(encoding="utf-8", errors="replace")
+            # Skip binary/PDF files that were saved as .html
+            if content.startswith("%PDF") or "\x00" in content[:1000]:
+                return []
+            soup = BeautifulSoup(content, "html.parser")
+            return extract_sections_from_soup(soup)
+        except Exception as e:
+            logger.debug("Failed to parse %s: %s", path, e)
+            return []
 
     def _find_code_links(self, soup: BeautifulSoup, parent_url: str) -> list[tuple[str, str]]:
         """Find statute navigation links in a page."""
@@ -203,90 +210,38 @@ class OfficialWebsiteIngestor(BaseIngestor):
     # ================================================================
 
     def _fetch_arizona(self, raw_dir: Path) -> None:
-        """AZ: Static HTML at azleg.gov/arsTable/"""
-        index_url = "https://www.azleg.gov/arsTable/"
-        index_html = self._fetch_page(index_url)
-        (raw_dir / "index.html").write_text(index_html, encoding="utf-8")
-        soup = BeautifulSoup(index_html, "html.parser")
-        for a in soup.find_all("a", href=True):
-            href = a["href"]
-            if "/ars/" in href.lower() or "/arstitle" in href.lower():
-                url = urljoin(index_url, href)
-                text = a.get_text(strip=True)
-                safe = _slugify(text or href.split("/")[-1])[:60]
-                tdir = raw_dir / safe
-                tdir.mkdir(exist_ok=True)
-                try:
-                    html = self._fetch_page(url)
+        """AZ: azleg.gov - direct title URLs."""
+        # AZ titles numbered 1-49
+        for title_num in range(1, 50):
+            url = f"https://www.azleg.gov/arsDetail/?title={title_num}"
+            try:
+                html = self._fetch_page(url)
+                if len(html) > 500:
+                    tdir = raw_dir / f"title-{title_num:02d}"
+                    tdir.mkdir(exist_ok=True)
                     (tdir / "index.html").write_text(html, encoding="utf-8")
-                    tsoup = BeautifulSoup(html, "html.parser")
-                    for sa in tsoup.find_all("a", href=True):
-                        if ".htm" in sa["href"]:
-                            surl = urljoin(url, sa["href"])
-                            stext = sa.get_text(strip=True)
-                            sname = _slugify(stext or sa["href"].split("/")[-1])[:60]
+                    soup = BeautifulSoup(html, "html.parser")
+                    for a in soup.find_all("a", href=True):
+                        href = a["href"]
+                        text = a.get_text(strip=True)
+                        if ".htm" in href:
+                            aurl = urljoin(url, href)
+                            safe = _slugify(text or href.split("/")[-1])[:60]
                             try:
-                                shtml = self._fetch_page(surl)
-                                (tdir / f"{sname}.html").write_text(shtml, encoding="utf-8")
+                                ahtml = self._fetch_page(aurl)
+                                (tdir / f"{safe}.html").write_text(ahtml, encoding="utf-8")
                             except Exception:
                                 pass
-                except Exception as e:
-                    logger.debug("Skip AZ title: %s", e)
+            except Exception:
+                pass
 
     def _fetch_california(self, raw_dir: Path) -> None:
-        """CA: leginfo.legislature.ca.gov - structured code browser."""
-        base = "https://leginfo.legislature.ca.gov/faces"
-        codes_url = f"{base}/codes.xhtml"
-        index_html = self._fetch_page(codes_url)
-        (raw_dir / "index.html").write_text(index_html, encoding="utf-8")
-        soup = BeautifulSoup(index_html, "html.parser")
-
-        # Find links to code TOCs like codesTOCSelected.xhtml?tocCode=BPC
-        for a in soup.find_all("a", href=True):
-            href = a["href"]
-            text = a.get_text(strip=True)
-            if "tocCode=" in href or "codesTOC" in href:
-                url = urljoin(codes_url, href)
-                safe = _slugify(text or href.split("=")[-1])[:60]
-                tdir = raw_dir / safe
-                tdir.mkdir(exist_ok=True)
-                try:
-                    html = self._fetch_page(url)
-                    (tdir / "index.html").write_text(html, encoding="utf-8")
-                    # Follow section/text links
-                    tsoup = BeautifulSoup(html, "html.parser")
-                    for sa in tsoup.find_all("a", href=True):
-                        sh = sa["href"]
-                        if "codes_displaySection" in sh or "codes_displayText" in sh:
-                            surl = urljoin(url, sh)
-                            stext = sa.get_text(strip=True)
-                            sname = _slugify(stext or sh.split("=")[-1])[:60]
-                            try:
-                                shtml = self._fetch_page(surl)
-                                (tdir / f"{sname}.html").write_text(shtml, encoding="utf-8")
-                            except Exception:
-                                pass
-                except Exception as e:
-                    logger.debug("Skip CA code %s: %s", text, e)
+        """CA: Use Justia (official site is JS-rendered)."""
+        self._fetch_justia(raw_dir, "california")
 
     def _fetch_colorado(self, raw_dir: Path) -> None:
-        """CO: leg.colorado.gov/colorado-revised-statutes."""
-        index_url = "https://leg.colorado.gov/colorado-revised-statutes"
-        index_html = self._fetch_page(index_url)
-        (raw_dir / "index.html").write_text(index_html, encoding="utf-8")
-        soup = BeautifulSoup(index_html, "html.parser")
-
-        for a in soup.find_all("a", href=True):
-            href = a["href"]
-            text = a.get_text(strip=True)
-            if "/node/" in href or "title" in href.lower():
-                url = urljoin(index_url, href)
-                safe = _slugify(text or href.split("/")[-1])[:60]
-                try:
-                    html = self._fetch_page(url)
-                    (raw_dir / f"{safe}.html").write_text(html, encoding="utf-8")
-                except Exception:
-                    pass
+        """CO: Use Justia (official site is Drupal CMS, shallow data)."""
+        self._fetch_justia(raw_dir, "colorado")
 
     def _fetch_delaware(self, raw_dir: Path) -> None:
         """DE: delcode.delaware.gov - clean static HTML."""
@@ -347,23 +302,17 @@ class OfficialWebsiteIngestor(BaseIngestor):
                     logger.debug("Skip ID title: %s", e)
 
     def _fetch_oregon(self, raw_dir: Path) -> None:
-        """OR: oregonlegislature.gov - numbered ORS chapter HTML files."""
-        base = "https://www.oregonlegislature.gov/bills_laws"
-        index_url = f"{base}/Pages/ORS.aspx"
-        index_html = self._fetch_page(index_url)
-        (raw_dir / "index.html").write_text(index_html, encoding="utf-8")
-        soup = BeautifulSoup(index_html, "html.parser")
-
-        for a in soup.find_all("a", href=True):
-            href = a["href"]
-            if "ors" in href.lower() and href.endswith(".html"):
-                url = urljoin(index_url, href)
-                safe = _slugify(href.replace(".html", "").split("/")[-1])[:60]
-                try:
-                    html = self._fetch_page(url)
-                    (raw_dir / f"{safe}.html").write_text(html, encoding="utf-8")
-                except Exception:
-                    pass
+        """OR: oregonlegislature.gov - direct ORS chapter HTML files."""
+        base = "https://www.oregonlegislature.gov/bills_laws/ors"
+        # ORS chapters are numbered 001-999, directly accessible
+        for ch in range(1, 1000):
+            url = f"{base}/ors{ch:03d}.html"
+            try:
+                html = self._fetch_page(url)
+                if len(html) > 500:
+                    (raw_dir / f"ors{ch:03d}.html").write_text(html, encoding="utf-8")
+            except Exception:
+                pass
 
     def _fetch_alaska(self, raw_dir: Path) -> None:
         """AK: akleg.gov - title/chapter structure."""
@@ -385,29 +334,43 @@ class OfficialWebsiteIngestor(BaseIngestor):
                     pass
 
     def _fetch_hawaii(self, raw_dir: Path) -> None:
-        """HI: capitol.hawaii.gov/hrscurrent/."""
-        base_url = "https://www.capitol.hawaii.gov/hrscurrent/"
-        index_html = self._fetch_page(base_url)
+        """HI: Use Justia (official site has complex volume/chapter numbering)."""
+        self._fetch_justia(raw_dir, "hawaii")
+
+    def _fetch_indiana(self, raw_dir: Path) -> None:
+        """IN: Use Justia (official site is JS-rendered)."""
+        self._fetch_justia(raw_dir, "indiana")
+
+    def _fetch_iowa(self, raw_dir: Path) -> None:
+        """IA: Use Justia (official site has dynamic chapter URLs)."""
+        self._fetch_justia(raw_dir, "iowa")
+
+    def _fetch_kentucky(self, raw_dir: Path) -> None:
+        """KY: apps.legislature.ky.gov - title → chapter → statute pages."""
+        base_url = "https://apps.legislature.ky.gov/law/statutes/"
+        index_html = self._fetch_page(base_url + "index.aspx")
         (raw_dir / "index.html").write_text(index_html, encoding="utf-8")
         soup = BeautifulSoup(index_html, "html.parser")
-
+        # Follow title/chapter links
         for a in soup.find_all("a", href=True):
             href = a["href"]
             text = a.get_text(strip=True)
-            if href.endswith(".htm") or href.endswith(".html"):
-                url = urljoin(base_url, href)
-                safe = _slugify(text or href.split("/")[-1])[:60]
+            if "statute.aspx" in href or "chapter.aspx" in href or "title.aspx" in href:
+                url = urljoin(base_url + "index.aspx", href)
+                safe = _slugify(text or href.split("=")[-1])[:60]
                 tdir = raw_dir / safe
                 tdir.mkdir(exist_ok=True)
                 try:
                     html = self._fetch_page(url)
                     (tdir / "index.html").write_text(html, encoding="utf-8")
+                    # Follow deeper links to actual statute text
                     tsoup = BeautifulSoup(html, "html.parser")
                     for sa in tsoup.find_all("a", href=True):
                         sh = sa["href"]
-                        if sh.endswith(".htm") or sh.endswith(".html"):
+                        st = sa.get_text(strip=True)
+                        if "statute.aspx" in sh or "chapter.aspx" in sh:
                             surl = urljoin(url, sh)
-                            sname = _slugify(sa.get_text(strip=True) or sh.split("/")[-1])[:60]
+                            sname = _slugify(st or sh.split("=")[-1])[:60]
                             try:
                                 shtml = self._fetch_page(surl)
                                 (tdir / f"{sname}.html").write_text(shtml, encoding="utf-8")
@@ -416,80 +379,39 @@ class OfficialWebsiteIngestor(BaseIngestor):
                 except Exception:
                     pass
 
-    def _fetch_indiana(self, raw_dir: Path) -> None:
-        """IN: iga.in.gov - clean structure."""
-        base_url = "https://iga.in.gov/laws/current/ic"
-        index_html = self._fetch_page(base_url)
-        (raw_dir / "index.html").write_text(index_html, encoding="utf-8")
-        soup = BeautifulSoup(index_html, "html.parser")
-
-        for a in soup.find_all("a", href=True):
-            href = a["href"]
-            text = a.get_text(strip=True)
-            if "/ic/" in href or "/laws/" in href:
-                url = urljoin(base_url, href)
-                safe = _slugify(text or href.split("/")[-1])[:60]
-                try:
-                    html = self._fetch_page(url)
-                    (raw_dir / f"{safe}.html").write_text(html, encoding="utf-8")
-                except Exception:
-                    pass
-
-    def _fetch_iowa(self, raw_dir: Path) -> None:
-        """IA: legis.iowa.gov - section-based."""
-        base_url = "https://www.legis.iowa.gov/law/iowaCode/sections"
-        index_html = self._fetch_page(base_url)
-        (raw_dir / "index.html").write_text(index_html, encoding="utf-8")
-        soup = BeautifulSoup(index_html, "html.parser")
-
-        for a in soup.find_all("a", href=True):
-            href = a["href"]
-            text = a.get_text(strip=True)
-            if "iowaCode" in href and href != base_url:
-                url = urljoin(base_url, href)
-                safe = _slugify(text or href.split("/")[-1])[:60]
-                try:
-                    html = self._fetch_page(url)
-                    (raw_dir / f"{safe}.html").write_text(html, encoding="utf-8")
-                except Exception:
-                    pass
-
-    def _fetch_kentucky(self, raw_dir: Path) -> None:
-        """KY: apps.legislature.ky.gov."""
-        base_url = "https://apps.legislature.ky.gov/law/statutes/"
-        index_html = self._fetch_page(base_url + "index.aspx")
-        (raw_dir / "index.html").write_text(index_html, encoding="utf-8")
-        soup = BeautifulSoup(index_html, "html.parser")
-
-        for a in soup.find_all("a", href=True):
-            href = a["href"]
-            text = a.get_text(strip=True)
-            if "statute.aspx" in href or "chapter.aspx" in href:
-                url = urljoin(base_url + "index.aspx", href)
-                safe = _slugify(text or href.split("=")[-1])[:60]
-                try:
-                    html = self._fetch_page(url)
-                    (raw_dir / f"{safe}.html").write_text(html, encoding="utf-8")
-                except Exception:
-                    pass
-
     def _fetch_minnesota(self, raw_dir: Path) -> None:
-        """MN: revisor.mn.gov/statutes/cite/{chapter}."""
+        """MN: revisor.mn.gov - part pages → chapter pages with sections."""
         index_url = "https://www.revisor.mn.gov/statutes/"
         index_html = self._fetch_page(index_url)
         (raw_dir / "index.html").write_text(index_html, encoding="utf-8")
         soup = BeautifulSoup(index_html, "html.parser")
+        # Follow /statutes/part/ links to get topic pages
         for a in soup.find_all("a", href=True):
             href = a["href"]
-            if "/statutes/cite/" in href:
+            text = a.get_text(strip=True)
+            if "/statutes/part/" in href or "/statutes/cite/" in href:
                 url = urljoin(index_url, href)
-                text = a.get_text(strip=True)
                 safe = _slugify(text or href.split("/")[-1])[:60]
+                tdir = raw_dir / safe
+                tdir.mkdir(exist_ok=True)
                 try:
                     html = self._fetch_page(url)
-                    (raw_dir / f"{safe}.html").write_text(html, encoding="utf-8")
-                except Exception:
-                    pass
+                    (tdir / "index.html").write_text(html, encoding="utf-8")
+                    # Follow chapter/cite links within part pages
+                    tsoup = BeautifulSoup(html, "html.parser")
+                    for sa in tsoup.find_all("a", href=True):
+                        sh = sa["href"]
+                        st = sa.get_text(strip=True)
+                        if "/statutes/cite/" in sh:
+                            surl = urljoin(url, sh)
+                            sname = _slugify(st or sh.split("/")[-1])[:60]
+                            try:
+                                shtml = self._fetch_page(surl)
+                                (tdir / f"{sname}.html").write_text(shtml, encoding="utf-8")
+                            except Exception:
+                                pass
+                except Exception as e:
+                    logger.debug("Skip MN part: %s", e)
 
     def _fetch_nevada(self, raw_dir: Path) -> None:
         """NV: Static HTML at leg.state.nv.us/nrs/NRS-{chapter}.html."""
@@ -539,22 +461,8 @@ class OfficialWebsiteIngestor(BaseIngestor):
                     pass
 
     def _fetch_new_jersey(self, raw_dir: Path) -> None:
-        """NJ: pub.njleg.state.nj.us/statutes/."""
-        base_url = "https://pub.njleg.state.nj.us/statutes/"
-        index_html = self._fetch_page(base_url)
-        (raw_dir / "index.html").write_text(index_html, encoding="utf-8")
-        soup = BeautifulSoup(index_html, "html.parser")
-        for a in soup.find_all("a", href=True):
-            href = a["href"]
-            text = a.get_text(strip=True)
-            if "title" in href.lower() or ".htm" in href:
-                url = urljoin(base_url, href)
-                safe = _slugify(text or href.split("/")[-1])[:60]
-                try:
-                    html = self._fetch_page(url)
-                    (raw_dir / f"{safe}.html").write_text(html, encoding="utf-8")
-                except Exception:
-                    pass
+        """NJ: Use Justia (state site uses legacy Rocket NXT gateway)."""
+        self._fetch_justia(raw_dir, "new-jersey")
 
     def _fetch_north_carolina(self, raw_dir: Path) -> None:
         """NC: ncleg.gov/Laws/GeneralStatutesTOC."""
@@ -593,22 +501,21 @@ class OfficialWebsiteIngestor(BaseIngestor):
                     pass
 
     def _fetch_texas(self, raw_dir: Path) -> None:
-        """TX: statutes.capitol.texas.gov - code-based structure."""
-        base = "https://statutes.capitol.texas.gov"
-        index_url = f"{base}/Docs/SDTocs/SDTOC.htm"
-        try:
-            index_html = self._fetch_page(index_url)
-        except Exception:
-            index_url = f"{base}/"
-            index_html = self._fetch_page(index_url)
+        """TX: Use Justia (official site is JS-rendered)."""
+        self._fetch_justia(raw_dir, "texas")
+
+    def _fetch_vermont(self, raw_dir: Path) -> None:
+        """VT: legislature.vermont.gov/statutes/ - title → chapter → section."""
+        base_url = "https://legislature.vermont.gov/statutes/"
+        index_html = self._fetch_page(base_url)
         (raw_dir / "index.html").write_text(index_html, encoding="utf-8")
         soup = BeautifulSoup(index_html, "html.parser")
-
+        # Follow title links, then follow chapter links within each title
         for a in soup.find_all("a", href=True):
             href = a["href"]
             text = a.get_text(strip=True)
-            if ".htm" in href and "SDTocs" not in href:
-                url = urljoin(index_url, href)
+            if "/statutes/title/" in href:
+                url = urljoin(base_url, href)
                 safe = _slugify(text or href.split("/")[-1])[:60]
                 tdir = raw_dir / safe
                 tdir.mkdir(exist_ok=True)
@@ -617,9 +524,11 @@ class OfficialWebsiteIngestor(BaseIngestor):
                     (tdir / "index.html").write_text(html, encoding="utf-8")
                     tsoup = BeautifulSoup(html, "html.parser")
                     for sa in tsoup.find_all("a", href=True):
-                        if ".htm" in sa["href"]:
-                            surl = urljoin(url, sa["href"])
-                            sname = _slugify(sa.get_text(strip=True) or sa["href"])[:60]
+                        sh = sa["href"]
+                        st = sa.get_text(strip=True)
+                        if "/statutes/section/" in sh or "/statutes/chapter/" in sh:
+                            surl = urljoin(url, sh)
+                            sname = _slugify(st or sh.split("/")[-1])[:60]
                             try:
                                 shtml = self._fetch_page(surl)
                                 (tdir / f"{sname}.html").write_text(shtml, encoding="utf-8")
@@ -628,64 +537,13 @@ class OfficialWebsiteIngestor(BaseIngestor):
                 except Exception:
                     pass
 
-    def _fetch_vermont(self, raw_dir: Path) -> None:
-        """VT: legislature.vermont.gov/statutes/."""
-        base_url = "https://legislature.vermont.gov/statutes/"
-        index_html = self._fetch_page(base_url)
-        (raw_dir / "index.html").write_text(index_html, encoding="utf-8")
-        soup = BeautifulSoup(index_html, "html.parser")
-        for a in soup.find_all("a", href=True):
-            href = a["href"]
-            text = a.get_text(strip=True)
-            if "/statutes/title" in href or "/statutes/chapter" in href:
-                url = urljoin(base_url, href)
-                safe = _slugify(text or href.split("/")[-1])[:60]
-                try:
-                    html = self._fetch_page(url)
-                    (raw_dir / f"{safe}.html").write_text(html, encoding="utf-8")
-                except Exception:
-                    pass
-
     def _fetch_virginia(self, raw_dir: Path) -> None:
-        """VA: law.lis.virginia.gov/vacode/ - well structured."""
-        base_url = "https://law.lis.virginia.gov/vacode/"
-        index_html = self._fetch_page(base_url)
-        (raw_dir / "index.html").write_text(index_html, encoding="utf-8")
-        soup = BeautifulSoup(index_html, "html.parser")
-        for a in soup.find_all("a", href=True):
-            href = a["href"]
-            text = a.get_text(strip=True)
-            if "/vacode/title" in href or "/vacode/" in href:
-                url = urljoin(base_url, href)
-                safe = _slugify(text or href.split("/")[-1])[:60]
-                try:
-                    html = self._fetch_page(url)
-                    (raw_dir / f"{safe}.html").write_text(html, encoding="utf-8")
-                except Exception:
-                    pass
+        """VA: Use Justia (official site needs deeper crawl)."""
+        self._fetch_justia(raw_dir, "virginia")
 
     def _fetch_wyoming(self, raw_dir: Path) -> None:
-        """WY: wyoleg.gov statutes."""
-        base_url = "https://wyoleg.gov/statutes/compress/title01.pdf"
-        # Wyoming has PDFs - try the HTML version instead
-        index_url = "https://wyoleg.gov/NXT/gateway.dll?f=templates&fn=default.htm"
-        try:
-            index_html = self._fetch_page(index_url)
-            (raw_dir / "index.html").write_text(index_html, encoding="utf-8")
-            soup = BeautifulSoup(index_html, "html.parser")
-            for a in soup.find_all("a", href=True):
-                href = a["href"]
-                text = a.get_text(strip=True)
-                if "gateway.dll" in href or ".htm" in href:
-                    url = urljoin(index_url, href)
-                    safe = _slugify(text or href.split("=")[-1])[:60]
-                    try:
-                        html = self._fetch_page(url)
-                        (raw_dir / f"{safe}.html").write_text(html, encoding="utf-8")
-                    except Exception:
-                        pass
-        except Exception:
-            pass
+        """WY: Use Justia (official site uses DLL gateway / PDFs)."""
+        self._fetch_justia(raw_dir, "wyoming")
 
     def _fetch_rhode_island(self, raw_dir: Path) -> None:
         """RI: webserver.rilegislature.gov/Statutes/."""
@@ -747,86 +605,87 @@ class OfficialWebsiteIngestor(BaseIngestor):
                 pass
 
     def _fetch_washington(self, raw_dir: Path) -> None:
-        """WA: app.leg.wa.gov/rcw/."""
+        """WA: app.leg.wa.gov/rcw/ - title pages → chapter pages with sections."""
         index_url = "https://app.leg.wa.gov/rcw/"
         index_html = self._fetch_page(index_url)
         (raw_dir / "index.html").write_text(index_html, encoding="utf-8")
         soup = BeautifulSoup(index_html, "html.parser")
+        # Follow title links
         for a in soup.find_all("a", href=True):
             href = a["href"]
-            if "default.aspx" in href or "/rcw/" in href:
+            text = a.get_text(strip=True)
+            if "cite=" in href:
                 url = urljoin(index_url, href)
-                text = a.get_text(strip=True)
                 safe = _slugify(text or href.split("=")[-1])[:60]
+                tdir = raw_dir / safe
+                tdir.mkdir(exist_ok=True)
                 try:
                     html = self._fetch_page(url)
-                    (raw_dir / f"{safe}.html").write_text(html, encoding="utf-8")
+                    (tdir / "index.html").write_text(html, encoding="utf-8")
+                    # Follow chapter links within title pages
+                    tsoup = BeautifulSoup(html, "html.parser")
+                    for sa in tsoup.find_all("a", href=True):
+                        sh = sa["href"]
+                        st = sa.get_text(strip=True)
+                        if "cite=" in sh and sh != href:
+                            surl = urljoin(url, sh)
+                            sname = _slugify(st or sh.split("=")[-1])[:60]
+                            try:
+                                shtml = self._fetch_page(surl)
+                                (tdir / f"{sname}.html").write_text(shtml, encoding="utf-8")
+                            except Exception:
+                                pass
                 except Exception:
                     pass
 
     def _fetch_west_virginia(self, raw_dir: Path) -> None:
-        """WV: code.wvlegislature.gov."""
-        index_url = "https://code.wvlegislature.gov/"
-        index_html = self._fetch_page(index_url)
-        (raw_dir / "index.html").write_text(index_html, encoding="utf-8")
-        soup = BeautifulSoup(index_html, "html.parser")
-        for a in soup.find_all("a", href=True):
-            href = a["href"]
-            if "code.wvlegislature.gov/" in href and href.count("/") >= 4:
-                text = a.get_text(strip=True)
-                safe = _slugify(text or href.split("/")[-2])[:60]
-                try:
-                    html = self._fetch_page(href)
-                    (raw_dir / f"{safe}.html").write_text(html, encoding="utf-8")
-                except Exception:
-                    pass
-
-    def _fetch_wisconsin(self, raw_dir: Path) -> None:
-        """WI: docs.legis.wisconsin.gov/statutes/statutes/."""
-        index_url = "https://docs.legis.wisconsin.gov/statutes/statutes"
-        index_html = self._fetch_page(index_url)
-        (raw_dir / "index.html").write_text(index_html, encoding="utf-8")
-        soup = BeautifulSoup(index_html, "html.parser")
-        for a in soup.find_all("a", href=True):
-            href = a["href"]
-            if "/statutes/statutes/" in href:
-                url = urljoin(index_url, href)
-                text = a.get_text(strip=True)
-                safe = _slugify(text or href.split("/")[-1])[:60]
-                try:
-                    html = self._fetch_page(url)
-                    (raw_dir / f"{safe}.html").write_text(html, encoding="utf-8")
-                except Exception:
-                    pass
-
-    def _fetch_oklahoma(self, raw_dir: Path) -> None:
-        """OK: oscn.net."""
-        for title_num in range(1, 86):
-            url = f"https://www.oscn.net/applications/oscn/index.asp?ftdb=STOKST{title_num:02d}&level=1"
+        """WV: code.wvlegislature.gov - direct chapter URLs."""
+        base = "https://code.wvlegislature.gov"
+        # WV uses chapter numbers 1-62 with article sub-pages
+        for ch in range(1, 63):
+            url = f"{base}/{ch}/"
             try:
                 html = self._fetch_page(url)
-                if len(html) > 1000:
-                    (raw_dir / f"title-{title_num:02d}.html").write_text(html, encoding="utf-8")
+                if len(html) < 500:
+                    continue
+                tdir = raw_dir / f"chapter-{ch:02d}"
+                tdir.mkdir(exist_ok=True)
+                (tdir / "index.html").write_text(html, encoding="utf-8")
+                soup = BeautifulSoup(html, "html.parser")
+                for a in soup.find_all("a", href=True):
+                    href = a["href"]
+                    text = a.get_text(strip=True)
+                    if f"/{ch}/" in href and href.rstrip("/") != f"/{ch}":
+                        aurl = urljoin(url, href)
+                        safe = _slugify(text or href.split("/")[-1])[:60]
+                        try:
+                            ahtml = self._fetch_page(aurl)
+                            (tdir / f"{safe}.html").write_text(ahtml, encoding="utf-8")
+                        except Exception:
+                            pass
             except Exception:
                 pass
 
+    def _fetch_wisconsin(self, raw_dir: Path) -> None:
+        """WI: docs.legis.wisconsin.gov - direct chapter URLs."""
+        base = "https://docs.legis.wisconsin.gov/statutes/statutes"
+        # WI statutes organized by chapter numbers
+        for ch in range(1, 1000):
+            url = f"{base}/{ch}"
+            try:
+                html = self._fetch_page(url)
+                if len(html) > 1000:
+                    (raw_dir / f"chapter-{ch:03d}.html").write_text(html, encoding="utf-8")
+            except Exception:
+                pass
+
+    def _fetch_oklahoma(self, raw_dir: Path) -> None:
+        """OK: Use Justia (official site requires per-section dynamic fetching)."""
+        self._fetch_justia(raw_dir, "oklahoma")
+
     def _fetch_illinois(self, raw_dir: Path) -> None:
-        """IL: ilga.gov."""
-        index_url = "https://www.ilga.gov/legislation/ilcs/ilcs.asp"
-        index_html = self._fetch_page(index_url)
-        (raw_dir / "index.html").write_text(index_html, encoding="utf-8")
-        soup = BeautifulSoup(index_html, "html.parser")
-        for a in soup.find_all("a", href=True):
-            href = a["href"]
-            if "ilcs" in href.lower() and ("ChapterAct" in href or "fullchapter" in href.lower()):
-                url = urljoin(index_url, href)
-                text = a.get_text(strip=True)
-                safe = _slugify(text or href)[:60]
-                try:
-                    html = self._fetch_page(url)
-                    (raw_dir / f"{safe}.html").write_text(html, encoding="utf-8")
-                except Exception:
-                    pass
+        """IL: Use Justia (official ILGA site doesn't expose full text links)."""
+        self._fetch_justia(raw_dir, "illinois")
 
     def _fetch_massachusetts(self, raw_dir: Path) -> None:
         """MA: malegislature.gov."""
@@ -859,22 +718,8 @@ class OfficialWebsiteIngestor(BaseIngestor):
                     pass
 
     def _fetch_michigan(self, raw_dir: Path) -> None:
-        """MI: legislature.mi.gov."""
-        index_url = "https://www.legislature.mi.gov/Laws/MCL"
-        index_html = self._fetch_page(index_url)
-        (raw_dir / "index.html").write_text(index_html, encoding="utf-8")
-        soup = BeautifulSoup(index_html, "html.parser")
-        for a in soup.find_all("a", href=True):
-            href = a["href"]
-            if "MCL" in href and ("Chapter" in href or "Section" in href or "mcl-" in href.lower()):
-                url = urljoin(index_url, href)
-                text = a.get_text(strip=True)
-                safe = _slugify(text or href.split("/")[-1])[:60]
-                try:
-                    html = self._fetch_page(url)
-                    (raw_dir / f"{safe}.html").write_text(html, encoding="utf-8")
-                except Exception:
-                    pass
+        """MI: Use Justia (official site has session-based URLs)."""
+        self._fetch_justia(raw_dir, "michigan")
 
     def _fetch_missouri(self, raw_dir: Path) -> None:
         """MO: revisor.mo.gov."""
@@ -895,40 +740,43 @@ class OfficialWebsiteIngestor(BaseIngestor):
                     pass
 
     def _fetch_montana(self, raw_dir: Path) -> None:
-        """MT: leg.mt.gov."""
-        index_url = "https://leg.mt.gov/bills/mca/index.html"
-        index_html = self._fetch_page(index_url)
-        (raw_dir / "index.html").write_text(index_html, encoding="utf-8")
-        soup = BeautifulSoup(index_html, "html.parser")
-        for a in soup.find_all("a", href=True):
-            href = a["href"]
-            if "/mca/title_" in href or "/mca/" in href:
-                url = urljoin(index_url, href)
-                text = a.get_text(strip=True)
-                safe = _slugify(text or href.split("/")[-1])[:60]
-                try:
-                    html = self._fetch_page(url)
-                    (raw_dir / f"{safe}.html").write_text(html, encoding="utf-8")
-                except Exception:
-                    pass
+        """MT: Use Justia (official site has anti-scraping measures)."""
+        self._fetch_justia(raw_dir, "montana")
 
     def _fetch_ohio(self, raw_dir: Path) -> None:
-        """OH: codes.ohio.gov."""
-        index_url = "https://codes.ohio.gov/ohio-revised-code"
+        """OH: codes.ohio.gov - title → chapter → section pages."""
+        base = "https://codes.ohio.gov"
+        index_url = f"{base}/ohio-revised-code"
         index_html = self._fetch_page(index_url)
         (raw_dir / "index.html").write_text(index_html, encoding="utf-8")
         soup = BeautifulSoup(index_html, "html.parser")
+        # Follow title links like ohio-revised-code/title-1
         for a in soup.find_all("a", href=True):
             href = a["href"]
-            if "ohio-revised-code" in href and "chapter" in href.lower():
+            text = a.get_text(strip=True)
+            if "ohio-revised-code/" in href and href.rstrip("/") != "ohio-revised-code":
                 url = urljoin(index_url, href)
-                text = a.get_text(strip=True)
                 safe = _slugify(text or href.split("/")[-1])[:60]
+                tdir = raw_dir / safe
+                tdir.mkdir(exist_ok=True)
                 try:
                     html = self._fetch_page(url)
-                    (raw_dir / f"{safe}.html").write_text(html, encoding="utf-8")
-                except Exception:
-                    pass
+                    (tdir / "index.html").write_text(html, encoding="utf-8")
+                    # Follow chapter links within title pages
+                    tsoup = BeautifulSoup(html, "html.parser")
+                    for sa in tsoup.find_all("a", href=True):
+                        sh = sa["href"]
+                        st = sa.get_text(strip=True)
+                        if "chapter" in sh.lower() or "section" in sh.lower():
+                            surl = urljoin(url, sh)
+                            sname = _slugify(st or sh.split("/")[-1])[:60]
+                            try:
+                                shtml = self._fetch_page(surl)
+                                (tdir / f"{sname}.html").write_text(shtml, encoding="utf-8")
+                            except Exception:
+                                pass
+                except Exception as e:
+                    logger.debug("Skip OH title: %s", e)
 
     def _fetch_pennsylvania(self, raw_dir: Path) -> None:
         """PA: palegis.us consolidated statutes."""
@@ -942,100 +790,47 @@ class OfficialWebsiteIngestor(BaseIngestor):
                 pass
 
     def _fetch_utah(self, raw_dir: Path) -> None:
-        """UT: le.utah.gov/xcode/."""
-        for title_num in range(1, 79):
-            url = f"https://le.utah.gov/xcode/Title{title_num}/Title{title_num}.html"
-            try:
-                html = self._fetch_page(url)
-                if len(html) > 500:
-                    tdir = raw_dir / f"title-{title_num}"
-                    tdir.mkdir(exist_ok=True)
-                    (tdir / "index.html").write_text(html, encoding="utf-8")
-                    tsoup = BeautifulSoup(html, "html.parser")
-                    for a in tsoup.find_all("a", href=True):
-                        if "Chapter" in a["href"] and ".html" in a["href"]:
-                            surl = urljoin(url, a["href"])
-                            sname = _slugify(a["href"].replace(".html", ""))[:60]
-                            try:
-                                shtml = self._fetch_page(surl)
-                                (tdir / f"{sname}.html").write_text(shtml, encoding="utf-8")
-                            except Exception:
-                                pass
-            except Exception:
-                pass
+        """UT: Use Justia (official site returns 404s)."""
+        self._fetch_justia(raw_dir, "utah")
 
     def _fetch_new_york(self, raw_dir: Path) -> None:
-        """NY: NY Senate OpenLegislation API."""
-        api_base = "https://legislation.nysenate.gov/api/3"
-        try:
-            laws_html = self._fetch_page(f"{api_base}/laws")
-            (raw_dir / "laws.json").write_text(laws_html, encoding="utf-8")
-            laws = json.loads(laws_html)
-            items = laws.get("result", {}).get("items", [])
-            for item in items:
-                law_id = item.get("lawId", "")
-                if not law_id:
-                    continue
-                try:
-                    law_url = f"{api_base}/laws/{law_id}?full=true"
-                    law_html = self._fetch_page(law_url)
-                    (raw_dir / f"{law_id}.json").write_text(law_html, encoding="utf-8")
-                except Exception as e:
-                    logger.debug("Skip NY law %s: %s", law_id, e)
-        except Exception as e:
-            logger.warning("Failed NY API: %s", e)
+        """NY: Use Justia (official API doesn't return parseable HTML)."""
+        self._fetch_justia(raw_dir, "new-york")
 
     def _fetch_south_dakota(self, raw_dir: Path) -> None:
-        """SD: sdlegislature.gov API."""
-        for title_num in range(1, 63):
-            url = f"https://sdlegislature.gov/api/Statutes/{title_num}.html"
-            try:
-                html = self._fetch_page(url)
-                if len(html) > 200:
-                    (raw_dir / f"title-{title_num}.html").write_text(html, encoding="utf-8")
-            except Exception:
-                pass
+        """SD: Use Justia (official site has external links, not full text)."""
+        self._fetch_justia(raw_dir, "south-dakota")
 
     def _fetch_kansas(self, raw_dir: Path) -> None:
-        """KS: ksrevisor.org."""
-        index_url = "https://www.ksrevisor.org/statutes.html"
-        index_html = self._fetch_page(index_url)
-        (raw_dir / "index.html").write_text(index_html, encoding="utf-8")
-        soup = BeautifulSoup(index_html, "html.parser")
-        for a in soup.find_all("a", href=True):
-            href = a["href"]
-            if "/statutes/chapters/" in href or "ksa" in href.lower():
-                url = urljoin(index_url, href)
-                text = a.get_text(strip=True)
-                safe = _slugify(text or href.split("/")[-1])[:60]
-                try:
-                    html = self._fetch_page(url)
-                    (raw_dir / f"{safe}.html").write_text(html, encoding="utf-8")
-                except Exception:
-                    pass
+        """KS: Use Justia (official site has session-based URLs)."""
+        self._fetch_justia(raw_dir, "kansas")
 
     def _fetch_maine(self, raw_dir: Path) -> None:
-        """ME: legislature.maine.gov/statutes/."""
+        """ME: legislature.maine.gov/statutes/ - title pages with chapters."""
         index_url = "https://legislature.maine.gov/statutes/"
         index_html = self._fetch_page(index_url)
         (raw_dir / "index.html").write_text(index_html, encoding="utf-8")
         soup = BeautifulSoup(index_html, "html.parser")
+        # Links like "1/title1ch0sec0.html"
         for a in soup.find_all("a", href=True):
             href = a["href"]
-            if "/statutes/" in href and href != index_url:
+            text = a.get_text(strip=True)
+            if "title" in href.lower() and href.endswith(".html"):
                 url = urljoin(index_url, href)
-                text = a.get_text(strip=True)
-                safe = _slugify(text or href.split("/")[-1])[:60]
+                safe = _slugify(text or href.split("/")[-1].replace(".html", ""))[:60]
                 tdir = raw_dir / safe
                 tdir.mkdir(exist_ok=True)
                 try:
                     html = self._fetch_page(url)
                     (tdir / "index.html").write_text(html, encoding="utf-8")
+                    # Follow chapter links within title pages
                     tsoup = BeautifulSoup(html, "html.parser")
                     for sa in tsoup.find_all("a", href=True):
-                        if ".html" in sa["href"] or ".htm" in sa["href"]:
-                            surl = urljoin(url, sa["href"])
-                            sname = _slugify(sa.get_text(strip=True) or sa["href"])[:60]
+                        sh = sa["href"]
+                        st = sa.get_text(strip=True)
+                        if sh.endswith(".html") or sh.endswith(".htm"):
+                            surl = urljoin(url, sh)
+                            sname = _slugify(st or sh.split("/")[-1].replace(".html", ""))[:60]
                             try:
                                 shtml = self._fetch_page(surl)
                                 (tdir / f"{sname}.html").write_text(shtml, encoding="utf-8")
@@ -1045,22 +840,161 @@ class OfficialWebsiteIngestor(BaseIngestor):
                     pass
 
     def _fetch_louisiana(self, raw_dir: Path) -> None:
-        """LA: legis.la.gov."""
-        index_url = "https://www.legis.la.gov/legis/LawSearch.aspx"
-        index_html = self._fetch_page(index_url)
-        (raw_dir / "index.html").write_text(index_html, encoding="utf-8")
-        soup = BeautifulSoup(index_html, "html.parser")
-        for a in soup.find_all("a", href=True):
-            href = a["href"]
-            if "Law.aspx" in href:
-                url = urljoin(index_url, href)
+        """LA: Use Justia (official site has dynamic ASPX pages)."""
+        self._fetch_justia(raw_dir, "louisiana")
+
+    def _fetch_florida(self, raw_dir: Path) -> None:
+        """FL: leg.state.fl.us - chapter display pages."""
+        base = "http://www.leg.state.fl.us/statutes/index.cfm"
+        # FL chapters: use Title_Statutes URL pattern
+        for ch in range(1, 1013):
+            # FL URL pattern uses hundreds-based folders
+            folder_start = (ch // 100) * 100
+            folder_end = folder_start + 99
+            url = f"{base}?App_mode=Display_Statute&URL={folder_start:04d}-{folder_end:04d}/{ch:04d}/{ch:04d}.html"
+            try:
+                html = self._fetch_page(url)
+                if len(html) > 500:
+                    (raw_dir / f"chapter-{ch:04d}.html").write_text(html, encoding="utf-8")
+            except Exception:
+                pass
+
+    def _fetch_alabama(self, raw_dir: Path) -> None:
+        """AL: Use Justia (official site DNS unreliable)."""
+        self._fetch_justia(raw_dir, "alabama")
+
+    def _fetch_arkansas(self, raw_dir: Path) -> None:
+        """AR: Use Justia as fallback (state site links to LexisNexis)."""
+        self._fetch_justia(raw_dir, "arkansas")
+
+    def _fetch_georgia(self, raw_dir: Path) -> None:
+        """GA: Use Justia (official site is LexisNexis JS-only)."""
+        self._fetch_justia(raw_dir, "georgia")
+
+    def _fetch_mississippi(self, raw_dir: Path) -> None:
+        """MS: Use Justia (official site is LexisNexis JS-only)."""
+        self._fetch_justia(raw_dir, "mississippi")
+
+    def _fetch_tennessee(self, raw_dir: Path) -> None:
+        """TN: Use Justia (official site is LexisNexis JS-only)."""
+        self._fetch_justia(raw_dir, "tennessee")
+
+    def _fetch_maryland(self, raw_dir: Path) -> None:
+        """MD: Use Justia as fallback (state site sections not well structured)."""
+        self._fetch_justia(raw_dir, "maryland")
+
+    def _fetch_new_mexico(self, raw_dir: Path) -> None:
+        """NM: Use Justia as fallback (nmonesource is JS-heavy SPA)."""
+        self._fetch_justia(raw_dir, "new-mexico")
+
+    def _fetch_guam(self, raw_dir: Path) -> None:
+        """Guam: Use Justia for Guam Code Annotated."""
+        self._fetch_justia(raw_dir, "guam")
+
+    def _fetch_puerto_rico(self, raw_dir: Path) -> None:
+        """PR: Use Justia for Laws of Puerto Rico."""
+        self._fetch_justia(raw_dir, "puerto-rico")
+
+    def _fetch_us_virgin_islands(self, raw_dir: Path) -> None:
+        """USVI: Use Justia for Virgin Islands Code."""
+        self._fetch_justia(raw_dir, "virgin-islands")
+
+    def _fetch_justia(self, raw_dir: Path, state_slug: str) -> None:
+        """Generic Justia fetcher: law.justia.com/codes/{state}/ - 3 levels deep.
+
+        Handles two Justia page structures:
+        A) Index has direct title links (e.g., /codes/state/title-1/)
+        B) Index only has year links (e.g., /codes/state/2024/) - follows most recent year first
+
+        Then: title pages -> chapter pages -> chapter pages have section listings.
+        """
+        import re as _re
+        base = f"https://law.justia.com/codes/{state_slug}/"
+        year_pat = _re.compile(r"/codes/" + _re.escape(state_slug) + r"/(\d{4})")
+        skip_pats = ["accounts.justia.com", "/signin", "/login"]
+
+        def _is_skip(href):
+            return any(skip in href for skip in skip_pats)
+
+        def _extract_links(soup_obj, parent_url, exclude_urls=None):
+            """Extract state-path links from a page, skipping accounts/login."""
+            links = []
+            seen = set(exclude_urls or [])
+            for a in soup_obj.find_all("a", href=True):
+                href = a["href"]
                 text = a.get_text(strip=True)
-                safe = _slugify(text or href.split("=")[-1])[:60]
+                if not text or len(text) < 2 or _is_skip(href):
+                    continue
+                if f"/codes/{state_slug}/" in href:
+                    url = urljoin(parent_url, href)
+                    if url not in seen and url.rstrip("/") != parent_url.rstrip("/"):
+                        seen.add(url)
+                        links.append((url, text))
+            return links
+
+        try:
+            index_html = self._fetch_page(base)
+            (raw_dir / "index.html").write_text(index_html, encoding="utf-8")
+            soup = BeautifulSoup(index_html, "html.parser")
+
+            # Separate year links from title links
+            year_links = []
+            title_links = []
+            all_seen = {base.rstrip("/")}
+            for url, text in _extract_links(soup, base):
+                m = year_pat.search(url)
+                if m:
+                    year_links.append((int(m.group(1)), url, text))
+                else:
+                    title_links.append((url, text))
+                    all_seen.add(url.rstrip("/"))
+
+            # If no direct title links, follow the most recent year to find them
+            if not title_links and year_links:
+                year_links.sort(reverse=True)
+                best_year, year_url, _ = year_links[0]
+                logger.info("Justia %s: no direct titles, following year %d", state_slug, best_year)
+                year_html = self._fetch_page(year_url)
+                year_soup = BeautifulSoup(year_html, "html.parser")
+                for url, text in _extract_links(year_soup, year_url, all_seen):
+                    if not year_pat.search(url):
+                        title_links.append((url, text))
+                        all_seen.add(url.rstrip("/"))
+
+            logger.info("Justia %s: found %d title links", state_slug, len(title_links))
+
+            # Level 2+3: For each title, fetch title page then chapter pages
+            for title_url, title_text in title_links:
+                safe = _slugify(title_text or title_url.split("/")[-2])[:60]
+                tdir = raw_dir / safe
+                tdir.mkdir(exist_ok=True)
                 try:
-                    html = self._fetch_page(url)
-                    (raw_dir / f"{safe}.html").write_text(html, encoding="utf-8")
+                    html = self._fetch_page(title_url)
+                    (tdir / "index.html").write_text(html, encoding="utf-8")
+
+                    # Find chapter links from title page
+                    tsoup = BeautifulSoup(html, "html.parser")
+                    for ch_url, ch_text in _extract_links(tsoup, title_url, all_seen):
+                        if year_pat.search(ch_url):
+                            continue
+                        sname = _slugify(ch_text or ch_url.split("/")[-2])[:60]
+                        try:
+                            shtml = self._fetch_page(ch_url)
+                            (tdir / f"{sname}.html").write_text(shtml, encoding="utf-8")
+                        except Exception:
+                            pass
                 except Exception:
                     pass
+        except Exception as e:
+            logger.warning("Failed Justia fetch for %s: %s", state_slug, e)
+
+    def _fetch_connecticut(self, raw_dir: Path) -> None:
+        """CT: Use Justia (official site only has TOC pages)."""
+        self._fetch_justia(raw_dir, "connecticut")
+
+    def _fetch_nebraska(self, raw_dir: Path) -> None:
+        """NE: Use Justia (official site requires per-section fetching)."""
+        self._fetch_justia(raw_dir, "nebraska")
 
 
 # ================================================================
@@ -1068,11 +1002,16 @@ class OfficialWebsiteIngestor(BaseIngestor):
 # ================================================================
 
 _FETCH_HANDLERS: dict[str, callable] = {
+    "alabama": OfficialWebsiteIngestor._fetch_alabama,
     "alaska": OfficialWebsiteIngestor._fetch_alaska,
     "arizona": OfficialWebsiteIngestor._fetch_arizona,
+    "arkansas": OfficialWebsiteIngestor._fetch_arkansas,
     "california": OfficialWebsiteIngestor._fetch_california,
     "colorado": OfficialWebsiteIngestor._fetch_colorado,
+    "connecticut": OfficialWebsiteIngestor._fetch_connecticut,
     "delaware": OfficialWebsiteIngestor._fetch_delaware,
+    "florida": OfficialWebsiteIngestor._fetch_florida,
+    "georgia": OfficialWebsiteIngestor._fetch_georgia,
     "hawaii": OfficialWebsiteIngestor._fetch_hawaii,
     "idaho": OfficialWebsiteIngestor._fetch_idaho,
     "illinois": OfficialWebsiteIngestor._fetch_illinois,
@@ -1082,14 +1021,18 @@ _FETCH_HANDLERS: dict[str, callable] = {
     "kentucky": OfficialWebsiteIngestor._fetch_kentucky,
     "louisiana": OfficialWebsiteIngestor._fetch_louisiana,
     "maine": OfficialWebsiteIngestor._fetch_maine,
+    "maryland": OfficialWebsiteIngestor._fetch_maryland,
     "massachusetts": OfficialWebsiteIngestor._fetch_massachusetts,
     "michigan": OfficialWebsiteIngestor._fetch_michigan,
     "minnesota": OfficialWebsiteIngestor._fetch_minnesota,
+    "mississippi": OfficialWebsiteIngestor._fetch_mississippi,
     "missouri": OfficialWebsiteIngestor._fetch_missouri,
     "montana": OfficialWebsiteIngestor._fetch_montana,
+    "nebraska": OfficialWebsiteIngestor._fetch_nebraska,
     "nevada": OfficialWebsiteIngestor._fetch_nevada,
     "new-hampshire": OfficialWebsiteIngestor._fetch_new_hampshire,
     "new-jersey": OfficialWebsiteIngestor._fetch_new_jersey,
+    "new-mexico": OfficialWebsiteIngestor._fetch_new_mexico,
     "new-york": OfficialWebsiteIngestor._fetch_new_york,
     "north-carolina": OfficialWebsiteIngestor._fetch_north_carolina,
     "north-dakota": OfficialWebsiteIngestor._fetch_north_dakota,
@@ -1100,6 +1043,7 @@ _FETCH_HANDLERS: dict[str, callable] = {
     "rhode-island": OfficialWebsiteIngestor._fetch_rhode_island,
     "south-carolina": OfficialWebsiteIngestor._fetch_south_carolina,
     "south-dakota": OfficialWebsiteIngestor._fetch_south_dakota,
+    "tennessee": OfficialWebsiteIngestor._fetch_tennessee,
     "texas": OfficialWebsiteIngestor._fetch_texas,
     "utah": OfficialWebsiteIngestor._fetch_utah,
     "vermont": OfficialWebsiteIngestor._fetch_vermont,
@@ -1108,10 +1052,416 @@ _FETCH_HANDLERS: dict[str, callable] = {
     "west-virginia": OfficialWebsiteIngestor._fetch_west_virginia,
     "wisconsin": OfficialWebsiteIngestor._fetch_wisconsin,
     "wyoming": OfficialWebsiteIngestor._fetch_wyoming,
+    "guam": OfficialWebsiteIngestor._fetch_guam,
+    "puerto-rico": OfficialWebsiteIngestor._fetch_puerto_rico,
+    "us-virgin-islands": OfficialWebsiteIngestor._fetch_us_virgin_islands,
 }
 
+def _parse_new_york_impl(self, raw_path: Path) -> list[Title]:
+    """Parse NY JSON API responses into titles."""
+    titles = []
+    for json_file in sorted(raw_path.glob("*.json")):
+        if json_file.name == "laws.json":
+            continue
+        try:
+            data = json.loads(json_file.read_text(encoding="utf-8"))
+            result = data.get("result", {})
+            documents = result.get("documents", {}).get("items", [])
+            if not documents:
+                continue
+            law_id = json_file.stem
+            sections = []
+            seen = set()
+            for doc in documents:
+                doc_type = doc.get("docType", "")
+                if doc_type != "SECTION":
+                    continue
+                num = doc.get("docLevelId", "")
+                if not num or num in seen:
+                    continue
+                seen.add(num)
+                heading = doc.get("title", "")
+                text = doc.get("text", "")
+                sections.append(Section(
+                    id=f"section-{_slugify(num)}",
+                    number=num,
+                    heading=heading,
+                    text=clean_text(text),
+                ))
+            if sections:
+                info = result.get("info", {})
+                heading = info.get("name", law_id)
+                titles.append(Title(
+                    id=f"title-{_slugify(law_id)}",
+                    number=law_id,
+                    heading=heading,
+                    chapters=[Chapter(
+                        id=f"chapter-{_slugify(law_id)}",
+                        number=law_id,
+                        heading=heading,
+                        sections=sections,
+                    )],
+                ))
+        except Exception as e:
+            logger.warning("Failed to parse NY law %s: %s", json_file.name, e)
+    return titles
+
+
+OfficialWebsiteIngestor._parse_new_york = _parse_new_york_impl
+
+
+def _parse_idaho_impl(self, raw_path: Path) -> list[Title]:
+    """Parse Idaho's table-based section listings (section number in link, heading in adjacent td)."""
+    titles = []
+    for tdir in sorted(d for d in raw_path.iterdir() if d.is_dir()):
+        chapters = []
+        for html_file in sorted(tdir.glob("*.html")):
+            content = html_file.read_text(encoding="utf-8", errors="replace")
+            if content.startswith("%PDF") or "\x00" in content[:1000]:
+                continue
+            soup = BeautifulSoup(content, "html.parser")
+            sections = []
+            seen = set()
+            # Find table rows with links to /SECT patterns
+            for a in soup.find_all("a", href=True):
+                href = a["href"]
+                if "SECT" not in href.upper():
+                    continue
+                num = a.get_text(strip=True)
+                if not num or num in seen or len(num) > 30:
+                    continue
+                # Get heading from adjacent td
+                td = a.find_parent("td")
+                if td:
+                    row = td.find_parent("tr")
+                    if row:
+                        tds = row.find_all("td")
+                        heading = ""
+                        for cell in tds:
+                            cell_text = cell.get_text(strip=True)
+                            if cell_text and cell_text != num and len(cell_text) > 2:
+                                heading = cell_text
+                                break
+                        seen.add(num)
+                        sections.append(Section(
+                            id=f"section-{_slugify(num)}",
+                            number=num,
+                            heading=heading.strip().rstrip("."),
+                            text="",
+                        ))
+            if sections:
+                ch_name = html_file.stem
+                chapters.append(Chapter(
+                    id=f"chapter-{ch_name}",
+                    number=ch_name,
+                    heading=ch_name.replace("-", " ").title(),
+                    sections=sections,
+                ))
+        if chapters:
+            titles.append(Title(
+                id=f"title-{tdir.name}",
+                number=tdir.name,
+                heading=tdir.name.replace("-", " ").title(),
+                chapters=chapters,
+            ))
+    return titles
+
+
+def _parse_missouri_impl(self, raw_path: Path) -> list[Title]:
+    """Parse Missouri's table-based format (section link + heading in adjacent td)."""
+    titles = []
+    for html_file in sorted(raw_path.glob("*.html")):
+        if html_file.name == "index.html":
+            continue
+        content = html_file.read_text(encoding="utf-8", errors="replace")
+        if content.startswith("%PDF") or "\x00" in content[:1000]:
+            continue
+        soup = BeautifulSoup(content, "html.parser")
+        sections = []
+        seen = set()
+        for a in soup.find_all("a", href=True):
+            href = a["href"]
+            if "PageSelect.aspx" not in href or "section=" not in href:
+                continue
+            num = a.get_text(strip=True)
+            if not num or num in seen or len(num) > 30:
+                continue
+            # Get heading from next td sibling
+            td = a.find_parent("td")
+            heading = ""
+            if td:
+                next_td = td.find_next_sibling("td")
+                if next_td:
+                    heading = next_td.get_text(strip=True)
+                    # Remove date suffix like "(8/28/1939)"
+                    heading = re.sub(r"\s*\(\d+/\d+/\d+\)\s*$", "", heading)
+            seen.add(num)
+            sections.append(Section(
+                id=f"section-{_slugify(num)}",
+                number=num,
+                heading=heading.strip(),
+                text="",
+            ))
+        if sections:
+            name = html_file.stem
+            titles.append(Title(
+                id=f"title-{name}",
+                number=name,
+                heading=name.replace("-", " ").title(),
+                chapters=[Chapter(
+                    id=f"chapter-{name}",
+                    number=name,
+                    heading=name.replace("-", " ").title(),
+                    sections=sections,
+                )],
+            ))
+    return titles
+
+
+def _parse_washington_impl(self, raw_path: Path) -> list[Title]:
+    """Parse Washington's RCW table-based format (cite links + headings in adjacent td)."""
+    titles = []
+    for html_file in sorted(raw_path.glob("*.html")):
+        if html_file.name == "index.html":
+            continue
+        content = html_file.read_text(encoding="utf-8", errors="replace")
+        soup = BeautifulSoup(content, "html.parser")
+        sections = []
+        seen = set()
+        for a in soup.find_all("a", href=True):
+            href = a["href"]
+            if "cite=" not in href:
+                continue
+            num = a.get_text(strip=True)
+            if not num or num in seen or len(num) > 30:
+                continue
+            td = a.find_parent("td")
+            heading = ""
+            if td:
+                next_td = td.find_next_sibling("td")
+                if next_td:
+                    heading = next_td.get_text(strip=True)
+            seen.add(num)
+            sections.append(Section(
+                id=f"section-{_slugify(num)}",
+                number=num,
+                heading=heading.strip(),
+                text="",
+            ))
+        # Also try generic extraction
+        if not sections:
+            sections = extract_sections_from_soup(soup)
+        if sections:
+            name = html_file.stem
+            titles.append(Title(
+                id=f"title-{name}",
+                number=name,
+                heading=name.replace("-", " ").title(),
+                chapters=[Chapter(
+                    id=f"chapter-{name}",
+                    number=name,
+                    heading=name.replace("-", " ").title(),
+                    sections=sections,
+                )],
+            ))
+    return titles
+
+
+def _parse_illinois_impl(self, raw_path: Path) -> list[Title]:
+    """Parse Illinois ILCS format - sections from full chapter text pages."""
+    titles = []
+    for tdir in sorted(d for d in raw_path.iterdir() if d.is_dir()):
+        chapters = []
+        for html_file in sorted(tdir.glob("*.html")):
+            if html_file.name == "index.html":
+                continue
+            content = html_file.read_text(encoding="utf-8", errors="replace")
+            if content.startswith("%PDF") or "\x00" in content[:1000]:
+                continue
+            soup = BeautifulSoup(content, "html.parser")
+            sections = []
+            seen = set()
+            # ILCS format: "Sec. 1-101. Heading" or "(5 ILCS 100/1-5)"
+            ilcs_pat = re.compile(r"Sec\.?\s*([\d\-\.a-zA-Z]+)\s*[.\s]+(.*)")
+            ilcs_cite_pat = re.compile(r"\([\d]+\s+ILCS\s+[\d]+/([\d\-\.a-zA-Z]+)\)")
+            for elem in soup.find_all(["p", "div", "span", "b", "td", "a"]):
+                text = elem.get_text(strip=True)
+                if not text or len(text) < 5:
+                    continue
+                match = ilcs_pat.match(text)
+                if match:
+                    num = clean_section_number(match.group(1))
+                    if num and num not in seen and len(num) <= 30:
+                        seen.add(num)
+                        heading = match.group(2).split("\n")[0].strip()[:300]
+                        sections.append(Section(
+                            id=f"section-{_slugify(num)}",
+                            number=num,
+                            heading=heading,
+                            text="",
+                        ))
+            # Fallback to generic
+            if not sections:
+                sections = extract_sections_from_soup(soup)
+            if sections:
+                ch_name = html_file.stem
+                chapters.append(Chapter(
+                    id=f"chapter-{ch_name}",
+                    number=ch_name,
+                    heading=ch_name.replace("-", " ").title(),
+                    sections=sections,
+                ))
+        # Also check index.html
+        if not chapters:
+            idx = tdir / "index.html"
+            if idx.exists():
+                sections = self._extract_sections_from_file(idx)
+                if sections:
+                    chapters.append(Chapter(
+                        id=f"chapter-{tdir.name}",
+                        number=tdir.name,
+                        heading=tdir.name.replace("-", " ").title(),
+                        sections=sections,
+                    ))
+        if chapters:
+            titles.append(Title(
+                id=f"title-{tdir.name}",
+                number=tdir.name,
+                heading=tdir.name.replace("-", " ").title(),
+                chapters=chapters,
+            ))
+    return titles
+
+
+def _parse_justia_impl(self, raw_path: Path) -> list[Title]:
+    """Parse Justia law pages - used as fallback for LexisNexis-hosted states."""
+    titles = []
+    for tdir in sorted(d for d in raw_path.iterdir() if d.is_dir()):
+        chapters = []
+        for html_file in sorted(tdir.glob("*.html")):
+            if html_file.name == "index.html":
+                continue
+            content = html_file.read_text(encoding="utf-8", errors="replace")
+            if content.startswith("%PDF") or "\x00" in content[:1000]:
+                continue
+            soup = BeautifulSoup(content, "html.parser")
+            sections = extract_sections_from_soup(soup)
+            # Also try Justia-specific: look for links with section patterns
+            if not sections:
+                seen = set()
+                for a in soup.find_all("a", href=True):
+                    text = a.get_text(strip=True)
+                    if not text:
+                        continue
+                    # Justia format: "Section 1-1-1 - Heading" or "§ 1-1. Heading"
+                    for pat in [
+                        re.compile(r"(?:§+\s*)([\d\-\.a-zA-Z:]+)\s*[\-–—.\s]+(.*)", re.DOTALL),
+                        re.compile(r"Section\s+([\d\-\.a-zA-Z:]+)\s*[\-–—.\s]+(.*)", re.DOTALL),
+                        re.compile(r"^([\d]+[\-\.]\d[\d\-\.a-zA-Z]*)\s*[\-–—.\s]+(.*)", re.DOTALL),
+                    ]:
+                        match = pat.match(text)
+                        if match:
+                            num = clean_section_number(match.group(1))
+                            if num and num not in seen and len(num) <= 30:
+                                seen.add(num)
+                                heading = match.group(2).strip()[:300]
+                                sections.append(Section(
+                                    id=f"section-{_slugify(num)}",
+                                    number=num,
+                                    heading=heading,
+                                    text="",
+                                ))
+                            break
+            if sections:
+                ch_name = html_file.stem
+                chapters.append(Chapter(
+                    id=f"chapter-{ch_name}",
+                    number=ch_name,
+                    heading=ch_name.replace("-", " ").title(),
+                    sections=sections,
+                ))
+        # Also parse flat files
+        if not chapters:
+            idx = tdir / "index.html"
+            if idx.exists():
+                content = idx.read_text(encoding="utf-8", errors="replace")
+                soup = BeautifulSoup(content, "html.parser")
+                sections = extract_sections_from_soup(soup)
+                if sections:
+                    chapters.append(Chapter(
+                        id=f"chapter-{tdir.name}",
+                        number=tdir.name,
+                        heading=tdir.name.replace("-", " ").title(),
+                        sections=sections,
+                    ))
+        if chapters:
+            titles.append(Title(
+                id=f"title-{tdir.name}",
+                number=tdir.name,
+                heading=tdir.name.replace("-", " ").title(),
+                chapters=chapters,
+            ))
+
+    # Also parse flat HTML files in raw_path itself
+    for html_file in sorted(raw_path.glob("*.html")):
+        if html_file.name == "index.html":
+            continue
+        content = html_file.read_text(encoding="utf-8", errors="replace")
+        if content.startswith("%PDF") or "\x00" in content[:1000]:
+            continue
+        soup = BeautifulSoup(content, "html.parser")
+        sections = extract_sections_from_soup(soup)
+        if sections:
+            name = html_file.stem
+            titles.append(Title(
+                id=f"title-{name}",
+                number=name,
+                heading=name.replace("-", " ").title(),
+                chapters=[Chapter(
+                    id=f"chapter-{name}",
+                    number=name,
+                    heading=name.replace("-", " ").title(),
+                    sections=sections,
+                )],
+            ))
+    return titles
+
+
 _PARSE_HANDLERS: dict[str, callable] = {
-    # Most states use the generic parser. Add custom parsers here if needed.
+    "idaho": _parse_idaho_impl,
+    "missouri": _parse_missouri_impl,
+    "washington": _parse_washington_impl,
+    # All Justia-backed states use the same parser
+    "alabama": _parse_justia_impl,
+    "arkansas": _parse_justia_impl,
+    "california": _parse_justia_impl,
+    "colorado": _parse_justia_impl,
+    "connecticut": _parse_justia_impl,
+    "georgia": _parse_justia_impl,
+    "guam": _parse_justia_impl,
+    "hawaii": _parse_justia_impl,
+    "illinois": _parse_justia_impl,
+    "indiana": _parse_justia_impl,
+    "iowa": _parse_justia_impl,
+    "kansas": _parse_justia_impl,
+    "louisiana": _parse_justia_impl,
+    "maryland": _parse_justia_impl,
+    "michigan": _parse_justia_impl,
+    "mississippi": _parse_justia_impl,
+    "montana": _parse_justia_impl,
+    "nebraska": _parse_justia_impl,
+    "new-jersey": _parse_justia_impl,
+    "new-mexico": _parse_justia_impl,
+    "new-york": _parse_justia_impl,
+    "oklahoma": _parse_justia_impl,
+    "puerto-rico": _parse_justia_impl,
+    "south-dakota": _parse_justia_impl,
+    "tennessee": _parse_justia_impl,
+    "texas": _parse_justia_impl,
+    "us-virgin-islands": _parse_justia_impl,
+    "utah": _parse_justia_impl,
+    "virginia": _parse_justia_impl,
+    "wyoming": _parse_justia_impl,
 }
 
 
@@ -1133,10 +1483,14 @@ def extract_sections_from_soup(soup: BeautifulSoup) -> list[Section]:
         re.compile(r"(?:§+\s*)([\d\-\.a-zA-Z:]+)\s*[.\-–—:\s]+(.*)", re.DOTALL),
         # SECTION 1-1-10. Heading (SC, other states with uppercase)
         re.compile(r"SECTION\s+([\d\-\.a-zA-Z:]+)\s*[.\-–—:\s]+(.*)", re.DOTALL),
-        # NRS 0.010 (Nevada style)
-        re.compile(r"NRS\s+([\d\.]+[A-Z]?)\s+(.*)", re.DOTALL),
+        # NRS 0.010 (Nevada style - may use EN SPACE \u2002 and replacement chars)
+        re.compile(r"NRS[\s\u2002\u00a0]+([\d\.]+[A-Z]?)[\s\u2002\u00a0\ufffd]+([A-Za-z].*)", re.DOTALL),
+        # "Section: 1:1 Heading" or "Section: 1-A:1 Heading" (NH style)
+        re.compile(r"Section:\s+([\d\-a-zA-Z:]+)\s+(.*)", re.DOTALL),
         # Section 1-1-1. or Sec. 1-1-1.
         re.compile(r"Sec(?:tion)?\.?\s*([\d\-\.a-zA-Z:]+)\s*[.\-–—:\s]+(.*)", re.DOTALL),
+        # KRS style ".1-101 Short title" (dot-prefixed)
+        re.compile(r"\.([\d]+-[\d]+[a-zA-Z]?)\s+(.*)", re.DOTALL),
         # Numbered like "1-101." or "12.01." at start of line
         re.compile(r"^([\d]+[\-\.]\d[\d\-\.a-zA-Z]*)\s*[.\-–—:\s]+(.*)", re.DOTALL),
         # ORS style "001.010" or "1.010"
@@ -1145,7 +1499,7 @@ def extract_sections_from_soup(soup: BeautifulSoup) -> list[Section]:
         re.compile(r"Art(?:icle)?\.?\s*([\d\-\.a-zA-Z]+)\s*[.\-–—:\s]+(.*)", re.DOTALL),
     ]
 
-    for elem in soup.find_all(["p", "div", "li", "span", "td", "h2", "h3", "h4", "h5", "dt", "dd", "b", "strong"]):
+    for elem in soup.find_all(["p", "div", "li", "span", "td", "h2", "h3", "h4", "h5", "dt", "dd", "b", "strong", "a"]):
         text = elem.get_text(strip=True)
         if not text or len(text) < 5:
             continue

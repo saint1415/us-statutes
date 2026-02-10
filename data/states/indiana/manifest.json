@@ -4,7 +4,7 @@
   "code_name": "Indiana Code",
   "source": "official_website",
   "source_url": "https://iga.in.gov/laws/current/ic",
-  "last_updated": "2026-02-10T14:11:12.641811+00:00",
+  "last_updated": "2026-02-10T23:45:57.786231+00:00",
   "year": 2024,
   "structure": [
     {
@@ -25,8 +25,8 @@
     }
   ],
   "stats": {
-    "titles": 0,
-    "chapters": 0,
-    "sections": 0
+    "titles": 35,
+    "chapters": 64,
+    "sections": 2115
   }
 }

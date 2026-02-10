@@ -4,7 +4,7 @@
   "code_name": "Vermont Statutes",
   "source": "official_website",
   "source_url": "https://legislature.vermont.gov/statutes",
-  "last_updated": "2026-02-10T13:17:17.632684+00:00",
+  "last_updated": "2026-02-10T23:54:17.187997+00:00",
   "year": 2024,
   "structure": [
     {
@@ -21,8 +21,8 @@
     }
   ],
   "stats": {
-    "titles": 43,
-    "chapters": 43,
-    "sections": 88
+    "titles": 76,
+    "chapters": 1239,
+    "sections": 17625
   }
 }

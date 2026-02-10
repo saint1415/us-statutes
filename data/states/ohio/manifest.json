@@ -4,7 +4,7 @@
   "code_name": "Ohio Revised Code",
   "source": "official_website",
   "source_url": "https://codes.ohio.gov/ohio-revised-code",
-  "last_updated": "2026-02-10T14:11:47.063893+00:00",
+  "last_updated": "2026-02-10T23:51:59.462676+00:00",
   "year": 2024,
   "structure": [
     {
@@ -21,8 +21,8 @@
     }
   ],
   "stats": {
-    "titles": 0,
-    "chapters": 0,
-    "sections": 0
+    "titles": 34,
+    "chapters": 975,
+    "sections": 3521
   }
 }

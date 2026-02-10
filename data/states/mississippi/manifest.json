@@ -3,8 +3,8 @@
   "state_abbr": "MS",
   "code_name": "Mississippi Code",
   "source": "official_website",
-  "source_url": "https://www.lexisnexis.com/hottopics/mscode",
-  "last_updated": "2026-02-10T14:11:35.459501+00:00",
+  "source_url": "https://law.justia.com/codes/mississippi",
+  "last_updated": "2026-02-10T23:55:46.972116+00:00",
   "year": 2024,
   "structure": [
     {
@@ -21,8 +21,8 @@
     }
   ],
   "stats": {
-    "titles": 0,
-    "chapters": 0,
-    "sections": 0
+    "titles": 50,
+    "chapters": 1063,
+    "sections": 11829
   }
 }

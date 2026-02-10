@@ -2,9 +2,9 @@
   "state": "connecticut",
   "state_abbr": "CT",
   "code_name": "Connecticut General Statutes",
-  "source": "state_provided",
-  "source_url": "https://www.cga.ct.gov/current/pub/titles.htm",
-  "last_updated": "2026-02-09T22:02:59.990022+00:00",
+  "source": "official_website",
+  "source_url": "https://law.justia.com/codes/connecticut",
+  "last_updated": "2026-02-10T23:46:38.364280+00:00",
   "year": 2024,
   "structure": [
     {
@@ -21,8 +21,8 @@
     }
   ],
   "stats": {
-    "titles": 81,
-    "chapters": 81,
-    "sections": 113
+    "titles": 74,
+    "chapters": 1143,
+    "sections": 29990
   }
 }

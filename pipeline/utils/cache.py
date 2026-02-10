@@ -5,6 +5,7 @@ from __future__ import annotations
 import hashlib
 import json
 import logging
+import subprocess
 import time
 from pathlib import Path
 
@@ -108,12 +109,54 @@ class HttpCache:
             "Accept-Language": "en-US,en;q=0.5",
         })
 
-        response = httpx.get(url, **kwargs)
-        response.raise_for_status()
+        try:
+            response = httpx.get(url, **kwargs)
+            response.raise_for_status()
+            body = response.text
+        except httpx.HTTPStatusError as e:
+            if e.response.status_code == 403:
+                # Cloudflare block - try curl as fallback
+                body = self._fetch_with_curl(url)
+                if body is None:
+                    raise
+            else:
+                raise
 
-        body = response.text
-        self.put(url, body, response.status_code)
+        self.put(url, body, 200)
         return body
+
+    def _fetch_with_curl(self, url: str, retries: int = 2) -> str | None:
+        """Fallback: fetch with curl to bypass Cloudflare TLS fingerprinting."""
+        cloudflare_markers = ["Just a moment", "Checking your browser", "cf-browser-verification"]
+        for attempt in range(retries + 1):
+            try:
+                if attempt > 0:
+                    time.sleep(3 * attempt)
+                result = subprocess.run(
+                    [
+                        "curl", "-sL", "--max-time", "60",
+                        "-H", "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+                        "-H", "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                        "-H", "Accept-Language: en-US,en;q=0.5",
+                        "-H", "Accept-Encoding: identity",
+                        url,
+                    ],
+                    capture_output=True,
+                    text=True,
+                    encoding="utf-8",
+                    errors="replace",
+                    timeout=90,
+                )
+                if result.returncode == 0 and len(result.stdout) > 100:
+                    # Reject Cloudflare challenge pages
+                    if any(marker in result.stdout[:2000] for marker in cloudflare_markers):
+                        logger.debug("curl got Cloudflare challenge for %s (attempt %d)", url, attempt + 1)
+                        continue
+                    logger.info("curl fallback succeeded for %s (%d bytes)", url, len(result.stdout))
+                    return result.stdout
+            except (subprocess.TimeoutExpired, FileNotFoundError):
+                pass
+        return None
 
     def fetch_bytes(self, url: str, **kwargs) -> bytes:
         """Fetch URL and return raw bytes (for binary downloads).
