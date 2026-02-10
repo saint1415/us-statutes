@@ -1,0 +1,2142 @@
+{
+  "state": "massachusetts",
+  "path": "title-mgl-c90-24/chapter-chapter-90motor-vehicles-and-aircraft",
+  "sections": [
+    {
+      "id": "section-number",
+      "number": "Number",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-tion",
+      "number": "tion",
+      "heading": "1Definitions",
+      "text": "1Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1aregistration",
+      "number": "1ARegistration",
+      "heading": "of motor vehicles; liability insurance, failure to maintain; revocation of certificate of registration; exemptions; school buses",
+      "text": "of motor vehicles; liability insurance, failure to maintain; revocation of certificate of registration; exemptions; school buses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1bmotorized",
+      "number": "1BMotorized",
+      "heading": "bicycles; operation regulations",
+      "text": "bicycles; operation regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1cmotorized",
+      "number": "1CMotorized",
+      "heading": "bicycles and scooters; compliance with federal standards",
+      "text": "bicycles and scooters; compliance with federal standards",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1dmotorized",
+      "number": "1DMotorized",
+      "heading": "bicycles; sales; number sticker or plate",
+      "text": "bicycles; sales; number sticker or plate",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1emotorized",
+      "number": "1EMotorized",
+      "heading": "scooters; operation regulations",
+      "text": "scooters; operation regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1flow-speed",
+      "number": "1FLow-speed",
+      "heading": "motor vehicles; express state highway and public way restrictions; additional municipality restrictions",
+      "text": "motor vehicles; express state highway and public way restrictions; additional municipality restrictions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1gnotice",
+      "number": "1GNotice",
+      "heading": "of disclosure required upon sale, lease or rental of low-speed motor vehicles",
+      "text": "of disclosure required upon sale, lease or rental of low-speed motor vehicles",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1hregistration",
+      "number": "1HRegistration",
+      "heading": "of motor vehicles designed for operation on public ways but not capable of exceeding 40 miles per hour",
+      "text": "of motor vehicles designed for operation on public ways but not capable of exceeding 40 miles per hour",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2registration",
+      "number": "2Registration",
+      "heading": "of motor vehicles and trailers;  applications;  reciprocal state agreements;  transfer of ownership;  plates;  fraud or misrepresentation;  penalties;  license plate retention program for deployed residents",
+      "text": "of motor vehicles and trailers; applications; reciprocal state agreements; transfer of ownership; plates; fraud or misrepresentation; penalties; license plate retention program for deployed residents",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2bremoval",
+      "number": "2BRemoval",
+      "heading": "of registration upon transfer of ownership",
+      "text": "of registration upon transfer of ownership",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2dtemporary",
+      "number": "2DTemporary",
+      "heading": "registration plates",
+      "text": "registration plates",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2edistinctive",
+      "number": "2EDistinctive",
+      "heading": "registration plates;  Environmental Trust Fund;  Child Care Quality Fund;  9/11 victims and military heroes funds;  Boston Marathon tragedy funds",
+      "text": "registration plates; Environmental Trust Fund; Child Care Quality Fund; 9/11 victims and military heroes funds; Boston Marathon tragedy funds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2fdistinctive",
+      "number": "2FDistinctive",
+      "heading": "registration plates; submission of applications; eligible organizations",
+      "text": "registration plates; submission of applications; eligible organizations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2gpassenger",
+      "number": "2GPassenger",
+      "heading": "plates for low-speed motor vehicles; fee",
+      "text": "plates for low-speed motor vehicles; fee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2hcertificates",
+      "number": "2HCertificates",
+      "heading": "of registration and number plates for street rods, replica and other custom vehicles; determination of title year and make, model and model year",
+      "text": "of registration and number plates for street rods, replica and other custom vehicles; determination of title year and make, model and model year",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2iregistration",
+      "number": "2IRegistration",
+      "heading": "prerequisites for certain custom vehicles; salvage inspection; state-assigned VIN; safety belts; air bags",
+      "text": "prerequisites for certain custom vehicles; salvage inspection; state-assigned VIN; safety belts; air bags",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2jcommercial",
+      "number": "2JCommercial",
+      "heading": "motor carriers prohibited from operating in interstate commerce by federal agency",
+      "text": "motor carriers prohibited from operating in interstate commerce by federal agency",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3operation",
+      "number": "3Operation",
+      "heading": "of motor vehicles owned by non-residents; liability insurance; vehicles used in connection with place of business; suspension or revocation of right to operate vehicle; registration",
+      "text": "of motor vehicles owned by non-residents; liability insurance; vehicles used in connection with place of business; suspension or revocation of right to operate vehicle; registration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3",
+      "number": "3",
+      "heading": "1/2Commonwealth residency factors; access to information in nonpublic records; certification of facts; motor vehicle registration misrepresentations; penalties and fines",
+      "text": "1/2Commonwealth residency factors; access to information in nonpublic records; certification of facts; motor vehicle registration misrepresentations; penalties and fines",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3aappointment",
+      "number": "3AAppointment",
+      "heading": "of registrar as attorney as result of acceptance of rights and privileges of Sec. 3 by non-resident",
+      "text": "of registrar as attorney as result of acceptance of rights and privileges of Sec. 3 by non-resident",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3bappointment",
+      "number": "3BAppointment",
+      "heading": "of registrar as attorney as result of operation of motor vehicle by any person",
+      "text": "of registrar as attorney as result of operation of motor vehicle by any person",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3cservice",
+      "number": "3CService",
+      "heading": "of process; notice of service; continuance",
+      "text": "of process; notice of service; continuance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3dappointment",
+      "number": "3DAppointment",
+      "heading": "of registrar as result of application for registration or license to operate motor vehicle; service of process on registrar",
+      "text": "of registrar as result of application for registration or license to operate motor vehicle; service of process on registrar",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3efee",
+      "number": "3EFee",
+      "heading": "paid to registrar; records of registrar",
+      "text": "paid to registrar; records of registrar",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3fseparability",
+      "number": "3FSeparability",
+      "heading": "of Secs. 3A to 3E; effect of unconstitutionality",
+      "text": "of Secs. 3A to 3E; effect of unconstitutionality",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3gsecurity",
+      "number": "3GSecurity",
+      "heading": "from nonresidents for damage caused by operation of motor vehicles; procedure; contents of motion",
+      "text": "from nonresidents for damage caused by operation of motor vehicles; procedure; contents of motion",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-urity",
+      "number": "urity",
+      "heading": "from nonresidents for damage caused by operation of motor vehicles; procedure; contents of motion",
+      "text": "from nonresidents for damage caused by operation of motor vehicles; procedure; contents of motion",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5general",
+      "number": "5General",
+      "heading": "registrations; general registration number plates; eligibility",
+      "text": "registrations; general registration number plates; eligibility",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5aapplication",
+      "number": "5AApplication",
+      "heading": "for general distinguishing mark for motor vehicles under control of military forces of commonwealth",
+      "text": "for general distinguishing mark for motor vehicles under control of military forces of commonwealth",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5bpersons",
+      "number": "5BPersons",
+      "heading": "in military service; vehicles purchased in another state; registration",
+      "text": "in military service; vehicles purchased in another state; registration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6display",
+      "number": "6Display",
+      "heading": "of number plates; temporary number plates",
+      "text": "of number plates; temporary number plates",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6anumber",
+      "number": "6ANumber",
+      "heading": "plates for antique motor cars",
+      "text": "plates for antique motor cars",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6bone",
+      "number": "6BOne",
+      "heading": "number plate; display",
+      "text": "number plate; display",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6creturn",
+      "number": "6CReturn",
+      "heading": "of number plates by repossessor; penalty",
+      "text": "of number plates by repossessor; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7arules",
+      "number": "7ARules",
+      "heading": "and regulations for periodic inspections of motor vehicles; school buses; fees",
+      "text": "and regulations for periodic inspections of motor vehicles; school buses; fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7bequipment",
+      "number": "7BEquipment",
+      "heading": "and operation of school buses",
+      "text": "and operation of school buses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7cminimum",
+      "number": "7CMinimum",
+      "heading": "standards for construction and equipment of school buses",
+      "text": "standards for construction and equipment of school buses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7dapplication",
+      "number": "7DApplication",
+      "heading": "of Sec. 7B; additional equipment",
+      "text": "of Sec. 7B; additional equipment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7d",
+      "number": "7D",
+      "heading": "1/2Transportation of vocational school students; motor vehicle requirements; seat belts",
+      "text": "1/2Transportation of vocational school students; motor vehicle requirements; seat belts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7edisplay",
+      "number": "7EDisplay",
+      "heading": "of red or blue lights on vehicles; permits; revocation; violations",
+      "text": "of red or blue lights on vehicles; permits; revocation; violations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7gused",
+      "number": "7GUsed",
+      "heading": "brake drums; servicing, sale or grinding; prohibition",
+      "text": "brake drums; servicing, sale or grinding; prohibition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7hbrake",
+      "number": "7HBrake",
+      "heading": "linings; minimum safety standards",
+      "text": "linings; minimum safety standards",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7iemergency",
+      "number": "7IEmergency",
+      "heading": "disaster service vehicles of charitable corporations; identification and equipment",
+      "text": "disaster service vehicles of charitable corporations; identification and equipment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7jhandlebars",
+      "number": "7JHandlebars",
+      "heading": "on motorcycles; rules and regulations; penalty",
+      "text": "on motorcycles; rules and regulations; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7lstanding",
+      "number": "7LStanding",
+      "heading": "in school buses; penalty",
+      "text": "in school buses; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7mretread",
+      "number": "7MRetread",
+      "heading": "or recapped tires; sale; marking quality",
+      "text": "or recapped tires; sale; marking quality",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7nvoiding",
+      "number": "7NVoiding",
+      "heading": "contracts of sale",
+      "text": "contracts of sale",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7n",
+      "number": "7N",
+      "heading": "1/2Defective or malfunctioning new motor vehicles; sale and repair or replacement",
+      "text": "1/2Defective or malfunctioning new motor vehicles; sale and repair or replacement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7omotor",
+      "number": "7OMotor",
+      "heading": "vehicle pollutant control devices; removal",
+      "text": "vehicle pollutant control devices; removal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7pheight",
+      "number": "7PHeight",
+      "heading": "of motor vehicles; alteration restricted",
+      "text": "of motor vehicles; alteration restricted",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7qtire",
+      "number": "7QTire",
+      "heading": "tread depth regulations; compliance; operation of vehicle prohibited",
+      "text": "tread depth regulations; compliance; operation of vehicle prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7rvehicle",
+      "number": "7RVehicle",
+      "heading": "identification number; display in certain motor vehicles",
+      "text": "identification number; display in certain motor vehicles",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7r",
+      "number": "7R",
+      "heading": "1/2Dealers insignias, logos or plates; placement on motor vehicles; consent",
+      "text": "1/2Dealers insignias, logos or plates; placement on motor vehicles; consent",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7smotorcycle",
+      "number": "7SMotorcycle",
+      "heading": "sound emissions; definitions",
+      "text": "sound emissions; definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7tmotorcycle",
+      "number": "7TMotorcycle",
+      "heading": "sound levels; testing regulations",
+      "text": "sound levels; testing regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7vcertificates",
+      "number": "7VCertificates",
+      "heading": "of inspection; rules and regulations",
+      "text": "of inspection; rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7wlicensing",
+      "number": "7WLicensing",
+      "heading": "of safety and emissions inspection facilities and technicians; rules and regulations; penalties; computerized communication system",
+      "text": "of safety and emissions inspection facilities and technicians; rules and regulations; penalties; computerized communication system",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7xdesignation",
+      "number": "7XDesignation",
+      "heading": "of referee stations",
+      "text": "of referee stations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7ycertification",
+      "number": "7YCertification",
+      "heading": "and training of inspectors; rules and regulations",
+      "text": "and training of inspectors; rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7zentry",
+      "number": "7ZEntry",
+      "heading": "on premises of inspection stations; examination of records",
+      "text": "on premises of inspection stations; examination of records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7aachild",
+      "number": "7AAChild",
+      "heading": "passenger restraints; fine; violation as evidence in civil action",
+      "text": "passenger restraints; fine; violation as evidence in civil action",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7bbnullified",
+      "number": "7BBNullified",
+      "heading": "by referendum by majority vote at the 1986 state election",
+      "text": "by referendum by majority vote at the 1986 state election",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7cctransporting",
+      "number": "7CCTransporting",
+      "heading": "of special needs children",
+      "text": "of special needs children",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8aoperators",
+      "number": "8AOperators",
+      "heading": "of school buses; licensing; training; instructors",
+      "text": "of school buses; licensing; training; instructors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8a",
+      "number": "8A",
+      "heading": "1/2Operators of school buses under Sec. 7D; licensing; exceptions; timing",
+      "text": "1/2Operators of school buses under Sec. 7D; licensing; exceptions; timing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8cmedical",
+      "number": "8CMedical",
+      "heading": "advisory board; standards of fitness for applicants for learner's permits or licenses",
+      "text": "advisory board; standards of fitness for applicants for learner's permits or licenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8ddonor",
+      "number": "8DDonor",
+      "heading": "registry and anatomical gift act; information to be included with notice of license and registration renewal; symbol on license; charitable donations; liability of government employees; transmission of information to organ procurement organizations; educational materials",
+      "text": "registry and anatomical gift act; information to be included with notice of license and registration renewal; symbol on license; charitable donations; liability of government employees; transmission of information to organ procurement organizations; educational materials",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8eidentification",
+      "number": "8EIdentification",
+      "heading": "cards for persons not possessing motor vehicle licenses; application; REAL ID&ndash;compliance; fee; organ donor status; provision of donor information to eye and tissue banks; expiration",
+      "text": "cards for persons not possessing motor vehicle licenses; application; REAL ID–compliance; fee; organ donor status; provision of donor information to eye and tissue banks; expiration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8gidentification",
+      "number": "8GIdentification",
+      "heading": "cards for persons not possessing motor vehicle licenses; lost, destroyed or mutilated cards; change of name; duplicate cards",
+      "text": "cards for persons not possessing motor vehicle licenses; lost, destroyed or mutilated cards; change of name; duplicate cards",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8hidentification",
+      "number": "8HIdentification",
+      "heading": "cards for persons not possessing motor vehicle licenses; fictitious, fraudulent, or altered cards; possession",
+      "text": "cards for persons not possessing motor vehicle licenses; fictitious, fraudulent, or altered cards; possession",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8iidentification",
+      "number": "8IIdentification",
+      "heading": "cards for persons not possessing motor vehicle licenses; description",
+      "text": "cards for persons not possessing motor vehicle licenses; description",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8jidentification",
+      "number": "8JIdentification",
+      "heading": "cards for persons not possessing motor vehicle licenses; change of address",
+      "text": "cards for persons not possessing motor vehicle licenses; change of address",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8kidentification",
+      "number": "8KIdentification",
+      "heading": "cards for persons not possessing motor vehicle licenses; cancellation",
+      "text": "cards for persons not possessing motor vehicle licenses; cancellation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8lvoter",
+      "number": "8LVoter",
+      "heading": "registration agency",
+      "text": "registration agency",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8muse",
+      "number": "8MUse",
+      "heading": "of mobile telephone, hands-free mobile telephone or mobile electronic device by person under 18 years of age while operating motor vehicle prohibited; penalties;affirmative defenses",
+      "text": "of mobile telephone, hands-free mobile telephone or mobile electronic device by person under 18 years of age while operating motor vehicle prohibited; penalties;affirmative defenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8ngender",
+      "number": "8NGender",
+      "heading": "designations on applications for license, permit or identification card",
+      "text": "designations on applications for license, permit or identification card",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9operation",
+      "number": "9Operation",
+      "heading": "of unregistered or improperly equipped motor vehicles, tractors, trailers, etc.",
+      "text": "of unregistered or improperly equipped motor vehicles, tractors, trailers, etc.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9asafety",
+      "number": "9ASafety",
+      "heading": "glass; windshields, windows",
+      "text": "glass; windshields, windows",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9bregistration",
+      "number": "9BRegistration",
+      "heading": "of vehicles; display of number plates; application of law",
+      "text": "of vehicles; display of number plates; application of law",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9crepair",
+      "number": "9CRepair",
+      "heading": "of tires on trucks, etc.",
+      "text": "of tires on trucks, etc.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9dwindshields",
+      "number": "9DWindshields",
+      "heading": "and windows obscured by nontransparent materials",
+      "text": "and windows obscured by nontransparent materials",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10operation",
+      "number": "10Operation",
+      "heading": "of motor vehicle without license; members of armed forces; nonresidents; suspension or revocation of license",
+      "text": "of motor vehicle without license; members of armed forces; nonresidents; suspension or revocation of license",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11carrying",
+      "number": "11Carrying",
+      "heading": "certificate of registration and license; presentation after accident upon request",
+      "text": "certificate of registration and license; presentation after accident upon request",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12employing",
+      "number": "12Employing",
+      "heading": "unlicensed motor vehicle operator; permitting person with suspended or revoked license to operate motor vehicle; permitting person with ignition interlock devise license restriction to operate motor vehicle without devise; penalties",
+      "text": "unlicensed motor vehicle operator; permitting person with suspended or revoked license to operate motor vehicle; permitting person with ignition interlock devise license restriction to operate motor vehicle without devise; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12ause",
+      "number": "12AUse",
+      "heading": "of mobile telephone, hands-free mobile telephone or other mobile electronic device by operator of vehicle or vessel used in public transportation prohibited; penalties; affirmative defenses",
+      "text": "of mobile telephone, hands-free mobile telephone or other mobile electronic device by operator of vehicle or vessel used in public transportation prohibited; penalties; affirmative defenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13safety",
+      "number": "13Safety",
+      "heading": "precautions for proper operation and parking of vehicles and buses",
+      "text": "precautions for proper operation and parking of vehicles and buses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13aseat",
+      "number": "13ASeat",
+      "heading": "belt use required; exemptions; penalty",
+      "text": "belt use required; exemptions; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13camphibious",
+      "number": "13CAmphibious",
+      "heading": "sight-seeing vehicles; operation on public ways; penalties",
+      "text": "sight-seeing vehicles; operation on public ways; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14precautions",
+      "number": "14Precautions",
+      "heading": "for safety of other travelers",
+      "text": "for safety of other travelers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14aprotection",
+      "number": "14AProtection",
+      "heading": "of blind pedestrians crossing or attempting to cross ways",
+      "text": "of blind pedestrians crossing or attempting to cross ways",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14buniform",
+      "number": "14BUniform",
+      "heading": "stopping and turning signals on ways",
+      "text": "stopping and turning signals on ways",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14cschool",
+      "number": "14CSchool",
+      "heading": "bus violation detection monitoring systems;  taking of photographic and video images;  production of evidence files;  reporting",
+      "text": "bus violation detection monitoring systems; taking of photographic and video images; production of evidence files; reporting",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14dschool",
+      "number": "14DSchool",
+      "heading": "bus violation detection monitoring systems;  review of evidence file by law enforcement officer;  issuance of citation;  sworn certificate as prima facie evidence;  availability of photographic and video images for inspection in proceedings",
+      "text": "bus violation detection monitoring systems; review of evidence file by law enforcement officer; issuance of citation; sworn certificate as prima facie evidence; availability of photographic and video images for inspection in proceedings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14eschool",
+      "number": "14ESchool",
+      "heading": "bus violation detection monitoring systems;  liability of registered owner of violating vehicle;  liability of corporate owner or lessee of violating vehicle;  effect of penalties imposed for violations;  issuance of citation",
+      "text": "bus violation detection monitoring systems; liability of registered owner of violating vehicle; liability of corporate owner or lessee of violating vehicle; effect of penalties imposed for violations; issuance of citation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15precautions",
+      "number": "15Precautions",
+      "heading": "at railroad crossings",
+      "text": "at railroad crossings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-16offensive",
+      "number": "16Offensive",
+      "heading": "or illegal operation of motor vehicles",
+      "text": "or illegal operation of motor vehicles",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-16astopped",
+      "number": "16AStopped",
+      "heading": "motor vehicles; operation of engine; time limit; penalty",
+      "text": "motor vehicles; operation of engine; time limit; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-16bidling",
+      "number": "16BIdling",
+      "heading": "of a motor vehicle engine on school property; penalties; adoption of regulations",
+      "text": "of a motor vehicle engine on school property; penalties; adoption of regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-17speed",
+      "number": "17Speed",
+      "heading": "limits",
+      "text": "limits",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-17aspeed",
+      "number": "17ASpeed",
+      "heading": "limit; Massachusetts Turnpike",
+      "text": "limit; Massachusetts Turnpike",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-17bdrag",
+      "number": "17BDrag",
+      "heading": "racing; penalties",
+      "text": "racing; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-17cestablishment",
+      "number": "17CEstablishment",
+      "heading": "of 25-miles-per-hour speed limit in thickly settled or business district in city or town; violation",
+      "text": "of 25-miles-per-hour speed limit in thickly settled or business district in city or town; violation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-17dspeed",
+      "number": "17DSpeed",
+      "heading": "limits in active construction zones",
+      "text": "limits in active construction zones",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-18special",
+      "number": "18Special",
+      "heading": "regulations, speed and use of vehicles",
+      "text": "regulations, speed and use of vehicles",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-18bestablishment",
+      "number": "18BEstablishment",
+      "heading": "of designated safety zones for ways in city or town; violation",
+      "text": "of designated safety zones for ways in city or town; violation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19dimensions",
+      "number": "19Dimensions",
+      "heading": "and weights of motor vehicles, trucks and trailers",
+      "text": "and weights of motor vehicles, trucks and trailers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19aweight",
+      "number": "19AWeight",
+      "heading": "limitations for certain motor vehicles, semi-trailers, etc.; scales; penalties for violations",
+      "text": "limitations for certain motor vehicles, semi-trailers, etc.; scales; penalties for violations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19dpermit",
+      "number": "19DPermit",
+      "heading": "stickers; issuance; application; certificate of gross vehicle weight rating; violations; penalties",
+      "text": "stickers; issuance; application; certificate of gross vehicle weight rating; violations; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19eoperation",
+      "number": "19EOperation",
+      "heading": "of motor vehicles and certain trailers and semi-trailers on Interstate and Defense Highways",
+      "text": "of motor vehicles and certain trailers and semi-trailers on Interstate and Defense Highways",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19fvehicles",
+      "number": "19FVehicles",
+      "heading": "authorized to operate on national network",
+      "text": "authorized to operate on national network",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19gvehicles",
+      "number": "19GVehicles",
+      "heading": "authorized to operate on routes of reasonable access; safety evaluations",
+      "text": "authorized to operate on routes of reasonable access; safety evaluations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19imaximum",
+      "number": "19IMaximum",
+      "heading": "width and weight limitations and minimum speed limits; exception for certain construction vehicles",
+      "text": "width and weight limitations and minimum speed limits; exception for certain construction vehicles",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19jmaximum",
+      "number": "19JMaximum",
+      "heading": "vehicle widths, axle weights and minimum speed limits; exception for certain snow clearing duties",
+      "text": "vehicle widths, axle weights and minimum speed limits; exception for certain snow clearing duties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19khitching",
+      "number": "19KHitching",
+      "heading": "mechanism",
+      "text": "mechanism",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19lregulations",
+      "number": "19LRegulations",
+      "heading": "to ensure compliance of interstate and intrastate motor carriers with federal and state laws; inspection of records; penalties",
+      "text": "to ensure compliance of interstate and intrastate motor carriers with federal and state laws; inspection of records; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-20penalties",
+      "number": "20Penalties",
+      "heading": "and punishments",
+      "text": "and punishments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-20aparking",
+      "number": "20AParking",
+      "heading": "regulations; violations; notice to appear; failure to appear; adjudication by mail",
+      "text": "regulations; violations; notice to appear; failure to appear; adjudication by mail",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-20a",
+      "number": "20A",
+      "heading": "1/2Cities of Boston and Cambridge; parking violations; tags; appearance; failure to appear; adjudication by mail",
+      "text": "1/2Cities of Boston and Cambridge; parking violations; tags; appearance; failure to appear; adjudication by mail",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-20cnature",
+      "number": "20CNature",
+      "heading": "of proceedings under Secs. 20A and 20A1/2; fines",
+      "text": "of proceedings under Secs. 20A and 20A1/2; fines",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-20dtampering",
+      "number": "20DTampering",
+      "heading": "or destruction of parking tags; penalty",
+      "text": "or destruction of parking tags; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-20eliability",
+      "number": "20ELiability",
+      "heading": "of lessors of motor vehicles for parking violations",
+      "text": "of lessors of motor vehicles for parking violations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-20gfailure",
+      "number": "20GFailure",
+      "heading": "to appear in accordance with notice issued pursuant to Department of Transportation regulation; failure to pay violation; motor vehicle license renewals; registration of motor vehicles",
+      "text": "to appear in accordance with notice issued pursuant to Department of Transportation regulation; failure to pay violation; motor vehicle license renewals; registration of motor vehicles",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-20hfailure",
+      "number": "20HFailure",
+      "heading": "to pay required toll; Tobin Bridge; motor vehicle license renewals; registration of motor vehicles",
+      "text": "to pay required toll; Tobin Bridge; motor vehicle license renewals; registration of motor vehicles",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-21arrest",
+      "number": "21Arrest",
+      "heading": "without warrant",
+      "text": "without warrant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22suspension",
+      "number": "22Suspension",
+      "heading": "or revocation of certificate of registration or license; notice",
+      "text": "or revocation of certificate of registration or license; notice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22",
+      "number": "22",
+      "heading": "1/2Suspension of right to operate based upon violation of Sec. 32E of chapter 94C",
+      "text": "1/2Suspension of right to operate based upon violation of Sec. 32E of chapter 94C",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22asuspension",
+      "number": "22ASuspension",
+      "heading": "of operator's license or registration certificates, unsatisfied judgment; reinstatement of license",
+      "text": "of operator's license or registration certificates, unsatisfied judgment; reinstatement of license",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22babandonment",
+      "number": "22BAbandonment",
+      "heading": "of motor vehicles; penalties; non-criminal proceedings",
+      "text": "of motor vehicles; penalties; non-criminal proceedings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22cabandoned",
+      "number": "22CAbandoned",
+      "heading": "motor vehicles; removal and disposal",
+      "text": "motor vehicles; removal and disposal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22dsuspension",
+      "number": "22DSuspension",
+      "heading": "of license for automobile law violation; reinstatement",
+      "text": "of license for automobile law violation; reinstatement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22eabandoned",
+      "number": "22EAbandoned",
+      "heading": "vehicles; removal of parts; penalty",
+      "text": "vehicles; removal of parts; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22fhabitual",
+      "number": "22FHabitual",
+      "heading": "traffic offender; revocation of license; reinstatement",
+      "text": "traffic offender; revocation of license; reinstatement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22hsafe",
+      "number": "22HSafe",
+      "heading": "transportation of animals",
+      "text": "transportation of animals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22isuspension",
+      "number": "22ISuspension",
+      "heading": "of license upon report of health care provider or law enforcement officer of operator's cognitive or functional impairment or incapability to operate motor vehicle safely; contents of report; immunity from liability; review by registrar; confidentiality of report",
+      "text": "of license upon report of health care provider or law enforcement officer of operator's cognitive or functional impairment or incapability to operate motor vehicle safely; contents of report; immunity from liability; review by registrar; confidentiality of report",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-23operation",
+      "number": "23Operation",
+      "heading": "of motor vehicle after suspension or revocation of license; concealment of identity of motor vehicle",
+      "text": "of motor vehicle after suspension or revocation of license; concealment of identity of motor vehicle",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24driving",
+      "number": "24Driving",
+      "heading": "while under influence of intoxicating liquor, etc",
+      "text": "; second and subsequent offenses; punishment; treatment programs; reckless and unauthorized driving; failure to stop after collision",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24",
+      "number": "24",
+      "heading": "1/2Ignition interlock device license restriction; revocation of license for failure to install or maintain device; revocation of license for attempt to operate motor vehicle with elevated blood alcohol level",
+      "text": "1/2Ignition interlock device license restriction; revocation of license for failure to install or maintain device; revocation of license for attempt to operate motor vehicle with elevated blood alcohol level",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24ause",
+      "number": "24AUse",
+      "heading": "of motor vehicles in commission of felony, larceny or other crimes",
+      "text": "of motor vehicles in commission of felony, larceny or other crimes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24dprobation",
+      "number": "24DProbation",
+      "heading": "of persons convicted of driving under the influence; driver alcohol education program; alcohol treatment and rehabilitation programs; fees; indigents; gifts and grants; report",
+      "text": "of persons convicted of driving under the influence; driver alcohol education program; alcohol treatment and rehabilitation programs; fees; indigents; gifts and grants; report",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24edismissal",
+      "number": "24EDismissal",
+      "heading": "of charges upon compliance with terms of probation; records; reports",
+      "text": "of charges upon compliance with terms of probation; records; reports",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24fcivil",
+      "number": "24FCivil",
+      "heading": "liability to owner for unauthorized use of motor vehicle",
+      "text": "liability to owner for unauthorized use of motor vehicle",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24ghomicide",
+      "number": "24GHomicide",
+      "heading": "by motor vehicle; punishment",
+      "text": "by motor vehicle; punishment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24hremoval",
+      "number": "24HRemoval",
+      "heading": "of abandoned or stolen vehicles from public places; towing vehicles; machines that crush, mutilate or destroy vehicles; salvage or junk yard owners or agents",
+      "text": "of abandoned or stolen vehicles from public places; towing vehicles; machines that crush, mutilate or destroy vehicles; salvage or junk yard owners or agents",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24ipossession",
+      "number": "24IPossession",
+      "heading": "of alcoholic beverages in motor vehicles",
+      "text": "of alcoholic beverages in motor vehicles",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24jinquiry",
+      "number": "24JInquiry",
+      "heading": "of defendant convicted of driving under influence of intoxicating liquors as to establishment serving alcohol",
+      "text": "of defendant convicted of driving under influence of intoxicating liquors as to establishment serving alcohol",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24kchemical",
+      "number": "24KChemical",
+      "heading": "breath analysis; validity; testing procedures; report forms",
+      "text": "breath analysis; validity; testing procedures; report forms",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24lserious",
+      "number": "24LSerious",
+      "heading": "bodily injury by motor vehicle while under influence of intoxicating substance; penalties",
+      "text": "bodily injury by motor vehicle while under influence of intoxicating substance; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24mtraining",
+      "number": "24MTraining",
+      "heading": "for law enforcement personnel regarding alcohol-related offenses; alcohol sensitive selective traffic enforcement program",
+      "text": "for law enforcement personnel regarding alcohol-related offenses; alcohol sensitive selective traffic enforcement program",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24nsuspension",
+      "number": "24NSuspension",
+      "heading": "of operator's license upon issuance of complaint; hearing",
+      "text": "of operator's license upon issuance of complaint; hearing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24ostatement",
+      "number": "24OStatement",
+      "heading": "to defendant regarding further violations",
+      "text": "to defendant regarding further violations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24qalcohol",
+      "number": "24QAlcohol",
+      "heading": "or drug assessment as condition for certain sentences imposed under chapter",
+      "text": "or drug assessment as condition for certain sentences imposed under chapter",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24rrevocation",
+      "number": "24RRevocation",
+      "heading": "for life of license or right to operate",
+      "text": "for life of license or right to operate",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24soperation",
+      "number": "24SOperation",
+      "heading": "of motor vehicle on public way in violation of ignition interlock device license restriction; penalties",
+      "text": "of motor vehicle on public way in violation of ignition interlock device license restriction; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24ttampering",
+      "number": "24TTampering",
+      "heading": "with ignition interlock device; penalties",
+      "text": "with ignition interlock device; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24ustarting",
+      "number": "24UStarting",
+      "heading": "motor vehicle equipped with ignition interlock device for another person under a restricted license",
+      "text": "motor vehicle equipped with ignition interlock device for another person under a restricted license",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24vchild",
+      "number": "24VChild",
+      "heading": "endangerment while operating a motor vehicle or vessel under the influence; penalties; suspension of license",
+      "text": "endangerment while operating a motor vehicle or vessel under the influence; penalties; suspension of license",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24wforfeiture",
+      "number": "24WForfeiture",
+      "heading": "of motor vehicle owned by certain drunk driving offenders; procedure; Operating Under the Influence Deterrent Trust Fund",
+      "text": "of motor vehicle owned by certain drunk driving offenders; procedure; Operating Under the Influence Deterrent Trust Fund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24xcancellation",
+      "number": "24XCancellation",
+      "heading": "of registration for motor vehicles owned by certain drunk driving offenders",
+      "text": "of registration for motor vehicles owned by certain drunk driving offenders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25refusal",
+      "number": "25Refusal",
+      "heading": "to submit to police officer",
+      "text": "to submit to police officer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26accident",
+      "number": "26Accident",
+      "heading": "reports; supplemental report; penalty for violation",
+      "text": "reports; supplemental report; penalty for violation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26alicenses",
+      "number": "26ALicenses",
+      "heading": "and learner's permits; reporting changes of name and address",
+      "text": "and learner's permits; reporting changes of name and address",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27court",
+      "number": "27Court",
+      "heading": "records; motor vehicle violations",
+      "text": "records; motor vehicle violations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28appeals",
+      "number": "28Appeals",
+      "heading": "and hearings",
+      "text": "and hearings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-29deputy",
+      "number": "29Deputy",
+      "heading": "registrar, chief deputy registrar, etc.; appointment; duties; investigation of motor vehicle accidents; suspension or revocation of licenses",
+      "text": "registrar, chief deputy registrar, etc.; appointment; duties; investigation of motor vehicle accidents; suspension or revocation of licenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-30records",
+      "number": "30Records",
+      "heading": "of registrar; certified copies; destruction",
+      "text": "of registrar; certified copies; destruction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-30acomputer",
+      "number": "30AComputer",
+      "heading": "terminals under control of registrar; restricted use",
+      "text": "terminals under control of registrar; restricted use",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-30a",
+      "number": "30A",
+      "heading": "1/2Agreements with third party entities by registrar",
+      "text": "1/2Agreements with third party entities by registrar",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-30binterstate",
+      "number": "30BInterstate",
+      "heading": "compact; motor vehicle convictions",
+      "text": "compact; motor vehicle convictions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31use",
+      "number": "31Use",
+      "heading": "and operation of motor vehicles or trailers; conduct of operators and chauffeurs; rules and regulations",
+      "text": "and operation of motor vehicles or trailers; conduct of operators and chauffeurs; rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31atransportation",
+      "number": "31ATransportation",
+      "heading": "by motor vehicle of personal property; rules and regulations",
+      "text": "by motor vehicle of personal property; rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32arestoration",
+      "number": "32ARestoration",
+      "heading": "of original identifying number of motor vehicle; certificate",
+      "text": "of original identifying number of motor vehicle; certificate",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32cleasing",
+      "number": "32CLeasing",
+      "heading": "motor vehicles on mileage basis; registration of distance by mechanical devices; deception by lessor or lessee; leasing to intoxicated or unlicensed persons; redelivery",
+      "text": "motor vehicles on mileage basis; registration of distance by mechanical devices; deception by lessor or lessee; leasing to intoxicated or unlicensed persons; redelivery",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32dleasing",
+      "number": "32DLeasing",
+      "heading": "motor vehicles on mileage basis; records",
+      "text": "motor vehicles on mileage basis; records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32eleasing",
+      "number": "32ELeasing",
+      "heading": "motor vehicles on mileage basis; operation of vehicles or use of trailers; insurance coverage",
+      "text": "motor vehicles on mileage basis; operation of vehicles or use of trailers; insurance coverage",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32e",
+      "number": "32E",
+      "heading": "0.875Police training surcharge upon vehicular rental transaction contracts",
+      "text": "0.875Police training surcharge upon vehicular rental transaction contracts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32fleasing",
+      "number": "32FLeasing",
+      "heading": "motor vehicles on mileage basis; fraud; violations; penalties",
+      "text": "motor vehicles on mileage basis; fraud; violations; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32ginstruction",
+      "number": "32GInstruction",
+      "heading": "for hire in operation of motor vehicles; driver school; licensing; application; fees; qualifications of applicant; suspension or revocation of license or instructor's certificate; procedures",
+      "text": "for hire in operation of motor vehicles; driver school; licensing; application; fees; qualifications of applicant; suspension or revocation of license or instructor's certificate; procedures",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32g",
+      "number": "32G",
+      "heading": "1/2Advanced driver training program certification",
+      "text": "1/2Advanced driver training program certification",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32hlessors",
+      "number": "32HLessors",
+      "heading": "of motorcycles; licensing",
+      "text": "of motorcycles; licensing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32jvehicles",
+      "number": "32JVehicles",
+      "heading": "in fleet of car-sharing organization; display of registration plates",
+      "text": "in fleet of car-sharing organization; display of registration plates",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33amotor",
+      "number": "33AMotor",
+      "heading": "vehicles; certificates of registration; signatures",
+      "text": "vehicles; certificates of registration; signatures",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33btraffic",
+      "number": "33BTraffic",
+      "heading": "control signs, safety devices and improvements; installation and construction costs; high-accident locations; funding limits",
+      "text": "control signs, safety devices and improvements; installation and construction costs; high-accident locations; funding limits",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-34disposition",
+      "number": "34Disposition",
+      "heading": "of fees",
+      "text": "of fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-34",
+      "number": "34",
+      "heading": "1/2Repealed, 2009, 25, Sec. 82",
+      "text": "1/2Repealed, 2009, 25, Sec. 82",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-34adefinitions",
+      "number": "34ADefinitions",
+      "heading": "applicable to Secs. 34A to 34N",
+      "text": "applicable to Secs. 34A to 34N",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-34bcertificates",
+      "number": "34BCertificates",
+      "heading": "of insurance or surety companies; contents; copies",
+      "text": "of insurance or surety companies; contents; copies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-34csingle",
+      "number": "34CSingle",
+      "heading": "motor vehicle liability policy or bond covering several motor vehicles",
+      "text": "motor vehicle liability policy or bond covering several motor vehicles",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-34dregistration",
+      "number": "34DRegistration",
+      "heading": "application; cash deposit in lieu of liability bond or policy; satisfaction of judgment",
+      "text": "application; cash deposit in lieu of liability bond or policy; satisfaction of judgment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-34ereceipt",
+      "number": "34EReceipt",
+      "heading": "for and retention of cash or securities deposited",
+      "text": "for and retention of cash or securities deposited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-34fnotice",
+      "number": "34FNotice",
+      "heading": "to registrar upon service of writ or summons in action against depositor",
+      "text": "to registrar upon service of writ or summons in action against depositor",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-34gactions",
+      "number": "34GActions",
+      "heading": "against surety company",
+      "text": "against surety company",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-34hrevocation",
+      "number": "34HRevocation",
+      "heading": "of registration of motor vehicle upon notice of cancellation of motor vehicle liability policy or bond; notice to owner; new certificate",
+      "text": "of registration of motor vehicle upon notice of cancellation of motor vehicle liability policy or bond; notice to owner; new certificate",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-34irecords",
+      "number": "34IRecords",
+      "heading": "and books of registrar",
+      "text": "and books of registrar",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-34joperating",
+      "number": "34JOperating",
+      "heading": "motor vehicle without liability policy, bond or security deposit",
+      "text": "motor vehicle without liability policy, bond or security deposit",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-34kcancellation",
+      "number": "34KCancellation",
+      "heading": "of policies; notice",
+      "text": "of policies; notice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-34mpersonal",
+      "number": "34MPersonal",
+      "heading": "injury protection",
+      "text": "injury protection",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-34nassigned",
+      "number": "34NAssigned",
+      "heading": "claims plan",
+      "text": "claims plan",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-34oproperty",
+      "number": "34OProperty",
+      "heading": "damage liability insurance or bonds",
+      "text": "damage liability insurance or bonds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-34pnotice",
+      "number": "34PNotice",
+      "heading": "to law enforcement officials; failure to provide or maintain liability policy, bond or deposit; seizure of registration plates",
+      "text": "to law enforcement officials; failure to provide or maintain liability policy, bond or deposit; seizure of registration plates",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-34qnonowner",
+      "number": "34QNonowner",
+      "heading": "operators, hired motor vehicles; insurance coverage by endorsements",
+      "text": "operators, hired motor vehicles; insurance coverage by endorsements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-34restimate",
+      "number": "34REstimate",
+      "heading": "of cost of exterior repairs; notice",
+      "text": "of cost of exterior repairs; notice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-35definitions",
+      "number": "35Definitions",
+      "heading": "applicable to Secs. 35 to 52",
+      "text": "applicable to Secs. 35 to 52",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-35astructures",
+      "number": "35AStructures",
+      "heading": "within airport approaches; regulation of location and height",
+      "text": "within airport approaches; regulation of location and height",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-35bstructures",
+      "number": "35BStructures",
+      "heading": "within airport approaches; permits for erection or addition",
+      "text": "within airport approaches; permits for erection or addition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-35cstructures",
+      "number": "35CStructures",
+      "heading": "within airport approaches; application for permit; notice of denial; hearing",
+      "text": "within airport approaches; application for permit; notice of denial; hearing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-35dstructures",
+      "number": "35DStructures",
+      "heading": "within airport approaches; maintenance, repair or replacement; initial approval",
+      "text": "within airport approaches; maintenance, repair or replacement; initial approval",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36",
+      "number": "36",
+      "heading": "to 38Repealed, 1946, 583, Sec. 2",
+      "text": "to 38Repealed, 1946, 583, Sec. 2",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-39aeronautics",
+      "number": "39Aeronautics",
+      "heading": "commission; powers; rules and regulations",
+      "text": "commission; powers; rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-39aplan",
+      "number": "39APlan",
+      "heading": "for development of airports and air navigation facilities",
+      "text": "for development of airports and air navigation facilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-39bcertificate",
+      "number": "39BCertificate",
+      "heading": "of approval; municipal airport site or restricted landing area; application; hearing; issuance",
+      "text": "of approval; municipal airport site or restricted landing area; application; hearing; issuance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-39creimbursement",
+      "number": "39CReimbursement",
+      "heading": "of towns and cities for airport construction; federal funds",
+      "text": "of towns and cities for airport construction; federal funds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-39eengineering",
+      "number": "39EEngineering",
+      "heading": "or technical services of commission to cities and towns",
+      "text": "or technical services of commission to cities and towns",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-39freimbursement",
+      "number": "39FReimbursement",
+      "heading": "of city or town constructing, establishing or enlarging airport",
+      "text": "of city or town constructing, establishing or enlarging airport",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-39gapplicability",
+      "number": "39GApplicability",
+      "heading": "of Secs. 35 to 52 to counties",
+      "text": "of Secs. 35 to 52 to counties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-40purposes",
+      "number": "40Purposes",
+      "heading": "of aeronautics commission; discretionary powers of commission; enforcement of laws",
+      "text": "of aeronautics commission; discretionary powers of commission; enforcement of laws",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-40aairport",
+      "number": "40AAirport",
+      "heading": "approach regulations by cities or towns",
+      "text": "approach regulations by cities or towns",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-40breasonableness",
+      "number": "40BReasonableness",
+      "heading": "of airport approach regulations",
+      "text": "of airport approach regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-40eadministrative",
+      "number": "40EAdministrative",
+      "heading": "agency",
+      "text": "agency",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-40fremoval",
+      "number": "40FRemoval",
+      "heading": "of structures erected in violation of regulations; trees; procedure",
+      "text": "of structures erected in violation of regulations; trees; procedure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-40gprotection",
+      "number": "40GProtection",
+      "heading": "of airport approaches; removal of structures and trees; compensation",
+      "text": "of airport approaches; removal of structures and trees; compensation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-40happeal",
+      "number": "40HAppeal",
+      "heading": "by aggrieved corporations",
+      "text": "by aggrieved corporations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-40iapproval",
+      "number": "40IApproval",
+      "heading": "of regulations by commission",
+      "text": "of regulations by commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-41investigations",
+      "number": "41Investigations",
+      "heading": "or hearings; accidents",
+      "text": "or hearings; accidents",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42equitable",
+      "number": "42Equitable",
+      "heading": "jurisdiction of superior court",
+      "text": "jurisdiction of superior court",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-43public",
+      "number": "43Public",
+      "heading": "inspection of copies of orders, rules and regulations",
+      "text": "inspection of copies of orders, rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46altitude",
+      "number": "46Altitude",
+      "heading": "of aircraft flights",
+      "text": "of aircraft flights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-47federal",
+      "number": "47Federal",
+      "heading": "pilot's license, permit or certificate",
+      "text": "pilot's license, permit or certificate",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-48aircraft",
+      "number": "48Aircraft",
+      "heading": "license, permit or certificate",
+      "text": "license, permit or certificate",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-49registration",
+      "number": "49Registration",
+      "heading": "of federal certificates; fees; exceptions",
+      "text": "of federal certificates; fees; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-49aretention",
+      "number": "49ARetention",
+      "heading": "of court records of cases involving violations of Secs. 35 to 52; abstracts",
+      "text": "of court records of cases involving violations of Secs. 35 to 52; abstracts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-49bdefinitions",
+      "number": "49BDefinitions",
+      "heading": "applicable to Secs. 49B to 49R",
+      "text": "applicable to Secs. 49B to 49R",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-49cadministration",
+      "number": "49CAdministration",
+      "heading": "and enforcement of Secs. 49B to 49R; hearings; judicial review",
+      "text": "and enforcement of Secs. 49B to 49R; hearings; judicial review",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-49daccident",
+      "number": "49DAccident",
+      "heading": "reports; security; suspension of aircraft registration; waiver",
+      "text": "reports; security; suspension of aircraft registration; waiver",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-49epolicy",
+      "number": "49EPolicy",
+      "heading": "or bond of insurer or surety company",
+      "text": "or bond of insurer or surety company",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-49frestoration",
+      "number": "49FRestoration",
+      "heading": "or renewal of registration or non-resident's operating privilege",
+      "text": "or renewal of registration or non-resident's operating privilege",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-49gcertificate",
+      "number": "49GCertificate",
+      "heading": "of self-insurance",
+      "text": "of self-insurance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-49hcertificate",
+      "number": "49HCertificate",
+      "heading": "of registration or non-resident's operating privilege; allowance; suspension; notice",
+      "text": "of registration or non-resident's operating privilege; allowance; suspension; notice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-49jdelivery",
+      "number": "49JDelivery",
+      "heading": "and release of security",
+      "text": "and release of security",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-49ltransfer",
+      "number": "49LTransfer",
+      "heading": "of aircraft registration following suspension of owner's registration",
+      "text": "of aircraft registration following suspension of owner's registration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-49mreturn",
+      "number": "49MReturn",
+      "heading": "of suspended registration certificate",
+      "text": "of suspended registration certificate",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-49nillegal",
+      "number": "49NIllegal",
+      "heading": "operation of aircraft; failure to return suspended registration certificate",
+      "text": "operation of aircraft; failure to return suspended registration certificate",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-49oapplication",
+      "number": "49OApplication",
+      "heading": "of Secs. 49B to 49R to certain aircraft",
+      "text": "of Secs. 49B to 49R to certain aircraft",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-49pavailability",
+      "number": "49PAvailability",
+      "heading": "of other legal processes; enforcement",
+      "text": "of other legal processes; enforcement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-49qservice",
+      "number": "49QService",
+      "heading": "of process; proof of service",
+      "text": "of process; proof of service",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-49rdischarge",
+      "number": "49RDischarge",
+      "heading": "in bankruptcy",
+      "text": "in bankruptcy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-49tinterpretation",
+      "number": "49TInterpretation",
+      "heading": "and construction of uniform aircraft financial responsibility act",
+      "text": "and construction of uniform aircraft financial responsibility act",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-50appointment",
+      "number": "50Appointment",
+      "heading": "of administrator for aeronautics as attorney for service of process",
+      "text": "of administrator for aeronautics as attorney for service of process",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-50a",
+      "number": "50A",
+      "heading": "to 50LInoperative February 17, 1959 upon title vesting in the Massachusetts Port Authority. See 1956, 465, Sec. 32; 1958, 599, Sec. 12",
+      "text": "to 50LInoperative February 17, 1959 upon title vesting in the Massachusetts Port Authority. See 1956, 465, Sec. 32; 1958, 599, Sec. 12",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51a",
+      "number": "51A",
+      "heading": "to 51CRepealed, 1948, 637, Sec. 11",
+      "text": "to 51CRepealed, 1948, 637, Sec. 11",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51dmunicipal",
+      "number": "51DMunicipal",
+      "heading": "airports and air navigation facilities",
+      "text": "airports and air navigation facilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51eairport",
+      "number": "51EAirport",
+      "heading": "commissions for municipal airports; members; vacancies; airport managers",
+      "text": "commissions for municipal airports; members; vacancies; airport managers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51fleasing",
+      "number": "51FLeasing",
+      "heading": "of land at airports",
+      "text": "of land at airports",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51gacquisition",
+      "number": "51GAcquisition",
+      "heading": "of property to establish airport; eminent domain; purchase; lease",
+      "text": "of property to establish airport; eminent domain; purchase; lease",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51hcharges",
+      "number": "51HCharges",
+      "heading": "or rentals for use of properties, facilities, installations; terms and conditions of contracts",
+      "text": "or rentals for use of properties, facilities, installations; terms and conditions of contracts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51ipower",
+      "number": "51IPower",
+      "heading": "of commission; expenditure of funds; contracts for maintenance, operation, construction and enlargement of airports",
+      "text": "of commission; expenditure of funds; contracts for maintenance, operation, construction and enlargement of airports",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51jrules",
+      "number": "51JRules",
+      "heading": "and regulations; use of airports; safety of public",
+      "text": "and regulations; use of airports; safety of public",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51kfederal",
+      "number": "51KFederal",
+      "heading": "funds; receipt by aeronautics commission; bids; contracts; loans in anticipation of funds",
+      "text": "funds; receipt by aeronautics commission; bids; contracts; loans in anticipation of funds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51lcontracts",
+      "number": "51LContracts",
+      "heading": "for construction, enlargement or improvement of airports by airport commission",
+      "text": "for construction, enlargement or improvement of airports by airport commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51mexclusive",
+      "number": "51MExclusive",
+      "heading": "contracts, permits or licenses to transport persons for hire or to receive or deliver passengers at airports",
+      "text": "contracts, permits or licenses to transport persons for hire or to receive or deliver passengers at airports",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-52partial",
+      "number": "52Partial",
+      "heading": "unconstitutionality and invalidity of Secs. 35 to 51",
+      "text": "unconstitutionality and invalidity of Secs. 35 to 51",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53",
+      "number": "53",
+      "heading": "to 60Repealed, 1935, 418, Sec. 2",
+      "text": "to 60Repealed, 1935, 418, Sec. 2",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61logan",
+      "number": "61Logan",
+      "heading": "Airport security zone; access; penalties",
+      "text": "Airport security zone; access; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62notice",
+      "number": "62Notice",
+      "heading": "to police department regarding suspensions or revocations pursuant to subsection (a) or (b) of Sec. 22, Secs. 22F, 22I, 24, 241/2, 24D, 24G or 24L",
+      "text": "to police department regarding suspensions or revocations pursuant to subsection (a) or (b) of Sec. 22, Secs. 22F, 22I, 24, 241/2, 24D, 24G or 24L",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63collection",
+      "number": "63Collection",
+      "heading": "and maintenance of traffic stop data; use and storage of data; preparation of analysis and report; annual public report; public hearings",
+      "text": "and maintenance of traffic stop data; use and storage of data; preparation of analysis and report; annual public report; public hearings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-retary",
+      "number": "retary",
+      "heading": "of the Commonwealthlink to an external site",
+      "text": "of the Commonwealthlink to an external site",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

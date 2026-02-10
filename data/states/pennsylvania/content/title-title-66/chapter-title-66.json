@@ -1,0 +1,7190 @@
+{
+  "state": "pennsylvania",
+  "path": "title-title-66/chapter-title-66",
+  "sections": [
+    {
+      "id": "section-101short",
+      "number": "101.Short",
+      "heading": "title of part.",
+      "text": "title of part.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-101",
+      "number": "101",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-102definitions",
+      "number": "102.Definitions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-102",
+      "number": "102",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-103prior",
+      "number": "103.Prior",
+      "heading": "rights preserved.",
+      "text": "rights preserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-103",
+      "number": "103",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-104interstate",
+      "number": "104.Interstate",
+      "heading": "and foreign commerce.",
+      "text": "and foreign commerce.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-104",
+      "number": "104",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-301",
+      "number": "301",
+      "heading": "Establishment, members, qualifications and chairman.",
+      "text": "Establishment, members, qualifications and chairman.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-302removal",
+      "number": "302.Removal",
+      "heading": "of commissioner.",
+      "text": "of commissioner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-302",
+      "number": "302",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-303seal",
+      "number": "303.Seal",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-303",
+      "number": "303",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-304administrative",
+      "number": "304.Administrative",
+      "heading": "law judges.",
+      "text": "law judges.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-304",
+      "number": "304",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-305director",
+      "number": "305.Director",
+      "heading": "of operations, secretary, employees and consultants.",
+      "text": "of operations, secretary, employees and consultants.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-305",
+      "number": "305",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-306office",
+      "number": "306.Office",
+      "heading": "of Trial Staff (Repealed).",
+      "text": "of Trial Staff (Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-306",
+      "number": "306",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-307inspectors",
+      "number": "307.Inspectors",
+      "heading": "for enforcement.",
+      "text": "for enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-307",
+      "number": "307",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-308bureaus",
+      "number": "308.Bureaus",
+      "heading": "and offices.",
+      "text": "and offices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-308",
+      "number": "308",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3081consumer",
+      "number": "308.1.Consumer",
+      "heading": "protection and information.",
+      "text": "protection and information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3081",
+      "number": "308.1",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3082other",
+      "number": "308.2.Other",
+      "heading": "bureaus, offices and positions.",
+      "text": "bureaus, offices and positions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3082",
+      "number": "308.2",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-309oaths",
+      "number": "309.Oaths",
+      "heading": "and subpoenas.",
+      "text": "and subpoenas.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-309",
+      "number": "309",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-310depositions",
+      "number": "310.Depositions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-310",
+      "number": "310",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-311witness",
+      "number": "311.Witness",
+      "heading": "fees.",
+      "text": "fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-311",
+      "number": "311",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-312privilege",
+      "number": "312.Privilege",
+      "heading": "and immunity.",
+      "text": "and immunity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-312",
+      "number": "312",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-313joint",
+      "number": "313.Joint",
+      "heading": "hearings and investigations; reciprocity.",
+      "text": "hearings and investigations; reciprocity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-313",
+      "number": "313",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-314investigation",
+      "number": "314.Investigation",
+      "heading": "of interstate rates, facilities and service.",
+      "text": "of interstate rates, facilities and service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-314",
+      "number": "314",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-315burden",
+      "number": "315.Burden",
+      "heading": "of proof.",
+      "text": "of proof.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-315",
+      "number": "315",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-316effect",
+      "number": "316.Effect",
+      "heading": "of commission action.",
+      "text": "of commission action.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-316",
+      "number": "316",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-317fees",
+      "number": "317.Fees",
+      "heading": "for services rendered by commission.",
+      "text": "for services rendered by commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-317",
+      "number": "317",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-318commission",
+      "number": "318.Commission",
+      "heading": "to cooperate with other departments.",
+      "text": "to cooperate with other departments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-318",
+      "number": "318",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-319code",
+      "number": "319.Code",
+      "heading": "of ethics.",
+      "text": "of ethics.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-319",
+      "number": "319",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-320annual",
+      "number": "320.Annual",
+      "heading": "appropriations.",
+      "text": "appropriations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-320",
+      "number": "320",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321annual",
+      "number": "321.Annual",
+      "heading": "reports.",
+      "text": "reports.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321",
+      "number": "321",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-331powers",
+      "number": "331.Powers",
+      "heading": "of commission and administrative law judges.",
+      "text": "of commission and administrative law judges.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-331",
+      "number": "331",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-332procedures",
+      "number": "332.Procedures",
+      "heading": "in general.",
+      "text": "in general.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-332",
+      "number": "332",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-333prehearing",
+      "number": "333.Prehearing",
+      "heading": "procedures.",
+      "text": "procedures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-333",
+      "number": "333",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-334presiding",
+      "number": "334.Presiding",
+      "heading": "officers.",
+      "text": "officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-334",
+      "number": "334",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-335initial",
+      "number": "335.Initial",
+      "heading": "decisions and release of documents.",
+      "text": "decisions and release of documents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-335",
+      "number": "335",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501general",
+      "number": "501.General",
+      "heading": "powers.",
+      "text": "powers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501",
+      "number": "501",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502enforcement",
+      "number": "502.Enforcement",
+      "heading": "proceedings by commission.",
+      "text": "proceedings by commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502",
+      "number": "502",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-503enforcement",
+      "number": "503.Enforcement",
+      "heading": "proceedings by Chief Counsel.",
+      "text": "proceedings by Chief Counsel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-503",
+      "number": "503",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-504reports",
+      "number": "504.Reports",
+      "heading": "by public utilities.",
+      "text": "by public utilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-504",
+      "number": "504",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-505duty",
+      "number": "505.Duty",
+      "heading": "to furnish information to commission; cooperation in valuing property.",
+      "text": "to furnish information to commission; cooperation in valuing property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-505",
+      "number": "505",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-506inspection",
+      "number": "506.Inspection",
+      "heading": "of facilities and records.",
+      "text": "of facilities and records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-506",
+      "number": "506",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-507contracts",
+      "number": "507.Contracts",
+      "heading": "between public utilities and municipalities.",
+      "text": "between public utilities and municipalities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-507",
+      "number": "507",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-508power",
+      "number": "508.Power",
+      "heading": "of the commission to vary, reform and revise contracts.",
+      "text": "of the commission to vary, reform and revise contracts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-508",
+      "number": "508",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-509regulation",
+      "number": "509.Regulation",
+      "heading": "of manufacture, sale or lease of appliances.",
+      "text": "of manufacture, sale or lease of appliances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-509",
+      "number": "509",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-510assessment",
+      "number": "510.Assessment",
+      "heading": "for regulatory expenses upon public utilities.",
+      "text": "for regulatory expenses upon public utilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-510",
+      "number": "510",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-511",
+      "number": "511",
+      "heading": "Disposition, appropriation and disbursement of assessments and fees.",
+      "text": "Disposition, appropriation and disbursement of assessments and fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5111use",
+      "number": "511.1.Use",
+      "heading": "of Federal funds under energy program.",
+      "text": "of Federal funds under energy program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5111",
+      "number": "511.1",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-512power",
+      "number": "512.Power",
+      "heading": "of commission to require insurance.",
+      "text": "of commission to require insurance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-512",
+      "number": "512",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5121power",
+      "number": "512.1.Power",
+      "heading": "of commission to confiscate, impound and sell vehicles.",
+      "text": "of commission to confiscate, impound and sell vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5121",
+      "number": "512.1",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-513public",
+      "number": "513.Public",
+      "heading": "letting of contracts.",
+      "text": "letting of contracts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-513",
+      "number": "513",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-514use",
+      "number": "514.Use",
+      "heading": "of coal.",
+      "text": "of coal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-514",
+      "number": "514",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-515construction",
+      "number": "515.Construction",
+      "heading": "cost of electric generating units.",
+      "text": "cost of electric generating units.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-515",
+      "number": "515",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-516audits",
+      "number": "516.Audits",
+      "heading": "of certain utilities.",
+      "text": "of certain utilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-516",
+      "number": "516",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-517conversion",
+      "number": "517.Conversion",
+      "heading": "of electric generating units fueled by oil or natural gas.",
+      "text": "of electric generating units fueled by oil or natural gas.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-517",
+      "number": "517",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-518construction",
+      "number": "518.Construction",
+      "heading": "of electric generating units fueled by nuclear energy.",
+      "text": "of electric generating units fueled by nuclear energy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-518",
+      "number": "518",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-519construction",
+      "number": "519.Construction",
+      "heading": "of electric generating units fueled by oil or natural gas.",
+      "text": "of electric generating units fueled by oil or natural gas.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-519",
+      "number": "519",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-520power",
+      "number": "520.Power",
+      "heading": "of commission to order cancellation or modification of construction of electric",
+      "text": "generating units.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-520",
+      "number": "520",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-521retirement",
+      "number": "521.Retirement",
+      "heading": "of electric generating units.",
+      "text": "of electric generating units.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-521",
+      "number": "521",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-522expense",
+      "number": "522.Expense",
+      "heading": "reduction program.",
+      "text": "reduction program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-522",
+      "number": "522",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-523performance",
+      "number": "523.Performance",
+      "heading": "factor consideration.",
+      "text": "factor consideration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-523",
+      "number": "523",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-524data",
+      "number": "524.Data",
+      "heading": "to be supplied by electric utilities.",
+      "text": "to be supplied by electric utilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-524",
+      "number": "524",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-525sale",
+      "number": "525.Sale",
+      "heading": "of generating units and power.",
+      "text": "of generating units and power.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-525",
+      "number": "525",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-526rejection",
+      "number": "526.Rejection",
+      "heading": "of rate increase requests due to inadequate quality or quantity of service.",
+      "text": "of rate increase requests due to inadequate quality or quantity of service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-526",
+      "number": "526",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-527cogeneration",
+      "number": "527.Cogeneration",
+      "heading": "rules and regulations.",
+      "text": "rules and regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-527",
+      "number": "527",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528use",
+      "number": "528.Use",
+      "heading": "of foreign coal by qualifying facilities.",
+      "text": "of foreign coal by qualifying facilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528",
+      "number": "528",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-529power",
+      "number": "529.Power",
+      "heading": "of commission to order acquisition of small water and sewer utilities.",
+      "text": "of commission to order acquisition of small water and sewer utilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-529",
+      "number": "529",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-530clean",
+      "number": "530.Clean",
+      "heading": "Air Act implementation plans.",
+      "text": "Air Act implementation plans.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-530",
+      "number": "530",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-701complaints",
+      "number": "701.Complaints",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-701",
+      "number": "701",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-702service",
+      "number": "702.Service",
+      "heading": "of complaints on parties.",
+      "text": "of complaints on parties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-702",
+      "number": "702",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-703fixing",
+      "number": "703.Fixing",
+      "heading": "of hearings.",
+      "text": "of hearings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-703",
+      "number": "703",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-901right",
+      "number": "901.Right",
+      "heading": "to trial by jury.",
+      "text": "to trial by jury.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-901",
+      "number": "901",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-902reliance",
+      "number": "902.Reliance",
+      "heading": "on orders pending judicial review.",
+      "text": "on orders pending judicial review.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-902",
+      "number": "902",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-903restriction",
+      "number": "903.Restriction",
+      "heading": "on injunctions (Repealed).",
+      "text": "on injunctions (Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-903",
+      "number": "903",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1101organization",
+      "number": "1101.Organization",
+      "heading": "of public utilities and beginning of service.",
+      "text": "of public utilities and beginning of service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1101",
+      "number": "1101",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1102enumeration",
+      "number": "1102.Enumeration",
+      "heading": "of acts requiring certificate.",
+      "text": "of acts requiring certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1102",
+      "number": "1102",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1103procedure",
+      "number": "1103.Procedure",
+      "heading": "to obtain certificates of public convenience.",
+      "text": "to obtain certificates of public convenience.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1103",
+      "number": "1103",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1104certain",
+      "number": "1104.Certain",
+      "heading": "appropriations by right of eminent domain prohibited.",
+      "text": "appropriations by right of eminent domain prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1104",
+      "number": "1104",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1121definitions",
+      "number": "1121.Definitions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1121",
+      "number": "1121",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1122certificate",
+      "number": "1122.Certificate",
+      "heading": "of public convenience required.",
+      "text": "of public convenience required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1122",
+      "number": "1122",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1123regulations",
+      "number": "1123.Regulations",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1123",
+      "number": "1123",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1124miscellaneous",
+      "number": "1124.Miscellaneous",
+      "heading": "provisions.",
+      "text": "provisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1124",
+      "number": "1124",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1301rates",
+      "number": "1301.Rates",
+      "heading": "to be just and reasonable.",
+      "text": "to be just and reasonable.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1301",
+      "number": "1301",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13011computation",
+      "number": "1301.1.Computation",
+      "heading": "of income tax expense for ratemaking purposes.",
+      "text": "of income tax expense for ratemaking purposes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13011",
+      "number": "1301.1",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1302",
+      "number": "1302",
+      "heading": "Tariffs; filing and inspection.",
+      "text": "Tariffs; filing and inspection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1303adherence",
+      "number": "1303.Adherence",
+      "heading": "to tariffs.",
+      "text": "to tariffs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1303",
+      "number": "1303",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1304discrimination",
+      "number": "1304.Discrimination",
+      "heading": "in rates.",
+      "text": "in rates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1304",
+      "number": "1304",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1305advance",
+      "number": "1305.Advance",
+      "heading": "payment of rates; interest on deposits.",
+      "text": "payment of rates; interest on deposits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1305",
+      "number": "1305",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1306apportionment",
+      "number": "1306.Apportionment",
+      "heading": "of joint rates.",
+      "text": "of joint rates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1306",
+      "number": "1306",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1307sliding",
+      "number": "1307.Sliding",
+      "heading": "scale of rates; adjustments.",
+      "text": "scale of rates; adjustments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1307",
+      "number": "1307",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1308voluntary",
+      "number": "1308.Voluntary",
+      "heading": "changes in rates.",
+      "text": "changes in rates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1308",
+      "number": "1308",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1309rates",
+      "number": "1309.Rates",
+      "heading": "fixed on complaint; investigation of costs of production.",
+      "text": "fixed on complaint; investigation of costs of production.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1309",
+      "number": "1309",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1310temporary",
+      "number": "1310.Temporary",
+      "heading": "rates.",
+      "text": "rates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1310",
+      "number": "1310",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1311valuation",
+      "number": "1311.Valuation",
+      "heading": "of and return on the property of a public utility.",
+      "text": "of and return on the property of a public utility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1311",
+      "number": "1311",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1312refunds",
+      "number": "1312.Refunds",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1312",
+      "number": "1312",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1313price",
+      "number": "1313.Price",
+      "heading": "upon resale of public utility services.",
+      "text": "upon resale of public utility services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1313",
+      "number": "1313",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1314limitation",
+      "number": "1314.Limitation",
+      "heading": "on prices paid for property and fuel.",
+      "text": "on prices paid for property and fuel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1314",
+      "number": "1314",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1315limitation",
+      "number": "1315.Limitation",
+      "heading": "on consideration of certain costs for electric utilities.",
+      "text": "on consideration of certain costs for electric utilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1315",
+      "number": "1315",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1316recovery",
+      "number": "1316.Recovery",
+      "heading": "of advertising expenses.",
+      "text": "of advertising expenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1316",
+      "number": "1316",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13161recovery",
+      "number": "1316.1.Recovery",
+      "heading": "of club dues.",
+      "text": "of club dues.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13161",
+      "number": "1316.1",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1317regulation",
+      "number": "1317.Regulation",
+      "heading": "of natural gas costs.",
+      "text": "of natural gas costs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1317",
+      "number": "1317",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1318determination",
+      "number": "1318.Determination",
+      "heading": "of just and reasonable gas cost rates.",
+      "text": "of just and reasonable gas cost rates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1318",
+      "number": "1318",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1319financing",
+      "number": "1319.Financing",
+      "heading": "of energy supply alternatives.",
+      "text": "of energy supply alternatives.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1319",
+      "number": "1319",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1320fuel",
+      "number": "1320.Fuel",
+      "heading": "purchase audits by complaint.",
+      "text": "purchase audits by complaint.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1320",
+      "number": "1320",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1321recovery",
+      "number": "1321.Recovery",
+      "heading": "of certain employee meeting expenses.",
+      "text": "of certain employee meeting expenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1321",
+      "number": "1321",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1322outages",
+      "number": "1322.Outages",
+      "heading": "of electric generating units.",
+      "text": "of electric generating units.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1322",
+      "number": "1322",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1323procedures",
+      "number": "1323.Procedures",
+      "heading": "for new electric generating capacity.",
+      "text": "for new electric generating capacity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1323",
+      "number": "1323",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1324residential",
+      "number": "1324.Residential",
+      "heading": "telephone service rates based on duration or distance of call.",
+      "text": "telephone service rates based on duration or distance of call.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1324",
+      "number": "1324",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1325local",
+      "number": "1325.Local",
+      "heading": "exchange service increases; limitation (Repealed).",
+      "text": "exchange service increases; limitation (Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1325",
+      "number": "1325",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1326standby",
+      "number": "1326.Standby",
+      "heading": "charge prohibited.",
+      "text": "charge prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1326",
+      "number": "1326",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1327acquisition",
+      "number": "1327.Acquisition",
+      "heading": "of water and sewer utilities.",
+      "text": "of water and sewer utilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1327",
+      "number": "1327",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1328determination",
+      "number": "1328.Determination",
+      "heading": "of public fire hydrant rates.",
+      "text": "of public fire hydrant rates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1328",
+      "number": "1328",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1329valuation",
+      "number": "1329.Valuation",
+      "heading": "of acquired water and wastewater systems.",
+      "text": "of acquired water and wastewater systems.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1329",
+      "number": "1329",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1330alternative",
+      "number": "1330.Alternative",
+      "heading": "ratemaking for utilities.",
+      "text": "ratemaking for utilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1330",
+      "number": "1330",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1350scope",
+      "number": "1350.Scope",
+      "heading": "of subchapter.",
+      "text": "of subchapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1350",
+      "number": "1350",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1351definitions",
+      "number": "1351.Definitions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1351",
+      "number": "1351",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1352long-term",
+      "number": "1352.Long-term",
+      "heading": "infrastructure improvement plan.",
+      "text": "infrastructure improvement plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1352",
+      "number": "1352",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1353distribution",
+      "number": "1353.Distribution",
+      "heading": "system improvement charge.",
+      "text": "system improvement charge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1353",
+      "number": "1353",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1354customer",
+      "number": "1354.Customer",
+      "heading": "notice.",
+      "text": "notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1354",
+      "number": "1354",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1355review",
+      "number": "1355.Review",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1355",
+      "number": "1355",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1356asset",
+      "number": "1356.Asset",
+      "heading": "optimization plans.",
+      "text": "optimization plans.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1356",
+      "number": "1356",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1357computation",
+      "number": "1357.Computation",
+      "heading": "of charge.",
+      "text": "of charge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1357",
+      "number": "1357",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1358customer",
+      "number": "1358.Customer",
+      "heading": "protections.",
+      "text": "protections.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1358",
+      "number": "1358",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1359projects",
+      "number": "1359.Projects",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1359",
+      "number": "1359",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1360applicability",
+      "number": "1360.Applicability",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1360",
+      "number": "1360",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1401",
+      "number": "1401-",
+      "heading": "§ 1419 (Expired).",
+      "text": "§ 1419 (Expired).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1501character",
+      "number": "1501.Character",
+      "heading": "of service and facilities.",
+      "text": "of service and facilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1501",
+      "number": "1501",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15011certain",
+      "number": "1501.1.Certain",
+      "heading": "utilities prohibited from using foreign coal.",
+      "text": "utilities prohibited from using foreign coal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15011",
+      "number": "1501.1",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1502discrimination",
+      "number": "1502.Discrimination",
+      "heading": "in service.",
+      "text": "in service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1502",
+      "number": "1502",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1503discontinuance",
+      "number": "1503.Discontinuance",
+      "heading": "of service.",
+      "text": "of service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1503",
+      "number": "1503",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1504standards",
+      "number": "1504.Standards",
+      "heading": "of service and facilities.",
+      "text": "of service and facilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1504",
+      "number": "1504",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1505proper",
+      "number": "1505.Proper",
+      "heading": "service and facilities established on complaint; authority to order conservation",
+      "text": "and load management programs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1505",
+      "number": "1505",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1506copies",
+      "number": "1506.Copies",
+      "heading": "of service contracts, etc., to be filed with commission.",
+      "text": "of service contracts, etc., to be filed with commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1506",
+      "number": "1506",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1507testing",
+      "number": "1507.Testing",
+      "heading": "of appliances for measurement of service.",
+      "text": "of appliances for measurement of service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1507",
+      "number": "1507",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1508reports",
+      "number": "1508.Reports",
+      "heading": "of accidents.",
+      "text": "of accidents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1508",
+      "number": "1508",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1509billing",
+      "number": "1509.Billing",
+      "heading": "procedures.",
+      "text": "procedures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1509",
+      "number": "1509",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1510ownership",
+      "number": "1510.Ownership",
+      "heading": "and maintenance of natural and artificial gas service lines.",
+      "text": "and maintenance of natural and artificial gas service lines.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1510",
+      "number": "1510",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1511electricity",
+      "number": "1511.Electricity",
+      "heading": "supplied to certain organizations.",
+      "text": "supplied to certain organizations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1511",
+      "number": "1511",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1512emergency",
+      "number": "1512.Emergency",
+      "heading": "response plans.",
+      "text": "response plans.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1512",
+      "number": "1512",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1521definitions",
+      "number": "1521.Definitions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1521",
+      "number": "1521",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1522applicability",
+      "number": "1522.Applicability",
+      "heading": "of subchapter.",
+      "text": "of subchapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1522",
+      "number": "1522",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1523notices",
+      "number": "1523.Notices",
+      "heading": "before service to landlord terminated.",
+      "text": "before service to landlord terminated.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1523",
+      "number": "1523",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1524request",
+      "number": "1524.Request",
+      "heading": "to landlord to identify tenants.",
+      "text": "to landlord to identify tenants.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1524",
+      "number": "1524",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1525delivery",
+      "number": "1525.Delivery",
+      "heading": "and contents of termination notice to landlord.",
+      "text": "and contents of termination notice to landlord.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1525",
+      "number": "1525",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1526delivery",
+      "number": "1526.Delivery",
+      "heading": "and contents of first termination notice to tenants.",
+      "text": "and contents of first termination notice to tenants.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1526",
+      "number": "1526",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1527right",
+      "number": "1527.Right",
+      "heading": "of tenants to continued service.",
+      "text": "of tenants to continued service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1527",
+      "number": "1527",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1528delivery",
+      "number": "1528.Delivery",
+      "heading": "and contents of subsequent termination notice to tenants.",
+      "text": "and contents of subsequent termination notice to tenants.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1528",
+      "number": "1528",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1529right",
+      "number": "1529.Right",
+      "heading": "of tenant to recover payments.",
+      "text": "of tenant to recover payments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1529",
+      "number": "1529",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15291duty",
+      "number": "1529.1.Duty",
+      "heading": "of owners of rental property.",
+      "text": "of owners of rental property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15291",
+      "number": "1529.1",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1530waiver",
+      "number": "1530.Waiver",
+      "heading": "of subchapter prohibited.",
+      "text": "of subchapter prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1530",
+      "number": "1530",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1531retaliation",
+      "number": "1531.Retaliation",
+      "heading": "by landlord prohibited.",
+      "text": "by landlord prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1531",
+      "number": "1531",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1532penalties",
+      "number": "1532.Penalties",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1532",
+      "number": "1532",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1533petition",
+      "number": "1533.Petition",
+      "heading": "to appoint receiver.",
+      "text": "to appoint receiver.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1533",
+      "number": "1533",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1701mandatory",
+      "number": "1701.Mandatory",
+      "heading": "systems of accounts.",
+      "text": "systems of accounts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1701",
+      "number": "1701",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1702continuing",
+      "number": "1702.Continuing",
+      "heading": "property records.",
+      "text": "property records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1702",
+      "number": "1702",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1703depreciation",
+      "number": "1703.Depreciation",
+      "heading": "accounts; reports.",
+      "text": "accounts; reports.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1703",
+      "number": "1703",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1704records",
+      "number": "1704.Records",
+      "heading": "and accounts to be kept in Commonwealth.",
+      "text": "and accounts to be kept in Commonwealth.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1704",
+      "number": "1704",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1705budgets",
+      "number": "1705.Budgets",
+      "heading": "of public utilities.",
+      "text": "of public utilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1705",
+      "number": "1705",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1706applicability",
+      "number": "1706.Applicability",
+      "heading": "to municipal corporations.",
+      "text": "to municipal corporations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1706",
+      "number": "1706",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1901registration",
+      "number": "1901.Registration",
+      "heading": "of securities to be issued or assumed.",
+      "text": "of securities to be issued or assumed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1901",
+      "number": "1901",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1902contents",
+      "number": "1902.Contents",
+      "heading": "of securities certificates.",
+      "text": "of securities certificates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1902",
+      "number": "1902",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1903registration",
+      "number": "1903.Registration",
+      "heading": "or rejection of securities certificates.",
+      "text": "or rejection of securities certificates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1903",
+      "number": "1903",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1904unauthorized",
+      "number": "1904.Unauthorized",
+      "heading": "securities may be declared void.",
+      "text": "securities may be declared void.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1904",
+      "number": "1904",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2101definition",
+      "number": "2101.Definition",
+      "heading": "of affiliated interest.",
+      "text": "of affiliated interest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2101",
+      "number": "2101",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2102approval",
+      "number": "2102.Approval",
+      "heading": "of contracts with affiliated interests.",
+      "text": "of contracts with affiliated interests.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2102",
+      "number": "2102",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2103continuing",
+      "number": "2103.Continuing",
+      "heading": "supervision and jurisdiction over contracts.",
+      "text": "supervision and jurisdiction over contracts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2103",
+      "number": "2103",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2104contracts",
+      "number": "2104.Contracts",
+      "heading": "to be in writing; cost data.",
+      "text": "to be in writing; cost data.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2104",
+      "number": "2104",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2105contracts",
+      "number": "2105.Contracts",
+      "heading": "in violation of part void.",
+      "text": "in violation of part void.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2105",
+      "number": "2105",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2106effect",
+      "number": "2106.Effect",
+      "heading": "on rates.",
+      "text": "on rates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2106",
+      "number": "2106",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2107federal",
+      "number": "2107.Federal",
+      "heading": "regulatory agencies.",
+      "text": "regulatory agencies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2107",
+      "number": "2107",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2201short",
+      "number": "2201.Short",
+      "heading": "title of chapter.",
+      "text": "title of chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2201",
+      "number": "2201",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2202definitions",
+      "number": "2202.Definitions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2202",
+      "number": "2202",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2203standards",
+      "number": "2203.Standards",
+      "heading": "for restructuring of natural gas utility industry.",
+      "text": "for restructuring of natural gas utility industry.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2203",
+      "number": "2203",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2204implementation",
+      "number": "2204.Implementation",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2204",
+      "number": "2204",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2205duties",
+      "number": "2205.Duties",
+      "heading": "of natural gas distribution companies.",
+      "text": "of natural gas distribution companies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2205",
+      "number": "2205",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2206consumer",
+      "number": "2206.Consumer",
+      "heading": "protections and customer service.",
+      "text": "protections and customer service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2206",
+      "number": "2206",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2207obligation",
+      "number": "2207.Obligation",
+      "heading": "to serve.",
+      "text": "to serve.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2207",
+      "number": "2207",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2208requirements",
+      "number": "2208.Requirements",
+      "heading": "for natural gas suppliers.",
+      "text": "for natural gas suppliers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2208",
+      "number": "2208",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2209market",
+      "number": "2209.Market",
+      "heading": "power remediation.",
+      "text": "power remediation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2209",
+      "number": "2209",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2210approval",
+      "number": "2210.Approval",
+      "heading": "of proposed mergers, consolidations, acquisitions or dispositions.",
+      "text": "of proposed mergers, consolidations, acquisitions or dispositions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2210",
+      "number": "2210",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2211rate",
+      "number": "2211.Rate",
+      "heading": "caps.",
+      "text": "caps.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2211",
+      "number": "2211",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2212city",
+      "number": "2212.City",
+      "heading": "natural gas distribution operations.",
+      "text": "natural gas distribution operations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2212",
+      "number": "2212",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2301operation",
+      "number": "2301.Operation",
+      "heading": "and distribution of facilities of common carriers.",
+      "text": "and distribution of facilities of common carriers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2301",
+      "number": "2301",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2302transfers",
+      "number": "2302.Transfers",
+      "heading": "and time schedules of common carriers.",
+      "text": "and time schedules of common carriers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2302",
+      "number": "2302",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2303common",
+      "number": "2303.Common",
+      "heading": "carrier connections with other lines.",
+      "text": "carrier connections with other lines.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2303",
+      "number": "2303",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2304liability",
+      "number": "2304.Liability",
+      "heading": "of common carriers for damages to property in transit; bills of lading.",
+      "text": "of common carriers for damages to property in transit; bills of lading.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2304",
+      "number": "2304",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2305full",
+      "number": "2305.Full",
+      "heading": "crews.",
+      "text": "crews.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2305",
+      "number": "2305",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2401regulation",
+      "number": "2401.Regulation",
+      "heading": "of taxis and limousines.",
+      "text": "of taxis and limousines.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2401",
+      "number": "2401",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2501declaration",
+      "number": "2501.Declaration",
+      "heading": "of policy and definitions.",
+      "text": "of policy and definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2501",
+      "number": "2501",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2502regulation",
+      "number": "2502.Regulation",
+      "heading": "and classification of contract carrier and broker.",
+      "text": "and classification of contract carrier and broker.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2502",
+      "number": "2502",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2503permits",
+      "number": "2503.Permits",
+      "heading": "required of contract carriers.",
+      "text": "required of contract carriers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2503",
+      "number": "2503",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2504dual",
+      "number": "2504.Dual",
+      "heading": "operation by motor carriers.",
+      "text": "operation by motor carriers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2504",
+      "number": "2504",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2505licenses",
+      "number": "2505.Licenses",
+      "heading": "and financial responsibility required of brokers.",
+      "text": "and financial responsibility required of brokers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2505",
+      "number": "2505",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2506copies",
+      "number": "2506.Copies",
+      "heading": "of contracts to be filed with commission; charges and changes therein.",
+      "text": "of contracts to be filed with commission; charges and changes therein.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2506",
+      "number": "2506",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2507minimum",
+      "number": "2507.Minimum",
+      "heading": "rates fixed and practices prescribed on complaint.",
+      "text": "rates fixed and practices prescribed on complaint.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2507",
+      "number": "2507",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2508",
+      "number": "2508",
+      "heading": "Accounts, records and reports.",
+      "text": "Accounts, records and reports.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2509temporary",
+      "number": "2509.Temporary",
+      "heading": "permits and licenses.",
+      "text": "permits and licenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2509",
+      "number": "2509",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2601definitions",
+      "number": "2601.Definitions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2601",
+      "number": "2601",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2602exclusions",
+      "number": "2602.Exclusions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2602",
+      "number": "2602",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2603applicability",
+      "number": "2603.Applicability",
+      "heading": "of certain laws and prohibition.",
+      "text": "of certain laws and prohibition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2603",
+      "number": "2603",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26031financial",
+      "number": "2603.1.Financial",
+      "heading": "responsibility requirements.",
+      "text": "responsibility requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26031",
+      "number": "2603.1",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26032disclosures",
+      "number": "2603.2.Disclosures",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26032",
+      "number": "2603.2",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2604licenses",
+      "number": "2604.Licenses",
+      "heading": "and regulations.",
+      "text": "and regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2604",
+      "number": "2604",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26041licensure",
+      "number": "2604.1.Licensure",
+      "heading": "requirements.",
+      "text": "requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26041",
+      "number": "2604.1",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26042records",
+      "number": "2604.2.Records",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26042",
+      "number": "2604.2",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26043service",
+      "number": "2604.3.Service",
+      "heading": "standards.",
+      "text": "standards.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26043",
+      "number": "2604.3",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26044dual",
+      "number": "2604.4.Dual",
+      "heading": "motor carrier authority.",
+      "text": "motor carrier authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26044",
+      "number": "2604.4",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26045lienholder",
+      "number": "2604.5.Lienholder",
+      "heading": "and lessor requirements.",
+      "text": "and lessor requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26045",
+      "number": "2604.5",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2605transportation",
+      "number": "2605.Transportation",
+      "heading": "network company drivers.",
+      "text": "network company drivers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2605",
+      "number": "2605",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2606personal",
+      "number": "2606.Personal",
+      "heading": "vehicle requirements.",
+      "text": "vehicle requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2606",
+      "number": "2606",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2607rates",
+      "number": "2607.Rates",
+      "heading": "and forms of compensation.",
+      "text": "and forms of compensation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2607",
+      "number": "2607",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2608nondisclosure",
+      "number": "2608.Nondisclosure",
+      "heading": "of passenger information.",
+      "text": "of passenger information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2608",
+      "number": "2608",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2609fines",
+      "number": "2609.Fines",
+      "heading": "and penalties.",
+      "text": "and penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2609",
+      "number": "2609",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2610commission",
+      "number": "2610.Commission",
+      "heading": "costs.",
+      "text": "costs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2610",
+      "number": "2610",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2701railroad",
+      "number": "2701.Railroad",
+      "heading": "connections with sidetracks and laterals.",
+      "text": "connections with sidetracks and laterals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2701",
+      "number": "2701",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2702",
+      "number": "2702",
+      "heading": "Construction, relocation, suspension and abolition of crossings.",
+      "text": "Construction, relocation, suspension and abolition of crossings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2703ejectment",
+      "number": "2703.Ejectment",
+      "heading": "in crossing cases.",
+      "text": "in crossing cases.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2703",
+      "number": "2703",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2704compensation",
+      "number": "2704.Compensation",
+      "heading": "for damages occasioned by construction, relocation or abolition of crossings.",
+      "text": "for damages occasioned by construction, relocation or abolition of crossings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2704",
+      "number": "2704",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2705speedometers",
+      "number": "2705.Speedometers",
+      "heading": "and speed recorders.",
+      "text": "and speed recorders.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2705",
+      "number": "2705",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2706flag",
+      "number": "2706.Flag",
+      "heading": "protection.",
+      "text": "protection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2706",
+      "number": "2706",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2707inspection",
+      "number": "2707.Inspection",
+      "heading": "of highway crossing safety devices (Expired).",
+      "text": "of highway crossing safety devices (Expired).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2707",
+      "number": "2707",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2708alternative",
+      "number": "2708.Alternative",
+      "heading": "compliance (Expired).",
+      "text": "compliance (Expired).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2708",
+      "number": "2708",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2709disposition",
+      "number": "2709.Disposition",
+      "heading": "of real property by public utility engaged in railroad business.",
+      "text": "of real property by public utility engaged in railroad business.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2709",
+      "number": "2709",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2801short",
+      "number": "2801.Short",
+      "heading": "title of chapter.",
+      "text": "title of chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2801",
+      "number": "2801",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2802declaration",
+      "number": "2802.Declaration",
+      "heading": "of policy.",
+      "text": "of policy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2802",
+      "number": "2802",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2803definitions",
+      "number": "2803.Definitions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2803",
+      "number": "2803",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2804standards",
+      "number": "2804.Standards",
+      "heading": "for restructuring of electric industry.",
+      "text": "for restructuring of electric industry.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2804",
+      "number": "2804",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2805regionalism",
+      "number": "2805.Regionalism",
+      "heading": "and reciprocity.",
+      "text": "and reciprocity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2805",
+      "number": "2805",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2806",
+      "number": "2806",
+      "heading": "Implementation, pilot programs and performance-based rates.",
+      "text": "Implementation, pilot programs and performance-based rates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28061energy",
+      "number": "2806.1.Energy",
+      "heading": "efficiency and conservation program.",
+      "text": "efficiency and conservation program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28061",
+      "number": "2806.1",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28062energy",
+      "number": "2806.2.Energy",
+      "heading": "efficiency and conservation.",
+      "text": "efficiency and conservation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28062",
+      "number": "2806.2",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2807duties",
+      "number": "2807.Duties",
+      "heading": "of electric distribution companies.",
+      "text": "of electric distribution companies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2807",
+      "number": "2807",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2808competitive",
+      "number": "2808.Competitive",
+      "heading": "transition charge.",
+      "text": "transition charge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2808",
+      "number": "2808",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2809requirements",
+      "number": "2809.Requirements",
+      "heading": "for electric generation suppliers.",
+      "text": "for electric generation suppliers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2809",
+      "number": "2809",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2810revenue-neutral",
+      "number": "2810.Revenue-neutral",
+      "heading": "reconciliation.",
+      "text": "reconciliation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2810",
+      "number": "2810",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2811market",
+      "number": "2811.Market",
+      "heading": "power remediation.",
+      "text": "power remediation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2811",
+      "number": "2811",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2812approval",
+      "number": "2812.Approval",
+      "heading": "of transition bonds.",
+      "text": "of transition bonds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2812",
+      "number": "2812",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2813procurement",
+      "number": "2813.Procurement",
+      "heading": "of power.",
+      "text": "of power.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2813",
+      "number": "2813",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2814additional",
+      "number": "2814.Additional",
+      "heading": "alternative energy sources.",
+      "text": "alternative energy sources.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2814",
+      "number": "2814",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2815carbon",
+      "number": "2815.Carbon",
+      "heading": "dioxide sequestration network.",
+      "text": "dioxide sequestration network.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2815",
+      "number": "2815",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2901definitions",
+      "number": "2901.Definitions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2901",
+      "number": "2901",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2902private",
+      "number": "2902.Private",
+      "heading": "wire for gambling information prohibited.",
+      "text": "wire for gambling information prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2902",
+      "number": "2902",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2903written",
+      "number": "2903.Written",
+      "heading": "contract for private wire.",
+      "text": "contract for private wire.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2903",
+      "number": "2903",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2904joint",
+      "number": "2904.Joint",
+      "heading": "use of telephone and telegraph facilities.",
+      "text": "use of telephone and telegraph facilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2904",
+      "number": "2904",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2905telephone",
+      "number": "2905.Telephone",
+      "heading": "message services.",
+      "text": "message services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2905",
+      "number": "2905",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2906dissemination",
+      "number": "2906.Dissemination",
+      "heading": "of telephone numbers and other identifying information.",
+      "text": "of telephone numbers and other identifying information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2906",
+      "number": "2906",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2907state",
+      "number": "2907.State",
+      "heading": "correctional institutions.",
+      "text": "correctional institutions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2907",
+      "number": "2907",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2911legislative",
+      "number": "2911.Legislative",
+      "heading": "findings and declarations.",
+      "text": "findings and declarations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2911",
+      "number": "2911",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2912availability",
+      "number": "2912.Availability",
+      "heading": "of adequate coin telephone service.",
+      "text": "of adequate coin telephone service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2912",
+      "number": "2912",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2913minimum",
+      "number": "2913.Minimum",
+      "heading": "service requirement.",
+      "text": "service requirement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2913",
+      "number": "2913",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2914establishment",
+      "number": "2914.Establishment",
+      "heading": "of just and reasonable rates.",
+      "text": "of just and reasonable rates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2914",
+      "number": "2914",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2915duty",
+      "number": "2915.Duty",
+      "heading": "of commission.",
+      "text": "of commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2915",
+      "number": "2915",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3001declaration",
+      "number": "3001.Declaration",
+      "heading": "of policy (Repealed).",
+      "text": "of policy (Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3001",
+      "number": "3001",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3002definitions",
+      "number": "3002.Definitions",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3002",
+      "number": "3002",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3003local",
+      "number": "3003.Local",
+      "heading": "exchange telecommunications company request for alternative regulation and network",
+      "text": "modernization implementation plan (Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3003",
+      "number": "3003",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3004commission",
+      "number": "3004.Commission",
+      "heading": "review and approval of petition and plan (Repealed).",
+      "text": "review and approval of petition and plan (Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3004",
+      "number": "3004",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3005competitive",
+      "number": "3005.Competitive",
+      "heading": "services (Repealed).",
+      "text": "services (Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3005",
+      "number": "3005",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3006streamlined",
+      "number": "3006.Streamlined",
+      "heading": "form of rate regulation (Repealed).",
+      "text": "form of rate regulation (Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3006",
+      "number": "3006",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3007determination",
+      "number": "3007.Determination",
+      "heading": "of access charges (Repealed).",
+      "text": "of access charges (Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3007",
+      "number": "3007",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3008interexchange",
+      "number": "3008.Interexchange",
+      "heading": "telecommunications carrier (Repealed).",
+      "text": "telecommunications carrier (Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3008",
+      "number": "3008",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3009additional",
+      "number": "3009.Additional",
+      "heading": "powers and duties (Repealed).",
+      "text": "powers and duties (Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3009",
+      "number": "3009",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3010",
+      "number": "3010",
+      "heading": "(Reserved).",
+      "text": "(Reserved).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3011declaration",
+      "number": "3011.Declaration",
+      "heading": "of policy.",
+      "text": "of policy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3011",
+      "number": "3011",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3012definitions",
+      "number": "3012.Definitions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3012",
+      "number": "3012",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3013continuation",
+      "number": "3013.Continuation",
+      "heading": "of commission-approved alternative regulation and network modernization",
+      "text": "plans.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3013",
+      "number": "3013",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3014network",
+      "number": "3014.Network",
+      "heading": "modernization plans.",
+      "text": "modernization plans.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3014",
+      "number": "3014",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3015alternative",
+      "number": "3015.Alternative",
+      "heading": "forms of regulation.",
+      "text": "forms of regulation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3015",
+      "number": "3015",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3016competitive",
+      "number": "3016.Competitive",
+      "heading": "services.",
+      "text": "services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3016",
+      "number": "3016",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3017access",
+      "number": "3017.Access",
+      "heading": "charges.",
+      "text": "charges.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3017",
+      "number": "3017",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3018interexchange",
+      "number": "3018.Interexchange",
+      "heading": "telecommunications carriers.",
+      "text": "telecommunications carriers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3018",
+      "number": "3018",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3019additional",
+      "number": "3019.Additional",
+      "heading": "powers and duties.",
+      "text": "powers and duties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3019",
+      "number": "3019",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3101operation",
+      "number": "3101.Operation",
+      "heading": "as public utility.",
+      "text": "as public utility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3101",
+      "number": "3101",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3102establishment",
+      "number": "3102.Establishment",
+      "heading": "by private corporations and  municipalities.",
+      "text": "by private corporations and  municipalities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3102",
+      "number": "3102",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3103formation",
+      "number": "3103.Formation",
+      "heading": "and authority of private corporations (Repealed).",
+      "text": "and authority of private corporations (Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3103",
+      "number": "3103",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3104municipalities",
+      "number": "3104.Municipalities",
+      "heading": "and corporations to comply with law; forfeiture of rights.",
+      "text": "and corporations to comply with law; forfeiture of rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3104",
+      "number": "3104",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3105reports",
+      "number": "3105.Reports",
+      "heading": "to Department of Community Affairs.",
+      "text": "to Department of Community Affairs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3105",
+      "number": "3105",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3201definitions",
+      "number": "3201.Definitions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3201",
+      "number": "3201",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3202application",
+      "number": "3202.Application",
+      "heading": "of provisions of title.",
+      "text": "of provisions of title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3202",
+      "number": "3202",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3203prior",
+      "number": "3203.Prior",
+      "heading": "tariffs.",
+      "text": "tariffs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3203",
+      "number": "3203",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3204tariff",
+      "number": "3204.Tariff",
+      "heading": "filing and compliance plan.",
+      "text": "filing and compliance plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3204",
+      "number": "3204",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3205",
+      "number": "3205",
+      "heading": "Maintenance, repair and replacement of facilities and equipment.",
+      "text": "Maintenance, repair and replacement of facilities and equipment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3206duties",
+      "number": "3206.Duties",
+      "heading": "of Office of Consumer Advocate and Office of Small Business Advocate.",
+      "text": "of Office of Consumer Advocate and Office of Small Business Advocate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3206",
+      "number": "3206",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3207commission",
+      "number": "3207.Commission",
+      "heading": "assessment.",
+      "text": "assessment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3207",
+      "number": "3207",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3208power",
+      "number": "3208.Power",
+      "heading": "of authority.",
+      "text": "of authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3208",
+      "number": "3208",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3209proprietary",
+      "number": "3209.Proprietary",
+      "heading": "information of authority.",
+      "text": "information of authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3209",
+      "number": "3209",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3301civil",
+      "number": "3301.Civil",
+      "heading": "penalties for violations.",
+      "text": "penalties for violations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3301",
+      "number": "3301",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3302criminal",
+      "number": "3302.Criminal",
+      "heading": "penalties for violations.",
+      "text": "penalties for violations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3302",
+      "number": "3302",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3303nonliability",
+      "number": "3303.Nonliability",
+      "heading": "for enforcement of lawful tariffs and rates.",
+      "text": "for enforcement of lawful tariffs and rates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3303",
+      "number": "3303",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3304unlawful",
+      "number": "3304.Unlawful",
+      "heading": "issuance and assumption of securities.",
+      "text": "issuance and assumption of securities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3304",
+      "number": "3304",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3305misapplication",
+      "number": "3305.Misapplication",
+      "heading": "of proceeds of securities.",
+      "text": "of proceeds of securities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3305",
+      "number": "3305",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3306execution",
+      "number": "3306.Execution",
+      "heading": "of unlawful contracts.",
+      "text": "of unlawful contracts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3306",
+      "number": "3306",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3307refusal",
+      "number": "3307.Refusal",
+      "heading": "to obey subpoena and testify.",
+      "text": "to obey subpoena and testify.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3307",
+      "number": "3307",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3308concealment",
+      "number": "3308.Concealment",
+      "heading": "of witnesses and records.",
+      "text": "of witnesses and records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3308",
+      "number": "3308",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3309liability",
+      "number": "3309.Liability",
+      "heading": "for damages occasioned by unlawful acts.",
+      "text": "for damages occasioned by unlawful acts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3309",
+      "number": "3309",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3310unauthorized",
+      "number": "3310.Unauthorized",
+      "heading": "operation by carriers and brokers.",
+      "text": "operation by carriers and brokers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3310",
+      "number": "3310",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3311bribery",
+      "number": "3311.Bribery",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3311",
+      "number": "3311",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3312evasion",
+      "number": "3312.Evasion",
+      "heading": "of motor carrier and broker regulations.",
+      "text": "of motor carrier and broker regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3312",
+      "number": "3312",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3313excessive",
+      "number": "3313.Excessive",
+      "heading": "price on resale.",
+      "text": "price on resale.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3313",
+      "number": "3313",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3314limitation",
+      "number": "3314.Limitation",
+      "heading": "of actions and cumulation of remedies.",
+      "text": "of actions and cumulation of remedies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3314",
+      "number": "3314",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3315disposition",
+      "number": "3315.Disposition",
+      "heading": "of fines and penalties.",
+      "text": "of fines and penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3315",
+      "number": "3315",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3316protection",
+      "number": "3316.Protection",
+      "heading": "of public utility employees.",
+      "text": "of public utility employees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3316",
+      "number": "3316",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-101",
+      "number": "101.",
+      "heading": "Short title of part.",
+      "text": "Short title of part.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-102",
+      "number": "102.",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-103",
+      "number": "103.",
+      "heading": "Prior rights preserved.",
+      "text": "Prior rights preserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-104",
+      "number": "104.",
+      "heading": "Interstate and foreign commerce.",
+      "text": "Interstate and foreign commerce.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3081",
+      "number": "308.1.",
+      "heading": "Consumer protection and information.",
+      "text": "Consumer protection and information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3082",
+      "number": "308.2.",
+      "heading": "Other bureaus, offices and positions.",
+      "text": "Other bureaus, offices and positions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-301",
+      "number": "301.",
+      "heading": "Establishment, members, qualifications and chairman.",
+      "text": "Establishment, members, qualifications and chairman.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-302",
+      "number": "302.",
+      "heading": "Removal of commissioner.",
+      "text": "Removal of commissioner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-303",
+      "number": "303.",
+      "heading": "Seal.",
+      "text": "Seal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-304",
+      "number": "304.",
+      "heading": "Administrative law judges.",
+      "text": "Administrative law judges.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-305",
+      "number": "305.",
+      "heading": "Director of operations, secretary, employees and consultants.",
+      "text": "Director of operations, secretary, employees and consultants.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-306",
+      "number": "306.",
+      "heading": "Office of Trial Staff (Repealed).",
+      "text": "Office of Trial Staff (Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-307",
+      "number": "307.",
+      "heading": "Inspectors for enforcement.",
+      "text": "Inspectors for enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-308",
+      "number": "308.",
+      "heading": "Bureaus and offices.",
+      "text": "Bureaus and offices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-309",
+      "number": "309.",
+      "heading": "Oaths and subpoenas.",
+      "text": "Oaths and subpoenas.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-310",
+      "number": "310.",
+      "heading": "Depositions.",
+      "text": "Depositions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-311",
+      "number": "311.",
+      "heading": "Witness fees.",
+      "text": "Witness fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-312",
+      "number": "312.",
+      "heading": "Privilege and immunity.",
+      "text": "Privilege and immunity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-313",
+      "number": "313.",
+      "heading": "Joint hearings and investigations; reciprocity.",
+      "text": "Joint hearings and investigations; reciprocity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-314",
+      "number": "314.",
+      "heading": "Investigation of interstate rates, facilities and service.",
+      "text": "Investigation of interstate rates, facilities and service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-315",
+      "number": "315.",
+      "heading": "Burden of proof.",
+      "text": "Burden of proof.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-316",
+      "number": "316.",
+      "heading": "Effect of commission action.",
+      "text": "Effect of commission action.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-317",
+      "number": "317.",
+      "heading": "Fees for services rendered by commission.",
+      "text": "Fees for services rendered by commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-318",
+      "number": "318.",
+      "heading": "Commission to cooperate with other departments.",
+      "text": "Commission to cooperate with other departments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-319",
+      "number": "319.",
+      "heading": "Code of ethics.",
+      "text": "Code of ethics.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-320",
+      "number": "320.",
+      "heading": "Annual appropriations.",
+      "text": "Annual appropriations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321",
+      "number": "321.",
+      "heading": "Annual reports.",
+      "text": "Annual reports.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-331",
+      "number": "331.",
+      "heading": "Powers of commission and administrative law judges.",
+      "text": "Powers of commission and administrative law judges.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-332",
+      "number": "332.",
+      "heading": "Procedures in general.",
+      "text": "Procedures in general.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-333",
+      "number": "333.",
+      "heading": "Prehearing procedures.",
+      "text": "Prehearing procedures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-334",
+      "number": "334.",
+      "heading": "Presiding officers.",
+      "text": "Presiding officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-335",
+      "number": "335.",
+      "heading": "Initial decisions and release of documents.",
+      "text": "Initial decisions and release of documents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5111",
+      "number": "511.1.",
+      "heading": "Use of Federal funds under energy program.",
+      "text": "Use of Federal funds under energy program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5121",
+      "number": "512.1.",
+      "heading": "Power of commission to confiscate, impound and sell vehicles.",
+      "text": "Power of commission to confiscate, impound and sell vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501",
+      "number": "501.",
+      "heading": "General powers.",
+      "text": "General powers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502",
+      "number": "502.",
+      "heading": "Enforcement proceedings by commission.",
+      "text": "Enforcement proceedings by commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-503",
+      "number": "503.",
+      "heading": "Enforcement proceedings by Chief Counsel.",
+      "text": "Enforcement proceedings by Chief Counsel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-504",
+      "number": "504.",
+      "heading": "Reports by public utilities.",
+      "text": "Reports by public utilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-505",
+      "number": "505.",
+      "heading": "Duty to furnish information to commission; cooperation in valuing property.",
+      "text": "Duty to furnish information to commission; cooperation in valuing property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-506",
+      "number": "506.",
+      "heading": "Inspection of facilities and records.",
+      "text": "Inspection of facilities and records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-507",
+      "number": "507.",
+      "heading": "Contracts between public utilities and municipalities.",
+      "text": "Contracts between public utilities and municipalities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-508",
+      "number": "508.",
+      "heading": "Power of commission to vary, reform and revise contracts.",
+      "text": "Power of commission to vary, reform and revise contracts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-509",
+      "number": "509.",
+      "heading": "Regulation of manufacture, sale or lease of appliances.",
+      "text": "Regulation of manufacture, sale or lease of appliances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-510",
+      "number": "510.",
+      "heading": "Assessment for regulatory expenses upon public utilities.",
+      "text": "Assessment for regulatory expenses upon public utilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-511",
+      "number": "511.",
+      "heading": "Disposition, appropriation and disbursement of assessments and fees.",
+      "text": "Disposition, appropriation and disbursement of assessments and fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-512",
+      "number": "512.",
+      "heading": "Power of commission to require insurance.",
+      "text": "Power of commission to require insurance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-513",
+      "number": "513.",
+      "heading": "Public letting of contracts.",
+      "text": "Public letting of contracts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-514",
+      "number": "514.",
+      "heading": "Use of coal.",
+      "text": "Use of coal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-515",
+      "number": "515.",
+      "heading": "Construction cost of electric generating units.",
+      "text": "Construction cost of electric generating units.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-516",
+      "number": "516.",
+      "heading": "Audits of certain utilities.",
+      "text": "Audits of certain utilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-517",
+      "number": "517.",
+      "heading": "Conversion of electric generating units fueled by oil or natural gas.",
+      "text": "Conversion of electric generating units fueled by oil or natural gas.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-518",
+      "number": "518.",
+      "heading": "Construction of electric generating units fueled by nuclear energy.",
+      "text": "Construction of electric generating units fueled by nuclear energy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-519",
+      "number": "519.",
+      "heading": "Construction of electric generating units fueled by oil or natural gas.",
+      "text": "Construction of electric generating units fueled by oil or natural gas.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-520",
+      "number": "520.",
+      "heading": "Power of commission to order cancellation or modification of construction of electric",
+      "text": "generating units.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-521",
+      "number": "521.",
+      "heading": "Retirement of electric generating units.",
+      "text": "Retirement of electric generating units.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-522",
+      "number": "522.",
+      "heading": "Expense reduction program.",
+      "text": "Expense reduction program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-523",
+      "number": "523.",
+      "heading": "Performance factor consideration.",
+      "text": "Performance factor consideration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-524",
+      "number": "524.",
+      "heading": "Data to be supplied by electric utilities.",
+      "text": "Data to be supplied by electric utilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-525",
+      "number": "525.",
+      "heading": "Sale of generating units and power.",
+      "text": "Sale of generating units and power.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-526",
+      "number": "526.",
+      "heading": "Rejection of rate increase requests due to inadequate quality or quantity of service.",
+      "text": "Rejection of rate increase requests due to inadequate quality or quantity of service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-527",
+      "number": "527.",
+      "heading": "Cogeneration rules and regulations.",
+      "text": "Cogeneration rules and regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528",
+      "number": "528.",
+      "heading": "Use of foreign coal by qualifying facilities.",
+      "text": "Use of foreign coal by qualifying facilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-529",
+      "number": "529.",
+      "heading": "Power of commission to order acquisition of small water and sewer utilities.",
+      "text": "Power of commission to order acquisition of small water and sewer utilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-530",
+      "number": "530.",
+      "heading": "Clean Air Act implementation plans.",
+      "text": "Clean Air Act implementation plans.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-701",
+      "number": "701.",
+      "heading": "Complaints.",
+      "text": "Complaints.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-702",
+      "number": "702.",
+      "heading": "Service of complaints on parties.",
+      "text": "Service of complaints on parties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-703",
+      "number": "703.",
+      "heading": "Fixing of hearings.",
+      "text": "Fixing of hearings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-901",
+      "number": "901.",
+      "heading": "Right to trial by jury.",
+      "text": "Right to trial by jury.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-902",
+      "number": "902.",
+      "heading": "Reliance on orders pending judicial review.",
+      "text": "Reliance on orders pending judicial review.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-903",
+      "number": "903.",
+      "heading": "Restriction on injunctions (Repealed).",
+      "text": "Restriction on injunctions (Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1101",
+      "number": "1101.",
+      "heading": "Organization of public utilities and beginning of service.",
+      "text": "Organization of public utilities and beginning of service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1102",
+      "number": "1102.",
+      "heading": "Enumeration of acts requiring certificate.",
+      "text": "Enumeration of acts requiring certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1103",
+      "number": "1103.",
+      "heading": "Procedure to obtain certificates of public convenience.",
+      "text": "Procedure to obtain certificates of public convenience.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1104",
+      "number": "1104.",
+      "heading": "Certain appropriations by right of eminent domain prohibited.",
+      "text": "Certain appropriations by right of eminent domain prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1121",
+      "number": "1121.",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1122",
+      "number": "1122.",
+      "heading": "Certificate of public convenience required.",
+      "text": "Certificate of public convenience required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1123",
+      "number": "1123.",
+      "heading": "Regulations.",
+      "text": "Regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1124",
+      "number": "1124.",
+      "heading": "Miscellaneous provisions.",
+      "text": "Miscellaneous provisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13011",
+      "number": "1301.1.",
+      "heading": "Computation of income tax expense for ratemaking purposes.",
+      "text": "Computation of income tax expense for ratemaking purposes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13161",
+      "number": "1316.1.",
+      "heading": "Recovery of club dues.",
+      "text": "Recovery of club dues.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1301",
+      "number": "1301.",
+      "heading": "Rates to be just and reasonable.",
+      "text": "Rates to be just and reasonable.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1302",
+      "number": "1302.",
+      "heading": "Tariffs; filing and inspection.",
+      "text": "Tariffs; filing and inspection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1303",
+      "number": "1303.",
+      "heading": "Adherence to tariffs.",
+      "text": "Adherence to tariffs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1304",
+      "number": "1304.",
+      "heading": "Discrimination in rates.",
+      "text": "Discrimination in rates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1305",
+      "number": "1305.",
+      "heading": "Advance payment of rates; interest on deposits.",
+      "text": "Advance payment of rates; interest on deposits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1306",
+      "number": "1306.",
+      "heading": "Apportionment of joint rates.",
+      "text": "Apportionment of joint rates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1307",
+      "number": "1307.",
+      "heading": "Sliding scale of rates; adjustments.",
+      "text": "Sliding scale of rates; adjustments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1308",
+      "number": "1308.",
+      "heading": "Voluntary changes in rates.",
+      "text": "Voluntary changes in rates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1309",
+      "number": "1309.",
+      "heading": "Rates fixed on complaint; investigation of costs of production.",
+      "text": "Rates fixed on complaint; investigation of costs of production.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1310",
+      "number": "1310.",
+      "heading": "Temporary rates.",
+      "text": "Temporary rates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1311",
+      "number": "1311.",
+      "heading": "Valuation of and return on the property of a public utility.",
+      "text": "Valuation of and return on the property of a public utility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1312",
+      "number": "1312.",
+      "heading": "Refunds.",
+      "text": "Refunds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1313",
+      "number": "1313.",
+      "heading": "Price upon resale of public utility services.",
+      "text": "Price upon resale of public utility services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1314",
+      "number": "1314.",
+      "heading": "Limitation on prices paid for property and fuel.",
+      "text": "Limitation on prices paid for property and fuel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1315",
+      "number": "1315.",
+      "heading": "Limitation on consideration of certain costs for electric utilities.",
+      "text": "Limitation on consideration of certain costs for electric utilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1316",
+      "number": "1316.",
+      "heading": "Recovery of advertising expenses.",
+      "text": "Recovery of advertising expenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1317",
+      "number": "1317.",
+      "heading": "Regulation of natural gas costs.",
+      "text": "Regulation of natural gas costs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1318",
+      "number": "1318.",
+      "heading": "Determination of just and reasonable gas cost rates.",
+      "text": "Determination of just and reasonable gas cost rates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1319",
+      "number": "1319.",
+      "heading": "Financing of energy supply alternatives.",
+      "text": "Financing of energy supply alternatives.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1320",
+      "number": "1320.",
+      "heading": "Fuel purchase audits by complaint.",
+      "text": "Fuel purchase audits by complaint.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1321",
+      "number": "1321.",
+      "heading": "Recovery of certain employee meeting expenses.",
+      "text": "Recovery of certain employee meeting expenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1322",
+      "number": "1322.",
+      "heading": "Outages of electric generating units.",
+      "text": "Outages of electric generating units.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1323",
+      "number": "1323.",
+      "heading": "Procedures for new electric generating capacity.",
+      "text": "Procedures for new electric generating capacity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1324",
+      "number": "1324.",
+      "heading": "Residential telephone service rates based on duration or distance of call.",
+      "text": "Residential telephone service rates based on duration or distance of call.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1325",
+      "number": "1325.",
+      "heading": "Local exchange service increases; limitation (Repealed).",
+      "text": "Local exchange service increases; limitation (Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1326",
+      "number": "1326.",
+      "heading": "Standby charge prohibited.",
+      "text": "Standby charge prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1327",
+      "number": "1327.",
+      "heading": "Acquisition of water and sewer utilities.",
+      "text": "Acquisition of water and sewer utilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1328",
+      "number": "1328.",
+      "heading": "Determination of public fire hydrant rates.",
+      "text": "Determination of public fire hydrant rates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1329",
+      "number": "1329.",
+      "heading": "Valuation of acquired water and wastewater systems.",
+      "text": "Valuation of acquired water and wastewater systems.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1330",
+      "number": "1330.",
+      "heading": "Alternative ratemaking for utilities.",
+      "text": "Alternative ratemaking for utilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1350",
+      "number": "1350.",
+      "heading": "Scope of subchapter.",
+      "text": "Scope of subchapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1351",
+      "number": "1351.",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1352",
+      "number": "1352.",
+      "heading": "Long-term infrastructure improvement plan.",
+      "text": "Long-term infrastructure improvement plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1353",
+      "number": "1353.",
+      "heading": "Distribution system improvement charge.",
+      "text": "Distribution system improvement charge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1354",
+      "number": "1354.",
+      "heading": "Customer notice.",
+      "text": "Customer notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1355",
+      "number": "1355.",
+      "heading": "Review.",
+      "text": "Review.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1356",
+      "number": "1356.",
+      "heading": "Asset optimization plans.",
+      "text": "Asset optimization plans.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1357",
+      "number": "1357.",
+      "heading": "Computation of charge.",
+      "text": "Computation of charge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1358",
+      "number": "1358.",
+      "heading": "Customer protections.",
+      "text": "Customer protections.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1359",
+      "number": "1359.",
+      "heading": "Projects.",
+      "text": "Projects.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1360",
+      "number": "1360.",
+      "heading": "Applicability.",
+      "text": "Applicability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15011",
+      "number": "1501.1.",
+      "heading": "Certain utilities prohibited from using foreign coal.",
+      "text": "Certain utilities prohibited from using foreign coal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1501",
+      "number": "1501.",
+      "heading": "Character of service and facilities.",
+      "text": "Character of service and facilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1502",
+      "number": "1502.",
+      "heading": "Discrimination in service.",
+      "text": "Discrimination in service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1503",
+      "number": "1503.",
+      "heading": "Discontinuance of service.",
+      "text": "Discontinuance of service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1504",
+      "number": "1504.",
+      "heading": "Standards of service and facilities.",
+      "text": "Standards of service and facilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1505",
+      "number": "1505.",
+      "heading": "Proper service and facilities established on complaint; authority to order conservation",
+      "text": "and load management programs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1506",
+      "number": "1506.",
+      "heading": "Copies of service contracts, etc., to be filed with commission.",
+      "text": "Copies of service contracts, etc., to be filed with commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1507",
+      "number": "1507.",
+      "heading": "Testing of appliances for measurement of service.",
+      "text": "Testing of appliances for measurement of service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1508",
+      "number": "1508.",
+      "heading": "Reports of accidents.",
+      "text": "Reports of accidents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1509",
+      "number": "1509.",
+      "heading": "Billing procedures.",
+      "text": "Billing procedures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1510",
+      "number": "1510.",
+      "heading": "Ownership and maintenance of natural and artificial gas service lines.",
+      "text": "Ownership and maintenance of natural and artificial gas service lines.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1511",
+      "number": "1511.",
+      "heading": "Electricity supplied to certain organizations.",
+      "text": "Electricity supplied to certain organizations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1512",
+      "number": "1512.",
+      "heading": "Emergency response plans.",
+      "text": "Emergency response plans.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15291",
+      "number": "1529.1.",
+      "heading": "Duty of owners of rental property.",
+      "text": "Duty of owners of rental property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1521",
+      "number": "1521.",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1522",
+      "number": "1522.",
+      "heading": "Applicability of subchapter.",
+      "text": "Applicability of subchapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1523",
+      "number": "1523.",
+      "heading": "Notices before service to landlord terminated.",
+      "text": "Notices before service to landlord terminated.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1524",
+      "number": "1524.",
+      "heading": "Request to landlord to identify tenants.",
+      "text": "Request to landlord to identify tenants.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1525",
+      "number": "1525.",
+      "heading": "Delivery and contents of termination notice to landlord.",
+      "text": "Delivery and contents of termination notice to landlord.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1526",
+      "number": "1526.",
+      "heading": "Delivery and contents of first termination notice to tenants.",
+      "text": "Delivery and contents of first termination notice to tenants.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1527",
+      "number": "1527.",
+      "heading": "Right of tenants to continued service.",
+      "text": "Right of tenants to continued service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1528",
+      "number": "1528.",
+      "heading": "Delivery and contents of subsequent termination notice to tenants.",
+      "text": "Delivery and contents of subsequent termination notice to tenants.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1529",
+      "number": "1529.",
+      "heading": "Right of tenant to recover payments.",
+      "text": "Right of tenant to recover payments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1530",
+      "number": "1530.",
+      "heading": "Waiver of subchapter prohibited.",
+      "text": "Waiver of subchapter prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1531",
+      "number": "1531.",
+      "heading": "Retaliation by landlord prohibited.",
+      "text": "Retaliation by landlord prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1532",
+      "number": "1532.",
+      "heading": "Penalties.",
+      "text": "Penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1533",
+      "number": "1533.",
+      "heading": "Petition to appoint receiver.",
+      "text": "Petition to appoint receiver.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1701",
+      "number": "1701.",
+      "heading": "Mandatory systems of accounts.",
+      "text": "Mandatory systems of accounts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1702",
+      "number": "1702.",
+      "heading": "Continuing property records.",
+      "text": "Continuing property records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1703",
+      "number": "1703.",
+      "heading": "Depreciation accounts; reports.",
+      "text": "Depreciation accounts; reports.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1704",
+      "number": "1704.",
+      "heading": "Records and accounts to be kept in Commonwealth.",
+      "text": "Records and accounts to be kept in Commonwealth.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1705",
+      "number": "1705.",
+      "heading": "Budgets of public utilities.",
+      "text": "Budgets of public utilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1706",
+      "number": "1706.",
+      "heading": "Applicability to municipal corporations.",
+      "text": "Applicability to municipal corporations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1901",
+      "number": "1901.",
+      "heading": "Registration of securities to be issued or assumed.",
+      "text": "Registration of securities to be issued or assumed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1902",
+      "number": "1902.",
+      "heading": "Contents of securities certificates.",
+      "text": "Contents of securities certificates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1903",
+      "number": "1903.",
+      "heading": "Registration or rejection of securities certificates.",
+      "text": "Registration or rejection of securities certificates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1904",
+      "number": "1904.",
+      "heading": "Unauthorized securities may be declared void.",
+      "text": "Unauthorized securities may be declared void.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2101",
+      "number": "2101.",
+      "heading": "Definition of affiliated interest.",
+      "text": "Definition of affiliated interest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2102",
+      "number": "2102.",
+      "heading": "Approval of contracts with affiliated interests.",
+      "text": "Approval of contracts with affiliated interests.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2103",
+      "number": "2103.",
+      "heading": "Continuing supervision and jurisdiction over contracts.",
+      "text": "Continuing supervision and jurisdiction over contracts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2104",
+      "number": "2104.",
+      "heading": "Contracts to be in writing; cost data.",
+      "text": "Contracts to be in writing; cost data.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2105",
+      "number": "2105.",
+      "heading": "Contracts in violation of part void.",
+      "text": "Contracts in violation of part void.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2106",
+      "number": "2106.",
+      "heading": "Effect on rates.",
+      "text": "Effect on rates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2107",
+      "number": "2107.",
+      "heading": "Federal regulatory agencies.",
+      "text": "Federal regulatory agencies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2201",
+      "number": "2201.",
+      "heading": "Short title of chapter.",
+      "text": "Short title of chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2202",
+      "number": "2202.",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2203",
+      "number": "2203.",
+      "heading": "Standards for restructuring of natural gas utility industry.",
+      "text": "Standards for restructuring of natural gas utility industry.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2204",
+      "number": "2204.",
+      "heading": "Implementation.",
+      "text": "Implementation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2205",
+      "number": "2205.",
+      "heading": "Duties of natural gas distribution companies.",
+      "text": "Duties of natural gas distribution companies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2206",
+      "number": "2206.",
+      "heading": "Consumer protections and customer service.",
+      "text": "Consumer protections and customer service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2207",
+      "number": "2207.",
+      "heading": "Obligation to serve.",
+      "text": "Obligation to serve.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2208",
+      "number": "2208.",
+      "heading": "Requirements for natural gas suppliers.",
+      "text": "Requirements for natural gas suppliers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2209",
+      "number": "2209.",
+      "heading": "Market power remediation.",
+      "text": "Market power remediation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2210",
+      "number": "2210.",
+      "heading": "Approval of proposed mergers, consolidations, acquisitions or dispositions.",
+      "text": "Approval of proposed mergers, consolidations, acquisitions or dispositions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2211",
+      "number": "2211.",
+      "heading": "Rate caps.",
+      "text": "Rate caps.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2212",
+      "number": "2212.",
+      "heading": "City natural gas distribution operations.",
+      "text": "City natural gas distribution operations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2301",
+      "number": "2301.",
+      "heading": "Operation and distribution of facilities of common carriers.",
+      "text": "Operation and distribution of facilities of common carriers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2302",
+      "number": "2302.",
+      "heading": "Transfers and time schedules of common carriers.",
+      "text": "Transfers and time schedules of common carriers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2303",
+      "number": "2303.",
+      "heading": "Common carrier connections with other lines.",
+      "text": "Common carrier connections with other lines.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2304",
+      "number": "2304.",
+      "heading": "Liability of common carriers for damages to property in transit; bills of lading.",
+      "text": "Liability of common carriers for damages to property in transit; bills of lading.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2305",
+      "number": "2305.",
+      "heading": "Full crews.",
+      "text": "Full crews.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2401",
+      "number": "2401.",
+      "heading": "Regulation of taxis and limousines.",
+      "text": "Regulation of taxis and limousines.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2501",
+      "number": "2501.",
+      "heading": "Declaration of policy and definitions.",
+      "text": "Declaration of policy and definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2502",
+      "number": "2502.",
+      "heading": "Regulation and classification of contract carrier and broker.",
+      "text": "Regulation and classification of contract carrier and broker.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2503",
+      "number": "2503.",
+      "heading": "Permits required of contract carriers.",
+      "text": "Permits required of contract carriers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2504",
+      "number": "2504.",
+      "heading": "Dual operation by motor carriers.",
+      "text": "Dual operation by motor carriers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2505",
+      "number": "2505.",
+      "heading": "Licenses and financial responsibility required of brokers.",
+      "text": "Licenses and financial responsibility required of brokers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2506",
+      "number": "2506.",
+      "heading": "Copies of contracts to be filed with commission; charges and changes therein.",
+      "text": "Copies of contracts to be filed with commission; charges and changes therein.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2507",
+      "number": "2507.",
+      "heading": "Minimum rates fixed and practices prescribed on complaint.",
+      "text": "Minimum rates fixed and practices prescribed on complaint.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2508",
+      "number": "2508.",
+      "heading": "Accounts, records and reports.",
+      "text": "Accounts, records and reports.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2509",
+      "number": "2509.",
+      "heading": "Temporary permits and licenses.",
+      "text": "Temporary permits and licenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26031",
+      "number": "2603.1.",
+      "heading": "Financial responsibility requirements.",
+      "text": "Financial responsibility requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26032",
+      "number": "2603.2.",
+      "heading": "Disclosures.",
+      "text": "Disclosures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26041",
+      "number": "2604.1.",
+      "heading": "Licensure requirements.",
+      "text": "Licensure requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26042",
+      "number": "2604.2.",
+      "heading": "Records.",
+      "text": "Records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26043",
+      "number": "2604.3.",
+      "heading": "Service standards.",
+      "text": "Service standards.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26044",
+      "number": "2604.4.",
+      "heading": "Dual motor carrier authority.",
+      "text": "Dual motor carrier authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26045",
+      "number": "2604.5.",
+      "heading": "Lienholder and lessor requirements.",
+      "text": "Lienholder and lessor requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2601",
+      "number": "2601.",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2602",
+      "number": "2602.",
+      "heading": "Exclusions.",
+      "text": "Exclusions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2603",
+      "number": "2603.",
+      "heading": "Applicability of certain laws and prohibition.",
+      "text": "Applicability of certain laws and prohibition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2604",
+      "number": "2604.",
+      "heading": "Licenses and regulations.",
+      "text": "Licenses and regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2605",
+      "number": "2605.",
+      "heading": "Transportation network company drivers.",
+      "text": "Transportation network company drivers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2606",
+      "number": "2606.",
+      "heading": "Personal vehicle requirements.",
+      "text": "Personal vehicle requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2607",
+      "number": "2607.",
+      "heading": "Rates and forms of compensation.",
+      "text": "Rates and forms of compensation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2608",
+      "number": "2608.",
+      "heading": "Nondisclosure of passenger information.",
+      "text": "Nondisclosure of passenger information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2609",
+      "number": "2609.",
+      "heading": "Fines and penalties.",
+      "text": "Fines and penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2610",
+      "number": "2610.",
+      "heading": "Commission costs.",
+      "text": "Commission costs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2701",
+      "number": "2701.",
+      "heading": "Railroad connections with sidetracks and laterals.",
+      "text": "Railroad connections with sidetracks and laterals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2702",
+      "number": "2702.",
+      "heading": "Construction, relocation, suspension and abolition of crossings.",
+      "text": "Construction, relocation, suspension and abolition of crossings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2703",
+      "number": "2703.",
+      "heading": "Ejectment in crossing cases.",
+      "text": "Ejectment in crossing cases.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2704",
+      "number": "2704.",
+      "heading": "Compensation for damages occasioned by construction, relocation or abolition of crossings.",
+      "text": "Compensation for damages occasioned by construction, relocation or abolition of crossings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2705",
+      "number": "2705.",
+      "heading": "Speedometers and speed recorders.",
+      "text": "Speedometers and speed recorders.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2706",
+      "number": "2706.",
+      "heading": "Flag protection.",
+      "text": "Flag protection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2707",
+      "number": "2707.",
+      "heading": "Inspection of highway crossing safety devices (Expired).",
+      "text": "Inspection of highway crossing safety devices (Expired).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2708",
+      "number": "2708.",
+      "heading": "Alternative compliance (Expired).",
+      "text": "Alternative compliance (Expired).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2709",
+      "number": "2709.",
+      "heading": "Disposition of real property by public utility engaged in railroad business.",
+      "text": "Disposition of real property by public utility engaged in railroad business.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28061",
+      "number": "2806.1.",
+      "heading": "Energy efficiency and conservation program.",
+      "text": "Energy efficiency and conservation program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28062",
+      "number": "2806.2.",
+      "heading": "Energy efficiency and conservation.",
+      "text": "Energy efficiency and conservation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2801",
+      "number": "2801.",
+      "heading": "Short title of chapter.",
+      "text": "Short title of chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2802",
+      "number": "2802.",
+      "heading": "Declaration of policy.",
+      "text": "Declaration of policy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2803",
+      "number": "2803.",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2804",
+      "number": "2804.",
+      "heading": "Standards for restructuring of electric industry.",
+      "text": "Standards for restructuring of electric industry.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2805",
+      "number": "2805.",
+      "heading": "Regionalism and reciprocity.",
+      "text": "Regionalism and reciprocity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2806",
+      "number": "2806.",
+      "heading": "Implementation, pilot programs and performance-based rates.",
+      "text": "Implementation, pilot programs and performance-based rates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2807",
+      "number": "2807.",
+      "heading": "Duties of electric distribution companies.",
+      "text": "Duties of electric distribution companies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2808",
+      "number": "2808.",
+      "heading": "Competitive transition charge.",
+      "text": "Competitive transition charge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2809",
+      "number": "2809.",
+      "heading": "Requirements for electric generation suppliers.",
+      "text": "Requirements for electric generation suppliers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2810",
+      "number": "2810.",
+      "heading": "Revenue-neutral reconciliation.",
+      "text": "Revenue-neutral reconciliation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7406",
+      "number": "7406",
+      "heading": "of Title 15, referred to in subsec. (b)(3), expired.",
+      "text": "of Title 15, referred to in subsec. (b)(3), expired.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2811",
+      "number": "2811.",
+      "heading": "Market power remediation.",
+      "text": "Market power remediation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2812",
+      "number": "2812.",
+      "heading": "Approval of transition bonds.",
+      "text": "Approval of transition bonds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2813",
+      "number": "2813.",
+      "heading": "Procurement of power.",
+      "text": "Procurement of power.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2814",
+      "number": "2814.",
+      "heading": "Additional alternative energy sources.",
+      "text": "Additional alternative energy sources.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2815",
+      "number": "2815.",
+      "heading": "Carbon dioxide sequestration network.",
+      "text": "Carbon dioxide sequestration network.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2901",
+      "number": "2901.",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2902",
+      "number": "2902.",
+      "heading": "Private wire for gambling information prohibited.",
+      "text": "Private wire for gambling information prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2903",
+      "number": "2903.",
+      "heading": "Written contract for private wire.",
+      "text": "Written contract for private wire.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2904",
+      "number": "2904.",
+      "heading": "Joint use of telephone and telegraph facilities.",
+      "text": "Joint use of telephone and telegraph facilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2905",
+      "number": "2905.",
+      "heading": "Telephone message services.",
+      "text": "Telephone message services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2906",
+      "number": "2906.",
+      "heading": "Dissemination of telephone numbers and other identifying information.",
+      "text": "Dissemination of telephone numbers and other identifying information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2907",
+      "number": "2907.",
+      "heading": "State correctional institutions.",
+      "text": "State correctional institutions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2911",
+      "number": "2911.",
+      "heading": "Legislative findings and declarations.",
+      "text": "Legislative findings and declarations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2912",
+      "number": "2912.",
+      "heading": "Availability of adequate coin telephone service.",
+      "text": "Availability of adequate coin telephone service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2913",
+      "number": "2913.",
+      "heading": "Minimum service requirement.",
+      "text": "Minimum service requirement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2914",
+      "number": "2914.",
+      "heading": "Establishment of just and reasonable rates.",
+      "text": "Establishment of just and reasonable rates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2915",
+      "number": "2915.",
+      "heading": "Duty of commission.",
+      "text": "Duty of commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3001",
+      "number": "3001.",
+      "heading": "Declaration of policy (Repealed).",
+      "text": "Declaration of policy (Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3002",
+      "number": "3002.",
+      "heading": "Definitions (Repealed).",
+      "text": "Definitions (Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3003",
+      "number": "3003.",
+      "heading": "Local exchange telecommunications company request for alternative regulation and network",
+      "text": "modernization implementation plan (Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3004",
+      "number": "3004.",
+      "heading": "Commission review and approval of petition and plan (Repealed).",
+      "text": "Commission review and approval of petition and plan (Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3005",
+      "number": "3005.",
+      "heading": "Competitive services (Repealed).",
+      "text": "Competitive services (Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3006",
+      "number": "3006.",
+      "heading": "Streamlined form of rate regulation (Repealed).",
+      "text": "Streamlined form of rate regulation (Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3007",
+      "number": "3007.",
+      "heading": "Determination of access charges (Repealed).",
+      "text": "Determination of access charges (Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3008",
+      "number": "3008.",
+      "heading": "Interexchange telecommunications carrier (Repealed).",
+      "text": "Interexchange telecommunications carrier (Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3009",
+      "number": "3009.",
+      "heading": "Additional powers and duties (Repealed).",
+      "text": "Additional powers and duties (Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3010",
+      "number": "3010.",
+      "heading": "(Reserved).",
+      "text": "(Reserved).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3011",
+      "number": "3011.",
+      "heading": "Declaration of policy.",
+      "text": "Declaration of policy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3012",
+      "number": "3012.",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27",
+      "number": "27",
+      "heading": "of Act 16 of 2019 provided that a",
+      "text": "of Act 16 of 2019 provided that a",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3013",
+      "number": "3013.",
+      "heading": "Continuation of commission-approved alternative regulation and network modernization",
+      "text": "plans.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3014",
+      "number": "3014.",
+      "heading": "Network modernization plans.",
+      "text": "Network modernization plans.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3015",
+      "number": "3015.",
+      "heading": "Alternative forms of regulation.",
+      "text": "Alternative forms of regulation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3016",
+      "number": "3016.",
+      "heading": "Competitive services.",
+      "text": "Competitive services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3017",
+      "number": "3017.",
+      "heading": "Access charges.",
+      "text": "Access charges.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3018",
+      "number": "3018.",
+      "heading": "Interexchange telecommunications carriers.",
+      "text": "Interexchange telecommunications carriers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3019",
+      "number": "3019.",
+      "heading": "Additional powers and duties.",
+      "text": "Additional powers and duties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3101",
+      "number": "3101.",
+      "heading": "Operation as public utility.",
+      "text": "Operation as public utility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3102",
+      "number": "3102.",
+      "heading": "Establishment by private corporations and municipalities.",
+      "text": "Establishment by private corporations and municipalities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3103",
+      "number": "3103.",
+      "heading": "Formation and authority of private corporations (Repealed).",
+      "text": "Formation and authority of private corporations (Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3104",
+      "number": "3104.",
+      "heading": "Municipalities and corporations to comply with law; forfeiture of rights.",
+      "text": "Municipalities and corporations to comply with law; forfeiture of rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3105",
+      "number": "3105.",
+      "heading": "Reports to Department of Community Affairs.",
+      "text": "Reports to Department of Community Affairs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3201",
+      "number": "3201.",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3202",
+      "number": "3202.",
+      "heading": "Application of provisions of title.",
+      "text": "Application of provisions of title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3203",
+      "number": "3203.",
+      "heading": "Prior tariffs.",
+      "text": "Prior tariffs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3204",
+      "number": "3204.",
+      "heading": "Tariff filing and compliance plan.",
+      "text": "Tariff filing and compliance plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3205",
+      "number": "3205.",
+      "heading": "Maintenance, repair and replacement of facilities and equipment.",
+      "text": "Maintenance, repair and replacement of facilities and equipment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3206",
+      "number": "3206.",
+      "heading": "Duties of Office of Consumer Advocate and Office of Small Business Advocate.",
+      "text": "Duties of Office of Consumer Advocate and Office of Small Business Advocate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3207",
+      "number": "3207.",
+      "heading": "Commission assessment.",
+      "text": "Commission assessment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3208",
+      "number": "3208.",
+      "heading": "Power of authority.",
+      "text": "Power of authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3209",
+      "number": "3209.",
+      "heading": "Proprietary information of authority.",
+      "text": "Proprietary information of authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3301",
+      "number": "3301.",
+      "heading": "Civil penalties for violations.",
+      "text": "Civil penalties for violations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3302",
+      "number": "3302.",
+      "heading": "Criminal penalties for violations.",
+      "text": "Criminal penalties for violations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3303",
+      "number": "3303.",
+      "heading": "Nonliability for enforcement of lawful tariffs and rates.",
+      "text": "Nonliability for enforcement of lawful tariffs and rates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3304",
+      "number": "3304.",
+      "heading": "Unlawful issuance and assumption of securities.",
+      "text": "Unlawful issuance and assumption of securities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3305",
+      "number": "3305.",
+      "heading": "Misapplication of proceeds of securities.",
+      "text": "Misapplication of proceeds of securities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3306",
+      "number": "3306.",
+      "heading": "Execution of unlawful contracts.",
+      "text": "Execution of unlawful contracts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3307",
+      "number": "3307.",
+      "heading": "Refusal to obey subpoena and testify.",
+      "text": "Refusal to obey subpoena and testify.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3308",
+      "number": "3308.",
+      "heading": "Concealment of witnesses and records.",
+      "text": "Concealment of witnesses and records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3309",
+      "number": "3309.",
+      "heading": "Liability for damages occasioned by unlawful acts.",
+      "text": "Liability for damages occasioned by unlawful acts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3310",
+      "number": "3310.",
+      "heading": "Unauthorized operation by carriers and brokers.",
+      "text": "Unauthorized operation by carriers and brokers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3311",
+      "number": "3311.",
+      "heading": "Bribery.",
+      "text": "Bribery.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3312",
+      "number": "3312.",
+      "heading": "Evasion of motor carrier and broker regulations.",
+      "text": "Evasion of motor carrier and broker regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3313",
+      "number": "3313.",
+      "heading": "Excessive price on resale.",
+      "text": "Excessive price on resale.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3314",
+      "number": "3314.",
+      "heading": "Limitation of actions and cumulation of remedies.",
+      "text": "Limitation of actions and cumulation of remedies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3315",
+      "number": "3315.",
+      "heading": "Disposition of fines and penalties.",
+      "text": "Disposition of fines and penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3316",
+      "number": "3316.",
+      "heading": "Protection of public utility employees.",
+      "text": "Protection of public utility employees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2",
+      "number": "2.",
+      "heading": "Taxicab service in first class cities.",
+      "text": "Taxicab service in first class cities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3",
+      "number": "3.",
+      "heading": "Annual reports to committees of General Assembly.",
+      "text": "Annual reports to committees of General Assembly.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4",
+      "number": "4.",
+      "heading": "Effective date and applicability.",
+      "text": "Effective date and applicability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5",
+      "number": "5.",
+      "heading": "Applicability.",
+      "text": "Applicability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7",
+      "number": "7.",
+      "heading": "Filing of tariffs.",
+      "text": "Filing of tariffs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12",
+      "number": "12.",
+      "heading": "Terms of office of current commission members.",
+      "text": "Terms of office of current commission members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13",
+      "number": "13.",
+      "heading": "Continuation of current rules and regulations.",
+      "text": "Continuation of current rules and regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14",
+      "number": "14.",
+      "heading": "Reestablishment of Public Utility Commission.",
+      "text": "Reestablishment of Public Utility Commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15",
+      "number": "15.",
+      "heading": "Termination of Public Utility Commission.",
+      "text": "Termination of Public Utility Commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-16",
+      "number": "16.",
+      "heading": "Applicability to confirmation of commission members.",
+      "text": "Applicability to confirmation of commission members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-20",
+      "number": "20.",
+      "heading": "Pennsylvania Public Utility Commission contracts.",
+      "text": "Pennsylvania Public Utility Commission contracts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-21",
+      "number": "21.",
+      "heading": "Preservation of rights, obligations, duties and remedies.",
+      "text": "Preservation of rights, obligations, duties and remedies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24",
+      "number": "24.",
+      "heading": "Publication in Pennsylvania Bulletin.",
+      "text": "Publication in Pennsylvania Bulletin.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6",
+      "number": "6.",
+      "heading": "Administration and enforcement of chapter.",
+      "text": "Administration and enforcement of chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1",
+      "number": "1.",
+      "heading": "The General Assembly finds and declares as follows:",
+      "text": "The General Assembly finds and declares as follows:",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

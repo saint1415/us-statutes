@@ -1,0 +1,958 @@
+{
+  "state": "district-of-columbia",
+  "path": "title-29/chapter-10",
+  "sections": [
+    {
+      "id": "section-29-1001.01",
+      "number": "29-1001.01",
+      "heading": "Short title.",
+      "text": "This chapter may be cited as the “Uniform Limited Cooperative Association Act of 2010”.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1001.01.html"
+    },
+    {
+      "id": "section-29-1001.02",
+      "number": "29-1001.02",
+      "heading": "Definitions.",
+      "text": "For the purposes of this chapter, the term:\n\n(1) “Board of directors” means the board of directors of a limited cooperative association.\n\n(2) “Bylaws” means the bylaws of a limited cooperative association. The term “bylaws” shall include the bylaws as amended or restated.\n\n(3) “Contribution”, except as used in § 29-1010.08(c), means a benefit that a person provides to a limited cooperative association to become or remain a member or in the person’s capacity as a member.\n\n(4) “Cooperative” means a limited cooperative association or an entity organized under any cooperative law of any jurisdiction.\n\n(5) “Director” means a director of a limited cooperative association.\n\n(6) “Distribution”, except as used in § 29-1010.07(e), means a transfer of money or other property from a limited cooperative association to a member because of the member’s financial rights or to a transferee of a member’s financial rights.\n\n(7) “Financial rights” means the right to participate in allocations and distributions as provided in subchapters X and XII of this chapter, but shall not include rights or obligations under a marketing contract governed by subchapter VII of this chapter.\n\n(8) “Foreign cooperative” means an entity organized in a jurisdiction other than the District under a law similar to this chapter.\n\n(9) “Investor member” means a member that has made a contribution to a limited cooperative association and is not:\n\n(A) Required by the organic rules to conduct patronage with the association in the member’s capacity as an investor member to receive the member’s interest; or\n\n(B) Permitted by the organic rules to conduct patronage with the association in the member’s capacity as an investor member in order to receive the member’s interest.\n\n(10) “Limited cooperative association”, “domestic limited cooperative association”, “association”, or “domestic association” means an association formed under this chapter or that becomes subject to this title under Chapter 2 of this title.\n\n(11) “Member” means a person that is admitted as a patron member or investor member, or both, in a limited cooperative association. The term “member” shall not include a person that has dissociated as a member.\n\n(12) “Member’s interest” means the interest of a patron member or investor member under § 29-1006.01.\n\n(13) “Members meeting” means an annual members meeting or special meeting of members.\n\n(14) “Organizer” means an individual who signs the initial articles of organization.\n\n(15) “Patron member” means a member that has made a contribution to a limited cooperative association and is:\n\n(A) Required by the organic rules to conduct patronage with the association in the member’s capacity as a patron member to receive the member’s interest; or\n\n(B) Permitted by the organic rules to conduct patronage with the association in the member’s capacity as a patron member to receive the member’s interest.\n\n(16) “Patronage” means business transactions between a limited cooperative association and a person which entitle the person to receive financial rights based on the value or quantity of business done between the association and the person.\n\n(17) “Registered foreign cooperative” means a foreign cooperative that is registered to do business in this state pursuant to a statement of registration filed by the Mayor.\n\n(18) “Required information” means the information a limited cooperative association is required to maintain under § 29-1001.10.\n\n(19) “Voting group” means any combination of one or more voting members in one or more districts or classes that under the organic rules or this chapter are entitled to vote and can be counted together collectively on a matter at a members meeting.\n\n(20) “Voting member” means a member that, under the organic law or organic rules, has a right to vote on matters subject to vote by members under the organic law or organic rules.\n\n(21) “Voting power” means the total current power of members to vote on a particular matter for which a vote may or is to be taken.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(j)(2)(A), 59 DCR 13171",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1001.02.html"
+    },
+    {
+      "id": "section-29-1001.03",
+      "number": "29-1001.03",
+      "heading": "Nature of limited cooperative association.",
+      "text": "(a) A limited cooperative association organized under this chapter shall be an autonomous, unincorporated association of persons united to meet their mutual interests through a jointly owned enterprise primarily controlled by those persons, which permits combining:\n\n(1) Ownership, financing, and receipt of benefits by the members for whose interests the association is formed; and\n\n(2) Separate investments in the association by members who may receive returns on their investments and a share of control.\n\n(b) The fact that a limited cooperative association does not have one or more of the characteristics described in subsection (a) of this section shall not alone prevent the association from being formed under, and governed by, this chapter and shall not alone provide a basis for an action against the association.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1001.03.html"
+    },
+    {
+      "id": "section-29-1001.04",
+      "number": "29-1001.04",
+      "heading": "Purpose and duration of limited cooperative association.",
+      "text": "(a) A limited cooperative association shall be an entity distinct from its members.\n\n(b) A limited cooperative association may be organized for any lawful purpose, whether or not for profit.\n\n(c) Unless the articles of organization state a term for a limited cooperative association’s existence, the association shall have perpetual duration.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1001.04.html"
+    },
+    {
+      "id": "section-29-1001.05",
+      "number": "29-1001.05",
+      "heading": "Powers.",
+      "text": "A limited cooperative association may sue and be sued in its own name and do all things necessary or convenient to carry on its activities affairs. An association may maintain an action against a member for harm caused to the association by the member’s violation of a duty to the association or of the organic law or organic rules.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(j)(2)(B), 59 DCR 13171",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1001.05.html"
+    },
+    {
+      "id": "section-29-1001.06",
+      "number": "29-1001.06",
+      "heading": "Governing law.",
+      "text": "The law of the District shall govern the:\n\n(1) Internal affairs of a limited cooperative association; and\n\n(2) Liability of a member as member and a director as director for the debts, obligations, or other liabilities of a limited cooperative association.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1001.06.html"
+    },
+    {
+      "id": "section-29-1001.07",
+      "number": "29-1001.07",
+      "heading": "Requirements of other laws.",
+      "text": "(a) This chapter shall not alter or amend any law that governs the licensing and regulation of an individual or entity in carrying on a specific business or profession even if that law permits the business or profession to be conducted by a limited cooperative association, a foreign cooperative, or its members.\n\n(b) A limited cooperative association shall not conduct an activity that, under law of the District other than this chapter, shall be conducted only by an entity that meets specific requirements for the internal affairs of that entity unless the organic rules of the association conform to those requirements.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1001.07.html"
+    },
+    {
+      "id": "section-29-1001.08",
+      "number": "29-1001.08",
+      "heading": "Relation to restraint of trade and antitrust laws.",
+      "text": "To the extent a limited cooperative association or activities conducted by the association in the District meet the material requirements for other cooperatives entitled to an exemption from or immunity under § 29-937, the association and its activities shall be entitled to the exemption or immunity. This section shall not create any new exemption or immunity for an association or affect any exemption or immunity provided to a cooperative organized under any other law.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1001.08.html"
+    },
+    {
+      "id": "section-29-1001.09",
+      "number": "29-1001.09",
+      "heading": "Effect of organic rules.",
+      "text": "(a) The relations between a limited cooperative association and its members shall be consensual. Unless required, limited, or prohibited by this chapter, the organic rules may provide for any matter concerning the relations among the members of the association and between the members and the association, the activities of the association, and the conduct of its activities.\n\n(b) The matters referred to in paragraphs (1) through (11) of this subsection shall be varied only in the articles of organization. The articles may:\n\n(1) State a term of existence for the association under § 29-1001.04(c);\n\n(2) Limit or eliminate the acceptance of new or additional members by the initial board of directors under § 29-1003.03(b);\n\n(3) Vary the limitations on the obligations and liability of members for association obligations under § 29-1005.04;\n\n(4) Require a notice of an annual members meeting to state a purpose of the meeting under § 29-1005.08(b);\n\n(5) Vary the board of directors meeting quorum under § 29-1008.15(a);\n\n(6) Vary the matters the board of directors may consider in making a decision under § 29-1008.20;\n\n(7) Specify causes of dissolution under § 29-1012.02(1);\n\n(8) Delegate amendment of the bylaws to the board of directors pursuant to § 29-1004.05(f);\n\n(9) Provide for member approval of asset dispositions under § 29-1014.01;\n\n(10) Subject to § 29-1008.20, provide for the elimination or limitation of liability of a director to the association or its members for money damages pursuant to § 29-1008.18;\n\n(11) Provide for permitting or making obligatory indemnification under § 29-1009.01(a); and\n\n(12) Provide for any matters that may be contained in the organic rules, including those under subsection (c) of this section.\n\n(c) The matters referred to in this subsection shall be varied only in the organic rules. The organic rules may:\n\n(1) Require more information to be maintained under § 29-1001.10 or provided to members under § 29-1005.05(k);\n\n(2) Provide restrictions on transactions between a member and an association under § 29-1001.11;\n\n(3) Provide for the percentage and manner of voting on amendments to the organic rules by district, class, or voting group under § 29-1004.04(a);\n\n(4) Provide for the percentage vote required to amend the bylaws concerning the admission of new members under § 29-1004.05(e)(5);\n\n(5) Provide for terms and conditions to become a member under § 29-1005.02;\n\n(6) Restrict the manner of conducting members meetings under §§ 29-1005.06(c) and 29-1005.07(e);\n\n(7) Designate the presiding officer of members meetings under §§ 29-1005.06(e) and 29-1005.07(g);\n\n(8) Require a statement of purposes in the annual meeting notice under § 29-1005.08(b);\n\n(9) Increase quorum requirements for members meetings under § 29-1005.10 and board of directors meetings under § 29-1008.15;\n\n(10) Allocate voting power among members, including patron members and investor members, and provide for the manner of member voting and action as permitted by §§ 29-1005.11 through 29-1005.17;\n\n(11) Authorize investor members and expand or restrict the transferability of members’ interests to the extent provided in §§ 29-1006.02 through 29-1006.04;\n\n(12) Provide for enforcement of a marketing contract under § 29-1007.04(a);\n\n(13) Provide for qualification, election, terms, removal, filling vacancies, and member approval for compensation of directors in accordance with §§ 29-1008.03 through 29-1008.05, 29-1008.07, 29-1008.09, and 29-1008.10;\n\n(14) Restrict the manner of conducting board meetings and taking action without a meeting under §§ 29-1008.11 and 29-1008.12;\n\n(15) Provide for frequency, location, notice, and waivers of notice for board meetings under §§ 29-1008.13 and 29-1008.14;\n\n(16) Increase the percentage of votes necessary for board action under § 29-1008.16(b);\n\n(17) Provide for the creation of committees of the board of directors and matters related to the committees in accordance with § 29-1008.17;\n\n(18) Provide for officers and their appointment, designation, and authority under § 29-1008.22;\n\n(19) Provide for forms and values of contributions under § 29-1010.02;\n\n(20) Provide for remedies for failure to make a contribution under § 29-1010.03(b);\n\n(21) Provide for the allocation of profits and losses of the association, distributions, and the redemption or repurchase of distributed property other than money in accordance with §§ 29-1010.04 through 29-1010.07;\n\n(22) Specify when a member’s dissociation is wrongful and the liability incurred by the dissociating member for damage to the association under § 29-1011.01(b) and (c);\n\n(23) Provide the personal representative, or other legal representative, of a deceased member or a member adjudged incompetent with additional rights under § 29-1011.03;\n\n(24) Increase the percentage of votes required for board of director approval of:\n\n(A) A resolution to dissolve under § 29-1012.05(a)(1);\n\n(B) A proposed amendment to the organic rules under § 29-1004.02(a)(1);\n\n(C) A transaction under Chapter 2 of this title;\n\n(D) A plan of merger under § 29-1015.03(a); and\n\n(E) A proposed disposition of assets under § 29-1014.03(1); and\n\n(25) Vary the percentage of votes required for members approval of:\n\n(A) A resolution to dissolve under § 29-1012.05;\n\n(B) An amendment to the organic rules under § 29-1004.05;\n\n(C) A plan of conversion under § 29-204.02;\n\n(D) A plan of merger under § 29-1015.04; and\n\n(E) A disposition of assets under § 29-1014.04.\n\n(d) The organic rules shall address members’ contributions pursuant to § 29-1010.01.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1001.09.html"
+    },
+    {
+      "id": "section-29-1001.10",
+      "number": "29-1001.10",
+      "heading": "Required information.",
+      "text": "(a) Subject to subsection (b) of this section, a limited cooperative association shall maintain in a record available at its principal office:\n\n(1) A list containing the name, last known street address and, if different, mailing address, and term of office of each director and officer;\n\n(2) The initial articles of organization and all amendments to and restatements of the articles, together with a signed copy of any power of attorney under which any article, amendment, or restatement has been signed;\n\n(3) The initial bylaws and all amendments to and restatements of the bylaws;\n\n(4) All filed articles of merger and statements filed under Chapter 2 of this title;\n\n(5) All financial statements of the association for the 6 most recent years;\n\n(6) The 6 most recent biennial reports delivered by the association to the Mayor;\n\n(7) The minutes of members meetings for the 6 most recent years;\n\n(8) Evidence of all actions taken by members without a meeting for the 6 most recent years;\n\n(9) A list containing:\n\n(A) The name, in alphabetical order, and last known street address and, if different, mailing address of each patron member and each investor member; and\n\n(B) If the association has districts or classes of members, information from which each current member in a district or class may be identified;\n\n(10) The federal income tax returns, any state and local income tax returns, and any tax reports of the association for the 6 most recent years;\n\n(11) Accounting records maintained by the association in the ordinary course of its operations for the 6 most recent years;\n\n(12) The minutes of directors meetings for the 6 most recent years;\n\n(13) Evidence of all actions taken by directors without a meeting for the 6 most recent years;\n\n(14) The amount of money contributed and agreed to be contributed by each member;\n\n(15) A description and statement of the agreed value of contributions other than money made and agreed to be made by each member;\n\n(16) The times at which, or events on the happening of which, any additional contribution is to be made by each member;\n\n(17) For each member, a description and statement of the member’s interest or information from which the description and statement can be derived; and\n\n(18) All communications concerning the association made in a record to all members, or to all members in a district or class, for the 6 most recent years.\n\n(b) If a limited cooperative association has existed for less than the period for which records must be maintained under subsection (a) of this section, the period for which records must be kept shall be the period of the association’s existence.\n\n(c) The organic rules may require that more information be maintained.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1001.10.html"
+    },
+    {
+      "id": "section-29-1001.11",
+      "number": "29-1001.11",
+      "heading": "Business transactions of member with limited cooperative association.",
+      "text": "Subject to §§ 29-1008.18 and 29-1008.19 and except as otherwise provided in the organic rules or a specific contract relating to a transaction, a member may lend money to and do other business with a limited cooperative association in the same manner as a person that is not a member.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1001.11.html"
+    },
+    {
+      "id": "section-29-1001.12",
+      "number": "29-1001.12",
+      "heading": "Dual capacity.",
+      "text": "A person may have a patron member’s interest and an investor member’s interest. When such person acts as a patron member, the person shall be subject to this chapter and the organic rules governing patron members. When such person acts as an investor member, the person shall be subject to this chapter and the organic rules governing investor members.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1001.12.html"
+    },
+    {
+      "id": "section-29-1001.13",
+      "number": "29-1001.13",
+      "heading": "Approval of entity transaction by limited cooperative association.",
+      "text": "(a) For a limited cooperative association to approve an entity transaction under subchapter XV of this chapter or Chapter 2 of this title, a plan must be approved by a majority of the board of directors, or a greater percentage if required by the organic rules, and the board of directors must call a members meeting to consider the plan, hold the meeting not later than 90 days after approval of the plan by the board, and mail or otherwise transmit or deliver in a record to each member:\n\n(1) The plan, or a summary of the plan and a statement of the manner in which a copy of the plan in a record may be reasonably obtained by a member;\n\n(2) A recommendation that the members approve the plan, or if the board determines that because of a conflict of interest or other circumstances it should not make a favorable recommendation, the basis for that determination;\n\n(3) A statement of any condition of the board’s submission of the plan to the members; and\n\n(4) Notice of the meeting at which the plan will be considered, which must be given in the same manner as notice of a special meeting of members.\n\n(b) Subject to subsections (c) and (d) of this section, a plan must be approved by:\n\n(1) At least two-thirds of the voting power of members present at a members meeting called under subsection (a) of this section; and\n\n(2) If the limited cooperative association has investor members, at least a majority of the votes cast by patron members, unless the organic rules require a greater percentage vote by patron members.\n\n(c) The organic rules may require that the percentage of votes under subsection (b)(1) of this section is:\n\n(1) A different percentage that is not less than a majority of members voting at the meeting;\n\n(2) Measured against the voting power of all members; or “(3) A combination of paragraphs (1) and (2) of this subsection.\n\n(d) The vote required to approve a plan may not be less than the vote required for the members of the limited cooperative association to amend the articles of organization.\n\n(e) Consent in a record to a plan by a member must be delivered to the limited cooperative association before delivery to the Mayor for filing of articles of merger, interest exchange, conversion, or domestication, if, as a result of the merger, interest exchange, conversion, or domestication, the member will have interest holder liability for debts, obligations, or other liabilities that arise after the transaction becomes effective.\n\n(f) The voting requirements for districts, classes, or voting groups under § 29-1004.04 apply to the approval of a transaction under this title.",
+      "history": "Mar. 5, 2013, D.C. Law 19-210, § 2(j)(2)(C), 59 DCR 13171",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1001.13.html"
+    },
+    {
+      "id": "section-29-1002.01",
+      "number": "29-1002.01",
+      "heading": "Signing of records delivered for filing to Mayor.",
+      "text": "A record delivered to the Mayor for filing pursuant to this chapter shall be signed as follows:\n\n(1) The initial articles of organization shall be signed by at least one organizer.\n\n(2) A statement of cancellation under § 29-1003.02(d) shall be signed by at least one organizer.\n\n(3) Except as otherwise provided in paragraph (4) of this subsection, a record signed on behalf of an existing limited cooperative association shall be signed by an officer.\n\n(4) A record filed on behalf of a dissolved association shall be signed by a person winding up activities under § 29-1012.06 or a person appointed under § 29-1012.06 to wind up those activities.\n\n(5) Any other record delivered on behalf of a person to the Mayor for filing must be signed by that person.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(j)(3)(A), 59 DCR 13171",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1002.01.html"
+    },
+    {
+      "id": "section-29-1002.02",
+      "number": "29-1002.02",
+      "heading": "Signing and filing of records pursuant to judicial order.",
+      "text": "(a) If a person required by this chapter to sign or deliver a record to the Mayor for filing does not do so, any other person that is aggrieved may petition the Superior Court to order:\n\n(1) The person to sign the record; or\n\n(2) The person to deliver the record to the Mayor for filing; or\n\n(3) The Mayor to file the record unsigned.\n\n(b) If the petitioner under subsection (a) of this section is not the limited cooperative association or foreign cooperative to which the record pertains, the petitioner shall make the association or cooperative a party to the action.\n\n(c) A record filed pursuant to this section is effective without being signed.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(j)(3)(B), 59 DCR 13171",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1002.02.html"
+    },
+    {
+      "id": "section-29-1002.03",
+      "number": "29-1002.03",
+      "heading": "Liability for inaccurate information in filed record.",
+      "text": "If a record delivered to the Mayor for filing under this chapter and filed by the Mayor contains inaccurate information, a person that suffers a loss by reliance on the information may recover damages for the loss from a person that signed the record or caused another to sign it on the person’s behalf and knew at the time the record was signed that the information was inaccurate.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1002.03.html"
+    },
+    {
+      "id": "section-29-1003.01",
+      "number": "29-1003.01",
+      "heading": "Organizers.",
+      "text": "A limited cooperative association shall be organized by one or more organizers.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1003.01.html"
+    },
+    {
+      "id": "section-29-1003.02",
+      "number": "29-1003.02",
+      "heading": "Formation of limited cooperative association; articles of organization.",
+      "text": "(a) To form a limited cooperative association, an organizer of the association must deliver articles of organization to the Mayor for filing. The articles shall state:\n\n(1) The name of the association, which shall comply with §§ 29-103.01 and 29-103.02(h);\n\n(2) The purposes for which the association is formed;\n\n(3) The street address and, if different, mailing address of the association’s initial principal office and the information required by § 29-104.04;\n\n(4) The name and street address and, if different, mailing address of each organizer; and\n\n(5) The term for which the association is to exist if other than perpetual.\n\n(b) Subject to § 29-1001.09(a), articles of organization may contain any other provisions in addition to those required by subsection (a) of this section.\n\n(c) A limited cooperative association shall be formed after articles of organization that substantially comply with subsection (a) of this section are delivered to the Mayor, are filed, and become effective under § 29-102.03.\n\n(d) If articles of organization filed by the Mayor state a delayed effective date, a limited cooperative association shall not be formed if, before the articles take effect, an organizer signs and delivers to the Mayor for filing a statement of cancellation.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1003.02.html"
+    },
+    {
+      "id": "section-29-1003.03",
+      "number": "29-1003.03",
+      "heading": "Organization of limited cooperative association.",
+      "text": "(a) After a limited cooperative association is formed:\n\n(1) If initial directors are named in the articles of organization, the initial directors shall hold an organizational meeting to adopt initial bylaws and carry on any other business necessary or proper to complete the organization of the association; or\n\n(2) If initial directors are not named in the articles of organization, the organizers shall designate the initial directors and call a meeting of the initial directors to adopt initial bylaws and carry on any other business necessary or proper to complete the organization of the association.\n\n(b) Unless the articles of organization otherwise provide, the initial directors may cause the limited cooperative association to accept members, including those necessary for the association to begin business.\n\n(c) Initial directors need not be members.\n\n(d) An initial director shall serve until a successor is elected and qualified at a members meeting or the director is removed, resigns, is adjudged incompetent, or dies.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1003.03.html"
+    },
+    {
+      "id": "section-29-1003.04",
+      "number": "29-1003.04",
+      "heading": "Bylaws.",
+      "text": "(a) Bylaws shall be in a record and, if not stated in the articles of organization, shall include:\n\n(1) A statement of the capital structure of the limited cooperative association, including:\n\n(A) The classes or other types of members’ interests and relative rights, preferences, and restrictions granted to or imposed upon each class or other type of member’s interest; and\n\n(B) The rights to share in profits or distributions of the association;\n\n(2) A statement of the method for admission of members;\n\n(3) A statement designating voting and other governance interests, including which members have voting power and any restriction on voting power;\n\n(4) A statement that a member’s interest is transferable if it is to be transferable and a statement of the conditions upon which it may be transferred;\n\n(5) A statement concerning the manner in which profits and losses are allocated, and distributions are made, among patron members and, if investor members are authorized, the manner in which profits and losses are allocated, and how distributions are made, among investor members and between patron members and investor members;\n\n(6) A statement concerning:\n\n(A) Whether persons that are not members but conduct business with the association may be permitted to share in allocations of profits and losses and receive distributions; and\n\n(B) The manner in which profits and losses are allocated and distributions are made with respect to those persons; and\n\n(7) A statement of the number and terms of directors or the method by which the number and terms are determined.\n\n(b) Subject to § 29-1001.09(c) and the articles of organization, bylaws may contain any other provision for managing and regulating the affairs of the association.\n\n(c) In addition to amendments permitted under subchapter IV of this chapter, the initial board of directors may amend the bylaws by a majority vote of the directors at any time before the admission of members.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1003.04.html"
+    },
+    {
+      "id": "section-29-1004.01",
+      "number": "29-1004.01",
+      "heading": "Authority to amend organic rules.",
+      "text": "(a) A limited cooperative association may amend its organic rules under this subchapter for any lawful purpose. In addition, the initial board of directors may amend the bylaws of an association under § 29-1003.04.\n\n(b) Unless the organic rules otherwise provide, a member shall not have a vested property right resulting from any provision in the organic rules, including a provision relating to the management, control, capital structure, distribution, entitlement, purpose, or duration of the limited cooperative association.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1004.01.html"
+    },
+    {
+      "id": "section-29-1004.02",
+      "number": "29-1004.02",
+      "heading": "Notice and action on amendment of organic rules.",
+      "text": "(a) Except as otherwise provided in §§ 29-1004.01(a) and 29-1004.05(f), the organic rules of a limited cooperative association shall be amended only at a members meeting. An amendment may be proposed by either:\n\n(1) A majority of the board of directors, or a greater percentage if required by the organic rules; or\n\n(2) One or more petitions signed by at least 10% of the patron members or at least 10% of the investor members.\n\n(b) The board of directors shall call a members meeting to consider an amendment proposed pursuant to subsection (a) of this section. The meeting shall be held not later than 90 days following the proposal of the amendment by the board or receipt of a petition. The board shall mail or otherwise transmit or deliver in a record to each member:\n\n(1) The proposed amendment, or a summary of the proposed amendment and a statement of the manner in which a copy of the amendment in a record may be reasonably obtained by a member;\n\n(2) A recommendation that the members approve the amendment or, if the board determines that because of conflict of interest or other special circumstances, it should not make a favorable recommendation, the basis for that determination;\n\n(3) A statement of any condition of the board’s submission of the amendment to the members; and\n\n(4) Notice of the meeting at which the proposed amendment will be considered, which shall be given in the same manner as notice for a special meeting of members.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1004.02.html"
+    },
+    {
+      "id": "section-29-1004.03",
+      "number": "29-1004.03",
+      "heading": "Method of voting on amendment of organic rules.",
+      "text": "(a) A substantive change to a proposed amendment of the organic rules shall not be made at the members meeting at which a vote on the amendment occurs.\n\n(b) A nonsubstantive change to a proposed amendment of the organic rules may be made at the members meeting at which the vote on the amendment occurs and need not be separately voted upon by the board of directors.\n\n(c) A vote to adopt a nonsubstantive change to a proposed amendment to the organic rules shall be by the same percentage of votes required to pass a proposed amendment.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1004.03.html"
+    },
+    {
+      "id": "section-29-1004.04",
+      "number": "29-1004.04",
+      "heading": "Voting by district, class, or voting group.",
+      "text": "(a) This section shall apply if the organic rules provide for voting by district or class or if there is one or more identifiable voting groups that a proposed amendment to the organic rules would affect differently from other members with respect to matters identified in § 29-1004.05(e)(1) through (5). Approval of the amendment shall require the same percentage of votes of the members of that district, class, or voting group required in §§ 29-1004.05 and 29-1005.14.\n\n(b) If a proposed amendment to the organic rules would affect members in 2 or more districts or classes entitled to vote separately under subsection (a) of this section in the same or a substantially similar way, the districts or classes affected shall vote as a single voting group unless the organic rules otherwise provide for separate voting.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1004.04.html"
+    },
+    {
+      "id": "section-29-1004.05",
+      "number": "29-1004.05",
+      "heading": "Approval of amendment.",
+      "text": "(a) Subject to § 29-1004.04 and subsections (c) and (d) of this section, an amendment to the articles of organization shall be approved by:\n\n(1) At least 2/3 of the voting power of members present at a members meeting called under § 29-1004.02; and\n\n(2) If the limited cooperative association has investor members, at least a majority of the votes cast by patron members, unless the organic rules require a greater percentage vote by patron members.\n\n(b) Subject to § 29-1004.04 and subsections (c), (d), (e) and (f) of this section, an amendment to the bylaws shall be approved by:\n\n(1) At least a majority vote of the voting power of all members present at a members meeting called under § 29-1004.02, unless the organic rules require a greater percentage; and\n\n(2) If a limited cooperative association has investor members, a majority of the votes cast by patron members, unless the organic rules require a larger affirmative vote by patron members.\n\n(c) The organic rules may require that the percentage of votes under subsection (a)(1) or (b)(1) of this section be:\n\n(1) A different percentage that is not less than a majority of members voting at the meeting;\n\n(2) Measured against the voting power of all members; or\n\n(3) A combination of paragraphs (1) and (2) of this subsection.\n\n(d) Consent in a record by a member shall be delivered to a limited cooperative association before delivery of an amendment to the articles of organization or restated articles of organization for filing pursuant to § 29-1004.07 if, as a result of the amendment, the member will have:\n\n(1) Personal liability for an obligation of the association; or\n\n(2) An obligation or liability for an additional contribution.\n\n(e) The vote required to amend bylaws shall satisfy the requirements of subsection (a) of this section if the proposed amendment modifies:\n\n(1) The equity capital structure of the limited cooperative association, including the rights of the association’s members to share in profits or distributions, or the relative rights, preferences, and restrictions granted to or imposed upon one or more districts, classes, or voting groups of similarly situated members;\n\n(2) The transferability of a member’s interest;\n\n(3) The manner or method of allocation of profits or losses among members;\n\n(4) The quorum for a meeting and the rights of voting and governance; or\n\n(5) Unless otherwise provided in the organic rules, the terms for admission of new members.\n\n(f) Except for the matters described in subsection (e) of this section, the articles of organization may delegate amendment of all or a part of the bylaws to the board of directors without requiring member approval.\n\n(g) If the articles of organization delegate amendment of bylaws to the board of directors, the board shall provide a description of any amendment of the bylaws made by the board to the members in a record not later than 30 days after the amendment, but the description may be provided at the next annual members meeting if the meeting is held within the 30-day period.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1004.05.html"
+    },
+    {
+      "id": "section-29-1004.06",
+      "number": "29-1004.06",
+      "heading": "Restated articles of organization.",
+      "text": "A limited cooperative association, by the affirmative vote of a majority of the board of directors taken at a meeting for which the purpose is stated in the notice of the meeting, may adopt restated articles of organization that contain the original articles as previously amended. Restated articles may contain amendments if the restated articles are adopted in the same manner and with the same vote as required for amendments to the articles under § 29-1004.05(a). Upon filing, restated articles shall supersede the existing articles and all amendments.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1004.06.html"
+    },
+    {
+      "id": "section-29-1004.07",
+      "number": "29-1004.07",
+      "heading": "Amendment or restatement of articles of organization; filing.",
+      "text": "(a) To amend its articles of organization, a limited cooperative association shall deliver to the Mayor for filing an amendment of the articles, restated articles of organization, or articles of merger pursuant to subchapter XV of this chapter, which contain one or more amendments of the articles of organization, stating:\n\n(1) The name of the association;\n\n(2) The date of filing of the association’s initial articles; and\n\n(3) The changes the amendment makes to the articles as most recently amended or restated.\n\n(b) Before the beginning of the initial meeting of the board of directors, an organizer who knows that information in the filed articles of organization was inaccurate when the articles were filed or has become inaccurate due to changed circumstances shall promptly:\n\n(1) Cause the articles to be amended; or\n\n(2) If appropriate, deliver an amendment to the Mayor for filing pursuant to § 29-102.01.\n\n(c) If restated articles of organization are adopted, the restated articles may be delivered to the Mayor for filing in the same manner as an amendment.\n\n(d) Upon filing, an amendment of the articles of organization or other record containing an amendment of the articles which has been properly adopted by the members is effective as provided in § 29-102.03.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1004.07.html"
+    },
+    {
+      "id": "section-29-1005.01",
+      "number": "29-1005.01",
+      "heading": "Members.",
+      "text": "To begin business, a limited cooperative association shall have at least 2 patron members unless the sole member is a cooperative.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1005.01.html"
+    },
+    {
+      "id": "section-29-1005.02",
+      "number": "29-1005.02",
+      "heading": "Becoming member.",
+      "text": "(a) If a limited cooperative association is to have only one cooperative member upon formation, the cooperative becomes a member as agreed by that cooperative and the organizer of the limited cooperative association. That cooperative and the organizer may be, but need not be, different persons. If different, the organizer acts on behalf of the initial cooperative member.\n\n(b) If a limited cooperative association is to have more than one member upon formation, those persons become members as agreed by the persons before the formation of the limited cooperative association. The organizer acts on behalf of the persons in forming the limited cooperative association and may be, but need not be, one of the persons.\n\n(c) After formation of a limited cooperative association, a person becomes a member:\n\n(1) As provided in the organic rules;\n\n(2) As the result of a transaction effective under subchapter XV of this chapter or Chapter 2 of this title;\n\n(3) With the consent of all the members; or\n\n(4) As provided in § 29-1012.02(3).",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(j)(4)(A), 59 DCR 13171",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1005.02.html"
+    },
+    {
+      "id": "section-29-1005.03",
+      "number": "29-1005.03",
+      "heading": "No agency power of member as member.",
+      "text": "(a) A member is not an agent of a limited cooperative association solely by reason of being a member.\n\n(b) A person’s status as a member does not prevent or restrict law other than this chapter from imposing liability on a limited cooperative association because of the person’s conduct.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(j)(4)(B), 59 DCR 13171",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1005.03.html"
+    },
+    {
+      "id": "section-29-1005.04",
+      "number": "29-1005.04",
+      "heading": "Liability of members and managers.",
+      "text": "(a) A debt, obligation, or other liability of a limited cooperative association is solely the debt, obligation, or other liability of the limited cooperative association. A member or manager of the limited cooperative association is not personally liable, directly or indirectly, by way of contribution or otherwise, for a debt, obligation, or other liability of the association solely by reason of being or acting as a member or manager of the association. This subsection applies regardless of the dissolution of the association.\n\n(b) The failure of a limited cooperative association to observe formalities relating to the exercise of its powers or management of its activities and affairs is not a ground for imposing liability on any member or manager of the association for any debt, obligation, or other liability of the association.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(j)(4)(C), 59 DCR 13171",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1005.04.html"
+    },
+    {
+      "id": "section-29-1005.05",
+      "number": "29-1005.05",
+      "heading": "Right of member and former member to information.",
+      "text": "(a) On reasonable notice a member may inspect and copy, at the principal office or a reasonable location specified by the limited cooperative association, required information listed in § 29-1001.10(a)(1) through (8) during regular business hours. A member need not have any particular purpose for seeking the information. The association shall not be required to provide the same information listed in § 29-1001.10(a)(2) through (8) to the same member more than once during a 6-month period.\n\n(b) On reasonable notice, a member may inspect and copy, at the principal office or a reasonable location specified by the limited cooperative association, required information listed in § 29-1001.10(a)(9), (10), (12), (13), (16), and (18) during regular business hours, if:\n\n(1) The member seeks the information in good faith and for a proper purpose reasonably related to the member’s interest;\n\n(2) The demand includes a description with reasonable particularity of the information sought and the purpose for seeking the information;\n\n(3) The information sought is directly connected to the member’s purpose; and\n\n(4) The demand is reasonable.\n\n(c) Not later than 10 business days after receipt of a demand pursuant to subsection (b) of this section, a limited cooperative association shall provide, in a record, the following information to the member that made the demand:\n\n(1) If the association agrees to provide the demanded information:\n\n(A) What information the association will provide in response to the demand; and\n\n(B) A reasonable time and place at which the association will provide the information; or\n\n(2) If the association declines to provide some or all of the demanded information, the association’s reasons for declining.\n\n(d) Not later than 10 business days after a limited cooperative association receives a demand made in a record, a dissociated member may have access to information to which the person was entitled while a member if the information pertains to the period during which the person was a member, the person seeks the information in good faith, and the person satisfies the requirements imposed on a member by subsection (b)(2) of this section. The association shall respond to a demand made pursuant to this subsection in the manner provided in subsection (c) of this section.\n\n(e) Not later than 10 business days after receipt by a limited cooperative association of a demand made by a member in a record, but not more often than once in a 6-month period, the association shall deliver to the member a record stating the information with respect to the member required by § 29-1001.10(a)(17).\n\n(f) In addition to any restriction or condition stated in its organic rules, a limited cooperative association, as a matter within the ordinary course of its activities and affairs, may impose reasonable restrictions and conditions on access to and use of information to be furnished under this section, including designating information as confidential and imposing nondisclosure and safeguarding obligations on the recipient. In a dispute concerning the reasonableness of a restriction under this subsection, the association shall have the burden of proving reasonableness.\n\n(g) A limited cooperative association may charge a person that makes a demand under this section reasonable costs of copying, limited to the costs of labor and material.\n\n(h) A member or dissociated member may exercise rights under this section through an agent or, in the case of an individual under legal disability, a legal representative. Any restriction or condition imposed by the organic rules or subsection (f) of this section applies both to the agent or legal representative and the member or dissociated member.\n\n(i) The rights stated in this section shall not extend to a person as transferee.\n\n(j) The organic rules may require a limited cooperative association to provide more information than required by this section and may establish conditions and procedures for providing the information.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(j)(4)(D), 59 DCR 13171",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1005.05.html"
+    },
+    {
+      "id": "section-29-1005.06",
+      "number": "29-1005.06",
+      "heading": "Annual meeting of members.",
+      "text": "(a) Members shall meet annually at a time provided in the organic rules or set by the board of directors not inconsistent with the organic rules.\n\n(b) An annual members meeting may be held inside or outside the District at the place stated in the organic rules or selected by the board of directors not inconsistent with the organic rules.\n\n(c) Members may attend or conduct an annual members meeting through any means of communication if all members attending the meeting can communicate with each other during the meeting.\n\n(d) The board of directors shall report, or cause to be reported, at the association’s annual members meeting the association’s business and financial condition as of the close of the most recent fiscal year.\n\n(e) Unless the organic rules otherwise provide, the board of directors shall designate the presiding officer of the association’s annual members meeting.\n\n(f) Failure to hold an annual members meeting shall not affect the validity of any action by the limited cooperative association.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1005.06.html"
+    },
+    {
+      "id": "section-29-1005.07",
+      "number": "29-1005.07",
+      "heading": "Special meeting of members.",
+      "text": "(a) A special meeting of members shall be called only:\n\n(1) As provided in the organic rules;\n\n(2) By a majority vote of the board of directors on a proposal stating the purpose of the meeting;\n\n(3) By demand in a record signed by members holding at least 20% of the voting power of the persons in any district or class entitled to vote on the matter that is the purpose of the meeting stated in the demand; or\n\n(4) By demand in a record signed by members holding at least 10% of the total voting power of all the persons entitled to vote on the matter that is the purpose of the meeting stated in the demand.\n\n(b) A demand under subsection (a)(3) or (4) of this section shall be submitted to the officer of the limited cooperative association charged with keeping its records.\n\n(c) Any voting member may withdraw its demand under subsection (a)(3) or (4) of this section before receipt by the limited cooperative association of demands sufficient to require a special meeting of members.\n\n(d) A special meeting of members may be held inside or outside the District at the place stated in the organic rules or selected by the board of directors not inconsistent with the organic rules.\n\n(e) Members may attend or conduct a special meeting of members through the use of any means of communication if all members attending the meeting can communicate with each other during the meeting.\n\n(f) Only business within the purpose or purposes stated in the notice of a special meeting of members shall be conducted at the meeting.\n\n(g) Unless the organic rules otherwise provide, the presiding officer of a special meeting of members shall be designated by the board of directors.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1005.07.html"
+    },
+    {
+      "id": "section-29-1005.08",
+      "number": "29-1005.08",
+      "heading": "Notice of members meeting.",
+      "text": "(a) A limited cooperative association shall notify each member of the time, date, and place of a members meeting at least 15, and not more than 60, days before the meeting.\n\n(b) Unless the articles of organization otherwise provide, notice of an annual members meeting need not include any purpose of the meeting.\n\n(c) Notice of a special meeting of members shall include each purpose of the meeting as contained in the demand under § 29-1005.07(a)(3) or (4) or as voted upon by the board of directors under § 29-1005.07(a)(2).\n\n(d) Notice of a members meeting shall be given in a record unless oral notice is reasonable under the circumstances.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1005.08.html"
+    },
+    {
+      "id": "section-29-1005.09",
+      "number": "29-1005.09",
+      "heading": "Waiver of members meeting notice.",
+      "text": "(a) A member may waive notice of a members meeting before, during, or after the meeting.\n\n(b) A member’s participation in a members meeting shall be a waiver of notice of that meeting unless the member objects to the meeting at the beginning of the meeting or promptly upon the member’s arrival at the meeting and does not thereafter vote for or assent to action taken at the meeting.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1005.09.html"
+    },
+    {
+      "id": "section-29-1005.10",
+      "number": "29-1005.10",
+      "heading": "Quorum of members.",
+      "text": "Unless the organic rules otherwise require a greater number of members or percentage of the voting power, the voting member or members present at a members meeting shall constitute a quorum.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1005.10.html"
+    },
+    {
+      "id": "section-29-1005.11",
+      "number": "29-1005.11",
+      "heading": "Voting by patron members.",
+      "text": "Except as otherwise provided by § 29-1005.12(a), each patron member shall have one vote. The organic rules may allocate voting power among patron members as provided in § 29-1005.12(a).",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1005.11.html"
+    },
+    {
+      "id": "section-29-1005.12",
+      "number": "29-1005.12",
+      "heading": "Determination of voting power of patron member.",
+      "text": "(a) The organic rules may allocate voting power among patron members on the basis of one or a combination of the following:\n\n(1) One member, one vote;\n\n(2) Use or patronage;\n\n(3) Equity; or\n\n(4) If a patron member is a cooperative, the number of its patron members.\n\n(b) The organic rules may provide for the allocation of patron member voting power by districts or class, or any combination thereof.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1005.12.html"
+    },
+    {
+      "id": "section-29-1005.13",
+      "number": "29-1005.13",
+      "heading": "Voting by investor members.",
+      "text": "If the organic rules provide for investor members, each investor member shall have one vote, unless the organic rules otherwise provide. The organic rules may provide for the allocation of investor member voting power by class, classes, or any combination of classes.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1005.13.html"
+    },
+    {
+      "id": "section-29-1005.14",
+      "number": "29-1005.14",
+      "heading": "Voting requirements for members.",
+      "text": "If a limited cooperative association has both patron and investor members, the following rules shall apply:\n\n(1) The total voting power of all patron members shall not be less than a majority of the entire voting power entitled to vote.\n\n(2) Action on any matter shall be approved only upon the affirmative vote of at least a majority of:\n\n(A) All members voting at the meeting unless more than a majority is required by subchapters IV, XII, XIV, or XV of this chapter or the organic rules; and\n\n(B) Votes cast by patron members unless the organic rules require a larger affirmative vote by patron members.\n\n(3) The organic rules may provide for the percentage of the affirmative votes that must be cast by investor members to approve the matter.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1005.14.html"
+    },
+    {
+      "id": "section-29-1005.15",
+      "number": "29-1005.15",
+      "heading": "Manner of voting.",
+      "text": "(a) Unless the organic rules otherwise provide, voting by a proxy at a members meeting shall be prohibited. This subsection shall not prohibit delegate voting based on district or class.\n\n(b) If voting by a proxy is permitted, a patron member shall appoint only another patron member as a proxy and, if investor members are permitted, an investor member shall appoint only another investor member as a proxy.\n\n(c) The organic rules may provide for the manner of, and provisions governing, the appointment of a proxy.\n\n(d) The organic rules may provide for voting on any question by ballot delivered by mail or voting by other means on questions that are subject to vote by members.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1005.15.html"
+    },
+    {
+      "id": "section-29-1005.16",
+      "number": "29-1005.16",
+      "heading": "Action without a meeting.",
+      "text": "(a) Unless the organic rules require that action be taken only at a members meeting, any action that may be taken by the members may be taken without a meeting if each member entitled to vote on the action consents in a record to the action.\n\n(b) Consent under subsection (a) of this section may be withdrawn by a member in a record at any time before the limited cooperative association receives a consent from each member entitled to vote.\n\n(c) Consent to any action may specify the effective date or time of the action.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1005.16.html"
+    },
+    {
+      "id": "section-29-1005.17",
+      "number": "29-1005.17",
+      "heading": "Districts and delegates; classes of members.",
+      "text": "(a) The organic rules may provide for the formation of geographic districts of patron members and:\n\n(1) For the conduct of patron member meetings by districts and the election of directors at the meetings; or\n\n(2) That districts may elect district delegates to represent and vote for the district at members meetings.\n\n(b) A delegate elected under subsection (a)(2) of this section shall have one vote unless voting power is otherwise allocated by the organic rules.\n\n(c) The organic rules may provide for the establishment of classes of members, for the preferences, rights, and limitations of the classes, and:\n\n(1) For the conduct of members meetings by classes and the election of directors at the meetings; or\n\n(2) That classes may elect class delegates to represent and vote for the class in members meetings.\n\n(d) A delegate elected under subsection (c)(2) of this section shall have one vote unless voting power is otherwise allocated by the organic rules.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1005.17.html"
+    },
+    {
+      "id": "section-29-1006.01",
+      "number": "29-1006.01",
+      "heading": "Member’s interest.",
+      "text": "A member’s interest shall:\n\n(1) Be personal property;\n\n(2) Consist of:\n\n(A) Governance interests;\n\n(B) Financial rights; and\n\n(C) The right or obligation, if any, to do business with the limited cooperative association; and\n\n(3) May be in certificated or uncertificated form.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1006.01.html"
+    },
+    {
+      "id": "section-29-1006.02",
+      "number": "29-1006.02",
+      "heading": "Patron and investor members’ interests.",
+      "text": "(a) Unless the organic rules establish investor members’ interests, a member’s interest shall be a patron member’s interest.\n\n(b) Unless the organic rules otherwise provide, if a limited cooperative association has investor members, while a person is a member of the association, the person, if admitted as:\n\n(1) A patron member, shall remain a patron member;\n\n(2) An investor member, shall remain an investor member; and\n\n(3) A patron member and investor member, shall remain a patron and investor member if not dissociated in one of the capacities.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1006.02.html"
+    },
+    {
+      "id": "section-29-1006.03",
+      "number": "29-1006.03",
+      "heading": "Transferability of member’s interest.",
+      "text": "(a) The provisions of this chapter relating to the transferability of a member’s interest shall be subject to Subtitle I of Title 28.\n\n(b) Unless the organic rules otherwise provide, a member’s interest other than financial rights shall not be transferable.\n\n(c) Unless a transfer is restricted or prohibited by the organic rules, a member may transfer its financial rights in the limited cooperative association.\n\n(d) The terms of any restriction on transferability of financial rights shall be:\n\n(1) Set forth in the organic rules and the member records of the association; and\n\n(2) Conspicuously noted on any certificates evidencing a member’s interest.\n\n(e) A transferee of a member’s financial rights, to the extent the rights are transferred, shall have the right to share in the allocation of profits or losses and to receive the distributions to the member transferring the interest to the same extent as the transferring member.\n\n(f) A transferee of a member’s financial rights shall not become a member upon transfer of the rights unless the transferee is admitted as a member by the limited cooperative association.\n\n(g) A limited cooperative association need not give effect to a transfer under this section until the association has notice of the transfer.\n\n(h) A transfer of a member’s financial rights in violation of a restriction on transfer contained in the organic rules shall be ineffective as to a person having notice of the restriction at the time of transfer.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1006.03.html"
+    },
+    {
+      "id": "section-29-1006.04",
+      "number": "29-1006.04",
+      "heading": "Security interest and set-off.",
+      "text": "(a) A member or transferee may create an enforceable security interest in its financial rights in a limited cooperative association.\n\n(b) Unless the organic rules otherwise provide, a member shall not create an enforceable security interest in the member’s governance interests in a limited cooperative association.\n\n(c) The organic rules may provide that a limited cooperative association has a security interest in the financial rights of a member to secure payment of any indebtedness or other obligation of the member to the association. A security interest provided for in the organic rules shall be enforceable under, and governed by, Article 9 of Subtitle I of Title 28.\n\n(d) Unless the organic rules otherwise provide, a member shall not compel the limited cooperative association to offset financial rights against any indebtedness or obligation owed to the association.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1006.04.html"
+    },
+    {
+      "id": "section-29-1006.05",
+      "number": "29-1006.05",
+      "heading": "Charging order.",
+      "text": "(a) On application by a judgment creditor of a member or transferee, a court may enter a charging order against the financial rights of the judgment debtor for the unsatisfied amount of the judgment. Except as otherwise provided in subsection (b) of this section, a charging order constitutes a lien on the judgment debtor’s financial rights and require the limited cooperative association to pay over to the person to whom the charging order was issued any distribution that would otherwise be paid to the judgment debtor.\n\n(b) To the extent necessary to effectuate the collection of distributions pursuant to a charging order under subsection (a) of this section, the court may:\n\n(1) Appoint a receiver of the distributions subject to the charging order with the power to make all inquiries the judgment debtor might have made; and\n\n(2) Make all other orders necessary to give effect to the charging order.\n\n(c) Upon a showing that distributions under a charging order will not pay the judgment debt within a reasonable time, the court may foreclose the lien and order the sale of the financial rights. Except as otherwise provided in subsection (f) of this section, the purchaser at the foreclosure sale shall obtain only the financial rights that are subject to the charging order, shall not thereby become a member, and shall be subject to § 29-1006.03.\n\n(d) At any time before a foreclosure under subsection (c) of this section, a member or transferee whose financial rights are subject to a charging order under subsection (a) of this subsection may extinguish the charging order by satisfying the judgment and filing a certified copy of the satisfaction with the court that issued the charging order.\n\n(e) At any time before foreclosure under subsection (c) of this section, the limited cooperative association or one or more members whose financial rights are not subject to the charging order may pay to the judgment creditor the full amount due under the judgment and thereby succeed to the rights of the judgment creditor, including the charging order.\n\n(f) If a court forecloses a charging order lien against the sole member of a limited cooperative association:\n\n(1) The court shall confirm the sale;\n\n(2) The purchaser at the sale obtains the member’s entire interest, not only the member’s financial rights;\n\n(3) The purchaser thereby becomes a member; and\n\n(4) The person whose interest was subject to the foreclosed charging order is dissociated as a member.\n\n(g) This chapter shall not deprive any member or transferee of the benefit of any exemption laws applicable to the member’s or transferee’s financial rights.\n\n(h) This section provides the exclusive remedy by which a person seeking to enforce a judgment against a member or transferee, in the capacity of judgment creditor, may satisfy the judgment from the member’s or transferee’s financial rights.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(j)(5), 59 DCR 13171",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1006.05.html"
+    },
+    {
+      "id": "section-29-1007.01",
+      "number": "29-1007.01",
+      "heading": "Authority.",
+      "text": "For the purposes of this subchapter, the term “marketing contract” means a contract between a limited cooperative association and another person, that need not be a patron member:\n\n(1) Requiring the other person to sell, or deliver for sale or marketing on the person’s behalf, a specified part of the person’s products, commodities, or goods exclusively to or through the association or any facilities furnished by the association; or\n\n(2) Authorizing the association to act for the person in any manner with respect to the products, commodities, or goods.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1007.01.html"
+    },
+    {
+      "id": "section-29-1007.02",
+      "number": "29-1007.02",
+      "heading": "Marketing contracts.",
+      "text": "(a) If a marketing contract provides for the sale of products, commodities, or goods to a limited cooperative association, the sale shall transfer title to the association upon delivery or at any other specific time expressly provided by the contract.\n\n(b) A marketing contract may:\n\n(1) Authorize a limited cooperative association to create an enforceable security interest in the products, commodities, or goods delivered; and\n\n(2) Allow the association to sell the products, commodities, or goods delivered, and pay the sales price, on a pooled or other basis after deducting selling costs, processing costs, overhead, expenses, and other charges.\n\n(c) Some or all of the provisions of a marketing contract between a patron member and a limited cooperative association may be contained in the organic rules.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1007.02.html"
+    },
+    {
+      "id": "section-29-1007.03",
+      "number": "29-1007.03",
+      "heading": "Duration of marketing contract.",
+      "text": "The initial duration of a marketing contract shall not exceed 10 years, but the contract may be self-renewing for additional periods not exceeding 5 years each. Unless the contract provides for another manner or time for termination, either party may terminate the contract by giving notice in a record at least 90 days before the end of the current term.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1007.03.html"
+    },
+    {
+      "id": "section-29-1007.04",
+      "number": "29-1007.04",
+      "heading": "Remedies for breach of contract.",
+      "text": "(a) Damages to be paid to a limited cooperative association for breach or anticipatory repudiation of a marketing contract may be liquidated, but only at an amount or under a formula that is reasonable in light of the actual or anticipated harm caused by the breach or repudiation. A provision that so provides shall not be a penalty.\n\n(b) Upon a breach of a marketing contract, whether by anticipatory repudiation or otherwise, a limited cooperative association may seek:\n\n(1) An injunction to prevent further breach; and\n\n(2) Specific performance.\n\n(c) The remedies in this section are in addition to any other remedies available to an association under law other than this chapter.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1007.04.html"
+    },
+    {
+      "id": "section-29-1008.01",
+      "number": "29-1008.01",
+      "heading": "Board of directors.",
+      "text": "(a) A limited cooperative association shall have a board of directors of at least 3 individuals, unless the association has fewer than 3 members. If the association has fewer than 3 members, the number of directors shall not be fewer than the number of members.\n\n(b) The affairs of a limited cooperative association shall be managed by, or under the direction of, the board of directors. The board may adopt policies and procedures that do not conflict with the organic rules or this chapter.\n\n(c) An individual shall not be an agent for a limited cooperative association solely by being a director.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1008.01.html"
+    },
+    {
+      "id": "section-29-1008.02",
+      "number": "29-1008.02",
+      "heading": "No liability as director for limited cooperative association’s obligations.",
+      "text": "A debt, obligation, or other liability of a limited cooperative association shall be solely that of the association and shall not be a debt, obligation, or liability of a director solely by reason of being a director. An individual shall not be personally liable, directly or indirectly, for an obligation of an association solely by reason of being a director.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1008.02.html"
+    },
+    {
+      "id": "section-29-1008.03",
+      "number": "29-1008.03",
+      "heading": "Qualifications of directors.",
+      "text": "(a) Unless the organic rules otherwise provide, and subject to subsection (c) of this section, each director of a limited cooperative association shall be an individual who is a member of the association or an individual who is designated by a member that is not an individual for purposes of qualifying and serving as a director. Initial directors need not be members.\n\n(b) Unless the organic rules otherwise provide, a director may be an officer or employee of the limited cooperative association.\n\n(c) If the organic rules provide for nonmember directors, the number of nonmember directors shall not exceed:\n\n(1) One, if there are 2 through 4 directors;\n\n(2) Two, if there are 5 through 8 directors; or\n\n(3) One-third of the total number of directors if there are at least 9 directors.\n\n(d) The organic rules may provide qualifications for directors in addition to those in this section.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1008.03.html"
+    },
+    {
+      "id": "section-29-1008.04",
+      "number": "29-1008.04",
+      "heading": "Election of directors and composition of board.",
+      "text": "(a) Unless the organic rules require a greater number:\n\n(1) The number of directors that shall be patron members may not be fewer than:\n\n(A) One, if there are 2 or 3 directors;\n\n(B) Two, if there are 4 or 5 directors;\n\n(C) Three if there are 6 through 8 directors; or\n\n(D) One-third of the directors if there are at least 9 directors; and\n\n(2) A majority of the board of directors shall be elected exclusively by patron members.\n\n(b) Unless the organic rules otherwise provide, if a limited cooperative association has investor members, the directors who are not elected exclusively by patron members shall be elected by the investor members.\n\n(c) Subject to subsection (a) of this section, the organic rules may provide for the election of all or a specified number of directors by one or more districts or classes of members.\n\n(d) Subject to subsection (a) of this section, the organic rules may provide for the nomination or election of directors by districts or classes, directly or by district delegates.\n\n(e) If a class of members consists of a single member, the organic rules may provide for the member to appoint a director or directors.\n\n(f) Unless the organic rules otherwise provide, cumulative voting for directors shall be prohibited.\n\n(g) Except as otherwise provided in the organic rules, subsection (e) of this section, or §§ 29-1003.03, 29-1005.16, 29-1005.17, and 29-1008.09, member directors shall be elected at an annual members meeting.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1008.04.html"
+    },
+    {
+      "id": "section-29-1008.05",
+      "number": "29-1008.05",
+      "heading": "Term of director.",
+      "text": "(a) Unless the organic rules otherwise provide, and subject to subsections (c) and (d) and § 29-1003.03(c), the term of a director shall expire at the annual members meeting following the director’s election or appointment. The term of a director shall not exceed 3 years.\n\n(b) Unless the organic rules otherwise provide, a director may be reelected.\n\n(c) Except as otherwise provided in subsection (d) of this section, a director shall continue to serve until a successor director is elected or appointed and qualifies or the director is removed, resigns, is adjudged incompetent, or dies.\n\n(d) Unless the organic rules otherwise provide, a director shall not serve the remainder of the director’s term if the director ceases to qualify to be a director.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1008.05.html"
+    },
+    {
+      "id": "section-29-1008.06",
+      "number": "29-1008.06",
+      "heading": "Resignation of director.",
+      "text": "A director may resign at any time by giving notice in a record to the limited cooperative association. Unless the notice states a later effective date, a resignation shall be effective when the notice is received by the association.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1008.06.html"
+    },
+    {
+      "id": "section-29-1008.07",
+      "number": "29-1008.07",
+      "heading": "Removal of director.",
+      "text": "Unless the organic rules otherwise provide, the following rules shall apply:\n\n(1) Members may remove a director with or without cause.\n\n(2) A member or members holding at least 10% of the total voting power entitled to be voted in the election of a director may demand removal of the director by one or more signed petitions submitted to the officer of the limited cooperative association charged with keeping its records.\n\n(3) Upon receipt of a petition for removal of a director, an officer of the association or the board of directors shall:\n\n(A) Call a special meeting of members to be held not later than 90 days after receipt of the petition by the association; and\n\n(B) Mail or otherwise transmit or deliver in a record to the members entitled to vote on the removal, and to the director to be removed, notice of the meeting which complies with § 29-1005.08.\n\n(4) A director shall be removed if the votes in favor of removal are equal to or greater than the votes required to elect the director.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1008.07.html"
+    },
+    {
+      "id": "section-29-1008.08",
+      "number": "29-1008.08",
+      "heading": "Suspension of director by board.",
+      "text": "(a) A board of directors may suspend a director if, considering the director’s course of conduct and the inadequacy of other available remedies, immediate suspension is necessary for the best interests of the association and the director is engaging, or has engaged, in:\n\n(1) Fraudulent conduct with respect to the association or its members;\n\n(2) Gross abuse of the position of director;\n\n(3) Intentional or reckless infliction of harm on the association; or\n\n(4) Any other behavior, act, or omission as provided by the organic rules.\n\n(b) A suspension under subsection (a) of this section shall be effective for 30 days unless the board of directors calls, and gives notice of, a special meeting of members for removal of the director before the end of the 30-day period, in which case the suspension shall be effective until adjournment of the meeting or the director is removed.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1008.08.html"
+    },
+    {
+      "id": "section-29-1008.09",
+      "number": "29-1008.09",
+      "heading": "Vacancy on board.",
+      "text": "(a) Unless the organic rules otherwise provide, a vacancy on the board of directors shall be filled:\n\n(1) Within a reasonable time by majority vote of the remaining directors until the next annual members meeting or a special meeting of members called to fill the vacancy; and\n\n(2) For the unexpired term by members at the next annual members meeting or a special meeting of members called to fill the vacancy.\n\n(b) Unless the organic rules otherwise provide, if a vacating director was elected or appointed by a class of members or a district:\n\n(1) The new director shall be of that class or district; and\n\n(2) The selection of the director for the unexpired term shall be conducted in the same manner as would the selection for that position without a vacancy.\n\n(c) If a member appointed a vacating director, the organic rules may provide for that member to appoint a director to fill the vacancy.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1008.09.html"
+    },
+    {
+      "id": "section-29-1008.10",
+      "number": "29-1008.10",
+      "heading": "Remuneration of directors.",
+      "text": "Unless the organic rules otherwise provide, the board of directors may set the remuneration of directors and of nondirector committee members appointed under § 29-1008.17(a).",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1008.10.html"
+    },
+    {
+      "id": "section-29-1008.11",
+      "number": "29-1008.11",
+      "heading": "Meetings.",
+      "text": "(a) A board of directors shall meet at least annually and may hold meetings inside or outside the District.\n\n(b) A board of directors may permit directors to attend or conduct board meetings through the use of any means of communication if all directors attending the meeting can communicate with each other during the meeting.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1008.11.html"
+    },
+    {
+      "id": "section-29-1008.12",
+      "number": "29-1008.12",
+      "heading": "Action without meeting.",
+      "text": "(a) Unless prohibited by the organic rules, any action that may be taken by a board of directors may be taken without a meeting if each director consents in a record to the action.\n\n(b) Consent under subsection (a) of this section may be withdrawn by a director in a record at any time before the limited cooperative association receives consent from all directors.\n\n(c) A record of consent for any action under subsection (a) of this section may specify the effective date or time of the action.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1008.12.html"
+    },
+    {
+      "id": "section-29-1008.13",
+      "number": "29-1008.13",
+      "heading": "Meetings and notice.",
+      "text": "(a) Unless the organic rules otherwise provide, a board of directors may establish a time, date, and place for regular board meetings, and notice of the time, date, place, or purpose of those meetings shall not be required.\n\n(b) Unless the organic rules otherwise provide, notice of the time, date, and place of a special meeting of a board of directors shall be given to all directors at least 3 days before the meeting, the notice shall contain a statement of the purpose of the meeting, and the meeting shall be limited to the matters contained in the statement.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1008.13.html"
+    },
+    {
+      "id": "section-29-1008.14",
+      "number": "29-1008.14",
+      "heading": "Waiver of notice of meeting.",
+      "text": "(a) Unless the organic rules otherwise provide, a director may waive any required notice of a meeting of the board of directors in a record before, during, or after the meeting.\n\n(b) Unless the organic rules otherwise provide, a director’s participation in a meeting shall be a waiver of notice of that meeting unless the director:\n\n(1) Objects to the meeting at the beginning of the meeting or promptly upon the director’s arrival at the meeting and does not thereafter vote in favor of or otherwise assent to the action taken at the meeting; or\n\n(2) Promptly objects upon the introduction of any matter for which notice under § 29-1008.13 has not been given and does not thereafter vote in favor of or otherwise assent to the action taken on the matter.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1008.14.html"
+    },
+    {
+      "id": "section-29-1008.15",
+      "number": "29-1008.15",
+      "heading": "Quorum.",
+      "text": "(a) Unless the articles of organization provide for a greater number, a majority of the total number of directors specified by the organic rules shall constitute a quorum for a meeting of the directors.\n\n(b) If a quorum of the board of directors is present at the beginning of a meeting, any action taken by the directors present shall be valid even if withdrawal of directors originally present results in the number of directors being fewer than the number required for a quorum.\n\n(c) A director present at a meeting but objecting to notice under § 29-1008.14(b)(1) or (2) shall not count toward a quorum.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1008.15.html"
+    },
+    {
+      "id": "section-29-1008.16",
+      "number": "29-1008.16",
+      "heading": "Voting.",
+      "text": "(a) Each director shall have one vote for purposes of decisions made by the board of directors.\n\n(b) Unless the organic rules otherwise provide, the affirmative vote of a majority of directors present at a meeting shall be required for action by the board of directors.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1008.16.html"
+    },
+    {
+      "id": "section-29-1008.17",
+      "number": "29-1008.17",
+      "heading": "Committees.",
+      "text": "(a) Unless the organic rules otherwise provide, a board of directors may create one or more committees and appoint one or more individuals to serve on a committee.\n\n(b) Unless the organic rules otherwise provide, an individual appointed to serve on a committee of a limited cooperative association need not be a director or member.\n\n(c) An individual who is not a director and is serving on a committee shall have the same rights, duties, and obligations as a director serving on the committee.\n\n(d) Unless the organic rules otherwise provide each committee of a limited cooperative association may exercise the powers delegated to it by the board of directors, but a committee shall not:\n\n(1) Approve allocations or distributions except according to a formula or method prescribed by the board of directors;\n\n(2) Approve or propose to members action requiring approval of members; or\n\n(3) Fill vacancies on the board of directors or any of its committees.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1008.17.html"
+    },
+    {
+      "id": "section-29-1008.18",
+      "number": "29-1008.18",
+      "heading": "Standards of conduct and liability.",
+      "text": "Except as otherwise provided in § 29-1008.20:\n\n(1) The discharge of the duties of a director or member of a committee of the board of directors shall be governed by the law applicable to directors of entities organized under Chapter 3 of this title; and\n\n(2) The liability of a director or member of a committee of the board of directors shall be governed by the law applicable to directors of entities organized under Chapter 3 of this title.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1008.18.html"
+    },
+    {
+      "id": "section-29-1008.19",
+      "number": "29-1008.19",
+      "heading": "Conflict of interest.",
+      "text": "(a) The law applicable to conflicts of interest between a director of an entity organized under Chapter 3 of this title shall govern conflicts of interest between a limited cooperative association and a director or member of a committee of the board of directors.\n\n(b) A director shall not have a conflict of interest under this chapter or the organic rules solely because the director’s conduct relating to the duties of the director may further the director’s own interest.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1008.19.html"
+    },
+    {
+      "id": "section-29-1008.20",
+      "number": "29-1008.20",
+      "heading": "Other considerations of directors.",
+      "text": "Unless the articles of organization otherwise provide, in considering the best interests of a limited cooperative association, a director of the association in discharging the duties of director, in conjunction with considering the long and short term interest of the association and its patron members, may consider:\n\n(1) The interest of employees, customers, and suppliers of the association;\n\n(2) The interest of the community in which the association operates; and\n\n(3) Other cooperative principles and values that may be applied in the context of the decision.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1008.20.html"
+    },
+    {
+      "id": "section-29-1008.21",
+      "number": "29-1008.21",
+      "heading": "Right of director or committee member to information.",
+      "text": "A director or a member of a committee appointed under § 29-1008.17 may obtain, inspect, and copy all information regarding the state of activities and financial condition of the limited cooperative association and other information regarding the activities of the association if the information is reasonably related to the performance of the director’s duties as director or the committee member’s duties as a member of the committee. Information obtained in accordance with this section shall not be used in any manner that would violate any duty of or to the association.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1008.21.html"
+    },
+    {
+      "id": "section-29-1008.22",
+      "number": "29-1008.22",
+      "heading": "Appointment and authority of officers.",
+      "text": "(a) A limited cooperative association shall have the officers:\n\n(1) Provided in the organic rules; or\n\n(2) Established by the board of directors in a manner not inconsistent with the organic rules.\n\n(b) The organic rules may designate or, if the rules do not designate, the board of directors shall designate, one of the association’s officers for preparing all records required by § 29-1001.10 and for the authentication of records.\n\n(c) Unless the organic rules otherwise provide, the board of directors shall appoint the officers of the limited cooperative association.\n\n(d) Officers of a limited cooperative association shall perform the duties the organic rules prescribe or as authorized by the board of directors not in a manner inconsistent with the organic rules.\n\n(e) The election or appointment of an officer of a limited cooperative association shall not of itself create a contract between the association and the officer.\n\n(f) Unless the organic rules otherwise provide, an individual may simultaneously hold more than one office in a limited cooperative association.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1008.22.html"
+    },
+    {
+      "id": "section-29-1008.23",
+      "number": "29-1008.23",
+      "heading": "Resignation and removal of officers.",
+      "text": "(a) The board of directors may remove an officer at any time with or without cause.\n\n(b) An officer of a limited cooperative association may resign at any time by giving notice in a record to the association. Unless the notice specifies a later time, the resignation shall be effective when the notice is given.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1008.23.html"
+    },
+    {
+      "id": "section-29-1009.01",
+      "number": "29-1009.01",
+      "heading": "Indemnification.",
+      "text": "(a) Indemnification of an individual who has incurred liability or is a party, or is threatened to be made a party, to litigation because of the performance of a duty to, or activity on behalf of, a limited cooperative association shall be governed by Chapter 3 of this title.\n\n(b) A limited cooperative association may purchase insurance on behalf of any individual against liability asserted against or incurred by the individual to the same extent, and subject to the same conditions, as provided by Chapter 3 of this title.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1009.01.html"
+    },
+    {
+      "id": "section-29-1010.01",
+      "number": "29-1010.01",
+      "heading": "Members’ contributions.",
+      "text": "The organic rules shall establish the amount, manner, or method of determining any contribution requirements for members or shall authorize the board of directors to establish the amount, manner, or other method of determining any contribution requirements for members.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1010.01.html"
+    },
+    {
+      "id": "section-29-1010.02",
+      "number": "29-1010.02",
+      "heading": "Contribution and valuation.",
+      "text": "(a) Unless the organic rules otherwise provide, the contributions of a member to a limited cooperative association may consist of tangible or intangible property or other benefit to the association, including money, labor or other services performed or to be performed, promissory notes, other agreements to contribute money or property, and contracts to be performed.\n\n(b) The receipt and acceptance of contributions and the valuation of contributions shall be reflected in a limited cooperative association’s records.\n\n(c) Unless the organic rules otherwise provide, the board of directors shall determine the value of a member’s contributions received or to be received and the determination by the board of directors of valuation shall be conclusive for purposes of determining whether the member’s contribution obligation has been met.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1010.02.html"
+    },
+    {
+      "id": "section-29-1010.03",
+      "number": "29-1010.03",
+      "heading": "Contribution agreements.",
+      "text": "(a) Except as otherwise provided in the agreement, the following rules shall apply to an agreement made by a person before formation of a limited cooperative association to make a contribution to the association:\n\n(1) The agreement shall be irrevocable for 6 months after the agreement is signed by the person unless all parties to the agreement consent to the revocation.\n\n(2) If a person does not make a required contribution:\n\n(A) The person shall be obligated, at the option of the association, once formed, to contribute money equal to the value of that part of the contribution that has not been made, and the obligation may be enforced as a debt to the association; or\n\n(B) The association, once formed, may rescind the agreement if the debt remains unpaid more than 20 days after the association demands payment from the person, and, upon rescission, the person shall have no further rights or obligations with respect to the association.\n\n(b) Unless the organic rules or an agreement to make a contribution to a limited cooperative association otherwise provide, if a person does not make a required contribution to an association, the person or the person’s estate shall be obligated, at the option of the association, to contribute money equal to the value of the part of the contribution which has not been made.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1010.03.html"
+    },
+    {
+      "id": "section-29-1010.04",
+      "number": "29-1010.04",
+      "heading": "Allocations of profits and losses.",
+      "text": "(a) The organic rules may provide for allocating profits of a limited cooperative association among members, among persons that are not members but conduct business with the association, to an unallocated account, or to any combination thereof. Unless the organic rules otherwise provide, losses of the association shall be allocated in the same proportion as profits.\n\n(b) Unless the organic rules otherwise provide, all profits and losses of a limited cooperative association shall be allocated to patron members.\n\n(c) If a limited cooperative association has investor members, the organic rules shall not reduce the allocation to patron members to less than 50% of profits. For purposes of this subsection, the following rules shall apply:\n\n(1) Amounts paid or due on contracts for the delivery to the association by patron members of products, goods, or services shall not be considered amounts allocated to patron members.\n\n(2) Amounts paid, due, or allocated to investor members as a stated fixed return on equity shall not be considered amounts allocated to investor members.\n\n(d) Unless prohibited by the organic rules, in determining the profits for allocation under subsections (a), (b), and (c) of this section, the board of directors may first deduct and set aside a part of the profits to create or accumulate:\n\n(1) An unallocated capital reserve; and\n\n(2) Reasonable unallocated reserves for specific purposes, including:\n\n(A) Expansion and replacement of capital assets;\n\n(B) Education, training, and cooperative development;\n\n(C) Creation and distribution of information concerning principles of cooperation; and\n\n(D) Community responsibility.\n\n(e) Subject to subsections (b) and (f) of this section and the organic rules, the board of directors shall allocate the amount remaining after any deduction or setting aside of profits for unallocated reserves under subsection (d) of this section to:\n\n(1) Patron members in the ratio of each member’s patronage to the total patronage of all patron members during the period for which allocations are to be made; and\n\n(2) Investor members, if any, in the ratio of each investor member’s contributions to the total contributions of all investor members.\n\n(f) For purposes of allocation of profits and losses or specific items of profits or losses of a limited cooperative association to members, the organic rules may establish allocation units or methods based on separate classes of members or, for patron members, on class, function, division, district, department, allocation units, pooling arrangements, members’ contributions, or other equitable methods.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1010.04.html"
+    },
+    {
+      "id": "section-29-1010.05",
+      "number": "29-1010.05",
+      "heading": "Distributions.",
+      "text": "(a) Unless the organic rules otherwise provide and subject to § 29-1010.07, the board of directors may authorize, and the limited cooperative association may make, distributions to members.\n\n(b) Unless the organic rules otherwise provide, distributions to members may be made in any form, including money, capital credits, allocated patronage equities, revolving fund certificates, and the limited cooperative association’s own or other securities.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1010.05.html"
+    },
+    {
+      "id": "section-29-1010.06",
+      "number": "29-1010.06",
+      "heading": "Redemption or repurchase.",
+      "text": "Property distributed to a member by a limited cooperative association, other than money, maybe redeemed or repurchased as provided in the organic rules, but a redemption or repurchase shall not be made without authorization by the board of directors. The board may withhold authorization for any reason in its sole discretion. A redemption or repurchase shall be treated as a distribution for purposes of § 29-1010.07.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1010.06.html"
+    },
+    {
+      "id": "section-29-1010.07",
+      "number": "29-1010.07",
+      "heading": "Limitations on distributions.",
+      "text": "(a) A limited cooperative association shall not make a distribution, including a distribution under § 29-1012.07 if, after the distribution:\n\n(1) The association would not be able to pay its debts as they become due in the ordinary course of the association’s activities and affairs; or\n\n(2) The association’s total assets would be less than the sum of its total liabilities plus the amount that would be needed, if the association were to be dissolved and wound up at the time of the distribution, to satisfy the preferential rights upon dissolution and winding up of members whose preferential rights are superior to those of persons receiving the distribution.\n\n(b) A limited cooperative association may base a determination that a distribution is not prohibited under subsection (a) of this section on financial statements prepared on the basis of accounting practices and principles that are reasonable in the circumstances or on a fair valuation or other method that is reasonable in the circumstances.\n\n(c) Except as otherwise provided in subsection (d) of this section, the effect of a distribution allowed under subsection (b) of this section shall be measured:\n\n(1) In the case of distribution by purchase, redemption, or other acquisition of financial rights in the limited cooperative association, as of the earlier of the date money or other property is transferred or debt is incurred by the association or the date the person entitled to the distribution ceases to own the financial rights being acquired by the association in return for the distribution;\n\n(2) In the case of any other distribution of indebtedness, as of the date the indebtedness is distributed;\n\n(3) In all other cases, as of the date:\n\n(A) The distribution is authorized, if the payment occurs not later than 120 days after that date; or\n\n(B) The payment is made, if payment occurs more than 120 days after the distribution is authorized.\n\n(d) A limited cooperative association’s indebtedness incurred by reason of a distribution made in accordance with this section is at parity with the association’s indebtedness to its general, unsecured creditors except to the extent subordinated by agreement.\n\n(e) A limited cooperative association’s indebtedness, including indebtedness issued as a distribution, is not a liability for purposes of subsection (a) of this section if the terms of the indebtedness provide that payment of principal and interest is made only if and to the extent that payment of a distribution could then be made under this section. If the indebtedness is issued as a distribution, each payment of principal or interest on the indebtedness shall [be] treated as a distribution, the effect of which is measured on the date the payment is made.\n\n(f) In measuring the effect of a distribution under § 29-1012.07, the liabilities of a dissolved limited cooperative association do not include any claim that has been disposed of under §§ 29-1012.08, 29-1012,09, and 29-1012.10.\n\n(g) For purposes of this section, the term “distribution” shall not include reasonable amounts paid to a member in the ordinary course of business as payment or compensation for commodities, goods, past or present services, or reasonable payments made in the ordinary course of business under a bona fide retirement or other benefits program.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(j)(6)(A), 59 DCR 13171",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1010.07.html"
+    },
+    {
+      "id": "section-29-1010.08",
+      "number": "29-1010.08",
+      "heading": "Liability for improper distributions; limitation of action.",
+      "text": "(a) Except as otherwise provided in subsection (b) of this section, if a director of a limited cooperative association consents to a distribution made in violation of § 29-1010.07 and in consenting to the distribution fails to comply with § 29-1008.18, the director is personally liable to the association for the amount of the distribution that exceeds the amount which could have been distributed without violating § 29-1010.07.\n\n(b) A person that receives a distribution knowing that the distribution was made in violation of § 29-1010.07 shall be personally liable to the limited cooperative association to the extent the distribution exceeded the amount that could have been properly paid.\n\n(c) A director against whom an action is commenced under subsection (a) of this section may implead in the action any:\n\n(1) Other person who is liable under subsection (a) of this section and seek to enforce a right of contribution from the person; and\n\n(2) Person that receives a distribution in violation of subsection (b) of this section and may seek to enforce a right of contribution from the person in the amount the person received in violation [of] subsection (b) of this section.\n\n(d) An action under this section shall be barred if it is commenced later than 2 years after the distribution.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(j)(6)(B), 59 DCR 13171",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1010.08.html"
+    },
+    {
+      "id": "section-29-1011.01",
+      "number": "29-1011.01",
+      "heading": "Member’s dissociation.",
+      "text": "(a) A person has the power to dissociate as a member at any time.\n\n(b) A member’s dissociation from a limited cooperative association shall be wrongful only if the dissociation:\n\n(1) Breaches an express provision of the organic rules; or\n\n(2) Occurs before the termination of the limited cooperative association and:\n\n(A) The person is expelled as a member under subsection (d)(3) or (4) of this subsection; or\n\n(B) In the case of a person that is not an individual, trust other than a business trust, or estate, the person is expelled or otherwise dissociated as a member because it dissolved or terminated in bad faith.\n\n(c) Unless the organic rules otherwise provide, a person that wrongfully dissociates as a member shall be liable to the limited cooperative association and to the other members for damages caused by the dissociation. The liability shall be in addition to any other debt, obligation, or liability of the person to the association.\n\n(d) A member shall be dissociated from the limited cooperative association as a member when:\n\n(1) The association receives notice in a record of the member’s express will to dissociate as a member or, if the member specifies in the notice an effective date later than the date the association received notice, on that later date;\n\n(2) An event stated in the organic rules as causing the member’s dissociation as a member occurs;\n\n(3) The member is expelled as a member under the organic rules;\n\n(4) The member is expelled as a member by the board of directors because:\n\n(A) It is unlawful to carry on the association’s activities and affairs with the member as a member;\n\n(B) There has been a transfer of all the member’s financial rights in the association, other than:\n\n(i) A creation or perfection of a security interest; or\n\n(ii) A charging order in effect under § 29-1006.05 which has not been foreclosed;\n\n(C) The member is a limited liability company, association, or partnership which has been dissolved and its business is being wound up; or\n\n(D) The member is a corporation or cooperative and:\n\n(i) The member filed a certificate of dissolution, or the equivalent, or the jurisdiction of formation revoked the association’s charter or right to conduct business;\n\n(ii) The association sends a notice to the member that it will be expelled as a member for a reason described in sub-subparagraph (i) of this subparagraph; and\n\n(iii) Not later than 90 days after the notice was sent under sub-subparagraph (ii), the member did not revoke its certificate of dissolution, or the equivalent, or the jurisdiction of formation did not reinstate the association’s charter or right to conduct business; or\n\n(E) The member is an individual and is adjudged incompetent;\n\n(5) In the case of a member who is an individual, the individual dies;\n\n(6) In the case of a member that is a trust or is acting as a member by virtue of being a trustee of a trust, all the trust’s financial rights in the association are distributed;\n\n(7) In the case of a member that is an estate, the estate’s entire financial interest in the association is distributed;\n\n(8) In the case of a member that is not an individual, partnership, limited liability company, cooperative, corporation, trust, or estate, the member is terminated;\n\n(9) The association participates in a merger if, under the plan of merger as approved under subchapter XV of this chapter, the member ceases to be a member; or\n\n(10) The association participates in a transaction under Subchapter [subchapter] XV of this chapter or Chapter 2 of this title if, under the terms of the transaction, the association ceases to exist in the form of a limited cooperative association or the member ceases to be a member.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(j)(7)(A), 59 DCR 13171",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1011.01.html"
+    },
+    {
+      "id": "section-29-1011.02",
+      "number": "29-1011.02",
+      "heading": "Effect of dissociation as member.",
+      "text": "(a) Upon a member’s dissociation:\n\n(1) The person’s right to participate as a member in the management and conduct of the association’s activities and affairs terminates; and\n\n(2) Subject to § 29-1011.03, subchapter XV of this chapter, and Chapter 2 of this title, any financial rights owned by the person in the person’s capacity as a member are owned by the person as a transferee.\n\n(b) A person’s dissociation as a member shall not of itself discharge the person from any debt, obligation, or other liability to the limited cooperative association or to the members which the person incurred while a member.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(j)(7)(B), 59 DCR 13171",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1011.02.html"
+    },
+    {
+      "id": "section-29-1011.03",
+      "number": "29-1011.03",
+      "heading": "Power of legal representative of member.",
+      "text": "Unless the organic rules provide for greater rights, if a member is dissociated because of death, dies or is expelled by reason of being adjudged incompetent, the member’s personal representative or other legal representative may exercise the rights of a transferee of the member’s financial rights and, for purposes of settling the estate of a deceased member, may exercise the informational rights of a current member to obtain information under § 29-1005.05.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(j)(7)(C), 59 DCR 13171",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1011.03.html"
+    },
+    {
+      "id": "section-29-1012.01",
+      "number": "29-1012.01",
+      "heading": "Dissolution and winding up.",
+      "text": "A limited cooperative association shall be dissolved only as provided in this subchapter and, upon dissolution, wind up in accordance with this subchapter.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1012.01.html"
+    },
+    {
+      "id": "section-29-1012.02",
+      "number": "29-1012.02",
+      "heading": "Nonjudicial dissolution.",
+      "text": "Except as otherwise provided in §§ 29-1012.03 and 29-106.02, a limited cooperative association is dissolved and its activities shall be wound up:\n\n(1) Upon the occurrence of an event or at a time specified in the articles of organization;\n\n(2) Upon the action of the association’s organizers, board of directors, or members under § 29-1012.04 or § 29-1012.05; or\n\n(3) Ninety days after the dissociation of a member, which results in the association having one patron member and no other members, unless the association:\n\n(A) Has a sole member that is a cooperative; or\n\n(B) Not later than the end of the 90-day period, admits at least one member in accordance with the organic rules and has at least 2 members, at least one of which is a patron member.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1012.02.html"
+    },
+    {
+      "id": "section-29-1012.03",
+      "number": "29-1012.03",
+      "heading": "Judicial dissolution.",
+      "text": "The Superior Court may dissolve a limited cooperative association or order any action that under the circumstances is appropriate and equitable in a proceeding initiated by:\n\n(1) The Attorney General for the District of Columbia, if the association:\n\n(A) Obtained its articles of organization through fraud; or\n\n(B) Has continued to exceed or abuse the authority conferred upon it by law; or\n\n(2) A member, if:\n\n(A) The directors are deadlocked in the management of the association’s affairs, the members are unable to break the deadlock, and irreparable injury to the association is occurring or is threatened because of the deadlock;\n\n(B) The directors or those in control of the association have acted, are acting, or will act in a manner that is illegal, oppressive, or fraudulent;\n\n(C) The members are deadlocked in voting power and have failed to elect successors to directors whose terms have expired for 2 consecutive periods during which annual members meetings were held or were to be held; or\n\n(D) The assets of the association are being misapplied or wasted.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1012.03.html"
+    },
+    {
+      "id": "section-29-1012.04",
+      "number": "29-1012.04",
+      "heading": "Voluntary dissolution before commencement of activity.",
+      "text": "A majority of the organizers or initial directors of a limited cooperative association that has not yet begun business activity or the conduct of its affairs may dissolve the association.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1012.04.html"
+    },
+    {
+      "id": "section-29-1012.05",
+      "number": "29-1012.05",
+      "heading": "Voluntary dissolution by the board and members.",
+      "text": "(a) Except as otherwise provided in § 29-1012.04, for a limited cooperative association to voluntarily dissolve:\n\n(1) A resolution to dissolve shall be approved by a majority vote of the board of directors unless a greater percentage is required by the organic rules;\n\n(2) The board of directors shall call a members meeting to consider the resolution, to be held not later than 90 days after adoption of the resolution; and\n\n(3) The board of directors shall mail or otherwise transmit or deliver to each member in a record that complies with § 29-1005.08:\n\n(A) The resolution required by paragraph (1) of this subsection;\n\n(B) A recommendation that the members vote in favor of the resolution or, if the board determines that because of conflict of interest or other special circumstances, it should not make a favorable recommendation, the basis of that determination; and\n\n(C) Notice of the members meeting, which shall be given in the same manner as notice of a special meeting of members.\n\n(b) Subject to subsection (c) of this section, a resolution to dissolve shall be approved by:\n\n(1) At least 2/3 of the voting power of members present at a members meeting called under subsection (a)(2) of this section; and\n\n(2) If the limited cooperative association has investor members, at least a majority of the votes cast by patron members, unless the organic rules require a greater percentage.\n\n(c) The organic rules may require that the percentage of votes under subsection (b)(1) of this section shall be:\n\n(1) A different percentage that is not less than a majority of members voting at the meeting; or\n\n(2) Measured against the voting power of all members; or\n\n(3) A combination of paragraphs (1) and (2) of this subsection.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1012.05.html"
+    },
+    {
+      "id": "section-29-1012.06",
+      "number": "29-1012.06",
+      "heading": "Winding up.",
+      "text": "(a) A dissolved limited cooperative association shall wind up its activities and affairs, and except as provided in § 29-1012.07, continue after dissolution only for the purpose of winding up.\n\n(b) In winding up a limited cooperative association’s activities, the board of directors:\n\n(1) Shall discharge its liabilities, settle and close its activities, and marshal and distribute its assets; and\n\n(2) May:\n\n(A) Preserve the association or its property as a going concern for no more than a reasonable time;\n\n(B) Prosecute and defend actions and proceedings;\n\n(C) Settle disputes by mediation or arbitration;\n\n(D) Deliver to the Mayor for filing a statement of termination stating the name of the company and that the company is terminated;\n\n(E) Transfer the association’s property; and\n\n(F) Perform other acts necessary or appropriate to the winding up.\n\n(c) After dissolution and upon application of a limited cooperative association, a member, or a holder of financial rights, the Superior Court may order judicial supervision of the winding up of the association, including the appointment of a person to wind up the association’s activities, if:\n\n(1) After a reasonable time, the association has not wound up its activities; or\n\n(2) The applicant establishes other good cause.\n\n(d) If a person is appointed pursuant to subsection (c) of this section to wind up the activities of a limited cooperative association, the association shall promptly deliver to the Mayor for filing an amendment to the articles of organization to reflect the appointment.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(j)(8)(A), 59 DCR 13171",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1012.06.html"
+    },
+    {
+      "id": "section-29-1012.07",
+      "number": "29-1012.07",
+      "heading": "Distribution of assets in winding up limited cooperative association.",
+      "text": "(a) In winding up a limited cooperative association’s activities and affairs, the association shall apply its assets to discharge its obligations to creditors, including members that are creditors. The association shall apply any remaining assets to pay, in money, the net amount distributable to members in accordance with their right to distributions under subsection (b) of this section.\n\n(1) Unless the organic rules otherwise provide, for the purposes of this subsection, the term “financial interests” means the amounts recorded in the names of members in the records of a limited cooperative association at the time a distribution is made, including amounts paid to become a member, amounts allocated but not distributed to members, and amounts of distributions authorized but not yet paid to members.\n\n(2) Unless the organic rules otherwise provide, each member shall be entitled to a distribution from the association of any remaining assets in the proportion of the member’s financial interests to the total financial interests of the members after all other obligations are satisfied.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(j)(8)(B), 59 DCR 13171",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1012.07.html"
+    },
+    {
+      "id": "section-29-1012.08",
+      "number": "29-1012.08",
+      "heading": "Known claims against dissolved limited cooperative association.",
+      "text": "(a) Subject to subsection (d) of this section, a dissolved limited cooperative association may give notice of a known claim under subsection (b) of this section, which has the effect provided in subsection (c) of this section.\n\n(b) A dissolved limited cooperative association may notify its known claimants of the dissolution in a record. The notice shall:\n\n(1) Specify that a claim be in a record;\n\n(2) Specify the information required to be included in the claim;\n\n(3) Provide an address to which the claim must be sent;\n\n(4) State the deadline for receipt of the claim, which shall not be less than 120 days after the date the notice is received by the claimant; and\n\n(5) State that the claim will be barred if not received by the deadline.\n\n(c) A claim against a dissolved limited cooperative association shall be barred if the requirements of subsection (b) of this section are met and:\n\n(1) The association is not notified of the claimant’s claim, in a record, by the deadline specified in the notice under subsection (b)(4) of this section;\n\n(2) In the case of a claim that is timely received but rejected by the association, the claimant does not commence an action to enforce the claim against the association within 90 days after receipt of the notice of the rejection; or\n\n(3) If a claim is timely received but is not accepted or rejected by the association within 120 days after the deadline for receipt of claims, the claimant does not commence an action to enforce the claim against the association within 90 days after the 120-day period.\n\n(d) This section shall not apply to a claim based on an event occurring after the effective date of dissolution or a liability that is contingent on that date.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(j)(8)(C), 59 DCR 13171",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1012.08.html"
+    },
+    {
+      "id": "section-29-1012.09",
+      "number": "29-1012.09",
+      "heading": "Other claims against dissolved limited cooperative association.",
+      "text": "(a) A dissolved limited cooperative association may publish notice of its dissolution and request persons having claims against the association to present them in accordance with the notice.\n\n(b) A notice under subsection (a) of this section shall:\n\n(1) Be published at least once in a newspaper of general circulation in the District or, if the association does not have a principal office in the District, in the state and county in which the association’s principal office is or was last located;\n\n(2) Describe the information required to be contained in a claim and provide an address to which the claim is to be sent; and\n\n(3) State that a claim against the association is barred unless an action to enforce the claim is commenced not later than 3 years after publication of the notice.\n\n(c) If a dissolved limited cooperative association publishes a notice in accordance with subsection (b) of this section, the claim of each of the following claimants shall be barred unless the claimant commences an action to enforce the claim not later than 3 years after the first publication date of the notice:\n\n(1) A claimant that did not receive, notice in a record under § 29-1012.08;\n\n(2) A claimant whose claim is contingent or based on an event occurring after the effective date of dissolution; and\n\n(3) A claimant whose claim was timely sent to the company but not acted on.\n\n(d) A claim not barred under this section or § 29-1012.08 may be enforced:\n\n(1) Against a dissolved limited cooperative association, to the extent of its undistributed assets; or\n\n(2) If, except as otherwise provided in § 29-1012.10, the assets of the association have been distributed after dissolution against a member or holder of financial rights to the extent of that person’s proportionate share of the claim or the assets distributed to the person after dissolution, whichever is less; however, a person’s total liability for all claims under this paragraph may not exceed the total amount of assets distributed to the person after dissolution.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(j)(8)(D), 59 DCR 13171",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1012.09.html"
+    },
+    {
+      "id": "section-29-1012.10",
+      "number": "29-1012.10",
+      "heading": "Court proceedings.",
+      "text": "(a) Upon application by a dissolved limited cooperative association that has published a notice under § 29-1012.09, the Superior Court may determine the amount and form of security to be provided for payment of claims against the association that are contingent, have not been made known to the association, or are based on an event occurring after the effective date of dissolution, but that, based on the facts known to the association, are reasonably anticipated to arise after the effective date of dissolution. The court need not require security for any claim that is barred under § 29-1012.08 or § 29-1012.09 or that is reasonably anticipated to be barred under that section.\n\n(b) Not later than 10 days after filing an application under subsection (a) of this section, a dissolved limited cooperative association shall give notice of the proceeding to each known claimant holding a contingent claim as shown on the records of the dissolved association.\n\n(c) The Superior Court may appoint a representative in a proceeding brought under this section to represent all claimants whose identities are unknown. The dissolved limited cooperative association shall pay reasonable fees and expenses of the representative, including all reasonable attorneys’ and expert witness fees.\n\n(d) Provision by the dissolved limited cooperative association for security in the amount and the form ordered by the Superior Court shall satisfy the association’s obligations with respect to claims that are contingent, have not been made known to the association, or are based on an event occurring after the effective date of dissolution. The association’s obligations with respect to claims that are contingent may not be enforced against a member or holder of financial rights that received assets in liquidation.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(j)(8)(E), 59 DCR 13171",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1012.10.html"
+    },
+    {
+      "id": "section-29-1012.11",
+      "number": "29-1012.11",
+      "heading": "Statement of dissolution.",
+      "text": "(a) A limited cooperative association that has dissolved or is about to dissolve may deliver to the Mayor for filing a statement of dissolution that states:\n\n(1) The name of the association;\n\n(2) The date the association dissolved or will dissolve; and\n\n(3) Any other information the association considers relevant.\n\n(b) A person shall have notice of a limited cooperative association’s dissolution on the later of:\n\n(1) Ninety days after a statement of dissolution is filed; or\n\n(2) The effective date stated in the statement of dissolution.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1012.11.html"
+    },
+    {
+      "id": "section-29-1012.12",
+      "number": "29-1012.12",
+      "heading": "Statement of termination.",
+      "text": "(a) A dissolved limited cooperative association that has completed winding up may deliver to the Mayor for filing a statement of termination that states:\n\n(1) The name of the association;\n\n(2) The date of filing of its initial articles of organization; and\n\n(3) That the association is terminated.\n\n(b) The filing of a statement of termination shall not itself terminate the limited cooperative association.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1012.12.html"
+    },
+    {
+      "id": "section-29-1012.13",
+      "number": "29-1012.13",
+      "heading": "Rescinding dissolution.",
+      "text": "(a) A limited cooperative association may rescind its dissolution, unless a statement of termination applicable to the association is effective, the Superior Court has entered an order under § 29-1012.03 dissolving the association, or the Mayor has dissolved the association under § 29-106.02.\n\n(b) Rescinding dissolution under this section requires:\n\n(1) The consent of each member;\n\n(2) If a statement of dissolution applicable to the limited cooperative association has been filed by the Mayor but has not become effective, the delivery to the Mayor for filing of a statement of withdrawal applicable to the statement of dissolution; and\n\n(3) If a statement of dissolution applicable to the limited cooperative association is effective, the delivery to the Mayor for filing of a statement of correction under § 29-102.05 stating that dissolution has been rescinded under this section.\n\n(c) If a limited cooperative association rescinds its dissolution:\n\n(1) The association resumes carrying on its activities and affairs as if dissolution had never occurred;\n\n(2) Subject to paragraph (3) of this subsection, any liability incurred by the association after the dissolution and before the rescission is effective is determined as if dissolution had never occurred; and\n\n(3) The rights of a third party arising out of conduct in reliance on the dissolution before the third party knew or had notice of the rescission may not be adversely affected.",
+      "history": "Mar. 5, 2013, D.C. Law 19-210, § 2(j)(8)(F), 59 DCR 13171",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1012.13.html"
+    },
+    {
+      "id": "section-29-1013.01",
+      "number": "29-1013.01",
+      "heading": "Derivative action.",
+      "text": "A member may maintain a derivative action in the Superior Court to enforce a right of a limited cooperative association if:\n\n(1) The member demands that the association bring an action to enforce the right; and\n\n(2) Any of the following occur:\n\n(A) The association does not, within 90 days after the member makes the demand, agree to bring the action;\n\n(B) The association notifies the member that it has rejected the demand;\n\n(C) Irreparable harm to the association would result by waiting 90 days after the member makes the demand;\n\n(D) The association agrees to bring an action demanded and fails to bring the action within a reasonable time; or\n\n(E) A demand under paragraph (1) of this subsection would be futile.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(j)(9)(A), 59 DCR 13171",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1013.01.html"
+    },
+    {
+      "id": "section-29-1013.02",
+      "number": "29-1013.02",
+      "heading": "Proper plaintiff.",
+      "text": "(a) A derivative action to enforce a right of a limited cooperative association shall be maintained only by a person that:\n\n(1) Is a member or a dissociated member at the time the action is commenced and:\n\n(A) Was a member when the conduct giving rise to the action occurred; or\n\n(B) Whose status as a member devolved upon the person by operation of law or the organic rules from a person that was a member at the time of the conduct; and\n\n(2) Adequately represents the interests of the association.\n\n(b) If the sole plaintiff in a derivative action dies while the action is pending, the Superior Court may permit another member who meets the requirements of subsection (a) of this section to be substituted as plaintiff.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1013.02.html"
+    },
+    {
+      "id": "section-29-1013.03",
+      "number": "29-1013.03",
+      "heading": "Pleading.",
+      "text": "In a derivative action to enforce a right of a limited cooperative association, the complaint shall state:\n\n(1) The date and content of the plaintiff’s demand under § 29-1013.01(1) and the association’s response;\n\n(2) If 90 days have not expired since the demand, how irreparable harm to the association would result by waiting for the expiration of 90 days;\n\n(3) If the association agreed to bring an action demanded, that the action has not been brought within a reasonable time; and\n\n(4) If the demand should be excused as futile, the reasons therefor.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720; Mar. 5, 2013, D.C. Law 19-210, § 2(j)(9)(B), 59 DCR 13171",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1013.03.html"
+    },
+    {
+      "id": "section-29-1013.04",
+      "number": "29-1013.04",
+      "heading": "Approval for discontinuance or settlement.",
+      "text": "A derivative action to enforce a right of a limited cooperative association shall not be discontinued or settled without the Superior Court’s approval.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1013.04.html"
+    },
+    {
+      "id": "section-29-1013.05",
+      "number": "29-1013.05",
+      "heading": "Proceeds and expenses.",
+      "text": "(a) Except as otherwise provided in subsection (b) of this section:\n\n(1) Any proceeds or other benefits of a derivative action to enforce a right of a limited cooperative association, whether by judgment, compromise, or settlement, belong to the association and not to the plaintiff; and\n\n(2) If the plaintiff in the derivative action receives any proceeds, the plaintiff shall immediately remit them to the association.\n\n(b) If a derivative action to enforce a right of a limited cooperative association is successful in whole or in part, the Superior Court may award the plaintiff reasonable expenses, including reasonable attorneys’ fees and costs, from the recovery of the association.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1013.05.html"
+    },
+    {
+      "id": "section-29-1013.06",
+      "number": "29-1013.06",
+      "heading": "Special litigation committee.",
+      "text": "(a) If a limited cooperative association is named as or made a party in a derivative proceeding, the association may appoint a special litigation committee to investigate the claims asserted in the proceeding and determine whether pursuing the action is in the best interests of the company. If the association appoints a special litigation committee, on motion by the committee made in the name of the association, except for good cause shown, the court shall stay discovery for the time reasonably necessary to permit the committee to complete its investigation. This subsection does not prevent the court from enforcing a person’s right to information under § 29-1005.05 or, for good cause shown, granting extraordinary relief in the form of a temporary restraining order or preliminary injunction.\n\n(b) A special litigation committee may be composed of one or more disinterested and independent individuals, who may be members.\n\n(c) A special litigation committee may be appointed:\n\n(1) By a majority of the directors not named as defendants or plaintiffs in the proceeding; and\n\n(2) If all directors are named as defendants or plaintiffs in the proceeding, by a majority of the directors named as defendants.\n\n(d) After appropriate investigation, a special litigation committee may determine that it is in the best interests of the limited cooperative association that the proceeding:\n\n(1) Continue under the control of the plaintiff;\n\n(2) Continue under the control of the committee;\n\n(3) Be settled on terms approved by the committee; or\n\n(4) Be dismissed.\n\n(e) After making a determination under subsection (d) of this section, a special litigation committee shall file with the court a statement of its determination and its report supporting its determination and shall serve each party with a copy of the determination and report. The court shall determine whether the members of the committee were disinterested and independent and whether the committee conducted its investigation and made its recommendation in good faith, independently, and with reasonable care, with the committee having the burden of proof. If the court finds that the members of the committee were disinterested and independent and that the committee acted in good faith, independently, and with reasonable care, the court shall enforce the determination of the committee. Otherwise, the court shall dissolve the stay of discovery entered under subsection (a) of this section and allow the action to proceed under the direction of the plaintiff.",
+      "history": "Mar. 5, 2013, D.C. Law 19-210, § 2(j)(9)(C), 59 DCR 13171",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1013.06.html"
+    },
+    {
+      "id": "section-29-1014.01",
+      "number": "29-1014.01",
+      "heading": "Disposition of assets not requiring member approval.",
+      "text": "Unless the articles of organization otherwise provide, member approval under § 29-1014.02 shall not be required for a limited cooperative association to:\n\n(1) Sell, lease, exchange, license, or otherwise dispose of all or any part of the assets of the association in the usual and regular course of business; or\n\n(2) Mortgage, pledge, dedicate to the repayment of indebtedness, or encumber in any way all or any part of the assets of the association whether or not in the usual and regular course of business.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1014.01.html"
+    },
+    {
+      "id": "section-29-1014.02",
+      "number": "29-1014.02",
+      "heading": "Member approval of other disposition of assets.",
+      "text": "A sale, lease, exchange, license, or other disposition of assets of a limited cooperative association, other than a disposition described in § 29-1014.01, shall require approval of the association’s members under §§ 29-1014.03 and 29-1014.04 if the disposition leaves the association without significant continuing business activity.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1014.02.html"
+    },
+    {
+      "id": "section-29-1014.03",
+      "number": "29-1014.03",
+      "heading": "Notice and action on disposition of assets.",
+      "text": "For a limited cooperative association to dispose of assets under § 29-1014.02:\n\n(1) A majority of the board of directors, or a greater percentage if required by the organic rules, shall approve the proposed disposition; and\n\n(2) The board of directors shall call a members meeting to consider the proposed disposition, hold the meeting not later than 90 days after approval of the proposed disposition by the board, and mail or otherwise transmit or deliver in a record to each member:\n\n(A) The terms of the proposed disposition;\n\n(B) A recommendation that the members approve the disposition or, if the board determines that because of conflict of interest or other special circumstances, it should not make a favorable recommendation, the basis for that determination;\n\n(C) A statement of any condition of the board’s submission of the proposed disposition to the members; and\n\n(D) Notice of the meeting at which the proposed disposition will be considered, which shall be given in the same manner as notice of a special meeting of members.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1014.03.html"
+    },
+    {
+      "id": "section-29-1014.04",
+      "number": "29-1014.04",
+      "heading": "Disposition of assets.",
+      "text": "(a) Subject to subsection (b) of this section, a disposition of assets under § 29-1014.02 shall be approved by:\n\n(1) At least 2/3 of the voting power of members present at a members meeting called under § 29-1014.03(2); and\n\n(2) If the limited cooperative association has investor members, at least a majority of the votes cast by patron members, unless the organic rules require a greater percentage vote by patron members.\n\n(b) The organic rules may require that the percentage of votes under subsection (a)(1) of this section shall be:\n\n(1) A different percentage that is not less than a majority of members voting at the meeting;\n\n(2) Measured against the voting power of all members; or\n\n(3) A combination of paragraphs (1) and (2) of this subsection.\n\n(c) Subject to any contractual obligations, after a disposition of assets is approved and at any time before the consummation of the disposition, a limited cooperative association may approve an amendment to the contract for disposition or the resolution authorizing the disposition or approve abandonment of the disposition:\n\n(1) As provided in the contract or the resolution; and\n\n(2) Except as prohibited by the resolution, with the same affirmative vote of the board of directors and of the members as was required to approve the disposition.\n\n(d) The voting requirements for districts, classes, or voting groups under § 29-1004.04 apply to approval of a disposition of assets under this subchapter.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1014.04.html"
+    },
+    {
+      "id": "section-29-1015.01",
+      "number": "29-1015.01",
+      "heading": "Definitions.",
+      "text": "For the purposes of this subchapter, the term:\n\n(1) “Constituent limited cooperative association” or “constituent association” means a limited cooperative association or foreign limited cooperative association that is a party to a merger.\n\n(2) “Surviving limited cooperative association” or “surviving association” means a limited cooperative association or foreign limited cooperative association into which one or more other domestic associations or foreign cooperatives associations are merged, whether the domestic or foreign association existed before the merger or is created by the merger.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1015.01.html"
+    },
+    {
+      "id": "section-29-1015.02",
+      "number": "29-1015.02",
+      "heading": "Merger.",
+      "text": "(a) One or more constituent limited cooperative associations may merge with one or more other constituent associations pursuant to this subchapter and a plan of merger. If any of the constituent associations is a foreign cooperative association, the law of the jurisdiction in which it was formed shall authorize the merger.\n\n(b) A plan of merger shall be in a record and shall include:\n\n(1) The name and jurisdiction of organization of each constituent limited cooperative association;\n\n(2) The name and jurisdiction of organization of the surviving limited cooperative association;\n\n(3) The terms and conditions of the merger, including the manner and basis for converting the interests in each constituent association into any combination of money, interests in any entity, and other consideration;\n\n(4) If the surviving association is to be created by the merger, the surviving association’s organic rules; and\n\n(5) If the surviving association is not to be created by the merger, any amendments to be made by the merger to the surviving association’s organic rules.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1015.02.html"
+    },
+    {
+      "id": "section-29-1015.03",
+      "number": "29-1015.03",
+      "heading": "Notice and action on plan of merger.",
+      "text": "(a) For a limited cooperative association to merge with another constituent limited cooperative association, a plan of merger shall be approved by a majority vote of the board of directors or a greater percentage if required by the association’s organic rules.\n\n(b) The board of directors shall call a members meeting to consider a plan of merger approved by the board, hold the meeting not later than 90 days after approval of the plan by the board, and mail or otherwise transmit or deliver in a record to each member:\n\n(1) The plan of merger, or a summary of the plan and a statement of the manner in which a copy of the plan in a record may be reasonably obtained by a member;\n\n(2) A recommendation that the members approve the plan of merger or, if the board determines that because of conflict of interest or other special circumstances, it should not make a favorable recommendation, the basis for that determination;\n\n(3) A statement of any condition of the board’s submission of the plan of merger to the members; and\n\n(4) Notice of the meeting at which the plan of merger will be considered, which shall be given in the same manner as notice of a special meeting of members.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1015.03.html"
+    },
+    {
+      "id": "section-29-1015.04",
+      "number": "29-1015.04",
+      "heading": "Approval or abandonment of merger by members.",
+      "text": "(a) Subject to subsections (b) and (c) of this section, a plan of merger shall be approved by:\n\n(1) At least 2/3 of the voting power of members present at a members meeting called under § 29-1015.03(b); and\n\n(2) If the limited cooperative association has investor members, at least a majority of the votes cast by patron members, unless the organic rules require a greater percentage vote by patron members.\n\n(b) The organic rules may provide that the percentage of votes under subsection (a)(1) of this section shall be:\n\n(1) A different percentage that is not less than a majority of members voting at the meeting;\n\n(2) Measured against the voting power of all members; or\n\n(3) A combination of paragraphs (1) and (2) of this subsection.\n\n(c) The vote required to approve a plan of merger shall not be less than the vote required for the members of the limited cooperative association to amend the articles of organization.\n\n(d) Consent in a record to a plan of merger by a member shall be delivered to the limited cooperative association before delivery of articles of merger for filing pursuant to § 29-1015.05 if as a result of the merger the member will have an obligation or liability for an additional contribution.\n\n(e) Subject to subsection (d) of this section and any contractual rights, after a merger is approved, and at any time before the effective date of the merger, a limited cooperative association that is a party to the merger may approve an amendment to the plan of merger or approve abandonment of the planned merger:\n\n(1) As provided in the plan; and\n\n(2) Except as prohibited by the plan, with the same affirmative vote of the board of directors and of the members as was required to approve the plan.\n\n(f) The voting requirements for districts, classes, or voting groups under § 29-1004.04 shall apply to approval of a merger under this subchapter.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1015.04.html"
+    },
+    {
+      "id": "section-29-1015.05",
+      "number": "29-1015.05",
+      "heading": "Filings required for merger; effective date.",
+      "text": "(a) After each constituent limited cooperative association has approved a merger, articles of merger shall be signed on behalf of each constituent association by an authorized representative.\n\n(b) The articles of merger shall include:\n\n(1) The name of each constituent limited cooperative association and the jurisdiction under the laws of which it is organized;\n\n(2) The name of the surviving limited cooperative association, the jurisdiction under the laws of which it is organized, and, if the surviving association is created by the merger, a statement to that effect;\n\n(3) The date the merger is to be effective;\n\n(4) If the surviving association is to be created by the merger and will be a domestic limited cooperative association, the limited cooperative association’s articles of organization;\n\n(5) If the surviving association is not created by the merger and is a domestic limited cooperative association, any amendments provided for in the plan of merger to its articles of organization;\n\n(6) A statement as to each constituent association that the merger was approved as required by its organic law;\n\n(7) If the surviving association is a foreign cooperative not authorized to do business in the District, the street address and, if different, mailing address of an office which the Mayor may use for the purposes of § 29-104.12; and\n\n(8) Any additional information required by the organic law of any constituent association.\n\n(c) Each limited cooperative association that is a party to a merger shall deliver the articles of merger to the Mayor for filing.\n\n(d) A merger shall be effective under this subchapter upon the later of:\n\n(1) Compliance with subsection (c) of this section; or\n\n(2) Subject to § 29-102.03, as specified in the articles of merger.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1015.05.html"
+    },
+    {
+      "id": "section-29-1015.06",
+      "number": "29-1015.06",
+      "heading": "Effect of merger.",
+      "text": "(a) When a merger becomes effective:\n\n(1) The surviving limited cooperative association shall continue or come into existence;\n\n(2) Each constituent limited cooperative association that merges into the surviving association shall cease to exist as a separate entity;\n\n(3) All property owned by each constituent association that ceases to exist shall vest in the surviving association;\n\n(4) All debts, liabilities, and other obligations of each constituent association that ceases to exist shall continue as obligations of the surviving association;\n\n(5) An action or proceeding pending by or against any constituent association that ceases to exist may be continued as if the merger had not occurred;\n\n(6) Except as prohibited by law other than this chapter, all rights, privileges, immunities, powers, and purposes of each constituent association that ceases to exist shall vest in the surviving association;\n\n(7) Except as otherwise provided in the plan of merger, the terms and conditions of the plan shall take effect;\n\n(8) Except as otherwise provided in the plan of merger, if a merging limited cooperative association ceases to exist, the merger shall not dissolve the association for purposes of subchapter XII of this chapter;\n\n(9) If the surviving association is created by the merger, the articles of organization shall become effective; and\n\n(10) If the surviving association is not created by the merger, any amendments made by the articles of merger for the articles of organization of the surviving association shall become effective.\n\n(b) A surviving limited cooperative association that is organized under the laws of a jurisdiction other than the District consents to the jurisdiction of the Superior Court to enforce any obligation owed by a constituent limited cooperative association if, before the merger, the constituent association was subject to suit in the District on the obligation. A surviving association that is organized under the laws of a jurisdiction other than the District and not authorized to do business in the District may be served with process in the same manner and with the same consequences as in § 29-104.12.\n\n(c) A merger in which a limited cooperative and another form of entity are parties shall be governed by Chapter 2 of this title.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1015.06.html"
+    },
+    {
+      "id": "section-29-1015.07",
+      "number": "29-1015.07",
+      "heading": "Consolidation.",
+      "text": "(a) Constituent limited cooperative associations may agree to call a merger a consolidation under this subchapter.\n\n(b) All provisions governing mergers or using the term merger in this chapter shall apply equally to mergers that the constituent associations choose to call consolidations under subsection (a) of his [sic] section.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1015.07.html"
+    },
+    {
+      "id": "section-29-1015.08",
+      "number": "29-1015.08",
+      "heading": "Subchapter not exclusive.",
+      "text": "This subchapter shall not prohibit a limited cooperative association from being merged under law other than this chapter.",
+      "history": "July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/29-1015.08.html"
+    }
+  ]
+}

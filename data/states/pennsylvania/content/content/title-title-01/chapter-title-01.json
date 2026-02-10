@@ -1,0 +1,2046 @@
+{
+  "state": "pennsylvania",
+  "path": "title-title-01/chapter-title-01",
+  "sections": [
+    {
+      "id": "section-101short",
+      "number": "101.Short",
+      "heading": "title.",
+      "text": "title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-101",
+      "number": "101",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-102citation",
+      "number": "102.Citation",
+      "heading": "of Pennsylvania Consolidated Statutes.",
+      "text": "of Pennsylvania Consolidated Statutes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-102",
+      "number": "102",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-103effective",
+      "number": "103.Effective",
+      "heading": "date.",
+      "text": "date.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-103",
+      "number": "103",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-301arrangement",
+      "number": "301.Arrangement",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-301",
+      "number": "301",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-302section",
+      "number": "302.Section",
+      "heading": "headings.",
+      "text": "headings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-302",
+      "number": "302",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-303cross",
+      "number": "303.Cross",
+      "heading": "references between provisions of the Consolidated Statutes.",
+      "text": "references between provisions of the Consolidated Statutes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-303",
+      "number": "303",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-304references",
+      "number": "304.References",
+      "heading": "to other statutes.",
+      "text": "to other statutes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-304",
+      "number": "304",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-305re-use",
+      "number": "305.Re-use",
+      "heading": "of section numbers.",
+      "text": "of section numbers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-305",
+      "number": "305",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-306bills",
+      "number": "306.Bills",
+      "heading": "to amend the Consolidated Statutes.",
+      "text": "to amend the Consolidated Statutes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-306",
+      "number": "306",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501publication",
+      "number": "501.Publication",
+      "heading": "and distribution.",
+      "text": "and distribution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501",
+      "number": "501",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502preparation",
+      "number": "502.Preparation",
+      "heading": "and contents.",
+      "text": "and contents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502",
+      "number": "502",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-503official",
+      "number": "503.Official",
+      "heading": "status of publication.",
+      "text": "status of publication.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-503",
+      "number": "503",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-901legislation",
+      "number": "901.Legislation",
+      "heading": "to show changes.",
+      "text": "to show changes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-901",
+      "number": "901",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-902conduct",
+      "number": "902.Conduct",
+      "heading": "of election.",
+      "text": "of election.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-902",
+      "number": "902",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-903governor",
+      "number": "903.Governor",
+      "heading": "to proclaim result of election.",
+      "text": "to proclaim result of election.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-903",
+      "number": "903",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-904governor",
+      "number": "904.Governor",
+      "heading": "to proclaim corrected numbering.",
+      "text": "to proclaim corrected numbering.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-904",
+      "number": "904",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-905section",
+      "number": "905.Section",
+      "heading": "headings.",
+      "text": "headings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-905",
+      "number": "905",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-906short",
+      "number": "906.Short",
+      "heading": "titles of Constitutions of 1874 and 1968.",
+      "text": "titles of Constitutions of 1874 and 1968.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-906",
+      "number": "906",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1101enacting",
+      "number": "1101.Enacting",
+      "heading": "clause and unofficial provisions.",
+      "text": "clause and unofficial provisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1101",
+      "number": "1101",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1102publication",
+      "number": "1102.Publication",
+      "heading": "of notice of application for local or special legislation.",
+      "text": "of notice of application for local or special legislation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1102",
+      "number": "1102",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1103preparation",
+      "number": "1103.Preparation",
+      "heading": "of statutes for printing.",
+      "text": "of statutes for printing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1103",
+      "number": "1103",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1104printing",
+      "number": "1104.Printing",
+      "heading": "of amendatory statutes.",
+      "text": "of amendatory statutes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1104",
+      "number": "1104",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1105editing",
+      "number": "1105.Editing",
+      "heading": "statutes for printing.",
+      "text": "statutes for printing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1105",
+      "number": "1105",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1106prothonotaries",
+      "number": "1106.Prothonotaries",
+      "heading": "to keep files of advance copies of statutes.",
+      "text": "to keep files of advance copies of statutes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1106",
+      "number": "1106",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1501short",
+      "number": "1501.Short",
+      "heading": "title of part.",
+      "text": "title of part.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1501",
+      "number": "1501",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1502application",
+      "number": "1502.Application",
+      "heading": "of part.",
+      "text": "of part.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1502",
+      "number": "1502",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1503applicability",
+      "number": "1503.Applicability",
+      "heading": "of colonial law.",
+      "text": "of colonial law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1503",
+      "number": "1503",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1504statutory",
+      "number": "1504.Statutory",
+      "heading": "remedy preferred over common law.",
+      "text": "remedy preferred over common law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1504",
+      "number": "1504",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1701statutes",
+      "number": "1701.Statutes",
+      "heading": "generally.",
+      "text": "generally.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1701",
+      "number": "1701",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1702statutes",
+      "number": "1702.Statutes",
+      "heading": "making appropriations.",
+      "text": "making appropriations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1702",
+      "number": "1702",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1703statutes",
+      "number": "1703.Statutes",
+      "heading": "affecting the budget of any political subdivision.",
+      "text": "affecting the budget of any political subdivision.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1703",
+      "number": "1703",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1704statutes",
+      "number": "1704.Statutes",
+      "heading": "enacted at a special session.",
+      "text": "enacted at a special session.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1704",
+      "number": "1704",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1901rules",
+      "number": "1901.Rules",
+      "heading": "of interpretation.",
+      "text": "of interpretation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1901",
+      "number": "1901",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1902",
+      "number": "1902",
+      "heading": "Number; gender; tense.",
+      "text": "Number; gender; tense.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1903words",
+      "number": "1903.Words",
+      "heading": "and phrases.",
+      "text": "and phrases.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1903",
+      "number": "1903",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1904numerals",
+      "number": "1904.Numerals",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1904",
+      "number": "1904",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1905joint",
+      "number": "1905.Joint",
+      "heading": "authority; quorum.",
+      "text": "authority; quorum.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1905",
+      "number": "1905",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1906bonds",
+      "number": "1906.Bonds",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1906",
+      "number": "1906",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1907uniform",
+      "number": "1907.Uniform",
+      "heading": "standard time.",
+      "text": "standard time.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1907",
+      "number": "1907",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1908computation",
+      "number": "1908.Computation",
+      "heading": "of time.",
+      "text": "of time.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1908",
+      "number": "1908",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1909",
+      "number": "1909",
+      "heading": "Time; publication for successive weeks.",
+      "text": "Time; publication for successive weeks.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1910",
+      "number": "1910",
+      "heading": "Time; computation of months.",
+      "text": "Time; computation of months.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1921legislative",
+      "number": "1921.Legislative",
+      "heading": "intent controls.",
+      "text": "intent controls.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1921",
+      "number": "1921",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1922presumptions",
+      "number": "1922.Presumptions",
+      "heading": "in ascertaining legislative intent.",
+      "text": "in ascertaining legislative intent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1922",
+      "number": "1922",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1923grammar",
+      "number": "1923.Grammar",
+      "heading": "and punctuation of statutes.",
+      "text": "and punctuation of statutes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1923",
+      "number": "1923",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1924construction",
+      "number": "1924.Construction",
+      "heading": "of titles, preambles, provisos, exceptions and headings.",
+      "text": "of titles, preambles, provisos, exceptions and headings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1924",
+      "number": "1924",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1925constitutional",
+      "number": "1925.Constitutional",
+      "heading": "construction of statutes.",
+      "text": "construction of statutes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1925",
+      "number": "1925",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1926presumption",
+      "number": "1926.Presumption",
+      "heading": "against retroactive effect.",
+      "text": "against retroactive effect.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1926",
+      "number": "1926",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1927construction",
+      "number": "1927.Construction",
+      "heading": "of uniform laws.",
+      "text": "of uniform laws.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1927",
+      "number": "1927",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1928rule",
+      "number": "1928.Rule",
+      "heading": "of strict and liberal construction.",
+      "text": "of strict and liberal construction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1928",
+      "number": "1928",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1929penalties",
+      "number": "1929.Penalties",
+      "heading": "no bar to civil remedies.",
+      "text": "no bar to civil remedies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1929",
+      "number": "1929",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1930penalties",
+      "number": "1930.Penalties",
+      "heading": "for each offense.",
+      "text": "for each offense.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1930",
+      "number": "1930",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1931intent",
+      "number": "1931.Intent",
+      "heading": "to defraud.",
+      "text": "to defraud.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1931",
+      "number": "1931",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1932statutes",
+      "number": "1932.Statutes",
+      "heading": "in pari materia.",
+      "text": "in pari materia.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1932",
+      "number": "1932",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1933particular",
+      "number": "1933.Particular",
+      "heading": "controls general.",
+      "text": "controls general.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1933",
+      "number": "1933",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1934irreconcilable",
+      "number": "1934.Irreconcilable",
+      "heading": "clauses in the same statute.",
+      "text": "clauses in the same statute.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1934",
+      "number": "1934",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1935irreconcilable",
+      "number": "1935.Irreconcilable",
+      "heading": "statutes passed by same General Assembly.",
+      "text": "statutes passed by same General Assembly.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1935",
+      "number": "1935",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1936irreconcilable",
+      "number": "1936.Irreconcilable",
+      "heading": "statutes passed by different General Assemblies.",
+      "text": "statutes passed by different General Assemblies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1936",
+      "number": "1936",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1937references",
+      "number": "1937.References",
+      "heading": "to statutes and regulations.",
+      "text": "to statutes and regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1937",
+      "number": "1937",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1938references",
+      "number": "1938.References",
+      "heading": "to public bodies and public officers.",
+      "text": "to public bodies and public officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1938",
+      "number": "1938",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1939use",
+      "number": "1939.Use",
+      "heading": "of comments and reports.",
+      "text": "of comments and reports.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1939",
+      "number": "1939",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1951interpretation",
+      "number": "1951.Interpretation",
+      "heading": "of amendatory statutes.",
+      "text": "of amendatory statutes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1951",
+      "number": "1951",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1952effect",
+      "number": "1952.Effect",
+      "heading": "of separate amendments on code provisions enacted by same General Assembly.",
+      "text": "of separate amendments on code provisions enacted by same General Assembly.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1952",
+      "number": "1952",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1953construction",
+      "number": "1953.Construction",
+      "heading": "of amendatory statutes.",
+      "text": "of amendatory statutes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1953",
+      "number": "1953",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1954merger",
+      "number": "1954.Merger",
+      "heading": "of subsequent amendments.",
+      "text": "of subsequent amendments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1954",
+      "number": "1954",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1955two",
+      "number": "1955.Two",
+      "heading": "or more amendments to same provision, one overlooking the other.",
+      "text": "or more amendments to same provision, one overlooking the other.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1955",
+      "number": "1955",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1956repeal",
+      "number": "1956.Repeal",
+      "heading": "of amendatory statutes and original statutes subsequently amended.",
+      "text": "of amendatory statutes and original statutes subsequently amended.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1956",
+      "number": "1956",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1957ineffective",
+      "number": "1957.Ineffective",
+      "heading": "provisions not revived by reenactment in amendatory statutes.",
+      "text": "provisions not revived by reenactment in amendatory statutes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1957",
+      "number": "1957",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1961effect",
+      "number": "1961.Effect",
+      "heading": "of reenactment on original statute.",
+      "text": "of reenactment on original statute.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1961",
+      "number": "1961",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1962repeal",
+      "number": "1962.Repeal",
+      "heading": "and reenactment.",
+      "text": "and reenactment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1962",
+      "number": "1962",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1963effect",
+      "number": "1963.Effect",
+      "heading": "of reenactment on intervening statutes.",
+      "text": "of reenactment on intervening statutes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1963",
+      "number": "1963",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1971implied",
+      "number": "1971.Implied",
+      "heading": "repeal by later statute.",
+      "text": "repeal by later statute.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1971",
+      "number": "1971",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1972nonexistence",
+      "number": "1972.Nonexistence",
+      "heading": "of reason for statute does not effect repeal.",
+      "text": "of reason for statute does not effect repeal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1972",
+      "number": "1972",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1973no",
+      "number": "1973.No",
+      "heading": "implied repeal by nonuser.",
+      "text": "implied repeal by nonuser.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1973",
+      "number": "1973",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1974effect",
+      "number": "1974.Effect",
+      "heading": "of separate repeals on code provisions by same General Assembly.",
+      "text": "of separate repeals on code provisions by same General Assembly.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1974",
+      "number": "1974",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1975effect",
+      "number": "1975.Effect",
+      "heading": "of repeal on limitations.",
+      "text": "of repeal on limitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1975",
+      "number": "1975",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1976effect",
+      "number": "1976.Effect",
+      "heading": "of repeal on rights, et cetera.",
+      "text": "of repeal on rights, et cetera.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1976",
+      "number": "1976",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1977repeal",
+      "number": "1977.Repeal",
+      "heading": "does not revive repealed statute.",
+      "text": "does not revive repealed statute.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1977",
+      "number": "1977",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1978repeal",
+      "number": "1978.Repeal",
+      "heading": "as obsolete does not affect substantive rights.",
+      "text": "as obsolete does not affect substantive rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1978",
+      "number": "1978",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1991definitions",
+      "number": "1991.Definitions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1991",
+      "number": "1991",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2301equality",
+      "number": "2301.Equality",
+      "heading": "of rights based on sex.",
+      "text": "of rights based on sex.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2301",
+      "number": "2301",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2310sovereign",
+      "number": "2310.Sovereign",
+      "heading": "immunity reaffirmed; specific waiver.",
+      "text": "immunity reaffirmed; specific waiver.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2310",
+      "number": "2310",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3101definitions",
+      "number": "3101.Definitions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3101",
+      "number": "3101",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3102board",
+      "number": "3102.Board",
+      "heading": "established.",
+      "text": "established.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3102",
+      "number": "3102",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3103powers",
+      "number": "3103.Powers",
+      "heading": "and duties.",
+      "text": "and duties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3103",
+      "number": "3103",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-101",
+      "number": "101.",
+      "heading": "Short title.",
+      "text": "Short title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-102",
+      "number": "102.",
+      "heading": "Citation of Pennsylvania Consolidated Statutes.",
+      "text": "Citation of Pennsylvania Consolidated Statutes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-103",
+      "number": "103.",
+      "heading": "Effective date.",
+      "text": "Effective date.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-301",
+      "number": "301.",
+      "heading": "Arrangement.",
+      "text": "Arrangement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-302",
+      "number": "302.",
+      "heading": "Section headings.",
+      "text": "Section headings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-303",
+      "number": "303.",
+      "heading": "Cross references between provisions of the Consolidated Statutes.",
+      "text": "Cross references between provisions of the Consolidated Statutes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-304",
+      "number": "304.",
+      "heading": "References to other statutes.",
+      "text": "References to other statutes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-305",
+      "number": "305.",
+      "heading": "Re-use of section numbers.",
+      "text": "Re-use of section numbers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-306",
+      "number": "306.",
+      "heading": "Bills to amend the Consolidated Statutes.",
+      "text": "Bills to amend the Consolidated Statutes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501",
+      "number": "501.",
+      "heading": "Publication and distribution.",
+      "text": "Publication and distribution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502",
+      "number": "502.",
+      "heading": "Preparation and contents.",
+      "text": "Preparation and contents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-503",
+      "number": "503.",
+      "heading": "Official status of publication.",
+      "text": "Official status of publication.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-901",
+      "number": "901.",
+      "heading": "Legislation to show changes.",
+      "text": "Legislation to show changes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-902",
+      "number": "902.",
+      "heading": "Conduct of election.",
+      "text": "Conduct of election.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-903",
+      "number": "903.",
+      "heading": "Governor to proclaim result of election.",
+      "text": "Governor to proclaim result of election.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-904",
+      "number": "904.",
+      "heading": "Governor to proclaim corrected numbering.",
+      "text": "Governor to proclaim corrected numbering.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-905",
+      "number": "905.",
+      "heading": "Section headings.",
+      "text": "Section headings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-906",
+      "number": "906.",
+      "heading": "Short titles of Constitutions of 1874 and 1968.",
+      "text": "Short titles of Constitutions of 1874 and 1968.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1101",
+      "number": "1101.",
+      "heading": "Enacting clause and unofficial provisions.",
+      "text": "Enacting clause and unofficial provisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1102",
+      "number": "1102.",
+      "heading": "Publication of notice of application for local or special legislation.",
+      "text": "Publication of notice of application for local or special legislation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1103",
+      "number": "1103.",
+      "heading": "Preparation of statutes for printing.",
+      "text": "Preparation of statutes for printing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1104",
+      "number": "1104.",
+      "heading": "Printing of amendatory statutes.",
+      "text": "Printing of amendatory statutes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1105",
+      "number": "1105.",
+      "heading": "Editing statutes for printing.",
+      "text": "Editing statutes for printing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1106",
+      "number": "1106.",
+      "heading": "Prothonotaries to keep files of advance copies of statutes.",
+      "text": "Prothonotaries to keep files of advance copies of statutes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1501",
+      "number": "1501.",
+      "heading": "Short title of part.",
+      "text": "Short title of part.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1502",
+      "number": "1502.",
+      "heading": "Application of part.",
+      "text": "Application of part.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1503",
+      "number": "1503.",
+      "heading": "Applicability of colonial law.",
+      "text": "Applicability of colonial law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1504",
+      "number": "1504.",
+      "heading": "Statutory remedy preferred over common law.",
+      "text": "Statutory remedy preferred over common law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1701",
+      "number": "1701.",
+      "heading": "Statutes generally.",
+      "text": "Statutes generally.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1702",
+      "number": "1702.",
+      "heading": "Statutes making appropriations.",
+      "text": "Statutes making appropriations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1703",
+      "number": "1703.",
+      "heading": "Statutes affecting the budget of any political subdivision.",
+      "text": "Statutes affecting the budget of any political subdivision.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1704",
+      "number": "1704.",
+      "heading": "Statutes enacted at a special session.",
+      "text": "Statutes enacted at a special session.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1901",
+      "number": "1901.",
+      "heading": "Rules of interpretation.",
+      "text": "Rules of interpretation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1902",
+      "number": "1902.",
+      "heading": "Number; gender; tense.",
+      "text": "Number; gender; tense.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1903",
+      "number": "1903.",
+      "heading": "Words and phrases.",
+      "text": "Words and phrases.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1904",
+      "number": "1904.",
+      "heading": "Numerals.",
+      "text": "Numerals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1905",
+      "number": "1905.",
+      "heading": "Joint authority; quorum.",
+      "text": "Joint authority; quorum.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1906",
+      "number": "1906.",
+      "heading": "Bonds.",
+      "text": "Bonds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1907",
+      "number": "1907.",
+      "heading": "Uniform standard time.",
+      "text": "Uniform standard time.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1908",
+      "number": "1908.",
+      "heading": "Computation of time.",
+      "text": "Computation of time.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1909",
+      "number": "1909.",
+      "heading": "Time; publication for successive weeks.",
+      "text": "Time; publication for successive weeks.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1910",
+      "number": "1910.",
+      "heading": "Time; computation of months.",
+      "text": "Time; computation of months.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1921",
+      "number": "1921.",
+      "heading": "Legislative intent controls.",
+      "text": "Legislative intent controls.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1922",
+      "number": "1922.",
+      "heading": "Presumptions in ascertaining legislative intent.",
+      "text": "Presumptions in ascertaining legislative intent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1923",
+      "number": "1923.",
+      "heading": "Grammar and punctuation of statutes.",
+      "text": "Grammar and punctuation of statutes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1924",
+      "number": "1924.",
+      "heading": "Construction of titles, preambles, provisos, exceptions and headings.",
+      "text": "Construction of titles, preambles, provisos, exceptions and headings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1925",
+      "number": "1925.",
+      "heading": "Constitutional construction of statutes.",
+      "text": "Constitutional construction of statutes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1926",
+      "number": "1926.",
+      "heading": "Presumption against retroactive effect.",
+      "text": "Presumption against retroactive effect.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1927",
+      "number": "1927.",
+      "heading": "Construction of uniform laws.",
+      "text": "Construction of uniform laws.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1928",
+      "number": "1928.",
+      "heading": "Rule of strict and liberal construction.",
+      "text": "Rule of strict and liberal construction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1929",
+      "number": "1929.",
+      "heading": "Penalties no bar to civil remedies.",
+      "text": "Penalties no bar to civil remedies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1930",
+      "number": "1930.",
+      "heading": "Penalties for each offense.",
+      "text": "Penalties for each offense.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1931",
+      "number": "1931.",
+      "heading": "Intent to defraud.",
+      "text": "Intent to defraud.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1932",
+      "number": "1932.",
+      "heading": "Statutes in pari materia.",
+      "text": "Statutes in pari materia.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1933",
+      "number": "1933.",
+      "heading": "Particular controls general.",
+      "text": "Particular controls general.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1934",
+      "number": "1934.",
+      "heading": "Irreconcilable clauses in the same statute.",
+      "text": "Irreconcilable clauses in the same statute.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1935",
+      "number": "1935.",
+      "heading": "Irreconcilable statutes passed by same General Assembly.",
+      "text": "Irreconcilable statutes passed by same General Assembly.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1936",
+      "number": "1936.",
+      "heading": "Irreconcilable statutes passed by different General Assemblies.",
+      "text": "Irreconcilable statutes passed by different General Assemblies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1937",
+      "number": "1937.",
+      "heading": "References to statutes and regulations.",
+      "text": "References to statutes and regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1938",
+      "number": "1938.",
+      "heading": "References to public bodies and public officers.",
+      "text": "References to public bodies and public officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1939",
+      "number": "1939.",
+      "heading": "Use of comments and reports.",
+      "text": "Use of comments and reports.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1951",
+      "number": "1951.",
+      "heading": "Interpretation of amendatory statutes.",
+      "text": "Interpretation of amendatory statutes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1952",
+      "number": "1952.",
+      "heading": "Effect of separate amendments on code provisions enacted by same General Assembly.",
+      "text": "Effect of separate amendments on code provisions enacted by same General Assembly.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1953",
+      "number": "1953.",
+      "heading": "Construction of amendatory statutes.",
+      "text": "Construction of amendatory statutes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1954",
+      "number": "1954.",
+      "heading": "Merger of subsequent amendments.",
+      "text": "Merger of subsequent amendments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1955",
+      "number": "1955.",
+      "heading": "Two or more amendments to same provision, one overlooking the other.",
+      "text": "Two or more amendments to same provision, one overlooking the other.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1956",
+      "number": "1956.",
+      "heading": "Repeal of amendatory statutes and original statutes subsequently amended.",
+      "text": "Repeal of amendatory statutes and original statutes subsequently amended.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1957",
+      "number": "1957.",
+      "heading": "Ineffective provisions not revived by reenactment in amendatory statutes.",
+      "text": "Ineffective provisions not revived by reenactment in amendatory statutes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1961",
+      "number": "1961.",
+      "heading": "Effect of reenactment on original statute.",
+      "text": "Effect of reenactment on original statute.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1962",
+      "number": "1962.",
+      "heading": "Repeal and reenactment.",
+      "text": "Repeal and reenactment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1963",
+      "number": "1963.",
+      "heading": "Effect of reenactment on intervening statutes.",
+      "text": "Effect of reenactment on intervening statutes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1971",
+      "number": "1971.",
+      "heading": "Implied repeal by later statute.",
+      "text": "Implied repeal by later statute.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1972",
+      "number": "1972.",
+      "heading": "Nonexistence of reason for statute does not effect repeal.",
+      "text": "Nonexistence of reason for statute does not effect repeal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1973",
+      "number": "1973.",
+      "heading": "No implied repeal by nonuser.",
+      "text": "No implied repeal by nonuser.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1974",
+      "number": "1974.",
+      "heading": "Effect of separate repeals on code provisions by same General Assembly.",
+      "text": "Effect of separate repeals on code provisions by same General Assembly.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1975",
+      "number": "1975.",
+      "heading": "Effect of repeal on limitations.",
+      "text": "Effect of repeal on limitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1976",
+      "number": "1976.",
+      "heading": "Effect of repeal on rights, et cetera.",
+      "text": "Effect of repeal on rights, et cetera.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1977",
+      "number": "1977.",
+      "heading": "Repeal does not revive repealed statute.",
+      "text": "Repeal does not revive repealed statute.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1978",
+      "number": "1978.",
+      "heading": "Repeal as obsolete does not affect substantive rights.",
+      "text": "Repeal as obsolete does not affect substantive rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1991",
+      "number": "1991.",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2301",
+      "number": "2301.",
+      "heading": "Equality of rights based on sex.",
+      "text": "Equality of rights based on sex.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2310",
+      "number": "2310.",
+      "heading": "Sovereign immunity reaffirmed; specific waiver.",
+      "text": "Sovereign immunity reaffirmed; specific waiver.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3101",
+      "number": "3101.",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3102",
+      "number": "3102.",
+      "heading": "Board established.",
+      "text": "Board established.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3103",
+      "number": "3103.",
+      "heading": "Powers and duties.",
+      "text": "Powers and duties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5",
+      "number": "5.",
+      "heading": "Repeal and suspension of inconsistent laws.",
+      "text": "Repeal and suspension of inconsistent laws.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6",
+      "number": "6.",
+      "heading": "Editing statutes for printing.",
+      "text": "Editing statutes for printing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8",
+      "number": "8.",
+      "heading": "Transition provisions on employment benefits.",
+      "text": "Transition provisions on employment benefits.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

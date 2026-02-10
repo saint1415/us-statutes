@@ -1,0 +1,94 @@
+{
+  "state": "district-of-columbia",
+  "path": "title-18/chapter-9",
+  "sections": [
+    {
+      "id": "section-18-901",
+      "number": "18-901",
+      "heading": "Short title.",
+      "text": "This chapter may be cited as the Uniform Electronic Wills Act.",
+      "history": "",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/18-901.html"
+    },
+    {
+      "id": "section-18-902",
+      "number": "18-902",
+      "heading": "Definitions.",
+      "text": "(a) For the purposes of this chapter, the term:\n\n(1) \"Electronic\" means relating to technology having electrical, digital, magnetic, wireless, optical, electromagnetic, or similar capabilities.\n\n(2) \"Electronic presence\" means the relationship of two or more individuals in different locations communicating in real time to the same extent as if the individuals were physically present in the same location.\n\n(3) \"Electronic will\" means a will executed electronically in compliance with § 18-905(a).\n\n(4) \"Record\" means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.\n\n(5) \"Sign\" means, with present intent to authenticate or adopt a record:\n\n(A) To execute or adopt a tangible symbol; or\n\n(B) To affix to or logically associate with the record an electronic symbol or process.\n\n(6) \"State\" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States. The term includes a federally recognized Indian tribe.\n\n(7) \"Will\" includes a codicil and any testamentary instrument that merely appoints an executor, revokes or revises another will, nominates a guardian, or expressly excludes or limits the right of an individual or class to succeed to property of the decedent passing by intestate succession.",
+      "history": "",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/18-902.html"
+    },
+    {
+      "id": "section-18-903",
+      "number": "18-903",
+      "heading": "Law applicable to electronic will; principles of equity.",
+      "text": "An electronic will is a will for all purposes of the law of the District of Columbia. The law of the District of Columbia applicable to wills and principles of equity apply to an electronic will, except as modified by this chapter.",
+      "history": "",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/18-903.html"
+    },
+    {
+      "id": "section-18-904",
+      "number": "18-904",
+      "heading": "Choice of law regarding execution.",
+      "text": "(a) A will executed electronically but not in compliance with § 18-905(a) is an electronic will under this chapter if executed in compliance with the law of the jurisdiction where the testator is:\n\n(1) Physically located when the will is signed; or\n\n(2) Domiciled or resides when the will is signed or when the testator dies.",
+      "history": "",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/18-904.html"
+    },
+    {
+      "id": "section-18-905",
+      "number": "18-905",
+      "heading": "Execution of electronic will.",
+      "text": "(a) Subject to § 18-908(d) and except as provided in § 18-906, an electronic will shall be:\n\n(1) A record that is readable as text at the time of signing under paragraph (2) of this subsection;\n\n(2) Signed by:\n\n(A) The testator; or\n\n(B) Another individual in the testator's name, in the testator's physical presence and by the testator's direction; and\n\n(3) Signed in the physical or electronic presence of the testator by at least 2 individuals, each of whom is a resident of a state and physically located in a state at the time of signing and within a reasonable time after witnessing:\n\n(A) The signing of the will under paragraph (2) of this subsection; or\n\n(B) The testator's acknowledgment of the signing of the will under paragraph (2) of this subsection or acknowledgment of the will.\n\n(b) The intent of a testator that the record under subsection (a)(1) of this section be the testator's electronic will may be established by extrinsic evidence.",
+      "history": "",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/18-905.html"
+    },
+    {
+      "id": "section-18-906",
+      "number": "18-906",
+      "heading": "Harmless error.",
+      "text": "(a) A record readable as text not executed in compliance with § 18-905(a) is deemed to comply with § 18-905(a) if the proponent of the record establishes by clear and convincing evidence that the decedent intended the record to be:\n\n(1) The decedent's will;\n\n(2) A partial or complete revocation of the decedent's will;\n\n(3) An addition to or modification of the decedent's will; or\n\n(4) A partial or complete revival of the decedent's formerly revoked will or part of the will.",
+      "history": "",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/18-906.html"
+    },
+    {
+      "id": "section-18-907",
+      "number": "18-907",
+      "heading": "Revocation.",
+      "text": "(a) An electronic will may revoke all or part of a previous will.\n\n(b) All or part of an electronic will is revoked by:\n\n(1) A subsequent will that revokes all or part of the electronic will expressly or by inconsistency; or\n\n(2) A physical act, if it is established by a preponderance of the evidence that the testator, with the intent of revoking all or part of the will, performed the act or directed another individual who performed the act in the testator's physical presence.",
+      "history": "",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/18-907.html"
+    },
+    {
+      "id": "section-18-908",
+      "number": "18-908",
+      "heading": "Electronic will attested and made self-proving at time of execution.",
+      "text": "(a) An electronic will may be simultaneously executed, attested, and made self-proving by acknowledgment of the testator and affidavits of the witnesses.\n\n(b) The acknowledgement and affidavits under subsection (a) of this section shall be:\n\n(1) Made before an officer authorized to administer oaths under law of the state in which execution occurs or, if fewer than two attesting witnesses are physically present in the same location as the testator at the time of signing under § 18-905(a)(2), before an officer authorized under § 1-1231.13a.; and\n\n(2) Evidence by the officer's certificate under official seal affixed to or logically associated with the electronic will.\n\n(c) The acknowledgement and affidavits under subsection (a) of this section shall be in substantially the following form:\n\n(d) A signature physically or electronically affixed to an affidavit that is affixed to or logically associated with an electronic will under this chapter is deemed a signature of the electronic will under § 18-905(a).",
+      "history": "",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/18-908.html"
+    },
+    {
+      "id": "section-18-909",
+      "number": "18-909",
+      "heading": "Certification of paper copy.",
+      "text": "An individual may create a certified paper copy of an electronic will by affirming under penalty of perjury that a paper copy of the electronic will is a complete, true, and accurate copy of the electronic will. If the electronic will is made self-proving, the certified paper copy of the will shall include the self-proving affidavits.",
+      "history": "",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/18-909.html"
+    },
+    {
+      "id": "section-18-910",
+      "number": "18-910",
+      "heading": "Uniformity of application and construction.",
+      "text": "In applying and construing this uniform act, consideration shall be given to the need to promote uniformity of the law with respect to its subject matter among states that enact it.",
+      "history": "",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/18-910.html"
+    },
+    {
+      "id": "section-18-911",
+      "number": "18-911",
+      "heading": "Transitional provision.",
+      "text": "This chapter applies to the will of a decedent who dies on or after May 27, 2020.",
+      "history": "",
+      "source_url": "https://code.dccouncil.us/us/dc/council/code/sections/18-911.html"
+    }
+  ]
+}
