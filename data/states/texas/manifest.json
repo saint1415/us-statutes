@@ -4,7 +4,7 @@
   "code_name": "Texas Statutes",
   "source": "official_website",
   "source_url": "https://statutes.capitol.texas.gov",
-  "last_updated": "2026-02-10T23:52:01.865733+00:00",
+  "last_updated": "2026-02-11T13:26:56.853163+00:00",
   "year": 2024,
   "structure": [
     {
@@ -25,8 +25,8 @@
     }
   ],
   "stats": {
-    "titles": 0,
-    "chapters": 0,
-    "sections": 0
+    "titles": 2,
+    "chapters": 13,
+    "sections": 148
   }
 }

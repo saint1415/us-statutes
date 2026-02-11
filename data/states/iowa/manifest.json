@@ -1,0 +1,28 @@
+{
+  "state": "iowa",
+  "state_abbr": "IA",
+  "code_name": "Iowa Code",
+  "source": "official_website",
+  "source_url": "https://www.legis.iowa.gov/law/iowaCode/sections",
+  "last_updated": "2026-02-11T13:07:27.430848+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "title",
+      "label": "Title"
+    },
+    {
+      "level": "chapter",
+      "label": "Chapter"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 16,
+    "chapters": 1264,
+    "sections": 40926
+  }
+}

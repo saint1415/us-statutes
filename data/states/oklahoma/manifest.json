@@ -4,7 +4,7 @@
   "code_name": "Oklahoma Statutes",
   "source": "official_website",
   "source_url": "https://www.oscn.net/applications/oscn/index.asp?ftdb=STOKST&level=1",
-  "last_updated": "2026-02-10T23:51:59.100703+00:00",
+  "last_updated": "2026-02-11T14:02:50.902300+00:00",
   "year": 2024,
   "structure": [
     {
@@ -17,8 +17,8 @@
     }
   ],
   "stats": {
-    "titles": 3,
-    "chapters": 16,
-    "sections": 4154
+    "titles": 89,
+    "chapters": 574,
+    "sections": 96076
   }
 }

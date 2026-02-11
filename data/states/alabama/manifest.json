@@ -4,7 +4,7 @@
   "code_name": "Code of Alabama",
   "source": "official_website",
   "source_url": "https://alisondb.legislature.state.al.us/alison/CodeOfAlabama/1975",
-  "last_updated": "2026-02-10T23:41:30.638566+00:00",
+  "last_updated": "2026-02-11T13:03:41.230030+00:00",
   "year": 2024,
   "structure": [
     {
@@ -21,8 +21,8 @@
     }
   ],
   "stats": {
-    "titles": 16,
-    "chapters": 357,
-    "sections": 3602
+    "titles": 44,
+    "chapters": 1236,
+    "sections": 13699
   }
 }

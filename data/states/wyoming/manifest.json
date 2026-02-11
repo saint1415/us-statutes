@@ -4,7 +4,7 @@
   "code_name": "Wyoming Statutes",
   "source": "official_website",
   "source_url": "https://wyoleg.gov/NXT/gateway.dll?f=templates&fn=default.htm",
-  "last_updated": "2026-02-10T23:54:19.178654+00:00",
+  "last_updated": "2026-02-11T13:34:10.590119+00:00",
   "year": 2024,
   "structure": [
     {
@@ -21,8 +21,8 @@
     }
   ],
   "stats": {
-    "titles": 0,
-    "chapters": 0,
-    "sections": 0
+    "titles": 43,
+    "chapters": 782,
+    "sections": 6946
   }
 }

@@ -2,9 +2,9 @@
   "state": "arkansas",
   "state_abbr": "AR",
   "code_name": "Arkansas Code",
-  "source": "law_resource_org",
-  "source_url": "https://law.resource.org/pub/us/code/ar/",
-  "last_updated": "2026-02-09T21:58:29.812691+00:00",
+  "source": "official_website",
+  "source_url": "https://www.arkleg.state.ar.us/Bills/Codified",
+  "last_updated": "2026-02-11T13:02:23.697656+00:00",
   "year": 2024,
   "structure": [
     {
@@ -25,8 +25,8 @@
     }
   ],
   "stats": {
-    "titles": 0,
-    "chapters": 0,
-    "sections": 0
+    "titles": 13,
+    "chapters": 66,
+    "sections": 528
   }
 }

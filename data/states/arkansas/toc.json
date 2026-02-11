@@ -1,4 +1,3264 @@
 {
   "state": "arkansas",
-  "children": []
+  "children": [
+    {
+      "id": "title-title-1-general-provisions-1-1-101-1-5-122",
+      "number": "title-1-general-provisions-1-1-101-1-5-122",
+      "heading": "Title 1 General Provisions 1 1 101 1 5 122",
+      "children": [
+        {
+          "id": "chapter-chapter-1-general-provisions-1-1-101-1-1-103",
+          "number": "chapter-1-general-provisions-1-1-101-1-1-103",
+          "heading": "Chapter 1 General Provisions 1 1 101 1 1 103",
+          "section_count": 3,
+          "children": [
+            {
+              "id": "section-1-1-101",
+              "number": "1-1-101",
+              "heading": "Extension of western boundary lineSection 1-1-102 - Signature by markSection 1-1-103 - Application of foreign law, legal code, or system - Definitions"
+            },
+            {
+              "id": "section-1-1-102",
+              "number": "1-1-102",
+              "heading": "Signature by mark"
+            },
+            {
+              "id": "section-1-1-103",
+              "number": "1-1-103",
+              "heading": "Application of foreign law, legal code, or system - Definitions"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-3-publication-of-laws-reports-etc-1-3-101-1-3-109",
+          "number": "chapter-3-publication-of-laws-reports-etc-1-3-101-1-3-109",
+          "heading": "Chapter 3 Publication Of Laws Reports Etc 1 3 101 1 3 109",
+          "section_count": 9,
+          "children": [
+            {
+              "id": "section-1-3-101",
+              "number": "1-3-101",
+              "heading": "PenaltySection 1-3-102 - [Repealed]Section 1-3-103 - Orders of Arkansas Public Service Commission and State Highway CommissionSection 1-3-104 - [Repealed]Section 1-3-105 - Report of commissioners of special improvement districtsSection 1-3-106 - Newspapers eligible to publish noticesSection 1-3-107 "
+            },
+            {
+              "id": "section-1-3-102",
+              "number": "1-3-102",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-1-3-103",
+              "number": "1-3-103",
+              "heading": "Orders of Arkansas Public Service Commission and State Highway Commission"
+            },
+            {
+              "id": "section-1-3-104",
+              "number": "1-3-104",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-1-3-105",
+              "number": "1-3-105",
+              "heading": "Report of commissioners of special improvement districts"
+            },
+            {
+              "id": "section-1-3-106",
+              "number": "1-3-106",
+              "heading": "Newspapers eligible to publish notices"
+            },
+            {
+              "id": "section-1-3-107",
+              "number": "1-3-107",
+              "heading": "Fees for publishing notices"
+            },
+            {
+              "id": "section-1-3-108",
+              "number": "1-3-108",
+              "heading": "Publications in more than one newspaper"
+            },
+            {
+              "id": "section-1-3-109",
+              "number": "1-3-109",
+              "heading": "Printing of publication cost"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-4-state-symbols-motto-etc-1-4-101-1-4-140",
+          "number": "chapter-4-state-symbols-motto-etc-1-4-101-1-4-140",
+          "heading": "Chapter 4 State Symbols Motto Etc 1 4 101 1 4 140",
+          "section_count": 40,
+          "children": [
+            {
+              "id": "section-1-4-101",
+              "number": "1-4-101",
+              "heading": "State flagSection 1-4-102 - Salute to state flagSection 1-4-103 - Lowering of flags upon death of public officialsSection 1-4-104 - Distribution of flagsSection 1-4-105 - Pronunciation of state nameSection 1-4-106 - State nicknameSection 1-4-107 - State mottoSection 1-4-108 - Official sealsSection 1"
+            },
+            {
+              "id": "section-1-4-102",
+              "number": "1-4-102",
+              "heading": "Salute to state flag"
+            },
+            {
+              "id": "section-1-4-103",
+              "number": "1-4-103",
+              "heading": "Lowering of flags upon death of public officials"
+            },
+            {
+              "id": "section-1-4-104",
+              "number": "1-4-104",
+              "heading": "Distribution of flags"
+            },
+            {
+              "id": "section-1-4-105",
+              "number": "1-4-105",
+              "heading": "Pronunciation of state name"
+            },
+            {
+              "id": "section-1-4-106",
+              "number": "1-4-106",
+              "heading": "State nickname"
+            },
+            {
+              "id": "section-1-4-107",
+              "number": "1-4-107",
+              "heading": "State motto"
+            },
+            {
+              "id": "section-1-4-108",
+              "number": "1-4-108",
+              "heading": "Official seals"
+            },
+            {
+              "id": "section-1-4-109",
+              "number": "1-4-109",
+              "heading": "State flower"
+            },
+            {
+              "id": "section-1-4-110",
+              "number": "1-4-110",
+              "heading": "State insect"
+            },
+            {
+              "id": "section-1-4-111",
+              "number": "1-4-111",
+              "heading": "State gem, mineral, and rock"
+            },
+            {
+              "id": "section-1-4-112",
+              "number": "1-4-112",
+              "heading": "State beverage"
+            },
+            {
+              "id": "section-1-4-113",
+              "number": "1-4-113",
+              "heading": "State musical instrument"
+            },
+            {
+              "id": "section-1-4-114",
+              "number": "1-4-114",
+              "heading": "Poet laureate"
+            },
+            {
+              "id": "section-1-4-115",
+              "number": "1-4-115",
+              "heading": "State fruit and vegetable"
+            },
+            {
+              "id": "section-1-4-116",
+              "number": "1-4-116",
+              "heading": "State songs and anthem"
+            },
+            {
+              "id": "section-1-4-117",
+              "number": "1-4-117",
+              "heading": "Official language"
+            },
+            {
+              "id": "section-1-4-118",
+              "number": "1-4-118",
+              "heading": "State bird"
+            },
+            {
+              "id": "section-1-4-119",
+              "number": "1-4-119",
+              "heading": "State tree"
+            },
+            {
+              "id": "section-1-4-120",
+              "number": "1-4-120",
+              "heading": "State folk dance"
+            },
+            {
+              "id": "section-1-4-121",
+              "number": "1-4-121",
+              "heading": "Purple martin capitals"
+            },
+            {
+              "id": "section-1-4-122",
+              "number": "1-4-122",
+              "heading": "State mammal"
+            },
+            {
+              "id": "section-1-4-123",
+              "number": "1-4-123",
+              "heading": "Trout Capital of the U.S.A"
+            },
+            {
+              "id": "section-1-4-124",
+              "number": "1-4-124",
+              "heading": "State soil"
+            },
+            {
+              "id": "section-1-4-125",
+              "number": "1-4-125",
+              "heading": "State historic cooking vessel"
+            },
+            {
+              "id": "section-1-4-126",
+              "number": "1-4-126",
+              "heading": "State butterfly"
+            },
+            {
+              "id": "section-1-4-127",
+              "number": "1-4-127",
+              "heading": "State grain"
+            },
+            {
+              "id": "section-1-4-128",
+              "number": "1-4-128",
+              "heading": "Lowering of state flags when member of armed services killed in action - Definition"
+            },
+            {
+              "id": "section-1-4-129",
+              "number": "1-4-129",
+              "heading": "State grape"
+            },
+            {
+              "id": "section-1-4-130",
+              "number": "1-4-130",
+              "heading": "State nut"
+            },
+            {
+              "id": "section-1-4-131",
+              "number": "1-4-131",
+              "heading": "Artist laureate"
+            },
+            {
+              "id": "section-1-4-132",
+              "number": "1-4-132",
+              "heading": "Poultry Capital of the World"
+            },
+            {
+              "id": "section-1-4-133",
+              "number": "1-4-133",
+              "heading": "Display of national motto"
+            },
+            {
+              "id": "section-1-4-134",
+              "number": "1-4-134",
+              "heading": "Arkansas's contribution to National Statuary Hall Collection - Legislative findings and intent"
+            },
+            {
+              "id": "section-1-4-135",
+              "number": "1-4-135",
+              "heading": "State dinosaur"
+            },
+            {
+              "id": "section-1-4-136",
+              "number": "1-4-136",
+              "heading": "State knife"
+            },
+            {
+              "id": "section-1-4-137",
+              "number": "1-4-137",
+              "heading": "State primitive fish"
+            },
+            {
+              "id": "section-1-4-138",
+              "number": "1-4-138",
+              "heading": "State firearm"
+            },
+            {
+              "id": "section-1-4-139",
+              "number": "1-4-139",
+              "heading": "Birthplace of the Bowie Knife, Arkansas Heritage Site - Legislative findings and intent"
+            },
+            {
+              "id": "section-1-4-140",
+              "number": "1-4-140",
+              "heading": "State steam locomotive"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-5-holidays-and-observances-1-5-101-1-5-122",
+          "number": "chapter-5-holidays-and-observances-1-5-101-1-5-122",
+          "heading": "Chapter 5 Holidays And Observances 1 5 101 1 5 122",
+          "section_count": 22,
+          "children": [
+            {
+              "id": "section-1-5-101",
+              "number": "1-5-101",
+              "heading": "Official holidaysSection 1-5-102 - State offices to be closed on holidays - ExceptionsSection 1-5-103 - State office closings by proclamationSection 1-5-104 - Entitlement to paid holiday or equivalent timeSection 1-5-105 - Commercial paper payable day after holidaySection 1-5-106 - Memorial days gen"
+            },
+            {
+              "id": "section-1-5-102",
+              "number": "1-5-102",
+              "heading": "State offices to be closed on holidays - Exceptions"
+            },
+            {
+              "id": "section-1-5-103",
+              "number": "1-5-103",
+              "heading": "State office closings by proclamation"
+            },
+            {
+              "id": "section-1-5-104",
+              "number": "1-5-104",
+              "heading": "Entitlement to paid holiday or equivalent time"
+            },
+            {
+              "id": "section-1-5-105",
+              "number": "1-5-105",
+              "heading": "Commercial paper payable day after holiday"
+            },
+            {
+              "id": "section-1-5-106",
+              "number": "1-5-106",
+              "heading": "Memorial days generally"
+            },
+            {
+              "id": "section-1-5-107",
+              "number": "1-5-107",
+              "heading": "Confederate Flag Day"
+            },
+            {
+              "id": "section-1-5-108",
+              "number": "1-5-108",
+              "heading": "White Cane Safety Day"
+            },
+            {
+              "id": "section-1-5-109",
+              "number": "1-5-109",
+              "heading": "Prisoners of War Remembrance Day"
+            },
+            {
+              "id": "section-1-5-110",
+              "number": "1-5-110",
+              "heading": "National Garden Week"
+            },
+            {
+              "id": "section-1-5-111",
+              "number": "1-5-111",
+              "heading": "Arkansas Agriculture Recognition Day"
+            },
+            {
+              "id": "section-1-5-112",
+              "number": "1-5-112",
+              "heading": "POW/MIA Recognition Day"
+            },
+            {
+              "id": "section-1-5-113",
+              "number": "1-5-113",
+              "heading": "Native American Heritage Week"
+            },
+            {
+              "id": "section-1-5-114",
+              "number": "1-5-114",
+              "heading": "Juneteenth Independence Day"
+            },
+            {
+              "id": "section-1-5-115",
+              "number": "1-5-115",
+              "heading": "Firefighter Recognition Day"
+            },
+            {
+              "id": "section-1-5-116",
+              "number": "1-5-116",
+              "heading": "Hemophilia Awareness Day"
+            },
+            {
+              "id": "section-1-5-117",
+              "number": "1-5-117",
+              "heading": "Arkansas Music Appreciation Day"
+            },
+            {
+              "id": "section-1-5-118",
+              "number": "1-5-118",
+              "heading": "National Day of the Cowboy"
+            },
+            {
+              "id": "section-1-5-119",
+              "number": "1-5-119",
+              "heading": "Sultana Disaster Remembrance Day"
+            },
+            {
+              "id": "section-1-5-120",
+              "number": "1-5-120",
+              "heading": "John R. \"Johnny\" Cash Day"
+            },
+            {
+              "id": "section-1-5-121",
+              "number": "1-5-121",
+              "heading": "Lupus Awareness Day"
+            },
+            {
+              "id": "section-1-5-122",
+              "number": "1-5-122",
+              "heading": "Women Veterans Day"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-10-general-assembly-10-2-101-10",
+      "number": "title-10-general-assembly-10-2-101-10",
+      "heading": "Title 10 General Assembly 10 2 101 10",
+      "children": [
+        {
+          "id": "chapter-chapter-5-commission-on-interstate-cooperation-10-5-101",
+          "number": "chapter-5-commission-on-interstate-cooperation-10-5-101",
+          "heading": "Chapter 5 Commission On Interstate Cooperation 10 5 101",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-10-5-101",
+              "number": "10-5-101",
+              "heading": "10-5-105 - [Repealed]"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-6-repealed-10-6-101-10-6-115",
+          "number": "chapter-6-repealed-10-6-101-10-6-115",
+          "heading": "Chapter 6 Repealed 10 6 101 10 6 115",
+          "section_count": 15,
+          "children": [
+            {
+              "id": "section-10-6-101",
+              "number": "10-6-101",
+              "heading": "[Repealed]Section 10-6-102 - [Repealed]Section 10-6-103 - [Repealed]Section 10-6-104 - [Repealed]Section 10-6-105 - [Repealed]Section 10-6-106 - [Repealed]Section 10-6-107 - [Repealed]Section 10-6-108 - [Repealed]Section 10-6-109 - [Repealed]Section 10-6-110 - [Repealed]Section 10-6-111 - [Repealed]"
+            },
+            {
+              "id": "section-10-6-102",
+              "number": "10-6-102",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-10-6-103",
+              "number": "10-6-103",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-10-6-104",
+              "number": "10-6-104",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-10-6-105",
+              "number": "10-6-105",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-10-6-106",
+              "number": "10-6-106",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-10-6-107",
+              "number": "10-6-107",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-10-6-108",
+              "number": "10-6-108",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-10-6-109",
+              "number": "10-6-109",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-10-6-110",
+              "number": "10-6-110",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-10-6-111",
+              "number": "10-6-111",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-10-6-112",
+              "number": "10-6-112",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-10-6-113",
+              "number": "10-6-113",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-10-6-114",
+              "number": "10-6-114",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-10-6-115",
+              "number": "10-6-115",
+              "heading": "[Repealed]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-11-labor-and-industrial-relations-11-1-201-11-15-105",
+      "number": "title-11-labor-and-industrial-relations-11-1-201-11-15-105",
+      "heading": "Title 11 Labor And Industrial Relations 11 1 201 11 15 105",
+      "children": [
+        {
+          "id": "chapter-chapter-12-employment-of-children-in-entertainment-industry-",
+          "number": "chapter-12-employment-of-children-in-entertainment-industry-",
+          "heading": "Chapter 12 Employment Of Children In Entertainment Industry ",
+          "section_count": 5,
+          "children": [
+            {
+              "id": "section-11-12-101",
+              "number": "11-12-101",
+              "heading": "PurposeSection 11-12-102 - DefinitionsSection 11-12-103 - PenaltySection 11-12-104 - Restrictions on employmentSection 11-12-105 - Implementation and enforcement"
+            },
+            {
+              "id": "section-11-12-102",
+              "number": "11-12-102",
+              "heading": "Definitions"
+            },
+            {
+              "id": "section-11-12-103",
+              "number": "11-12-103",
+              "heading": "Penalty"
+            },
+            {
+              "id": "section-11-12-104",
+              "number": "11-12-104",
+              "heading": "Restrictions on employment"
+            },
+            {
+              "id": "section-11-12-105",
+              "number": "11-12-105",
+              "heading": "Implementation and enforcement"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-13-repealed-arkansas-conservation-corps-act-11-13-10",
+          "number": "chapter-13-repealed-arkansas-conservation-corps-act-11-13-10",
+          "heading": "Chapter 13 Repealed Arkansas Conservation Corps Act 11 13 10",
+          "section_count": 13,
+          "children": [
+            {
+              "id": "section-11-13-101",
+              "number": "11-13-101",
+              "heading": "[Repealed]Section 11-13-102 - [Repealed]Section 11-13-103 - [Repealed]Section 11-13-104 - [Repealed]Section 11-13-105 - [Repealed]Section 11-13-106 - [Repealed]Section 11-13-107 - [Repealed]Section 11-13-108 - [Repealed]Section 11-13-109 - [Repealed]Section 11-13-110 - [Repealed]Section 11-13-111 - "
+            },
+            {
+              "id": "section-11-13-102",
+              "number": "11-13-102",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-11-13-103",
+              "number": "11-13-103",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-11-13-104",
+              "number": "11-13-104",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-11-13-105",
+              "number": "11-13-105",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-11-13-106",
+              "number": "11-13-106",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-11-13-107",
+              "number": "11-13-107",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-11-13-108",
+              "number": "11-13-108",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-11-13-109",
+              "number": "11-13-109",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-11-13-110",
+              "number": "11-13-110",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-11-13-111",
+              "number": "11-13-111",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-11-13-112",
+              "number": "11-13-112",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-11-13-113",
+              "number": "11-13-113",
+              "heading": "[Repealed]"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-14-voluntary-program-for-drug-free-workplaces-11-14-",
+          "number": "chapter-14-voluntary-program-for-drug-free-workplaces-11-14-",
+          "heading": "Chapter 14 Voluntary Program For Drug Free Workplaces 11 14 ",
+          "section_count": 12,
+          "children": [
+            {
+              "id": "section-11-14-101",
+              "number": "11-14-101",
+              "heading": "Legislative intentSection 11-14-102 - DefinitionsSection 11-14-103 - ApplicabilitySection 11-14-104 - Testing for drugs or alcohol authorized - Conditions for testing - Effect of failure to complySection 11-14-105 - Written policy statementSection 11-14-106 - Required drug or alcohol testsSection 11"
+            },
+            {
+              "id": "section-11-14-102",
+              "number": "11-14-102",
+              "heading": "Definitions"
+            },
+            {
+              "id": "section-11-14-103",
+              "number": "11-14-103",
+              "heading": "Applicability"
+            },
+            {
+              "id": "section-11-14-104",
+              "number": "11-14-104",
+              "heading": "Testing for drugs or alcohol authorized - Conditions for testing - Effect of failure to comply"
+            },
+            {
+              "id": "section-11-14-105",
+              "number": "11-14-105",
+              "heading": "Written policy statement"
+            },
+            {
+              "id": "section-11-14-106",
+              "number": "11-14-106",
+              "heading": "Required drug or alcohol tests"
+            },
+            {
+              "id": "section-11-14-107",
+              "number": "11-14-107",
+              "heading": "Testing subject to United States Department of Transportation procedures - Verification - Chain of custody procedures - Costs - Discrimination on grounds of voluntary treatment prohibited"
+            },
+            {
+              "id": "section-11-14-108",
+              "number": "11-14-108",
+              "heading": "Drug or alcohol use not handicap or disability - Drug or alcohol use cause for firing or failure to hire - Miscellaneous provisions"
+            },
+            {
+              "id": "section-11-14-109",
+              "number": "11-14-109",
+              "heading": "Confidentiality of records"
+            },
+            {
+              "id": "section-11-14-110",
+              "number": "11-14-110",
+              "heading": "Licensure of testing laboratory"
+            },
+            {
+              "id": "section-11-14-111",
+              "number": "11-14-111",
+              "heading": "Rules and regulations"
+            },
+            {
+              "id": "section-11-14-112",
+              "number": "11-14-112",
+              "heading": "Rating plans based on drug-free workplace program participation"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-15-voluntary-veterans-preference-employment-policy-1",
+          "number": "chapter-15-voluntary-veterans-preference-employment-policy-1",
+          "heading": "Chapter 15 Voluntary Veterans Preference Employment Policy 1",
+          "section_count": 5,
+          "children": [
+            {
+              "id": "section-11-15-101",
+              "number": "11-15-101",
+              "heading": "TitleSection 11-15-102 - DefinitionsSection 11-15-103 - Voluntary veterans' preference employment policy - Private employment - Local government employmentSection 11-15-104 - Registry - Participating employersSection 11-15-105 - Verification of eligibility"
+            },
+            {
+              "id": "section-11-15-102",
+              "number": "11-15-102",
+              "heading": "Definitions"
+            },
+            {
+              "id": "section-11-15-103",
+              "number": "11-15-103",
+              "heading": "Voluntary veterans' preference employment policy - Private employment - Local government employment"
+            },
+            {
+              "id": "section-11-15-104",
+              "number": "11-15-104",
+              "heading": "Registry - Participating employers"
+            },
+            {
+              "id": "section-11-15-105",
+              "number": "11-15-105",
+              "heading": "Verification of eligibility"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-6-child-labor-11-6-101-11-6-116",
+          "number": "chapter-6-child-labor-11-6-101-11-6-116",
+          "heading": "Chapter 6 Child Labor 11 6 101 11 6 116",
+          "section_count": 16,
+          "children": [
+            {
+              "id": "section-11-6-101",
+              "number": "11-6-101",
+              "heading": "Industrial education not prohibitedSection 11-6-102 - Certain children excepted from chapterSection 11-6-103 - Penalty - Disposition of fines - DefinitionSection 11-6-104 - Children under age 14 years prohibited from working - ExceptionSection 11-6-105 - Children under age 16 years - Restrictions on"
+            },
+            {
+              "id": "section-11-6-102",
+              "number": "11-6-102",
+              "heading": "Certain children excepted from chapter"
+            },
+            {
+              "id": "section-11-6-103",
+              "number": "11-6-103",
+              "heading": "Penalty - Disposition of fines - Definition"
+            },
+            {
+              "id": "section-11-6-104",
+              "number": "11-6-104",
+              "heading": "Children under age 14 years prohibited from working - Exception"
+            },
+            {
+              "id": "section-11-6-105",
+              "number": "11-6-105",
+              "heading": "Children under age 16 years - Restrictions on employment generally"
+            },
+            {
+              "id": "section-11-6-106",
+              "number": "11-6-106",
+              "heading": "Children under age 16 years - Prohibitions against certain kinds and places of work - Exceptions"
+            },
+            {
+              "id": "section-11-6-107",
+              "number": "11-6-107",
+              "heading": "Children under age 16 years - Prohibitions against certain kinds and places of work"
+            },
+            {
+              "id": "section-11-6-108",
+              "number": "11-6-108",
+              "heading": "Children under age 16 years - Hours of employment"
+            },
+            {
+              "id": "section-11-6-109",
+              "number": "11-6-109",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-11-6-110",
+              "number": "11-6-110",
+              "heading": "Children under age 17 years - Hours of employment"
+            },
+            {
+              "id": "section-11-6-111",
+              "number": "11-6-111",
+              "heading": "Inspection of workplace - Prosecution of violators"
+            },
+            {
+              "id": "section-11-6-112",
+              "number": "11-6-112",
+              "heading": "Newspaper delivery work permitted"
+            },
+            {
+              "id": "section-11-6-113",
+              "number": "11-6-113",
+              "heading": "Professional baseball work as batboy or batgirl permitted"
+            },
+            {
+              "id": "section-11-6-114",
+              "number": "11-6-114",
+              "heading": "Seasonal agricultural labor permitted"
+            },
+            {
+              "id": "section-11-6-115",
+              "number": "11-6-115",
+              "heading": "Domestic labor and child care in connection with church functions permitted - Definition"
+            },
+            {
+              "id": "section-11-6-116",
+              "number": "11-6-116",
+              "heading": "Sports officiating permitted in certain sports"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-8-injury-or-death-of-employees-generally-11-8-101-11",
+          "number": "chapter-8-injury-or-death-of-employees-generally-11-8-101-11",
+          "heading": "Chapter 8 Injury Or Death Of Employees Generally 11 8 101 11",
+          "section_count": 9,
+          "children": [
+            {
+              "id": "section-11-8-101",
+              "number": "11-8-101",
+              "heading": "DefinitionSection 11-8-102 - ExceptionSection 11-8-103 - Corporations liable for injury or death resulting from negligenceSection 11-8-104 - Contributory negligence no bar to recoverySection 11-8-105 - Assumption of risk no defense when safety statute violatedSection 11-8-106 - Contract exemptions v"
+            },
+            {
+              "id": "section-11-8-102",
+              "number": "11-8-102",
+              "heading": "Exception"
+            },
+            {
+              "id": "section-11-8-103",
+              "number": "11-8-103",
+              "heading": "Corporations liable for injury or death resulting from negligence"
+            },
+            {
+              "id": "section-11-8-104",
+              "number": "11-8-104",
+              "heading": "Contributory negligence no bar to recovery"
+            },
+            {
+              "id": "section-11-8-105",
+              "number": "11-8-105",
+              "heading": "Assumption of risk no defense when safety statute violated"
+            },
+            {
+              "id": "section-11-8-106",
+              "number": "11-8-106",
+              "heading": "Contract exemptions void - Setoff for insurance contributions"
+            },
+            {
+              "id": "section-11-8-107",
+              "number": "11-8-107",
+              "heading": "Limitation of action"
+            },
+            {
+              "id": "section-11-8-108",
+              "number": "11-8-108",
+              "heading": "Survival of cause of action"
+            },
+            {
+              "id": "section-11-8-109",
+              "number": "11-8-109",
+              "heading": "Liability of companies engaged in coal mining"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-13-libraries-archives-and-cultural-resources-13-2-101-",
+      "number": "title-13-libraries-archives-and-cultural-resources-13-2-101-",
+      "heading": "Title 13 Libraries Archives And Cultural Resources 13 2 101 ",
+      "children": [
+        {
+          "id": "chapter-chapter-10-arkansas-medal-of-honor-commission-13-10-101",
+          "number": "chapter-10-arkansas-medal-of-honor-commission-13-10-101",
+          "heading": "Chapter 10 Arkansas Medal Of Honor Commission 13 10 101",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-13-10-101",
+              "number": "13-10-101",
+              "heading": "Creation - Duties"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-11-senior-arkansans-hall-of-fame-13-11-101-13-11-102",
+          "number": "chapter-11-senior-arkansans-hall-of-fame-13-11-101-13-11-102",
+          "heading": "Chapter 11 Senior Arkansans Hall Of Fame 13 11 101 13 11 102",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-13-11-101",
+              "number": "13-11-101",
+              "heading": "CreationSection 13-11-102 - Administration - Rules"
+            },
+            {
+              "id": "section-13-11-102",
+              "number": "13-11-102",
+              "heading": "Administration - Rules"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-12-arkansas-foresters-hall-of-fame-13-12-101-13-12-1",
+          "number": "chapter-12-arkansas-foresters-hall-of-fame-13-12-101-13-12-1",
+          "heading": "Chapter 12 Arkansas Foresters Hall Of Fame 13 12 101 13 12 1",
+          "section_count": 3,
+          "children": [
+            {
+              "id": "section-13-12-101",
+              "number": "13-12-101",
+              "heading": "CreationSection 13-12-102 - SelectionSection 13-12-103 - Rules"
+            },
+            {
+              "id": "section-13-12-102",
+              "number": "13-12-102",
+              "heading": "Selection"
+            },
+            {
+              "id": "section-13-12-103",
+              "number": "13-12-103",
+              "heading": "Rules"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-13-arkansas-civil-war-sesquicentennial-commission-13",
+          "number": "chapter-13-arkansas-civil-war-sesquicentennial-commission-13",
+          "heading": "Chapter 13 Arkansas Civil War Sesquicentennial Commission 13",
+          "section_count": 5,
+          "children": [
+            {
+              "id": "section-13-13-101",
+              "number": "13-13-101",
+              "heading": "Arkansas Civil War Sesquicentennial CommissionSection 13-13-102 - MembersSection 13-13-103 - DutiesSection 13-13-104 - FundingSection 13-13-105 - Expiration of Arkansas Civil War Sesquicentennial Commission"
+            },
+            {
+              "id": "section-13-13-102",
+              "number": "13-13-102",
+              "heading": "Members"
+            },
+            {
+              "id": "section-13-13-103",
+              "number": "13-13-103",
+              "heading": "Duties"
+            },
+            {
+              "id": "section-13-13-104",
+              "number": "13-13-104",
+              "heading": "Funding"
+            },
+            {
+              "id": "section-13-13-105",
+              "number": "13-13-105",
+              "heading": "Expiration of Arkansas Civil War Sesquicentennial Commission"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-14-heritage-trails-system-act-13-14-101-13-14-105",
+          "number": "chapter-14-heritage-trails-system-act-13-14-101-13-14-105",
+          "heading": "Chapter 14 Heritage Trails System Act 13 14 101 13 14 105",
+          "section_count": 5,
+          "children": [
+            {
+              "id": "section-13-14-101",
+              "number": "13-14-101",
+              "heading": "Short titleSection 13-14-102 - Legislative intentSection 13-14-103 - Arkansas heritage trailsSection 13-14-104 - Designation of heritage trailsSection 13-14-105 - Studies of prospective heritage trails"
+            },
+            {
+              "id": "section-13-14-102",
+              "number": "13-14-102",
+              "heading": "Legislative intent"
+            },
+            {
+              "id": "section-13-14-103",
+              "number": "13-14-103",
+              "heading": "Arkansas heritage trails"
+            },
+            {
+              "id": "section-13-14-104",
+              "number": "13-14-104",
+              "heading": "Designation of heritage trails"
+            },
+            {
+              "id": "section-13-14-105",
+              "number": "13-14-105",
+              "heading": "Studies of prospective heritage trails"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-9-arkansas-entertainers-hall-of-fame-board-13-9-101-",
+          "number": "chapter-9-arkansas-entertainers-hall-of-fame-board-13-9-101-",
+          "heading": "Chapter 9 Arkansas Entertainers Hall Of Fame Board 13 9 101 ",
+          "section_count": 5,
+          "children": [
+            {
+              "id": "section-13-9-101",
+              "number": "13-9-101",
+              "heading": "[Repealed]Section 13-9-102 - [Repealed]Section 13-9-103 - [Repealed]Section 13-9-104 - [Repealed]Section 13-9-105 - [Repealed]"
+            },
+            {
+              "id": "section-13-9-102",
+              "number": "13-9-102",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-13-9-103",
+              "number": "13-9-103",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-13-9-104",
+              "number": "13-9-104",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-13-9-105",
+              "number": "13-9-105",
+              "heading": "[Repealed]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-19-public-finance-19-1-201-19",
+      "number": "title-19-public-finance-19-1-201-19",
+      "heading": "Title 19 Public Finance 19 1 201 19",
+      "children": [
+        {
+          "id": "chapter-appendix-title-19-bond-issues-19",
+          "number": "appendix-title-19-bond-issues-19",
+          "heading": "Appendix Title 19 Bond Issues 19",
+          "section_count": 21,
+          "children": [
+            {
+              "id": "section-1",
+              "number": "1",
+              "heading": "Arkansas Revenue Department Building Act"
+            },
+            {
+              "id": "section-2",
+              "number": "2",
+              "heading": "Arkansas State Department of Health Building Act"
+            },
+            {
+              "id": "section-3",
+              "number": "3",
+              "heading": "War Memorial Stadium, Additional Bonds"
+            },
+            {
+              "id": "section-4",
+              "number": "4",
+              "heading": "Arkansas Department of Public Safety Building Act - Acts 1977, No. 490 as amended by Acts 1979, No. 1086, Sections 2-5; 1980 (1st Ex. Sess.)"
+            },
+            {
+              "id": "section-5",
+              "number": "5",
+              "heading": "Arkansas State Education Building Expansion Act - Acts 1977, No. 554"
+            },
+            {
+              "id": "section-6",
+              "number": "6",
+              "heading": "Arkansas State Department of Health Building Expansion Act - Acts 1977, No. 686, as amended by Acts 1997, No. 250"
+            },
+            {
+              "id": "section-7",
+              "number": "7",
+              "heading": "Arkansas Revenue Department Building Expansion Acts - Acts 1977, No. 749, as amended by Acts 1997, No. 250"
+            },
+            {
+              "id": "section-8",
+              "number": "8",
+              "heading": "Regulatory Agencies Building - Acts 1977, No. 820"
+            },
+            {
+              "id": "section-9",
+              "number": "9",
+              "heading": "Regulatory Agencies Building - Acts 1979, No. 1102"
+            },
+            {
+              "id": "section-10",
+              "number": "10",
+              "heading": "Oil and Gas Commission Building - Acts 1985, No. 270"
+            },
+            {
+              "id": "section-11",
+              "number": "11",
+              "heading": "War Memorial Stadium, Remission of Trust Funds - Acts 1985, No. 393"
+            },
+            {
+              "id": "section-12",
+              "number": "12",
+              "heading": "Capitol Mall Facility and State Agencies Facilities Acquisition Act of 1991 - Acts 1991, No. 235, as amended by Acts 1991, No. 923"
+            },
+            {
+              "id": "section-13",
+              "number": "13",
+              "heading": "Department of Health Building Expansion Act of 1991 - Acts 1991, No. 1162"
+            },
+            {
+              "id": "section-14",
+              "number": "14",
+              "heading": "1995 New Revenue Division Building Act - Acts 1995, No. 725, as amended by Acts 1997, No. 250"
+            },
+            {
+              "id": "section-15",
+              "number": "15",
+              "heading": "Highway Construction and Improvement Bonds - Acts 1995, No. 1007"
+            },
+            {
+              "id": "section-16",
+              "number": "16",
+              "heading": "Arkansas Water, Waste Disposal and Pollution Abatement Facilities Financing Act of 1997 - Acts 1997, No. 607"
+            },
+            {
+              "id": "section-17",
+              "number": "17",
+              "heading": "Department of Arkansas State Police Headquarters Facility and Wireless Data Equipment Financing Act - Acts 1997, No. 1057"
+            },
+            {
+              "id": "section-18",
+              "number": "18",
+              "heading": "The Steel Mill Project - Acts 2013, No. 1084, Sections 1- 8"
+            },
+            {
+              "id": "section-19",
+              "number": "19",
+              "heading": "The Steel Mill Project - Acts 2013, No. 1476, Sections 1-8"
+            },
+            {
+              "id": "section-20",
+              "number": "20",
+              "heading": "Amend. 91. [General Obligation Four-Lane Highway Construction and Improvement Bonds]"
+            },
+            {
+              "id": "section-21",
+              "number": "21",
+              "heading": "GVAB Facilities Project - Acts 2015 (1st Ex. Sess.)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-21-public-officers-and-employees-21-1-101-21-15-113",
+      "number": "title-21-public-officers-and-employees-21-1-101-21-15-113",
+      "heading": "Title 21 Public Officers And Employees 21 1 101 21 15 113",
+      "children": [
+        {
+          "id": "chapter-chapter-10-uniform-facsimile-signatures-of-public-officials-",
+          "number": "chapter-10-uniform-facsimile-signatures-of-public-officials-",
+          "heading": "Chapter 10 Uniform Facsimile Signatures Of Public Officials ",
+          "section_count": 9,
+          "children": [
+            {
+              "id": "section-21-10-101",
+              "number": "21-10-101",
+              "heading": "DefinitionsSection 21-10-102 - Use of facsimile signature authorized - Filing requiredSection 21-10-103 - Use of facsimile sealSection 21-10-104 - ReservedSection 21-10-105 - ConstructionSection 21-10-106 - TitleSection 21-10-107 - SeverabilitySection 21-10-108 - Inconsistent acts repealedSection 21"
+            },
+            {
+              "id": "section-21-10-102",
+              "number": "21-10-102",
+              "heading": "Use of facsimile signature authorized - Filing required"
+            },
+            {
+              "id": "section-21-10-103",
+              "number": "21-10-103",
+              "heading": "Use of facsimile seal"
+            },
+            {
+              "id": "section-21-10-104",
+              "number": "21-10-104",
+              "heading": "Reserved"
+            },
+            {
+              "id": "section-21-10-105",
+              "number": "21-10-105",
+              "heading": "Construction"
+            },
+            {
+              "id": "section-21-10-106",
+              "number": "21-10-106",
+              "heading": "Title"
+            },
+            {
+              "id": "section-21-10-107",
+              "number": "21-10-107",
+              "heading": "Severability"
+            },
+            {
+              "id": "section-21-10-108",
+              "number": "21-10-108",
+              "heading": "Inconsistent acts repealed"
+            },
+            {
+              "id": "section-21-10-109",
+              "number": "21-10-109",
+              "heading": "Reserved"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-11-employee-suggestion-system-21-11-101-21-11-109",
+          "number": "chapter-11-employee-suggestion-system-21-11-101-21-11-109",
+          "heading": "Chapter 11 Employee Suggestion System 21 11 101 21 11 109",
+          "section_count": 9,
+          "children": [
+            {
+              "id": "section-21-11-101",
+              "number": "21-11-101",
+              "heading": "Definition - ExceptionsSection 21-11-102 - PenaltySection 21-11-103 - Employee Suggestion System establishedSection 21-11-104 - Rules - Procedure for submission of suggestionsSection 21-11-105 - [Repealed]Section 21-11-106 - [Repealed]Section 21-11-107 - Awards for suggestionsSection 21-11-108 - Pay"
+            },
+            {
+              "id": "section-21-11-102",
+              "number": "21-11-102",
+              "heading": "Penalty"
+            },
+            {
+              "id": "section-21-11-103",
+              "number": "21-11-103",
+              "heading": "Employee Suggestion System established"
+            },
+            {
+              "id": "section-21-11-104",
+              "number": "21-11-104",
+              "heading": "Rules - Procedure for submission of suggestions"
+            },
+            {
+              "id": "section-21-11-105",
+              "number": "21-11-105",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-21-11-106",
+              "number": "21-11-106",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-21-11-107",
+              "number": "21-11-107",
+              "heading": "Awards for suggestions"
+            },
+            {
+              "id": "section-21-11-108",
+              "number": "21-11-108",
+              "heading": "Payment of awards"
+            },
+            {
+              "id": "section-21-11-109",
+              "number": "21-11-109",
+              "heading": "Funding"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-13-state-and-local-government-volunteers-act-21-13-1",
+          "number": "chapter-13-state-and-local-government-volunteers-act-21-13-1",
+          "heading": "Chapter 13 State And Local Government Volunteers Act 21 13 1",
+          "section_count": 11,
+          "children": [
+            {
+              "id": "section-21-13-101",
+              "number": "21-13-101",
+              "heading": "TitleSection 21-13-102 - Legislative intentSection 21-13-103 - DefinitionsSection 21-13-104 - No legal claim created - ExceptionsSection 21-13-105 - Development of programs - Use of volunteersSection 21-13-106 - Exemption from employment lawsSection 21-13-107 - Meals, lodging, and transportationSect"
+            },
+            {
+              "id": "section-21-13-102",
+              "number": "21-13-102",
+              "heading": "Legislative intent"
+            },
+            {
+              "id": "section-21-13-103",
+              "number": "21-13-103",
+              "heading": "Definitions"
+            },
+            {
+              "id": "section-21-13-104",
+              "number": "21-13-104",
+              "heading": "No legal claim created - Exceptions"
+            },
+            {
+              "id": "section-21-13-105",
+              "number": "21-13-105",
+              "heading": "Development of programs - Use of volunteers"
+            },
+            {
+              "id": "section-21-13-106",
+              "number": "21-13-106",
+              "heading": "Exemption from employment laws"
+            },
+            {
+              "id": "section-21-13-107",
+              "number": "21-13-107",
+              "heading": "Meals, lodging, and transportation"
+            },
+            {
+              "id": "section-21-13-108",
+              "number": "21-13-108",
+              "heading": "Liability insurance - Sovereign immunity"
+            },
+            {
+              "id": "section-21-13-109",
+              "number": "21-13-109",
+              "heading": "Employment experience"
+            },
+            {
+              "id": "section-21-13-110",
+              "number": "21-13-110",
+              "heading": "Department reports or records"
+            },
+            {
+              "id": "section-21-13-111",
+              "number": "21-13-111",
+              "heading": "State income tax deductions - Definition"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-15-criminal-background-checks-21-15-101-21-15-113",
+          "number": "chapter-15-criminal-background-checks-21-15-101-21-15-113",
+          "heading": "Chapter 15 Criminal Background Checks 21 15 101 21 15 113",
+          "section_count": 13,
+          "children": [
+            {
+              "id": "section-21-15-101",
+              "number": "21-15-101",
+              "heading": "DefinitionsSection 21-15-102 - Positions involving direct contact with children and with mentally ill and developmentally disabled personsSection 21-15-103 - Deadline - Scope of check - Report - Notice - Discharge for persons in designated positionsSection 21-15-104 - Waiver of exclusion or discharg"
+            },
+            {
+              "id": "section-21-15-102",
+              "number": "21-15-102",
+              "heading": "Positions involving direct contact with children and with mentally ill and developmentally disabled persons"
+            },
+            {
+              "id": "section-21-15-103",
+              "number": "21-15-103",
+              "heading": "Deadline - Scope of check - Report - Notice - Discharge for persons in designated positions"
+            },
+            {
+              "id": "section-21-15-104",
+              "number": "21-15-104",
+              "heading": "Waiver of exclusion or discharge requirement for persons in designated positions"
+            },
+            {
+              "id": "section-21-15-105",
+              "number": "21-15-105",
+              "heading": "Confidentiality"
+            },
+            {
+              "id": "section-21-15-106",
+              "number": "21-15-106",
+              "heading": "Rules - Records"
+            },
+            {
+              "id": "section-21-15-107",
+              "number": "21-15-107",
+              "heading": "Identification Bureau and registries - Duties"
+            },
+            {
+              "id": "section-21-15-108",
+              "number": "21-15-108",
+              "heading": "Exempted employees"
+            },
+            {
+              "id": "section-21-15-109",
+              "number": "21-15-109",
+              "heading": "Immunity"
+            },
+            {
+              "id": "section-21-15-110",
+              "number": "21-15-110",
+              "heading": "Notice to employer"
+            },
+            {
+              "id": "section-21-15-111",
+              "number": "21-15-111",
+              "heading": "Hiring new employees into designated financial or information technology positions"
+            },
+            {
+              "id": "section-21-15-112",
+              "number": "21-15-112",
+              "heading": "Incumbent employees in designated financial or information technology positions"
+            },
+            {
+              "id": "section-21-15-113",
+              "number": "21-15-113",
+              "heading": "Waiver of exclusion or discharge requirement for persons in designated financial or information technology positions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-22-public-property-22-1-101-22-10-505",
+      "number": "title-22-public-property-22-1-101-22-10-505",
+      "heading": "Title 22 Public Property 22 1 101 22 10 505",
+      "children": [
+        {
+          "id": "chapter-chapter-2-arkansas-building-authority-22-2-101-22-2-121",
+          "number": "chapter-2-arkansas-building-authority-22-2-101-22-2-121",
+          "heading": "Chapter 2 Arkansas Building Authority 22 2 101 22 2 121",
+          "section_count": 21,
+          "children": [
+            {
+              "id": "section-22-2-101",
+              "number": "22-2-101",
+              "heading": "TitleSection 22-2-102 - DefinitionsSection 22-2-103 - Applicability - Construction with other lawsSection 22-2-104 - Creation of Building Authority DivisionSection 22-2-105 - Secretary of the Department of Transformation and Shared Services - DutiesSection 22-2-106 - [Repealed]Section 22-2-107 - Cre"
+            },
+            {
+              "id": "section-22-2-102",
+              "number": "22-2-102",
+              "heading": "Definitions"
+            },
+            {
+              "id": "section-22-2-103",
+              "number": "22-2-103",
+              "heading": "Applicability - Construction with other laws"
+            },
+            {
+              "id": "section-22-2-104",
+              "number": "22-2-104",
+              "heading": "Creation of Building Authority Division"
+            },
+            {
+              "id": "section-22-2-105",
+              "number": "22-2-105",
+              "heading": "Secretary of the Department of Transformation and Shared Services - Duties"
+            },
+            {
+              "id": "section-22-2-106",
+              "number": "22-2-106",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-22-2-107",
+              "number": "22-2-107",
+              "heading": "Creation of Building Authority Division sections"
+            },
+            {
+              "id": "section-22-2-108",
+              "number": "22-2-108",
+              "heading": "Powers and duties generally"
+            },
+            {
+              "id": "section-22-2-109",
+              "number": "22-2-109",
+              "heading": "Acquisition of additional sites"
+            },
+            {
+              "id": "section-22-2-110",
+              "number": "22-2-110",
+              "heading": "Schedule of supervision generally"
+            },
+            {
+              "id": "section-22-2-111",
+              "number": "22-2-111",
+              "heading": "Schedule of supervision - Undesignated funds"
+            },
+            {
+              "id": "section-22-2-112",
+              "number": "22-2-112",
+              "heading": "Schedule of supervision - Designated funds"
+            },
+            {
+              "id": "section-22-2-113",
+              "number": "22-2-113",
+              "heading": "Schedule of supervision - All other cases"
+            },
+            {
+              "id": "section-22-2-114",
+              "number": "22-2-114",
+              "heading": "Leasing responsibilities"
+            },
+            {
+              "id": "section-22-2-115",
+              "number": "22-2-115",
+              "heading": "Lease-purchase agreements"
+            },
+            {
+              "id": "section-22-2-116",
+              "number": "22-2-116",
+              "heading": "Maintenance responsibilities generally"
+            },
+            {
+              "id": "section-22-2-117",
+              "number": "22-2-117",
+              "heading": "Maintenance responsibilities - Capitol Zoning District"
+            },
+            {
+              "id": "section-22-2-118",
+              "number": "22-2-118",
+              "heading": "Plans, specifications, and estimates of costs"
+            },
+            {
+              "id": "section-22-2-119",
+              "number": "22-2-119",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-22-2-120",
+              "number": "22-2-120",
+              "heading": "Exemption from statutes concerning Capitol Zoning District"
+            },
+            {
+              "id": "section-22-2-121",
+              "number": "22-2-121",
+              "heading": "Real estate notification"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-24-retirement-and-pensions-24-1-101-24-12-204",
+      "number": "title-24-retirement-and-pensions-24-1-101-24-12-204",
+      "heading": "Title 24 Retirement And Pensions 24 1 101 24 12 204",
+      "children": [
+        {
+          "id": "chapter-chapter-3-uniform-benefits-financing-accounting-and-reportin",
+          "number": "chapter-3-uniform-benefits-financing-accounting-and-reportin",
+          "heading": "Chapter 3 Uniform Benefits Financing Accounting And Reportin",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-24-3-401",
+              "number": "24-3-401",
+              "heading": "24-3-426 - [Repealed]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-25-state-government-25-1-101-25-43-1605",
+      "number": "title-25-state-government-25-1-101-25-43-1605",
+      "heading": "Title 25 State Government 25 1 101 25 43 1605",
+      "children": [
+        {
+          "id": "chapter-chapter-11-arkansas-economic-development-commission-25-11-10",
+          "number": "chapter-11-arkansas-economic-development-commission-25-11-10",
+          "heading": "Chapter 11 Arkansas Economic Development Commission 25 11 10",
+          "section_count": 3,
+          "children": [
+            {
+              "id": "section-25-11-101",
+              "number": "25-11-101",
+              "heading": "Creation - Director - Organization - PersonnelSection 25-11-102 - Arkansas Economic Development CouncilSection 25-11-103 - [Repealed]"
+            },
+            {
+              "id": "section-25-11-102",
+              "number": "25-11-102",
+              "heading": "Arkansas Economic Development Council"
+            },
+            {
+              "id": "section-25-11-103",
+              "number": "25-11-103",
+              "heading": "[Repealed]"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-12-department-of-labor-25-12-101",
+          "number": "chapter-12-department-of-labor-25-12-101",
+          "heading": "Chapter 12 Department Of Labor 25 12 101",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-25-12-101",
+              "number": "25-12-101",
+              "heading": "[Repealed]"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-14-arkansas-department-of-environmental-quality-25-1",
+          "number": "chapter-14-arkansas-department-of-environmental-quality-25-1",
+          "heading": "Chapter 14 Arkansas Department Of Environmental Quality 25 1",
+          "section_count": 3,
+          "children": [
+            {
+              "id": "section-25-14-101",
+              "number": "25-14-101",
+              "heading": "[Repealed]Section 25-14-102 - [Repealed]Section 25-14-103 - Transferred"
+            },
+            {
+              "id": "section-25-14-102",
+              "number": "25-14-102",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-25-14-103",
+              "number": "25-14-103",
+              "heading": "Transferred"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-19-freedom-of-information-act-25-19-101-25-19-112",
+          "number": "chapter-19-freedom-of-information-act-25-19-101-25-19-112",
+          "heading": "Chapter 19 Freedom Of Information Act 25 19 101 25 19 112",
+          "section_count": 12,
+          "children": [
+            {
+              "id": "section-25-19-101",
+              "number": "25-19-101",
+              "heading": "TitleSection 25-19-102 - Legislative intentSection 25-19-103 - DefinitionsSection 25-19-104 - PenaltySection 25-19-105 - Examination and copying of public recordsSection 25-19-106 - Open public meetingsSection 25-19-107 - Appeal from denial of rights - Attorney's feesSection 25-19-108 - Information "
+            },
+            {
+              "id": "section-25-19-102",
+              "number": "25-19-102",
+              "heading": "Legislative intent"
+            },
+            {
+              "id": "section-25-19-103",
+              "number": "25-19-103",
+              "heading": "Definitions"
+            },
+            {
+              "id": "section-25-19-104",
+              "number": "25-19-104",
+              "heading": "Penalty"
+            },
+            {
+              "id": "section-25-19-105",
+              "number": "25-19-105",
+              "heading": "Examination and copying of public records"
+            },
+            {
+              "id": "section-25-19-106",
+              "number": "25-19-106",
+              "heading": "Open public meetings"
+            },
+            {
+              "id": "section-25-19-107",
+              "number": "25-19-107",
+              "heading": "Appeal from denial of rights - Attorney's fees"
+            },
+            {
+              "id": "section-25-19-108",
+              "number": "25-19-108",
+              "heading": "Information for public guidance"
+            },
+            {
+              "id": "section-25-19-109",
+              "number": "25-19-109",
+              "heading": "Special requests for electronic information"
+            },
+            {
+              "id": "section-25-19-110",
+              "number": "25-19-110",
+              "heading": "Exemptions"
+            },
+            {
+              "id": "section-25-19-111",
+              "number": "25-19-111",
+              "heading": "Arkansas Freedom of Information Task Force"
+            },
+            {
+              "id": "section-25-19-112",
+              "number": "25-19-112",
+              "heading": "Audio media, visual media, and audiovisual media - Findings - Intent - Law enforcement"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-2-administrative-departments-generally-25-2-101-25-2",
+          "number": "chapter-2-administrative-departments-generally-25-2-101-25-2",
+          "heading": "Chapter 2 Administrative Departments Generally 25 2 101 25 2",
+          "section_count": 9,
+          "children": [
+            {
+              "id": "section-25-2-101",
+              "number": "25-2-101",
+              "heading": "Legislative findings and purpose - ConstructionSection 25-2-102 - Certain professional boards exceptedSection 25-2-103 - Effect of act on preexisting rules, regulations, etcSection 25-2-104 - Type 1 transfersSection 25-2-105 - Type 2 transfersSection 25-2-106 - Type 3 transfersSection 25-2-107 - Typ"
+            },
+            {
+              "id": "section-25-2-102",
+              "number": "25-2-102",
+              "heading": "Certain professional boards excepted"
+            },
+            {
+              "id": "section-25-2-103",
+              "number": "25-2-103",
+              "heading": "Effect of act on preexisting rules, regulations, etc"
+            },
+            {
+              "id": "section-25-2-104",
+              "number": "25-2-104",
+              "heading": "Type 1 transfers"
+            },
+            {
+              "id": "section-25-2-105",
+              "number": "25-2-105",
+              "heading": "Type 2 transfers"
+            },
+            {
+              "id": "section-25-2-106",
+              "number": "25-2-106",
+              "heading": "Type 3 transfers"
+            },
+            {
+              "id": "section-25-2-107",
+              "number": "25-2-107",
+              "heading": "Type 4 transfers"
+            },
+            {
+              "id": "section-25-2-108",
+              "number": "25-2-108",
+              "heading": "Reports, certifications, etc., to transferred agency"
+            },
+            {
+              "id": "section-25-2-109",
+              "number": "25-2-109",
+              "heading": "Senatorial confirmation of certain appointments"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-21-uniform-law-to-oppose-federal-encroachment-on-sta",
+          "number": "chapter-21-uniform-law-to-oppose-federal-encroachment-on-sta",
+          "heading": "Chapter 21 Uniform Law To Oppose Federal Encroachment On Sta",
+          "section_count": 6,
+          "children": [
+            {
+              "id": "section-25-21-101",
+              "number": "25-21-101",
+              "heading": "Study of existing federal legislationSection 25-21-102 - Study of proposed federal legislationSection 25-21-103 - Investigation of federal legislation on request of Senators or RepresentativesSection 25-21-104 - Appointment of Deputy or Assistant Attorney GeneralSection 25-21-105 - Membership in int"
+            },
+            {
+              "id": "section-25-21-102",
+              "number": "25-21-102",
+              "heading": "Study of proposed federal legislation"
+            },
+            {
+              "id": "section-25-21-103",
+              "number": "25-21-103",
+              "heading": "Investigation of federal legislation on request of Senators or Representatives"
+            },
+            {
+              "id": "section-25-21-104",
+              "number": "25-21-104",
+              "heading": "Appointment of Deputy or Assistant Attorney General"
+            },
+            {
+              "id": "section-25-21-105",
+              "number": "25-21-105",
+              "heading": "Membership in interstate organization"
+            },
+            {
+              "id": "section-25-21-106",
+              "number": "25-21-106",
+              "heading": "Title"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-22-governmental-waste-elimination-25-22-101",
+          "number": "chapter-22-governmental-waste-elimination-25-22-101",
+          "heading": "Chapter 22 Governmental Waste Elimination 25 22 101",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-25-22-101",
+              "number": "25-22-101",
+              "heading": "25-22-108 - [Repealed]"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-23-quality-management-board-25-23-101",
+          "number": "chapter-23-quality-management-board-25-23-101",
+          "heading": "Chapter 23 Quality Management Board 25 23 101",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-25-23-101",
+              "number": "25-23-101",
+              "heading": "25-23-104 - [Repealed]"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-24-martin-luther-king-jr-commission-25-24-101-25-24-",
+          "number": "chapter-24-martin-luther-king-jr-commission-25-24-101-25-24-",
+          "heading": "Chapter 24 Martin Luther King Jr Commission 25 24 101 25 24 ",
+          "section_count": 3,
+          "children": [
+            {
+              "id": "section-25-24-101",
+              "number": "25-24-101",
+              "heading": "Creation - MembersSection 25-24-102 - DutiesSection 25-24-103 - Staff of commission"
+            },
+            {
+              "id": "section-25-24-102",
+              "number": "25-24-102",
+              "heading": "Duties"
+            },
+            {
+              "id": "section-25-24-103",
+              "number": "25-24-103",
+              "heading": "Staff of commission"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-25-commission-for-arkansas-future-25-25-101",
+          "number": "chapter-25-commission-for-arkansas-future-25-25-101",
+          "heading": "Chapter 25 Commission For Arkansas Future 25 25 101",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-25-25-101",
+              "number": "25-25-101",
+              "heading": "25-25-104 - [Repealed]"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-27-arkansas-information-network-25-27-101-25-27-105",
+          "number": "chapter-27-arkansas-information-network-25-27-101-25-27-105",
+          "heading": "Chapter 27 Arkansas Information Network 25 27 101 25 27 105",
+          "section_count": 5,
+          "children": [
+            {
+              "id": "section-25-27-101",
+              "number": "25-27-101",
+              "heading": "TitleSection 25-27-102 - DefinitionsSection 25-27-103 - BoardSection 25-27-104 - DutiesSection 25-27-105 - Network manager"
+            },
+            {
+              "id": "section-25-27-102",
+              "number": "25-27-102",
+              "heading": "Definitions"
+            },
+            {
+              "id": "section-25-27-103",
+              "number": "25-27-103",
+              "heading": "Board"
+            },
+            {
+              "id": "section-25-27-104",
+              "number": "25-27-104",
+              "heading": "Duties"
+            },
+            {
+              "id": "section-25-27-105",
+              "number": "25-27-105",
+              "heading": "Network manager"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-28-assessment-coordination-department-25-28-101-25-2",
+          "number": "chapter-28-assessment-coordination-department-25-28-101-25-2",
+          "heading": "Chapter 28 Assessment Coordination Department 25 28 101 25 2",
+          "section_count": 9,
+          "children": [
+            {
+              "id": "section-25-28-101",
+              "number": "25-28-101",
+              "heading": "Creation - Director - Organization - PersonnelSection 25-28-102 - [Repealed]Section 25-28-103 - Other authoritySection 25-28-104 - Administrative Procedure ActSection 25-28-105 - Compliance with other lawsSection 25-28-106 - Legislative intentSection 25-28-107 - Requirements of Director of the Asses"
+            },
+            {
+              "id": "section-25-28-102",
+              "number": "25-28-102",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-25-28-103",
+              "number": "25-28-103",
+              "heading": "Other authority"
+            },
+            {
+              "id": "section-25-28-104",
+              "number": "25-28-104",
+              "heading": "Administrative Procedure Act"
+            },
+            {
+              "id": "section-25-28-105",
+              "number": "25-28-105",
+              "heading": "Compliance with other laws"
+            },
+            {
+              "id": "section-25-28-106",
+              "number": "25-28-106",
+              "heading": "Legislative intent"
+            },
+            {
+              "id": "section-25-28-107",
+              "number": "25-28-107",
+              "heading": "Requirements of Director of the Assessment Coordination Division"
+            },
+            {
+              "id": "section-25-28-108",
+              "number": "25-28-108",
+              "heading": "Specifications for computer-assisted mass appraisal software"
+            },
+            {
+              "id": "section-25-28-109",
+              "number": "25-28-109",
+              "heading": "[Repealed]"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-29-arkansas-deaf-and-hearing-impaired-telecommunicat",
+          "number": "chapter-29-arkansas-deaf-and-hearing-impaired-telecommunicat",
+          "heading": "Chapter 29 Arkansas Deaf And Hearing Impaired Telecommunicat",
+          "section_count": 12,
+          "children": [
+            {
+              "id": "section-25-29-101",
+              "number": "25-29-101",
+              "heading": "Creation - Board of directorsSection 25-29-102 - Board of directors - Attendance at meetings requiredSection 25-29-103 - Assessment on local exchange service providersSection 25-29-104 - Powers and dutiesSection 25-29-105 - Staff - Real property - DebtSection 25-29-106 - Corporate officesSection 25-"
+            },
+            {
+              "id": "section-25-29-102",
+              "number": "25-29-102",
+              "heading": "Board of directors - Attendance at meetings required"
+            },
+            {
+              "id": "section-25-29-103",
+              "number": "25-29-103",
+              "heading": "Assessment on local exchange service providers"
+            },
+            {
+              "id": "section-25-29-104",
+              "number": "25-29-104",
+              "heading": "Powers and duties"
+            },
+            {
+              "id": "section-25-29-105",
+              "number": "25-29-105",
+              "heading": "Staff - Real property - Debt"
+            },
+            {
+              "id": "section-25-29-106",
+              "number": "25-29-106",
+              "heading": "Corporate offices"
+            },
+            {
+              "id": "section-25-29-107",
+              "number": "25-29-107",
+              "heading": "Annual audit"
+            },
+            {
+              "id": "section-25-29-108",
+              "number": "25-29-108",
+              "heading": "Articles of incorporation"
+            },
+            {
+              "id": "section-25-29-109",
+              "number": "25-29-109",
+              "heading": "Purchase of telecommunications services"
+            },
+            {
+              "id": "section-25-29-110",
+              "number": "25-29-110",
+              "heading": "Annual report"
+            },
+            {
+              "id": "section-25-29-111",
+              "number": "25-29-111",
+              "heading": "Section 12 companies"
+            },
+            {
+              "id": "section-25-29-112",
+              "number": "25-29-112",
+              "heading": "Effect of chapter on Acts 1995, No. 501"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-3-department-of-arkansas-heritage-25-3-101-25-3-109",
+          "number": "chapter-3-department-of-arkansas-heritage-25-3-101-25-3-109",
+          "heading": "Chapter 3 Department Of Arkansas Heritage 25 3 101 25 3 109",
+          "section_count": 9,
+          "children": [
+            {
+              "id": "section-25-3-101",
+              "number": "25-3-101",
+              "heading": "Legislative intent - ConstructionSection 25-3-102 - Creation - Director - Organization - PersonnelSection 25-3-103 - [Repealed]Section 25-3-104 - [Repealed]Section 25-3-105 - Fees for publications, seminars, etcSection 25-3-106 - Publication Development and Resale Revolving FundSection 25-3-107 - [R"
+            },
+            {
+              "id": "section-25-3-102",
+              "number": "25-3-102",
+              "heading": "Creation - Director - Organization - Personnel"
+            },
+            {
+              "id": "section-25-3-103",
+              "number": "25-3-103",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-25-3-104",
+              "number": "25-3-104",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-25-3-105",
+              "number": "25-3-105",
+              "heading": "Fees for publications, seminars, etc"
+            },
+            {
+              "id": "section-25-3-106",
+              "number": "25-3-106",
+              "heading": "Publication Development and Resale Revolving Fund"
+            },
+            {
+              "id": "section-25-3-107",
+              "number": "25-3-107",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-25-3-108",
+              "number": "25-3-108",
+              "heading": "Heritage foundation"
+            },
+            {
+              "id": "section-25-3-109",
+              "number": "25-3-109",
+              "heading": "[Repealed]"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-31-electronic-records-and-signatures-25-31-101-25-31",
+          "number": "chapter-31-electronic-records-and-signatures-25-31-101-25-31",
+          "heading": "Chapter 31 Electronic Records And Signatures 25 31 101 25 31",
+          "section_count": 5,
+          "children": [
+            {
+              "id": "section-25-31-101",
+              "number": "25-31-101",
+              "heading": "Short titleSection 25-31-102 - ConstructionSection 25-31-103 - DefinitionsSection 25-31-104 - Agreement to electronic record or signatureSection 25-31-105 - Unauthorized use of electronic signature"
+            },
+            {
+              "id": "section-25-31-102",
+              "number": "25-31-102",
+              "heading": "Construction"
+            },
+            {
+              "id": "section-25-31-103",
+              "number": "25-31-103",
+              "heading": "Definitions"
+            },
+            {
+              "id": "section-25-31-104",
+              "number": "25-31-104",
+              "heading": "Agreement to electronic record or signature"
+            },
+            {
+              "id": "section-25-31-105",
+              "number": "25-31-105",
+              "heading": "Unauthorized use of electronic signature"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-32-uniform-electronic-transactions-act-25-32-101-25-",
+          "number": "chapter-32-uniform-electronic-transactions-act-25-32-101-25-",
+          "heading": "Chapter 32 Uniform Electronic Transactions Act 25 32 101 25 ",
+          "section_count": 22,
+          "children": [
+            {
+              "id": "section-25-32-101",
+              "number": "25-32-101",
+              "heading": "Short titleSection 25-32-102 - DefinitionsSection 25-32-103 - ScopeSection 25-32-104 - Prospective applicationSection 25-32-105 - Use of electronic records and electronic signatures - Variation by agreementSection 25-32-106 - Construction and applicationSection 25-32-107 - Legal recognition of elect"
+            },
+            {
+              "id": "section-25-32-102",
+              "number": "25-32-102",
+              "heading": "Definitions"
+            },
+            {
+              "id": "section-25-32-103",
+              "number": "25-32-103",
+              "heading": "Scope"
+            },
+            {
+              "id": "section-25-32-104",
+              "number": "25-32-104",
+              "heading": "Prospective application"
+            },
+            {
+              "id": "section-25-32-105",
+              "number": "25-32-105",
+              "heading": "Use of electronic records and electronic signatures - Variation by agreement"
+            },
+            {
+              "id": "section-25-32-106",
+              "number": "25-32-106",
+              "heading": "Construction and application"
+            },
+            {
+              "id": "section-25-32-107",
+              "number": "25-32-107",
+              "heading": "Legal recognition of electronic records, electronic signatures, and electronic contracts"
+            },
+            {
+              "id": "section-25-32-108",
+              "number": "25-32-108",
+              "heading": "Provision of information in writing - Presentation of records"
+            },
+            {
+              "id": "section-25-32-109",
+              "number": "25-32-109",
+              "heading": "Attribution and effect of electronic record and electronic signature"
+            },
+            {
+              "id": "section-25-32-110",
+              "number": "25-32-110",
+              "heading": "Effect of change or error"
+            },
+            {
+              "id": "section-25-32-111",
+              "number": "25-32-111",
+              "heading": "Notarization and acknowledgment"
+            },
+            {
+              "id": "section-25-32-112",
+              "number": "25-32-112",
+              "heading": "Retention of electronic records - Originals"
+            },
+            {
+              "id": "section-25-32-113",
+              "number": "25-32-113",
+              "heading": "Admissibility in evidence"
+            },
+            {
+              "id": "section-25-32-114",
+              "number": "25-32-114",
+              "heading": "Automated transaction"
+            },
+            {
+              "id": "section-25-32-115",
+              "number": "25-32-115",
+              "heading": "Time and place of sending and receipt"
+            },
+            {
+              "id": "section-25-32-116",
+              "number": "25-32-116",
+              "heading": "Transferable records"
+            },
+            {
+              "id": "section-25-32-117",
+              "number": "25-32-117",
+              "heading": "Creation and retention of electronic records and conversion of written records by governmental agencies"
+            },
+            {
+              "id": "section-25-32-118",
+              "number": "25-32-118",
+              "heading": "Acceptance and distribution of electronic records by governmental agencies"
+            },
+            {
+              "id": "section-25-32-119",
+              "number": "25-32-119",
+              "heading": "Interoperability"
+            },
+            {
+              "id": "section-25-32-120",
+              "number": "25-32-120",
+              "heading": "Severability clause"
+            },
+            {
+              "id": "section-25-32-121",
+              "number": "25-32-121",
+              "heading": "Reserved"
+            },
+            {
+              "id": "section-25-32-122",
+              "number": "25-32-122",
+              "heading": "Signatures and records secured through blockchain technology - Definitions"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-34-arkansas-computer-and-electronic-solid-waste-mana",
+          "number": "chapter-34-arkansas-computer-and-electronic-solid-waste-mana",
+          "heading": "Chapter 34 Arkansas Computer And Electronic Solid Waste Mana",
+          "section_count": 11,
+          "children": [
+            {
+              "id": "section-25-34-101",
+              "number": "25-34-101",
+              "heading": "TitleSection 25-34-102 - Findings and purposeSection 25-34-103 - DefinitionsSection 25-34-104 - Agency policySection 25-34-105 - Agency authority and accountingSection 25-34-106 - Sale of surplus computer equipment and electronicsSection 25-34-107 - Surplus equipment not soldSection 25-34-108 - Disb"
+            },
+            {
+              "id": "section-25-34-102",
+              "number": "25-34-102",
+              "heading": "Findings and purpose"
+            },
+            {
+              "id": "section-25-34-103",
+              "number": "25-34-103",
+              "heading": "Definitions"
+            },
+            {
+              "id": "section-25-34-104",
+              "number": "25-34-104",
+              "heading": "Agency policy"
+            },
+            {
+              "id": "section-25-34-105",
+              "number": "25-34-105",
+              "heading": "Agency authority and accounting"
+            },
+            {
+              "id": "section-25-34-106",
+              "number": "25-34-106",
+              "heading": "Sale of surplus computer equipment and electronics"
+            },
+            {
+              "id": "section-25-34-107",
+              "number": "25-34-107",
+              "heading": "Surplus equipment not sold"
+            },
+            {
+              "id": "section-25-34-108",
+              "number": "25-34-108",
+              "heading": "Disbursement of revenues"
+            },
+            {
+              "id": "section-25-34-109",
+              "number": "25-34-109",
+              "heading": "Computer and Electronic Recycling Fund"
+            },
+            {
+              "id": "section-25-34-110",
+              "number": "25-34-110",
+              "heading": "Computer and electronic equipment recycling grants"
+            },
+            {
+              "id": "section-25-34-111",
+              "number": "25-34-111",
+              "heading": "Computer and electronic equipment landfill ban"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-35-arkansas-multi-agency-insurance-trust-fund-act-25",
+          "number": "chapter-35-arkansas-multi-agency-insurance-trust-fund-act-25",
+          "heading": "Chapter 35 Arkansas Multi Agency Insurance Trust Fund Act 25",
+          "section_count": 8,
+          "children": [
+            {
+              "id": "section-25-35-101",
+              "number": "25-35-101",
+              "heading": "TitleSection 25-35-102 - DefinitionsSection 25-35-103 - Arkansas Multi-Agency Insurance Trust FundSection 25-35-104 - ParticipationSection 25-35-105 - AdministrationSection 25-35-106 - Premiums and schedules of coverage and endorsementsSection 25-35-107 - Payment of lossesSection 25-35-108 - Limits "
+            },
+            {
+              "id": "section-25-35-102",
+              "number": "25-35-102",
+              "heading": "Definitions"
+            },
+            {
+              "id": "section-25-35-103",
+              "number": "25-35-103",
+              "heading": "Arkansas Multi-Agency Insurance Trust Fund"
+            },
+            {
+              "id": "section-25-35-104",
+              "number": "25-35-104",
+              "heading": "Participation"
+            },
+            {
+              "id": "section-25-35-105",
+              "number": "25-35-105",
+              "heading": "Administration"
+            },
+            {
+              "id": "section-25-35-106",
+              "number": "25-35-106",
+              "heading": "Premiums and schedules of coverage and endorsements"
+            },
+            {
+              "id": "section-25-35-107",
+              "number": "25-35-107",
+              "heading": "Payment of losses"
+            },
+            {
+              "id": "section-25-35-108",
+              "number": "25-35-108",
+              "heading": "Limits on use of risk management data as evidence"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-36-arkansas-economic-opportunity-expansion-act-25-36",
+          "number": "chapter-36-arkansas-economic-opportunity-expansion-act-25-36",
+          "heading": "Chapter 36 Arkansas Economic Opportunity Expansion Act 25 36",
+          "section_count": 4,
+          "children": [
+            {
+              "id": "section-25-36-101",
+              "number": "25-36-101",
+              "heading": "Findings - PurposeSection 25-36-102 - DefinitionsSection 25-36-103 - Agency contracting - DiversitySection 25-36-104 - Data recording and tracking"
+            },
+            {
+              "id": "section-25-36-102",
+              "number": "25-36-102",
+              "heading": "Definitions"
+            },
+            {
+              "id": "section-25-36-103",
+              "number": "25-36-103",
+              "heading": "Agency contracting - Diversity"
+            },
+            {
+              "id": "section-25-36-104",
+              "number": "25-36-104",
+              "heading": "Data recording and tracking"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-37-biobased-products-act-of-2005-25-37-101-25-37-102",
+          "number": "chapter-37-biobased-products-act-of-2005-25-37-101-25-37-102",
+          "heading": "Chapter 37 Biobased Products Act Of 2005 25 37 101 25 37 102",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-25-37-101",
+              "number": "25-37-101",
+              "heading": "DefinitionsSection 25-37-102 - Procurement of biobased products"
+            },
+            {
+              "id": "section-25-37-102",
+              "number": "25-37-102",
+              "heading": "Procurement of biobased products"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-39-government-efficiency-and-accountability-act-25-3",
+          "number": "chapter-39-government-efficiency-and-accountability-act-25-3",
+          "heading": "Chapter 39 Government Efficiency And Accountability Act 25 3",
+          "section_count": 3,
+          "children": [
+            {
+              "id": "section-25-39-101",
+              "number": "25-39-101",
+              "heading": "25-39-103 - [Repealed]Section 25-39-201 - 25-39-220 - [Repealed]Section 25-39-301 - 25-39-303 - [Repealed]"
+            },
+            {
+              "id": "section-25-39-201",
+              "number": "25-39-201",
+              "heading": "25-39-220 - [Repealed]"
+            },
+            {
+              "id": "section-25-39-301",
+              "number": "25-39-301",
+              "heading": "25-39-303 - [Repealed]"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-4-department-of-information-systems-25-4-101-25-4-12",
+          "number": "chapter-4-department-of-information-systems-25-4-101-25-4-12",
+          "heading": "Chapter 4 Department Of Information Systems 25 4 101 25 4 12",
+          "section_count": 29,
+          "children": [
+            {
+              "id": "section-25-4-101",
+              "number": "25-4-101",
+              "heading": "TitleSection 25-4-102 - Legislative findings and declaration of intentSection 25-4-103 - DefinitionsSection 25-4-104 - Division of Information SystemsSection 25-4-105 - Division of Information Systems - General powers and dutiesSection 25-4-106 - Reporting requirementsSection 25-4-107 - [Repealed]Se"
+            },
+            {
+              "id": "section-25-4-102",
+              "number": "25-4-102",
+              "heading": "Legislative findings and declaration of intent"
+            },
+            {
+              "id": "section-25-4-103",
+              "number": "25-4-103",
+              "heading": "Definitions"
+            },
+            {
+              "id": "section-25-4-104",
+              "number": "25-4-104",
+              "heading": "Division of Information Systems"
+            },
+            {
+              "id": "section-25-4-105",
+              "number": "25-4-105",
+              "heading": "Division of Information Systems - General powers and duties"
+            },
+            {
+              "id": "section-25-4-106",
+              "number": "25-4-106",
+              "heading": "Reporting requirements"
+            },
+            {
+              "id": "section-25-4-107",
+              "number": "25-4-107",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-25-4-108",
+              "number": "25-4-108",
+              "heading": "Division of Information Systems - Working groups"
+            },
+            {
+              "id": "section-25-4-109",
+              "number": "25-4-109",
+              "heading": "Information technology centers"
+            },
+            {
+              "id": "section-25-4-110",
+              "number": "25-4-110",
+              "heading": "Information technology - Planning"
+            },
+            {
+              "id": "section-25-4-111",
+              "number": "25-4-111",
+              "heading": "Information technology - Prerequisites"
+            },
+            {
+              "id": "section-25-4-112",
+              "number": "25-4-112",
+              "heading": "Application to educational institutions"
+            },
+            {
+              "id": "section-25-4-113",
+              "number": "25-4-113",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-25-4-114",
+              "number": "25-4-114",
+              "heading": "Contracts and agreements for information technology"
+            },
+            {
+              "id": "section-25-4-115",
+              "number": "25-4-115",
+              "heading": "Professional services contracts between division and outside vendors"
+            },
+            {
+              "id": "section-25-4-116",
+              "number": "25-4-116",
+              "heading": "Payment for information technology"
+            },
+            {
+              "id": "section-25-4-117",
+              "number": "25-4-117",
+              "heading": "Delinquent accounts"
+            },
+            {
+              "id": "section-25-4-118",
+              "number": "25-4-118",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-25-4-119",
+              "number": "25-4-119",
+              "heading": "Budget procedures"
+            },
+            {
+              "id": "section-25-4-120",
+              "number": "25-4-120",
+              "heading": "Revisions to budget, purchasing, and personnel process"
+            },
+            {
+              "id": "section-25-4-121",
+              "number": "25-4-121",
+              "heading": "Division of Information Systems Revolving Fund"
+            },
+            {
+              "id": "section-25-4-122",
+              "number": "25-4-122",
+              "heading": "Reserve for equipment acquisition - Loans"
+            },
+            {
+              "id": "section-25-4-123",
+              "number": "25-4-123",
+              "heading": "Information Technology Reserve Fund"
+            },
+            {
+              "id": "section-25-4-124",
+              "number": "25-4-124",
+              "heading": "Yearly computation of expenses - Disposition of surplus funds"
+            },
+            {
+              "id": "section-25-4-125",
+              "number": "25-4-125",
+              "heading": "State Broadband Manager"
+            },
+            {
+              "id": "section-25-4-126",
+              "number": "25-4-126",
+              "heading": "Chief Data Officer and Chief Privacy Officer"
+            },
+            {
+              "id": "section-25-4-127",
+              "number": "25-4-127",
+              "heading": "Data and Transparency Panel - Creation - Duties"
+            },
+            {
+              "id": "section-25-4-128",
+              "number": "25-4-128",
+              "heading": "Data and Transparency Panel - Records - Confidentiality"
+            },
+            {
+              "id": "section-25-4-129",
+              "number": "25-4-129",
+              "heading": "Gifts, grants, and donations - Reports"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-40-arkansas-task-force-on-hispanic-affairs-25-40-101",
+          "number": "chapter-40-arkansas-task-force-on-hispanic-affairs-25-40-101",
+          "heading": "Chapter 40 Arkansas Task Force On Hispanic Affairs 25 40 101",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-25-40-101",
+              "number": "25-40-101",
+              "heading": "25-40-105 - [Repealed]"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-41-daisy-gatson-bates-holiday-committee-25-41-101-25",
+          "number": "chapter-41-daisy-gatson-bates-holiday-committee-25-41-101-25",
+          "heading": "Chapter 41 Daisy Gatson Bates Holiday Committee 25 41 101 25",
+          "section_count": 3,
+          "children": [
+            {
+              "id": "section-25-41-101",
+              "number": "25-41-101",
+              "heading": "Committee created - MembersSection 25-41-102 - DutiesSection 25-41-103 - Powers"
+            },
+            {
+              "id": "section-25-41-102",
+              "number": "25-41-102",
+              "heading": "Duties"
+            },
+            {
+              "id": "section-25-41-103",
+              "number": "25-41-103",
+              "heading": "Powers"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-42-health-information-technology-25-42-101-25-42-106",
+          "number": "chapter-42-health-information-technology-25-42-101-25-42-106",
+          "heading": "Chapter 42 Health Information Technology 25 42 101 25 42 106",
+          "section_count": 6,
+          "children": [
+            {
+              "id": "section-25-42-101",
+              "number": "25-42-101",
+              "heading": "[Repealed]Section 25-42-102 - [Repealed]Section 25-42-103 - [Repealed]Section 25-42-104 - [Repealed]Section 25-42-105 - [Repealed]Section 25-42-106 - [Repealed]"
+            },
+            {
+              "id": "section-25-42-102",
+              "number": "25-42-102",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-25-42-103",
+              "number": "25-42-103",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-25-42-104",
+              "number": "25-42-104",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-25-42-105",
+              "number": "25-42-105",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-25-42-106",
+              "number": "25-42-106",
+              "heading": "[Repealed]"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-5-department-of-correction-25-5-101",
+          "number": "chapter-5-department-of-correction-25-5-101",
+          "heading": "Chapter 5 Department Of Correction 25 5 101",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-25-5-101",
+              "number": "25-5-101",
+              "heading": "[Repealed]"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-7-department-of-higher-education-25-7-101-25-7-103",
+          "number": "chapter-7-department-of-higher-education-25-7-101-25-7-103",
+          "heading": "Chapter 7 Department Of Higher Education 25 7 101 25 7 103",
+          "section_count": 3,
+          "children": [
+            {
+              "id": "section-25-7-101",
+              "number": "25-7-101",
+              "heading": "Creation - Commissioner - Organization - PersonnelSection 25-7-102 - Center for Workforce ExcellenceSection 25-7-103 - Emergency grants - Extra help pool"
+            },
+            {
+              "id": "section-25-7-102",
+              "number": "25-7-102",
+              "heading": "Center for Workforce Excellence"
+            },
+            {
+              "id": "section-25-7-103",
+              "number": "25-7-103",
+              "heading": "Emergency grants - Extra help pool"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-8-department-of-finance-and-administration-25-8-101-",
+          "number": "chapter-8-department-of-finance-and-administration-25-8-101-",
+          "heading": "Chapter 8 Department Of Finance And Administration 25 8 101 ",
+          "section_count": 10,
+          "children": [
+            {
+              "id": "section-25-8-101",
+              "number": "25-8-101",
+              "heading": "Secretary - Organization - Personnel - DefinitionSection 25-8-102 - Authority of secretary generallySection 25-8-103 - [Repealed]Section 25-8-104 - Director of Division of Budgets and AccountingSection 25-8-105 - Federal aid programsSection 25-8-106 - Marketing and redistribution of state personal p"
+            },
+            {
+              "id": "section-25-8-102",
+              "number": "25-8-102",
+              "heading": "Authority of secretary generally"
+            },
+            {
+              "id": "section-25-8-103",
+              "number": "25-8-103",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-25-8-104",
+              "number": "25-8-104",
+              "heading": "Director of Division of Budgets and Accounting"
+            },
+            {
+              "id": "section-25-8-105",
+              "number": "25-8-105",
+              "heading": "Federal aid programs"
+            },
+            {
+              "id": "section-25-8-106",
+              "number": "25-8-106",
+              "heading": "Marketing and redistribution of state personal property"
+            },
+            {
+              "id": "section-25-8-107",
+              "number": "25-8-107",
+              "heading": "Office of Child Support Enforcement"
+            },
+            {
+              "id": "section-25-8-108",
+              "number": "25-8-108",
+              "heading": "Contract labor"
+            },
+            {
+              "id": "section-25-8-109",
+              "number": "25-8-109",
+              "heading": "Loans to marketing and redistribution"
+            },
+            {
+              "id": "section-25-8-110",
+              "number": "25-8-110",
+              "heading": "Duties of Department of Transformation and Shared Services and Department of Finance and Administration"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-9-department-of-health-25-9-101-25-9-107",
+          "number": "chapter-9-department-of-health-25-9-101-25-9-107",
+          "heading": "Chapter 9 Department Of Health 25 9 101 25 9 107",
+          "section_count": 7,
+          "children": [
+            {
+              "id": "section-25-9-101",
+              "number": "25-9-101",
+              "heading": "[Repealed]Section 25-9-102 - [Repealed]Section 25-9-103 - [Repealed]Section 25-9-104 - [Repealed]Section 25-9-105 - [Repealed]Section 25-9-106 - [Repealed]Section 25-9-107 - [Repealed]"
+            },
+            {
+              "id": "section-25-9-102",
+              "number": "25-9-102",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-25-9-103",
+              "number": "25-9-103",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-25-9-104",
+              "number": "25-9-104",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-25-9-105",
+              "number": "25-9-105",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-25-9-106",
+              "number": "25-9-106",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-25-9-107",
+              "number": "25-9-107",
+              "heading": "[Repealed]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-28-wills-estates-and-fiduciary-relationships-28-1-101-",
+      "number": "title-28-wills-estates-and-fiduciary-relationships-28-1-101-",
+      "heading": "Title 28 Wills Estates And Fiduciary Relationships 28 1 101 ",
+      "children": [
+        {
+          "id": "chapter-appendix-28-administrative-order-number-12-official-probate-",
+          "number": "appendix-28-administrative-order-number-12-official-probate-",
+          "heading": "Appendix 28 Administrative Order Number 12 Official Probate ",
+          "section_count": 3,
+          "children": [
+            {
+              "id": "section-1",
+              "number": "1",
+              "heading": "Authority"
+            },
+            {
+              "id": "section-2",
+              "number": "2",
+              "heading": "Captions and Affidavits"
+            },
+            {
+              "id": "section-3",
+              "number": "3",
+              "heading": "FORMS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-3-alcoholic-beverages-3-1-101-3-9-606",
+      "number": "title-3-alcoholic-beverages-3-1-101-3-9-606",
+      "heading": "Title 3 Alcoholic Beverages 3 1 101 3 9 606",
+      "children": [
+        {
+          "id": "chapter-chapter-1-general-provisions-3-1-101-3-1-105",
+          "number": "chapter-1-general-provisions-3-1-101-3-1-105",
+          "heading": "Chapter 1 General Provisions 3 1 101 3 1 105",
+          "section_count": 5,
+          "children": [
+            {
+              "id": "section-3-1-101",
+              "number": "3-1-101",
+              "heading": "TitleSection 3-1-102 - DefinitionsSection 3-1-103 - Exempted productsSection 3-1-104 - Industry member conduct - Donation of intoxicating liquorSection 3-1-105 - Posting of warning signs relating to drinking alcoholic beverages during pregnancy - Definition"
+            },
+            {
+              "id": "section-3-1-102",
+              "number": "3-1-102",
+              "heading": "Definitions"
+            },
+            {
+              "id": "section-3-1-103",
+              "number": "3-1-103",
+              "heading": "Exempted products"
+            },
+            {
+              "id": "section-3-1-104",
+              "number": "3-1-104",
+              "heading": "Industry member conduct - Donation of intoxicating liquor"
+            },
+            {
+              "id": "section-3-1-105",
+              "number": "3-1-105",
+              "heading": "Posting of warning signs relating to drinking alcoholic beverages during pregnancy - Definition"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-6-native-brandy-law-3-6-101-3-6-106",
+          "number": "chapter-6-native-brandy-law-3-6-101-3-6-106",
+          "heading": "Chapter 6 Native Brandy Law 3 6 101 3 6 106",
+          "section_count": 6,
+          "children": [
+            {
+              "id": "section-3-6-101",
+              "number": "3-6-101",
+              "heading": "TitleSection 3-6-102 - Manufacture and sale authorizedSection 3-6-103 - Administration by Alcoholic Beverage Control DivisionSection 3-6-104 - PermitsSection 3-6-105 - Tax on salesSection 3-6-106 - Collection of fees and taxes"
+            },
+            {
+              "id": "section-3-6-102",
+              "number": "3-6-102",
+              "heading": "Manufacture and sale authorized"
+            },
+            {
+              "id": "section-3-6-103",
+              "number": "3-6-103",
+              "heading": "Administration by Alcoholic Beverage Control Division"
+            },
+            {
+              "id": "section-3-6-104",
+              "number": "3-6-104",
+              "heading": "Permits"
+            },
+            {
+              "id": "section-3-6-105",
+              "number": "3-6-105",
+              "heading": "Tax on sales"
+            },
+            {
+              "id": "section-3-6-106",
+              "number": "3-6-106",
+              "heading": "Collection of fees and taxes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-7-elections-7-1-101-7-11-303",
+      "number": "title-7-elections-7-1-101-7-11-303",
+      "heading": "Title 7 Elections 7 1 101 7 11 303",
+      "children": [
+        {
+          "id": "chapter-chapter-1-general-provisions-7-1-101-7-1-115",
+          "number": "chapter-1-general-provisions-7-1-101-7-1-115",
+          "heading": "Chapter 1 General Provisions 7 1 101 7 1 115",
+          "section_count": 15,
+          "children": [
+            {
+              "id": "section-7-1-101",
+              "number": "7-1-101",
+              "heading": "DefinitionsSection 7-1-102 - Work time to be scheduled for voting - PenaltySection 7-1-103 - Miscellaneous misdemeanor offenses - Penalties - DefinitionsSection 7-1-104 - Miscellaneous felonies - PenaltiesSection 7-1-105 - Majority of qualified electorsSection 7-1-106 - Election laws expertSection 7"
+            },
+            {
+              "id": "section-7-1-102",
+              "number": "7-1-102",
+              "heading": "Work time to be scheduled for voting - Penalty"
+            },
+            {
+              "id": "section-7-1-103",
+              "number": "7-1-103",
+              "heading": "Miscellaneous misdemeanor offenses - Penalties - Definitions"
+            },
+            {
+              "id": "section-7-1-104",
+              "number": "7-1-104",
+              "heading": "Miscellaneous felonies - Penalties"
+            },
+            {
+              "id": "section-7-1-105",
+              "number": "7-1-105",
+              "heading": "Majority of qualified electors"
+            },
+            {
+              "id": "section-7-1-106",
+              "number": "7-1-106",
+              "heading": "Election laws expert"
+            },
+            {
+              "id": "section-7-1-107",
+              "number": "7-1-107",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-7-1-108",
+              "number": "7-1-108",
+              "heading": "Election law deadlines"
+            },
+            {
+              "id": "section-7-1-109",
+              "number": "7-1-109",
+              "heading": "Enforcement of election laws"
+            },
+            {
+              "id": "section-7-1-110",
+              "number": "7-1-110",
+              "heading": "Voting information on internet website"
+            },
+            {
+              "id": "section-7-1-111",
+              "number": "7-1-111",
+              "heading": "Use of public funds to support or oppose ballot measure - Definitions"
+            },
+            {
+              "id": "section-7-1-112",
+              "number": "7-1-112",
+              "heading": "Destruction of a ballot or ballot materials - Prohibited - Definitions"
+            },
+            {
+              "id": "section-7-1-113",
+              "number": "7-1-113",
+              "heading": "Vote centers"
+            },
+            {
+              "id": "section-7-1-114",
+              "number": "7-1-114",
+              "heading": "[Repealed]"
+            },
+            {
+              "id": "section-7-1-115",
+              "number": "7-1-115",
+              "heading": "Legislative review of new federal election guidance - Purpose - Definition"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-10-nonpartisan-elections-7-10-101-7-10-103",
+          "number": "chapter-10-nonpartisan-elections-7-10-101-7-10-103",
+          "heading": "Chapter 10 Nonpartisan Elections 7 10 101 7 10 103",
+          "section_count": 3,
+          "children": [
+            {
+              "id": "section-7-10-101",
+              "number": "7-10-101",
+              "heading": "[Repealed]Section 7-10-102 - Nonpartisan election of judges, justices, and prosecuting attorneysSection 7-10-103 - Filing as a candidate"
+            },
+            {
+              "id": "section-7-10-102",
+              "number": "7-10-102",
+              "heading": "Nonpartisan election of judges, justices, and prosecuting attorneys"
+            },
+            {
+              "id": "section-7-10-103",
+              "number": "7-10-103",
+              "heading": "Filing as a candidate"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-2-congressional-districts-7-2-101-7-2-105",
+          "number": "chapter-2-congressional-districts-7-2-101-7-2-105",
+          "heading": "Chapter 2 Congressional Districts 7 2 101 7 2 105",
+          "section_count": 5,
+          "children": [
+            {
+              "id": "section-7-2-101",
+              "number": "7-2-101",
+              "heading": "Number of congressional districtsSection 7-2-102 - First Congressional DistrictSection 7-2-103 - Second Congressional DistrictSection 7-2-104 - Third Congressional DistrictSection 7-2-105 - Fourth Congressional District"
+            },
+            {
+              "id": "section-7-2-102",
+              "number": "7-2-102",
+              "heading": "First Congressional District"
+            },
+            {
+              "id": "section-7-2-103",
+              "number": "7-2-103",
+              "heading": "Second Congressional District"
+            },
+            {
+              "id": "section-7-2-104",
+              "number": "7-2-104",
+              "heading": "Third Congressional District"
+            },
+            {
+              "id": "section-7-2-105",
+              "number": "7-2-105",
+              "heading": "Fourth Congressional District"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-3-political-parties-7-3-101-7-3-108",
+          "number": "chapter-3-political-parties-7-3-101-7-3-108",
+          "heading": "Chapter 3 Political Parties 7 3 101 7 3 108",
+          "section_count": 8,
+          "children": [
+            {
+              "id": "section-7-3-101",
+              "number": "7-3-101",
+              "heading": "Duties and powersSection 7-3-102 - National committee membersSection 7-3-103 - State committee membersSection 7-3-104 - County committee membersSection 7-3-105 - County convention delegates - Selection - VacancySection 7-3-106 - County convention - Primary election results - Selection of state and n"
+            },
+            {
+              "id": "section-7-3-102",
+              "number": "7-3-102",
+              "heading": "National committee members"
+            },
+            {
+              "id": "section-7-3-103",
+              "number": "7-3-103",
+              "heading": "State committee members"
+            },
+            {
+              "id": "section-7-3-104",
+              "number": "7-3-104",
+              "heading": "County committee members"
+            },
+            {
+              "id": "section-7-3-105",
+              "number": "7-3-105",
+              "heading": "County convention delegates - Selection - Vacancy"
+            },
+            {
+              "id": "section-7-3-106",
+              "number": "7-3-106",
+              "heading": "County convention - Primary election results - Selection of state and national delegates - Vacancies"
+            },
+            {
+              "id": "section-7-3-107",
+              "number": "7-3-107",
+              "heading": "State convention - Declaration of election results and nominees - Certificates"
+            },
+            {
+              "id": "section-7-3-108",
+              "number": "7-3-108",
+              "heading": "Subversive parties - New parties - Affidavit required - Penalty"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-title-8-environmental-law-8-1-101-8-15-119",
+      "number": "title-8-environmental-law-8-1-101-8-15-119",
+      "heading": "Title 8 Environmental Law 8 1 101 8 15 119",
+      "children": [
+        {
+          "id": "chapter-chapter-11-environmental-regulatory-flexibility-8-11-101-8-1",
+          "number": "chapter-11-environmental-regulatory-flexibility-8-11-101-8-1",
+          "heading": "Chapter 11 Environmental Regulatory Flexibility 8 11 101 8 1",
+          "section_count": 3,
+          "children": [
+            {
+              "id": "section-8-11-101",
+              "number": "8-11-101",
+              "heading": "TitleSection 8-11-102 - PurposeSection 8-11-103 - Regulatory flexibility"
+            },
+            {
+              "id": "section-8-11-102",
+              "number": "8-11-102",
+              "heading": "Purpose"
+            },
+            {
+              "id": "section-8-11-103",
+              "number": "8-11-103",
+              "heading": "Regulatory flexibility"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-12-natural-resources-damages-trust-fund-8-12-101-8-1",
+          "number": "chapter-12-natural-resources-damages-trust-fund-8-12-101-8-1",
+          "heading": "Chapter 12 Natural Resources Damages Trust Fund 8 12 101 8 1",
+          "section_count": 5,
+          "children": [
+            {
+              "id": "section-8-12-101",
+              "number": "8-12-101",
+              "heading": "TitleSection 8-12-102 - DefinitionsSection 8-12-103 - Natural Resources Damages Trust FundSection 8-12-104 - Natural Resources Damages Advisory BoardSection 8-12-105 - Duties of the Department of Finance and Administration"
+            },
+            {
+              "id": "section-8-12-102",
+              "number": "8-12-102",
+              "heading": "Definitions"
+            },
+            {
+              "id": "section-8-12-103",
+              "number": "8-12-103",
+              "heading": "Natural Resources Damages Trust Fund"
+            },
+            {
+              "id": "section-8-12-104",
+              "number": "8-12-104",
+              "heading": "Natural Resources Damages Advisory Board"
+            },
+            {
+              "id": "section-8-12-105",
+              "number": "8-12-105",
+              "heading": "Duties of the Department of Finance and Administration"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-13-management-organization-8-13-101-8-13-103",
+          "number": "chapter-13-management-organization-8-13-101-8-13-103",
+          "heading": "Chapter 13 Management Organization 8 13 101 8 13 103",
+          "section_count": 3,
+          "children": [
+            {
+              "id": "section-8-13-101",
+              "number": "8-13-101",
+              "heading": "PurposeSection 8-13-102 - Authority to adopt alternative organizationSection 8-13-103 - Requirements for comprehensive analysis and strategic planning"
+            },
+            {
+              "id": "section-8-13-102",
+              "number": "8-13-102",
+              "heading": "Authority to adopt alternative organization"
+            },
+            {
+              "id": "section-8-13-103",
+              "number": "8-13-103",
+              "heading": "Requirements for comprehensive analysis and strategic planning"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-14-shielded-outdoor-lighting-act-8-14-101-8-14-107",
+          "number": "chapter-14-shielded-outdoor-lighting-act-8-14-101-8-14-107",
+          "heading": "Chapter 14 Shielded Outdoor Lighting Act 8 14 101 8 14 107",
+          "section_count": 7,
+          "children": [
+            {
+              "id": "section-8-14-101",
+              "number": "8-14-101",
+              "heading": "TitleSection 8-14-102 - PurposeSection 8-14-103 - DefinitionsSection 8-14-104 - Shielding - Prohibitions - ExemptionsSection 8-14-105 - PenaltiesSection 8-14-106 - EnforcementSection 8-14-107 - Provisions supplemental"
+            },
+            {
+              "id": "section-8-14-102",
+              "number": "8-14-102",
+              "heading": "Purpose"
+            },
+            {
+              "id": "section-8-14-103",
+              "number": "8-14-103",
+              "heading": "Definitions"
+            },
+            {
+              "id": "section-8-14-104",
+              "number": "8-14-104",
+              "heading": "Shielding - Prohibitions - Exemptions"
+            },
+            {
+              "id": "section-8-14-105",
+              "number": "8-14-105",
+              "heading": "Penalties"
+            },
+            {
+              "id": "section-8-14-106",
+              "number": "8-14-106",
+              "heading": "Enforcement"
+            },
+            {
+              "id": "section-8-14-107",
+              "number": "8-14-107",
+              "heading": "Provisions supplemental"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-15-energy-efficient-facilities-8-15-101-8-15-119",
+          "number": "chapter-15-energy-efficient-facilities-8-15-101-8-15-119",
+          "heading": "Chapter 15 Energy Efficient Facilities 8 15 101 8 15 119",
+          "section_count": 19,
+          "children": [
+            {
+              "id": "section-8-15-101",
+              "number": "8-15-101",
+              "heading": "TitleSection 8-15-102 - DefinitionsSection 8-15-103 - Legislative findingsSection 8-15-104 - ImmunitySection 8-15-105 - Authority to createSection 8-15-106 - Membership in an existing districtSection 8-15-107 - Board of directorsSection 8-15-108 - Membership on the board of directorsSection 8-15-109"
+            },
+            {
+              "id": "section-8-15-102",
+              "number": "8-15-102",
+              "heading": "Definitions"
+            },
+            {
+              "id": "section-8-15-103",
+              "number": "8-15-103",
+              "heading": "Legislative findings"
+            },
+            {
+              "id": "section-8-15-104",
+              "number": "8-15-104",
+              "heading": "Immunity"
+            },
+            {
+              "id": "section-8-15-105",
+              "number": "8-15-105",
+              "heading": "Authority to create"
+            },
+            {
+              "id": "section-8-15-106",
+              "number": "8-15-106",
+              "heading": "Membership in an existing district"
+            },
+            {
+              "id": "section-8-15-107",
+              "number": "8-15-107",
+              "heading": "Board of directors"
+            },
+            {
+              "id": "section-8-15-108",
+              "number": "8-15-108",
+              "heading": "Membership on the board of directors"
+            },
+            {
+              "id": "section-8-15-109",
+              "number": "8-15-109",
+              "heading": "Terms of directors"
+            },
+            {
+              "id": "section-8-15-110",
+              "number": "8-15-110",
+              "heading": "District boards of directors - Meetings"
+            },
+            {
+              "id": "section-8-15-111",
+              "number": "8-15-111",
+              "heading": "District boards of directors - Powers and duties"
+            },
+            {
+              "id": "section-8-15-112",
+              "number": "8-15-112",
+              "heading": "Reporting requirement - Collection of assessments"
+            },
+            {
+              "id": "section-8-15-113",
+              "number": "8-15-113",
+              "heading": "Financing projects"
+            },
+            {
+              "id": "section-8-15-114",
+              "number": "8-15-114",
+              "heading": "Program guidelines"
+            },
+            {
+              "id": "section-8-15-115",
+              "number": "8-15-115",
+              "heading": "Payment by special assessments"
+            },
+            {
+              "id": "section-8-15-116",
+              "number": "8-15-116",
+              "heading": "Bonds"
+            },
+            {
+              "id": "section-8-15-117",
+              "number": "8-15-117",
+              "heading": "Sale"
+            },
+            {
+              "id": "section-8-15-118",
+              "number": "8-15-118",
+              "heading": "Revolving fund"
+            },
+            {
+              "id": "section-8-15-119",
+              "number": "8-15-119",
+              "heading": "Notice to mortgage lender"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

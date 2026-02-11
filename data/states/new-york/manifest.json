@@ -4,7 +4,7 @@
   "code_name": "New York Consolidated Laws",
   "source": "official_website",
   "source_url": "https://legislation.nysenate.gov/api/3",
-  "last_updated": "2026-02-10T14:11:46.696515+00:00",
+  "last_updated": "2026-02-11T13:18:37.891400+00:00",
   "year": 2024,
   "structure": [
     {
@@ -21,8 +21,8 @@
     }
   ],
   "stats": {
-    "titles": 0,
-    "chapters": 0,
-    "sections": 0
+    "titles": 125,
+    "chapters": 369,
+    "sections": 6649
   }
 }

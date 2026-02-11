@@ -2,9 +2,9 @@
   "state": "nebraska",
   "state_abbr": "NE",
   "code_name": "Revised Statutes of Nebraska",
-  "source": "state_provided",
-  "source_url": "https://nebraskalegislature.gov/laws/browse-statutes.php",
-  "last_updated": "2026-02-10T22:46:10.560245+00:00",
+  "source": "official_website",
+  "source_url": "https://law.justia.com/codes/nebraska",
+  "last_updated": "2026-02-11T14:01:27.899995+00:00",
   "year": 2024,
   "structure": [
     {
@@ -21,8 +21,8 @@
     }
   ],
   "stats": {
-    "titles": 1,
-    "chapters": 1,
-    "sections": 178
+    "titles": 90,
+    "chapters": 36234,
+    "sections": 162922
   }
 }

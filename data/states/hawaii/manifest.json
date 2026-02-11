@@ -1,0 +1,32 @@
+{
+  "state": "hawaii",
+  "state_abbr": "HI",
+  "code_name": "Hawaii Revised Statutes",
+  "source": "official_website",
+  "source_url": "https://www.capitol.hawaii.gov/hrscurrent",
+  "last_updated": "2026-02-11T13:06:42.645080+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "division",
+      "label": "Division"
+    },
+    {
+      "level": "title",
+      "label": "Title"
+    },
+    {
+      "level": "chapter",
+      "label": "Chapter"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 38,
+    "chapters": 394,
+    "sections": 12193
+  }
+}

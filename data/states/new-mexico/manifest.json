@@ -1,0 +1,28 @@
+{
+  "state": "new-mexico",
+  "state_abbr": "NM",
+  "code_name": "New Mexico Statutes",
+  "source": "official_website",
+  "source_url": "https://law.justia.com/codes/new-mexico",
+  "last_updated": "2026-02-11T13:17:04.939789+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "chapter",
+      "label": "Chapter"
+    },
+    {
+      "level": "article",
+      "label": "Article"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 84,
+    "chapters": 2205,
+    "sections": 32679
+  }
+}

@@ -4,7 +4,7 @@
   "code_name": "Louisiana Revised Statutes",
   "source": "official_website",
   "source_url": "https://www.legis.la.gov/legis/LawSearch.aspx",
-  "last_updated": "2026-02-10T23:45:24.665003+00:00",
+  "last_updated": "2026-02-11T13:14:14.018524+00:00",
   "year": 2024,
   "structure": [
     {
@@ -21,8 +21,8 @@
     }
   ],
   "stats": {
-    "titles": 0,
-    "chapters": 0,
-    "sections": 0
+    "titles": 6,
+    "chapters": 5925,
+    "sections": 64100
   }
 }

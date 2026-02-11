@@ -4,7 +4,7 @@
   "code_name": "Montana Code Annotated",
   "source": "official_website",
   "source_url": "https://leg.mt.gov/bills/mca/index.html",
-  "last_updated": "2026-02-10T23:48:31.721794+00:00",
+  "last_updated": "2026-02-11T13:13:55.919314+00:00",
   "year": 2024,
   "structure": [
     {
@@ -21,8 +21,8 @@
     }
   ],
   "stats": {
-    "titles": 1,
-    "chapters": 1,
-    "sections": 10
+    "titles": 0,
+    "chapters": 0,
+    "sections": 0
   }
 }

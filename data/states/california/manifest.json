@@ -4,7 +4,7 @@
   "code_name": "California Codes",
   "source": "official_website",
   "source_url": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
-  "last_updated": "2026-02-10T23:40:48.922114+00:00",
+  "last_updated": "2026-02-11T13:02:44.104834+00:00",
   "year": 2024,
   "structure": [
     {
@@ -25,8 +25,8 @@
     }
   ],
   "stats": {
-    "titles": 5,
-    "chapters": 5,
-    "sections": 7
+    "titles": 26,
+    "chapters": 155,
+    "sections": 2054
   }
 }

@@ -1,0 +1,28 @@
+{
+  "state": "michigan",
+  "state_abbr": "MI",
+  "code_name": "Michigan Compiled Laws",
+  "source": "official_website",
+  "source_url": "https://www.legislature.mi.gov/Laws/MCL",
+  "last_updated": "2026-02-11T13:14:59.491398+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "chapter",
+      "label": "Chapter"
+    },
+    {
+      "level": "act",
+      "label": "Act"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 207,
+    "chapters": 2316,
+    "sections": 19791
+  }
+}
