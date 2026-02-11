@@ -1,0 +1,694 @@
+{
+  "state": "hawaii",
+  "path": "title-title-36-civil-remedies-and-defenses-and-special-proceedings/chapter-667-foreclosures",
+  "sections": [
+    {
+      "id": "section-667-1",
+      "number": "667-1",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-15",
+      "number": "667-1.5",
+      "heading": "Foreclosure by action.",
+      "text": "Foreclosure by action.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-2",
+      "number": "667-2",
+      "heading": "Other mortgagees joined.",
+      "text": "Other mortgagees joined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-3",
+      "number": "667-3",
+      "heading": "Proceeds, how applied.",
+      "text": "Proceeds, how applied.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-4",
+      "number": "667-4",
+      "heading": "Defenses.",
+      "text": "Defenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-5",
+      "number": "667-5",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-55",
+      "number": "667-5.5",
+      "heading": "Foreclosure notice; planned communities; condominiums; cooperative housing projects.",
+      "text": "Foreclosure notice; planned communities; condominiums; cooperative housing projects.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-57",
+      "number": "667-5.7",
+      "heading": "to 667-8 REPEALED.",
+      "text": "to 667-8 REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-9",
+      "number": "667-9",
+      "heading": "Dower barred, when.",
+      "text": "Dower barred, when.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-10",
+      "number": "667-10",
+      "heading": "Power unaffected by transfer; surplus after sale.",
+      "text": "Power unaffected by transfer; surplus after sale.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-11",
+      "number": "667-11",
+      "heading": "to 667-13 REPEALED.",
+      "text": "to 667-13 REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-14",
+      "number": "667-14",
+      "heading": "and 667-15",
+      "text": "and 667-15",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-17",
+      "number": "667-17",
+      "heading": "Attorney affirmation in judicial foreclosure.",
+      "text": "Attorney affirmation in judicial foreclosure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-18",
+      "number": "667-18",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-19",
+      "number": "667-19",
+      "heading": "Association foreclosures; cure of default; payment plan.",
+      "text": "Association foreclosures; cure of default; payment plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-20",
+      "number": "667-20",
+      "heading": "Publication of notice of public sale.",
+      "text": "Publication of notice of public sale.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-201",
+      "number": "667-20.1",
+      "heading": "Postponement, cancellation of sale.",
+      "text": "Postponement, cancellation of sale.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-21",
+      "number": "667-21",
+      "heading": "Power of sale process.",
+      "text": "Power of sale process.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-215",
+      "number": "667-21.5",
+      "heading": "Foreclosure notice; planned communities; condominiums; cooperative housing projects.",
+      "text": "Foreclosure notice; planned communities; condominiums; cooperative housing projects.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-216",
+      "number": "667-21.6",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-22",
+      "number": "667-22",
+      "heading": "Notice of default and intention to foreclose; contents; distribution.",
+      "text": "Notice of default and intention to foreclose; contents; distribution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-23",
+      "number": "667-23",
+      "heading": "Recordation of notice of default and intention to foreclose.",
+      "text": "Recordation of notice of default and intention to foreclose.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-24",
+      "number": "667-24",
+      "heading": "Cure of default.",
+      "text": "Cure of default.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-25",
+      "number": "667-25",
+      "heading": "Date, place of public sale of mortgaged property.",
+      "text": "Date, place of public sale of mortgaged property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-26",
+      "number": "667-26",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-27",
+      "number": "667-27",
+      "heading": "Public notice of public sale; contents; distribution; publication.",
+      "text": "Public notice of public sale; contents; distribution; publication.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-28",
+      "number": "667-28",
+      "heading": "Postponement, cancellation of sale.",
+      "text": "Postponement, cancellation of sale.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-29",
+      "number": "667-29",
+      "heading": "Authorized bidder; successful bidder.",
+      "text": "Authorized bidder; successful bidder.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-30",
+      "number": "667-30",
+      "heading": "Successful bidder's failure to comply; forfeiture of downpayment.",
+      "text": "Successful bidder's failure to comply; forfeiture of downpayment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-31",
+      "number": "667-31",
+      "heading": "Conveyance of property on payment of purchase price; distribution of sale proceeds.",
+      "text": "Conveyance of property on payment of purchase price; distribution of sale proceeds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-32",
+      "number": "667-32",
+      "heading": "Affidavit after public sale; contents.",
+      "text": "Affidavit after public sale; contents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-33",
+      "number": "667-33",
+      "heading": "Recordation of affidavit, conveyance document; effect.",
+      "text": "Recordation of affidavit, conveyance document; effect.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-34",
+      "number": "667-34",
+      "heading": "and 667-35 REPEALED.",
+      "text": "and 667-35 REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-36",
+      "number": "667-36",
+      "heading": "Sale of property separately.",
+      "text": "Sale of property separately.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-37",
+      "number": "667-37",
+      "heading": "Judicial action of foreclosure before public sale.",
+      "text": "Judicial action of foreclosure before public sale.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-38",
+      "number": "667-38",
+      "heading": "Deficiency judgment against owner-occupant prohibited.",
+      "text": "Deficiency judgment against owner-occupant prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-39",
+      "number": "667-39",
+      "heading": "Right to enforce this part.",
+      "text": "Right to enforce this part.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-40",
+      "number": "667-40",
+      "heading": "Use of power of sale foreclosure in certain non-mortgage situations.",
+      "text": "Use of power of sale foreclosure in certain non-mortgage situations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-41",
+      "number": "667-41",
+      "heading": "Public information notice requirement.",
+      "text": "Public information notice requirement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-42",
+      "number": "667-42",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-50",
+      "number": "667-50",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-51",
+      "number": "667-51",
+      "heading": "Appeals.",
+      "text": "Appeals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-52",
+      "number": "667-52",
+      "heading": "Buyer's choice of title insurer and escrow agent.",
+      "text": "Buyer's choice of title insurer and escrow agent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-53",
+      "number": "667-53",
+      "heading": "Conversion to judicial foreclosure; residential property; conditions.",
+      "text": "Conversion to judicial foreclosure; residential property; conditions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-54",
+      "number": "667-54",
+      "heading": "Petition for conversion; residential property; required contents.",
+      "text": "Petition for conversion; residential property; required contents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-55",
+      "number": "667-55",
+      "heading": "Notice of default and intention to foreclose; residential property; required statement on conversion.",
+      "text": "Notice of default and intention to foreclose; residential property; required statement on conversion.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-56",
+      "number": "667-56",
+      "heading": "Prohibited conduct.",
+      "text": "Prohibited conduct.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-57",
+      "number": "667-57",
+      "heading": "Suspension of foreclosure actions by junior lienholders.",
+      "text": "Suspension of foreclosure actions by junior lienholders.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-58",
+      "number": "667-58",
+      "heading": "Valid notice; affiliate statement.",
+      "text": "Valid notice; affiliate statement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-59",
+      "number": "667-59",
+      "heading": "Actions and communications with the mortgagor in connection with a foreclosure.",
+      "text": "Actions and communications with the mortgagor in connection with a foreclosure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-60",
+      "number": "667-60",
+      "heading": "Unfair or deceptive act or practice; transfer of title.",
+      "text": "Unfair or deceptive act or practice; transfer of title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-61",
+      "number": "667-61",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-62",
+      "number": "667-62",
+      "heading": "Time share interest foreclosure under power of sale; notice; affidavit after sale.",
+      "text": "Time share interest foreclosure under power of sale; notice; affidavit after sale.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-63",
+      "number": "667-63",
+      "heading": "Notice to mortgage creditors",
+      "text": "Notice to mortgage creditors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-64",
+      "number": "667-64",
+      "heading": "Affidavit as evidence.",
+      "text": "Affidavit as evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-65",
+      "number": "667-65",
+      "heading": "Application of time share interest power of sale requirements.",
+      "text": "Application of time share interest power of sale requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-71",
+      "number": "667-71",
+      "heading": "Applicability.",
+      "text": "Applicability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-72",
+      "number": "667-72",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-73",
+      "number": "667-73",
+      "heading": "Mortgage foreclosure dispute resolution program; administration.",
+      "text": "Mortgage foreclosure dispute resolution program; administration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-74",
+      "number": "667-74",
+      "heading": "Availability of dispute resolution required before foreclosure.",
+      "text": "Availability of dispute resolution required before foreclosure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-75",
+      "number": "667-75",
+      "heading": "Notice of dispute resolution availability required.",
+      "text": "Notice of dispute resolution availability required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-76",
+      "number": "667-76",
+      "heading": "Mortgagee's filing of notice with department; filing fee; electronic public notice of public sale.",
+      "text": "Mortgagee's filing of notice with department; filing fee; electronic public notice of public sale.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-77",
+      "number": "667-77",
+      "heading": "Notification to mortgagor by department.",
+      "text": "Notification to mortgagor by department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-78",
+      "number": "667-78",
+      "heading": "Owner-occupant's election of dispute resolution; owner-occupant program fee; right to dispute resolution waived",
+      "text": "Owner-occupant's election of dispute resolution; owner-occupant program fee; right to dispute resolution waived",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-79",
+      "number": "667-79",
+      "heading": "Notification of opening a dispute resolution case; mortgagee's program fee.",
+      "text": "Notification of opening a dispute resolution case; mortgagee's program fee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-80",
+      "number": "667-80",
+      "heading": "Parties; requirements; process.",
+      "text": "Parties; requirements; process.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-81",
+      "number": "667-81",
+      "heading": "Outcome of dispute resolution; neutral's closing report.",
+      "text": "Outcome of dispute resolution; neutral's closing report.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-82",
+      "number": "667-82",
+      "heading": "Noncompliance with requirements; statement.",
+      "text": "Noncompliance with requirements; statement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-83",
+      "number": "667-83",
+      "heading": "Stay of nonjudicial foreclosure proceedings.",
+      "text": "Stay of nonjudicial foreclosure proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-84",
+      "number": "667-84",
+      "heading": "Confidentiality.",
+      "text": "Confidentiality.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-85",
+      "number": "667-85",
+      "heading": "Neutral qualifications; status and liability.",
+      "text": "Neutral qualifications; status and liability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-86",
+      "number": "667-86",
+      "heading": "Mortgage foreclosure dispute resolution special fund.",
+      "text": "Mortgage foreclosure dispute resolution special fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-91",
+      "number": "667-91",
+      "heading": "Alternate power of sale process.",
+      "text": "Alternate power of sale process.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-92",
+      "number": "667-92",
+      "heading": "Notice of default and intention to foreclose; contents; distribution; alternative remedies for failure to serve.",
+      "text": "Notice of default and intention to foreclose; contents; distribution; alternative remedies for failure to serve.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-93",
+      "number": "667-93",
+      "heading": "Recordation of notice of default and intention to foreclose.",
+      "text": "Recordation of notice of default and intention to foreclose.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-94",
+      "number": "667-94",
+      "heading": "Cure of default.",
+      "text": "Cure of default.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-95",
+      "number": "667-95",
+      "heading": "Date of public sale of unit; place of sale.",
+      "text": "Date of public sale of unit; place of sale.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-96",
+      "number": "667-96",
+      "heading": "Public notice of public sale; contents; distribution; publication.",
+      "text": "Public notice of public sale; contents; distribution; publication.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-97",
+      "number": "667-97",
+      "heading": "Postponement, cancellation of sale.",
+      "text": "Postponement, cancellation of sale.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-98",
+      "number": "667-98",
+      "heading": "Authorized bidder; successful bidder.",
+      "text": "Authorized bidder; successful bidder.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-99",
+      "number": "667-99",
+      "heading": "Successful bidder's failure to comply; forfeiture of downpayment.",
+      "text": "Successful bidder's failure to comply; forfeiture of downpayment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-100",
+      "number": "667-100",
+      "heading": "Conveyance of property on payment of purchase price; distribution of sale proceeds.",
+      "text": "Conveyance of property on payment of purchase price; distribution of sale proceeds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-101",
+      "number": "667-101",
+      "heading": "Affidavit after public sale; contents.",
+      "text": "Affidavit after public sale; contents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-102",
+      "number": "667-102",
+      "heading": "Recordation of affidavit, conveyance document; effect.",
+      "text": "Recordation of affidavit, conveyance document; effect.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-103",
+      "number": "667-103",
+      "heading": "Recordation; full satisfaction of debt by unit owner.",
+      "text": "Recordation; full satisfaction of debt by unit owner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-667-104",
+      "number": "667-104",
+      "heading": "Prohibited conduct.",
+      "text": "Prohibited conduct.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

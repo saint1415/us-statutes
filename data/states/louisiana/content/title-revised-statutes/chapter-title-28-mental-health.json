@@ -1,0 +1,2926 @@
+{
+  "state": "louisiana",
+  "path": "title-revised-statutes/chapter-title-28-mental-health",
+  "sections": [
+    {
+      "id": "section-281",
+      "number": "28:1.",
+      "heading": "Short title",
+      "text": "Short title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-282",
+      "number": "28:2.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-283",
+      "number": "28:3.",
+      "heading": "Application of Chapter; costs",
+      "text": "Application of Chapter; costs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-284",
+      "number": "28:4.",
+      "heading": "Behavioral healthcare information; records",
+      "text": "Behavioral healthcare information; records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2811",
+      "number": "28:11.",
+      "heading": "Short title",
+      "text": "Short title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2812",
+      "number": "28:12.",
+      "heading": "Legislative declaration of intent",
+      "text": "Legislative declaration of intent",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2813",
+      "number": "28:13.",
+      "heading": "Management of behavioral health resources",
+      "text": "Management of behavioral health resources",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2814",
+      "number": "28:14.",
+      "heading": "Funding priorities; cost-effectiveness",
+      "text": "Funding priorities; cost-effectiveness",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2815",
+      "number": "28:15.",
+      "heading": "Innovative behavioral health services; programs",
+      "text": "Innovative behavioral health services; programs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2820",
+      "number": "28:20.",
+      "heading": "Admission to Louisiana Department of Health facilities; legislative findings; criteria",
+      "text": "Admission to Louisiana Department of Health facilities; legislative findings; criteria",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2821",
+      "number": "28:21.",
+      "heading": "State psychiatric hospitals",
+      "text": "State psychiatric hospitals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28211",
+      "number": "28:21.1.",
+      "heading": "Substance-related and addictive disorders; treatment in state psychiatric hospitals",
+      "text": "Substance-related and addictive disorders; treatment in state psychiatric hospitals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2822",
+      "number": "28:22.",
+      "heading": "Crisis response system",
+      "text": "Crisis response system",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28224",
+      "number": "28:22.4.",
+      "heading": "Repealed by Acts 2017, No. 369, §7.",
+      "text": "Repealed by Acts 2017, No. 369, §7.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28225",
+      "number": "28:22.5.",
+      "heading": "Community behavioral health clinics; behavioral health services providers",
+      "text": "Community behavioral health clinics; behavioral health services providers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28226",
+      "number": "28:22.6.",
+      "heading": "Payment for maintenance or treatment",
+      "text": "Payment for maintenance or treatment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28227",
+      "number": "28:22.7.",
+      "heading": "Geriatric hospitals and units",
+      "text": "Geriatric hospitals and units",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28228",
+      "number": "28:22.8.",
+      "heading": "State developmental centers",
+      "text": "State developmental centers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28229",
+      "number": "28:22.9.",
+      "heading": "Rosenblum Mental Health Center",
+      "text": "Rosenblum Mental Health Center",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-282210",
+      "number": "28:22.10.",
+      "heading": "Repealed by Acts 2017, No. 369, §7.",
+      "text": "Repealed by Acts 2017, No. 369, §7.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2823",
+      "number": "28:23.",
+      "heading": "Psychiatric inpatient units in state general hospitals",
+      "text": "Psychiatric inpatient units in state general hospitals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2824",
+      "number": "28:24.",
+      "heading": "Repealed by Acts 1978, No. 786, §7, eff. July 17, 1978",
+      "text": "Repealed by Acts 1978, No. 786, §7, eff. July 17, 1978",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2825",
+      "number": "28:25.",
+      "heading": "Provisions for close confinement of certain patients who have a mental illness",
+      "text": "Provisions for close confinement of certain patients who have a mental illness",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28251",
+      "number": "28:25.1.",
+      "heading": "Establishment of Feliciana Forensic Facility; authorization to establish forensic facilities in New Orleans, Baton Rouge, Shreveport, and Alexandria",
+      "text": "Establishment of Feliciana Forensic Facility; authorization to establish forensic facilities in New Orleans, Baton Rouge, Shreveport, and Alexandria",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28252",
+      "number": "28:25.2.",
+      "heading": "Granting of passes to Feliciana Forensic Facility clients",
+      "text": "Granting of passes to Feliciana Forensic Facility clients",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2826",
+      "number": "28:26.",
+      "heading": "Psychiatric facility; forensic facility; prohibitions",
+      "text": "Psychiatric facility; forensic facility; prohibitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2831",
+      "number": "28:31.",
+      "heading": "Findings",
+      "text": "Findings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2832",
+      "number": "28:32.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2833",
+      "number": "28:33.",
+      "heading": "Licensure of forensic supervised transitional residential and aftercare facilities",
+      "text": "Licensure of forensic supervised transitional residential and aftercare facilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2834",
+      "number": "28:34.",
+      "heading": "Rules and regulations; licensing standards",
+      "text": "Rules and regulations; licensing standards",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2835",
+      "number": "28:35.",
+      "heading": "License issuance; application; on-site inspection",
+      "text": "License issuance; application; on-site inspection",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2836",
+      "number": "28:36.",
+      "heading": "License renewal; failure to timely renew",
+      "text": "License renewal; failure to timely renew",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2837",
+      "number": "28:37.",
+      "heading": "Operation without license; penalty",
+      "text": "Operation without license; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2850",
+      "number": "28:50.",
+      "heading": "Declaration of policy",
+      "text": "Declaration of policy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2851",
+      "number": "28:51.",
+      "heading": "Procedures for admission",
+      "text": "Procedures for admission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28511",
+      "number": "28:51.1.",
+      "heading": "Treatment facility; staff membership and institutional privileges; certain healthcare providers",
+      "text": "Treatment facility; staff membership and institutional privileges; certain healthcare providers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2852",
+      "number": "28:52.",
+      "heading": "Voluntary admissions; general provisions",
+      "text": "Voluntary admissions; general provisions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28521",
+      "number": "28:52.1.",
+      "heading": "Repealed by Acts 2017, No. 369, §7.",
+      "text": "Repealed by Acts 2017, No. 369, §7.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28522",
+      "number": "28:52.2.",
+      "heading": "Formal voluntary admission",
+      "text": "Formal voluntary admission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28523",
+      "number": "28:52.3.",
+      "heading": "Noncontested admission",
+      "text": "Noncontested admission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28524",
+      "number": "28:52.4.",
+      "heading": "Admission by relative or legal guardian for substance-related or addictive disorder treatment",
+      "text": "Admission by relative or legal guardian for substance-related or addictive disorder treatment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2853",
+      "number": "28:53.",
+      "heading": "Admission by emergency certificate; extension; payment for services rendered",
+      "text": "Admission by emergency certificate; extension; payment for services rendered",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28531",
+      "number": "28:53.1.",
+      "heading": "Discharge plan; healthcare provider notification requirements",
+      "text": "Discharge plan; healthcare provider notification requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28532",
+      "number": "28:53.2.",
+      "heading": "Order for custody; grounds; civil liability; criminal penalty for making a false statement",
+      "text": "Order for custody; grounds; civil liability; criminal penalty for making a false statement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28533",
+      "number": "28:53.3.",
+      "heading": "Order for custody; grounds; teleconference; Jefferson Parish",
+      "text": "Order for custody; grounds; teleconference; Jefferson Parish",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28534",
+      "number": "28:53.4.",
+      "heading": "Order for custody; grounds; teleconference; Lafourche Parish",
+      "text": "Order for custody; grounds; teleconference; Lafourche Parish",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2854",
+      "number": "28:54.",
+      "heading": "Judicial commitment; procedure",
+      "text": "Judicial commitment; procedure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2855",
+      "number": "28:55.",
+      "heading": "Judicial hearings",
+      "text": "Judicial hearings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2856",
+      "number": "28:56.",
+      "heading": "Judicial commitment; review; appeals",
+      "text": "Judicial commitment; review; appeals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2857",
+      "number": "28:57.",
+      "heading": "Petition for restoration of right to possess a firearm and to apply for permit for concealed handgun; procedures",
+      "text": "Petition for restoration of right to possess a firearm and to apply for permit for concealed handgun; procedures",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2858",
+      "number": "28:58.",
+      "heading": "Code of Criminal Procedure Article 641 et seq. not affected",
+      "text": "Code of Criminal Procedure Article 641 et seq. not affected",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2859",
+      "number": "28:59.",
+      "heading": "Commitment of prisoners",
+      "text": "Commitment of prisoners",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2860",
+      "number": "28:60.",
+      "heading": "Repealed by Acts 1978, No. 680, §3",
+      "text": "Repealed by Acts 1978, No. 680, §3",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2861",
+      "number": "28:61.",
+      "heading": "Repealed by Acts 1979, No. 767, §3",
+      "text": "Repealed by Acts 1979, No. 767, §3",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2862",
+      "number": "28:62.",
+      "heading": "Commitment to United States veterans and public health service hospitals",
+      "text": "Commitment to United States veterans and public health service hospitals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2863",
+      "number": "28:63.",
+      "heading": "Standard of care; limitation of liability; penalties",
+      "text": "Standard of care; limitation of liability; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2864",
+      "number": "28:64.",
+      "heading": "Mental Health Advocacy Service; creation; board of trustees; organization; powers; duties",
+      "text": "Mental Health Advocacy Service; creation; board of trustees; organization; powers; duties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2865",
+      "number": "28:65.",
+      "heading": "REPEALED BY ACTS 1993, NO. 891, §2, EFF. JUNE 23, 1993.",
+      "text": "REPEALED BY ACTS 1993, NO. 891, §2, EFF. JUNE 23, 1993.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2866",
+      "number": "28:66.",
+      "heading": "Criteria for civil involuntary outpatient treatment",
+      "text": "Criteria for civil involuntary outpatient treatment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2867",
+      "number": "28:67.",
+      "heading": "Petition to the court",
+      "text": "Petition to the court",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2868",
+      "number": "28:68.",
+      "heading": "Petition",
+      "text": "Petition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2869",
+      "number": "28:69.",
+      "heading": "Procedure",
+      "text": "Procedure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2870",
+      "number": "28:70.",
+      "heading": "Written treatment plan for involuntary outpatient treatment",
+      "text": "Written treatment plan for involuntary outpatient treatment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2871",
+      "number": "28:71.",
+      "heading": "Disposition",
+      "text": "Disposition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2872",
+      "number": "28:72.",
+      "heading": "Application for additional periods of treatment",
+      "text": "Application for additional periods of treatment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2873",
+      "number": "28:73.",
+      "heading": "Application to stay, vacate, or modify",
+      "text": "Application to stay, vacate, or modify",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2874",
+      "number": "28:74.",
+      "heading": "Appeals",
+      "text": "Appeals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2875",
+      "number": "28:75.",
+      "heading": "Failure to comply with involuntary outpatient treatment",
+      "text": "Failure to comply with involuntary outpatient treatment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2876",
+      "number": "28:76.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2877",
+      "number": "28:77.",
+      "heading": "Fees and court costs",
+      "text": "Fees and court costs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2891",
+      "number": "28:91.",
+      "heading": "Transfer to psychiatric hospital",
+      "text": "Transfer to psychiatric hospital",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2892",
+      "number": "28:92.",
+      "heading": "Transfer of patients from military establishments",
+      "text": "Transfer of patients from military establishments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2893",
+      "number": "28:93.",
+      "heading": "Transfer of veterans to United States veterans hospitals",
+      "text": "Transfer of veterans to United States veterans hospitals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2894",
+      "number": "28:94.",
+      "heading": "Transfer of patients between psychiatric hospitals",
+      "text": "Transfer of patients between psychiatric hospitals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2895",
+      "number": "28:95.",
+      "heading": "Repealed by Acts 2017, No. 369, §7.",
+      "text": "Repealed by Acts 2017, No. 369, §7.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2896",
+      "number": "28:96.",
+      "heading": "Discharge by the administrator or treating physician",
+      "text": "Discharge by the administrator or treating physician",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28961",
+      "number": "28:96.1.",
+      "heading": "Discharge by the director or administrator of a private psychiatric hospital",
+      "text": "Discharge by the director or administrator of a private psychiatric hospital",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2897",
+      "number": "28:97.",
+      "heading": "Discharge by the department",
+      "text": "Discharge by the department",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2898",
+      "number": "28:98.",
+      "heading": "Repealed by Acts 1972, No. 154, §4",
+      "text": "Repealed by Acts 1972, No. 154, §4",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28981",
+      "number": "28:98.1.",
+      "heading": "Repealed by Acts 1985, No. 341, §1; eff. July 9, 1985.",
+      "text": "Repealed by Acts 1985, No. 341, §1; eff. July 9, 1985.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28982",
+      "number": "28:98.2.",
+      "heading": "Immunity of psychiatric hospital and director or administrator",
+      "text": "Immunity of psychiatric hospital and director or administrator",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2899",
+      "number": "28:99.",
+      "heading": "Discharge by lapse of time",
+      "text": "Discharge by lapse of time",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28100",
+      "number": "28:100.",
+      "heading": "Leaves of absence for patients",
+      "text": "Leaves of absence for patients",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-281001",
+      "number": "28:100.1.",
+      "heading": "Repealed by Acts 2017, No. 369, §7.",
+      "text": "Repealed by Acts 2017, No. 369, §7.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28101",
+      "number": "28:101.",
+      "heading": "Boarding out patients",
+      "text": "Boarding out patients",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28102",
+      "number": "28:102.",
+      "heading": "State psychiatric hospitals; return of escaped patients",
+      "text": "State psychiatric hospitals; return of escaped patients",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28103",
+      "number": "28:103.",
+      "heading": "Deportation of nonresident patients",
+      "text": "Deportation of nonresident patients",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28104",
+      "number": "28:104.",
+      "heading": "Importation of nonresident psychiatric patients prohibited",
+      "text": "Importation of nonresident psychiatric patients prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28105",
+      "number": "28:105.",
+      "heading": "Extradition of escaped patients",
+      "text": "Extradition of escaped patients",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28141",
+      "number": "28:141.",
+      "heading": "Costs of commitment and examination",
+      "text": "Costs of commitment and examination",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28142",
+      "number": "28:142.",
+      "heading": "Costs of transportation",
+      "text": "Costs of transportation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28143",
+      "number": "28:143.",
+      "heading": "Costs of maintenance and daily care",
+      "text": "Costs of maintenance and daily care",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28144",
+      "number": "28:144.",
+      "heading": "Investigation and assessment of charges",
+      "text": "Investigation and assessment of charges",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28145",
+      "number": "28:145.",
+      "heading": "Costs of transfer",
+      "text": "Costs of transfer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28146",
+      "number": "28:146.",
+      "heading": "Expenses incident to discharge, removal, or funeral",
+      "text": "Expenses incident to discharge, removal, or funeral",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28147",
+      "number": "28:147.",
+      "heading": "Method of collection",
+      "text": "Method of collection",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28148",
+      "number": "28:148.",
+      "heading": "Expenses of deportation",
+      "text": "Expenses of deportation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28171",
+      "number": "28:171.",
+      "heading": "Enumerations of rights guaranteed",
+      "text": "Enumerations of rights guaranteed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-281711",
+      "number": "28:171.1.",
+      "heading": "Principles for the behavioral health system",
+      "text": "Principles for the behavioral health system",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28172",
+      "number": "28:172.",
+      "heading": "Deposit of patients' funds; disbursement",
+      "text": "Deposit of patients' funds; disbursement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28173",
+      "number": "28:173.",
+      "heading": "Interest earned on funds of psychiatric hospital patients",
+      "text": "Interest earned on funds of psychiatric hospital patients",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28181",
+      "number": "28:181.",
+      "heading": "Improper commitment",
+      "text": "Improper commitment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28182",
+      "number": "28:182.",
+      "heading": "Repealed by Acts 2017, No. 369, §7.",
+      "text": "Repealed by Acts 2017, No. 369, §7.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28183",
+      "number": "28:183.",
+      "heading": "Furnishing weapons",
+      "text": "Furnishing weapons",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28184",
+      "number": "28:184.",
+      "heading": "Furnishing intoxicants",
+      "text": "Furnishing intoxicants",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28185",
+      "number": "28:185.",
+      "heading": "Unlicensed counseling",
+      "text": "Unlicensed counseling",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28200",
+      "number": "28:200.",
+      "heading": "Promotion of a community-based system of care",
+      "text": "Promotion of a community-based system of care",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28201",
+      "number": "28:201.",
+      "heading": "Transfer of administration",
+      "text": "Transfer of administration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28202",
+      "number": "28:202.",
+      "heading": "Lease of land, buildings, and equipment",
+      "text": "Lease of land, buildings, and equipment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28203",
+      "number": "28:203.",
+      "heading": "Standards of operation and maintenance; enforcement; entry and inspection",
+      "text": "Standards of operation and maintenance; enforcement; entry and inspection",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28204",
+      "number": "28:204.",
+      "heading": "Contracts",
+      "text": "Contracts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28205",
+      "number": "28:205.",
+      "heading": "Allocation of funds",
+      "text": "Allocation of funds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28206",
+      "number": "28:206.",
+      "heading": "Continuum of care for the emotionally and behaviorally disturbed; statement of policy; determination of need and site",
+      "text": "Continuum of care for the emotionally and behaviorally disturbed; statement of policy; determination of need and site",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28211",
+      "number": "28:211",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28212",
+      "number": "28:212.",
+      "heading": "REPEALED BY ACTS 1989, NO. 662, §8, EFF. JULY 7, 1989.",
+      "text": "REPEALED BY ACTS 1989, NO. 662, §8, EFF. JULY 7, 1989.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28213",
+      "number": "28:213.",
+      "heading": "Repealed by Acts 2014, No. 811, §34, eff. June 23, 2014.",
+      "text": "Repealed by Acts 2014, No. 811, §34, eff. June 23, 2014.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-282151",
+      "number": "28:215.1.",
+      "heading": "Coroner's Strategic Initiative for a Health Information and Intervention Program; creation",
+      "text": "Coroner's Strategic Initiative for a Health Information and Intervention Program; creation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-282152",
+      "number": "28:215.2.",
+      "heading": "Coroner's Strategic Initiative for a Health Information and Intervention Program; powers and duties",
+      "text": "Coroner's Strategic Initiative for a Health Information and Intervention Program; powers and duties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-282153",
+      "number": "28:215.3.",
+      "heading": "Treatment facilities; dissemination of information",
+      "text": "Treatment facilities; dissemination of information",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-282154",
+      "number": "28:215.4.",
+      "heading": "Consent",
+      "text": "Consent",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-282155",
+      "number": "28:215.5.",
+      "heading": "Coroner's Strategic Initiative for a Health Information and Intervention Program; advisory board",
+      "text": "Coroner's Strategic Initiative for a Health Information and Intervention Program; advisory board",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-282156",
+      "number": "28:215.6.",
+      "heading": "Limitation of liability",
+      "text": "Limitation of liability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28221",
+      "number": "28:221.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28222",
+      "number": "28:222.",
+      "heading": "Individuals who may make an advance directive for behavioral health treatment; period of validity",
+      "text": "Individuals who may make an advance directive for behavioral health treatment; period of validity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28223",
+      "number": "28:223.",
+      "heading": "Designation of representative for decisions about behavioral health treatment",
+      "text": "Designation of representative for decisions about behavioral health treatment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28224",
+      "number": "28:224.",
+      "heading": "Execution of advance directive; witnesses; psychiatric examination",
+      "text": "Execution of advance directive; witnesses; psychiatric examination",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28225",
+      "number": "28:225.",
+      "heading": "Operation of advance directive; physician or provider to act in accordance with advance directive",
+      "text": "Operation of advance directive; physician or provider to act in accordance with advance directive",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28226",
+      "number": "28:226.",
+      "heading": "Determination of incapacity",
+      "text": "Determination of incapacity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28227",
+      "number": "28:227.",
+      "heading": "Scope of authority of representative; powers and duties; limitation on liability",
+      "text": "Scope of authority of representative; powers and duties; limitation on liability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28228",
+      "number": "28:228.",
+      "heading": "Prohibitions against requiring an individual to execute or refrain from executing an advance directive",
+      "text": "Prohibitions against requiring an individual to execute or refrain from executing an advance directive",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28229",
+      "number": "28:229.",
+      "heading": "Advance directive for behavioral health treatment; part of medical record; physician or provider compliance; withdrawal of physician or provider",
+      "text": "Advance directive for behavioral health treatment; part of medical record; physician or provider compliance; withdrawal of physician or provider",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28230",
+      "number": "28:230.",
+      "heading": "Disregarding advance directives; circumstances",
+      "text": "Disregarding advance directives; circumstances",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28231",
+      "number": "28:231.",
+      "heading": "Revocation of advance directive",
+      "text": "Revocation of advance directive",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28232",
+      "number": "28:232.",
+      "heading": "Limitations on liability of physician or provider",
+      "text": "Limitations on liability of physician or provider",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28233",
+      "number": "28:233.",
+      "heading": "Individuals prohibited from serving as representative",
+      "text": "Individuals prohibited from serving as representative",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28234",
+      "number": "28:234.",
+      "heading": "Individuals prohibited from serving as witnesses to advance directive for behavioral health treatment",
+      "text": "Individuals prohibited from serving as witnesses to advance directive for behavioral health treatment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28235",
+      "number": "28:235.",
+      "heading": "Withdrawal of representative; rescission of withdrawal",
+      "text": "Withdrawal of representative; rescission of withdrawal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28236",
+      "number": "28:236.",
+      "heading": "Form",
+      "text": "Form",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28237",
+      "number": "28:237.",
+      "heading": "Repealed by Acts 2022, No. 252, §1.",
+      "text": "Repealed by Acts 2022, No. 252, §1.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28241",
+      "number": "28:241.",
+      "heading": "Repealed by Acts 2022, No. 252, §1.",
+      "text": "Repealed by Acts 2022, No. 252, §1.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28242",
+      "number": "28:242.",
+      "heading": "Repealed by Acts 2022, No. 252, §1.",
+      "text": "Repealed by Acts 2022, No. 252, §1.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28243",
+      "number": "28:243.",
+      "heading": "Repealed by Acts 2022, No. 252, §1.",
+      "text": "Repealed by Acts 2022, No. 252, §1.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28244",
+      "number": "28:244.",
+      "heading": "Repealed by Acts 2022, No. 252, §1.",
+      "text": "Repealed by Acts 2022, No. 252, §1.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28245",
+      "number": "28:245.",
+      "heading": "Repealed by Acts 2022, No. 252, §1.",
+      "text": "Repealed by Acts 2022, No. 252, §1.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28246",
+      "number": "28:246.",
+      "heading": "Repealed by Acts 2022, No. 252, §1.",
+      "text": "Repealed by Acts 2022, No. 252, §1.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28247",
+      "number": "28:247.",
+      "heading": "Repealed by Acts 2022, No. 252, §1.",
+      "text": "Repealed by Acts 2022, No. 252, §1.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-282471",
+      "number": "28:247.1.",
+      "heading": "Repealed by Acts 2022, No. 252, §1.",
+      "text": "Repealed by Acts 2022, No. 252, §1.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28248",
+      "number": "28:248.",
+      "heading": "Repealed by Acts 2022, No. 252, §1.",
+      "text": "Repealed by Acts 2022, No. 252, §1.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28249",
+      "number": "28:249.",
+      "heading": "Repealed by Acts 2022, No. 252, §1.",
+      "text": "Repealed by Acts 2022, No. 252, §1.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28311",
+      "number": "28:311.",
+      "heading": "Repealed by Acts 2011, No. 207, §9.",
+      "text": "Repealed by Acts 2011, No. 207, §9.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-283111",
+      "number": "28:311.1.",
+      "heading": "REPEALED BY ACTS 1989, NO. 662, §8, EFF. JULY 7, 1989.",
+      "text": "REPEALED BY ACTS 1989, NO. 662, §8, EFF. JULY 7, 1989.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-283112",
+      "number": "28:311.2.",
+      "heading": "REPEALED BY ACTS 1989, NO. 662, §8, EFF. JULY 7, 1989.",
+      "text": "REPEALED BY ACTS 1989, NO. 662, §8, EFF. JULY 7, 1989.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-283113",
+      "number": "28:311.3.",
+      "heading": "REPEALED BY ACTS 1989, NO. 662, §8, EFF. JULY 7, 1989.",
+      "text": "REPEALED BY ACTS 1989, NO. 662, §8, EFF. JULY 7, 1989.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-283114",
+      "number": "28:311.4.",
+      "heading": "REPEALED BY ACTS 1989, NO. 662, §8, EFF. JULY 7, 1989.",
+      "text": "REPEALED BY ACTS 1989, NO. 662, §8, EFF. JULY 7, 1989.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-283115",
+      "number": "28:311.5.",
+      "heading": "REPEALED BY ACTS 1989, NO. 662, §8, EFF. JULY 7, 1989.",
+      "text": "REPEALED BY ACTS 1989, NO. 662, §8, EFF. JULY 7, 1989.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-283116",
+      "number": "28:311.6.",
+      "heading": "REPEALED BY ACTS 1989, NO. 662, §8, EFF. JULY 7, 1989.",
+      "text": "REPEALED BY ACTS 1989, NO. 662, §8, EFF. JULY 7, 1989.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28312",
+      "number": "28:312.",
+      "heading": "Repealed by Acts 2011, No. 207, §9.",
+      "text": "Repealed by Acts 2011, No. 207, §9.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28313",
+      "number": "28:313.",
+      "heading": "Repealed by Acts 2011, No. 207, §9.",
+      "text": "Repealed by Acts 2011, No. 207, §9.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28380",
+      "number": "28:380.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28381",
+      "number": "28:381.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28382",
+      "number": "28:382.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-283821",
+      "number": "28:382.1.",
+      "heading": "Repealed by Acts 2005, No. 90, §2, eff. June 21, 2005.",
+      "text": "Repealed by Acts 2005, No. 90, §2, eff. June 21, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-283822",
+      "number": "28:382.2.",
+      "heading": "Repealed by Acts 2008, No. 373, §4, eff. June 21, 2008.",
+      "text": "Repealed by Acts 2008, No. 373, §4, eff. June 21, 2008.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28383",
+      "number": "28:383.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28384",
+      "number": "28:384.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28385",
+      "number": "28:385.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28386",
+      "number": "28:386.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28390",
+      "number": "28:390.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28391",
+      "number": "28:391.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28392",
+      "number": "28:392.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28393",
+      "number": "28:393.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28395",
+      "number": "28:395.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28396",
+      "number": "28:396.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28397",
+      "number": "28:397.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28398",
+      "number": "28:398.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28399",
+      "number": "28:399.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28400",
+      "number": "28:400.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28401",
+      "number": "28:401.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28402",
+      "number": "28:402.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28403",
+      "number": "28:403.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28404",
+      "number": "28:404.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28405",
+      "number": "28:405.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28406",
+      "number": "28:406.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28407",
+      "number": "28:407.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28408",
+      "number": "28:408.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28409",
+      "number": "28:409.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28410",
+      "number": "28:410.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28411",
+      "number": "28:411.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28412",
+      "number": "28:412.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28413",
+      "number": "28:413.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28420",
+      "number": "28:420.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005; Acts 2005, No. 483, §2, eff. July 12, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005; Acts 2005, No. 483, §2, eff. July 12, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28421",
+      "number": "28:421.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005; Acts 2005, No. 483, §2, eff. July 12, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005; Acts 2005, No. 483, §2, eff. July 12, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28422",
+      "number": "28:422.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005; Acts 2005, No. 483, §2, eff. July 12, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005; Acts 2005, No. 483, §2, eff. July 12, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28423",
+      "number": "28:423.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005; Acts 2005, No. 483, §2, eff. July 12, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005; Acts 2005, No. 483, §2, eff. July 12, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28424",
+      "number": "28:424.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005; Acts 2005, No. 483, §2, eff. July 12, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005; Acts 2005, No. 483, §2, eff. July 12, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28425",
+      "number": "28:425.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005; Acts 2005, No. 483, §2, eff. July 12, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005; Acts 2005, No. 483, §2, eff. July 12, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28426",
+      "number": "28:426.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005; Acts 2005, No. 483, §2, eff. July 12, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005; Acts 2005, No. 483, §2, eff. July 12, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28427",
+      "number": "28:427.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005; Acts 2005, No. 483, §2, eff. July 12, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005; Acts 2005, No. 483, §2, eff. July 12, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28430",
+      "number": "28:430.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28431",
+      "number": "28:431.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28432",
+      "number": "28:432.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28433",
+      "number": "28:433.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28434",
+      "number": "28:434.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28435",
+      "number": "28:435.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28436",
+      "number": "28:436.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28437",
+      "number": "28:437.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28440",
+      "number": "28:440.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28441",
+      "number": "28:441.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28442",
+      "number": "28:442.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28443",
+      "number": "28:443.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28444",
+      "number": "28:444.",
+      "heading": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "text": "Repealed by Acts 2005, No. 128, §3, eff. June 22, 2005.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-284511",
+      "number": "28:451.1.",
+      "heading": "Title; purpose; intent",
+      "text": "Title; purpose; intent",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-284512",
+      "number": "28:451.2.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-284513",
+      "number": "28:451.3.",
+      "heading": "Administration of the provisions of this Chapter; responsibilities of human services authorities and districts; advisory committees",
+      "text": "Administration of the provisions of this Chapter; responsibilities of human services authorities and districts; advisory committees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-284514",
+      "number": "28:451.4.",
+      "heading": "State developmental centers; office for citizens with developmental disabilities",
+      "text": "State developmental centers; office for citizens with developmental disabilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-284515",
+      "number": "28:451.5.",
+      "heading": "Provision of additional living options and developmental disabilities services and supports",
+      "text": "Provision of additional living options and developmental disabilities services and supports",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-284516",
+      "number": "28:451.6.",
+      "heading": "Assignment of property rights",
+      "text": "Assignment of property rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-284521",
+      "number": "28:452.1.",
+      "heading": "Rights of persons who have developmental disabilities",
+      "text": "Rights of persons who have developmental disabilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-284522",
+      "number": "28:452.2.",
+      "heading": "Principles for the developmental disabilities services system",
+      "text": "Principles for the developmental disabilities services system",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-284531",
+      "number": "28:453.1.",
+      "heading": "Definition; establishment of the ombudsman program",
+      "text": "Definition; establishment of the ombudsman program",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-284532",
+      "number": "28:453.2.",
+      "heading": "Ombudsman functions and responsibilities",
+      "text": "Ombudsman functions and responsibilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-284533",
+      "number": "28:453.3.",
+      "heading": "Access; liability",
+      "text": "Access; liability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-284534",
+      "number": "28:453.4.",
+      "heading": "Prohibition of interference; penalties",
+      "text": "Prohibition of interference; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-284541",
+      "number": "28:454.1.",
+      "heading": "Developmental disabilities services system",
+      "text": "Developmental disabilities services system",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-284542",
+      "number": "28:454.2.",
+      "heading": "System process; entry; support profile; support plan; transfer and discharge; follow-up; record",
+      "text": "System process; entry; support profile; support plan; transfer and discharge; follow-up; record",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-284543",
+      "number": "28:454.3.",
+      "heading": "Consent; capacity to consent",
+      "text": "Consent; capacity to consent",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-284544",
+      "number": "28:454.4.",
+      "heading": "Voluntary admission and discharge",
+      "text": "Voluntary admission and discharge",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-284545",
+      "number": "28:454.5.",
+      "heading": "Involuntary admission; determination of probable cause",
+      "text": "Involuntary admission; determination of probable cause",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-284546",
+      "number": "28:454.6.",
+      "heading": "Judicial hearings; commitments",
+      "text": "Judicial hearings; commitments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-284547",
+      "number": "28:454.7.",
+      "heading": "Duration and discharge of commitment",
+      "text": "Duration and discharge of commitment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-284548",
+      "number": "28:454.8.",
+      "heading": "Judicial commitment; appeals",
+      "text": "Judicial commitment; appeals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-284549",
+      "number": "28:454.9.",
+      "heading": "Judicial commitment; notice of rights",
+      "text": "Judicial commitment; notice of rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2845410",
+      "number": "28:454.10.",
+      "heading": "Transfer of persons with developmental disabilities",
+      "text": "Transfer of persons with developmental disabilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2845411",
+      "number": "28:454.11.",
+      "heading": "Rights of persons committed to the department",
+      "text": "Rights of persons committed to the department",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2845412",
+      "number": "28:454.12.",
+      "heading": "Immunity from liability",
+      "text": "Immunity from liability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2845413",
+      "number": "28:454.13.",
+      "heading": "Failure to obey an order or judgment",
+      "text": "Failure to obey an order or judgment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2845414",
+      "number": "28:454.14.",
+      "heading": "Criminal matters",
+      "text": "Criminal matters",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2845415",
+      "number": "28:454.15.",
+      "heading": "Grievance procedure",
+      "text": "Grievance procedure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2845416",
+      "number": "28:454.16.",
+      "heading": "Appeal procedure",
+      "text": "Appeal procedure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2845417",
+      "number": "28:454.17.",
+      "heading": "Rules and regulations",
+      "text": "Rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2845418",
+      "number": "28:454.18.",
+      "heading": "Advertisement and award of lease bid",
+      "text": "Advertisement and award of lease bid",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-284551",
+      "number": "28:455.1.",
+      "heading": "Quality standards",
+      "text": "Quality standards",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-284552",
+      "number": "28:455.2.",
+      "heading": "Assurances of consistency with local and state planning",
+      "text": "Assurances of consistency with local and state planning",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28461",
+      "number": "28:461.",
+      "heading": "Findings; policy",
+      "text": "Findings; policy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28462",
+      "number": "28:462.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28463",
+      "number": "28:463.",
+      "heading": "Goals",
+      "text": "Goals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28464",
+      "number": "28:464.",
+      "heading": "Requirements for statewide system",
+      "text": "Requirements for statewide system",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28465",
+      "number": "28:465.",
+      "heading": "Individualized family service plan",
+      "text": "Individualized family service plan",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28466",
+      "number": "28:466.",
+      "heading": "Uses of funds",
+      "text": "Uses of funds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28467",
+      "number": "28:467.",
+      "heading": "Procedural safeguards",
+      "text": "Procedural safeguards",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28468",
+      "number": "28:468.",
+      "heading": "Payor of last resort; nonsubstitution; reduction of other benefits",
+      "text": "Payor of last resort; nonsubstitution; reduction of other benefits",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28469",
+      "number": "28:469.",
+      "heading": "System of payments; authority of the Louisiana Department of Health; cost participation schedule",
+      "text": "System of payments; authority of the Louisiana Department of Health; cost participation schedule",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28470",
+      "number": "28:470.",
+      "heading": "Louisiana State Interagency Coordinating Council for EarlySteps: Louisiana's Early Intervention Program for Infants and Toddlers with Disabilities and Their Families",
+      "text": "Louisiana State Interagency Coordinating Council for EarlySteps: Louisiana's Early Intervention Program for Infants and Toddlers with Disabilities and Their Families",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2847011",
+      "number": "28:470.11.",
+      "heading": "Lafourche Arc Taxing District; creation; governance; funding",
+      "text": "Lafourche Arc Taxing District; creation; governance; funding",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28475",
+      "number": "28:475.",
+      "heading": "Short title",
+      "text": "Short title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28476",
+      "number": "28:476.",
+      "heading": "Declaration of policy",
+      "text": "Declaration of policy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28477",
+      "number": "28:477.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28478",
+      "number": "28:478.",
+      "heading": "Promotion of community-based homes",
+      "text": "Promotion of community-based homes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28501",
+      "number": "28:501.",
+      "heading": "Repealed by Acts 2017, No. 369, §7.",
+      "text": "Repealed by Acts 2017, No. 369, §7.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28502",
+      "number": "28:502.",
+      "heading": "Repealed by Acts 2017, No. 369, §7.",
+      "text": "Repealed by Acts 2017, No. 369, §7.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28503",
+      "number": "28:503.",
+      "heading": "Repealed by Acts 2017, No. 369, §7.",
+      "text": "Repealed by Acts 2017, No. 369, §7.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28504",
+      "number": "28:504.",
+      "heading": "Repealed by Acts 2017, No. 369, §7.",
+      "text": "Repealed by Acts 2017, No. 369, §7.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28505",
+      "number": "28:505.",
+      "heading": "Repealed by Acts 2017, No. 369, §7.",
+      "text": "Repealed by Acts 2017, No. 369, §7.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28506",
+      "number": "28:506.",
+      "heading": "Repealed by Acts 2017, No. 369, §7.",
+      "text": "Repealed by Acts 2017, No. 369, §7.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28561",
+      "number": "28:561.",
+      "heading": "Repealed by Acts 2017, No. 369, §7.",
+      "text": "Repealed by Acts 2017, No. 369, §7.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28562",
+      "number": "28:562.",
+      "heading": "§§562 to 566 Repealed by Acts 1978, No. 680, §3",
+      "text": "§§562 to 566 Repealed by Acts 1978, No. 680, §3",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28567",
+      "number": "28:567.",
+      "heading": "Repealed by Acts 2013, No. 308, §2.",
+      "text": "Repealed by Acts 2013, No. 308, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28568",
+      "number": "28:568.",
+      "heading": "Repealed by Acts 2013, No. 308, §2.",
+      "text": "Repealed by Acts 2013, No. 308, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28569",
+      "number": "28:569.",
+      "heading": "Repealed by Acts 2013, No. 308, §2.",
+      "text": "Repealed by Acts 2013, No. 308, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28570",
+      "number": "28:570.",
+      "heading": "Repealed by Acts 2013, No. 308, §2.",
+      "text": "Repealed by Acts 2013, No. 308, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28571",
+      "number": "28:571.",
+      "heading": "Repealed by Acts 2013, No. 308, §2.",
+      "text": "Repealed by Acts 2013, No. 308, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28572",
+      "number": "28:572.",
+      "heading": "Repealed by Acts 2013, No. 308, §2.",
+      "text": "Repealed by Acts 2013, No. 308, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28573",
+      "number": "28:573.",
+      "heading": "Repealed by Acts 2013, No. 308, §2.",
+      "text": "Repealed by Acts 2013, No. 308, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28621",
+      "number": "28:621.",
+      "heading": "Pilot programs for children with developmental disabilities who are considered at-risk juveniles",
+      "text": "Pilot programs for children with developmental disabilities who are considered at-risk juveniles",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28721",
+      "number": "28:721.",
+      "heading": "Recognition and enactment of compact; substance and purposes",
+      "text": "Recognition and enactment of compact; substance and purposes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28722",
+      "number": "28:722.",
+      "heading": "Compact administrator; powers",
+      "text": "Compact administrator; powers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28723",
+      "number": "28:723.",
+      "heading": "Supplementary agreements",
+      "text": "Supplementary agreements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28724",
+      "number": "28:724.",
+      "heading": "Discharge of financial obligations",
+      "text": "Discharge of financial obligations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28725",
+      "number": "28:725.",
+      "heading": "Proposed transferees",
+      "text": "Proposed transferees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28726",
+      "number": "28:726.",
+      "heading": "Distribution of copies of law",
+      "text": "Distribution of copies of law",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28750",
+      "number": "28:750.",
+      "heading": "Purpose and establishment of Louisiana Developmental Disabilities Council",
+      "text": "Purpose and establishment of Louisiana Developmental Disabilities Council",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28751",
+      "number": "28:751.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28752",
+      "number": "28:752.",
+      "heading": "Responsibilities",
+      "text": "Responsibilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28753",
+      "number": "28:753.",
+      "heading": "Membership",
+      "text": "Membership",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28754",
+      "number": "28:754.",
+      "heading": "Council officers",
+      "text": "Council officers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28755",
+      "number": "28:755.",
+      "heading": "Council remuneration",
+      "text": "Council remuneration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28756",
+      "number": "28:756.",
+      "heading": "Council bylaws",
+      "text": "Council bylaws",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28757",
+      "number": "28:757.",
+      "heading": "Council staffing",
+      "text": "Council staffing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28758",
+      "number": "28:758.",
+      "heading": "Regulations",
+      "text": "Regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28771",
+      "number": "28:771.",
+      "heading": "Office of behavioral health; functions regarding substance-related and addictive disorders",
+      "text": "Office of behavioral health; functions regarding substance-related and addictive disorders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28772",
+      "number": "28:772.",
+      "heading": "Funding of regional addictive disorder services",
+      "text": "Funding of regional addictive disorder services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28801",
+      "number": "28:801.",
+      "heading": "Short title",
+      "text": "Short title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28802",
+      "number": "28:802.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28803",
+      "number": "28:803.",
+      "heading": "Legislative findings and declaration; purpose",
+      "text": "Legislative findings and declaration; purpose",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28804",
+      "number": "28:804.",
+      "heading": "Sources of funding authorized",
+      "text": "Sources of funding authorized",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28805",
+      "number": "28:805.",
+      "heading": "Repealed by Acts 1997, No. 1116, §2.",
+      "text": "Repealed by Acts 1997, No. 1116, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28806",
+      "number": "28:806.",
+      "heading": "Repealed by Acts 1997, No. 1116, §2.",
+      "text": "Repealed by Acts 1997, No. 1116, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28807",
+      "number": "28:807.",
+      "heading": "Zero suicide initiative; creation",
+      "text": "Zero suicide initiative; creation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28808",
+      "number": "28:808.",
+      "heading": "Zero suicide initiative; administration; duties of the office of behavioral health",
+      "text": "Zero suicide initiative; administration; duties of the office of behavioral health",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28809",
+      "number": "28:809.",
+      "heading": "Legislative intent; stakeholder collaboration and coordination in the zero suicide initiative",
+      "text": "Legislative intent; stakeholder collaboration and coordination in the zero suicide initiative",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28811",
+      "number": "28:811.",
+      "heading": "State suicide prevention plan; creation; goals; publication; report to governor and legislature",
+      "text": "State suicide prevention plan; creation; goals; publication; report to governor and legislature",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28812",
+      "number": "28:812.",
+      "heading": "Stakeholder collaboration and coordination in suicide prevention plan",
+      "text": "Stakeholder collaboration and coordination in suicide prevention plan",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28813",
+      "number": "28:813.",
+      "heading": "Administrative rulemaking",
+      "text": "Administrative rulemaking",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28814",
+      "number": "28:814.",
+      "heading": "Implementation",
+      "text": "Implementation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28821",
+      "number": "28:821.",
+      "heading": "Findings and purpose",
+      "text": "Findings and purpose",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28822",
+      "number": "28:822.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28823",
+      "number": "28:823.",
+      "heading": "Principles",
+      "text": "Principles",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28824",
+      "number": "28:824.",
+      "heading": "Community and Family Support System plan",
+      "text": "Community and Family Support System plan",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28825",
+      "number": "28:825.",
+      "heading": "Administering medication",
+      "text": "Administering medication",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28826",
+      "number": "28:826.",
+      "heading": "Disability Services Fund",
+      "text": "Disability Services Fund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28827",
+      "number": "28:827.",
+      "heading": "Active duty military families",
+      "text": "Active duty military families",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28831",
+      "number": "28:831.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28841",
+      "number": "28:841.",
+      "heading": "Office of behavioral health; functions related to gambling disorders",
+      "text": "Office of behavioral health; functions related to gambling disorders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28842",
+      "number": "28:842.",
+      "heading": "Compulsive and Problem Gaming Fund; creation",
+      "text": "Compulsive and Problem Gaming Fund; creation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28843",
+      "number": "28:843.",
+      "heading": "Behavioral Health and Wellness Fund; creation",
+      "text": "Behavioral Health and Wellness Fund; creation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28851",
+      "number": "28:851.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28852",
+      "number": "28:852.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28853",
+      "number": "28:853.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28854",
+      "number": "28:854.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28855",
+      "number": "28:855.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28856",
+      "number": "28:856.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28861",
+      "number": "28:861.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28862",
+      "number": "28:862.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28863",
+      "number": "28:863.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28864",
+      "number": "28:864.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28865",
+      "number": "28:865.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28866",
+      "number": "28:866.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28871",
+      "number": "28:871.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28872",
+      "number": "28:872.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28873",
+      "number": "28:873.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28874",
+      "number": "28:874.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28875",
+      "number": "28:875.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28876",
+      "number": "28:876.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28891",
+      "number": "28:891.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28892",
+      "number": "28:892.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28893",
+      "number": "28:893.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28894",
+      "number": "28:894.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28895",
+      "number": "28:895.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28896",
+      "number": "28:896.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28901",
+      "number": "28:901.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28902",
+      "number": "28:902.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28903",
+      "number": "28:903.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28904",
+      "number": "28:904.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28905",
+      "number": "28:905.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28906",
+      "number": "28:906.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28910",
+      "number": "28:910.",
+      "heading": "Legislative intent and public policy",
+      "text": "Legislative intent and public policy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28911",
+      "number": "28:911.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28912",
+      "number": "28:912.",
+      "heading": "Creation and jurisdiction",
+      "text": "Creation and jurisdiction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28913",
+      "number": "28:913.",
+      "heading": "Governing board for Acadiana Area Human Services District, Imperial Calcasieu Human Services Authority, Central Louisiana Human Services District, and Northwest Louisiana Human Services District; membership; appointment; terms",
+      "text": "Governing board for Acadiana Area Human Services District, Imperial Calcasieu Human Services Authority, Central Louisiana Human Services District, and Northwest Louisiana Human Services District; membership; appointment; terms",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-289131",
+      "number": "28:913.1.",
+      "heading": "Governing board for Jefferson Parish Human Services Authority; membership; appointment; terms",
+      "text": "Governing board for Jefferson Parish Human Services Authority; membership; appointment; terms",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-289132",
+      "number": "28:913.2.",
+      "heading": "Governing board for Florida Parishes Human Services Authority; membership; appointment; terms",
+      "text": "Governing board for Florida Parishes Human Services Authority; membership; appointment; terms",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-289133",
+      "number": "28:913.3.",
+      "heading": "Governing board for Metropolitan Human Services District; membership; appointment; terms",
+      "text": "Governing board for Metropolitan Human Services District; membership; appointment; terms",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-289134",
+      "number": "28:913.4.",
+      "heading": "Governing board for South Central Louisiana Human Services Authority; membership; appointment; terms",
+      "text": "Governing board for South Central Louisiana Human Services Authority; membership; appointment; terms",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-289135",
+      "number": "28:913.5.",
+      "heading": "Governing board for Northeast Delta Human Services Authority; membership; appointment; terms",
+      "text": "Governing board for Northeast Delta Human Services Authority; membership; appointment; terms",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-289136",
+      "number": "28:913.6.",
+      "heading": "Governing board for Capital Area Human Services District; membership; appointment; terms",
+      "text": "Governing board for Capital Area Human Services District; membership; appointment; terms",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-289137",
+      "number": "28:913.7.",
+      "heading": "Governing board; general provisions",
+      "text": "Governing board; general provisions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28914",
+      "number": "28:914.",
+      "heading": "Requirements for districts and authorities; board education and awareness",
+      "text": "Requirements for districts and authorities; board education and awareness",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28915",
+      "number": "28:915.",
+      "heading": "Districts and authorities; functions, powers, and duties; sole-source contracting",
+      "text": "Districts and authorities; functions, powers, and duties; sole-source contracting",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28916",
+      "number": "28:916.",
+      "heading": "Employees",
+      "text": "Employees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28917",
+      "number": "28:917.",
+      "heading": "Human Services Interagency Council; membership and responsibilities",
+      "text": "Human Services Interagency Council; membership and responsibilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28918",
+      "number": "28:918.",
+      "heading": "Louisiana Department of Health; responsibility and authority to contract; monitor; sanction",
+      "text": "Louisiana Department of Health; responsibility and authority to contract; monitor; sanction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28919",
+      "number": "28:919.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28920",
+      "number": "28:920.",
+      "heading": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "text": "Repealed by Acts 2017, No. 73, §2, eff. June 7, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28931",
+      "number": "28:931.",
+      "heading": "Definitions; purposes",
+      "text": "Definitions; purposes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28932",
+      "number": "28:932.",
+      "heading": "Intervention and stabilization units; establishment and operation; duties of human services districts and authorities",
+      "text": "Intervention and stabilization units; establishment and operation; duties of human services districts and authorities",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

@@ -1,0 +1,614 @@
+{
+  "state": "kansas",
+  "path": "title-chapter-8-automobiles-and-other-vehicles/chapter-article-2-drivers-licenses",
+  "sections": [
+    {
+      "id": "section-8-222",
+      "number": "8-222",
+      "heading": "Liability of owner for damages caused by negligence of minors under age of sixteen",
+      "text": "8-234a Definitions.8-234b Classes of drivers' licenses; applications for original licenses; examinations; rules and regulations.8-234d Motor vehicle drivers' license act; scope and effect of certain sections.8-235 Dri",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-234a",
+      "number": "8-234a",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-234b",
+      "number": "8-234b",
+      "heading": "Classes of drivers' licenses; applications for original licenses; examinations; rules and regulations.",
+      "text": "Classes of drivers' licenses; applications for original licenses; examinations; rules and regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-234d",
+      "number": "8-234d",
+      "heading": "Motor vehicle drivers' license act; scope and effect of certain sections.",
+      "text": "Motor vehicle drivers' license act; scope and effect of certain sections.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-235",
+      "number": "8-235",
+      "heading": "Drivers' licenses required; exercise of privileges granted licensees; city license, when; appeal from denial of license; penalty; motorized bicycle driver's license",
+      "text": "Drivers' licenses required; exercise of privileges granted licensees; city license, when; appeal from denial of license; penalty; motorized bicycle driver's license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-235b",
+      "number": "8-235b",
+      "heading": "Findings of department upon receipt of application; issuance of license, when.",
+      "text": "Findings of department upon receipt of application; issuance of license, when.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-235c",
+      "number": "8-235c",
+      "heading": "Findings of division; when examination required; exception.",
+      "text": "Findings of division; when examination required; exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-235d",
+      "number": "8-235d",
+      "heading": "Applications for licenses other than renewals; examinations; locations; issuance of license; requirements for applicant under age of eighteen years.",
+      "text": "Applications for licenses other than renewals; examinations; locations; issuance of license; requirements for applicant under age of eighteen years.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-235e",
+      "number": "8-235e",
+      "heading": "Application for driver's license, instructional permit or nondriver's identification card constitutes consent to selective service registration.",
+      "text": "Application for driver's license, instructional permit or nondriver's identification card constitutes consent to selective service registration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-236",
+      "number": "8-236",
+      "heading": "Persons exempt from license.",
+      "text": "Persons exempt from license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-237",
+      "number": "8-237",
+      "heading": "Persons to whom license not issued.",
+      "text": "Persons to whom license not issued.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-238",
+      "number": "8-238",
+      "heading": "Operators of school buses; operators of vehicles transporting persons or certain property for compensation; age restrictions.",
+      "text": "Operators of school buses; operators of vehicles transporting persons or certain property for compensation; age restrictions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-239",
+      "number": "8-239",
+      "heading": "Instruction permits for persons 17 years of age and older; conditions and requirements.",
+      "text": "Instruction permits for persons 17 years of age and older; conditions and requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-240",
+      "number": "8-240",
+      "heading": "Drivers' licenses and instruction permits; application for; requirements; examination tests; reexamination; drivers' records; fees; late application penalties; electronic online renewal",
+      "text": "Drivers' licenses and instruction permits; application for; requirements; examination tests; reexamination; drivers' records; fees; late application penalties; electronic online renewal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-241",
+      "number": "8-241",
+      "heading": "Licensee must submit to examination, when; examination and reinstatement fees; disposition of moneys; notice; restriction, suspension or revocation of license, when; license with DUI-IID designation, requirements, fees",
+      "text": "Licensee must submit to examination, when; examination and reinstatement fees; disposition of moneys; notice; restriction, suspension or revocation of license, when; license with DUI-IID designation, requirements, fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-243",
+      "number": "8-243",
+      "heading": "Issuance of licenses; contents; signature; photograph, exception; fee; anatomical gift; distinguishable license for deaf and hard of hearing; distinguishable number for registered offenders; veterans; persons needing assistance with cognition",
+      "text": "Issuance of licenses; contents; signature; photograph, exception; fee; anatomical gift; distinguishable license for deaf and hard of hearing; distinguishable number for registered offenders; veterans; persons needing assistance with cognition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-244",
+      "number": "8-244",
+      "heading": "Licenses to be carried and delivered upon demand; defense.",
+      "text": "Licenses to be carried and delivered upon demand; defense.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-245",
+      "number": "8-245",
+      "heading": "Restrictions on licensees; suspension or revocation; misdemeanor.",
+      "text": "Restrictions on licensees; suspension or revocation; misdemeanor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-246",
+      "number": "8-246",
+      "heading": "Replacement drivers' licenses.",
+      "text": "Replacement drivers' licenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-247",
+      "number": "8-247",
+      "heading": "Expiration of licenses; annual renewal for registered offenders; notice; renewal of license; reexamination; additional examinations; seizure disorders; extension of license when out-of-state; anatomical gift; state organ and tissue registry",
+      "text": "Expiration of licenses; annual renewal for registered offenders; notice; renewal of license; reexamination; additional examinations; seizure disorders; extension of license when out-of-state; anatomical gift; state organ and tissue registry.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-248",
+      "number": "8-248",
+      "heading": "Notice of change of address or name.",
+      "text": "Notice of change of address or name.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-249",
+      "number": "8-249",
+      "heading": "Records to be kept by division; rules and regulations.",
+      "text": "Records to be kept by division; rules and regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-250",
+      "number": "8-250",
+      "heading": "Authority of division to cancel license; surrender of license.",
+      "text": "Authority of division to cancel license; surrender of license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-251",
+      "number": "8-251",
+      "heading": "Suspending or revoking privileges of nonresidents; reporting convictions and bond or collateral forfeitures.",
+      "text": "Suspending or revoking privileges of nonresidents; reporting convictions and bond or collateral forfeitures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-252",
+      "number": "8-252",
+      "heading": "Suspension or revocation of resident's license upon conviction in another state; period of suspension or revocation; return of license after suspension; granting new license after revocation; exceptions",
+      "text": "Suspension or revocation of resident's license upon conviction in another state; period of suspension or revocation; return of license after suspension; granting new license after revocation; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-252a",
+      "number": "8-252a",
+      "heading": "Suspension or revocation of driving privileges of nonresident or unlicensed person.",
+      "text": "Suspension or revocation of driving privileges of nonresident or unlicensed person.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-253",
+      "number": "8-253",
+      "heading": "Duty of court to require surrender of license upon revocation; report of convictions and adjudications; records; forms; notice of disposition of appeals",
+      "text": "Duty of court to require surrender of license upon revocation; report of convictions and adjudications; records; forms; notice of disposition of appeals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-254",
+      "number": "8-254",
+      "heading": "Mandatory revocation of driver's license by division of vehicles; exceptions for court imposed restrictions.",
+      "text": "Mandatory revocation of driver's license by division of vehicles; exceptions for court imposed restrictions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-255",
+      "number": "8-255",
+      "heading": "Restriction, suspension or revocation of driving privileges by division of vehicles; grounds; procedure for restriction, suspension or revocation; driver improvement clinics; reinstatement fee",
+      "text": "Restriction, suspension or revocation of driving privileges by division of vehicles; grounds; procedure for restriction, suspension or revocation; driver improvement clinics; reinstatement fee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-255b",
+      "number": "8-255b",
+      "heading": "Medical advisory board; appointment; procedure; advisory opinions; limiting tort liability.",
+      "text": "Medical advisory board; appointment; procedure; advisory opinions; limiting tort liability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-255c",
+      "number": "8-255c",
+      "heading": "No duty to report information to division or medical advisory board; nonliability for reports of information; information to be kept confidential.",
+      "text": "No duty to report information to division or medical advisory board; nonliability for reports of information; information to be kept confidential.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-256",
+      "number": "8-256",
+      "heading": "Period of suspension or revocation.",
+      "text": "Period of suspension or revocation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-256a",
+      "number": "8-256a",
+      "heading": "Application of act to certain persons.",
+      "text": "Application of act to certain persons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-257",
+      "number": "8-257",
+      "heading": "Surrender of license; division authorized to destroy; application.",
+      "text": "Surrender of license; division authorized to destroy; application.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-258",
+      "number": "8-258",
+      "heading": "No operation under foreign license during suspension or revocation in this state.",
+      "text": "No operation under foreign license during suspension or revocation in this state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-259",
+      "number": "8-259",
+      "heading": "Cancellation, suspension, revocation or denial of license by division; judicial review.",
+      "text": "Cancellation, suspension, revocation or denial of license by division; judicial review.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-260",
+      "number": "8-260",
+      "heading": "Unlawful use of driver's license or nondriver's identification card; other unlawful acts relating thereto.",
+      "text": "Unlawful use of driver's license or nondriver's identification card; other unlawful acts relating thereto.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-261a",
+      "number": "8-261a",
+      "heading": "Making false affidavit perjury.",
+      "text": "Making false affidavit perjury.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-262",
+      "number": "8-262",
+      "heading": "Driving while license canceled, suspended or revoked; criminal penalty; fine; confinement required in certain circumstances; extension of time of suspension or revocation",
+      "text": "Driving while license canceled, suspended or revoked; criminal penalty; fine; confinement required in certain circumstances; extension of time of suspension or revocation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-263",
+      "number": "8-263",
+      "heading": "Permitting unauthorized minor to drive.",
+      "text": "Permitting unauthorized minor to drive.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-264",
+      "number": "8-264",
+      "heading": "Permitting unauthorized person to drive.",
+      "text": "Permitting unauthorized person to drive.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-265",
+      "number": "8-265",
+      "heading": "Employing persons to operate vehicle; proper class of license required.",
+      "text": "Employing persons to operate vehicle; proper class of license required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-266",
+      "number": "8-266",
+      "heading": "Renting motor vehicle to another; record.",
+      "text": "Renting motor vehicle to another; record.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-266b",
+      "number": "8-266b",
+      "heading": "Drivers' manual.",
+      "text": "Drivers' manual.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-267",
+      "number": "8-267",
+      "heading": "Disposition and use of moneys; state safety fund, motorcycle safety fund, truck driver training fund, photo fee fund, hazmat fee fund, state highway fund, division of vehicles operating fund and correctional services special revenue fund",
+      "text": "Disposition and use of moneys; state safety fund, motorcycle safety fund, truck driver training fund, photo fee fund, hazmat fee fund, state highway fund, division of vehicles operating fund and correctional services special revenue fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-268",
+      "number": "8-268",
+      "heading": "Penalties for violations.",
+      "text": "Penalties for violations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-268a",
+      "number": "8-268a",
+      "heading": "Invalidity of part.",
+      "text": "Invalidity of part.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-269",
+      "number": "8-269",
+      "heading": "Uniformity of interpretation.",
+      "text": "Uniformity of interpretation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-270",
+      "number": "8-270",
+      "heading": "Effect of noncompliance.",
+      "text": "Effect of noncompliance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-271",
+      "number": "8-271",
+      "heading": "Title of act.",
+      "text": "Title of act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-272",
+      "number": "8-272",
+      "heading": "State safety fund, motorcycle safety fund and truck driver training fund; entitlements; certification of amounts; distribution; proration of insufficient appropriations; motorcycle safety courses and instructors; institutions, truck driver training",
+      "text": "State safety fund, motorcycle safety fund and truck driver training fund; entitlements; certification of amounts; distribution; proration of insufficient appropriations; motorcycle safety courses and instructors; institutions, truck driver training.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-273",
+      "number": "8-273",
+      "heading": "Drivers' training schools; definitions.",
+      "text": "Drivers' training schools; definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-274",
+      "number": "8-274",
+      "heading": "Same; license to operate.",
+      "text": "Same; license to operate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-275",
+      "number": "8-275",
+      "heading": "Same; qualifications to operate school.",
+      "text": "Same; qualifications to operate school.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-276",
+      "number": "8-276",
+      "heading": "Same; qualifications for instructor of school.",
+      "text": "Same; qualifications for instructor of school.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-277",
+      "number": "8-277",
+      "heading": "Same; issuance of certificate, when; expiration; renewal of licenses.",
+      "text": "Same; issuance of certificate, when; expiration; renewal of licenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-278",
+      "number": "8-278",
+      "heading": "Same; rules and regulations.",
+      "text": "Same; rules and regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-279",
+      "number": "8-279",
+      "heading": "Same; cancellation, suspension, revocation or refusal to issue license, when.",
+      "text": "Same; cancellation, suspension, revocation or refusal to issue license, when.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-280",
+      "number": "8-280",
+      "heading": "Same; commercial driver education fund; disposition of moneys.",
+      "text": "Same; commercial driver education fund; disposition of moneys.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-281",
+      "number": "8-281",
+      "heading": "Same; penalty for violations.",
+      "text": "Same; penalty for violations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-282",
+      "number": "8-282",
+      "heading": "Same; act inapplicable to certain schools.",
+      "text": "Same; act inapplicable to certain schools.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-283",
+      "number": "8-283",
+      "heading": "Same; citation of act.",
+      "text": "Same; citation of act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-284",
+      "number": "8-284",
+      "heading": "Public policy of state.",
+      "text": "Public policy of state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-285",
+      "number": "8-285",
+      "heading": "\"Habitual violator\" defined; other definitions.",
+      "text": "\"Habitual violator\" defined; other definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-286",
+      "number": "8-286",
+      "heading": "Habitual violator; revocation of driving privileges; exceptions.",
+      "text": "Habitual violator; revocation of driving privileges; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-287",
+      "number": "8-287",
+      "heading": "Habitual violator; penalty.",
+      "text": "Habitual violator; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-288",
+      "number": "8-288",
+      "heading": "Same; restriction of driver's license; exception.",
+      "text": "Same; restriction of driver's license; exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-291",
+      "number": "8-291",
+      "heading": "Violation of restrictions on driver's license or permit; misdemeanor; penalties.",
+      "text": "Violation of restrictions on driver's license or permit; misdemeanor; penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-292",
+      "number": "8-292",
+      "heading": "Court imposition of driving privilege restrictions; duration; procedure; violation; penalty.",
+      "text": "Court imposition of driving privilege restrictions; duration; procedure; violation; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-293",
+      "number": "8-293",
+      "heading": "Driver's license; nonissuance of new or replacement license; exception.",
+      "text": "Driver's license; nonissuance of new or replacement license; exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-294",
+      "number": "8-294",
+      "heading": "Instruction permit for commercial class motor vehicles or class A or class B motor vehicles.",
+      "text": "Instruction permit for commercial class motor vehicles or class A or class B motor vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-295",
+      "number": "8-295",
+      "heading": "Vision standards for drivers' licenses.",
+      "text": "Vision standards for drivers' licenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-296",
+      "number": "8-296",
+      "heading": "Farm permit; requirements; procedure.",
+      "text": "Farm permit; requirements; procedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-297",
+      "number": "8-297",
+      "heading": "Continuation of driving privileges for certain drivers' licenses.",
+      "text": "Continuation of driving privileges for certain drivers' licenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-298",
+      "number": "8-298",
+      "heading": "Voluntary surrender of driver's license.",
+      "text": "Voluntary surrender of driver's license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-299",
+      "number": "8-299",
+      "heading": "Photo fee fund; expenditures.",
+      "text": "Photo fee fund; expenditures.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

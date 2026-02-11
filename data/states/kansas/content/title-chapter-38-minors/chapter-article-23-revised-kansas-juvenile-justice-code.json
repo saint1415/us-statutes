@@ -1,0 +1,782 @@
+{
+  "state": "kansas",
+  "path": "title-chapter-38-minors/chapter-article-23-revised-kansas-juvenile-justice-code",
+  "sections": [
+    {
+      "id": "section-38-2301",
+      "number": "38-2301",
+      "heading": "Citation; goals of the code; policy development",
+      "text": "38-2302 Definitions.38-2303 Time limitations for commencement of proceeding.38-2304 Jurisdiction; presumption of age of juvenile; continued placement as a child in need of care; eligibility for services, collaboration; precedence of certain orders.38-2",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2302",
+      "number": "38-2302",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2303",
+      "number": "38-2303",
+      "heading": "Time limitations for commencement of proceeding.",
+      "text": "Time limitations for commencement of proceeding.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2304",
+      "number": "38-2304",
+      "heading": "Jurisdiction; presumption of age of juvenile; continued placement as a child in need of care; eligibility for services, collaboration; precedence of certain orders",
+      "text": "Jurisdiction; presumption of age of juvenile; continued placement as a child in need of care; eligibility for services, collaboration; precedence of certain orders.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2305",
+      "number": "38-2305",
+      "heading": "Venue.",
+      "text": "Venue.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2306",
+      "number": "38-2306",
+      "heading": "Right to an attorney.",
+      "text": "Right to an attorney.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2307",
+      "number": "38-2307",
+      "heading": "Court-appointed special advocate; immunity from liability; supreme court rules.",
+      "text": "Court-appointed special advocate; immunity from liability; supreme court rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2308",
+      "number": "38-2308",
+      "heading": "Local citizen review board; duties and powers.",
+      "text": "Local citizen review board; duties and powers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2309",
+      "number": "38-2309",
+      "heading": "Court records; disclosure; preservation of records.",
+      "text": "Court records; disclosure; preservation of records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2310",
+      "number": "38-2310",
+      "heading": "Records of law enforcement officers, agencies and municipal courts concerning certain juveniles; disclosure.",
+      "text": "Records of law enforcement officers, agencies and municipal courts concerning certain juveniles; disclosure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2311",
+      "number": "38-2311",
+      "heading": "Records of diagnostic, treatment or medical records concerning juveniles; penalties.",
+      "text": "Records of diagnostic, treatment or medical records concerning juveniles; penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2312",
+      "number": "38-2312",
+      "heading": "Expungement of records; docket fee.",
+      "text": "Expungement of records; docket fee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2313",
+      "number": "38-2313",
+      "heading": "Fingerprints and photographs.",
+      "text": "Fingerprints and photographs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2314",
+      "number": "38-2314",
+      "heading": "Docket fee; authorized only by legislative enactment; expenses; assessment.",
+      "text": "Docket fee; authorized only by legislative enactment; expenses; assessment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2315",
+      "number": "38-2315",
+      "heading": "Expense of care and custody of juvenile.",
+      "text": "Expense of care and custody of juvenile.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2316",
+      "number": "38-2316",
+      "heading": "Health services.",
+      "text": "Health services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2317",
+      "number": "38-2317",
+      "heading": "Infectious disease testing and counseling; disclosure of results; penalties.",
+      "text": "Infectious disease testing and counseling; disclosure of results; penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2318",
+      "number": "38-2318",
+      "heading": "Determination of parentage.",
+      "text": "Determination of parentage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2319",
+      "number": "38-2319",
+      "heading": "Determination of child support.",
+      "text": "Determination of child support.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2320",
+      "number": "38-2320",
+      "heading": "Journal entry for child support.",
+      "text": "Journal entry for child support.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2321",
+      "number": "38-2321",
+      "heading": "Withholding order for child support; filing; service.",
+      "text": "Withholding order for child support; filing; service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2322",
+      "number": "38-2322",
+      "heading": "Remedies supplemental not substitute.",
+      "text": "Remedies supplemental not substitute.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2323",
+      "number": "38-2323",
+      "heading": "Placement under juvenile justice code; assignment of support right.",
+      "text": "Placement under juvenile justice code; assignment of support right.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2324",
+      "number": "38-2324",
+      "heading": "Liability of parent or guardian for assistance provided juvenile, exceptions.",
+      "text": "Liability of parent or guardian for assistance provided juvenile, exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2325",
+      "number": "38-2325",
+      "heading": "Juvenile offender information system; definitions.",
+      "text": "Juvenile offender information system; definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2326",
+      "number": "38-2326",
+      "heading": "Same; establishment and maintenance.",
+      "text": "Same; establishment and maintenance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2327",
+      "number": "38-2327",
+      "heading": "Commencement of proceedings; duties of county or district attorney.",
+      "text": "Commencement of proceedings; duties of county or district attorney.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2328",
+      "number": "38-2328",
+      "heading": "Pleadings.",
+      "text": "Pleadings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2329",
+      "number": "38-2329",
+      "heading": "Notice of defense of alibi or mental disease or defect.",
+      "text": "Notice of defense of alibi or mental disease or defect.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2330",
+      "number": "38-2330",
+      "heading": "Juvenile taken into custody, when; procedure; release; detention in jail; notice to appear.",
+      "text": "Juvenile taken into custody, when; procedure; release; detention in jail; notice to appear.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2331",
+      "number": "38-2331",
+      "heading": "Criteria for detention of juvenile in detention facility.",
+      "text": "Criteria for detention of juvenile in detention facility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2332",
+      "number": "38-2332",
+      "heading": "Prohibiting placement or detention of juvenile in jail; exceptions; review of records and determination of compliance by the department of corrections",
+      "text": "Prohibiting placement or detention of juvenile in jail; exceptions; review of records and determination of compliance by the department of corrections.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2333",
+      "number": "38-2333",
+      "heading": "Juvenile less than 14, admission or confession from interrogation.",
+      "text": "Juvenile less than 14, admission or confession from interrogation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2336",
+      "number": "38-2336",
+      "heading": "Proceedings upon filing of complaint.",
+      "text": "Proceedings upon filing of complaint.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2337",
+      "number": "38-2337",
+      "heading": "Summons; persons upon whom served; form.",
+      "text": "Summons; persons upon whom served; form.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2338",
+      "number": "38-2338",
+      "heading": "Service of process.",
+      "text": "Service of process.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2339",
+      "number": "38-2339",
+      "heading": "Proof of service.",
+      "text": "Proof of service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2340",
+      "number": "38-2340",
+      "heading": "Service of other pleadings.",
+      "text": "Service of other pleadings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2341",
+      "number": "38-2341",
+      "heading": "Subpoenas and witness fees.",
+      "text": "Subpoenas and witness fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2342",
+      "number": "38-2342",
+      "heading": "Issuance of warrants.",
+      "text": "Issuance of warrants.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2343",
+      "number": "38-2343",
+      "heading": "Detention hearing; waiver; notice; attorney for juvenile; procedure; removal from custody of parent; audio-video communications; detention review hearing",
+      "text": "Detention hearing; waiver; notice; attorney for juvenile; procedure; removal from custody of parent; audio-video communications; detention review hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2344",
+      "number": "38-2344",
+      "heading": "First appearance; plea.",
+      "text": "First appearance; plea.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2345",
+      "number": "38-2345",
+      "heading": "Nolo contendere.",
+      "text": "Nolo contendere.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2346",
+      "number": "38-2346",
+      "heading": "Immediate intervention programs.",
+      "text": "Immediate intervention programs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2347",
+      "number": "38-2347",
+      "heading": "Prosecution as an adult; extended jurisdiction juvenile prosecution; burden of proof; authorization.",
+      "text": "Prosecution as an adult; extended jurisdiction juvenile prosecution; burden of proof; authorization.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2348",
+      "number": "38-2348",
+      "heading": "Proceedings to determine competency.",
+      "text": "Proceedings to determine competency.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2349",
+      "number": "38-2349",
+      "heading": "Same; commitment of incompetent.",
+      "text": "Same; commitment of incompetent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2350",
+      "number": "38-2350",
+      "heading": "Same; juvenile not mentally ill person.",
+      "text": "Same; juvenile not mentally ill person.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2351",
+      "number": "38-2351",
+      "heading": "Duty of parents and others to appear at all proceedings involving alleged juvenile offender; failure, contempt.",
+      "text": "Duty of parents and others to appear at all proceedings involving alleged juvenile offender; failure, contempt.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2352",
+      "number": "38-2352",
+      "heading": "Time of hearing.",
+      "text": "Time of hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2353",
+      "number": "38-2353",
+      "heading": "Hearings; open to the public; restrictions.",
+      "text": "Hearings; open to the public; restrictions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2354",
+      "number": "38-2354",
+      "heading": "Rules of evidence.",
+      "text": "Rules of evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2355",
+      "number": "38-2355",
+      "heading": "Degree of proof.",
+      "text": "Degree of proof.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2356",
+      "number": "38-2356",
+      "heading": "Adjudication.",
+      "text": "Adjudication.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2357",
+      "number": "38-2357",
+      "heading": "Jury trials in certain cases.",
+      "text": "Jury trials in certain cases.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2358",
+      "number": "38-2358",
+      "heading": "Recorded statement of child victim admissible in certain cases; limitations.",
+      "text": "Recorded statement of child victim admissible in certain cases; limitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2359",
+      "number": "38-2359",
+      "heading": "Record by electronic means of testimony of child victim admissible in certain cases, limitations; objections; restrictions.",
+      "text": "Record by electronic means of testimony of child victim admissible in certain cases, limitations; objections; restrictions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2360",
+      "number": "38-2360",
+      "heading": "Post-adjudication orders and hearings.",
+      "text": "Post-adjudication orders and hearings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2361",
+      "number": "38-2361",
+      "heading": "Sentencing alternatives.",
+      "text": "Sentencing alternatives.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2362",
+      "number": "38-2362",
+      "heading": "Orders relating to parents.",
+      "text": "Orders relating to parents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2363",
+      "number": "38-2363",
+      "heading": "Duty of parents and others to aid in enforcement of court orders; failure, contempt.",
+      "text": "Duty of parents and others to aid in enforcement of court orders; failure, contempt.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2364",
+      "number": "38-2364",
+      "heading": "Extended jurisdiction juvenile prosecution; violating conditions of stayed juvenile sentence; hearing.",
+      "text": "Extended jurisdiction juvenile prosecution; violating conditions of stayed juvenile sentence; hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2365",
+      "number": "38-2365",
+      "heading": "Juvenile offender placed in custody of commissioner; placement; permanency plan; progress report to court; hearing; notification; termination of parental rights",
+      "text": "Juvenile offender placed in custody of commissioner; placement; permanency plan; progress report to court; hearing; notification; termination of parental rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2366",
+      "number": "38-2366",
+      "heading": "Juvenile offenders in custody of department of corrections; placement; notification to court; detainment; prohibition on admittance to juvenile correctional facility",
+      "text": "Juvenile offenders in custody of department of corrections; placement; notification to court; detainment; prohibition on admittance to juvenile correctional facility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2367",
+      "number": "38-2367",
+      "heading": "Modification of sentence.",
+      "text": "Modification of sentence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2368",
+      "number": "38-2368",
+      "heading": "Violation of condition of probation or placement.",
+      "text": "Violation of condition of probation or placement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2369",
+      "number": "38-2369",
+      "heading": "Sentencing juvenile offenders; placement matrix; placements based on offense committed; aftercare term.",
+      "text": "Sentencing juvenile offenders; placement matrix; placements based on offense committed; aftercare term.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2370",
+      "number": "38-2370",
+      "heading": "Good time credits; rules and regulations.",
+      "text": "Good time credits; rules and regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2371",
+      "number": "38-2371",
+      "heading": "Departure sentences; hearing; order; findings of fact; limitations.",
+      "text": "Departure sentences; hearing; order; findings of fact; limitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2372",
+      "number": "38-2372",
+      "heading": "Computation of sentence.",
+      "text": "Computation of sentence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2373",
+      "number": "38-2373",
+      "heading": "Commitment to juvenile correctional facility; transfers.",
+      "text": "Commitment to juvenile correctional facility; transfers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2374",
+      "number": "38-2374",
+      "heading": "Same; conditional release; procedure; supervision; notification; aftercare services.",
+      "text": "Same; conditional release; procedure; supervision; notification; aftercare services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2375",
+      "number": "38-2375",
+      "heading": "Same; conditional release; failure to obey; authorized dispositions.",
+      "text": "Same; conditional release; failure to obey; authorized dispositions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2376",
+      "number": "38-2376",
+      "heading": "Same; discharge from commitment; notification.",
+      "text": "Same; discharge from commitment; notification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2377",
+      "number": "38-2377",
+      "heading": "Notification of pending release; hearing; maximum term of imprisonment.",
+      "text": "Notification of pending release; hearing; maximum term of imprisonment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2378",
+      "number": "38-2378",
+      "heading": "School district involvement in discharge plan.",
+      "text": "School district involvement in discharge plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2379",
+      "number": "38-2379",
+      "heading": "Written notice by county or district attorney.",
+      "text": "Written notice by county or district attorney.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2380",
+      "number": "38-2380",
+      "heading": "Orders appealable by juvenile; appeal of departure sentence, procedure.",
+      "text": "Orders appealable by juvenile; appeal of departure sentence, procedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2381",
+      "number": "38-2381",
+      "heading": "Appeals by prosecution.",
+      "text": "Appeals by prosecution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2382",
+      "number": "38-2382",
+      "heading": "Appeals; procedure.",
+      "text": "Appeals; procedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2383",
+      "number": "38-2383",
+      "heading": "Temporary orders pending appeal; status of orders appealed from.",
+      "text": "Temporary orders pending appeal; status of orders appealed from.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2384",
+      "number": "38-2384",
+      "heading": "Fees and expenses.",
+      "text": "Fees and expenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2385",
+      "number": "38-2385",
+      "heading": "Certification of juvenile corrections officers; basic course of instruction; in-service training.",
+      "text": "Certification of juvenile corrections officers; basic course of instruction; in-service training.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2386",
+      "number": "38-2386",
+      "heading": "Law enforcement power; special investigators.",
+      "text": "Law enforcement power; special investigators.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2387",
+      "number": "38-2387",
+      "heading": "Application to existing cases.",
+      "text": "Application to existing cases.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2388",
+      "number": "38-2388",
+      "heading": "Awarding high school diplomas; requirements.",
+      "text": "Awarding high school diplomas; requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2389",
+      "number": "38-2389",
+      "heading": "Alternative means of adjudication; exceptions; withdrawal; appeal.",
+      "text": "Alternative means of adjudication; exceptions; withdrawal; appeal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2390",
+      "number": "38-2390",
+      "heading": "Legislative cost study analysis of youth residential centers.",
+      "text": "Legislative cost study analysis of youth residential centers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2391",
+      "number": "38-2391",
+      "heading": "Overall case length limits.",
+      "text": "Overall case length limits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2392",
+      "number": "38-2392",
+      "heading": "Community-based graduated responses for technical violations of probation, violations of conditional release and violations of a condition of sentence",
+      "text": "Community-based graduated responses for technical violations of probation, violations of conditional release and violations of a condition of sentence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2393",
+      "number": "38-2393",
+      "heading": "Multidisciplinary team for failure to comply with immediate intervention plan.",
+      "text": "Multidisciplinary team for failure to comply with immediate intervention plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2394",
+      "number": "38-2394",
+      "heading": "Training for individuals working with juveniles adjudicated or participating in an immediate intervention.",
+      "text": "Training for individuals working with juveniles adjudicated or participating in an immediate intervention.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2395",
+      "number": "38-2395",
+      "heading": "Standards for immediate intervention.",
+      "text": "Standards for immediate intervention.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2396",
+      "number": "38-2396",
+      "heading": "Reintegration plan for certain juveniles removed from the home.",
+      "text": "Reintegration plan for certain juveniles removed from the home.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2397",
+      "number": "38-2397",
+      "heading": "Earned time calculations.",
+      "text": "Earned time calculations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2398",
+      "number": "38-2398",
+      "heading": "Earned discharge for juvenile probationers.",
+      "text": "Earned discharge for juvenile probationers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38-2399",
+      "number": "38-2399",
+      "heading": "Department of corrections contracts for youth residential facility beds.",
+      "text": "Department of corrections contracts for youth residential facility beds.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

@@ -1,0 +1,1294 @@
+{
+  "state": "hawaii",
+  "path": "title-title-12-conservation-and-resources/chapter-171-public-lands-management-and-disposition-of",
+  "sections": [
+    {
+      "id": "section-171-1",
+      "number": "171-1",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-2",
+      "number": "171-2",
+      "heading": "Definition of public lands.",
+      "text": "Definition of public lands.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-3",
+      "number": "171-3",
+      "heading": "Department of land and natural resources.",
+      "text": "Department of land and natural resources.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-4",
+      "number": "171-4",
+      "heading": "Board of land and natural resources; terms and qualifications of members of the board; organization; expenses.",
+      "text": "Board of land and natural resources; terms and qualifications of members of the board; organization; expenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-45",
+      "number": "171-4.5",
+      "heading": "Aha moku advisory committee; established.",
+      "text": "Aha moku advisory committee; established.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-5",
+      "number": "171-5",
+      "heading": "Meetings, regular, special; quorum.",
+      "text": "Meetings, regular, special; quorum.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-6",
+      "number": "171-6",
+      "heading": "Powers.",
+      "text": "Powers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-64",
+      "number": "171-6.4",
+      "heading": "General administrative penalties.",
+      "text": "General administrative penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-65",
+      "number": "171-6.5",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-7",
+      "number": "171-7",
+      "heading": "General duties of the board.",
+      "text": "General duties of the board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-8",
+      "number": "171-8",
+      "heading": "Land agents and other employees.",
+      "text": "Land agents and other employees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-85",
+      "number": "171-8.5",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-86",
+      "number": "171-8.6",
+      "heading": "Risk assessment working group.",
+      "text": "Risk assessment working group.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-9",
+      "number": "171-9",
+      "heading": "Land districts.",
+      "text": "Land districts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-10",
+      "number": "171-10",
+      "heading": "Classes of lands.",
+      "text": "Classes of lands.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-11",
+      "number": "171-11",
+      "heading": "Public purposes, lands set aside by the governor; management.",
+      "text": "Public purposes, lands set aside by the governor; management.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-12",
+      "number": "171-12",
+      "heading": "Permanent register of applicants for public lands.",
+      "text": "Permanent register of applicants for public lands.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-13",
+      "number": "171-13",
+      "heading": "Disposition of public lands.",
+      "text": "Disposition of public lands.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-14",
+      "number": "171-14",
+      "heading": "Auction.",
+      "text": "Auction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-145",
+      "number": "171-14.5",
+      "heading": "Auction pre-qualification; agricultural and pasture leases.",
+      "text": "Auction pre-qualification; agricultural and pasture leases.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-15",
+      "number": "171-15",
+      "heading": "Drawing.",
+      "text": "Drawing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-16",
+      "number": "171-16",
+      "heading": "Notices.",
+      "text": "Notices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-17",
+      "number": "171-17",
+      "heading": "Appraisals.",
+      "text": "Appraisals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-18",
+      "number": "171-18",
+      "heading": "Public land trust.",
+      "text": "Public land trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-185",
+      "number": "171-18.5",
+      "heading": "Sugarcane lands conveyed for the development of housing projects.",
+      "text": "Sugarcane lands conveyed for the development of housing projects.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-19",
+      "number": "171-19",
+      "heading": "Special land and development fund.",
+      "text": "Special land and development fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-195",
+      "number": "171-19.5",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-20",
+      "number": "171-20",
+      "heading": "Notice of breach or default.",
+      "text": "Notice of breach or default.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-21",
+      "number": "171-21",
+      "heading": "Rights of holder of security interest.",
+      "text": "Rights of holder of security interest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-22",
+      "number": "171-22",
+      "heading": "Consent to mortgage.",
+      "text": "Consent to mortgage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-23",
+      "number": "171-23",
+      "heading": "Land patents and deeds, issued when.",
+      "text": "Land patents and deeds, issued when.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-24",
+      "number": "171-24",
+      "heading": "Land conveyances, preparation, signing, record, copies.",
+      "text": "Land conveyances, preparation, signing, record, copies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-25",
+      "number": "171-25",
+      "heading": "Irrigation projects.",
+      "text": "Irrigation projects.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-26",
+      "number": "171-26",
+      "heading": "Rights-of-way to the sea, game management areas, and public hunting areas.",
+      "text": "Rights-of-way to the sea, game management areas, and public hunting areas.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-27",
+      "number": "171-27",
+      "heading": "Taxes.",
+      "text": "Taxes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-28",
+      "number": "171-28",
+      "heading": "Government-owned Hawaiian fishponds; sale prohibition.",
+      "text": "Government-owned Hawaiian fishponds; sale prohibition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-29",
+      "number": "171-29",
+      "heading": "Report to legislature on all dispositions.",
+      "text": "Report to legislature on all dispositions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-30",
+      "number": "171-30",
+      "heading": "Acquisition of real property; general.",
+      "text": "Acquisition of real property; general.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-31",
+      "number": "171-31",
+      "heading": "Depository for documents; filing, record.",
+      "text": "Depository for documents; filing, record.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-315",
+      "number": "171-31.5",
+      "heading": "Disposition of abandoned or seized property.",
+      "text": "Disposition of abandoned or seized property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-316",
+      "number": "171-31.6",
+      "heading": "Criminal penalties.",
+      "text": "Criminal penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-32",
+      "number": "171-32",
+      "heading": "Policy.",
+      "text": "Policy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-33",
+      "number": "171-33",
+      "heading": "Planning; generally.",
+      "text": "Planning; generally.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-34",
+      "number": "171-34",
+      "heading": "Planning; intensive agricultural and pasture uses.",
+      "text": "Planning; intensive agricultural and pasture uses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-35",
+      "number": "171-35",
+      "heading": "Lease provisions; generally.",
+      "text": "Lease provisions; generally.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-36",
+      "number": "171-36",
+      "heading": "Lease restrictions; generally.",
+      "text": "Lease restrictions; generally.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-361",
+      "number": "171-36.1",
+      "heading": "Reservation of rights to prehistoric and historic remains on leased public lands.",
+      "text": "Reservation of rights to prehistoric and historic remains on leased public lands.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-362",
+      "number": "171-36.2",
+      "heading": "Public lands for historic preservation and restoration.",
+      "text": "Public lands for historic preservation and restoration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-365",
+      "number": "171-36.5",
+      "heading": "Commercial, industrial, resort, mixed-use, or government leases; extension of term.",
+      "text": "Commercial, industrial, resort, mixed-use, or government leases; extension of term.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-37",
+      "number": "171-37",
+      "heading": "Lease restrictions; intensive agricultural and pasture uses.",
+      "text": "Lease restrictions; intensive agricultural and pasture uses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-375",
+      "number": "171-37.5",
+      "heading": "Withdrawal or taking of leased land; fair compensation.",
+      "text": "Withdrawal or taking of leased land; fair compensation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-38",
+      "number": "171-38",
+      "heading": "Condemnation of leases.",
+      "text": "Condemnation of leases.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-39",
+      "number": "171-39",
+      "heading": "Leases; forfeiture.",
+      "text": "Leases; forfeiture.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-40",
+      "number": "171-40",
+      "heading": "Expired leases; holdover.",
+      "text": "Expired leases; holdover.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-41",
+      "number": "171-41",
+      "heading": "Commercial, industrial, and other business uses.",
+      "text": "Commercial, industrial, and other business uses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-415",
+      "number": "171-41.5",
+      "heading": "Amendment of commercial, hotel, or industrial lease.",
+      "text": "Amendment of commercial, hotel, or industrial lease.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-416",
+      "number": "171-41.6",
+      "heading": "Lessees within the last ten years of their lease terms; requests for interest",
+      "text": "Lessees within the last ten years of their lease terms; requests for interest",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-42",
+      "number": "171-42",
+      "heading": "Hotel and resort uses.",
+      "text": "Hotel and resort uses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-43",
+      "number": "171-43",
+      "heading": "Lease of campsites or sites for youth athletic and/or educational activities.",
+      "text": "Lease of campsites or sites for youth athletic and/or educational activities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-431",
+      "number": "171-43.1",
+      "heading": "Lease to eleemosynary organizations.",
+      "text": "Lease to eleemosynary organizations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-44",
+      "number": "171-44",
+      "heading": "Lease for recreation-residence use.",
+      "text": "Lease for recreation-residence use.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-45",
+      "number": "171-45",
+      "heading": "Residence lots; sale or leases.",
+      "text": "Residence lots; sale or leases.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-46",
+      "number": "171-46",
+      "heading": "Residential sales or leases; planning.",
+      "text": "Residential sales or leases; planning.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-47",
+      "number": "171-47",
+      "heading": "Residence lots; improvement districts.",
+      "text": "Residence lots; improvement districts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-48",
+      "number": "171-48",
+      "heading": "Residence lots, requirements.",
+      "text": "Residence lots, requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-49",
+      "number": "171-49",
+      "heading": "Residence lots: unsold; forfeited; surrendered.",
+      "text": "Residence lots: unsold; forfeited; surrendered.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-495",
+      "number": "171-49.5",
+      "heading": "Resale, first offer to board; limitation on resale price.",
+      "text": "Resale, first offer to board; limitation on resale price.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-497",
+      "number": "171-49.7",
+      "heading": "Public lands suitable and available for residential development; inventory.",
+      "text": "Public lands suitable and available for residential development; inventory.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-50",
+      "number": "171-50",
+      "heading": "Exchanges.",
+      "text": "Exchanges.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-501",
+      "number": "171-50.1",
+      "heading": "Acquisition of lands for exchange under chapter 516.",
+      "text": "Acquisition of lands for exchange under chapter 516.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-502",
+      "number": "171-50.2",
+      "heading": "Exchanges for conversion of leasehold lands to fee simple ownership.",
+      "text": "Exchanges for conversion of leasehold lands to fee simple ownership.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-51",
+      "number": "171-51",
+      "heading": "Quitclaim.",
+      "text": "Quitclaim.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-52",
+      "number": "171-52",
+      "heading": "Remnant.",
+      "text": "Remnant.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-53",
+      "number": "171-53",
+      "heading": "Reclamation and disposition of submerged or reclaimed public land.",
+      "text": "Reclamation and disposition of submerged or reclaimed public land.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-54",
+      "number": "171-54",
+      "heading": "Land license.",
+      "text": "Land license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-55",
+      "number": "171-55",
+      "heading": "Permits.",
+      "text": "Permits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-555",
+      "number": "171-55.5",
+      "heading": "Agricultural plots.",
+      "text": "Agricultural plots.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-56",
+      "number": "171-56",
+      "heading": "Contract or license for concessions or concession space.",
+      "text": "Contract or license for concessions or concession space.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-57",
+      "number": "171-57",
+      "heading": "Reserved rights and easements.",
+      "text": "Reserved rights and easements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-58",
+      "number": "171-58",
+      "heading": "Minerals and water rights.",
+      "text": "Minerals and water rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-585",
+      "number": "171-58.5",
+      "heading": "Prohibitions.",
+      "text": "Prohibitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-59",
+      "number": "171-59",
+      "heading": "Disposition by negotiation.",
+      "text": "Disposition by negotiation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-60",
+      "number": "171-60",
+      "heading": "Development through private developer.",
+      "text": "Development through private developer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-61",
+      "number": "171-61",
+      "heading": "Cancellation, surrender.",
+      "text": "Cancellation, surrender.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-62",
+      "number": "171-62",
+      "heading": "Sales; payment, default.",
+      "text": "Sales; payment, default.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-63",
+      "number": "171-63",
+      "heading": "Waiver of restrictions.",
+      "text": "Waiver of restrictions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-64",
+      "number": "171-64",
+      "heading": "Covenants against discrimination.",
+      "text": "Covenants against discrimination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-645",
+      "number": "171-64.5",
+      "heading": "Nonconventional uses; department of health; approval and authorization; Waimano ridge.",
+      "text": "Nonconventional uses; department of health; approval and authorization; Waimano ridge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-647",
+      "number": "171-64.7",
+      "heading": "Legislative approval of sale or gift of lands.",
+      "text": "Legislative approval of sale or gift of lands.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-65",
+      "number": "171-65",
+      "heading": "Leases, leases with option to purchase, sales permitted; when.",
+      "text": "Leases, leases with option to purchase, sales permitted; when.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-66",
+      "number": "171-66",
+      "heading": "Planning.",
+      "text": "Planning.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-67",
+      "number": "171-67",
+      "heading": "Restrictions; conditions.",
+      "text": "Restrictions; conditions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-68",
+      "number": "171-68",
+      "heading": "Applicants; qualifications of.",
+      "text": "Applicants; qualifications of.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-69",
+      "number": "171-69",
+      "heading": "Preference right.",
+      "text": "Preference right.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-70",
+      "number": "171-70",
+      "heading": "Findings and declaration of necessity.",
+      "text": "Findings and declaration of necessity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-71",
+      "number": "171-71",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-72",
+      "number": "171-72",
+      "heading": "Subdivision, improvement and lease of public lands.",
+      "text": "Subdivision, improvement and lease of public lands.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-73",
+      "number": "171-73",
+      "heading": "Term, rent, and other conditions of residential leases.",
+      "text": "Term, rent, and other conditions of residential leases.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-74",
+      "number": "171-74",
+      "heading": "Qualifications of lessees.",
+      "text": "Qualifications of lessees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-75",
+      "number": "171-75",
+      "heading": "Persons disqualified to take residential leases.",
+      "text": "Persons disqualified to take residential leases.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-76",
+      "number": "171-76",
+      "heading": "Preference right to residential lease.",
+      "text": "Preference right to residential lease.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-77",
+      "number": "171-77",
+      "heading": "Transfers of title by bequest, devise, intestate succession, or by operation of law, and upon foreclosure.",
+      "text": "Transfers of title by bequest, devise, intestate succession, or by operation of law, and upon foreclosure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-78",
+      "number": "171-78",
+      "heading": "Notice; drawing.",
+      "text": "Notice; drawing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-79",
+      "number": "171-79",
+      "heading": "Purchase of fee title by lessee.",
+      "text": "Purchase of fee title by lessee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-80",
+      "number": "171-80",
+      "heading": "Cancellation of leases.",
+      "text": "Cancellation of leases.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-81",
+      "number": "171-81",
+      "heading": "Surrender of lease.",
+      "text": "Surrender of lease.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-82",
+      "number": "171-82",
+      "heading": "Approval by board.",
+      "text": "Approval by board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-83",
+      "number": "171-83",
+      "heading": "Costs of, and realization from, residential leasing.",
+      "text": "Costs of, and realization from, residential leasing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-84",
+      "number": "171-84",
+      "heading": "Leases to certain developers of housing for low and moderate income families.",
+      "text": "Leases to certain developers of housing for low and moderate income families.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-85",
+      "number": "171-85",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-86",
+      "number": "171-86",
+      "heading": "Purpose.",
+      "text": "Purpose.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-87",
+      "number": "171-87",
+      "heading": "Disposition to victims of natural disaster, when.",
+      "text": "Disposition to victims of natural disaster, when.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-88",
+      "number": "171-88",
+      "heading": "Option to purchase.",
+      "text": "Option to purchase.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-89",
+      "number": "171-89",
+      "heading": "Applications.",
+      "text": "Applications.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-90",
+      "number": "171-90",
+      "heading": "Eligibility.",
+      "text": "Eligibility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-91",
+      "number": "171-91",
+      "heading": "Notice of availability of leases; selection of lessees.",
+      "text": "Notice of availability of leases; selection of lessees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-92",
+      "number": "171-92",
+      "heading": "Existing public leases.",
+      "text": "Existing public leases.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-93",
+      "number": "171-93",
+      "heading": "Authorization.",
+      "text": "Authorization.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-94",
+      "number": "171-94",
+      "heading": "Persons dispossessed or displaced.",
+      "text": "Persons dispossessed or displaced.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-95",
+      "number": "171-95",
+      "heading": "Disposition to governments, governmental agencies, public utilities, and renewable energy producers.",
+      "text": "Disposition to governments, governmental agencies, public utilities, and renewable energy producers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-951",
+      "number": "171-95.1",
+      "heading": "Authority of board to extend leases under certain circumstances.",
+      "text": "Authority of board to extend leases under certain circumstances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-953",
+      "number": "171-95.3",
+      "heading": "Renewable energy producers; lease of public lands without public auction.",
+      "text": "Renewable energy producers; lease of public lands without public auction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-955",
+      "number": "171-95.5",
+      "heading": "Lease to public charter schools.",
+      "text": "Lease to public charter schools.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-96",
+      "number": "171-96",
+      "heading": "Lease to foreign governments.",
+      "text": "Lease to foreign governments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-97",
+      "number": "171-97",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-98",
+      "number": "171-98",
+      "heading": "Release of restrictions.",
+      "text": "Release of restrictions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-99",
+      "number": "171-99",
+      "heading": "Continuation of rights under existing homestead leases, certificates of occupation, right of purchase leases, and cash freehold agreements.",
+      "text": "Continuation of rights under existing homestead leases, certificates of occupation, right of purchase leases, and cash freehold agreements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-100",
+      "number": "171-100",
+      "heading": "Successor determination program.",
+      "text": "Successor determination program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-111",
+      "number": "171-111",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-112",
+      "number": "171-112",
+      "heading": "Acquisition.",
+      "text": "Acquisition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-113",
+      "number": "171-113",
+      "heading": "to 171-116.5 REPEALED.",
+      "text": "to 171-116.5 REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-117",
+      "number": "171-117",
+      "heading": "Public lands; agricultural park lands.",
+      "text": "Public lands; agricultural park lands.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-118",
+      "number": "171-118",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-121",
+      "number": "171-121",
+      "heading": "Molokai forest lands, management program established.",
+      "text": "Molokai forest lands, management program established.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-131",
+      "number": "171-131",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-132",
+      "number": "171-132",
+      "heading": "Designation of industrial park.",
+      "text": "Designation of industrial park.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-133",
+      "number": "171-133",
+      "heading": "Authority to plan, improve, develop, operate, and maintain industrial parks.",
+      "text": "Authority to plan, improve, develop, operate, and maintain industrial parks.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-134",
+      "number": "171-134",
+      "heading": "Industrial park development.",
+      "text": "Industrial park development.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-135",
+      "number": "171-135",
+      "heading": "Joint venture or development agreement.",
+      "text": "Joint venture or development agreement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-136",
+      "number": "171-136",
+      "heading": "Disposition of public lands within industrial park.",
+      "text": "Disposition of public lands within industrial park.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-137",
+      "number": "171-137",
+      "heading": "Preference.",
+      "text": "Preference.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-138",
+      "number": "171-138",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-139",
+      "number": "171-139",
+      "heading": "Acquisition.",
+      "text": "Acquisition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-140",
+      "number": "171-140",
+      "heading": "Rules.",
+      "text": "Rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-141",
+      "number": "171-141",
+      "heading": "Lease for eligible permittee in industrial park.",
+      "text": "Lease for eligible permittee in industrial park.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-142",
+      "number": "171-142",
+      "heading": "Lease for lessees dislocated by condemnation proceedings.",
+      "text": "Lease for lessees dislocated by condemnation proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-143",
+      "number": "171-143",
+      "heading": "Rate policy.",
+      "text": "Rate policy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-144",
+      "number": "171-144",
+      "heading": "Issuance of revenue bonds.",
+      "text": "Issuance of revenue bonds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-151",
+      "number": "171-151",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-152",
+      "number": "171-152",
+      "heading": "General powers.",
+      "text": "General powers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-153",
+      "number": "171-153",
+      "heading": "Beach restoration plan.",
+      "text": "Beach restoration plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-154",
+      "number": "171-154",
+      "heading": "Authority to lease coastal lands.",
+      "text": "Authority to lease coastal lands.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-155",
+      "number": "171-155",
+      "heading": "Development of public coastal lands.",
+      "text": "Development of public coastal lands.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-156",
+      "number": "171-156",
+      "heading": "Beach restoration special fund.",
+      "text": "Beach restoration special fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-171",
+      "number": "171-171",
+      "heading": "Reimbursable general obligation bonds for conservation easement and other real property interests in Turtle Bay, Oahu.",
+      "text": "Reimbursable general obligation bonds for conservation easement and other real property interests in Turtle Bay, Oahu.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-172",
+      "number": "171-172",
+      "heading": "Turtle Bay conservation easement special fund.",
+      "text": "Turtle Bay conservation easement special fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-173",
+      "number": "171-173",
+      "heading": "Turtle Bay appraisal and due diligence.",
+      "text": "Turtle Bay appraisal and due diligence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-174",
+      "number": "171-174",
+      "heading": "Lease of Turtle Bay lands.",
+      "text": "Lease of Turtle Bay lands.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-191",
+      "number": "171-191",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-192",
+      "number": "171-192",
+      "heading": "Lease restrictions.",
+      "text": "Lease restrictions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171-193",
+      "number": "171-193",
+      "heading": "Lessees within the last ten years of their lease terms; request for interest.",
+      "text": "Lessees within the last ten years of their lease terms; request for interest.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

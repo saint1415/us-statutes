@@ -1,0 +1,638 @@
+{
+  "state": "iowa",
+  "path": "title-title-vi-human-services/chapter-chapter-252k-uniform-interstate-family-support-act",
+  "sections": [
+    {
+      "id": "section-252k101",
+      "number": "252K.101",
+      "heading": "Title.Section 252K.102 - Definitions",
+      "text": "Section 252K.103 - State tribunal and support enforcement agency.Section 252K.104 - Remedies cumulative.Section 252K.105 - Application of chapter to resident of foreign country and foreign support proceeding.Section 252K.201 - Bases for jurisdiction over nonresid",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k102",
+      "number": "252K.102",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k103",
+      "number": "252K.103",
+      "heading": "State tribunal and support enforcement agency.",
+      "text": "State tribunal and support enforcement agency.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k104",
+      "number": "252K.104",
+      "heading": "Remedies cumulative.",
+      "text": "Remedies cumulative.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k105",
+      "number": "252K.105",
+      "heading": "Application of chapter to resident of foreign country and foreign support proceeding.",
+      "text": "Application of chapter to resident of foreign country and foreign support proceeding.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k201",
+      "number": "252K.201",
+      "heading": "Bases for jurisdiction over nonresident.",
+      "text": "Bases for jurisdiction over nonresident.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k202",
+      "number": "252K.202",
+      "heading": "Duration of personal jurisdiction.",
+      "text": "Duration of personal jurisdiction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k203",
+      "number": "252K.203",
+      "heading": "Initiating and responding tribunal of this state.",
+      "text": "Initiating and responding tribunal of this state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k204",
+      "number": "252K.204",
+      "heading": "Simultaneous proceedings.",
+      "text": "Simultaneous proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k205",
+      "number": "252K.205",
+      "heading": "Continuing, exclusive jurisdiction to modify child support order.",
+      "text": "Continuing, exclusive jurisdiction to modify child support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k206",
+      "number": "252K.206",
+      "heading": "Continuing jurisdiction to enforce child support order.",
+      "text": "Continuing jurisdiction to enforce child support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k207",
+      "number": "252K.207",
+      "heading": "Determination of controlling child support order.",
+      "text": "Determination of controlling child support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k208",
+      "number": "252K.208",
+      "heading": "Child support orders for two or more obligees.",
+      "text": "Child support orders for two or more obligees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k209",
+      "number": "252K.209",
+      "heading": "Credit for payments.",
+      "text": "Credit for payments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k210",
+      "number": "252K.210",
+      "heading": "Application of chapter to nonresident subject to personal jurisdiction.",
+      "text": "Application of chapter to nonresident subject to personal jurisdiction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k211",
+      "number": "252K.211",
+      "heading": "Continuing, exclusive jurisdiction to modify spousal support order.",
+      "text": "Continuing, exclusive jurisdiction to modify spousal support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k301",
+      "number": "252K.301",
+      "heading": "Proceedings under this chapter.",
+      "text": "Proceedings under this chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k302",
+      "number": "252K.302",
+      "heading": "Proceeding by minor parent.",
+      "text": "Proceeding by minor parent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k303",
+      "number": "252K.303",
+      "heading": "Application of law of this state.",
+      "text": "Application of law of this state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k304",
+      "number": "252K.304",
+      "heading": "Duties of initiating tribunal.",
+      "text": "Duties of initiating tribunal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k305",
+      "number": "252K.305",
+      "heading": "Duties and powers of responding tribunal.",
+      "text": "Duties and powers of responding tribunal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k306",
+      "number": "252K.306",
+      "heading": "Inappropriate tribunal.",
+      "text": "Inappropriate tribunal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k307",
+      "number": "252K.307",
+      "heading": "Duties of support enforcement agency.",
+      "text": "Duties of support enforcement agency.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k308",
+      "number": "252K.308",
+      "heading": "Duty of attorney general.",
+      "text": "Duty of attorney general.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k309",
+      "number": "252K.309",
+      "heading": "Private counsel.",
+      "text": "Private counsel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k310",
+      "number": "252K.310",
+      "heading": "Duties of state information agency.",
+      "text": "Duties of state information agency.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k311",
+      "number": "252K.311",
+      "heading": "Pleadings and accompanying documents.",
+      "text": "Pleadings and accompanying documents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k312",
+      "number": "252K.312",
+      "heading": "Nondisclosure of information in exceptional circumstances.",
+      "text": "Nondisclosure of information in exceptional circumstances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k313",
+      "number": "252K.313",
+      "heading": "Costs and fees.",
+      "text": "Costs and fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k314",
+      "number": "252K.314",
+      "heading": "Limited immunity of movant.",
+      "text": "Limited immunity of movant.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k315",
+      "number": "252K.315",
+      "heading": "Nonparentage as defense.",
+      "text": "Nonparentage as defense.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k316",
+      "number": "252K.316",
+      "heading": "Special rules of evidence and procedure.",
+      "text": "Special rules of evidence and procedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k317",
+      "number": "252K.317",
+      "heading": "Communications between tribunals.",
+      "text": "Communications between tribunals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k318",
+      "number": "252K.318",
+      "heading": "Assistance with discovery.",
+      "text": "Assistance with discovery.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k319",
+      "number": "252K.319",
+      "heading": "Receipt and disbursement of payments.",
+      "text": "Receipt and disbursement of payments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k401",
+      "number": "252K.401",
+      "heading": "Establishment of support order.",
+      "text": "Establishment of support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k402",
+      "number": "252K.402",
+      "heading": "Proceeding to determine parentage.",
+      "text": "Proceeding to determine parentage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k501",
+      "number": "252K.501",
+      "heading": "Employer’s receipt of income withholding order of another state.",
+      "text": "Employer’s receipt of income withholding order of another state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k502",
+      "number": "252K.502",
+      "heading": "Employer’s compliance with income withholding order of another state.",
+      "text": "Employer’s compliance with income withholding order of another state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k503",
+      "number": "252K.503",
+      "heading": "Employer’s compliance with two or more income withholding orders.",
+      "text": "Employer’s compliance with two or more income withholding orders.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k504",
+      "number": "252K.504",
+      "heading": "Immunity from civil liability.",
+      "text": "Immunity from civil liability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k505",
+      "number": "252K.505",
+      "heading": "Penalties for noncompliance.",
+      "text": "Penalties for noncompliance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k506",
+      "number": "252K.506",
+      "heading": "Contest by obligor.",
+      "text": "Contest by obligor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k507",
+      "number": "252K.507",
+      "heading": "Administrative enforcement of orders.",
+      "text": "Administrative enforcement of orders.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k601",
+      "number": "252K.601",
+      "heading": "Registration of order for enforcement.",
+      "text": "Registration of order for enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k602",
+      "number": "252K.602",
+      "heading": "Procedure to register order for enforcement.",
+      "text": "Procedure to register order for enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k603",
+      "number": "252K.603",
+      "heading": "Effect of registration for enforcement.",
+      "text": "Effect of registration for enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k604",
+      "number": "252K.604",
+      "heading": "Choice of law.",
+      "text": "Choice of law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k605",
+      "number": "252K.605",
+      "heading": "Notice of registration of order.",
+      "text": "Notice of registration of order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k606",
+      "number": "252K.606",
+      "heading": "Procedure to contest validity or enforcement of registered support order.",
+      "text": "Procedure to contest validity or enforcement of registered support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k607",
+      "number": "252K.607",
+      "heading": "Contest of registration or enforcement.",
+      "text": "Contest of registration or enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k608",
+      "number": "252K.608",
+      "heading": "Confirmed order.",
+      "text": "Confirmed order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k609",
+      "number": "252K.609",
+      "heading": "Procedure to register child support order of another state for modification.",
+      "text": "Procedure to register child support order of another state for modification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k610",
+      "number": "252K.610",
+      "heading": "Effect of registration for modification.",
+      "text": "Effect of registration for modification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k611",
+      "number": "252K.611",
+      "heading": "Modification of child support order of another state.",
+      "text": "Modification of child support order of another state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k612",
+      "number": "252K.612",
+      "heading": "Recognition of order modified in another state.",
+      "text": "Recognition of order modified in another state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k613",
+      "number": "252K.613",
+      "heading": "Jurisdiction to modify child support order of another state when individual parties reside in this state.",
+      "text": "Jurisdiction to modify child support order of another state when individual parties reside in this state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k614",
+      "number": "252K.614",
+      "heading": "Notice to issuing tribunal of modification.",
+      "text": "Notice to issuing tribunal of modification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k615",
+      "number": "252K.615",
+      "heading": "Jurisdiction to modify child support order of foreign country.",
+      "text": "Jurisdiction to modify child support order of foreign country.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k616",
+      "number": "252K.616",
+      "heading": "Procedures to register child support order of foreign country for modification.",
+      "text": "Procedures to register child support order of foreign country for modification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k701",
+      "number": "252K.701",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k702",
+      "number": "252K.702",
+      "heading": "Applicability.",
+      "text": "Applicability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k703",
+      "number": "252K.703",
+      "heading": "Relationship of child support services to United States central authority.",
+      "text": "Relationship of child support services to United States central authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k704",
+      "number": "252K.704",
+      "heading": "Initiation by child support services of support proceeding under convention.",
+      "text": "Initiation by child support services of support proceeding under convention.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k705",
+      "number": "252K.705",
+      "heading": "Direct request.",
+      "text": "Direct request.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k706",
+      "number": "252K.706",
+      "heading": "Registration of convention support order.",
+      "text": "Registration of convention support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k707",
+      "number": "252K.707",
+      "heading": "Contest of registered convention support order.",
+      "text": "Contest of registered convention support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k708",
+      "number": "252K.708",
+      "heading": "Recognition and enforcement of registered convention support order.",
+      "text": "Recognition and enforcement of registered convention support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k709",
+      "number": "252K.709",
+      "heading": "Partial enforcement.",
+      "text": "Partial enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k710",
+      "number": "252K.710",
+      "heading": "Foreign support agreement.",
+      "text": "Foreign support agreement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k711",
+      "number": "252K.711",
+      "heading": "Modification of convention child support order.",
+      "text": "Modification of convention child support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k712",
+      "number": "252K.712",
+      "heading": "Personal information — limit on use.",
+      "text": "Personal information — limit on use.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k713",
+      "number": "252K.713",
+      "heading": "Record in original language — English translation.",
+      "text": "Record in original language — English translation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k801",
+      "number": "252K.801",
+      "heading": "Grounds for rendition.",
+      "text": "Grounds for rendition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k802",
+      "number": "252K.802",
+      "heading": "Conditions of rendition.",
+      "text": "Conditions of rendition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k901",
+      "number": "252K.901",
+      "heading": "Uniformity of application and construction.",
+      "text": "Uniformity of application and construction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k902",
+      "number": "252K.902",
+      "heading": "Short title.",
+      "text": "Short title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k903",
+      "number": "252K.903",
+      "heading": "Severability.",
+      "text": "Severability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252k904",
+      "number": "252K.904",
+      "heading": "Effective date — pending matters.",
+      "text": "Effective date — pending matters.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

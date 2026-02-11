@@ -1,0 +1,1550 @@
+{
+  "state": "iowa",
+  "path": "title-title-xii-business-entities/chapter-chapter-502-uniform-securities-act-blue-sky-law",
+  "sections": [
+    {
+      "id": "section-502101",
+      "number": "502.101",
+      "heading": "Short title.Section 502.102 - Definitions",
+      "text": "Section 502.103 - References to federal statutes.Section 502.104 - References to federal agencies.Section 502.105 - Electronic records and signatures.Section 502.201 - Exempt securities.Section 502.202 - Exempt transactions.Section 502.203 - Additional exemp",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502102",
+      "number": "502.102",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502103",
+      "number": "502.103",
+      "heading": "References to federal statutes.",
+      "text": "References to federal statutes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502104",
+      "number": "502.104",
+      "heading": "References to federal agencies.",
+      "text": "References to federal agencies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502105",
+      "number": "502.105",
+      "heading": "Electronic records and signatures.",
+      "text": "Electronic records and signatures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502201",
+      "number": "502.201",
+      "heading": "Exempt securities.",
+      "text": "Exempt securities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502202",
+      "number": "502.202",
+      "heading": "Exempt transactions.",
+      "text": "Exempt transactions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502203",
+      "number": "502.203",
+      "heading": "Additional exemptions and waivers.",
+      "text": "Additional exemptions and waivers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502204",
+      "number": "502.204",
+      "heading": "Denial, suspension, revocation, condition, or limitation of exemptions.",
+      "text": "Denial, suspension, revocation, condition, or limitation of exemptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502",
+      "number": "502",
+      "heading": "205",
+      "text": "205",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502207b",
+      "number": "502.207B",
+      "heading": "Legislative review and oversight.",
+      "text": "Legislative review and oversight.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502301",
+      "number": "502.301",
+      "heading": "Securities registration requirement.",
+      "text": "Securities registration requirement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502302",
+      "number": "502.302",
+      "heading": "Notice filing.",
+      "text": "Notice filing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502303",
+      "number": "502.303",
+      "heading": "Securities registration by coordination.",
+      "text": "Securities registration by coordination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502304",
+      "number": "502.304",
+      "heading": "Securities registration by qualification.",
+      "text": "Securities registration by qualification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502304a",
+      "number": "502.304A",
+      "heading": "Expedited registration by filing for small issuers.",
+      "text": "Expedited registration by filing for small issuers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502305",
+      "number": "502.305",
+      "heading": "Securities registration filings.",
+      "text": "Securities registration filings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502306",
+      "number": "502.306",
+      "heading": "Denial, suspension, and revocation of securities registration.",
+      "text": "Denial, suspension, and revocation of securities registration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502307",
+      "number": "502.307",
+      "heading": "Waiver and modification.",
+      "text": "Waiver and modification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502308",
+      "number": "502.308",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502309",
+      "number": "502.309",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502310",
+      "number": "502.310",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502311",
+      "number": "502.311",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502312",
+      "number": "502.312",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502313",
+      "number": "502.313",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502314",
+      "number": "502.314",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502315",
+      "number": "502.315",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502316",
+      "number": "502.316",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502317",
+      "number": "502.317",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502318",
+      "number": "502.318",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502319",
+      "number": "502.319",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502320",
+      "number": "502.320",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502321",
+      "number": "502.321",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502321a",
+      "number": "502.321A",
+      "heading": "Special definitions.",
+      "text": "Special definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502321b",
+      "number": "502.321B",
+      "heading": "Registration requirements — hearing.",
+      "text": "Registration requirements — hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502321c",
+      "number": "502.321C",
+      "heading": "Filing of solicitation materials.",
+      "text": "Filing of solicitation materials.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502321d",
+      "number": "502.321D",
+      "heading": "Fraudulent, deceptive, or manipulative acts and practices prohibited.",
+      "text": "Fraudulent, deceptive, or manipulative acts and practices prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502321e",
+      "number": "502.321E",
+      "heading": "Limitations on offers and offerors.",
+      "text": "Limitations on offers and offerors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502321f",
+      "number": "502.321F",
+      "heading": "Administration — rules and orders.",
+      "text": "Administration — rules and orders.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502321g",
+      "number": "502.321G",
+      "heading": "Fees.",
+      "text": "Fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502321h",
+      "number": "502.321H",
+      "heading": "Nonapplication of corporate takeover law.",
+      "text": "Nonapplication of corporate takeover law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502321i",
+      "number": "502.321I",
+      "heading": "Application of securities law.",
+      "text": "Application of securities law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502401",
+      "number": "502.401",
+      "heading": "Broker-dealer registration requirement and exemptions.",
+      "text": "Broker-dealer registration requirement and exemptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502402",
+      "number": "502.402",
+      "heading": "Agent registration requirement and exemptions.",
+      "text": "Agent registration requirement and exemptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502403",
+      "number": "502.403",
+      "heading": "Investment adviser registration requirement and exemptions.",
+      "text": "Investment adviser registration requirement and exemptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502404",
+      "number": "502.404",
+      "heading": "Investment adviser representative registration requirement and exemptions.",
+      "text": "Investment adviser representative registration requirement and exemptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502405",
+      "number": "502.405",
+      "heading": "Federal covered investment adviser notice filing requirement.",
+      "text": "Federal covered investment adviser notice filing requirement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502406",
+      "number": "502.406",
+      "heading": "Registration by broker-dealer, agent, investment adviser, and investment adviser representative.",
+      "text": "Registration by broker-dealer, agent, investment adviser, and investment adviser representative.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502407",
+      "number": "502.407",
+      "heading": "Succession and change in registration of broker-dealer or investment adviser.",
+      "text": "Succession and change in registration of broker-dealer or investment adviser.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502408",
+      "number": "502.408",
+      "heading": "Termination of employment or association of agent and investment adviser representative and transfer of employment or association.",
+      "text": "Termination of employment or association of agent and investment adviser representative and transfer of employment or association.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502409",
+      "number": "502.409",
+      "heading": "Withdrawal of registration of broker-dealer, agent, investment adviser, and investment adviser representative — cessation of business — abandoned filings",
+      "text": "Withdrawal of registration of broker-dealer, agent, investment adviser, and investment adviser representative — cessation of business — abandoned filings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502410",
+      "number": "502.410",
+      "heading": "Filing fees.",
+      "text": "Filing fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502411",
+      "number": "502.411",
+      "heading": "Postregistration requirements.",
+      "text": "Postregistration requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502412",
+      "number": "502.412",
+      "heading": "Denial, revocation, suspension, withdrawal, restriction, condition, or limitation of registration.",
+      "text": "Denial, revocation, suspension, withdrawal, restriction, condition, or limitation of registration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502501",
+      "number": "502.501",
+      "heading": "General fraud.",
+      "text": "General fraud.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502501a",
+      "number": "502.501A",
+      "heading": "Prohibited transactions of broker-dealers and agents.",
+      "text": "Prohibited transactions of broker-dealers and agents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502502",
+      "number": "502.502",
+      "heading": "Prohibited conduct in providing investment advice.",
+      "text": "Prohibited conduct in providing investment advice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502502a",
+      "number": "502.502A",
+      "heading": "Advisory misconduct.",
+      "text": "Advisory misconduct.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502503",
+      "number": "502.503",
+      "heading": "Evidentiary burden.",
+      "text": "Evidentiary burden.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502504",
+      "number": "502.504",
+      "heading": "Filing of sales and advertising literature.",
+      "text": "Filing of sales and advertising literature.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502505",
+      "number": "502.505",
+      "heading": "Misleading filings.",
+      "text": "Misleading filings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502506",
+      "number": "502.506",
+      "heading": "Misrepresentations concerning registration or exemption — official endorsements prohibited.",
+      "text": "Misrepresentations concerning registration or exemption — official endorsements prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502506a",
+      "number": "502.506A",
+      "heading": "Misstatements in publicity prohibited.",
+      "text": "Misstatements in publicity prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502507",
+      "number": "502.507",
+      "heading": "Qualified immunity.",
+      "text": "Qualified immunity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502508",
+      "number": "502.508",
+      "heading": "Criminal penalties.",
+      "text": "Criminal penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502509",
+      "number": "502.509",
+      "heading": "Civil liability.",
+      "text": "Civil liability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502510",
+      "number": "502.510",
+      "heading": "Rescission offers.",
+      "text": "Rescission offers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502511",
+      "number": "502.511",
+      "heading": "Investment advisers and investment adviser representatives — expungement of certain reported information.",
+      "text": "Investment advisers and investment adviser representatives — expungement of certain reported information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502601",
+      "number": "502.601",
+      "heading": "Administration.",
+      "text": "Administration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502602",
+      "number": "502.602",
+      "heading": "Investigations and subpoenas.",
+      "text": "Investigations and subpoenas.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502603",
+      "number": "502.603",
+      "heading": "Civil enforcement.",
+      "text": "Civil enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502603a",
+      "number": "502.603A",
+      "heading": "Cooperation with other agencies.",
+      "text": "Cooperation with other agencies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502604",
+      "number": "502.604",
+      "heading": "Administrative enforcement.",
+      "text": "Administrative enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502604a",
+      "number": "502.604A",
+      "heading": "Law enforcement authority.",
+      "text": "Law enforcement authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502604b",
+      "number": "502.604B",
+      "heading": "Limited law enforcement authority.",
+      "text": "Limited law enforcement authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502605",
+      "number": "502.605",
+      "heading": "Rules, forms, orders, interpretative opinions, and hearings.",
+      "text": "Rules, forms, orders, interpretative opinions, and hearings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502606",
+      "number": "502.606",
+      "heading": "Administrative files and opinions.",
+      "text": "Administrative files and opinions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502607",
+      "number": "502.607",
+      "heading": "Public records — confidentiality.",
+      "text": "Public records — confidentiality.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502608",
+      "number": "502.608",
+      "heading": "Uniformity and cooperation with other agencies.",
+      "text": "Uniformity and cooperation with other agencies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502609",
+      "number": "502.609",
+      "heading": "Judicial review of orders.",
+      "text": "Judicial review of orders.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502610",
+      "number": "502.610",
+      "heading": "Jurisdiction.",
+      "text": "Jurisdiction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502611",
+      "number": "502.611",
+      "heading": "Service of process.",
+      "text": "Service of process.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502612",
+      "number": "502.612",
+      "heading": "Severability clause.",
+      "text": "Severability clause.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502701",
+      "number": "502.701",
+      "heading": "Public joint investment trusts.",
+      "text": "Public joint investment trusts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502702",
+      "number": "502.702",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502703",
+      "number": "502.703",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502704",
+      "number": "502.704",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502705",
+      "number": "502.705",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502706",
+      "number": "502.706",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502707",
+      "number": "502.707",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502708",
+      "number": "502.708",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502709",
+      "number": "502.709",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502710",
+      "number": "502.710",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502711",
+      "number": "502.711",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502712",
+      "number": "502.712",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502713",
+      "number": "502.713",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502714",
+      "number": "502.714",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502715",
+      "number": "502.715",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502716",
+      "number": "502.716",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502717",
+      "number": "502.717",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502718",
+      "number": "502.718",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502719",
+      "number": "502.719",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502720",
+      "number": "502.720",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502721",
+      "number": "502.721",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502722",
+      "number": "502.722",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502723",
+      "number": "502.723",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502724",
+      "number": "502.724",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502725",
+      "number": "502.725",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502726",
+      "number": "502.726",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502727",
+      "number": "502.727",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502728",
+      "number": "502.728",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502729",
+      "number": "502.729",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502730",
+      "number": "502.730",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502731",
+      "number": "502.731",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502732",
+      "number": "502.732",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502733",
+      "number": "502.733",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502734",
+      "number": "502.734",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502735",
+      "number": "502.735",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502736",
+      "number": "502.736",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502737",
+      "number": "502.737",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502738",
+      "number": "502.738",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502739",
+      "number": "502.739",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502740",
+      "number": "502.740",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502741",
+      "number": "502.741",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502742",
+      "number": "502.742",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502743",
+      "number": "502.743",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502744",
+      "number": "502.744",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502745",
+      "number": "502.745",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502746",
+      "number": "502.746",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502747",
+      "number": "502.747",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502748",
+      "number": "502.748",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502749",
+      "number": "502.749",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502750",
+      "number": "502.750",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502751",
+      "number": "502.751",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502752",
+      "number": "502.752",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502753",
+      "number": "502.753",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502754",
+      "number": "502.754",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502755",
+      "number": "502.755",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502756",
+      "number": "502.756",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502757",
+      "number": "502.757",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502758",
+      "number": "502.758",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502759",
+      "number": "502.759",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502760",
+      "number": "502.760",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502761",
+      "number": "502.761",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502762",
+      "number": "502.762",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502763",
+      "number": "502.763",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502764",
+      "number": "502.764",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502765",
+      "number": "502.765",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502766",
+      "number": "502.766",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502767",
+      "number": "502.767",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502768",
+      "number": "502.768",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502769",
+      "number": "502.769",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502770",
+      "number": "502.770",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502771",
+      "number": "502.771",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502772",
+      "number": "502.772",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502773",
+      "number": "502.773",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502774",
+      "number": "502.774",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502775",
+      "number": "502.775",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502776",
+      "number": "502.776",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502777",
+      "number": "502.777",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502778",
+      "number": "502.778",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502779",
+      "number": "502.779",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502780",
+      "number": "502.780",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502781",
+      "number": "502.781",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502782",
+      "number": "502.782",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502783",
+      "number": "502.783",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502784",
+      "number": "502.784",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502785",
+      "number": "502.785",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502786",
+      "number": "502.786",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502787",
+      "number": "502.787",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502788",
+      "number": "502.788",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502789",
+      "number": "502.789",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502790",
+      "number": "502.790",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502791",
+      "number": "502.791",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502792",
+      "number": "502.792",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502793",
+      "number": "502.793",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502794",
+      "number": "502.794",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502795",
+      "number": "502.795",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502796",
+      "number": "502.796",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502797",
+      "number": "502.797",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502798",
+      "number": "502.798",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502799",
+      "number": "502.799",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502800",
+      "number": "502.800",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502801",
+      "number": "502.801",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502802",
+      "number": "502.802",
+      "heading": "Notification to administrator.",
+      "text": "Notification to administrator.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502803",
+      "number": "502.803",
+      "heading": "Notification to administrator — immunity.",
+      "text": "Notification to administrator — immunity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502804",
+      "number": "502.804",
+      "heading": "Notification to permissible third party.",
+      "text": "Notification to permissible third party.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502805",
+      "number": "502.805",
+      "heading": "Notification to permissible third party — immunity.",
+      "text": "Notification to permissible third party — immunity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502806",
+      "number": "502.806",
+      "heading": "Disbursements or transactions — delay.",
+      "text": "Disbursements or transactions — delay.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502807",
+      "number": "502.807",
+      "heading": "Disbursements or transactions — delay — immunity.",
+      "text": "Disbursements or transactions — delay — immunity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502808",
+      "number": "502.808",
+      "heading": "Training requirements.",
+      "text": "Training requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502809",
+      "number": "502.809",
+      "heading": "Records.",
+      "text": "Records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502810",
+      "number": "502.810",
+      "heading": "Financial exploitation — reporting.",
+      "text": "Financial exploitation — reporting.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

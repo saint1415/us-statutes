@@ -1,0 +1,870 @@
+{
+  "state": "alabama",
+  "path": "title-title-19-fiduciaries-and-trusts/chapter-chapter-3b-alabama-uniform-trust-code",
+  "sections": [
+    {
+      "id": "section-19-3b-101",
+      "number": "19-3B-101",
+      "heading": "Short Title.Section 19-3B-102 - Scope",
+      "text": "Section 19-3B-103 - Definitions.Section 19-3B-104 - Knowledge.Section 19-3B-105 - Default and Mandatory Rules.Section 19-3B-106 - Common Law of Trusts; Principles of Equity.Section 19-3B-107 - Governing Law.Section 19-3B-108 - Principal Place of Administration.S",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-102",
+      "number": "19-3B-102",
+      "heading": "Scope.",
+      "text": "Scope.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-103",
+      "number": "19-3B-103",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-104",
+      "number": "19-3B-104",
+      "heading": "Knowledge.",
+      "text": "Knowledge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-105",
+      "number": "19-3B-105",
+      "heading": "Default and Mandatory Rules.",
+      "text": "Default and Mandatory Rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-106",
+      "number": "19-3B-106",
+      "heading": "Common Law of Trusts; Principles of Equity.",
+      "text": "Common Law of Trusts; Principles of Equity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-107",
+      "number": "19-3B-107",
+      "heading": "Governing Law.",
+      "text": "Governing Law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-108",
+      "number": "19-3B-108",
+      "heading": "Principal Place of Administration.",
+      "text": "Principal Place of Administration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-109",
+      "number": "19-3B-109",
+      "heading": "Methods and Waiver of Notice.",
+      "text": "Methods and Waiver of Notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-110",
+      "number": "19-3B-110",
+      "heading": "Others Treated as Qualified Beneficiaries.",
+      "text": "Others Treated as Qualified Beneficiaries.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-111",
+      "number": "19-3B-111",
+      "heading": "Nonjudicial Settlement Agreements.",
+      "text": "Nonjudicial Settlement Agreements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-112",
+      "number": "19-3B-112",
+      "heading": "Rules of Construction.",
+      "text": "Rules of Construction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-201",
+      "number": "19-3B-201",
+      "heading": "Role of Court in Administration of Trust.",
+      "text": "Role of Court in Administration of Trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-202",
+      "number": "19-3B-202",
+      "heading": "Jurisdiction Over Trustee and Beneficiary.",
+      "text": "Jurisdiction Over Trustee and Beneficiary.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-203",
+      "number": "19-3B-203",
+      "heading": "Subject Matter Jurisdiction.",
+      "text": "Subject Matter Jurisdiction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-204",
+      "number": "19-3B-204",
+      "heading": "Venue.",
+      "text": "Venue.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-205",
+      "number": "19-3B-205",
+      "heading": "Judicial Accountings and Settlements.",
+      "text": "Judicial Accountings and Settlements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-301",
+      "number": "19-3B-301",
+      "heading": "Representation: Basic Effect.",
+      "text": "Representation: Basic Effect.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-302",
+      "number": "19-3B-302",
+      "heading": "Representation by Holder of Power of Appointment.",
+      "text": "Representation by Holder of Power of Appointment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-303",
+      "number": "19-3B-303",
+      "heading": "Representation by Fiduciaries and Ancestors.",
+      "text": "Representation by Fiduciaries and Ancestors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-304",
+      "number": "19-3B-304",
+      "heading": "Representation by Person Having Substantially Identical Interest.",
+      "text": "Representation by Person Having Substantially Identical Interest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-305",
+      "number": "19-3B-305",
+      "heading": "Appointment of Representative.",
+      "text": "Appointment of Representative.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-401",
+      "number": "19-3B-401",
+      "heading": "Methods of Creating Trust.",
+      "text": "Methods of Creating Trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-402",
+      "number": "19-3B-402",
+      "heading": "Requirements for Creation.",
+      "text": "Requirements for Creation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-403",
+      "number": "19-3B-403",
+      "heading": "Trusts Created in Other Jurisdictions.",
+      "text": "Trusts Created in Other Jurisdictions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-404",
+      "number": "19-3B-404",
+      "heading": "Trust Purposes.",
+      "text": "Trust Purposes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-405",
+      "number": "19-3B-405",
+      "heading": "Charitable Purposes; Enforcement.",
+      "text": "Charitable Purposes; Enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-406",
+      "number": "19-3B-406",
+      "heading": "Creation of Trust Induced by Fraud, Duress, or Undue Influence.",
+      "text": "Creation of Trust Induced by Fraud, Duress, or Undue Influence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-407",
+      "number": "19-3B-407",
+      "heading": "Evidence of Oral Trust.",
+      "text": "Evidence of Oral Trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-408",
+      "number": "19-3B-408",
+      "heading": "Trust for Care of Animal.",
+      "text": "Trust for Care of Animal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-409",
+      "number": "19-3B-409",
+      "heading": "Noncharitable Trust Without Ascertainable Beneficiary.",
+      "text": "Noncharitable Trust Without Ascertainable Beneficiary.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-410",
+      "number": "19-3B-410",
+      "heading": "Modification or Termination of Trust; Proceedings for Approval or Disapproval.",
+      "text": "Modification or Termination of Trust; Proceedings for Approval or Disapproval.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-411",
+      "number": "19-3B-411",
+      "heading": "Modification or Termination of Noncharitable Irrevocable Trust by Consent.",
+      "text": "Modification or Termination of Noncharitable Irrevocable Trust by Consent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-412",
+      "number": "19-3B-412",
+      "heading": "Modification or Termination Because of Unanticipated Circumstances or Inability to Administer Trust Effectively.",
+      "text": "Modification or Termination Because of Unanticipated Circumstances or Inability to Administer Trust Effectively.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-413",
+      "number": "19-3B-413",
+      "heading": "Cy Pres.",
+      "text": "Cy Pres.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-414",
+      "number": "19-3B-414",
+      "heading": "Modification or Termination of Uneconomic Trust.",
+      "text": "Modification or Termination of Uneconomic Trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-415",
+      "number": "19-3B-415",
+      "heading": "Reformation to Correct Mistakes.",
+      "text": "Reformation to Correct Mistakes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-416",
+      "number": "19-3B-416",
+      "heading": "Modification to Achieve Settlor’s Tax Objectives.",
+      "text": "Modification to Achieve Settlor’s Tax Objectives.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-417",
+      "number": "19-3B-417",
+      "heading": "Combination and Division of Trusts.",
+      "text": "Combination and Division of Trusts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-501",
+      "number": "19-3B-501",
+      "heading": "Rights of Beneficiary’s Creditor or Assignee.",
+      "text": "Rights of Beneficiary’s Creditor or Assignee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-502",
+      "number": "19-3B-502",
+      "heading": "Spendthrift Provision.",
+      "text": "Spendthrift Provision.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-503",
+      "number": "19-3B-503",
+      "heading": "Exceptions to Spendthrift Provision.",
+      "text": "Exceptions to Spendthrift Provision.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-504",
+      "number": "19-3B-504",
+      "heading": "Discretionary Trusts; Effect of Standard.",
+      "text": "Discretionary Trusts; Effect of Standard.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-505",
+      "number": "19-3B-505",
+      "heading": "Creditor’s Claim Against Settlor.",
+      "text": "Creditor’s Claim Against Settlor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-506",
+      "number": "19-3B-506",
+      "heading": "Overdue Distribution.",
+      "text": "Overdue Distribution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-507",
+      "number": "19-3B-507",
+      "heading": "Personal Obligations of Trustee.",
+      "text": "Personal Obligations of Trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-508",
+      "number": "19-3B-508",
+      "heading": "Qualified Trusts Under the Internal Revenue Code.",
+      "text": "Qualified Trusts Under the Internal Revenue Code.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-601",
+      "number": "19-3B-601",
+      "heading": "Capacity of Settlor of Revocable Trust.",
+      "text": "Capacity of Settlor of Revocable Trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-602",
+      "number": "19-3B-602",
+      "heading": "Revocation or Amendment of Revocable Trust.",
+      "text": "Revocation or Amendment of Revocable Trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-603",
+      "number": "19-3B-603",
+      "heading": "Settlor’s Powers; Powers of Withdrawal.",
+      "text": "Settlor’s Powers; Powers of Withdrawal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-604",
+      "number": "19-3B-604",
+      "heading": "Limitation on Action Contesting Validity of Revocable Trust; Distribution of Trust Property.",
+      "text": "Limitation on Action Contesting Validity of Revocable Trust; Distribution of Trust Property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-701",
+      "number": "19-3B-701",
+      "heading": "Accepting or Declining Trusteeship.",
+      "text": "Accepting or Declining Trusteeship.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-702",
+      "number": "19-3B-702",
+      "heading": "Trustee’s Bond.",
+      "text": "Trustee’s Bond.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-703",
+      "number": "19-3B-703",
+      "heading": "Co-Trustees.",
+      "text": "Co-Trustees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-704",
+      "number": "19-3B-704",
+      "heading": "Vacancy in Trusteeship; Appointment of Successor.",
+      "text": "Vacancy in Trusteeship; Appointment of Successor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-705",
+      "number": "19-3B-705",
+      "heading": "Resignation of Trustee.",
+      "text": "Resignation of Trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-706",
+      "number": "19-3B-706",
+      "heading": "Removal of Trustee.",
+      "text": "Removal of Trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-707",
+      "number": "19-3B-707",
+      "heading": "Delivery of Property by Former Trustee.",
+      "text": "Delivery of Property by Former Trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-708",
+      "number": "19-3B-708",
+      "heading": "Compensation of Trustee.",
+      "text": "Compensation of Trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-709",
+      "number": "19-3B-709",
+      "heading": "Reimbursement of Expenses.",
+      "text": "Reimbursement of Expenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-801",
+      "number": "19-3B-801",
+      "heading": "Duty to Administer Trust.",
+      "text": "Duty to Administer Trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-802",
+      "number": "19-3B-802",
+      "heading": "Duty of Loyalty.",
+      "text": "Duty of Loyalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-803",
+      "number": "19-3B-803",
+      "heading": "Impartiality.",
+      "text": "Impartiality.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-804",
+      "number": "19-3B-804",
+      "heading": "Prudent Administration.",
+      "text": "Prudent Administration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-805",
+      "number": "19-3B-805",
+      "heading": "Costs of Administration.",
+      "text": "Costs of Administration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-806",
+      "number": "19-3B-806",
+      "heading": "Trustee’s Skills.",
+      "text": "Trustee’s Skills.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-807",
+      "number": "19-3B-807",
+      "heading": "Delegation by Trustee.",
+      "text": "Delegation by Trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-808",
+      "number": "19-3B-808",
+      "heading": "Powers to Direct.",
+      "text": "Powers to Direct.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-809",
+      "number": "19-3B-809",
+      "heading": "Control and Protection of Trust Property.",
+      "text": "Control and Protection of Trust Property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-810",
+      "number": "19-3B-810",
+      "heading": "Recordkeeping and Identification of Trust Property.",
+      "text": "Recordkeeping and Identification of Trust Property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-811",
+      "number": "19-3B-811",
+      "heading": "Enforcement and Defense of Claims.",
+      "text": "Enforcement and Defense of Claims.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-812",
+      "number": "19-3B-812",
+      "heading": "Collecting Trust Property.",
+      "text": "Collecting Trust Property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-813",
+      "number": "19-3B-813",
+      "heading": "Duty to Inform and Report.",
+      "text": "Duty to Inform and Report.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-814",
+      "number": "19-3B-814",
+      "heading": "Discretionary Powers; Tax Savings.",
+      "text": "Discretionary Powers; Tax Savings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-815",
+      "number": "19-3B-815",
+      "heading": "General Powers of Trustee.",
+      "text": "General Powers of Trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-816",
+      "number": "19-3B-816",
+      "heading": "Specific Powers of Trustee.",
+      "text": "Specific Powers of Trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-817",
+      "number": "19-3B-817",
+      "heading": "Distribution Upon Termination.",
+      "text": "Distribution Upon Termination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-818",
+      "number": "19-3B-818",
+      "heading": "Life Insurance Policies Held by Trustee.",
+      "text": "Life Insurance Policies Held by Trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-901",
+      "number": "19-3B-901",
+      "heading": "Prudent Investor Rule.",
+      "text": "Prudent Investor Rule.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-902",
+      "number": "19-3B-902",
+      "heading": "Standard of Care; Portfolio Strategy; Risk and Return Objectives.",
+      "text": "Standard of Care; Portfolio Strategy; Risk and Return Objectives.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-903",
+      "number": "19-3B-903",
+      "heading": "Diversification.",
+      "text": "Diversification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-904",
+      "number": "19-3B-904",
+      "heading": "Duties at Inception of Trusteeship.",
+      "text": "Duties at Inception of Trusteeship.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-905",
+      "number": "19-3B-905",
+      "heading": "Reviewing Compliance.",
+      "text": "Reviewing Compliance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-906",
+      "number": "19-3B-906",
+      "heading": "Language Invoking Standard of Prudent Investor Rule.",
+      "text": "Language Invoking Standard of Prudent Investor Rule.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-1001",
+      "number": "19-3B-1001",
+      "heading": "Remedies for Breach of Trust.",
+      "text": "Remedies for Breach of Trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-1002",
+      "number": "19-3B-1002",
+      "heading": "Damages for Breach of Trust.",
+      "text": "Damages for Breach of Trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-1003",
+      "number": "19-3B-1003",
+      "heading": "Damages in Absence of Breach.",
+      "text": "Damages in Absence of Breach.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-1004",
+      "number": "19-3B-1004",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-1005",
+      "number": "19-3B-1005",
+      "heading": "Limitation of Action Against Trustee.",
+      "text": "Limitation of Action Against Trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-1006",
+      "number": "19-3B-1006",
+      "heading": "Reliance on Trust Instrument.",
+      "text": "Reliance on Trust Instrument.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-1007",
+      "number": "19-3B-1007",
+      "heading": "Event Affecting Administration or Distribution.",
+      "text": "Event Affecting Administration or Distribution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-1008",
+      "number": "19-3B-1008",
+      "heading": "Exculpation of Trustee.",
+      "text": "Exculpation of Trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-1009",
+      "number": "19-3B-1009",
+      "heading": "Beneficiary’s Consent, Release, or Ratification.",
+      "text": "Beneficiary’s Consent, Release, or Ratification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-1010",
+      "number": "19-3B-1010",
+      "heading": "Limitation on Personal Liability of Trustee.",
+      "text": "Limitation on Personal Liability of Trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-1011",
+      "number": "19-3B-1011",
+      "heading": "Interest as General Partner.",
+      "text": "Interest as General Partner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-1012",
+      "number": "19-3B-1012",
+      "heading": "Protection of Person Dealing with Trustee.",
+      "text": "Protection of Person Dealing with Trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-1013",
+      "number": "19-3B-1013",
+      "heading": "Certification of Trust.",
+      "text": "Certification of Trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-1101",
+      "number": "19-3B-1101",
+      "heading": "Protection of Special Needs Trusts and Other Similar Trusts for Disabled Persons.",
+      "text": "Protection of Special Needs Trusts and Other Similar Trusts for Disabled Persons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-1201",
+      "number": "19-3B-1201",
+      "heading": "Uniformity of Application and Construction.",
+      "text": "Uniformity of Application and Construction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-1202",
+      "number": "19-3B-1202",
+      "heading": "Electronic Records and Signatures.",
+      "text": "Electronic Records and Signatures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-1203",
+      "number": "19-3B-1203",
+      "heading": "Severability Clause.",
+      "text": "Severability Clause.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-1204",
+      "number": "19-3B-1204",
+      "heading": "Application to Existing Relationships.",
+      "text": "Application to Existing Relationships.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-1301",
+      "number": "19-3B-1301",
+      "heading": "Trust Concerning Lands Required to Be in Writing.",
+      "text": "Trust Concerning Lands Required to Be in Writing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-1302",
+      "number": "19-3B-1302",
+      "heading": "Trust Void as to Creditors or Purchasers Without Notice.",
+      "text": "Trust Void as to Creditors or Purchasers Without Notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-1303",
+      "number": "19-3B-1303",
+      "heading": "Trust Estate Not Descendible Upon Death of Trustee.",
+      "text": "Trust Estate Not Descendible Upon Death of Trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-1304",
+      "number": "19-3B-1304",
+      "heading": "Trusts for Employees or Self-Employed Persons.",
+      "text": "Trusts for Employees or Self-Employed Persons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-1305",
+      "number": "19-3B-1305",
+      "heading": "Trusts Consisting of Insurance Policies or Proceeds.",
+      "text": "Trusts Consisting of Insurance Policies or Proceeds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-3b-1306",
+      "number": "19-3B-1306",
+      "heading": "Procedures for Release of Trustee from Duties.",
+      "text": "Procedures for Release of Trustee from Duties.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

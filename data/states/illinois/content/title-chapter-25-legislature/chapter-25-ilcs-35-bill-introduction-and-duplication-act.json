@@ -1,0 +1,30 @@
+{
+  "state": "illinois",
+  "path": "title-chapter-25-legislature/chapter-25-ilcs-35-bill-introduction-and-duplication-act",
+  "sections": [
+    {
+      "id": "section-001",
+      "number": "0.01.",
+      "heading": "Short title.",
+      "text": "This Act may be cited as the\nBill Introduction and Duplication Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1",
+      "number": "1.",
+      "heading": "No bill may be introduced in the General Assembly unless it meets",
+      "text": "the requirements of the appropriate Rules of the House of\nRepresentatives and the Senate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2",
+      "number": "2.",
+      "heading": "The duplication or reproduction of bills introduced in the",
+      "text": "General Assembly shall be in accordance with the Rules of the\nHouse of Representatives and the Senate.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

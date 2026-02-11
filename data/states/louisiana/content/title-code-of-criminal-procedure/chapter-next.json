@@ -1,0 +1,838 @@
+{
+  "state": "louisiana",
+  "path": "title-code-of-criminal-procedure/chapter-next",
+  "sections": [
+    {
+      "id": "section-101",
+      "number": "101.",
+      "heading": "Scope",
+      "text": "Scope",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-102",
+      "number": "102.",
+      "heading": "Purpose and construction",
+      "text": "Purpose and construction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-103",
+      "number": "103.",
+      "heading": "Rulings on evidence",
+      "text": "Rulings on evidence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-104",
+      "number": "104.",
+      "heading": "Preliminary questions",
+      "text": "Preliminary questions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-105",
+      "number": "105.",
+      "heading": "Limited admissibility",
+      "text": "Limited admissibility",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-201",
+      "number": "201.",
+      "heading": "Judicial notice of adjudicative facts generally",
+      "text": "Judicial notice of adjudicative facts generally",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-202",
+      "number": "202.",
+      "heading": "Judicial notice of legal matters",
+      "text": "Judicial notice of legal matters",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-301",
+      "number": "301.",
+      "heading": "Scope of Chapter",
+      "text": "Scope of Chapter",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-302",
+      "number": "302.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-303",
+      "number": "303.",
+      "heading": "Conclusive presumptions",
+      "text": "Conclusive presumptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-304",
+      "number": "304.",
+      "heading": "Rebuttable presumptions",
+      "text": "Rebuttable presumptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-305",
+      "number": "305.",
+      "heading": "Effect of presumptions if there is no controverting evidence",
+      "text": "Effect of presumptions if there is no controverting evidence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-306",
+      "number": "306.",
+      "heading": "Effect of presumptions if there is controverting evidence",
+      "text": "Effect of presumptions if there is controverting evidence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3061",
+      "number": "306.1.",
+      "heading": "Presumption of causation of injuries",
+      "text": "Presumption of causation of injuries",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-307",
+      "number": "307.",
+      "heading": "Jury instructions",
+      "text": "Jury instructions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-308",
+      "number": "308.",
+      "heading": "Effect of the term \"prima facie\" in legislation",
+      "text": "Effect of the term \"prima facie\" in legislation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-401",
+      "number": "401.",
+      "heading": "Definition of \"relevant evidence\"",
+      "text": "Definition of \"relevant evidence\"",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-402",
+      "number": "402.",
+      "heading": "Relevant evidence generally admissible; irrelevant evidence inadmissible",
+      "text": "Relevant evidence generally admissible; irrelevant evidence inadmissible",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-403",
+      "number": "403.",
+      "heading": "Exclusion of relevant evidence on grounds of prejudice, confusion, or waste of time",
+      "text": "Exclusion of relevant evidence on grounds of prejudice, confusion, or waste of time",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-404",
+      "number": "404.",
+      "heading": "Character evidence generally not admissible in civil or criminal trial to prove conduct; exceptions; other criminal acts",
+      "text": "Character evidence generally not admissible in civil or criminal trial to prove conduct; exceptions; other criminal acts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-405",
+      "number": "405.",
+      "heading": "Methods of proving character",
+      "text": "Methods of proving character",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-406",
+      "number": "406.",
+      "heading": "Habit; routine practice; methods of proof",
+      "text": "Habit; routine practice; methods of proof",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-407",
+      "number": "407.",
+      "heading": "Subsequent remedial measures",
+      "text": "Subsequent remedial measures",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-408",
+      "number": "408.",
+      "heading": "Compromise and offers to compromise",
+      "text": "Compromise and offers to compromise",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-409",
+      "number": "409.",
+      "heading": "Payment of medical and similar expenses",
+      "text": "Payment of medical and similar expenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-410",
+      "number": "410.",
+      "heading": "Inadmissibility of pleas, plea discussions, and related statements",
+      "text": "Inadmissibility of pleas, plea discussions, and related statements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-411",
+      "number": "411.",
+      "heading": "Liability insurance",
+      "text": "Liability insurance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-412",
+      "number": "412.",
+      "heading": "Victim's past sexual behavior in sexual assault cases; trafficking offenses",
+      "text": "Victim's past sexual behavior in sexual assault cases; trafficking offenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4121",
+      "number": "412.1.",
+      "heading": "Victim's attire in sexual assault cases",
+      "text": "Victim's attire in sexual assault cases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4122",
+      "number": "412.2.",
+      "heading": "Evidence of similar crimes, wrongs, or acts in sex offense cases",
+      "text": "Evidence of similar crimes, wrongs, or acts in sex offense cases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4123",
+      "number": "412.3.",
+      "heading": "Statements made by victims of trafficking during investigations",
+      "text": "Statements made by victims of trafficking during investigations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4124",
+      "number": "412.4.",
+      "heading": "Evidence of similar crimes, wrongs, or acts in domestic abuse cases, cruelty against juveniles cases",
+      "text": "Evidence of similar crimes, wrongs, or acts in domestic abuse cases, cruelty against juveniles cases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4125",
+      "number": "412.5.",
+      "heading": "Evidence of similar crimes, wrongs, or acts in certain civil cases",
+      "text": "Evidence of similar crimes, wrongs, or acts in certain civil cases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-413",
+      "number": "413.",
+      "heading": "Settlement or tender",
+      "text": "Settlement or tender",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-414",
+      "number": "414.",
+      "heading": "Worker's compensation payments",
+      "text": "Worker's compensation payments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-415",
+      "number": "415.",
+      "heading": "Act of contacting or retaining an attorney",
+      "text": "Act of contacting or retaining an attorney",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501",
+      "number": "501.",
+      "heading": "Scope of privileges",
+      "text": "Scope of privileges",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502",
+      "number": "502.",
+      "heading": "Waiver of privilege",
+      "text": "Waiver of privilege",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-503",
+      "number": "503.",
+      "heading": "Comment on or inference from claim of privilege; instructions; exception",
+      "text": "Comment on or inference from claim of privilege; instructions; exception",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-504",
+      "number": "504.",
+      "heading": "Spousal confidential communications privilege",
+      "text": "Spousal confidential communications privilege",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-505",
+      "number": "505.",
+      "heading": "Spousal witness privilege",
+      "text": "Spousal witness privilege",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-506",
+      "number": "506.",
+      "heading": "Lawyer-client privilege",
+      "text": "Lawyer-client privilege",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-507",
+      "number": "507.",
+      "heading": "Subpoena of lawyer or his representative in criminal cases",
+      "text": "Subpoena of lawyer or his representative in criminal cases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-508",
+      "number": "508.",
+      "heading": "Subpoena of lawyer or his representative in civil cases",
+      "text": "Subpoena of lawyer or his representative in civil cases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-509",
+      "number": "509.",
+      "heading": "Work product rule not affected",
+      "text": "Work product rule not affected",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-510",
+      "number": "510.",
+      "heading": "Health care provider-patient privilege",
+      "text": "Health care provider-patient privilege",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-511",
+      "number": "511.",
+      "heading": "Communications to clergymen",
+      "text": "Communications to clergymen",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-512",
+      "number": "512.",
+      "heading": "Political vote",
+      "text": "Political vote",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-513",
+      "number": "513.",
+      "heading": "Trade secrets",
+      "text": "Trade secrets",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-514",
+      "number": "514.",
+      "heading": "Identity of informer",
+      "text": "Identity of informer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-515",
+      "number": "515.",
+      "heading": "Accountant-client privilege",
+      "text": "Accountant-client privilege",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-516",
+      "number": "516.",
+      "heading": "Subpoena of accountant or his representative in criminal cases",
+      "text": "Subpoena of accountant or his representative in criminal cases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-517",
+      "number": "517.",
+      "heading": "Subpoena of accountant; civil, juvenile, administrative proceedings",
+      "text": "Subpoena of accountant; civil, juvenile, administrative proceedings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-518",
+      "number": "518.",
+      "heading": "Trained peer support member privilege",
+      "text": "Trained peer support member privilege",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-519",
+      "number": "519.",
+      "heading": "Subpoena of judge or his representative in civil and criminal cases",
+      "text": "Subpoena of judge or his representative in civil and criminal cases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-601",
+      "number": "601.",
+      "heading": "General rule of competency",
+      "text": "General rule of competency",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-602",
+      "number": "602.",
+      "heading": "Lack of personal knowledge",
+      "text": "Lack of personal knowledge",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-603",
+      "number": "603.",
+      "heading": "Oath or affirmation",
+      "text": "Oath or affirmation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-604",
+      "number": "604.",
+      "heading": "Interpreters",
+      "text": "Interpreters",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6041",
+      "number": "604.1.",
+      "heading": "Qualifications of interpreters; interpretations",
+      "text": "Qualifications of interpreters; interpretations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-605",
+      "number": "605.",
+      "heading": "Disqualification of judge as witness",
+      "text": "Disqualification of judge as witness",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-606",
+      "number": "606.",
+      "heading": "Disqualification of juror as witness",
+      "text": "Disqualification of juror as witness",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-607",
+      "number": "607.",
+      "heading": "Attacking and supporting credibility generally",
+      "text": "Attacking and supporting credibility generally",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-608",
+      "number": "608.",
+      "heading": "Attacking or supporting credibility by character evidence",
+      "text": "Attacking or supporting credibility by character evidence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-609",
+      "number": "609.",
+      "heading": "Attacking credibility by evidence of conviction of crime in civil cases",
+      "text": "Attacking credibility by evidence of conviction of crime in civil cases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6091",
+      "number": "609.1.",
+      "heading": "Attacking credibility by evidence of conviction of crime in criminal cases",
+      "text": "Attacking credibility by evidence of conviction of crime in criminal cases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-610",
+      "number": "610",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-611",
+      "number": "611.",
+      "heading": "Mode and order of interrogation and presentation",
+      "text": "Mode and order of interrogation and presentation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612",
+      "number": "612.",
+      "heading": "Writing used to refresh memory",
+      "text": "Writing used to refresh memory",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-613",
+      "number": "613.",
+      "heading": "Foundation for extrinsic attack on credibility",
+      "text": "Foundation for extrinsic attack on credibility",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-614",
+      "number": "614.",
+      "heading": "Calling and questioning of witnesses by court",
+      "text": "Calling and questioning of witnesses by court",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-615",
+      "number": "615.",
+      "heading": "Exclusion of witnesses",
+      "text": "Exclusion of witnesses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-701",
+      "number": "701.",
+      "heading": "Opinion testimony by lay witnesses",
+      "text": "Opinion testimony by lay witnesses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-702",
+      "number": "702.",
+      "heading": "Testimony by experts",
+      "text": "Testimony by experts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-703",
+      "number": "703.",
+      "heading": "Bases of opinion testimony by experts",
+      "text": "Bases of opinion testimony by experts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-704",
+      "number": "704.",
+      "heading": "Opinion on ultimate issue",
+      "text": "Opinion on ultimate issue",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-705",
+      "number": "705.",
+      "heading": "Disclosure of facts or data underlying expert opinion; foundation",
+      "text": "Disclosure of facts or data underlying expert opinion; foundation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-706",
+      "number": "706.",
+      "heading": "Court appointed experts",
+      "text": "Court appointed experts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-801",
+      "number": "801.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-802",
+      "number": "802.",
+      "heading": "Hearsay rule",
+      "text": "Hearsay rule",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-803",
+      "number": "803.",
+      "heading": "Hearsay exceptions; availability of declarant immaterial",
+      "text": "Hearsay exceptions; availability of declarant immaterial",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8031",
+      "number": "803.1.",
+      "heading": "Hearsay exceptions; foreign records of regularly conducted activity",
+      "text": "Hearsay exceptions; foreign records of regularly conducted activity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-804",
+      "number": "804.",
+      "heading": "Hearsay exceptions; declarant unavailable",
+      "text": "Hearsay exceptions; declarant unavailable",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-805",
+      "number": "805.",
+      "heading": "Hearsay within hearsay",
+      "text": "Hearsay within hearsay",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-806",
+      "number": "806.",
+      "heading": "Attacking and supporting credibility of declarant",
+      "text": "Attacking and supporting credibility of declarant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-901",
+      "number": "901.",
+      "heading": "Requirement of authentication or identification",
+      "text": "Requirement of authentication or identification",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-902",
+      "number": "902.",
+      "heading": "Self-authentication",
+      "text": "Self-authentication",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-903",
+      "number": "903.",
+      "heading": "Subscribing witness' testimony unnecessary",
+      "text": "Subscribing witness' testimony unnecessary",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-904",
+      "number": "904.",
+      "heading": "Self-authentication of copies of public documents",
+      "text": "Self-authentication of copies of public documents",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-905",
+      "number": "905.",
+      "heading": "Self-authentication of other public records",
+      "text": "Self-authentication of other public records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1001",
+      "number": "1001.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1002",
+      "number": "1002.",
+      "heading": "Requirement of original",
+      "text": "Requirement of original",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1003",
+      "number": "1003.",
+      "heading": "Admissibility of duplicates",
+      "text": "Admissibility of duplicates",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10031",
+      "number": "1003.1.",
+      "heading": "Electronic duplicates",
+      "text": "Electronic duplicates",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1004",
+      "number": "1004.",
+      "heading": "Admissibility of other evidence of contents",
+      "text": "Admissibility of other evidence of contents",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1005",
+      "number": "1005.",
+      "heading": "Public records",
+      "text": "Public records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1006",
+      "number": "1006.",
+      "heading": "Summaries",
+      "text": "Summaries",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1007",
+      "number": "1007.",
+      "heading": "Testimony or written admission of party",
+      "text": "Testimony or written admission of party",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1008",
+      "number": "1008.",
+      "heading": "Functions of court and jury",
+      "text": "Functions of court and jury",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1101",
+      "number": "1101.",
+      "heading": "Applicability",
+      "text": "Applicability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1102",
+      "number": "1102.",
+      "heading": "Title",
+      "text": "Title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1103",
+      "number": "1103.",
+      "heading": "Repealed by Acts 1995, No. 1300, 2.",
+      "text": "Repealed by Acts 1995, No. 1300, 2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1104",
+      "number": "1104.",
+      "heading": "State v. Prieur; pretrial; burden of proof",
+      "text": "State v. Prieur; pretrial; burden of proof",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1105",
+      "number": "1105.",
+      "heading": "Burden of proof; civil proceedings",
+      "text": "Burden of proof; civil proceedings",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

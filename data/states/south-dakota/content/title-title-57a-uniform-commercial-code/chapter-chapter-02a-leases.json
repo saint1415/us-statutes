@@ -1,0 +1,638 @@
+{
+  "state": "south-dakota",
+  "path": "title-title-57a-uniform-commercial-code/chapter-chapter-02a-leases",
+  "sections": [
+    {
+      "id": "section-57a-2a-101",
+      "number": "57A-2A-101",
+      "heading": "Short title.Section 57A-2A-102 - Scope",
+      "text": "Section 57A-2A-103 - Definitions and index of definitions.Section 57A-2A-104 - Leases subject to other statutes.Section 57A-2A-105 - Territorial application of article to goods covered by certificate of title.Section 57A-2A-106 - Limitation on power of parties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-102",
+      "number": "57A-2A-102",
+      "heading": "Scope.",
+      "text": "Scope.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-103",
+      "number": "57A-2A-103",
+      "heading": "Definitions and index of definitions.",
+      "text": "Definitions and index of definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-104",
+      "number": "57A-2A-104",
+      "heading": "Leases subject to other statutes.",
+      "text": "Leases subject to other statutes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-105",
+      "number": "57A-2A-105",
+      "heading": "Territorial application of article to goods covered by certificate of title.",
+      "text": "Territorial application of article to goods covered by certificate of title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-106",
+      "number": "57A-2A-106",
+      "heading": "Limitation on power of parties to consumer lease to choose applicable law and judicial forum.",
+      "text": "Limitation on power of parties to consumer lease to choose applicable law and judicial forum.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-107",
+      "number": "57A-2A-107",
+      "heading": "Waiver or renunciation of claim or right after default.",
+      "text": "Waiver or renunciation of claim or right after default.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-108",
+      "number": "57A-2A-108",
+      "heading": "Unconscionability.",
+      "text": "Unconscionability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-109",
+      "number": "57A-2A-109",
+      "heading": "57A-2A-109.Repealed by SL 1990, ch 390, §4",
+      "text": "57A-2A-109.Repealed by SL 1990, ch 390, §4",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-201",
+      "number": "57A-2A-201",
+      "heading": "Statute of frauds.",
+      "text": "Statute of frauds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-202",
+      "number": "57A-2A-202",
+      "heading": "Final expression--Parol or extrinsic evidence.",
+      "text": "Final expression--Parol or extrinsic evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-203",
+      "number": "57A-2A-203",
+      "heading": "Seals inoperative.",
+      "text": "Seals inoperative.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-204",
+      "number": "57A-2A-204",
+      "heading": "Formation in general.",
+      "text": "Formation in general.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-205",
+      "number": "57A-2A-205",
+      "heading": "Firm offers.",
+      "text": "Firm offers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-206",
+      "number": "57A-2A-206",
+      "heading": "Offer and acceptance in formation of lease contract.",
+      "text": "Offer and acceptance in formation of lease contract.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-207",
+      "number": "57A-2A-207",
+      "heading": "57A-2A-207.Repealed by SL 2008, ch 259, §29.",
+      "text": "57A-2A-207.Repealed by SL 2008, ch 259, §29.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-208",
+      "number": "57A-2A-208",
+      "heading": "Modification, rescission, and waiver.",
+      "text": "Modification, rescission, and waiver.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-209",
+      "number": "57A-2A-209",
+      "heading": "Lessee under finance lease as beneficiary of supply contract.",
+      "text": "Lessee under finance lease as beneficiary of supply contract.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-210",
+      "number": "57A-2A-210",
+      "heading": "Express warranties.",
+      "text": "Express warranties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-211",
+      "number": "57A-2A-211",
+      "heading": "Warranties against interference and against infringement; lessee's obligation against infringement.",
+      "text": "Warranties against interference and against infringement; lessee's obligation against infringement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-212",
+      "number": "57A-2A-212",
+      "heading": "Implied warranty of merchantability.",
+      "text": "Implied warranty of merchantability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-213",
+      "number": "57A-2A-213",
+      "heading": "Implied warranty of fitness for particular purpose.",
+      "text": "Implied warranty of fitness for particular purpose.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-214",
+      "number": "57A-2A-214",
+      "heading": "Exclusion or modification of warranties.",
+      "text": "Exclusion or modification of warranties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-215",
+      "number": "57A-2A-215",
+      "heading": "Cumulation and conflict of warranties express or implied.",
+      "text": "Cumulation and conflict of warranties express or implied.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-216",
+      "number": "57A-2A-216",
+      "heading": "Third party beneficiaries of express and implied warranties.",
+      "text": "Third party beneficiaries of express and implied warranties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-217",
+      "number": "57A-2A-217",
+      "heading": "Identification.",
+      "text": "Identification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-218",
+      "number": "57A-2A-218",
+      "heading": "Insurance and proceeds.",
+      "text": "Insurance and proceeds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-219",
+      "number": "57A-2A-219",
+      "heading": "Risk of loss.",
+      "text": "Risk of loss.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-220",
+      "number": "57A-2A-220",
+      "heading": "Effect of default on risk of loss.",
+      "text": "Effect of default on risk of loss.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-221",
+      "number": "57A-2A-221",
+      "heading": "Casualty to identified goods.",
+      "text": "Casualty to identified goods.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-301",
+      "number": "57A-2A-301",
+      "heading": "Enforceability of lease contract.",
+      "text": "Enforceability of lease contract.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-302",
+      "number": "57A-2A-302",
+      "heading": "Title to and possession of goods.",
+      "text": "Title to and possession of goods.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-303",
+      "number": "57A-2A-303",
+      "heading": "Alienability of party's interest under lease contract or of lessor's residual interest in goods; delegation of performance; assignment of rights.",
+      "text": "Alienability of party's interest under lease contract or of lessor's residual interest in goods; delegation of performance; assignment of rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-304",
+      "number": "57A-2A-304",
+      "heading": "Subsequent lease of goods by lessor.",
+      "text": "Subsequent lease of goods by lessor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-305",
+      "number": "57A-2A-305",
+      "heading": "Sale or sublease of goods by lessee.",
+      "text": "Sale or sublease of goods by lessee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-306",
+      "number": "57A-2A-306",
+      "heading": "Priority of certain liens arising by operation of law.",
+      "text": "Priority of certain liens arising by operation of law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-307",
+      "number": "57A-2A-307",
+      "heading": "Priority of liens arising by attachment or levy on, security interests in, and other claims to goods.",
+      "text": "Priority of liens arising by attachment or levy on, security interests in, and other claims to goods.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-308",
+      "number": "57A-2A-308",
+      "heading": "Special rights of creditors.",
+      "text": "Special rights of creditors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-309",
+      "number": "57A-2A-309",
+      "heading": "Lessor's and lessee's rights when goods become fixtures.",
+      "text": "Lessor's and lessee's rights when goods become fixtures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-310",
+      "number": "57A-2A-310",
+      "heading": "Lessor's and lessee's rights when goods become accessions.",
+      "text": "Lessor's and lessee's rights when goods become accessions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-401",
+      "number": "57A-2A-401",
+      "heading": "Insecurity: adequate assurance of performance.",
+      "text": "Insecurity: adequate assurance of performance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-402",
+      "number": "57A-2A-402",
+      "heading": "Anticipatory repudiation.",
+      "text": "Anticipatory repudiation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-403",
+      "number": "57A-2A-403",
+      "heading": "Retraction of anticipatory repudiation.",
+      "text": "Retraction of anticipatory repudiation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-404",
+      "number": "57A-2A-404",
+      "heading": "Substituted performance.",
+      "text": "Substituted performance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-405",
+      "number": "57A-2A-405",
+      "heading": "Excused performance.",
+      "text": "Excused performance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-406",
+      "number": "57A-2A-406",
+      "heading": "Procedure on excused performance.",
+      "text": "Procedure on excused performance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-407",
+      "number": "57A-2A-407",
+      "heading": "Irrevocable promises: finance leases.",
+      "text": "Irrevocable promises: finance leases.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-501",
+      "number": "57A-2A-501",
+      "heading": "Default procedure.",
+      "text": "Default procedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-502",
+      "number": "57A-2A-502",
+      "heading": "Notice after default.",
+      "text": "Notice after default.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-503",
+      "number": "57A-2A-503",
+      "heading": "Modification or impairment of rights and remedies.",
+      "text": "Modification or impairment of rights and remedies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-504",
+      "number": "57A-2A-504",
+      "heading": "Liquidation of damages.",
+      "text": "Liquidation of damages.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-505",
+      "number": "57A-2A-505",
+      "heading": "Cancellation and termination and effect of cancellation, termination, rescission, or fraud on rights and remedies.",
+      "text": "Cancellation and termination and effect of cancellation, termination, rescission, or fraud on rights and remedies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-506",
+      "number": "57A-2A-506",
+      "heading": "Statute of limitations.",
+      "text": "Statute of limitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-507",
+      "number": "57A-2A-507",
+      "heading": "Proof of market rent: time and place.",
+      "text": "Proof of market rent: time and place.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-508",
+      "number": "57A-2A-508",
+      "heading": "Lessee's remedies.",
+      "text": "Lessee's remedies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-509",
+      "number": "57A-2A-509",
+      "heading": "Lessee's rights on improper delivery--Rightful rejection.",
+      "text": "Lessee's rights on improper delivery--Rightful rejection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-510",
+      "number": "57A-2A-510",
+      "heading": "Installment lease contracts: rejection and default.",
+      "text": "Installment lease contracts: rejection and default.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-511",
+      "number": "57A-2A-511",
+      "heading": "Merchant lessee's duties as to rightfully rejected goods.",
+      "text": "Merchant lessee's duties as to rightfully rejected goods.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-512",
+      "number": "57A-2A-512",
+      "heading": "Lessee's duties as to rightfully rejected goods.",
+      "text": "Lessee's duties as to rightfully rejected goods.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-513",
+      "number": "57A-2A-513",
+      "heading": "Cure by lessor of improper delivery--Replacement.",
+      "text": "Cure by lessor of improper delivery--Replacement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-514",
+      "number": "57A-2A-514",
+      "heading": "Waiver of lessee's objections.",
+      "text": "Waiver of lessee's objections.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-515",
+      "number": "57A-2A-515",
+      "heading": "Acceptance of goods.",
+      "text": "Acceptance of goods.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-516",
+      "number": "57A-2A-516",
+      "heading": "Effect of acceptance of goods--Notice of default--Burden of establishing default after acceptance--Notice of claim or litigation to person answerable over",
+      "text": "Effect of acceptance of goods--Notice of default--Burden of establishing default after acceptance--Notice of claim or litigation to person answerable over.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-517",
+      "number": "57A-2A-517",
+      "heading": "Revocation of acceptance of goods.",
+      "text": "Revocation of acceptance of goods.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-518",
+      "number": "57A-2A-518",
+      "heading": "Cover--Substitute goods.",
+      "text": "Cover--Substitute goods.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-519",
+      "number": "57A-2A-519",
+      "heading": "Lessee's damages for nondelivery, repudiation, default and breach of warranty in regard to accepted goods.",
+      "text": "Lessee's damages for nondelivery, repudiation, default and breach of warranty in regard to accepted goods.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-520",
+      "number": "57A-2A-520",
+      "heading": "Lessee's incidental and consequential damages.",
+      "text": "Lessee's incidental and consequential damages.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-521",
+      "number": "57A-2A-521",
+      "heading": "Lessee's right to specific performance or replevin.",
+      "text": "Lessee's right to specific performance or replevin.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-522",
+      "number": "57A-2A-522",
+      "heading": "Lessee's right to goods on lessor's insolvency.",
+      "text": "Lessee's right to goods on lessor's insolvency.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-523",
+      "number": "57A-2A-523",
+      "heading": "Lessor's rights.",
+      "text": "Lessor's rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-524",
+      "number": "57A-2A-524",
+      "heading": "Lessor's right to identify goods to lease contract.",
+      "text": "Lessor's right to identify goods to lease contract.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-525",
+      "number": "57A-2A-525",
+      "heading": "Lessor's right to possession of goods.",
+      "text": "Lessor's right to possession of goods.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-526",
+      "number": "57A-2A-526",
+      "heading": "Lessor's stoppage of delivery in transit or otherwise.",
+      "text": "Lessor's stoppage of delivery in transit or otherwise.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-527",
+      "number": "57A-2A-527",
+      "heading": "Lessor's rights to dispose of goods.",
+      "text": "Lessor's rights to dispose of goods.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-528",
+      "number": "57A-2A-528",
+      "heading": "Lessor's damages for nonacceptance or repudiation.",
+      "text": "Lessor's damages for nonacceptance or repudiation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-529",
+      "number": "57A-2A-529",
+      "heading": "Lessor's action for a rent.",
+      "text": "Lessor's action for a rent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-530",
+      "number": "57A-2A-530",
+      "heading": "Lessor's incidental damages.",
+      "text": "Lessor's incidental damages.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-5301",
+      "number": "57A-2A-530.1",
+      "heading": "Lessor's right to recover for damage to residual interest.",
+      "text": "Lessor's right to recover for damage to residual interest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57a-2a-531",
+      "number": "57A-2A-531",
+      "heading": "Standing to sue third parties for injury to goods.",
+      "text": "Standing to sue third parties for injury to goods.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

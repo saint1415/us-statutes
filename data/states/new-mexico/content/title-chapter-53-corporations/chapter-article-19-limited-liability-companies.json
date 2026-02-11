@@ -1,0 +1,646 @@
+{
+  "state": "new-mexico",
+  "path": "title-chapter-53-corporations/chapter-article-19-limited-liability-companies",
+  "sections": [
+    {
+      "id": "section-53-19-1",
+      "number": "53-19-1",
+      "heading": "Short title.Section 53-19-2 - Definitions",
+      "text": "Section 53-19-3 - Name.Section 53-19-4 - Reservation of name.Section 53-19-5 - Registered office and registered agent; change of principal place of business.Section 53-19-6 - Nature and duration of business.Section 53-19-7 - Formation.Section 53-19-8 - Artic",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-2",
+      "number": "53-19-2",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-3",
+      "number": "53-19-3",
+      "heading": "Name.",
+      "text": "Name.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-4",
+      "number": "53-19-4",
+      "heading": "Reservation of name.",
+      "text": "Reservation of name.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-5",
+      "number": "53-19-5",
+      "heading": "Registered office and registered agent; change of principal place of business.",
+      "text": "Registered office and registered agent; change of principal place of business.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-6",
+      "number": "53-19-6",
+      "heading": "Nature and duration of business.",
+      "text": "Nature and duration of business.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-7",
+      "number": "53-19-7",
+      "heading": "Formation.",
+      "text": "Formation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-8",
+      "number": "53-19-8",
+      "heading": "Articles of organization.",
+      "text": "Articles of organization.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-9",
+      "number": "53-19-9",
+      "heading": "Filing.",
+      "text": "Filing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-10",
+      "number": "53-19-10",
+      "heading": "Effect of filing of articles of organization.",
+      "text": "Effect of filing of articles of organization.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-11",
+      "number": "53-19-11",
+      "heading": "Amendment and restatement of articles of organization.",
+      "text": "Amendment and restatement of articles of organization.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-12",
+      "number": "53-19-12",
+      "heading": "Execution of documents.",
+      "text": "Execution of documents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-13",
+      "number": "53-19-13",
+      "heading": "Liability of members and managers to third parties.",
+      "text": "Liability of members and managers to third parties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-14",
+      "number": "53-19-14",
+      "heading": "Parties to actions.",
+      "text": "Parties to actions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-15",
+      "number": "53-19-15",
+      "heading": "Management by members or managers.",
+      "text": "Management by members or managers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-16",
+      "number": "53-19-16",
+      "heading": "Liabilities and duties of managers and members.",
+      "text": "Liabilities and duties of managers and members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-17",
+      "number": "53-19-17",
+      "heading": "Voting.",
+      "text": "Voting.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-18",
+      "number": "53-19-18",
+      "heading": "Indemnification of members and managers.",
+      "text": "Indemnification of members and managers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-19",
+      "number": "53-19-19",
+      "heading": "Records and information.",
+      "text": "Records and information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-20",
+      "number": "53-19-20",
+      "heading": "Contributions to capital; certificates of membership interest.",
+      "text": "Contributions to capital; certificates of membership interest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-21",
+      "number": "53-19-21",
+      "heading": "Liability for contribution.",
+      "text": "Liability for contribution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-22",
+      "number": "53-19-22",
+      "heading": "Sharing of profits and losses.",
+      "text": "Sharing of profits and losses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-23",
+      "number": "53-19-23",
+      "heading": "Sharing of interim distributions.",
+      "text": "Sharing of interim distributions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-24",
+      "number": "53-19-24",
+      "heading": "Distribution on event of dissociation.",
+      "text": "Distribution on event of dissociation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-25",
+      "number": "53-19-25",
+      "heading": "Withdrawals of capital and distributions in kind.",
+      "text": "Withdrawals of capital and distributions in kind.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-26",
+      "number": "53-19-26",
+      "heading": "Wrongful distributions.",
+      "text": "Wrongful distributions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-27",
+      "number": "53-19-27",
+      "heading": "Liability upon wrongful distribution.",
+      "text": "Liability upon wrongful distribution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-28",
+      "number": "53-19-28",
+      "heading": "Right to distribution.",
+      "text": "Right to distribution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-29",
+      "number": "53-19-29",
+      "heading": "Ownership of property by the limited liability company.",
+      "text": "Ownership of property by the limited liability company.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-30",
+      "number": "53-19-30",
+      "heading": "Transfer of property of limited liability company.",
+      "text": "Transfer of property of limited liability company.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-31",
+      "number": "53-19-31",
+      "heading": "Nature of membership interest.",
+      "text": "Nature of membership interest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-32",
+      "number": "53-19-32",
+      "heading": "Assignment of interests.",
+      "text": "Assignment of interests.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-33",
+      "number": "53-19-33",
+      "heading": "Right of assignee to become a member.",
+      "text": "Right of assignee to become a member.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-34",
+      "number": "53-19-34",
+      "heading": "Interest of a deceased, incompetent or terminated member.",
+      "text": "Interest of a deceased, incompetent or terminated member.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-35",
+      "number": "53-19-35",
+      "heading": "Rights of judgment creditor of member.",
+      "text": "Rights of judgment creditor of member.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-36",
+      "number": "53-19-36",
+      "heading": "Admission of members.",
+      "text": "Admission of members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-37",
+      "number": "53-19-37",
+      "heading": "Voluntary withdrawal of members.",
+      "text": "Voluntary withdrawal of members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-38",
+      "number": "53-19-38",
+      "heading": "Events of dissociation.",
+      "text": "Events of dissociation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-39",
+      "number": "53-19-39",
+      "heading": "Dissolution.",
+      "text": "Dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-40",
+      "number": "53-19-40",
+      "heading": "Judicial dissolution.",
+      "text": "Judicial dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-41",
+      "number": "53-19-41",
+      "heading": "Articles of dissolution.",
+      "text": "Articles of dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-42",
+      "number": "53-19-42",
+      "heading": "Winding up.",
+      "text": "Winding up.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-43",
+      "number": "53-19-43",
+      "heading": "Power of managers or members after dissolution.",
+      "text": "Power of managers or members after dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-44",
+      "number": "53-19-44",
+      "heading": "Distribution of assets.",
+      "text": "Distribution of assets.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-45",
+      "number": "53-19-45",
+      "heading": "Known claims against dissolved limited liability company.",
+      "text": "Known claims against dissolved limited liability company.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-46",
+      "number": "53-19-46",
+      "heading": "Unknown claims against dissolved limited liability company.",
+      "text": "Unknown claims against dissolved limited liability company.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-47",
+      "number": "53-19-47",
+      "heading": "Laws governing foreign limited liability company.",
+      "text": "Laws governing foreign limited liability company.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-48",
+      "number": "53-19-48",
+      "heading": "Registration.",
+      "text": "Registration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-49",
+      "number": "53-19-49",
+      "heading": "Issuance of registration.",
+      "text": "Issuance of registration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-50",
+      "number": "53-19-50",
+      "heading": "Name.",
+      "text": "Name.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-51",
+      "number": "53-19-51",
+      "heading": "Amended certificate of registration.",
+      "text": "Amended certificate of registration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-52",
+      "number": "53-19-52",
+      "heading": "Cancellation of registration.",
+      "text": "Cancellation of registration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-53",
+      "number": "53-19-53",
+      "heading": "Transaction of business without registration.",
+      "text": "Transaction of business without registration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-54",
+      "number": "53-19-54",
+      "heading": "Transactions not constituting transacting business.",
+      "text": "Transactions not constituting transacting business.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-55",
+      "number": "53-19-55",
+      "heading": "Service of process.",
+      "text": "Service of process.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-56",
+      "number": "53-19-56",
+      "heading": "Action by attorney general.",
+      "text": "Action by attorney general.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-57",
+      "number": "53-19-57",
+      "heading": "Suits by and against the limited liability company.",
+      "text": "Suits by and against the limited liability company.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-58",
+      "number": "53-19-58",
+      "heading": "Authority to sue on behalf of limited liability company.",
+      "text": "Authority to sue on behalf of limited liability company.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-59",
+      "number": "53-19-59",
+      "heading": "Conversions and mergers; definitions.",
+      "text": "Conversions and mergers; definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-60",
+      "number": "53-19-60",
+      "heading": "Conversions and mergers; conversion of corporation, partnership or limited partnership to limited liability company.",
+      "text": "Conversions and mergers; conversion of corporation, partnership or limited partnership to limited liability company.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-601",
+      "number": "53-19-60.1",
+      "heading": "Conversions and mergers; conversion of limited liability company to corporation, partnership or limited partnership.",
+      "text": "Conversions and mergers; conversion of limited liability company to corporation, partnership or limited partnership.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-61",
+      "number": "53-19-61",
+      "heading": "Conversions and mergers; effect of conversion.",
+      "text": "Conversions and mergers; effect of conversion.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-62",
+      "number": "53-19-62",
+      "heading": "Conversions and merger of entities.",
+      "text": "Conversions and merger of entities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-621",
+      "number": "53-19-62.1",
+      "heading": "Conversion and mergers; articles of merger.",
+      "text": "Conversion and mergers; articles of merger.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-622",
+      "number": "53-19-62.2",
+      "heading": "Conversions and mergers; effect of merger.",
+      "text": "Conversions and mergers; effect of merger.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-623",
+      "number": "53-19-62.3",
+      "heading": "Conversion and mergers; non-exclusivity.",
+      "text": "Conversion and mergers; non-exclusivity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-63",
+      "number": "53-19-63",
+      "heading": "Filing, service and copying fees.",
+      "text": "Filing, service and copying fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-64",
+      "number": "53-19-64",
+      "heading": "Execution by judicial act.",
+      "text": "Execution by judicial act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-65",
+      "number": "53-19-65",
+      "heading": "Rules of construction.",
+      "text": "Rules of construction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-66",
+      "number": "53-19-66",
+      "heading": "Powers of commission [secretary of state].",
+      "text": "Powers of commission [secretary of state].",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-661",
+      "number": "53-19-66.1",
+      "heading": "Administrative revocation.",
+      "text": "Administrative revocation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-662",
+      "number": "53-19-66.2",
+      "heading": "Reinstatement following administrative revocation.",
+      "text": "Reinstatement following administrative revocation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-67",
+      "number": "53-19-67",
+      "heading": "Appeal from commission [secretary of state].",
+      "text": "Appeal from commission [secretary of state].",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-68",
+      "number": "53-19-68",
+      "heading": "Issuance of certificate of good standing and compliance.",
+      "text": "Issuance of certificate of good standing and compliance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-69",
+      "number": "53-19-69",
+      "heading": "Certificates and certified copies to be received in evidence.",
+      "text": "Certificates and certified copies to be received in evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-70",
+      "number": "53-19-70",
+      "heading": "Forms furnished by the commission [secretary of state].",
+      "text": "Forms furnished by the commission [secretary of state].",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-71",
+      "number": "53-19-71",
+      "heading": "Application to existing limited liability companies.",
+      "text": "Application to existing limited liability companies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-72",
+      "number": "53-19-72",
+      "heading": "Application to foreign and interstate commerce.",
+      "text": "Application to foreign and interstate commerce.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-73",
+      "number": "53-19-73",
+      "heading": "Reservation of power.",
+      "text": "Reservation of power.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-19-74",
+      "number": "53-19-74",
+      "heading": "Commission's [secretary of state's] retention of records.",
+      "text": "Commission's [secretary of state's] retention of records.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

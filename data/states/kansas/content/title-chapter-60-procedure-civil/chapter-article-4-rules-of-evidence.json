@@ -1,0 +1,654 @@
+{
+  "state": "kansas",
+  "path": "title-chapter-60-procedure-civil/chapter-article-4-rules-of-evidence",
+  "sections": [
+    {
+      "id": "section-60-401",
+      "number": "60-401",
+      "heading": "Definitions.60-402 Scope of rules",
+      "text": "60-403 Exclusionary rules not to apply to undisputed matter.60-404 Effect of erroneous admission of evidence.60-405 Effect of erroneous exclusion of evidence.60-406 Limited admissibility.60-407 General abolition of disqualifications and privileges of witnesses, and",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-402",
+      "number": "60-402",
+      "heading": "Scope of rules.",
+      "text": "Scope of rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-403",
+      "number": "60-403",
+      "heading": "Exclusionary rules not to apply to undisputed matter.",
+      "text": "Exclusionary rules not to apply to undisputed matter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-404",
+      "number": "60-404",
+      "heading": "Effect of erroneous admission of evidence.",
+      "text": "Effect of erroneous admission of evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-405",
+      "number": "60-405",
+      "heading": "Effect of erroneous exclusion of evidence.",
+      "text": "Effect of erroneous exclusion of evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-406",
+      "number": "60-406",
+      "heading": "Limited admissibility.",
+      "text": "Limited admissibility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-407",
+      "number": "60-407",
+      "heading": "General abolition of disqualifications and privileges of witnesses, and of exclusionary rules.",
+      "text": "General abolition of disqualifications and privileges of witnesses, and of exclusionary rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-408",
+      "number": "60-408",
+      "heading": "Preliminary inquiry by judge.",
+      "text": "Preliminary inquiry by judge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-409",
+      "number": "60-409",
+      "heading": "Facts which must or may be judicially noticed.",
+      "text": "Facts which must or may be judicially noticed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-410",
+      "number": "60-410",
+      "heading": "Determination as to propriety of judicial notice and tenor of matter noticed.",
+      "text": "Determination as to propriety of judicial notice and tenor of matter noticed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-411",
+      "number": "60-411",
+      "heading": "Instructing the trier of fact as to matter judicially noticed.",
+      "text": "Instructing the trier of fact as to matter judicially noticed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-412",
+      "number": "60-412",
+      "heading": "Judicial notice in proceedings subsequent to trial.",
+      "text": "Judicial notice in proceedings subsequent to trial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-413",
+      "number": "60-413",
+      "heading": "Definition.",
+      "text": "Definition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-414",
+      "number": "60-414",
+      "heading": "Effect of presumptions.",
+      "text": "Effect of presumptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-415",
+      "number": "60-415",
+      "heading": "Inconsistent presumptions.",
+      "text": "Inconsistent presumptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-416",
+      "number": "60-416",
+      "heading": "Burden of proof not relaxed as to some presumptions; criminal cases, permissive presumption or inference.",
+      "text": "Burden of proof not relaxed as to some presumptions; criminal cases, permissive presumption or inference.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-417",
+      "number": "60-417",
+      "heading": "Disqualification of witness; interpreters.",
+      "text": "Disqualification of witness; interpreters.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-418",
+      "number": "60-418",
+      "heading": "Oath.",
+      "text": "Oath.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-419",
+      "number": "60-419",
+      "heading": "Prerequisites of knowledge and experience.",
+      "text": "Prerequisites of knowledge and experience.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-420",
+      "number": "60-420",
+      "heading": "Evidence generally affecting credibility.",
+      "text": "Evidence generally affecting credibility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-421",
+      "number": "60-421",
+      "heading": "Limitations on evidence of conviction of crime as affecting credibility.",
+      "text": "Limitations on evidence of conviction of crime as affecting credibility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-422",
+      "number": "60-422",
+      "heading": "Further limitations on admissibility of evidence affecting credibility.",
+      "text": "Further limitations on admissibility of evidence affecting credibility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-423",
+      "number": "60-423",
+      "heading": "Privilege of accused.",
+      "text": "Privilege of accused.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-424",
+      "number": "60-424",
+      "heading": "Definition of incrimination.",
+      "text": "Definition of incrimination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-425",
+      "number": "60-425",
+      "heading": "Self-incrimination.",
+      "text": "Self-incrimination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-426",
+      "number": "60-426",
+      "heading": "Attorney-client privilege.",
+      "text": "Attorney-client privilege.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-426a",
+      "number": "60-426a",
+      "heading": "Attorney-client privilege and work product; limitations on waiver.",
+      "text": "Attorney-client privilege and work product; limitations on waiver.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-427",
+      "number": "60-427",
+      "heading": "Physician-patient privilege.",
+      "text": "Physician-patient privilege.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-428",
+      "number": "60-428",
+      "heading": "Marital privilege, confidential communications.",
+      "text": "Marital privilege, confidential communications.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-429",
+      "number": "60-429",
+      "heading": "Penitential communication privilege.",
+      "text": "Penitential communication privilege.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-430",
+      "number": "60-430",
+      "heading": "Religious belief.",
+      "text": "Religious belief.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-431",
+      "number": "60-431",
+      "heading": "Political vote.",
+      "text": "Political vote.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-432",
+      "number": "60-432",
+      "heading": "Trade secret.",
+      "text": "Trade secret.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-433",
+      "number": "60-433",
+      "heading": "Secret of state.",
+      "text": "Secret of state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-434",
+      "number": "60-434",
+      "heading": "Official information.",
+      "text": "Official information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-435",
+      "number": "60-435",
+      "heading": "Communication to grand jury.",
+      "text": "Communication to grand jury.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-436",
+      "number": "60-436",
+      "heading": "Identity of informer.",
+      "text": "Identity of informer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-437",
+      "number": "60-437",
+      "heading": "Waiver of privilege by contract or previous disclosure.",
+      "text": "Waiver of privilege by contract or previous disclosure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-438",
+      "number": "60-438",
+      "heading": "Admissibility of disclosure wrongfully compelled.",
+      "text": "Admissibility of disclosure wrongfully compelled.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-439",
+      "number": "60-439",
+      "heading": "Reference to exercise of privilege; presumption and adverse inference not permitted.",
+      "text": "Reference to exercise of privilege; presumption and adverse inference not permitted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-440",
+      "number": "60-440",
+      "heading": "Effect of error in overruling claim of privilege.",
+      "text": "Effect of error in overruling claim of privilege.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-441",
+      "number": "60-441",
+      "heading": "Evidence to test a verdict or indictment.",
+      "text": "Evidence to test a verdict or indictment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-442",
+      "number": "60-442",
+      "heading": "Testimony by the judge.",
+      "text": "Testimony by the judge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-443",
+      "number": "60-443",
+      "heading": "Testimony by a juror.",
+      "text": "Testimony by a juror.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-444",
+      "number": "60-444",
+      "heading": "Testimony of jurors not limited except by this article.",
+      "text": "Testimony of jurors not limited except by this article.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-445",
+      "number": "60-445",
+      "heading": "Discretion of judge to exclude admissible evidence.",
+      "text": "Discretion of judge to exclude admissible evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-446",
+      "number": "60-446",
+      "heading": "Character — manner of proof.",
+      "text": "Character — manner of proof.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-447",
+      "number": "60-447",
+      "heading": "Character trait as proof of conduct.",
+      "text": "Character trait as proof of conduct.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-448",
+      "number": "60-448",
+      "heading": "Character trait for care or skill.",
+      "text": "Character trait for care or skill.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-449",
+      "number": "60-449",
+      "heading": "Habit or custom to prove specific behavior.",
+      "text": "Habit or custom to prove specific behavior.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-450",
+      "number": "60-450",
+      "heading": "Opinion and specific instances of behavior to prove habit or custom.",
+      "text": "Opinion and specific instances of behavior to prove habit or custom.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-451",
+      "number": "60-451",
+      "heading": "Subsequent remedial conduct.",
+      "text": "Subsequent remedial conduct.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-452",
+      "number": "60-452",
+      "heading": "Offer to compromise and the like, not evidence of liability.",
+      "text": "Offer to compromise and the like, not evidence of liability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-452a",
+      "number": "60-452a",
+      "heading": "Dispute resolution; confidentiality.",
+      "text": "Dispute resolution; confidentiality.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-453",
+      "number": "60-453",
+      "heading": "Offer to discount claim, not evidence of invalidity.",
+      "text": "Offer to discount claim, not evidence of invalidity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-454",
+      "number": "60-454",
+      "heading": "Liability insurance.",
+      "text": "Liability insurance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-455",
+      "number": "60-455",
+      "heading": "Other crimes or civil wrongs.",
+      "text": "Other crimes or civil wrongs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-456",
+      "number": "60-456",
+      "heading": "Testimony in form of opinion or inferences.",
+      "text": "Testimony in form of opinion or inferences.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-457",
+      "number": "60-457",
+      "heading": "Preliminary examination for non-expert witness; pre-trial hearing for expert witness.",
+      "text": "Preliminary examination for non-expert witness; pre-trial hearing for expert witness.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-458",
+      "number": "60-458",
+      "heading": "Expert opinion or inference; facts or data relied upon, admissibility.",
+      "text": "Expert opinion or inference; facts or data relied upon, admissibility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-459",
+      "number": "60-459",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-460",
+      "number": "60-460",
+      "heading": "Hearsay evidence excluded; exceptions.",
+      "text": "Hearsay evidence excluded; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-461",
+      "number": "60-461",
+      "heading": "Discretion of judge under exception to exclude evidence.",
+      "text": "Discretion of judge under exception to exclude evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-462",
+      "number": "60-462",
+      "heading": "Credibility of declarant.",
+      "text": "Credibility of declarant.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-463",
+      "number": "60-463",
+      "heading": "Multiple hearsay.",
+      "text": "Multiple hearsay.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-464",
+      "number": "60-464",
+      "heading": "Authentication or identification of evidence; examples.",
+      "text": "Authentication or identification of evidence; examples.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-465",
+      "number": "60-465",
+      "heading": "Authentication of public documents; self-authenticating evidence.",
+      "text": "Authentication of public documents; self-authenticating evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-465a",
+      "number": "60-465a",
+      "heading": "Reproductions of original court records deemed same as original record; certified copy as evidence.",
+      "text": "Reproductions of original court records deemed same as original record; certified copy as evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-466",
+      "number": "60-466",
+      "heading": "Certificate of lack of record.",
+      "text": "Certificate of lack of record.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-467",
+      "number": "60-467",
+      "heading": "Original document required as evidence; exceptions.",
+      "text": "Original document required as evidence; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-468",
+      "number": "60-468",
+      "heading": "Proof of attested writings.",
+      "text": "Proof of attested writings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-469",
+      "number": "60-469",
+      "heading": "Proving content of business and public records.",
+      "text": "Proving content of business and public records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-470",
+      "number": "60-470",
+      "heading": "Title.",
+      "text": "Title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-472",
+      "number": "60-472",
+      "heading": "Photographs of property wrongfully taken.",
+      "text": "Photographs of property wrongfully taken.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-473",
+      "number": "60-473",
+      "heading": "Peer support counseling session communication privilege; definitions; emergency services personnel, law enforcement personnel and national guard member",
+      "text": "Peer support counseling session communication privilege; definitions; emergency services personnel, law enforcement personnel and national guard member.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-480",
+      "number": "60-480",
+      "heading": "Journalist privilege; definitions.",
+      "text": "Journalist privilege; definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-481",
+      "number": "60-481",
+      "heading": "Privilege applicable when acting as journalist; not in contempt in proceedings.",
+      "text": "Privilege applicable when acting as journalist; not in contempt in proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-482",
+      "number": "60-482",
+      "heading": "Compelled disclosure, when.",
+      "text": "Compelled disclosure, when.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-483",
+      "number": "60-483",
+      "heading": "Hearing; disclosure.",
+      "text": "Hearing; disclosure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-484",
+      "number": "60-484",
+      "heading": "Costs and attorney fees.",
+      "text": "Costs and attorney fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60-485",
+      "number": "60-485",
+      "heading": "Rights and privileges in addition to others.",
+      "text": "Rights and privileges in addition to others.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

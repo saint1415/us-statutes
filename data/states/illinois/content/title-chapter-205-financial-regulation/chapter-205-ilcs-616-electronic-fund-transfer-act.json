@@ -1,0 +1,214 @@
+{
+  "state": "illinois",
+  "path": "title-chapter-205-financial-regulation/chapter-205-ilcs-616-electronic-fund-transfer-act",
+  "sections": [
+    {
+      "id": "section-1",
+      "number": "1.",
+      "heading": "This Act may be cited as the Electronic Fund Transfer Act.",
+      "text": "This Act may be cited as the Electronic Fund Transfer Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5",
+      "number": "5.",
+      "heading": "Findings and purpose.",
+      "text": "Findings and purpose.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10",
+      "number": "10.",
+      "heading": "Definitions. For purposes of this Act, the words and phrases",
+      "text": "defined in\nthis Section shall have the meanings ascribed to them unless the context\nrequires otherwise. Whenever the terms \"network\" and \"switch\" are used, they\nshall be deemed interchangeable unless, from the context and facts, the\nintention\nis plain to apply only to one type of entity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15",
+      "number": "15.",
+      "heading": "Exemptions and limitations.",
+      "text": "Exemptions and limitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-20",
+      "number": "20.",
+      "heading": "Powers and duties of Commissioner.",
+      "text": "The Commissioner shall have\nthe following powers and duties:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25",
+      "number": "25.",
+      "heading": "Examination authority.",
+      "text": "The Commissioner or examiners appointed\nby the\nCommissioner have the authority to examine any network and any switch,\nincluding leased equipment and services furnished by a subcontractor or other\nparty, as to any transaction by, with, or involving a financial institution\nthat has established a terminal in this State. Information obtained in the\ncourse of an examination shall not be disclosed, except as provided by\nlaw.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-30",
+      "number": "30.",
+      "heading": "Acceptance of deposits.",
+      "text": "Acceptance of deposits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-35",
+      "number": "35.",
+      "heading": "Limit on switch connections.",
+      "text": "No main office or branch of a\nfinancial institution shall at\nthe same time be\ndirectly connected to more than one switch; provided, however, that (a) no\nfinancial institution shall be deemed to be directly connected to a switch that\nis, or is owned directly or indirectly by, that financial institution, and (b)\nnothing\nin this Act shall preclude (1) a terminal that does not accept deposits from\nbeing\nconnected to more than one switch, (2) a network from utilizing more than one\nswitch, or (3) a network from utilizing a single switch.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-40",
+      "number": "40.",
+      "heading": "Transmission through a network.",
+      "text": "All electronic fund transfers\nthat (i) are interchange\ntransactions and (ii) are\ninitiated at a terminal in connection with payment for goods and services shall\nbe transmitted to a financial institution through a network.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45",
+      "number": "45.",
+      "heading": "Nondiscriminatory access.",
+      "text": "Nondiscriminatory access.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46",
+      "number": "46.",
+      "heading": "Disclosure requirements for general use reloadable cards.",
+      "text": "Disclosure requirements for general use reloadable cards.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-50",
+      "number": "50.",
+      "heading": "Terminal requirements.",
+      "text": "Terminal requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-55",
+      "number": "55.",
+      "heading": "Applicability of federal law.",
+      "text": "Applicability of federal law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60",
+      "number": "60.",
+      "heading": "Judicial review.",
+      "text": "All final administrative decisions of the\nCommissioner under this Act shall be subject to judicial review pursuant to the\nprovisions of the Administrative Review Law and the rules adopted pursuant to\nthat Law. For matters involving administrative review, venue shall be in\neither Sangamon County or Cook County.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-65",
+      "number": "65.",
+      "heading": "Inseverability and severability.",
+      "text": "If any provision of this Act\nor its application to any person or circumstance is held invalid, this Act\nshall be invalid in its\nentirety, provided, however, that if any provision of this Act or its\napplication is held invalid under\nthe Home Owners Loan Act of 1933, as amended, the Federal Home Loan Bank Act,\nas amended, or the Federal Credit Union Act, as amended, the invalidity of that\nprovision or application does not affect other provisions or applications that\ncan be given effect without the invalid provision or application.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70",
+      "number": "70.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-75",
+      "number": "75.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-80",
+      "number": "80.",
+      "heading": "Continuity of regulation.",
+      "text": "This Act is a successor Act to and a\ncontinuation of the regulation of electronic fund transfers pursuant to the\nElectronic Fund Transfer Transmission Facility Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-85",
+      "number": "85.",
+      "heading": "Reliance on Commissioner.",
+      "text": "No person shall be liable under this\nAct\nfor any act done or omitted in good faith in conformity with any rule,\ninterpretation, or opinion issued by the Commissioner of Banks and Real Estate,\nnotwithstanding that after the act or omission has occurred, the rule,\ninterpretation, or opinion upon which reliance is placed is amended, rescinded,\nor determined by judicial or other authority to be invalid for any reason.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-89",
+      "number": "89.",
+      "heading": "The Electronic Fund Transfer Transmission Facility Act is",
+      "text": "repealed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-91",
+      "number": "91.",
+      "heading": "(Amendatory provisions; text omitted).",
+      "text": "(Amendatory provisions; text omitted).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-93",
+      "number": "93.",
+      "heading": "(Amendatory provisions; text omitted).",
+      "text": "(Amendatory provisions; text omitted).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-94",
+      "number": "94.",
+      "heading": "(Amendatory provisions; text omitted).",
+      "text": "(Amendatory provisions; text omitted).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-95",
+      "number": "95.",
+      "heading": "(Amendatory provisions; text omitted).",
+      "text": "(Amendatory provisions; text omitted).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-96",
+      "number": "96.",
+      "heading": "(Amendatory provisions; text omitted).",
+      "text": "(Amendatory provisions; text omitted).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-97",
+      "number": "97.",
+      "heading": "(Amendatory provisions; text omitted).",
+      "text": "(Amendatory provisions; text omitted).",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

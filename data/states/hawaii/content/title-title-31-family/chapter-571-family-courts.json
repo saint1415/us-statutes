@@ -1,0 +1,758 @@
+{
+  "state": "hawaii",
+  "path": "title-title-31-family/chapter-571-family-courts",
+  "sections": [
+    {
+      "id": "section-571-1",
+      "number": "571-1",
+      "heading": "Construction and purpose of chapter.",
+      "text": "Construction and purpose of chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-2",
+      "number": "571-2",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-3",
+      "number": "571-3",
+      "heading": "Family courts, divisions of circuit courts.",
+      "text": "Family courts, divisions of circuit courts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-4",
+      "number": "571-4",
+      "heading": "Family courts, circuits.",
+      "text": "Family courts, circuits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-5",
+      "number": "571-5",
+      "heading": "Board of family court judges.",
+      "text": "Board of family court judges.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-6",
+      "number": "571-6",
+      "heading": "Appointment and duties of employees.",
+      "text": "Appointment and duties of employees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-7",
+      "number": "571-7",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-8",
+      "number": "571-8",
+      "heading": "District family courts; district family judges; appointment; sessions.",
+      "text": "District family courts; district family judges; appointment; sessions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-81",
+      "number": "571-8.1",
+      "heading": "Qualifications; tenure; removal.",
+      "text": "Qualifications; tenure; removal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-82",
+      "number": "571-8.2",
+      "heading": "Salary of district family judges.",
+      "text": "Salary of district family judges.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-83",
+      "number": "571-8.3",
+      "heading": "Disqualification; absence; vacancy.",
+      "text": "Disqualification; absence; vacancy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-84",
+      "number": "571-8.4",
+      "heading": "Jurisdiction.",
+      "text": "Jurisdiction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-85",
+      "number": "571-8.5",
+      "heading": "Powers.",
+      "text": "Powers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-11",
+      "number": "571-11",
+      "heading": "Jurisdiction; children.",
+      "text": "Jurisdiction; children.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-12",
+      "number": "571-12",
+      "heading": "Transfer from other courts.",
+      "text": "Transfer from other courts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-13",
+      "number": "571-13",
+      "heading": "Retention of jurisdiction.",
+      "text": "Retention of jurisdiction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-14",
+      "number": "571-14",
+      "heading": "Jurisdiction; adults.",
+      "text": "Jurisdiction; adults.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-21",
+      "number": "571-21",
+      "heading": "Complaint; investigation; petition.",
+      "text": "Complaint; investigation; petition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-22",
+      "number": "571-22",
+      "heading": "Waiver of jurisdiction; transfer to other courts.",
+      "text": "Waiver of jurisdiction; transfer to other courts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-225",
+      "number": "571-22.5",
+      "heading": "Appeal of waiver of jurisdiction.",
+      "text": "Appeal of waiver of jurisdiction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-23",
+      "number": "571-23",
+      "heading": "Summons; notice; custody of minor.",
+      "text": "Summons; notice; custody of minor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-24",
+      "number": "571-24",
+      "heading": "Failure to answer summons; warrants.",
+      "text": "Failure to answer summons; warrants.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-31",
+      "number": "571-31",
+      "heading": "Taking children into custody; release; notice.",
+      "text": "Taking children into custody; release; notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-311",
+      "number": "571-31.1",
+      "heading": "Standard for detention.",
+      "text": "Standard for detention.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-312",
+      "number": "571-31.2",
+      "heading": "Juvenile intake and diagnostic services.",
+      "text": "Juvenile intake and diagnostic services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-313",
+      "number": "571-31.3",
+      "heading": "Voluntary assistance.",
+      "text": "Voluntary assistance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-314",
+      "number": "571-31.4",
+      "heading": "Informal adjustment, law violators.",
+      "text": "Informal adjustment, law violators.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-315",
+      "number": "571-31.5",
+      "heading": "Informal adjustment, status offenders.",
+      "text": "Informal adjustment, status offenders.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-316",
+      "number": "571-31.6",
+      "heading": "Informal adjustment, minor who may be both law violator and status offender.",
+      "text": "Informal adjustment, minor who may be both law violator and status offender.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-318",
+      "number": "571-31.8",
+      "heading": "Contact with counsel; parent, guardian, or legal custodian; consultation.",
+      "text": "Contact with counsel; parent, guardian, or legal custodian; consultation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-32",
+      "number": "571-32",
+      "heading": "Detention; shelter; release; notice.",
+      "text": "Detention; shelter; release; notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-321",
+      "number": "571-32.1",
+      "heading": "Contract and fee-for-service accommodations.",
+      "text": "Contract and fee-for-service accommodations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-33",
+      "number": "571-33",
+      "heading": "Detention and shelter facilities.",
+      "text": "Detention and shelter facilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-34",
+      "number": "571-34",
+      "heading": "Criminal history record checks.",
+      "text": "Criminal history record checks.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-41",
+      "number": "571-41",
+      "heading": "Procedure in children's cases.",
+      "text": "Procedure in children's cases.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-411",
+      "number": "571-41.1",
+      "heading": "Extradition of minors to Hawaii.",
+      "text": "Extradition of minors to Hawaii.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-412",
+      "number": "571-41.2",
+      "heading": "Extradition of minors from Hawaii.",
+      "text": "Extradition of minors from Hawaii.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-42",
+      "number": "571-42",
+      "heading": "Procedure in adult cases.",
+      "text": "Procedure in adult cases.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-43",
+      "number": "571-43",
+      "heading": "Additional remedies not pleaded.",
+      "text": "Additional remedies not pleaded.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-44",
+      "number": "571-44",
+      "heading": "Physical or mental examination and treatment.",
+      "text": "Physical or mental examination and treatment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-45",
+      "number": "571-45",
+      "heading": "Assessment and investigation prior to disposition; suspension of delinquency proceedings; denial of services reporting.",
+      "text": "Assessment and investigation prior to disposition; suspension of delinquency proceedings; denial of services reporting.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-46",
+      "number": "571-46",
+      "heading": "Criteria and procedure in awarding custody and visitation; best interest of the child.",
+      "text": "Criteria and procedure in awarding custody and visitation; best interest of the child.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-461",
+      "number": "571-46.1",
+      "heading": "Joint custody.",
+      "text": "Joint custody.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-462",
+      "number": "571-46.2",
+      "heading": "Orders relating to custody and visitation cases.",
+      "text": "Orders relating to custody and visitation cases.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-463",
+      "number": "571-46.3",
+      "heading": "Grandparents' visitation rights; petition; notice; order",
+      "text": "(a) A grandparent or the grandparents of a minor child may file a petition with the court for an order of reasonable visitation rights. The court may award reasonable visitation rights; provided that the following findings are made: (1) The S",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-464",
+      "number": "571-46.4",
+      "heading": "Child custody evaluators; qualification; registry; complaints.",
+      "text": "Child custody evaluators; qualification; registry; complaints.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-465",
+      "number": "571-46.5",
+      "heading": "Parenting plans. (a) For every action that includes a contested custody of children, both parties or both parents shall develop either a mutually agreed-upon general parenting plan or separate individually-desired parenting plan, and file the plan at the outset of the action",
+      "text": "(b) A parenting plan ma",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-466",
+      "number": "571-46.6",
+      "heading": "Criteria and procedure in awarding custody and visitation; disability.",
+      "text": "Criteria and procedure in awarding custody and visitation; disability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-47",
+      "number": "571-47",
+      "heading": "Determination of parentage of child born in wedlock.",
+      "text": "Determination of parentage of child born in wedlock.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-48",
+      "number": "571-48",
+      "heading": "Decree, if informal adjustment or diversion to a private or community agency or program has not been effected.",
+      "text": "Decree, if informal adjustment or diversion to a private or community agency or program has not been effected.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-485",
+      "number": "571-48.5",
+      "heading": "Probation supervision requirements.",
+      "text": "Probation supervision requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-486",
+      "number": "571-48.6",
+      "heading": "Earned discharge from probation; reporting requirements.",
+      "text": "Earned discharge from probation; reporting requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-49",
+      "number": "571-49",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-50",
+      "number": "571-50",
+      "heading": "Modification of decree, rehearing.",
+      "text": "Modification of decree, rehearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-51",
+      "number": "571-51",
+      "heading": "Support of minor committed for study or care.",
+      "text": "Support of minor committed for study or care.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-515",
+      "number": "571-51.5",
+      "heading": "Modification of support and visitation decrees.",
+      "text": "Modification of support and visitation decrees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-52",
+      "number": "571-52",
+      "heading": "Assignment by court order of future income for payments of support.",
+      "text": "Assignment by court order of future income for payments of support.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-521",
+      "number": "571-52.1",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-522",
+      "number": "571-52.2",
+      "heading": "Automatic assignment by court or administrative order of future income for payment of child support.",
+      "text": "Automatic assignment by court or administrative order of future income for payment of child support.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-523",
+      "number": "571-52.3",
+      "heading": "Immediate income withholding.",
+      "text": "Immediate income withholding.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-525",
+      "number": "571-52.5",
+      "heading": "Guidelines to determine child support amounts.",
+      "text": "Guidelines to determine child support amounts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-526",
+      "number": "571-52.6",
+      "heading": "Child support order, judgment, or decree; accident and health or sickness insurance coverage.",
+      "text": "Child support order, judgment, or decree; accident and health or sickness insurance coverage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-527",
+      "number": "571-52.7",
+      "heading": "Award of costs and reasonable attorneys' fees.",
+      "text": "Award of costs and reasonable attorneys' fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-53",
+      "number": "571-53",
+      "heading": "Signing of papers.",
+      "text": "Signing of papers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-54",
+      "number": "571-54",
+      "heading": "Appeal.",
+      "text": "Appeal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-55",
+      "number": "571-55",
+      "heading": "Certification in lieu of oath.",
+      "text": "Certification in lieu of oath.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-56",
+      "number": "571-56",
+      "heading": "Offense.",
+      "text": "Offense.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-57",
+      "number": "571-57",
+      "heading": "Penalty.",
+      "text": "Penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-61",
+      "number": "571-61",
+      "heading": "Termination of parental rights; petition.",
+      "text": "Termination of parental rights; petition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-62",
+      "number": "571-62",
+      "heading": "Hearing; investigation and report.",
+      "text": "Hearing; investigation and report.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-63",
+      "number": "571-63",
+      "heading": "Findings and judgment.",
+      "text": "Findings and judgment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-71",
+      "number": "571-71",
+      "heading": "Juvenile crime prevention bureau; establishment of.",
+      "text": "Juvenile crime prevention bureau; establishment of.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-72",
+      "number": "571-72",
+      "heading": "Duties and powers; reports; expungement of juvenile arrest records.",
+      "text": "Duties and powers; reports; expungement of juvenile arrest records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-73",
+      "number": "571-73",
+      "heading": "No limitations on family courts.",
+      "text": "No limitations on family courts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-74",
+      "number": "571-74",
+      "heading": "Rules and standards; investigation and questioning; fingerprinting and photographing.",
+      "text": "Rules and standards; investigation and questioning; fingerprinting and photographing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-81",
+      "number": "571-81",
+      "heading": "Contempt of court.",
+      "text": "Contempt of court.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-82",
+      "number": "571-82",
+      "heading": "Court sessions; quarters.",
+      "text": "Court sessions; quarters.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-83",
+      "number": "571-83",
+      "heading": "Court and witness fees.",
+      "text": "Court and witness fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-84",
+      "number": "571-84",
+      "heading": "Records.",
+      "text": "Records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-845",
+      "number": "571-84.5",
+      "heading": "Support order, decree, judgment, or acknowledgment; social security number",
+      "text": "Support order, decree, judgment, or acknowledgment; social security number",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-846",
+      "number": "571-84.6",
+      "heading": "Minor law violators; proceedings and records not confidential.",
+      "text": "Minor law violators; proceedings and records not confidential.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-85",
+      "number": "571-85",
+      "heading": "Authority of probation officers; additional probation officers.",
+      "text": "Authority of probation officers; additional probation officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-86",
+      "number": "571-86",
+      "heading": "Cooperation.",
+      "text": "Cooperation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-865",
+      "number": "571-86.5",
+      "heading": "Statewide juvenile justice interdepartmental cluster; local juvenile justice interdepartmental cluster; high-need youth services coordination.",
+      "text": "Statewide juvenile justice interdepartmental cluster; local juvenile justice interdepartmental cluster; high-need youth services coordination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-87",
+      "number": "571-87",
+      "heading": "Appointment of counsel and guardian ad litem; compensation.",
+      "text": "Appointment of counsel and guardian ad litem; compensation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-88",
+      "number": "571-88",
+      "heading": "Orders expunging juvenile arrest records.",
+      "text": "Orders expunging juvenile arrest records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-89",
+      "number": "571-89",
+      "heading": "Family court; annual report.",
+      "text": "Family court; annual report.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-91",
+      "number": "571-91",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-92",
+      "number": "571-92",
+      "heading": "Application.",
+      "text": "Application.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-93",
+      "number": "571-93",
+      "heading": "Duty to cooperate and disclose information.",
+      "text": "Duty to cooperate and disclose information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-94",
+      "number": "571-94",
+      "heading": "Hearings; electronic participation.",
+      "text": "Hearings; electronic participation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-95",
+      "number": "571-95",
+      "heading": "Sole factor; effect on existing orders.",
+      "text": "Sole factor; effect on existing orders.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-96",
+      "number": "571-96",
+      "heading": "Visitation and contact.",
+      "text": "Visitation and contact.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571-97",
+      "number": "571-97",
+      "heading": "Delegation of the deployed parent's contact rights to another.",
+      "text": "Delegation of the deployed parent's contact rights to another.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

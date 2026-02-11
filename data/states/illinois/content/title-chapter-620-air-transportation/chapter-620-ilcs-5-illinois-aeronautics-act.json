@@ -1,0 +1,942 @@
+{
+  "state": "illinois",
+  "path": "title-chapter-620-air-transportation/chapter-620-ilcs-5-illinois-aeronautics-act",
+  "sections": [
+    {
+      "id": "section-1",
+      "number": "1.",
+      "heading": "Definitions.",
+      "text": "For the purposes of this Act, the words, terms, and phrases set forth in\nSections 2 to 23b, inclusive, shall have the meanings prescribed in such Sections\nunless otherwise specifically defined, or unless another intention\nclearly appears, or the context otherwise requires.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2",
+      "number": "2.",
+      "heading": "\"Aeronautics\" means transportation by aircraft; the operation,",
+      "text": "construction, repair, or maintenance of aircraft, aircraft power plants and\naccessories, including the repair, packing, and maintenance of parachutes;\nthe design, establishment, construction, extension, operation, improvement,\nrepair, or maintenance of airports, restricted landing areas, or other air\nnavigation facilities, and air instruction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3",
+      "number": "3.",
+      "heading": "\"Aircraft\" means any device",
+      "text": "used or designed to carry humans in flight as\nspecified by the Department by rule. All devices required to be licensed\nas \"aircraft\" by the Federal Aviation Administration (FAA) on the effective\ndate of this amendatory Act of 1995 are \"aircraft\". The Department may, by\nrule, specify the extent to which aircraft not required to be licensed by\nthe FAA are subject to the provisions of this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4",
+      "number": "4.",
+      "heading": "\"Public Aircraft\" means an aircraft used exclusively in the service",
+      "text": "of any government or of any political subdivision thereof, including the\ngovernment of any state, territory, or possession of the United States, or\nthe District of Columbia, but not including any government-owned aircraft\nengaged in carrying persons or property for commercial purposes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5",
+      "number": "5.",
+      "heading": "\"Civil Aircraft\" means any aircraft other than a public aircraft.",
+      "text": "\"Civil Aircraft\" means any aircraft other than a public aircraft.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6",
+      "number": "6.",
+      "heading": "\"Airport\" means any area of land, water, or both, except a",
+      "text": "restricted landing area, which is designed for the landing and take-off of\naircraft, whether or not facilities are provided for the shelter,\nservicing, or repair of aircraft, or for receiving or discharging\npassengers or cargo, and all appurtenant areas used or suitable for airport\nbuildings or other airport facilities, and all appurtenant rights of way,\nwhether heretofore or hereafter established.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7",
+      "number": "7.",
+      "heading": "\"State\" or \"this State\" means the State of Illinois; and",
+      "text": "\"Department\" means the Division of Aeronautics of the Department of\nTransportation of this State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8",
+      "number": "8.",
+      "heading": "\"Restricted area\" or \"restricted landing area\" means any area of",
+      "text": "land, water, or both, which is used or is made available for the landing\nand takeoff of aircraft, the use of which shall, except in case of\nemergency, be only as provided from time to time by the Department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9",
+      "number": "9.",
+      "heading": "\"Air navigation facility\" means any facility other than one owned",
+      "text": "or controlled by the Federal Government, used in, available for use in, or\ndesigned for use in, aid of air navigation, including airports, restricted\nlanding areas, and any structures, mechanisms, lights, beacons, marks,\ncommunicating systems, or other instrumentalities or devices used or useful\nas an aid, or constituting an advantage or convenience, to the safe\ntaking-off, navigation, and landing of aircraft, or the safe and efficient\noperation or maintenance of an airport or restricted landing area, and any\ncombination of any or all of such facilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10",
+      "number": "10.",
+      "heading": "\"Air navigation\" means the operation or navigation of aircraft in",
+      "text": "the air space over this State, or upon any airport or restricted landing\narea within this State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11",
+      "number": "11.",
+      "heading": "\"Operation of aircraft\" or \"operate aircraft\" means the use of",
+      "text": "aircraft for the purpose of air navigation, and includes the navigation or\npiloting of aircraft. Any person who causes or authorizes the operation of\naircraft, whether with or without the right of legal control (in the\ncapacity of owner, lessee, or otherwise) of the aircraft, shall be deemed\nto be engaged in the operation of aircraft within the meaning of the\nstatutes of this State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12",
+      "number": "12.",
+      "heading": "\"Airman\" means any individual who operates or is licensed to",
+      "text": "operate an aircraft in flight.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13",
+      "number": "13.",
+      "heading": "\"Air instruction\" means the imparting of aeronautical information",
+      "text": "by any aeronautics instructor or in or by any air school or flying club.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14",
+      "number": "14.",
+      "heading": "\"Air school\" means any person engaged in giving, or offering to",
+      "text": "give, instruction, in aeronautics, either in flying or ground subjects, or\nboth, for or without hire or reward, and advertising, representing, or\nholding himself out as giving or offering to give such instruction. It does\nnot include any public school or university of this State, or any\ninstitution of higher learning duly accredited and approved for carrying on\ncollegiate work.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15",
+      "number": "15.",
+      "heading": "\"Aeronautics instructor\" means any individual engaged in giving",
+      "text": "instruction, or offering to give instruction, in aeronautics, either in\nflying or ground subjects, or both, for hire or reward, without advertising\nsuch occupation, without calling his facilities an \"air school\" or\nanything\nequivalent thereto, and without employing or using other instructors. It\ndoes not include any instructor in any public school or university of this\nState, or any institution of higher learning duly accredited and approved\nfor carrying on collegiate work, while engaged in his duties as such\ninstructor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-16",
+      "number": "16.",
+      "heading": "\"Flying club\" means any person other than an individual, which,",
+      "text": "neither for profit nor reward, owns, leases, or uses one or more aircraft\nfor the purpose of instruction or pleasure or both.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-17",
+      "number": "17.",
+      "heading": "\"Person\" means any individual, firm, partnership, corporation,",
+      "text": "company, association, joint stock association, public service corporation,\njoint venture, or body politic; and includes any trustee, receiver, assignee,\nor other similar representative thereof.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-18",
+      "number": "18.",
+      "heading": "\"State airway\" means a route in the navigable air space over and",
+      "text": "above the lands or water of this State, designated by the Department as a\nroute suitable for air navigation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19",
+      "number": "19.",
+      "heading": "\"Navigable air space\" means air space above the minimum altitudes",
+      "text": "of flight prescribed by the laws of this State or by rules or regulations\nof the Department consistent therewith.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-20",
+      "number": "20.",
+      "heading": "\"Municipality\" means any county, city, village, or town of this",
+      "text": "State and any other political subdivision, public corporation, authority,\nor district in this State, or any combination of two or more of the same,\nwhich is or may be authorized by law to acquire, establish, construct,\nmaintain, improve, and operate airports and other air navigation\nfacilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-21",
+      "number": "21.",
+      "heading": "\"Airport protection privileges\" means easements through or other",
+      "text": "interests in air space over land or water, interests in airport hazards\noutside the boundaries of airports or restricted landing areas, and other\nprotection privileges, the acquisition or control of which is necessary to\ninsure safe approaches to the landing areas of airports and restricted\nlanding areas and the safe and efficient operation thereof.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22",
+      "number": "22.",
+      "heading": "\"Airport hazard\" means any structure, object of natural growth, or",
+      "text": "use of land, which obstructs the air space required for the flight of\naircraft in landing or taking off at any airport or restricted landing area\nor is otherwise hazardous to such landing or taking off.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-23",
+      "number": "23.",
+      "heading": "\"Laws of this State pertaining to aeronautics\" means this Act and",
+      "text": "all other acts of this State, as heretofore or hereafter enacted or\namended, of which the subject matter is any phase of aeronautics,\nincluding, without limiting the generality of the foregoing, regulation,\nsupervision, condemnation, zoning and policing powers in connection\ntherewith.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-23a",
+      "number": "23a.",
+      "heading": "\"Sport parachuting\" means (1) engaging in a planned and intentional jump",
+      "text": "from an aircraft while wearing a parachute, or (2) operating an aircraft\nfrom which a planned and intentional parachute jump is to be made by any\nperson.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-23b",
+      "number": "23b.",
+      "heading": "(1) \"Sport parachutist\" means any person engaging in sport",
+      "text": "parachuting other than a novice parachutist or other person not\nqualifying as a sport parachutist on the basis of ground\ninstruction or parachute jump experience.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24",
+      "number": "24.",
+      "heading": "For the purposes of this Act the singular shall include the",
+      "text": "plural, and the plural the singular.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25",
+      "number": "25.",
+      "heading": "Declarations.",
+      "text": "It is hereby declared that the purpose of this Act is to further the\npublic interest and aeronautical progress by providing for the protection\nand promotion of safety in aeronautics; by cooperating in effecting a\nuniformity of the laws relating to the development and regulation of\naeronautics in the several states; by revising existing statutes relative\nto the development and regulation of aeronautics so as to grant to a state\nagency such powers and impose upon it such duties that the state may\nproperly perform its functions relative to aeronautics and effectively\nexercise its jurisdiction over persons and property within such\njurisdiction, may assist in the promotion of a State-wide system of\nairports, may cooperate with and assist the political subdivisions of this\nState and others engaged in aeronautics, and may encourage and develop\naeronautics; by establishing uniform rules and regulations, consistent, so\nfar as practicable, with Federal rules and regulations, in order that those\nengaged in aeronautics of every character may so engage with the least\npossible restriction, consistent with their safety and with the safety and\nthe rights of others; and by providing for cooperation with the Federal\nauthorities in the development of a national system of civil aviation and\nfor coordination of the aeronautical activities of those authorities and\nthe authorities of this State by assisting in accomplishing the purposes of\nfederal legislation and eliminating costly and unnecessary duplication of\nfunctions properly in the province of federal agencies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2501",
+      "number": "25.01.",
+      "heading": "This state or any political subdivision of this state is",
+      "text": "authorized to acquire, establish, construct, own, control, lease, equip,\nimprove, maintain and operate airports, or restricted landing areas, or\nother air navigation facilities in an adjoining state whose laws permit,\nsubject to the laws of such state, but subject to the laws of this state in\nall matters relating to financing such projects.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2502",
+      "number": "25.02.",
+      "heading": "An adjoining state or political subdivision thereof, if the",
+      "text": "laws of such state permit, is authorized to acquire, establish, construct,\nown, control, lease, equip, improve, maintain and operate airports, or\nrestricted landing areas, or other air navigation facilities in this State,\nsubject to all laws, rules and regulations of this State applicable to such\naeronautical facilities, but subject to the laws of its own state in all\nmatters relating to financing such projects; provided that prior to the\ncommencement of proceedings for the acquisition or establishment of any\nsuch airport, restricted landing area or other navigation facility, approval\nof such acquisition or establishment has been granted by the Illinois\nSecretary of Transportation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2503",
+      "number": "25.03.",
+      "heading": "Such adjoining state or political subdivision thereof shall",
+      "text": "have all the rights, privileges, and duties of like political subdivisions\nof this State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2504",
+      "number": "25.04.",
+      "heading": "Sections 25.01 to 25.03, both inclusive, shall not apply",
+      "text": "unless the laws of such adjoining state shall permit this State and its\npolitical subdivisions to acquire, establish, construct, own, control,\nlease, equip, improve, maintain and operate airports, or restricted landing\nareas, or other air navigation facilities therein, with all privileges,\nrights and duties applicable to such aeronautical projects in such\nadjoining state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26",
+      "number": "26.",
+      "heading": "The Department shall regulate and supervise aeronautics within",
+      "text": "this State, subject to the provisions of this Act. The Department is\nempowered and directed to encourage, foster, and assist in the development\nof aeronautics in this State and to encourage the establishment of airports\nand other air navigation facilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27",
+      "number": "27.",
+      "heading": "Cooperation with Federal Government and others.",
+      "text": "The Department shall cooperate with and assist the Federal Government,\nthe political subdivisions of this State, and other states, and others,\nincluding private persons, engaged in aeronautics or the promotion of\naeronautics, and shall seek to coordinate the aeronautical activities of\nthese bodies and persons. To this end, the Department is empowered to\nconfer with or to hold joint hearings with any federal aeronautical agency,\nand the municipalities and other political subdivisions of this State and\nother states, in connection with any matter relating to aeronautics, and to\navail itself of the cooperation, services, records, and facilities of such\nagencies, municipalities, and other political subdivisions, federal or\notherwise, as fully as may be practicable, in the administration and\nenforcement of the laws of this State pertaining to aeronautics. The\nDepartment shall reciprocate by furnishing to such agencies, municipalities\nand other political subdivisions, federal or otherwise, its cooperation,\nservices, records and facilities, in so far as may be practicable.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2701",
+      "number": "27.01.",
+      "heading": "The Department, in addition to the other powers and duties",
+      "text": "conferred upon it by law, is authorized and directed to supervise and to\ncoordinate within and for the State of Illinois emergency or civil defense\nmeasures relating to civil aircraft, airmen, and facilities other than\nthose of air carriers principally engaged in interstate commerce made\nnecessary as a result of any severe storm or other emergency or disaster or\nas a result of partial or complete mobilization to meet threatened or\nactual military attack or invasion. Any such supervision and coordination\nshall be consistent with and in implementation of any statewide plan\npromulgated by competent State authorities for any such situation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2702",
+      "number": "27.02.",
+      "heading": "Assistance to Civil Air Patrol.",
+      "text": "The Department may provide\nsupport and assistance to the Civil Air Patrol in the form of money, equipment,\npersonnel, materials, office or hangar space, services, or other contributions\nthe Department may find to be appropriate. This support and assistance may be\nin the nature of a loan or an outright grant, and may be either temporary or\npermanent. Other State agencies may participate with the Department in\nproviding support and assistance under the Intergovernmental Cooperation Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28",
+      "number": "28.",
+      "heading": "Rules,",
+      "text": "rulings, regulations, decisions, orders and standards.\nIn exercising its powers and performing its functions under the laws of\nthis State pertaining to aeronautics, the Department may perform such acts,\nissue, amend, change, abrogate or rescind such decisions and orders,\nprescribe such forms, and make, promulgate, and amend, change, abrogate or\nrescind such reasonable general or special rules, rulings, regulations, and\nprocedure, and establish such minimum standards, as may be necessary,\ncommensurate with and for the purpose of protecting and insuring the\ngeneral public interest and safety, the safety of persons receiving\ninstruction concerning, or operating, using or traveling in, aircraft, and\nof persons and property on land or water, and to develop and promote\naeronautics in this State. No rule, ruling, regulation, decision or order\nof the Department shall apply to airports or other air navigation\nfacilities owned or controlled by the Federal Government within this State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-29",
+      "number": "29.",
+      "heading": "Conformity to federal legislation and rules.",
+      "text": "All rules, rulings, regulations, orders and decisions prescribed by the\nDepartment pursuant to the laws of this State pertaining to aeronautics,\nshall be kept in conformity, as nearly as may be, with the then current\nfederal legislation governing aeronautics and the regulations duly\npromulgated thereunder and rules and standards issued from time to time\npursuant thereto.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-30",
+      "number": "30.",
+      "heading": "Filing",
+      "text": "of rules.\nThe Department shall keep on file with the Secretary of State, and at\nthe principal office of the Department, a copy of all its rules and\nregulations, for public inspection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31",
+      "number": "31.",
+      "heading": "State airport plan.",
+      "text": "The Department may designate, design, and establish, expand or modify a\nState airport plan which will best serve the\ninterests of the State, with due regard for the following factors; the\npresent and future needs of foreign, inter-state and intra-state air\ncommerce and air transportation; the present and future needs of foreign,\ninter-state and intra-state private flying; the existing and contemplated\nair navigation facilities, including those owned or controlled or to be\nowned or controlled by the Federal Government; the then current national\nairport plan and federal airways system; and the avoidance of unnecessary\nor unreasonable interference or conflict, on the part of airports, airport\nplans and restricted landing areas, with existing important or essential\nfacilities, or buildings devoted to the public use. The Department may\nchart such State airport plan and arrange for\npublication and distribution of maps, charts, notices and bulletins\nrelating thereto, as may be required in the public interest. To the extent\npracticable, the State airport plan shall be\nintegrated with or supplementary to and coordinated in design and operation\nwith the National airport plan and the Federal airways system, as the same\nmay be revised from time to time. The State airport plan may include all types\nof air navigation facilities, whether publicly\nor privately owned, provided such facilities conform to federal safety\nstandards.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32",
+      "number": "32.",
+      "heading": "Technical services to municipalities.",
+      "text": "The Department may, to such extent as it may deem reasonable, offer, in\nan advisory capacity, the engineering or other technical services and\nfacilities of the Department, and such services and facilities as may be\nsupplied to it by other Departments of the State, without charge, to any\nmunicipality or political subdivision desiring them in connection with the\nconstruction, maintenance or operation or proposed construction,\nmaintenance, or operation of an airport or restricted landing area;\nprovided, the Department may charge for such engineering or other technical\nservices and facilities when payment for such services and facilities or\nreimbursement therefor is made by the United States Government, or any\nagency or Department thereof, and the payment or reimbursement therefor\nwill not result in a decrease in the amount of money or funds otherwise\npayable by the United States Government to the municipality or political\nsubdivision requesting such services and facilities; provided further that\nthe Department shall not furnish to municipalities or political\nsubdivisions the engineering services normally provided by consulting\nengineers to municipalities or political subdivisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33",
+      "number": "33.",
+      "heading": "Enforcement of aeronautics laws.",
+      "text": "It shall be the duty of the Department, its officers, and such of its\nemployees as are designated by it to do so, to enforce and assist in the\nenforcement of all laws of this State pertaining to aeronautics, and of all\nrules, rulings, regulations, orders and decisions issued by the Department\npursuant thereto, and, in aid of such enforcement, general police powers\nare hereby conferred upon the Department, each of its officers, and such of\nits employees as are designated by it to exercise such powers. It shall\nalso be the duty of every State, county and municipal officer charged with\nthe enforcement of State and municipal laws to enforce and assist in the\nenforcement of all laws of this State pertaining to aeronautics.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-34",
+      "number": "34.",
+      "heading": "Financial assistance to municipalities and others. The Department, subject to the provisions of Section 41 of this Act,",
+      "text": "may render financial assistance in the planning, construction, reconstruction,\nextension, development, and improvement of air navigation facilities\nincluding acquisition of land, rights in land, easements including\navigation easements necessary for clear zones or clear areas, costs of\nobstruction removal and airport approach aids owned, controlled, or\noperated, or to be owned, controlled, or operated by municipalities,\nother political subdivisions of this State, or privately owned commercially\noperated airports in Illinois, out of appropriations made by\nthe General Assembly for any such purpose.\nThe\nDepartment shall not render such financial assistance in connection with\nthe planning, construction, reconstruction, extension, development or\nimprovement of\nhangars or other airport buildings, or in connection with the subsequent\noperation or maintenance of such air navigation facilities unless such facilities are for public use, publicly owned, and of public benefit. As used in this Section, \"of public benefit\" includes aircraft hangars, fixed-based operator buildings, and aircraft maintenance buildings at nonprimary airports included within the State Airport Plan. The municipality, other political subdivision, or\nprivately owned commercially operated airports in Illinois,\nto which such financial assistance is being extended by the Department,\nbefore such financial assistance is given, shall satisfy the Department\nthat (a) such air navigation facility will be owned or effectively\ncontrolled, operated, repaired and maintained adequately during its full\nuseful life, for the benefit of the public, and (b) in connection with\nthe operation of such air navigation facility, during its full useful\nlife, the public will not be deprived of its rightful, fair, equal and\nuniform use thereof. The owners and operators of an airport receiving\nfinancial assistance under\nthis Act must adequately control, operate, repair, and maintain the airport\nduring its full useful life for the benefit of the public. The owners and\noperators of an airport receiving financial assistance must ensure that the\npublic will not be deprived of its rightful, fair, equal, and uniform use of\nthe airport during its full useful life. For the purposes of this paragraph,\nthe full useful life of an airport is not less than 20 years after the\nfinancial assistance is received by the owners and operators of the airport.\nNothing in this Section, however,\nimposes any obligation\nthat is inconsistent with any judgment, order, injunction, or decree\nof any court that\nwas rendered before the effective date of this amendatory Act of the 92nd\nGeneral Assembly.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-34a",
+      "number": "34a.",
+      "heading": "Financial assistance under Section 34 may also include reimbursement",
+      "text": "to eligible airport sponsors for the construction or upgrading of Automated Weather Observation Systems (AWOS) financed in whole or in part by State monies. Costs of constructing or upgrading Automated Weather Observation Systems prior to the effective date of this amendatory Act of the 98th General Assembly are eligible for State reimbursements provided that all required State procedures were followed at the time the project was approved by the Department. Financial assistance under Section 34 may also include reimbursements to eligible airport sponsors for land acquisition costs directly related\nto projects financed either in whole or in part by federal and State monies,\nand for engineering and construction costs directly related to projects financed in whole\nor in part by State monies; provided, (1) such engineering, construction, or land acquisition\ncosts were approved by the Department prior to the payment of these costs\nby the airport sponsor, (2) no State or federal monies have previously\nbeen expended for such purposes on such projects, and (3) no State monies\nshall be expended as reimbursement on any project for engineering or land\nacquisition unless construction costs for that project are funded by the\nState. Approval of engineering, construction, or land acquisition costs by the Department\nprior to the payment of such costs by\nan airport sponsor shall qualify those costs for State reimbursement but\nshall not constitute an obligation of State funds in consideration of available appropriation and eligibility of appropriation. Costs of land acquisition\nby airport sponsors prior to the effective date of this amendatory act\nof 1982 are qualified for State reimbursement provided all federal and State\nprocedures were followed at the time of acquisition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-34b",
+      "number": "34b.",
+      "heading": "Airport Land Loan Program.",
+      "text": "Airport Land Loan Program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-35",
+      "number": "35.",
+      "heading": "Authority to contract.",
+      "text": "The Department may enter into any contracts on behalf of the State, and\nis authorized and empowered to carry out and perform any such contracts so\nentered into by it.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36",
+      "number": "36.",
+      "heading": "Right to enter upon the land, buildings and structures of others.",
+      "text": "In exercising its powers and performing its functions under the laws of\nthis State pertaining to aeronautics, and the rules, rulings, regulations,\norders and decisions issued pursuant thereto, the Department, each officer\nthereof, and each employee designated by it, and such other departments,\nagencies, representatives, officers and employees of this State and of the\nmunicipalities\nand other political subdivisions thereof as may be designated by it, or who\nare charged with the enforcement of the laws of this State pertaining to\naeronautics, whether or not designated by the Department to do so, shall\nhave the right to enter upon the land within this State of any person,\nmunicipality or other political subdivision and enter the buildings and\nstructures thereon for the purposes, when and to the extent that their duty\nso requires, of making surveys, ascertaining necessary facts, and making\ninvestigations relating to the State airport plan, a proposed or existing air navigation facility, any airport\nhazard, the obtaining of airport protection privileges, the establishment\nof zoning areas, the investigation of accidents concerning aircraft in this\nState, the condemning of property, the investigation of any violation of\nthe laws of this State pertaining to aeronautics and the rules, rulings,\nregulations, orders and decisions issued pursuant thereto, and for any\nother purpose within the purview of the laws of this State pertaining to\naeronautics and the rules, rulings, regulations, orders and decisions\nissued pursuant thereto; provided that such entry shall occur at reasonable\ntimes and with due regard for the safety of the owner, persons in\npossession or occupants thereof, and the protection of the buildings,\nstructures, crops, or personal property located thereon; provided, further,\nthat in the event any damage may be caused by virtue of any such entry, the\nDepartment may pay, as compensation, the amount of said damage as\ndetermined by it, in full satisfaction thereof, within the limits of\navailable appropriations, or, if the Department does not pay the amount of\nany such damage, the person claiming compensation therefor may file his\nclaim in connection therewith in the Court of Claims of this State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-37",
+      "number": "37.",
+      "heading": "Federal aid-Cooperation with government.",
+      "text": "Subject to the provisions of Section 41, the Department is authorized\nto cooperate with the Government of the United States, and any agency,\ndepartment, or officer thereof, in the acquisition, construction,\ndevelopment, improvement, operation or maintenance of air navigation\nfacilities in this State, and to comply with the provisions of the laws of\nthe United States and any rules or regulations made thereunder for the\nexpenditure of Federal monies upon such air navigation facilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38",
+      "number": "38.",
+      "heading": "Authority to receive Federal moneys for State and",
+      "text": "municipalities. Subject to the provisions of Section 41, the Department is\nauthorized to accept and receive Federal\nmoneys, and other moneys,\neither public or private, for and on behalf of this State, or any\nmunicipality or other political subdivision thereof, at the request of such\nmunicipality or political subdivision, for the acquisition, construction,\ndevelopment, improvement, operation and maintenance of air navigation\nfacilities in this State, whether such work is to be done by the State or\nby such municipalities or other political subdivisions, or jointly, aided\nby grants of aid from the United States, upon such terms and conditions as\nare or may be prescribed by the laws of the United States and any rules or\nregulations made thereunder, and it is authorized to act as agent of any\nmunicipality or other political subdivision of this State upon the request\nof such municipality or political subdivision (or upon designation by such\nmunicipality or political subdivision pursuant to Section 38.01), in\naccepting and receiving those moneys on its behalf for air\nnavigation facility purposes, and in contracting for the acquisition,\nconstruction, development, improvement, operation and maintenance of air\nnavigation facilities in this State, financed either in whole or in part by\nFederal monies, and the governing body of any such municipality or other\npolitical subdivision is authorized to designate the Department as its\nagent for such purposes and to enter into an agreement with it prescribing\nthe terms and conditions of such agency in accordance with Federal laws,\nrules, and regulations and with this act. Such monies as are paid over by\nthe United States Government shall be retained by the State or paid over to\nsaid municipalities or other political subdivisions under such terms and\nconditions as may be imposed by the United States Government in making such\ngrants.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3801",
+      "number": "38.01.",
+      "heading": "Project applications.",
+      "text": "Project applications.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-39",
+      "number": "39.",
+      "heading": "Contracts--Law governing.",
+      "text": "Subject to the provisions of Section 41, all contracts for the\nacquisition, construction, development, improvement, operation and\nmaintenance of air navigation facilities in this State made by the\nDepartment, with the exception of the construction of military housing as\npart of an agreement with the U.S. Air Force to rebuild Cardinal Creek\nHousing and 2 grade schools as it relates to the Scott Joint-Use Airport in\nSt. Clair County, which shall be the responsibility of St. Clair County\nutilizing building and bidding procedures as it deems appropriate, either\non behalf of this State or as the agent of any\nmunicipality or other political subdivision, when acting at the express\nrequest of such municipality or other political subdivision, shall be\nawarded, made and entered into as are contracts for the performance of\nState work or for the construction of improvements constructed by the State\nof Illinois; provided, however, that where the acquisition, construction,\ndevelopment, improvement, operation and maintenance of any air navigation\nfacility is financed wholly or partially with Federal monies, the\nDepartment, in behalf of the State or of any municipality or other\npolitical subdivision thereof, may let contracts and cause the performance\nthereof in the manner prescribed by the Federal authorities, acting under\nthe laws of the United States, and any rules or regulations made\nthereunder, notwithstanding any other State law to the contrary.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-40",
+      "number": "40.",
+      "heading": "Disposition of federal funds. All monies accepted for disbursement by the Department pursuant to Section 38 shall be deposited into the Federal/State/Local Airport Fund, which is established as a federal trust fund in the State treasury to be held by the State Treasurer as ex officio custodian",
+      "text": "Mone",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-41",
+      "number": "41.",
+      "heading": "The Department shall not expend any funds appropriated, or made",
+      "text": "available, by this State for the planning, acquisition, construction, reconstruction,\nextension, development, improvement, operation and maintenance of air\nnavigation facilities within this State upon any project which is not\nincluded in the State airport plan or in the State airways system, as\nprepared or revised from time to time by the Department, or for any work\nupon any such project that is not contracted for and constructed or\ndeveloped under the supervision or direction of the Department or such\nother department, agency, officer or employee of this State as the\nDepartment may designate for such purpose.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42",
+      "number": "42.",
+      "heading": "Regulation of aircraft, airmen, and airports.",
+      "text": "Regulation of aircraft, airmen, and airports.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42-a",
+      "number": "42-a.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42-b",
+      "number": "42-b.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42-c",
+      "number": "42-c.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42-d",
+      "number": "42-d.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42-e",
+      "number": "42-e.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42-f",
+      "number": "42-f.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42-g",
+      "number": "42-g.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42-h",
+      "number": "42-h.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42-i",
+      "number": "42-i.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42-j",
+      "number": "42-j.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42-k",
+      "number": "42-k.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42-l",
+      "number": "42-l.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42-m",
+      "number": "42-m.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42-n",
+      "number": "42-n.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42-o",
+      "number": "42-o.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-421",
+      "number": "42.1.",
+      "heading": "Regulation of unmanned aircraft systems.",
+      "text": "Regulation of unmanned aircraft systems.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-43",
+      "number": "43.",
+      "heading": "Operations unlawful without license or certificate.",
+      "text": "Except as hereinafter provided, when such registration is required by\nthe Department, it shall be unlawful for any person to operate or cause or\nauthorize to be operated any civil aircraft within this State unless such\naircraft has an appropriate effective license, certificate or permit issued\nby the United States Government for which a certificate of registration has\nbeen issued by the Department which is in full force and effect, and it\nshall be unlawful for any person to engage in aeronautics as an airman in\nthis State unless he has obtained from the Department a certificate of\nregistration of an appropriate effective airman's license, certificate or\npermit issued by the United States Government authorizing him to engage in\nthe particular class of aeronautics in which he is engaged, which\ncertificate of registration is in full force and effect.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-43a",
+      "number": "43a.",
+      "heading": "Joy",
+      "text": "riding.)\nNo person shall operate or cause or authorize to be operated any civil\naircraft within this State without the owner's consent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-43b",
+      "number": "43b.",
+      "heading": "Dropping objects from aircraft.",
+      "text": "No person while operating or riding in any type of aircraft shall cause\nto be dropped therefrom, any object used to publicize or advertise any\nproduct, service, activity or event, including circulars, posters,\nhandbills or other advertising matter. No person or owner or lessee while\noperating or riding in any type of aircraft may cause to be dropped\ntherefrom any other object unless he applies for, on forms prescribed and\nfurnished by the Department, and receives from the Department a dropping\npermit specifying the name and address of the person authorized to make the\ndrop; the date, time and place for which the drop is authorized to be made\nand the object authorized to be dropped.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-43d",
+      "number": "43d.",
+      "heading": "Intoxicated persons in or about aircraft.",
+      "text": "Intoxicated persons in or about aircraft.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-43e",
+      "number": "43e.",
+      "heading": "(a) Any person who operates, is in actual physical control",
+      "text": "or who acts as a crew member of any aircraft in this State shall be deemed\nto have given consent, subject to the provisions of Section 11-501.2 of the\nIllinois Vehicle Code, to a chemical test or tests of blood, breath, other bodily substance, or\nurine for the purpose of determining the alcohol, other drug, or\ncombination thereof content of the person's blood if arrested or upon\nrequest by any law enforcement officer where the officer has probable cause\nto believe the person is in violation of Section 43d of this Act. The test\nor tests shall be administered at the direction of the arresting law\nenforcement officer and the agency employing the officer shall designate\nwhich of the tests specified in this Section shall\nbe administered.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44",
+      "number": "44.",
+      "heading": "Exceptions to registration requirements.)",
+      "text": "The provisions of paragraph (1) of Section 42 and Section 43 shall not\napply to:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44a",
+      "number": "44a.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45",
+      "number": "45.",
+      "heading": "Exhibition of licenses and certificates.",
+      "text": "The federal license, certificate, or permit, and the evidence of\nregistration in this or another state, if any, required for an airman shall\nbe kept in the personal possession of the airman when he is operating\nwithin this State and must be presented for inspection upon the demand of\nany passenger, or any peace officer of this State, any officer or\nauthorized employee of the Department, or any official, manager or person\nin charge of any airport in this State upon which he shall land, or upon\nthe reasonable request of any other person. The federal aircraft license,\ncertificate, or permit, and the evidence of registration in this or another\nstate, if any, required for aircraft must be carried in every aircraft\noperating in this State at all times and must be conspicuously posted\ntherein where it may readily be seen by passengers or inspectors and must\nbe presented for inspection upon the demand of any passenger, any peace\nofficer of this State, any officer or authorized employee of the\nDepartment, or any official, manager, or person in charge of any airport in\nthis State upon which it shall land, or upon the reasonable request of any\nperson.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46",
+      "number": "46.",
+      "heading": "When",
+      "text": "instruction unlawful.\nWhen the Department requires the registration of federal licenses,\ncertificates or permits, or the obtaining of certificates of approval,\nunder paragraphs (1) or (2) of Section 42, it shall be unlawful to\noperate an air school or to give instructions in flying or ground subjects\nin this State, without first registering such federal licenses,\ncertificates or permits, or obtaining such certificates of approval, as may\nbe required by the Department pursuant to paragraphs (1) or (2) of Section\n42.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-47",
+      "number": "47.",
+      "heading": "Operation without certificate of approval unlawful;",
+      "text": "applications. An application for a certificate of approval of an\nairport or restricted landing area, or the alteration or extension\nthereof, shall set forth, among other things, the location of all\nrailways, mains, pipes, conduits, wires, cables, poles and other\nfacilities and structures of public service corporations or municipal or\nquasi-municipal corporations, located within the area proposed to be\nacquired or restricted, and the names of persons owning the same, to the\nextent that such information can be reasonably ascertained by the\napplicant.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-471",
+      "number": "47.1.",
+      "heading": "Review by Department of O'Hare Modernization Program.",
+      "text": "The\nDepartment shall monitor the design, planning, financing, and construction of\nthe O'Hare\nModernization Program as defined in Section 10 of the O'Hare Modernization Act\nin\norder to ensure that the O'Hare Modernization Program proceeds in a timely,\nefficient,\nand safe manner, and shall monitor the effects of the O'Hare Modernization\nProgram on\nunits of local government throughout the State. The Department shall file\nreports with the\nGeneral Assembly as the Department deems appropriate concerning the design,\nplanning,\nfinancing,\nand construction of the O'Hare Modernization Program as defined in Section 10\nof the\nO'Hare Modernization Act, and the effects of the O'Hare Modernization Program\non units\nof local government.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-48",
+      "number": "48.",
+      "heading": "Standards for issuing certificates of approval.",
+      "text": "In determining whether it shall issue a certificate of approval for any\nairport or restricted landing area, or any alteration or extension thereof,\nthe Department shall take into consideration its proposed location, size\nand layout, the relationship of the proposed airport or restricted landing\narea to the then current national airport plan, the then current Federal\nairways system, the then current State airport plan, and the then current\nState airways system, whether there are safe areas available for expansion\npurposes, whether the adjoining area is free from obstructions based on a\nproper glide ratio, the nature of the terrain, the nature of the uses to\nwhich the proposed airport or restricted landing area will be put, the\npossibilities for future development, and such other factors as, under the\ncircumstances, it regards as having an important bearing thereon.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-49",
+      "number": "49.",
+      "heading": "Discontinuance of operations of airports or restricted landing areas.",
+      "text": "The Department is empowered to order the discontinuance or limitation,\ntemporarily or permanently, of the operation of any airport or restricted\nlanding area when it shall determine, after a hearing, that such airport or\nrestricted landing area is not safe or is not being maintained or operated\nsafely.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-491",
+      "number": "49.1.",
+      "heading": "Creation of hazards.",
+      "text": "No person may create or construct any\nairport hazard which obstructs a restricted landing area or residential\nairport that (1) serves 20 or\nmore based aircraft, and (2) is located within the \"metropolitan region\" as\nthat term is defined in the Regional Transportation Authority Act. For the\npurpose of this Section, \"based aircraft\" are\naircraft that are regularly hangared or tied-down at the restricted landing\narea or residential airport, or that use it as their primary base of operation.\nAs used in this Section 49.1, \"restricted landing area\" or \"residential\nairport\" shall have the\nmeaning set forth in regulations\nof the Department in effect on the effective date of this amendatory Act of\n1989, but shall not include amendments of the regulations adopted by the\nDepartment thereafter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-50",
+      "number": "50.",
+      "heading": "Exceptions-Federal government.",
+      "text": "The provisions of Sections 47, 48 and 49 shall not apply to any\nairport, restricted landing area or other air navigation facility owned or\noperated by the Federal Government within this State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51",
+      "number": "51.",
+      "heading": "Proceedings before the department and in the courts-Investigation,",
+      "text": "inquiries and hearings.\nThe Department, or any officer thereof, and any employee thereof\ngenerally or specifically designated by it for such purpose shall have\npower to hold and conduct investigations, inquiries and hearings concerning\nany matters covered by the laws of this State pertaining to aeronautics,\npursuant to such rules, rulings, regulations, orders, and decisions as the\nDepartment may establish or issue. In the conduct of any investigation,\ninquiry or hearing, neither the Department nor any officer nor employee\nthereof conducting the same shall be bound by the technical rules of\nevidence, and no informality in any proceeding or in the manner of taking\ntestimony before the Department, or any officer or employee thereof, shall\ninvalidate any order, decision, rule, ruling or regulation made, approved\nor confirmed by the Department. All hearings conducted by the Department\nshall be open to the public.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-52",
+      "number": "52.",
+      "heading": "Exemption from testifying.",
+      "text": "No officer or employee of the Department shall be required to testify as\nan expert witness in any suit, action or proceeding involving aeronautics.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53",
+      "number": "53.",
+      "heading": "Attendance of witness.",
+      "text": "All subpoenas issued under the laws of this State pertaining to\naeronautics may be served by any person who is not a minor. The fees of\nwitnesses for attendance and travel shall be the same as fees of witnesses\nbefore the circuit courts of this State, such fees to be paid at the time\nthe witness is excused from further attendance, when the witness is\nsubpoenaed at the instance of the Department, or any officer thereof, or\nany employee designated by it for the purpose of conducting any such\ninvestigation, inquiry or hearing; and the disbursements made in the\npayment of such fees shall be audited and paid in the same manner as are\nother expenses of the Department. Whenever a subpoena is issued at the\ninstance of a complainant, respondent or other party to any proceeding\nbefore the Department, the Department may require that the cost of service\nthereof and the fee of the same shall be borne by the party at whose\ninstance the witness is summoned before the Department, and the Department\nshall have power, in its discretion, to require a deposit to cover the cost\nof such service and witness fees and the payment of legal witness fees and\nmileage to the witness when served with subpoena. A subpoena issued as\naforesaid shall be served in the same manner as a subpoena issued out of a\ncourt.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-54",
+      "number": "54.",
+      "heading": "Inspection of records.",
+      "text": "Any party to a proceeding before the Department shall have the right to\ninspect the records of all investigations, inquiries or hearings conducted\nby or under the authority of the Department, which may relate to the issues\ninvolved in such proceeding and to submit suggestions as to the matters to\nbe investigated or as to questions to be propounded. If the Department is\nsatisfied that such suggested investigation should be made or such\nsuggested questions answered, and that the information desired is within\nthe power of any party to furnish, it shall enter an order requiring an\ninvestigation to be made or the questions to be answered, and upon failure\nor refusal to comply with such order, the Department shall either refuse to\ngrant the relief prayed for by the party refusing to comply or may grant\nthe relief prayed by the opposing party against the party refusing to\ncomply.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-55",
+      "number": "55.",
+      "heading": "Initiation of proceedings; notice; service.",
+      "text": "Proceedings may be initiated by applications, petitions, and complaints,\nincluding complaints made by the Department of its own motion. Any person,\nthe Federal Government, or any agency, department or officer thereof, or\nany municipality or other political subdivision of this State or any other\nstate, may make a complaint, which shall be in writing setting forth any\nact or things done or omitted to be done in violation or claimed to be in\nviolation of the laws of this State pertaining to aeronautics, or of the\nrules, rulings, regulations, orders or decisions of the Department\nthereunder.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-56",
+      "number": "56.",
+      "heading": "Hearings.",
+      "text": "At the time fixed for any hearing, pursuant to the laws of this State\npertaining to aeronautics, or the rules, rulings, regulations, orders or\ndecisions issued by the Department thereunder, whether upon a complaint or\notherwise, persons, municipalities or other political subdivisions having a\nsubstantial interest in the subject matter thereof, and in case of a\ncomplaint, the complainant and the person, municipality or other political\nsubdivision complained of, and, in every case, such persons, municipalities\nor other political subdivisions as the Department may allow to intervene,\nshall be entitled to be heard and introduce evidence. The Department shall\nissue process to enforce the attendance of all necessary witnesses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57",
+      "number": "57.",
+      "heading": "Findings; orders; record.",
+      "text": "At the conclusion of such hearing, the Department shall make and render\nfindings concerning the subject matter and facts inquired into and enter\nits order based thereon. A copy of such order, certified under the seal of\nthe Department, shall be served upon all parties thereto, or their\nattorneys, which order shall of its own force take effect and become\noperative twenty days after the service thereof, except as otherwise\nprovided therein, and shall continue in force either for a period which may\nbe designated therein or until changed or abrogated by the Department.\nWhere an order cannot, in the judgment of the Department, be complied with\nwithin twenty days, the Department may prescribe such additional time as in\nits judgment is reasonably necessary to comply with the order, and may upon\napplication and for good cause shown extend the time for compliance fixed\nin its order. A full and complete record shall be preserved according to\nrule of all\nproceedings had before the Department or any officer thereof, or any\nemployee thereof designated by it for the purpose of conducting any\nhearing, on any formal hearing had and all testimony shall be recorded by the\nDepartment in a manner determined to be\nreliable and appropriate, and the parties shall be\nentitled to be heard in person or by attorney.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58",
+      "number": "58.",
+      "heading": "Record",
+      "text": "on appeal.\nIn case of appeal from any rule, ruling, regulation, order or decision\nof the Department, a transcript of such testimony, together with all\nexhibits or copies thereof introduced and all information secured by the\nDepartment on its own initiative and considered by it in rendering its\norder or decision (and required by the laws of this State pertaining to\naeronautics to be made a part of its records), and of the pleadings,\nrecords and proceedings in the case, shall constitute the record of the\nDepartment: provided, that on appeal from an order or decision of the\nDepartment, the person, municipality or other political subdivision taking\nthe appeal and the Department may stipulate that a certain question or\ncertain questions alone and a specified portion only of the evidence shall\nbe certified to the court for its judgment, whereupon such stipulation and\nthe question or questions and the evidence therein specified shall\nconstitute the record on appeal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59",
+      "number": "59.",
+      "heading": "Certified copies as evidence.",
+      "text": "Copies of all official documents and orders filed or deposited according\nto law in the office of the Department, certified by an officer of the\nDepartment to be true copies of the originals, under the official seal of\nthe Department, shall be evidence in like manner as the originals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-60",
+      "number": "60.",
+      "heading": "Order",
+      "text": "without prior hearing.\nThe Department may issue an order granting or denying a certificate of\napproval of an airport or a restricted landing area, or the alteration or\nthe extension thereof, without a hearing in the first instance, provided\nthe Department shall have served upon the applicant, and any other persons,\nmunicipalities or other political sub-divisions affected, at least fifteen\ndays before the entry of such proposed order, notice of the Department's\nintention to enter such order, which notice shall state in reasonable\ndetail the nature and terms of such proposed order and shall extend\nopportunity, on the part of those notified, to submit, within such fifteen\ndays, objections to or comments upon the subject matter of such proposed\norder; written notice shall be given to the applicant, and written notice\nor in the alternative notice by publication in a newspaper published in the\ncounty in which the airport or restricted landing area sought to be\nestablished, altered or extended is, or is proposed to be located, shall be\ngiven to any other persons, municipalities or other political subdivisions\naffected; and after the entry of any such order, a copy thereof shall be\nserved upon the applicant, those who, within the above specified 15 day\nperiod, object to or comment upon the subject matter of the proposed order\nand those who have entered their appearance in writing in the matter.\nNotice of the entry of the order shall be given to any other persons,\nmunicipalities, or other political sub-divisions affected thereby by\nserving a copy thereof upon them or in the alternative by publication in a\nnewspaper published in the county in which the airport or restricted\nlanding area sought to be established, altered or extended is, or is\nproposed to be located. If the applicant or any other person, municipality\nor other political sub-division which may be affected thereby, makes a\nwritten request for a hearing as to the validity or reasonableness of said\norder within fifteen days after the service or publication thereof, the\nDepartment shall prescribe a hearing thereon, which shall be held in the\nmunicipality or other political subdivision applying for a certificate of\napproval or, in case the application was made by a person other than a\nmunicipality or other political subdivision, at the county seat of the\ncounty in which the airport or restricted landing area sought to be\nestablished, altered or extended is, or is proposed to be situated. If no\nhearing is requested, as herein provided, such order shall take effect and\nbecome operative at the same time and in the same manner as in the case of\nan order entered after hearing, as provided in Section 57. No notice\nshall be necessary prior to the entry of an order approving the elimination\nof one or more runways or landing strips or approving a change in\nclassification of a facility from that of an airport to that of a\nrestricted landing area unless the application therefor shall indicate that\nthere is an addition, extension or reorientation involved as will result in\na change in the flight patterns theretofore obtaining. If any persons,\ncorporations, or municipalities may be affected by any such change in the\nflight pattern from the pattern which shall have existed prior to any such\naddition, extension or reorientation, notice shall be given as provided in\nthe first paragraph of this section.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61",
+      "number": "61.",
+      "heading": "Operation of airports authorized without license.",
+      "text": "No license shall be required to operate an airport or restricted landing\narea for which a certificate of approval has been issued by the Department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62",
+      "number": "62.",
+      "heading": "Investigations and inquiries without notice; hearing upon request.",
+      "text": "Nothing in this Act shall be taken to limit or restrict the power of\nthe Department, summarily of its own motion, with or without notice, to\nconduct any investigation or inquiry authorized by the laws of this State\npertaining to aeronautics, in such manner and by such means as it may deem\nproper, and to take such actions as it may deem necessary in connection\ntherewith. With respect to any rules, rulings, regulations, decisions or\norders which the Department is authorized to issue without a hearing, and\nso issues, except as otherwise provided herein, any person, municipality or\nother political subdivision affected thereby and deeming such rules,\nrulings, regulations, decisions or orders, or any of them, improper,\nunreasonable or contrary to law, may apply for a hearing thereon, setting\nforth specifically in such application every ground of opposition which the\napplicant desires to urge against such rule, ruling, regulation, decision\nor order. The Department may, in its discretion, grant or deny the\napplication for such a hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63",
+      "number": "63.",
+      "heading": "Service of orders.",
+      "text": "Every order of the Department shall be served upon every person,\nmunicipality or other political subdivision to be affected thereby, except\nas otherwise provided by Section 60 of this Act, either by personal\ndelivery of a certified copy thereof, or by mailing in the United States\nmail a certified copy thereof, in a sealed package with postage prepaid, to\nthe person, municipality, or other political subdivision to be affected\nthereby; or, in the case of a corporation, municipality or other political\nsubdivision, to any officer or agent thereof upon whom summons of a circuit\ncourt may be served in a civil action.\nWhere any person, municipality\nor other political subdivision has entered an appearance by an attorney, or\nother representative of record, service may be made upon such person,\nmunicipality or other political subdivision by serving the attorney or\nother representative of record; and in any event, mailing in the United\nStates mail, as hereinabove provided, shall constitute service, without\nadditional proof of the receipt of the certified copies of\nthe order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-64",
+      "number": "64.",
+      "heading": "Power",
+      "text": "to change rules, rulings, regulations, decisions and orders; rehearings.\nAnything in the laws of this State pertaining to aeronautics to the\ncontrary notwithstanding, the Department may at any time amend, change,\nabrogate or rescind any rule, ruling, regulation, decision or order made by\nit: provided, that when such rule, ruling, regulation, order or decision,\nsought to be so amended, changed, abrogated or rescinded, was prescribed or\nissued by requirement of law, after notice and an opportunity to be heard,\nthe Department shall give notice and an opportunity to be heard to the\npersons, municipalities, or other political subdivisions to be affected\nthereby, before making such amendment, change, abrogation or rescission\nthereof. Any order amending, changing, abrogating or rescinding a prior\nrule, ruling, regulation, order, or decision shall, when served upon the\npersons, municipalities, and other political subdivisions affected, have\nthe same effect as is herein provided for original rules, rulings,\nregulations, orders and decisions. Within thirty days after the service of\nany rule, ruling, regulation, order or decision of the Department, any\nparty to the action or proceeding, or other persons, municipalities or\npolitical subdivisions affected, may apply for a rehearing of said rule,\nruling, regulation, order or decision in respect to any matter connected\ntherewith, specified in the application for rehearing. The Department shall\nreceive and consider such application and shall grant or deny the same\nwithin twenty days from the date of the receipt thereof by the Department.\nIn case the application for rehearing is granted, the Department shall\nproceed as promptly as possible to consider the matters presented by such\napplication. No appeal shall be allowed from any rule, ruling, regulation,\norder or decision of the Department unless and until an application for a\nrehearing thereof shall first have been filed with and acted upon by the\nDepartment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-67",
+      "number": "67.",
+      "heading": "The provisions of the Administrative Review Law, as the same",
+      "text": "may be amended or supplemented,\nshall govern all judicial review proceedings under this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-68",
+      "number": "68.",
+      "heading": "Duties",
+      "text": "of the Attorney General.\nIt shall be the duty of the Attorney General to represent the Department\nin all matters and proceedings before any court.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69",
+      "number": "69.",
+      "heading": "Appeals.)",
+      "text": "Appeals from all final orders and judgments entered by the circuit\ncourt, in review of rules, rulings, regulations, orders and decisions of\nthe Department, may be taken by any party to the action and shall be\ngoverned by the rules applying to other civil cases.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70",
+      "number": "70.",
+      "heading": "Priority in hearing.",
+      "text": "Any proceeding in any court in this State directly affecting a rule,\nruling, regulation, order or decision of the Department, or to which the\nDepartment is a party, shall have priority in hearing and determination\nover all other civil proceedings pending in such court, excepting election\ncontests and other proceedings to which the law has assigned a similar\npriority in hearing and determination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-71",
+      "number": "71.",
+      "heading": "Suspension of orders pending judicial review.",
+      "text": "Suspension of orders pending judicial review.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72",
+      "number": "72.",
+      "heading": "Acquisition and operation of state airports - Authority to establish state",
+      "text": "airports.\nThe Department is authorized and empowered, on behalf of and in the name\nof this State, within the limitation of available appropriations, to\nacquire by purchase, gift, legacy, lease, condemnation proceedings, or\notherwise, property real or personal, for the purpose of establishing and\nconstructing, for the benefit of and use by the public, of airports,\nrestricted landing areas, and other air navigation facilities, to contract\nor otherwise provide, by condemnation if necessary, for the removal of any\nairport hazard or the removal or the relocation of all private structures,\nrailways, mains, pipes, conduits, wires, cables, poles, and all other\nfacilities and equipment which may interfere with the location,\nestablishment, construction, development, enlargement, improvement,\nmaintenance, repair, equipment, or operation of such public airports,\nrestricted landing areas, and other air navigation facilities or with the\nsafe approach thereto or takeoff therefrom by aircraft, and to pay the cost\nof such removal or relocation, and to acquire in like manner, own, control,\nestablish, construct, develop, enlarge, improve, maintain, repair, equip,\noperate, regulate, zone and police such public airports, restricted landing\nareas, and other air navigation facilities, either within or without this\nState; to make, prior to any such acquisition, investigations, surveys, and\nplans; and to erect, install, construct, and maintain at such airports\naccommodations and facilities for the servicing of aircraft and for the\ncomfort and accommodation of air travelers. It may not, however, acquire or\ntake over any airport, restricted landing area or other air navigation\nfacility owned or controlled by municipality or other political subdivision\nof this State without the consent of such municipality or other political\nsubdivision. It may erect, equip, operate, and maintain, on any public\nairport established, constructed or operated on behalf of the State,\nbuildings, including hangars, structures, and any kind or description of\npersonal property, including facilities and equipment, necessary and proper\nto establish, operate, conduct, repair and maintain such public airport and\nother air navigation facilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-73",
+      "number": "73.",
+      "heading": "Airport protection privileges.",
+      "text": "Where necessary, in order to provide unobstructed air space for the\nlanding and taking off of aircraft utilizing public airports, restricted\nlanding areas and other air navigation facilities acquired or operated by\nthe Department, on behalf of and in the name of this State, under the\nprovisions of this Act, it is hereby granted authority to contract or\notherwise provide, by condemnation if necessary, for the removal of any\nairport hazard or the removal or the relocation of all private structures,\nrailways, mains, pipes, conduits, wires, cables, poles, and all other\nfacilities and equipment which may interfere with the location,\nestablishment, construction, development, enlargement, improvement,\nmaintenance, repair, equipment, or operation of such public airports,\nrestricted landing areas, and other air navigation facilities or with the\nsafe approach thereto or take-off therefrom by aircraft, and to pay the\ncost of such removal or relocation, and to acquire, within the limitation\nof available appropriations, and in the same manner as is provided for the\nacquisition of property for the establishment and construction of public\nairports, restricted landing areas, and other air navigation facilities,\neasements through or other interests in air space over land or water,\ninterests in airport hazards outside the boundaries of the public airports\nor restricted landing areas, and such other airport protection privileges\nas are necessary to insure safe approaches to the landing areas of said\nairports and restricted landing areas, and the safe and efficient operation\nthereof. It is also hereby authorized to acquire, in the same manner, the\nright or easement, for a term of years or perpetually, to place or maintain\nsuitable marks for the daytime marking and suitable lights for the night\ntime marking of airport hazards, including the right of ingress and egress\nto or from such airport hazards for the purpose of maintaining and\nrepairing such lights and marks. This authority shall not be so construed\nas to limit the rights, power or authority of the State or any municipality\nor other political subdivision to zone property adjacent to any airport or\nrestricted landing area pursuant to any law of this State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-74",
+      "number": "74.",
+      "heading": "Condemnation. In exercising its powers and performing its functions under the laws of",
+      "text": "this State pertaining to aeronautics, when it is necessary for the use and\nbenefit of the public, pursuant to such laws, that private property be\ntaken or damaged or entry be made on private property, for the purpose of\nconstructing and installing any airport, restricted landing area or other\nair navigation facility, including buildings, structures and other\nimprovements in connection therewith, the Department in the name of the\nState, within the limitations of available appropriations, shall have the\nright to purchase the necessary land, rights in land, or easements,\nincluding avigation easements, from the owner thereof and purchase from the\nowner the right of entry, or if compensation therefor cannot be agreed upon\nbetween the Department and the owner, to have just compensation ascertained\nand to acquire and pay for such property, land, easement or right of entry,\nin the manner provided for the exercise of the\nright of eminent domain under the Eminent Domain Act. When the\nDepartment, in the name of the State, files a petition to condemn any\nprivate property, rights in land, or easement, as herein provided, the\nDepartment may enter upon the land and premises, and the buildings or\nstructures located thereon, notwithstanding that the damage or compensation\nin connection with such condemnation has not theretofore been determined\nand paid.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-745",
+      "number": "74.5.",
+      "heading": "Eminent domain. Notwithstanding any other provision of this Act, any power granted under this Act to acquire property by condemnation or eminent domain is subject to, and shall be exercised in accordance with, the Eminent Domain Act",
+      "text": "Eminent domain. Notwithstanding any other provision of this Act, any power granted under this Act to acquire property by condemnation or eminent domain is subject to, and shall be exercised in accordance with, the Eminent Domain Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-75",
+      "number": "75.",
+      "heading": "Charges and rentals.",
+      "text": "The Department shall have the authority to determine the charges or\nrental for the use of any properties and the charges for any service or\naccommodations under its control, by virtue of the provisions of Section\n72, and the terms and conditions under which such properties may be used;\nprovided that in all cases the public is not deprived of its rightful,\nfair, equal and uniform use of such property. Charges shall be reasonable\nand uniform for the same class of service and established with due regard\nto the property and improvements used and the expenses of operation to the\nState. The State shall have and the Department may enforce liens as\nprovided by law, for repairs to or improvement or storage or care of any\npersonal property, to enforce the payment of any such charges.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-76",
+      "number": "76.",
+      "heading": "Leases",
+      "text": "and sales.\nWhenever the Department determines that the public interest does not\nrequire the continued use of an airport, restricted landing area or other\nair navigation facility or real property acquired or set apart for public\nairport purposes, on behalf of the State, or that the same is no longer\nbeneficial or useful to the public, or that the same may be more\neconomically operated for the benefit and use of the public by any private\nparty or by the United States, any agency or Department thereof, any state\ngovernment other than the government of this State, or any municipality, or\nother political subdivision of this State, or of any other state, the\nDepartment may dispose of any such property, airports, restricted landing\nareas or other air navigation facilities, by sale, lease or otherwise, to\nthe Federal Government, any agency or department thereof, or to any state\ngovernment, or to any municipality or other political subdivision of this\nor any other State government, or to private persons, for aeronautical\npurposes or purposes incidental thereto, subject to the laws of this State\ngoverning the disposition of property of this State. Whenever the\nDepartment determines that the benefits to the public may be greater by so\ndoing, it may lease, for a term not exceeding 10 years, any space, area,\nimprovements, equipment, accommodations or facilities on such airports,\nrestricted landing areas or other air navigation facility, and it may\nconfer the privilege of concessions of supplying upon such airports;\nrestricted landing areas, or other air navigation facilities goods,\ncommodities, things, services and facilities; provided, that in each case\nunder this section in so doing the public is not deprived of its rightful,\nfair, equal and uniform use thereof.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-77",
+      "number": "77.",
+      "heading": "Joint operations.",
+      "text": "Joint operations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-78",
+      "number": "78.",
+      "heading": "Aeronautics Fund.",
+      "text": "All moneys hereafter received by this State, or by the Department for\nand on its behalf, under any of the laws of this State pertaining to\naeronautics, including, without limiting the generality of the foregoing,\nall moneys obtained for certificates, permits or licenses, except those\nfunds which are held by the State Treasurer as ex-officio custodian under\nthe provisions of Section 40, shall be deposited in the State treasury and\nset apart as a special fund to be known as the Aeronautics Fund. The\nAeronautics Fund shall be used, subject to appropriations made from time to\ntime, only for such purposes as may be specified under the laws, if any, of\nthe United States, heretofore or hereafter enacted or amended, providing\nfor federal aid in the establishment of public airports, and otherwise only\nfor the regulation and supervision of aeronautics in this State, and the\nadministration and enforcement of the laws of this State pertaining to\naeronautics.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-79",
+      "number": "79.",
+      "heading": "Penalties.)",
+      "text": "Except as otherwise specifically provided in this Act, any person,\nother than the Department, its officers or employees acting for and on\nbehalf of the Department, who has failed to comply with the requirements\nof, or who has violated any of the provisions of this Act, or the rules,\nrulings, regulations, orders or decisions of the Department issued pursuant\nthereto, shall be guilty of a Class A misdemeanor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-79a",
+      "number": "79a.",
+      "heading": "Enforcement.)",
+      "text": "In addition to any other remedies the Department may institute in any circuit\ncourt an action to prevent, restrain, correct or\nabate any violation of this act or of any regulations adopted or of any\norders and rulings made by the Department pursuant to this act; and the\ncourt shall adjudge to the plaintiff such relief, by way of injunction\n(which may be mandatory) or otherwise, as may be proper under all the facts\nand circumstances of the case, in order fully to effectuate the purposes of\nthis act and of the regulations adopted and orders and rulings made\npursuant thereto.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7901",
+      "number": "79.01.",
+      "heading": "When a judgment is entered against any person for any violation of this",
+      "text": "Act or of any rule, ruling, order or decision issued pursuant thereto, the\njudge entering the judgment shall within 15 days of the entry of such\njudgment report in writing to the Department giving the name of the person\nconvicted, the offense for which such person was convicted, and the penalty\nenforced against such person.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-80",
+      "number": "80.",
+      "heading": "Repeal; possession of records of Illinois Aeronautics Commission.",
+      "text": "\"An Act to Regulate Aeronautics, and Making an Appropriation Therefor\",\napproved July 9, 1931, as amended, and all acts and parts of acts which\nare inconsistent with the provisions of this Act are hereby repealed;\nprovided, however, that the provisions for repeal in this section shall not\nin any way:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-81",
+      "number": "81.",
+      "heading": "Separability.",
+      "text": "If any one or more of the provisions of this Act is declared\nunconstitutional or the application thereof is held invalid, the validity\nof the remainder of the Act and the application of such provision or\nprovisions to other persons and circumstances shall not be affected\nthereby.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-82",
+      "number": "82.",
+      "heading": "Short",
+      "text": "title. This Act may be cited as the Illinois Aeronautics Act.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

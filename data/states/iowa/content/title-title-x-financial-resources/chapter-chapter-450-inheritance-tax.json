@@ -1,0 +1,558 @@
+{
+  "state": "iowa",
+  "path": "title-title-x-financial-resources/chapter-chapter-450-inheritance-tax",
+  "sections": [
+    {
+      "id": "section-4501",
+      "number": "450.1",
+      "heading": "Definitions — construction.Section 450",
+      "text": "2 - Taxable estates and property.Section 450.3 - Property included.Section 450.4 - Exemptions.Section 450.5 - Liability for tax.Section 450.6 - Accrual of tax — maturity — extension of time.Section 450.7 - Lien of tax.Section 450.8 - Transfers and trusts.Sectio",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4502",
+      "number": "450.2",
+      "heading": "Taxable estates and property.",
+      "text": "Taxable estates and property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4503",
+      "number": "450.3",
+      "heading": "Property included.",
+      "text": "Property included.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4504",
+      "number": "450.4",
+      "heading": "Exemptions.",
+      "text": "Exemptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4505",
+      "number": "450.5",
+      "heading": "Liability for tax.",
+      "text": "Liability for tax.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4506",
+      "number": "450.6",
+      "heading": "Accrual of tax — maturity — extension of time.",
+      "text": "Accrual of tax — maturity — extension of time.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4507",
+      "number": "450.7",
+      "heading": "Lien of tax.",
+      "text": "Lien of tax.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4508",
+      "number": "450.8",
+      "heading": "Transfers and trusts.",
+      "text": "Transfers and trusts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4509",
+      "number": "450.9",
+      "heading": "Individual exemptions.",
+      "text": "Individual exemptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45010",
+      "number": "450.10",
+      "heading": "Rate of tax.",
+      "text": "Rate of tax.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-450",
+      "number": "450",
+      "heading": "11",
+      "text": "11",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45012",
+      "number": "450.12",
+      "heading": "Liabilities deductible.",
+      "text": "Liabilities deductible.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45017",
+      "number": "450.17",
+      "heading": "Conveyance — effect.",
+      "text": "Conveyance — effect.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45020",
+      "number": "450.20",
+      "heading": "Record of deferred estates.",
+      "text": "Record of deferred estates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45021",
+      "number": "450.21",
+      "heading": "Administration on application of director.",
+      "text": "Administration on application of director.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45022",
+      "number": "450.22",
+      "heading": "Administration avoided — inheritance tax duties required — penalty.",
+      "text": "Administration avoided — inheritance tax duties required — penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45024",
+      "number": "450.24",
+      "heading": "Appraisers.",
+      "text": "Appraisers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45027",
+      "number": "450.27",
+      "heading": "Commission to appraisers.",
+      "text": "Commission to appraisers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45028",
+      "number": "450.28",
+      "heading": "Notice of appraisement.",
+      "text": "Notice of appraisement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45029",
+      "number": "450.29",
+      "heading": "Notice of filing.",
+      "text": "Notice of filing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45030",
+      "number": "450.30",
+      "heading": "Real property in different counties.",
+      "text": "Real property in different counties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45031",
+      "number": "450.31",
+      "heading": "Objections.",
+      "text": "Objections.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45032",
+      "number": "450.32",
+      "heading": "Hearing — order.",
+      "text": "Hearing — order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45033",
+      "number": "450.33",
+      "heading": "Appeal and notice.",
+      "text": "Appeal and notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45034",
+      "number": "450.34",
+      "heading": "Bond on appeal.",
+      "text": "Bond on appeal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45036",
+      "number": "450.36",
+      "heading": "Appraisal of other property.",
+      "text": "Appraisal of other property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45037",
+      "number": "450.37",
+      "heading": "Value for computing the tax.",
+      "text": "Value for computing the tax.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45044",
+      "number": "450.44",
+      "heading": "Remainders — valuation.",
+      "text": "Remainders — valuation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45045",
+      "number": "450.45",
+      "heading": "Life and term estates — valuation.",
+      "text": "Life and term estates — valuation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45046",
+      "number": "450.46",
+      "heading": "Deferred estate — valuation.",
+      "text": "Deferred estate — valuation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45047",
+      "number": "450.47",
+      "heading": "Life and term estates in personal property.",
+      "text": "Life and term estates in personal property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45048",
+      "number": "450.48",
+      "heading": "Payment deferred — bond — exceptions.",
+      "text": "Payment deferred — bond — exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45049",
+      "number": "450.49",
+      "heading": "Bonds — conditions.",
+      "text": "Bonds — conditions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45050",
+      "number": "450.50",
+      "heading": "Removal of property from state — bond.",
+      "text": "Removal of property from state — bond.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45051",
+      "number": "450.51",
+      "heading": "Annuities — life and term estates.",
+      "text": "Annuities — life and term estates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45052",
+      "number": "450.52",
+      "heading": "Deferred estates — removal of lien.",
+      "text": "Deferred estates — removal of lien.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45053",
+      "number": "450.53",
+      "heading": "Duty to pay tax — penalties.",
+      "text": "Duty to pay tax — penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45054",
+      "number": "450.54",
+      "heading": "Sale to pay tax.",
+      "text": "Sale to pay tax.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45055",
+      "number": "450.55",
+      "heading": "Means to collect tax.",
+      "text": "Means to collect tax.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45057",
+      "number": "450.57",
+      "heading": "Tax deducted from legacy or collected.",
+      "text": "Tax deducted from legacy or collected.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45058",
+      "number": "450.58",
+      "heading": "Final settlement to show payment.",
+      "text": "Final settlement to show payment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45059",
+      "number": "450.59",
+      "heading": "Judicial review.",
+      "text": "Judicial review.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45060",
+      "number": "450.60",
+      "heading": "Director to represent state.",
+      "text": "Director to represent state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45061",
+      "number": "450.61",
+      "heading": "Bequests to personal representatives.",
+      "text": "Bequests to personal representatives.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45062",
+      "number": "450.62",
+      "heading": "Legacies charged upon real estate.",
+      "text": "Legacies charged upon real estate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45063",
+      "number": "450.63",
+      "heading": "Maturity of tax — interest — penalty.",
+      "text": "Maturity of tax — interest — penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45064",
+      "number": "450.64",
+      "heading": "Receipt showing payment.",
+      "text": "Receipt showing payment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45065",
+      "number": "450.65",
+      "heading": "Director to enforce collection.",
+      "text": "Director to enforce collection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45066",
+      "number": "450.66",
+      "heading": "Investigation by director.",
+      "text": "Investigation by director.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45067",
+      "number": "450.67",
+      "heading": "Inspection of books, records, etc.",
+      "text": "Inspection of books, records, etc.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45068",
+      "number": "450.68",
+      "heading": "Information confidential.",
+      "text": "Information confidential.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45069",
+      "number": "450.69",
+      "heading": "Contempt.",
+      "text": "Contempt.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45070",
+      "number": "450.70",
+      "heading": "Fees.",
+      "text": "Fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45071",
+      "number": "450.71",
+      "heading": "Proof of amount of tax due.",
+      "text": "Proof of amount of tax due.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45081",
+      "number": "450.81",
+      "heading": "Duty of recorder.",
+      "text": "Duty of recorder.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45084",
+      "number": "450.84",
+      "heading": "Costs charged against estate — exceptions.",
+      "text": "Costs charged against estate — exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45085",
+      "number": "450.85",
+      "heading": "Appropriation.",
+      "text": "Appropriation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45086",
+      "number": "450.86",
+      "heading": "Securities and assets held by bank, etc.",
+      "text": "Securities and assets held by bank, etc.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45087",
+      "number": "450.87",
+      "heading": "Transfer of corporation stock.",
+      "text": "Transfer of corporation stock.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45088",
+      "number": "450.88",
+      "heading": "Corporations to report transfers.",
+      "text": "Corporations to report transfers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45090",
+      "number": "450.90",
+      "heading": "Property in this state belonging to foreign estate.",
+      "text": "Property in this state belonging to foreign estate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45091",
+      "number": "450.91",
+      "heading": "Foreign estates — reciprocity — personal property.",
+      "text": "Foreign estates — reciprocity — personal property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45092",
+      "number": "450.92",
+      "heading": "Compromise settlement.",
+      "text": "Compromise settlement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45093",
+      "number": "450.93",
+      "heading": "Unknown heirs.",
+      "text": "Unknown heirs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45094",
+      "number": "450.94",
+      "heading": "Return — determination — appeal.",
+      "text": "Return — determination — appeal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45095",
+      "number": "450.95",
+      "heading": "Appropriation.",
+      "text": "Appropriation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45096",
+      "number": "450.96",
+      "heading": "Contingent estates.",
+      "text": "Contingent estates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45097",
+      "number": "450.97",
+      "heading": "Joint owners of bank accounts — duty to notify department of revenue.",
+      "text": "Joint owners of bank accounts — duty to notify department of revenue.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45098",
+      "number": "450.98",
+      "heading": "Tax repealed.",
+      "text": "Tax repealed.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

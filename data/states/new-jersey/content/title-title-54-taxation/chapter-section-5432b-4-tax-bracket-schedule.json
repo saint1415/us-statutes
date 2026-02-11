@@ -1,0 +1,62 @@
+{
+  "state": "new-jersey",
+  "path": "title-title-54-taxation/chapter-section-5432b-4-tax-bracket-schedule",
+  "sections": [
+    {
+      "id": "section-011",
+      "number": "0.11",
+      "heading": "to 0.19 $0.01",
+      "text": "to 0.19 $0.01",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-020",
+      "number": "0.20",
+      "heading": "to 0.32 0.02",
+      "text": "to 0.32 0.02",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-033",
+      "number": "0.33",
+      "heading": "to 0.47 0.03",
+      "text": "to 0.47 0.03",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-048",
+      "number": "0.48",
+      "heading": "to 0.62 0.04",
+      "text": "to 0.62 0.04",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-063",
+      "number": "0.63",
+      "heading": "to 0.77 0.05",
+      "text": "to 0.77 0.05",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-078",
+      "number": "0.78",
+      "heading": "to 0.90 0.06",
+      "text": "to 0.90 0.06",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-091",
+      "number": "0.91",
+      "heading": "to $1.10 0.07",
+      "text": "to $1.10 0.07",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

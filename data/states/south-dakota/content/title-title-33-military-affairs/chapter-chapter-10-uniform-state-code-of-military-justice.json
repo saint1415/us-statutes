@@ -1,0 +1,2326 @@
+{
+  "state": "south-dakota",
+  "path": "title-title-33-military-affairs/chapter-chapter-10-uniform-state-code-of-military-justice",
+  "sections": [
+    {
+      "id": "section-33-10-1",
+      "number": "33-10-1",
+      "heading": "Repealed by SL 2012, ch 175, §§290 to 308",
+      "text": "Section 33-10-20 - Definitions.Section 33-10-21 - Persons subject to this code.Section 33-10-22 - Subject matter jurisdiction--Primary jurisdiction.Section 33-10-23 - Jurisdiction over persons charged with fraudulent discharge.Section 33-10-24 - Jurisdiction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-20",
+      "number": "33-10-20",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-21",
+      "number": "33-10-21",
+      "heading": "Persons subject to this code.",
+      "text": "Persons subject to this code.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-22",
+      "number": "33-10-22",
+      "heading": "Subject matter jurisdiction--Primary jurisdiction.",
+      "text": "Subject matter jurisdiction--Primary jurisdiction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-23",
+      "number": "33-10-23",
+      "heading": "Jurisdiction over persons charged with fraudulent discharge.",
+      "text": "Jurisdiction over persons charged with fraudulent discharge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-24",
+      "number": "33-10-24",
+      "heading": "Jurisdiction over deserters.",
+      "text": "Jurisdiction over deserters.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-25",
+      "number": "33-10-25",
+      "heading": "Applicability to persons in duty status or where nexus exists between offense and state military functions--Civilian jurisdiction.",
+      "text": "Applicability to persons in duty status or where nexus exists between offense and state military functions--Civilian jurisdiction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-26",
+      "number": "33-10-26",
+      "heading": "Extraterritorial jurisdiction.",
+      "text": "Extraterritorial jurisdiction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-27",
+      "number": "33-10-27",
+      "heading": "Judge advocate supervision.",
+      "text": "Judge advocate supervision.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-28",
+      "number": "33-10-28",
+      "heading": "Communication with judge advocates.",
+      "text": "Communication with judge advocates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-29",
+      "number": "33-10-29",
+      "heading": "Judge advocate to reviewing authority.",
+      "text": "Judge advocate to reviewing authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-30",
+      "number": "33-10-30",
+      "heading": "Apprehension defined.",
+      "text": "Apprehension defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-31",
+      "number": "33-10-31",
+      "heading": "Persons authorized to apprehend upon probable cause.",
+      "text": "Persons authorized to apprehend upon probable cause.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-32",
+      "number": "33-10-32",
+      "heading": "Quelling of or apprehension for quarrels, frays, and disorders.",
+      "text": "Quelling of or apprehension for quarrels, frays, and disorders.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-33",
+      "number": "33-10-33",
+      "heading": "Extradition.",
+      "text": "Extradition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-34",
+      "number": "33-10-34",
+      "heading": "Fees for apprehension.",
+      "text": "Fees for apprehension.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-35",
+      "number": "33-10-35",
+      "heading": "Arrest and confinement defined.",
+      "text": "Arrest and confinement defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-36",
+      "number": "33-10-36",
+      "heading": "Arrest or confinement of enlisted member.",
+      "text": "Arrest or confinement of enlisted member.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-37",
+      "number": "33-10-37",
+      "heading": "Arrest or confinement of commissioned officer, warrant officer, or civilian.",
+      "text": "Arrest or confinement of commissioned officer, warrant officer, or civilian.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-38",
+      "number": "33-10-38",
+      "heading": "Probable cause to arrest or confine.",
+      "text": "Probable cause to arrest or confine.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-39",
+      "number": "33-10-39",
+      "heading": "Custody before notification of proper authority.",
+      "text": "Custody before notification of proper authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-40",
+      "number": "33-10-40",
+      "heading": "Notice of offense--Diligent steps for trial or dismissal.",
+      "text": "Notice of offense--Diligent steps for trial or dismissal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-41",
+      "number": "33-10-41",
+      "heading": "Place of confinement.",
+      "text": "Place of confinement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-42",
+      "number": "33-10-42",
+      "heading": "Receiving of prisoners.",
+      "text": "Receiving of prisoners.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-43",
+      "number": "33-10-43",
+      "heading": "Reports of prisoners.",
+      "text": "Reports of prisoners.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-44",
+      "number": "33-10-44",
+      "heading": "Confinement with enemy prisoners prohibited.",
+      "text": "Confinement with enemy prisoners prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-45",
+      "number": "33-10-45",
+      "heading": "Punishment prohibited before trial.",
+      "text": "Punishment prohibited before trial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-46",
+      "number": "33-10-46",
+      "heading": "Delivery of offenders to civil authorities.",
+      "text": "Delivery of offenders to civil authorities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-47",
+      "number": "33-10-47",
+      "heading": "Completion of sentence of court martial upon return from civil authority.",
+      "text": "Completion of sentence of court martial upon return from civil authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-48",
+      "number": "33-10-48",
+      "heading": "Failure of enlisted member to report for duty--Arrest--Fees--Promulgation of rules.",
+      "text": "Failure of enlisted member to report for duty--Arrest--Fees--Promulgation of rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-49",
+      "number": "33-10-49",
+      "heading": "Arrest or confinement for disobedience or disruption--Trespassers.",
+      "text": "Arrest or confinement for disobedience or disruption--Trespassers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-50",
+      "number": "33-10-50",
+      "heading": "Commanding officer's non-judicial punishment.",
+      "text": "Commanding officer's non-judicial punishment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-51",
+      "number": "33-10-51",
+      "heading": "Forms of punishment by any commanding officer.",
+      "text": "Forms of punishment by any commanding officer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-52",
+      "number": "33-10-52",
+      "heading": "Forms of punishment by major, lieutenant commander, or above.",
+      "text": "Forms of punishment by major, lieutenant commander, or above.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-53",
+      "number": "33-10-53",
+      "heading": "Forms of punishment by Governor, adjutant general, or certain other officers.",
+      "text": "Forms of punishment by Governor, adjutant general, or certain other officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-54",
+      "number": "33-10-54",
+      "heading": "Duration of consecutive punishments.",
+      "text": "Duration of consecutive punishments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-55",
+      "number": "33-10-55",
+      "heading": "Arrest in quarters or restriction--Notice regarding right to trial by court-martial.",
+      "text": "Arrest in quarters or restriction--Notice regarding right to trial by court-martial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-56",
+      "number": "33-10-56",
+      "heading": "Suspension or mitigation of punishment.",
+      "text": "Suspension or mitigation of punishment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-57",
+      "number": "33-10-57",
+      "heading": "Appeal.",
+      "text": "Appeal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-58",
+      "number": "33-10-58",
+      "heading": "Punishment not a bar to trial by court-martial or civilian court--Consideration of disciplinary punishment.",
+      "text": "Punishment not a bar to trial by court-martial or civilian court--Consideration of disciplinary punishment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-59",
+      "number": "33-10-59",
+      "heading": "Forfeiture of pay.",
+      "text": "Forfeiture of pay.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-60",
+      "number": "33-10-60",
+      "heading": "Promulgation of rules regarding records.",
+      "text": "Promulgation of rules regarding records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-61",
+      "number": "33-10-61",
+      "heading": "Courts-martial classified.",
+      "text": "Courts-martial classified.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-62",
+      "number": "33-10-62",
+      "heading": "Jurisdiction of courts-martial in general.",
+      "text": "Jurisdiction of courts-martial in general.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-63",
+      "number": "33-10-63",
+      "heading": "Jurisdiction of general courts-martial.",
+      "text": "Jurisdiction of general courts-martial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-64",
+      "number": "33-10-64",
+      "heading": "Jurisdiction of special courts-martial.",
+      "text": "Jurisdiction of special courts-martial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-65",
+      "number": "33-10-65",
+      "heading": "Jurisdiction of summary courts-martial.",
+      "text": "Jurisdiction of summary courts-martial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-66",
+      "number": "33-10-66",
+      "heading": "Objection to trial by summary courts-martial.",
+      "text": "Objection to trial by summary courts-martial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-67",
+      "number": "33-10-67",
+      "heading": "Who may convene general courts-martial.",
+      "text": "Who may convene general courts-martial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-68",
+      "number": "33-10-68",
+      "heading": "Who may convene special courts-martial.",
+      "text": "Who may convene special courts-martial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-69",
+      "number": "33-10-69",
+      "heading": "Who may convene summary courts-martial.",
+      "text": "Who may convene summary courts-martial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-70",
+      "number": "33-10-70",
+      "heading": "Commissioned officer service on courts-martial.",
+      "text": "Commissioned officer service on courts-martial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-71",
+      "number": "33-10-71",
+      "heading": "Warrant officer service on courts-martial.",
+      "text": "Warrant officer service on courts-martial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-72",
+      "number": "33-10-72",
+      "heading": "Enlisted member service on courts-martial.",
+      "text": "Enlisted member service on courts-martial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-73",
+      "number": "33-10-73",
+      "heading": "Court-martial member to be senior to accused.",
+      "text": "Court-martial member to be senior to accused.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-74",
+      "number": "33-10-74",
+      "heading": "Qualifications of court-martial member.",
+      "text": "Qualifications of court-martial member.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-75",
+      "number": "33-10-75",
+      "heading": "Excuse of court-martial member from participating.",
+      "text": "Excuse of court-martial member from participating.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-76",
+      "number": "33-10-76",
+      "heading": "Military judge detailed to general and special court-martial.",
+      "text": "Military judge detailed to general and special court-martial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-77",
+      "number": "33-10-77",
+      "heading": "Qualifications of military judge.",
+      "text": "Qualifications of military judge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-78",
+      "number": "33-10-78",
+      "heading": "Admission of military judge pro hac vice.",
+      "text": "Admission of military judge pro hac vice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-79",
+      "number": "33-10-79",
+      "heading": "Designation of military judge--Performance report prohibited.",
+      "text": "Designation of military judge--Performance report prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-80",
+      "number": "33-10-80",
+      "heading": "Military judge may not be accuser, witness, investigator, or counsel.",
+      "text": "Military judge may not be accuser, witness, investigator, or counsel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-81",
+      "number": "33-10-81",
+      "heading": "Consultation with members of court.",
+      "text": "Consultation with members of court.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-82",
+      "number": "33-10-82",
+      "heading": "Detail of trial counsel and defense counsel.",
+      "text": "Detail of trial counsel and defense counsel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-83",
+      "number": "33-10-83",
+      "heading": "Counsel may not have been investigator, military judge, witness, court member, or opposing counsel.",
+      "text": "Counsel may not have been investigator, military judge, witness, court member, or opposing counsel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-84",
+      "number": "33-10-84",
+      "heading": "Qualifications of counsel.",
+      "text": "Qualifications of counsel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-85",
+      "number": "33-10-85",
+      "heading": "Admission of defense counsel pro hac vice--Qualifications.",
+      "text": "Admission of defense counsel pro hac vice--Qualifications.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-86",
+      "number": "33-10-86",
+      "heading": "Detail or employment of court reporters and interpreters--Promulgation of rules.",
+      "text": "Detail or employment of court reporters and interpreters--Promulgation of rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-87",
+      "number": "33-10-87",
+      "heading": "Absent members of court-martial.",
+      "text": "Absent members of court-martial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-88",
+      "number": "33-10-88",
+      "heading": "Additional members of general court-martial.",
+      "text": "Additional members of general court-martial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-89",
+      "number": "33-10-89",
+      "heading": "Additional members of special court-martial.",
+      "text": "Additional members of special court-martial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-90",
+      "number": "33-10-90",
+      "heading": "Court-martial composed of military judge only--Procedure when military judge unable to proceed.",
+      "text": "Court-martial composed of military judge only--Procedure when military judge unable to proceed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-91",
+      "number": "33-10-91",
+      "heading": "Marshal--Duties.",
+      "text": "Marshal--Duties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-92",
+      "number": "33-10-92",
+      "heading": "Compensation of marshal.",
+      "text": "Compensation of marshal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-93",
+      "number": "33-10-93",
+      "heading": "Malfeasance of sheriff or marshal.",
+      "text": "Malfeasance of sheriff or marshal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-94",
+      "number": "33-10-94",
+      "heading": "Immunity of court members.",
+      "text": "Immunity of court members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-95",
+      "number": "33-10-95",
+      "heading": "Charges and specifications.",
+      "text": "Charges and specifications.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-96",
+      "number": "33-10-96",
+      "heading": "Compulsory self-incrimination prohibited.",
+      "text": "Compulsory self-incrimination prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-97",
+      "number": "33-10-97",
+      "heading": "Advice of right to remain silent.",
+      "text": "Advice of right to remain silent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-98",
+      "number": "33-10-98",
+      "heading": "Compulsory self-degradation prohibited.",
+      "text": "Compulsory self-degradation prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-99",
+      "number": "33-10-99",
+      "heading": "Exclusion of evidence.",
+      "text": "Exclusion of evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-100",
+      "number": "33-10-100",
+      "heading": "Investigation of charges.",
+      "text": "Investigation of charges.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-101",
+      "number": "33-10-101",
+      "heading": "Notice to accused of charges--Right to counsel--Examination of witnesses--Statement of testimony.",
+      "text": "Notice to accused of charges--Right to counsel--Examination of witnesses--Statement of testimony.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-102",
+      "number": "33-10-102",
+      "heading": "Demand for further investigation.",
+      "text": "Demand for further investigation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-103",
+      "number": "33-10-103",
+      "heading": "Investigation of uncharged offenses.",
+      "text": "Investigation of uncharged offenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-104",
+      "number": "33-10-104",
+      "heading": "Nonjurisdictional error.",
+      "text": "Nonjurisdictional error.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-105",
+      "number": "33-10-105",
+      "heading": "Forwarding of charges.",
+      "text": "Forwarding of charges.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-106",
+      "number": "33-10-106",
+      "heading": "Advice of judge advocate regarding charge.",
+      "text": "Advice of judge advocate regarding charge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-107",
+      "number": "33-10-107",
+      "heading": "Contents of judge advocate's statement--Reference for trial.",
+      "text": "Contents of judge advocate's statement--Reference for trial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-108",
+      "number": "33-10-108",
+      "heading": "Correction of charges or specifications.",
+      "text": "Correction of charges or specifications.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-109",
+      "number": "33-10-109",
+      "heading": "Service of charges.",
+      "text": "Service of charges.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-110",
+      "number": "33-10-110",
+      "heading": "Promulgation of procedural rules by Governor or adjutant general.",
+      "text": "Promulgation of procedural rules by Governor or adjutant general.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-111",
+      "number": "33-10-111",
+      "heading": "Unlawfully influencing action of court.",
+      "text": "Unlawfully influencing action of court.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-112",
+      "number": "33-10-112",
+      "heading": "Report of performance as court-martial member, witness, or counsel prohibited.",
+      "text": "Report of performance as court-martial member, witness, or counsel prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-113",
+      "number": "33-10-113",
+      "heading": "Qualifications of trial counsel--Preparation of record.",
+      "text": "Qualifications of trial counsel--Preparation of record.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-114",
+      "number": "33-10-114",
+      "heading": "Qualifications of defense counsel--Rights of accused.",
+      "text": "Qualifications of defense counsel--Rights of accused.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-115",
+      "number": "33-10-115",
+      "heading": "Duties of defense counsel in court-martial proceeding resulting in conviction.",
+      "text": "Duties of defense counsel in court-martial proceeding resulting in conviction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-116",
+      "number": "33-10-116",
+      "heading": "Sessions without presence of court-martial members--Record.",
+      "text": "Sessions without presence of court-martial members--Record.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-117",
+      "number": "33-10-117",
+      "heading": "Presence of accused, counsel, and military judge at proceedings--Exception.",
+      "text": "Presence of accused, counsel, and military judge at proceedings--Exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-118",
+      "number": "33-10-118",
+      "heading": "Continuances.",
+      "text": "Continuances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-119",
+      "number": "33-10-119",
+      "heading": "Challenges for cause.",
+      "text": "Challenges for cause.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-120",
+      "number": "33-10-120",
+      "heading": "Procedure when court members reduced below minimum by challenge for cause.",
+      "text": "Procedure when court members reduced below minimum by challenge for cause.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-121",
+      "number": "33-10-121",
+      "heading": "Peremptory challenges.",
+      "text": "Peremptory challenges.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-122",
+      "number": "33-10-122",
+      "heading": "Procedure when court members reduced below minimum by peremptory challenge.",
+      "text": "Procedure when court members reduced below minimum by peremptory challenge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-123",
+      "number": "33-10-123",
+      "heading": "Challenges after additional members are detailed.",
+      "text": "Challenges after additional members are detailed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-124",
+      "number": "33-10-124",
+      "heading": "Oath of military judge, court-martial member, trial counsel, defense counsel, reporter, and interpreter.",
+      "text": "Oath of military judge, court-martial member, trial counsel, defense counsel, reporter, and interpreter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-125",
+      "number": "33-10-125",
+      "heading": "Oath of witness.",
+      "text": "Oath of witness.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-126",
+      "number": "33-10-126",
+      "heading": "Statute of limitations.",
+      "text": "Statute of limitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-127",
+      "number": "33-10-127",
+      "heading": "Unauthorized absence excluded in computing limitation period.",
+      "text": "Unauthorized absence excluded in computing limitation period.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-128",
+      "number": "33-10-128",
+      "heading": "Absence from territory excluded in computing limitation period.",
+      "text": "Absence from territory excluded in computing limitation period.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-129",
+      "number": "33-10-129",
+      "heading": "Limitation period during wartime.",
+      "text": "Limitation period during wartime.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-130",
+      "number": "33-10-130",
+      "heading": "Statute of limitations for new charges and specifications following dismissal for defect or insufficiency.",
+      "text": "Statute of limitations for new charges and specifications following dismissal for defect or insufficiency.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-131",
+      "number": "33-10-131",
+      "heading": "Conditions for new charges and specifications.",
+      "text": "Conditions for new charges and specifications.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-132",
+      "number": "33-10-132",
+      "heading": "Former jeopardy.",
+      "text": "Former jeopardy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-133",
+      "number": "33-10-133",
+      "heading": "Jeopardy where accused found guilty.",
+      "text": "Jeopardy where accused found guilty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-134",
+      "number": "33-10-134",
+      "heading": "Jeopardy where accused not found guilty.",
+      "text": "Jeopardy where accused not found guilty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-135",
+      "number": "33-10-135",
+      "heading": "Not guilty plea.",
+      "text": "Not guilty plea.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-136",
+      "number": "33-10-136",
+      "heading": "Finding upon guilty plea--Withdrawal of guilty plea.",
+      "text": "Finding upon guilty plea--Withdrawal of guilty plea.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-137",
+      "number": "33-10-137",
+      "heading": "Opportunity to obtain witnesses and other evidence.",
+      "text": "Opportunity to obtain witnesses and other evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-138",
+      "number": "33-10-138",
+      "heading": "Refusal to appear or testify.",
+      "text": "Refusal to appear or testify.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-139",
+      "number": "33-10-139",
+      "heading": "Witness fees.",
+      "text": "Witness fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-140",
+      "number": "33-10-140",
+      "heading": "Contempt.",
+      "text": "Contempt.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-141",
+      "number": "33-10-141",
+      "heading": "Oral and written depositions.",
+      "text": "Oral and written depositions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-142",
+      "number": "33-10-142",
+      "heading": "Notice of deposition.",
+      "text": "Notice of deposition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-143",
+      "number": "33-10-143",
+      "heading": "Officers before whom deposition taken.",
+      "text": "Officers before whom deposition taken.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-144",
+      "number": "33-10-144",
+      "heading": "Admissibility of deposition.",
+      "text": "Admissibility of deposition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-145",
+      "number": "33-10-145",
+      "heading": "Admissibility of records of courts of inquiry.",
+      "text": "Admissibility of records of courts of inquiry.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-146",
+      "number": "33-10-146",
+      "heading": "Defense of lack of mental responsibility.",
+      "text": "Defense of lack of mental responsibility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-147",
+      "number": "33-10-147",
+      "heading": "Burden of proof of lack of mental responsibility.",
+      "text": "Burden of proof of lack of mental responsibility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-148",
+      "number": "33-10-148",
+      "heading": "Findings by court-martial members when lack of mental responsibility at issue.",
+      "text": "Findings by court-martial members when lack of mental responsibility at issue.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-149",
+      "number": "33-10-149",
+      "heading": "Findings by military judge or summary court-martial officer when lack of mental responsibility at issue.",
+      "text": "Findings by military judge or summary court-martial officer when lack of mental responsibility at issue.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-150",
+      "number": "33-10-150",
+      "heading": "Conditions for finding of not guilty by reason of lack of mental responsibility.",
+      "text": "Conditions for finding of not guilty by reason of lack of mental responsibility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-151",
+      "number": "33-10-151",
+      "heading": "Voting by secret written ballot.",
+      "text": "Voting by secret written ballot.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-152",
+      "number": "33-10-152",
+      "heading": "Rulings upon questions of law and interlocutory questions.",
+      "text": "Rulings upon questions of law and interlocutory questions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-153",
+      "number": "33-10-153",
+      "heading": "Instructions.",
+      "text": "Instructions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-154",
+      "number": "33-10-154",
+      "heading": "Findings and rulings by court-martial composed of military judge only.",
+      "text": "Findings and rulings by court-martial composed of military judge only.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-155",
+      "number": "33-10-155",
+      "heading": "Number of votes required.",
+      "text": "Number of votes required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-156",
+      "number": "33-10-156",
+      "heading": "Court to announce action.",
+      "text": "Court to announce action.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-157",
+      "number": "33-10-157",
+      "heading": "Record of proceedings--Authentication.",
+      "text": "Record of proceedings--Authentication.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-158",
+      "number": "33-10-158",
+      "heading": "Contents of record--Promulgation of rules.",
+      "text": "Contents of record--Promulgation of rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-159",
+      "number": "33-10-159",
+      "heading": "Records of summary court-martial--Promulgation of rules.",
+      "text": "Records of summary court-martial--Promulgation of rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-160",
+      "number": "33-10-160",
+      "heading": "Copy of record to be given to the accused.",
+      "text": "Copy of record to be given to the accused.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-161",
+      "number": "33-10-161",
+      "heading": "Cruel and unusual punishments prohibited.",
+      "text": "Cruel and unusual punishments prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-162",
+      "number": "33-10-162",
+      "heading": "Maximum sentence--Felony and misdemeanor--Noncriminal conviction.",
+      "text": "Maximum sentence--Felony and misdemeanor--Noncriminal conviction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-163",
+      "number": "33-10-163",
+      "heading": "Limits of punishment.",
+      "text": "Limits of punishment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-164",
+      "number": "33-10-164",
+      "heading": "Forfeitures.",
+      "text": "Forfeitures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-165",
+      "number": "33-10-165",
+      "heading": "Computation of period of confinement--Effective date of other sentences.",
+      "text": "Computation of period of confinement--Effective date of other sentences.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-166",
+      "number": "33-10-166",
+      "heading": "Deferment of sentence to confinement--Rescission.",
+      "text": "Deferment of sentence to confinement--Rescission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-167",
+      "number": "33-10-167",
+      "heading": "Deferment until after accused has been permanently released to state military forces.",
+      "text": "Deferment until after accused has been permanently released to state military forces.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-168",
+      "number": "33-10-168",
+      "heading": "Persons subject to deferment until permanently released to state military forces.",
+      "text": "Persons subject to deferment until permanently released to state military forces.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-169",
+      "number": "33-10-169",
+      "heading": "Deferment of sentence to confinement while review pending.",
+      "text": "Deferment of sentence to confinement while review pending.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-170",
+      "number": "33-10-170",
+      "heading": "Place of confinement.",
+      "text": "Place of confinement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-171",
+      "number": "33-10-171",
+      "heading": "Hard labor.",
+      "text": "Hard labor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-172",
+      "number": "33-10-172",
+      "heading": "Fees for confinement.",
+      "text": "Fees for confinement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-173",
+      "number": "33-10-173",
+      "heading": "Reduction of enlisted member pay grade.",
+      "text": "Reduction of enlisted member pay grade.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-174",
+      "number": "33-10-174",
+      "heading": "Restoration of pay.",
+      "text": "Restoration of pay.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-175",
+      "number": "33-10-175",
+      "heading": "Forfeiture of pay and allowances.",
+      "text": "Forfeiture of pay and allowances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-176",
+      "number": "33-10-176",
+      "heading": "Sentences subject to forfeiture of pay and allowances.",
+      "text": "Sentences subject to forfeiture of pay and allowances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-177",
+      "number": "33-10-177",
+      "heading": "Waiver of forfeiture of pay and allowances for dependents of accused.",
+      "text": "Waiver of forfeiture of pay and allowances for dependents of accused.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-178",
+      "number": "33-10-178",
+      "heading": "Restoration of pay and allowances.",
+      "text": "Restoration of pay and allowances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-179",
+      "number": "33-10-179",
+      "heading": "Error of law.",
+      "text": "Error of law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-180",
+      "number": "33-10-180",
+      "heading": "Lesser included offense.",
+      "text": "Lesser included offense.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-181",
+      "number": "33-10-181",
+      "heading": "Prompt report of findings and sentence to convening authority.",
+      "text": "Prompt report of findings and sentence to convening authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-182",
+      "number": "33-10-182",
+      "heading": "Submission to convening authority of matters for consideration--Time for submission.",
+      "text": "Submission to convening authority of matters for consideration--Time for submission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-183",
+      "number": "33-10-183",
+      "heading": "Extension of time for submission.",
+      "text": "Extension of time for submission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-184",
+      "number": "33-10-184",
+      "heading": "Provision of record to accused.",
+      "text": "Provision of record to accused.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-185",
+      "number": "33-10-185",
+      "heading": "Waiver of right to make submission.",
+      "text": "Waiver of right to make submission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-186",
+      "number": "33-10-186",
+      "heading": "Authority to modify findings and sentence.",
+      "text": "Authority to modify findings and sentence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-187",
+      "number": "33-10-187",
+      "heading": "Action on sentence of court-martial.",
+      "text": "Action on sentence of court-martial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-188",
+      "number": "33-10-188",
+      "heading": "Action on findings of court-martial.",
+      "text": "Action on findings of court-martial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-189",
+      "number": "33-10-189",
+      "heading": "Recommendation of judge advocate--Promulgation of rules--Response and objection.",
+      "text": "Recommendation of judge advocate--Promulgation of rules--Response and objection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-190",
+      "number": "33-10-190",
+      "heading": "Proceeding in revision or rehearing.",
+      "text": "Proceeding in revision or rehearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-191",
+      "number": "33-10-191",
+      "heading": "Matters considered at proceeding in revision.",
+      "text": "Matters considered at proceeding in revision.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-192",
+      "number": "33-10-192",
+      "heading": "Matters considered at rehearing--Dismissal without rehearing.",
+      "text": "Matters considered at rehearing--Dismissal without rehearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-193",
+      "number": "33-10-193",
+      "heading": "Withdrawal of appeal.",
+      "text": "Withdrawal of appeal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-194",
+      "number": "33-10-194",
+      "heading": "Time for withdrawal of appeal.",
+      "text": "Time for withdrawal of appeal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-195",
+      "number": "33-10-195",
+      "heading": "Appeal by the state.",
+      "text": "Appeal by the state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-196",
+      "number": "33-10-196",
+      "heading": "Time for appeal by the state--Contents of notice of appeal.",
+      "text": "Time for appeal by the state--Contents of notice of appeal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-197",
+      "number": "33-10-197",
+      "heading": "Diligent prosecution of appeal.",
+      "text": "Diligent prosecution of appeal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-198",
+      "number": "33-10-198",
+      "heading": "State's appeal to Supreme Court limited to matters of law.",
+      "text": "State's appeal to Supreme Court limited to matters of law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-199",
+      "number": "33-10-199",
+      "heading": "Consideration of delay concerning issue of speedy trial.",
+      "text": "Consideration of delay concerning issue of speedy trial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-200",
+      "number": "33-10-200",
+      "heading": "Rehearings.",
+      "text": "Rehearings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-201",
+      "number": "33-10-201",
+      "heading": "Review by senior force judge advocate.",
+      "text": "Review by senior force judge advocate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-202",
+      "number": "33-10-202",
+      "heading": "Adjutant General action--Promulgation of rules.",
+      "text": "Adjutant General action--Promulgation of rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-203",
+      "number": "33-10-203",
+      "heading": "Action by adjutant general.",
+      "text": "Action by adjutant general.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-204",
+      "number": "33-10-204",
+      "heading": "Dismissal when rehearing impracticable.",
+      "text": "Dismissal when rehearing impracticable.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-205",
+      "number": "33-10-205",
+      "heading": "Action by the Governor.",
+      "text": "Action by the Governor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-206",
+      "number": "33-10-206",
+      "heading": "Senior force judge advocate review of subject matter jurisdiction in case of finding of not guilty.",
+      "text": "Senior force judge advocate review of subject matter jurisdiction in case of finding of not guilty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-207",
+      "number": "33-10-207",
+      "heading": "Action by adjutant general regarding subject matter jurisdiction.",
+      "text": "Action by adjutant general regarding subject matter jurisdiction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-208",
+      "number": "33-10-208",
+      "heading": "Disposition of records.",
+      "text": "Disposition of records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-209",
+      "number": "33-10-209",
+      "heading": "Review by Supreme Court.",
+      "text": "Review by Supreme Court.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-210",
+      "number": "33-10-210",
+      "heading": "Appellate government counsel.",
+      "text": "Appellate government counsel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-211",
+      "number": "33-10-211",
+      "heading": "Right to counsel on appeal by state.",
+      "text": "Right to counsel on appeal by state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-212",
+      "number": "33-10-212",
+      "heading": "Right to counsel on appeal by accused.",
+      "text": "Right to counsel on appeal by accused.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-213",
+      "number": "33-10-213",
+      "heading": "Appointment of judge advocate to represent accused.",
+      "text": "Appointment of judge advocate to represent accused.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-214",
+      "number": "33-10-214",
+      "heading": "Representation by civilian appellate counsel.",
+      "text": "Representation by civilian appellate counsel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-215",
+      "number": "33-10-215",
+      "heading": "Execution of sentence of dismissal or dishonorable or bad-conduct discharge when appeal not waived or withdrawn.",
+      "text": "Execution of sentence of dismissal or dishonorable or bad-conduct discharge when appeal not waived or withdrawn.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-216",
+      "number": "33-10-216",
+      "heading": "Execution of sentence when appeal waived or withdrawn.",
+      "text": "Execution of sentence when appeal waived or withdrawn.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-217",
+      "number": "33-10-217",
+      "heading": "Probation violation--Hearing--Representation by counsel.",
+      "text": "Probation violation--Hearing--Representation by counsel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-218",
+      "number": "33-10-218",
+      "heading": "Vacation of suspension--Execution of sentence.",
+      "text": "Vacation of suspension--Execution of sentence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-219",
+      "number": "33-10-219",
+      "heading": "Authority to vacate suspension.",
+      "text": "Authority to vacate suspension.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-220",
+      "number": "33-10-220",
+      "heading": "Petition for new trial.",
+      "text": "Petition for new trial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-221",
+      "number": "33-10-221",
+      "heading": "Remission and suspension.",
+      "text": "Remission and suspension.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-222",
+      "number": "33-10-222",
+      "heading": "Restoration--Promulgation of rules.",
+      "text": "Restoration--Promulgation of rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-223",
+      "number": "33-10-223",
+      "heading": "Substitution for dishonorable or bad-conduct discharge.",
+      "text": "Substitution for dishonorable or bad-conduct discharge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-224",
+      "number": "33-10-224",
+      "heading": "Reappointment of commissioned officer.",
+      "text": "Reappointment of commissioned officer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-225",
+      "number": "33-10-225",
+      "heading": "Finality of proceedings, findings, and sentences.",
+      "text": "Finality of proceedings, findings, and sentences.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-226",
+      "number": "33-10-226",
+      "heading": "Leave required pending review of certain court-martial convictions.",
+      "text": "Leave required pending review of certain court-martial convictions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-227",
+      "number": "33-10-227",
+      "heading": "Commitment of person incompetent to stand trial.",
+      "text": "Commitment of person incompetent to stand trial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-228",
+      "number": "33-10-228",
+      "heading": "Action in accordance with statute applicable to persons incompetent to stand trial.",
+      "text": "Action in accordance with statute applicable to persons incompetent to stand trial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-229",
+      "number": "33-10-229",
+      "heading": "Notice of determination that accused is competent to stand trial.",
+      "text": "Notice of determination that accused is competent to stand trial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-230",
+      "number": "33-10-230",
+      "heading": "Action by general court-martial convening authority or attorney general.",
+      "text": "Action by general court-martial convening authority or attorney general.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-231",
+      "number": "33-10-231",
+      "heading": "Custody of facility director.",
+      "text": "Custody of facility director.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-232",
+      "number": "33-10-232",
+      "heading": "References to court that ordered commitment.",
+      "text": "References to court that ordered commitment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-233",
+      "number": "33-10-233",
+      "heading": "Commitment of person found not guilty by reason of lack of mental responsibility.",
+      "text": "Commitment of person found not guilty by reason of lack of mental responsibility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-234",
+      "number": "33-10-234",
+      "heading": "Hearing on mental condition.",
+      "text": "Hearing on mental condition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-235",
+      "number": "33-10-235",
+      "heading": "Report of hearing results.",
+      "text": "Report of hearing results.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-236",
+      "number": "33-10-236",
+      "heading": "Action when release would create substantial risk of injury or serious property damage.",
+      "text": "Action when release would create substantial risk of injury or serious property damage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-237",
+      "number": "33-10-237",
+      "heading": "Statute applicable to hospitalized person.",
+      "text": "Statute applicable to hospitalized person.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-238",
+      "number": "33-10-238",
+      "heading": "Application of statute comparable to 18 U.S.C. 4247(d).",
+      "text": "Application of statute comparable to 18 U.S.C. 4247(d).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-239",
+      "number": "33-10-239",
+      "heading": "Application of statute comparable to 18 U.S.C. § 4241 et seq.--Change of status.",
+      "text": "Application of statute comparable to 18 U.S.C. § 4241 et seq.--Change of status.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-240",
+      "number": "33-10-240",
+      "heading": "Principal defined.",
+      "text": "Principal defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-241",
+      "number": "33-10-241",
+      "heading": "Accessory after the fact.",
+      "text": "Accessory after the fact.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-242",
+      "number": "33-10-242",
+      "heading": "Included offense--Attempted offense.",
+      "text": "Included offense--Attempted offense.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-243",
+      "number": "33-10-243",
+      "heading": "Attempt defined.",
+      "text": "Attempt defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-244",
+      "number": "33-10-244",
+      "heading": "Attempt to commit offense subject to punishment.",
+      "text": "Attempt to commit offense subject to punishment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-245",
+      "number": "33-10-245",
+      "heading": "Conviction of attempt for consummated offense.",
+      "text": "Conviction of attempt for consummated offense.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-246",
+      "number": "33-10-246",
+      "heading": "Conspiracy.",
+      "text": "Conspiracy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-247",
+      "number": "33-10-247",
+      "heading": "Solicitation to desert or mutiny.",
+      "text": "Solicitation to desert or mutiny.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-248",
+      "number": "33-10-248",
+      "heading": "Solicitation to commit misbehavior before the enemy or sedition.",
+      "text": "Solicitation to commit misbehavior before the enemy or sedition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-249",
+      "number": "33-10-249",
+      "heading": "Fraudulent enlistment, appointment, or separation.",
+      "text": "Fraudulent enlistment, appointment, or separation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-250",
+      "number": "33-10-250",
+      "heading": "Unlawful enlistment, appointment, or separation.",
+      "text": "Unlawful enlistment, appointment, or separation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-251",
+      "number": "33-10-251",
+      "heading": "Desertion.",
+      "text": "Desertion.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-252",
+      "number": "33-10-252",
+      "heading": "Desertion by commissioned officer.",
+      "text": "Desertion by commissioned officer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-253",
+      "number": "33-10-253",
+      "heading": "Punishment for desertion.",
+      "text": "Punishment for desertion.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-254",
+      "number": "33-10-254",
+      "heading": "Absence without leave.",
+      "text": "Absence without leave.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-255",
+      "number": "33-10-255",
+      "heading": "Missing movement.",
+      "text": "Missing movement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-256",
+      "number": "33-10-256",
+      "heading": "Contempt toward officials.",
+      "text": "Contempt toward officials.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-257",
+      "number": "33-10-257",
+      "heading": "Disrespect toward superior commissioned officer.",
+      "text": "Disrespect toward superior commissioned officer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-258",
+      "number": "33-10-258",
+      "heading": "Assaulting or willfully disobeying superior commissioned officer.",
+      "text": "Assaulting or willfully disobeying superior commissioned officer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-259",
+      "number": "33-10-259",
+      "heading": "Insubordinate conduct toward warrant officer, noncommissioned officer, or petty officer.",
+      "text": "Insubordinate conduct toward warrant officer, noncommissioned officer, or petty officer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-260",
+      "number": "33-10-260",
+      "heading": "Failure to obey order or regulation.",
+      "text": "Failure to obey order or regulation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-261",
+      "number": "33-10-261",
+      "heading": "Cruelty and maltreatment.",
+      "text": "Cruelty and maltreatment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-262",
+      "number": "33-10-262",
+      "heading": "Mutiny--Sedition--Failure to suppress or report.",
+      "text": "Mutiny--Sedition--Failure to suppress or report.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-263",
+      "number": "33-10-263",
+      "heading": "Punishment for mutiny or sedition.",
+      "text": "Punishment for mutiny or sedition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-264",
+      "number": "33-10-264",
+      "heading": "Resistance--Flight--Breach of arrest--Escape.",
+      "text": "Resistance--Flight--Breach of arrest--Escape.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-265",
+      "number": "33-10-265",
+      "heading": "Releasing prisoner without proper authority.",
+      "text": "Releasing prisoner without proper authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-266",
+      "number": "33-10-266",
+      "heading": "Unlawful detention.",
+      "text": "Unlawful detention.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-267",
+      "number": "33-10-267",
+      "heading": "Noncompliance with procedural rules.",
+      "text": "Noncompliance with procedural rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-268",
+      "number": "33-10-268",
+      "heading": "Misbehavior before the enemy.",
+      "text": "Misbehavior before the enemy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-269",
+      "number": "33-10-269",
+      "heading": "Subordinate compelling surrender.",
+      "text": "Subordinate compelling surrender.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-270",
+      "number": "33-10-270",
+      "heading": "Improper use of countersign.",
+      "text": "Improper use of countersign.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-271",
+      "number": "33-10-271",
+      "heading": "Captured or abandoned property--Securing and turning over.",
+      "text": "Captured or abandoned property--Securing and turning over.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-272",
+      "number": "33-10-272",
+      "heading": "Captured or abandoned property--Offenses.",
+      "text": "Captured or abandoned property--Offenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-273",
+      "number": "33-10-273",
+      "heading": "Aiding the enemy.",
+      "text": "Aiding the enemy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-274",
+      "number": "33-10-274",
+      "heading": "Misconduct as prisoner.",
+      "text": "Misconduct as prisoner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-275",
+      "number": "33-10-275",
+      "heading": "False official statements.",
+      "text": "False official statements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-276",
+      "number": "33-10-276",
+      "heading": "Military property--Loss, damage, destruction, or wrongful disposition.",
+      "text": "Military property--Loss, damage, destruction, or wrongful disposition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-277",
+      "number": "33-10-277",
+      "heading": "Property other than military property--Waste, spoilage, or destruction.",
+      "text": "Property other than military property--Waste, spoilage, or destruction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-278",
+      "number": "33-10-278",
+      "heading": "Willful hazarding of vessel.",
+      "text": "Willful hazarding of vessel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-279",
+      "number": "33-10-279",
+      "heading": "Negligent hazarding of vessel.",
+      "text": "Negligent hazarding of vessel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-280",
+      "number": "33-10-280",
+      "heading": "Drunk on duty.",
+      "text": "Drunk on duty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-281",
+      "number": "33-10-281",
+      "heading": "Wrongful use, possession, or distribution of controlled substances.",
+      "text": "Wrongful use, possession, or distribution of controlled substances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-282",
+      "number": "33-10-282",
+      "heading": "Controlled substances defined.",
+      "text": "Controlled substances defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-283",
+      "number": "33-10-283",
+      "heading": "Misbehavior of sentinel.",
+      "text": "Misbehavior of sentinel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-284",
+      "number": "33-10-284",
+      "heading": "Malingering.",
+      "text": "Malingering.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-285",
+      "number": "33-10-285",
+      "heading": "Riot or breach of peace.",
+      "text": "Riot or breach of peace.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-286",
+      "number": "33-10-286",
+      "heading": "Provoking speeches or gestures.",
+      "text": "Provoking speeches or gestures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-287",
+      "number": "33-10-287",
+      "heading": "Frauds against the government.",
+      "text": "Frauds against the government.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-288",
+      "number": "33-10-288",
+      "heading": "Conduct unbecoming an officer.",
+      "text": "Conduct unbecoming an officer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-289",
+      "number": "33-10-289",
+      "heading": "Disorder and neglect--Conduct discrediting state military forces.",
+      "text": "Disorder and neglect--Conduct discrediting state military forces.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-290",
+      "number": "33-10-290",
+      "heading": "Court of inquiry convened for investigation.",
+      "text": "Court of inquiry convened for investigation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-291",
+      "number": "33-10-291",
+      "heading": "Members of court--Counsel.",
+      "text": "Members of court--Counsel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-292",
+      "number": "33-10-292",
+      "heading": "Parties.",
+      "text": "Parties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-293",
+      "number": "33-10-293",
+      "heading": "Challenge to court members.",
+      "text": "Challenge to court members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-294",
+      "number": "33-10-294",
+      "heading": "Oaths.",
+      "text": "Oaths.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-295",
+      "number": "33-10-295",
+      "heading": "Witnesses.",
+      "text": "Witnesses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-296",
+      "number": "33-10-296",
+      "heading": "Findings--Opinions.",
+      "text": "Findings--Opinions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-297",
+      "number": "33-10-297",
+      "heading": "Record of proceedings.",
+      "text": "Record of proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-298",
+      "number": "33-10-298",
+      "heading": "Administration of oaths for purposes of military administration.",
+      "text": "Administration of oaths for purposes of military administration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-299",
+      "number": "33-10-299",
+      "heading": "Administration of oaths necessary in performance of duties.",
+      "text": "Administration of oaths necessary in performance of duties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-300",
+      "number": "33-10-300",
+      "heading": "Prima facie evidence of authority to administer oath.",
+      "text": "Prima facie evidence of authority to administer oath.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-301",
+      "number": "33-10-301",
+      "heading": "Complaint of wrong.",
+      "text": "Complaint of wrong.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-302",
+      "number": "33-10-302",
+      "heading": "Delegation by Governor.",
+      "text": "Delegation by Governor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-303",
+      "number": "33-10-303",
+      "heading": "Payment of fees, costs, and expenses.",
+      "text": "Payment of fees, costs, and expenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-304",
+      "number": "33-10-304",
+      "heading": "Military justice fund.",
+      "text": "Military justice fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-305",
+      "number": "33-10-305",
+      "heading": "Payment of fines--Disposition.",
+      "text": "Payment of fines--Disposition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-306",
+      "number": "33-10-306",
+      "heading": "Uniformity of interpretation.",
+      "text": "Uniformity of interpretation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-307",
+      "number": "33-10-307",
+      "heading": "Immunity for action of military courts.",
+      "text": "Immunity for action of military courts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33-10-308",
+      "number": "33-10-308",
+      "heading": "Short title.",
+      "text": "Short title.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

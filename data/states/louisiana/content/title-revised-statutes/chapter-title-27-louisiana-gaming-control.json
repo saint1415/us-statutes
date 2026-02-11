@@ -1,0 +1,2510 @@
+{
+  "state": "louisiana",
+  "path": "title-revised-statutes/chapter-title-27-louisiana-gaming-control",
+  "sections": [
+    {
+      "id": "section-271",
+      "number": "27:1.",
+      "heading": "Short title",
+      "text": "Short title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-272",
+      "number": "27:2.",
+      "heading": "Public policy of state concerning gaming; status of licenses, contracts, and permits",
+      "text": "Public policy of state concerning gaming; status of licenses, contracts, and permits",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-273",
+      "number": "27:3.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2711",
+      "number": "27:11.",
+      "heading": "Louisiana Gaming Control Board; creation; members; terms; meetings",
+      "text": "Louisiana Gaming Control Board; creation; members; terms; meetings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2712",
+      "number": "27:12.",
+      "heading": "Certain financial interests prohibited; oaths",
+      "text": "Certain financial interests prohibited; oaths",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2713",
+      "number": "27:13.",
+      "heading": "Standards of conduct",
+      "text": "Standards of conduct",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2714",
+      "number": "27:14.",
+      "heading": "Compensation",
+      "text": "Compensation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2715",
+      "number": "27:15.",
+      "heading": "Board's authority; responsibilities",
+      "text": "Board's authority; responsibilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27151",
+      "number": "27:15.1.",
+      "heading": "Sports wagering",
+      "text": "Sports wagering",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2716",
+      "number": "27:16.",
+      "heading": "Chairman; power and duties",
+      "text": "Chairman; power and duties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2717",
+      "number": "27:17.",
+      "heading": "Offices",
+      "text": "Offices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2718",
+      "number": "27:18.",
+      "heading": "Venue",
+      "text": "Venue",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2719",
+      "number": "27:19.",
+      "heading": "Attorney general",
+      "text": "Attorney general",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2720",
+      "number": "27:20.",
+      "heading": "Department of Public Safety and Corrections, office of state police",
+      "text": "Department of Public Safety and Corrections, office of state police",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2721",
+      "number": "27:21.",
+      "heading": "Records of board deemed open, exceptions",
+      "text": "Records of board deemed open, exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27211",
+      "number": "27:21.1.",
+      "heading": "Quarterly reporting of professional services information",
+      "text": "Quarterly reporting of professional services information",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2722",
+      "number": "27:22.",
+      "heading": "Restricted use agreements; confidentiality of records",
+      "text": "Restricted use agreements; confidentiality of records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2723",
+      "number": "27:23.",
+      "heading": "Contracts",
+      "text": "Contracts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2724",
+      "number": "27:24.",
+      "heading": "Rulemaking authority; fees and fines; collection",
+      "text": "Rulemaking authority; fees and fines; collection",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2725",
+      "number": "27:25.",
+      "heading": "Hearing officer; duties",
+      "text": "Hearing officer; duties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2726",
+      "number": "27:26.",
+      "heading": "Appeals from board",
+      "text": "Appeals from board",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2727",
+      "number": "27:27.",
+      "heading": "Institutional investors or institutional lenders",
+      "text": "Institutional investors or institutional lenders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27271",
+      "number": "27:27.1.",
+      "heading": "Uniform compulsive and problem gambling program",
+      "text": "Uniform compulsive and problem gambling program",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27272",
+      "number": "27:27.2.",
+      "heading": "Board designated excluded persons",
+      "text": "Board designated excluded persons",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27273",
+      "number": "27:27.3.",
+      "heading": "Advertising; compulsive gambling information",
+      "text": "Advertising; compulsive gambling information",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27274",
+      "number": "27:27.4.",
+      "heading": "Exclusion or ejection of persons",
+      "text": "Exclusion or ejection of persons",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27275",
+      "number": "27:27.5.",
+      "heading": "Uniform human trafficking awareness and prevention training",
+      "text": "Uniform human trafficking awareness and prevention training",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2728",
+      "number": "27:28.",
+      "heading": "Suitability standards",
+      "text": "Suitability standards",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2729",
+      "number": "27:29.",
+      "heading": "Permit required; terms; disposition of fees",
+      "text": "Permit required; terms; disposition of fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27291",
+      "number": "27:29.1.",
+      "heading": "Manufacturer; permits",
+      "text": "Manufacturer; permits",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27292",
+      "number": "27:29.2.",
+      "heading": "Gaming supplier permits",
+      "text": "Gaming supplier permits",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27293",
+      "number": "27:29.3.",
+      "heading": "Employee training; supplier suitability",
+      "text": "Employee training; supplier suitability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27294",
+      "number": "27:29.4.",
+      "heading": "Key and non-key gaming employee permit",
+      "text": "Key and non-key gaming employee permit",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27295",
+      "number": "27:29.5.",
+      "heading": "Renewal of permits; penalties",
+      "text": "Renewal of permits; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2730",
+      "number": "27:30.",
+      "heading": "Crime of making false statements relating to gaming",
+      "text": "Crime of making false statements relating to gaming",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27301",
+      "number": "27:30.1.",
+      "heading": "Unlawful use of state-issued identification to gain access to a gaming establishment or in conjunction with gaming activities",
+      "text": "Unlawful use of state-issued identification to gain access to a gaming establishment or in conjunction with gaming activities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27302",
+      "number": "27:30.2.",
+      "heading": "Unlawful use of an expired permit",
+      "text": "Unlawful use of an expired permit",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27303",
+      "number": "27:30.3.",
+      "heading": "Use of a counterfeit or unlawful wagering instrument prohibited",
+      "text": "Use of a counterfeit or unlawful wagering instrument prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27304",
+      "number": "27:30.4.",
+      "heading": "Unlawful possession of devices intended for violations of the Louisiana Gaming Control Law",
+      "text": "Unlawful possession of devices intended for violations of the Louisiana Gaming Control Law",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27305",
+      "number": "27:30.5.",
+      "heading": "Manufacture, sale, or distribution of gaming materials intended for illegal use prohibited; altering equipment prohibited; instructing others in cheating prohibited",
+      "text": "Manufacture, sale, or distribution of gaming materials intended for illegal use prohibited; altering equipment prohibited; instructing others in cheating prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27306",
+      "number": "27:30.6.",
+      "heading": "Electronic gaming devices; licensee's central computer system",
+      "text": "Electronic gaming devices; licensee's central computer system",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2731",
+      "number": "27:31.",
+      "heading": "Transfer of obligations, funding sources, and functions",
+      "text": "Transfer of obligations, funding sources, and functions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2732",
+      "number": "27:32.",
+      "heading": "Executive organization; retention of function",
+      "text": "Executive organization; retention of function",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2741",
+      "number": "27:41.",
+      "heading": "Title and citation",
+      "text": "Title and citation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2742",
+      "number": "27:42.",
+      "heading": "Public policy of riverboat economic development and gaming activities",
+      "text": "Public policy of riverboat economic development and gaming activities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2743",
+      "number": "27:43.",
+      "heading": "Gaming activities allowed on designated rivers and waterways",
+      "text": "Gaming activities allowed on designated rivers and waterways",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2744",
+      "number": "27:44.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27441",
+      "number": "27:44.1.",
+      "heading": "Riverboat inspections; alternative inspections when certificate of inspection not issued; inspections for non-certificated vessels",
+      "text": "Riverboat inspections; alternative inspections when certificate of inspection not issued; inspections for non-certificated vessels",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27442",
+      "number": "27:44.2.",
+      "heading": "Riverboat inspections for landside facilities; state fire marshal",
+      "text": "Riverboat inspections for landside facilities; state fire marshal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2745",
+      "number": "27:45.",
+      "heading": "Records of the division and the board",
+      "text": "Records of the division and the board",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2746",
+      "number": "27:46.",
+      "heading": "Quarterly reporting of professional services and employment information",
+      "text": "Quarterly reporting of professional services and employment information",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2747",
+      "number": "27:47.",
+      "heading": "License required",
+      "text": "License required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2748",
+      "number": "27:48.",
+      "heading": "Repealed by Acts 2012, No. 711, §2.",
+      "text": "Repealed by Acts 2012, No. 711, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2751",
+      "number": "27:51.",
+      "heading": "Repealed by Acts 2012, No. 711, §2.",
+      "text": "Repealed by Acts 2012, No. 711, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2752",
+      "number": "27:52.",
+      "heading": "Board; powers; duties; rules",
+      "text": "Board; powers; duties; rules",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2755",
+      "number": "27:55.",
+      "heading": "Gaming Enforcement Division",
+      "text": "Gaming Enforcement Division",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2756",
+      "number": "27:56.",
+      "heading": "Supervisor",
+      "text": "Supervisor",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2757",
+      "number": "27:57.",
+      "heading": "General powers and duties of division",
+      "text": "General powers and duties of division",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2758",
+      "number": "27:58.",
+      "heading": "Division responsibilities",
+      "text": "Division responsibilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2759",
+      "number": "27:59.",
+      "heading": "Division; rules and regulations",
+      "text": "Division; rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2760",
+      "number": "27:60.",
+      "heading": "Repealed by Acts 2001, No. 1124, §2.",
+      "text": "Repealed by Acts 2001, No. 1124, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2761",
+      "number": "27:61.",
+      "heading": "Obligations of licensees",
+      "text": "Obligations of licensees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2763",
+      "number": "27:63.",
+      "heading": "Standards of conduct",
+      "text": "Standards of conduct",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2765",
+      "number": "27:65.",
+      "heading": "Licenses to conduct gaming activities upon riverboats; limitations",
+      "text": "Licenses to conduct gaming activities upon riverboats; limitations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2766",
+      "number": "27:66.",
+      "heading": "Gaming while a riverboat is docked in the parish of the official gaming establishment",
+      "text": "Gaming while a riverboat is docked in the parish of the official gaming establishment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2767",
+      "number": "27:67.",
+      "heading": "Economic development relocation application; procedure; requirements",
+      "text": "Economic development relocation application; procedure; requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2768",
+      "number": "27:68.",
+      "heading": "Transfer",
+      "text": "Transfer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27681",
+      "number": "27:68.1.",
+      "heading": "Notice of lis pendens; actions involving gaming",
+      "text": "Notice of lis pendens; actions involving gaming",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2770",
+      "number": "27:70.",
+      "heading": "Gaming operator license and permits; suitability",
+      "text": "Gaming operator license and permits; suitability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2771",
+      "number": "27:71.",
+      "heading": "Application for license; additional requirements; summary of proposed gaming operations",
+      "text": "Application for license; additional requirements; summary of proposed gaming operations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2772",
+      "number": "27:72.",
+      "heading": "Application process; investigation fees",
+      "text": "Application process; investigation fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2773",
+      "number": "27:73.",
+      "heading": "Hearing on application license to conduct gaming operations",
+      "text": "Hearing on application license to conduct gaming operations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2774",
+      "number": "27:74.",
+      "heading": "Licenses; term",
+      "text": "Licenses; term",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2775",
+      "number": "27:75.",
+      "heading": "Renewal of licenses; penalties",
+      "text": "Renewal of licenses; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2776",
+      "number": "27:76.",
+      "heading": "Repealed by Acts 2001, No. 1222, §2, eff. July 2, 2001.",
+      "text": "Repealed by Acts 2001, No. 1222, §2, eff. July 2, 2001.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2777",
+      "number": "27:77.",
+      "heading": "Repealed by Acts 2001, No. 1222, §2, eff. July 2, 2001.",
+      "text": "Repealed by Acts 2001, No. 1222, §2, eff. July 2, 2001.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2778",
+      "number": "27:78.",
+      "heading": "Repealed by Acts 2001, No. 1222, §2, eff. July 2, 2001.",
+      "text": "Repealed by Acts 2001, No. 1222, §2, eff. July 2, 2001.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2781",
+      "number": "27:81.",
+      "heading": "Issuance of permits to certain persons furnishing services or goods",
+      "text": "Issuance of permits to certain persons furnishing services or goods",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2782",
+      "number": "27:82.",
+      "heading": "Repealed by Acts 2001, No. 1222, §2, eff. July 2, 2001.",
+      "text": "Repealed by Acts 2001, No. 1222, §2, eff. July 2, 2001.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2783",
+      "number": "27:83.",
+      "heading": "Repealed by Acts 2001, No. 1222, §2, eff. July 2, 2001.",
+      "text": "Repealed by Acts 2001, No. 1222, §2, eff. July 2, 2001.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2784",
+      "number": "27:84.",
+      "heading": "Gaming employee permits",
+      "text": "Gaming employee permits",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2785",
+      "number": "27:85.",
+      "heading": "Employment of unpermitted persons; underage persons",
+      "text": "Employment of unpermitted persons; underage persons",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2786",
+      "number": "27:86.",
+      "heading": "Issuance of permit to conduct racehorse wagering",
+      "text": "Issuance of permit to conduct racehorse wagering",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2788",
+      "number": "27:88.",
+      "heading": "Repealed by Acts 2012, No. 711, §2.",
+      "text": "Repealed by Acts 2012, No. 711, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2789",
+      "number": "27:89.",
+      "heading": "Repealed by Acts 2001, No. 1222, §2, eff. July 2, 2001.",
+      "text": "Repealed by Acts 2001, No. 1222, §2, eff. July 2, 2001.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2791",
+      "number": "27:91.",
+      "heading": "Fees for issuance of licenses and permits",
+      "text": "Fees for issuance of licenses and permits",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2792",
+      "number": "27:92.",
+      "heading": "Collection and disposition of fees",
+      "text": "Collection and disposition of fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2793",
+      "number": "27:93.",
+      "heading": "Authorization of local governing authorities; fees; regulation; local option",
+      "text": "Authorization of local governing authorities; fees; regulation; local option",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2794",
+      "number": "27:94.",
+      "heading": "Ninety-day time period to claim jackpot ticket; collection and use of funds",
+      "text": "Ninety-day time period to claim jackpot ticket; collection and use of funds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2796",
+      "number": "27:96.",
+      "heading": "Contracts prohibited; gaming operator; public officials; penalties",
+      "text": "Contracts prohibited; gaming operator; public officials; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2797",
+      "number": "27:97.",
+      "heading": "Repealed by Acts 2012, No. 711, §2.",
+      "text": "Repealed by Acts 2012, No. 711, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2798",
+      "number": "27:98.",
+      "heading": "Skimming of gaming proceeds",
+      "text": "Skimming of gaming proceeds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2799",
+      "number": "27:99.",
+      "heading": "Repealed by Acts 2001, No. 1222, §2, eff. July 2, 2001.",
+      "text": "Repealed by Acts 2001, No. 1222, §2, eff. July 2, 2001.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27100",
+      "number": "27:100.",
+      "heading": "Repealed by Acts 2001, No. 216, §2.",
+      "text": "Repealed by Acts 2001, No. 216, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27101",
+      "number": "27:101.",
+      "heading": "Check cashing; purchase of tokens, chips, and electronic cards; prohibitions",
+      "text": "Check cashing; purchase of tokens, chips, and electronic cards; prohibitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27111",
+      "number": "27:111.",
+      "heading": "Exemptions",
+      "text": "Exemptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27112",
+      "number": "27:112.",
+      "heading": "Legal shipments of gaming devices into the state",
+      "text": "Legal shipments of gaming devices into the state",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27113",
+      "number": "27:113.",
+      "heading": "Declaration of state's exemption from operation of provisions of 15 U.S.C. 1172",
+      "text": "Declaration of state's exemption from operation of provisions of 15 U.S.C. 1172",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27114",
+      "number": "27:114.",
+      "heading": "Repealed by Acts 2004, No. 336, §2, eff. June 18, 2004.",
+      "text": "Repealed by Acts 2004, No. 336, §2, eff. June 18, 2004.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27201",
+      "number": "27:201.",
+      "heading": "Title and citation",
+      "text": "Title and citation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27202",
+      "number": "27:202.",
+      "heading": "Public policy of state concerning gaming",
+      "text": "Public policy of state concerning gaming",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27203",
+      "number": "27:203.",
+      "heading": "Official gaming establishment",
+      "text": "Official gaming establishment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27204",
+      "number": "27:204.",
+      "heading": "Status of corporation; exercise of economic development function",
+      "text": "Status of corporation; exercise of economic development function",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27205",
+      "number": "27:205.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27206",
+      "number": "27:206.",
+      "heading": "Venue in civil proceedings",
+      "text": "Venue in civil proceedings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27207",
+      "number": "27:207.",
+      "heading": "Corporation legal representation; attorney general",
+      "text": "Corporation legal representation; attorney general",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27210",
+      "number": "27:210.",
+      "heading": "Louisiana Economic Development and Gaming Corporation created; administration by corporation; management; domicile",
+      "text": "Louisiana Economic Development and Gaming Corporation created; administration by corporation; management; domicile",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27211",
+      "number": "27:211.",
+      "heading": "Board of directors; qualifications; terms; removal; chairman; compensation; meetings; records; appointment of corporation president; duties; removal; open board meetings",
+      "text": "Board of directors; qualifications; terms; removal; chairman; compensation; meetings; records; appointment of corporation president; duties; removal; open board meetings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27212",
+      "number": "27:212.",
+      "heading": "Corporation president; officers",
+      "text": "Corporation president; officers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27220",
+      "number": "27:220.",
+      "heading": "Duties of the board; adoption of administrative regulations; rulemaking authority",
+      "text": "Duties of the board; adoption of administrative regulations; rulemaking authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27221",
+      "number": "27:221.",
+      "heading": "Powers and duties of corporation in general",
+      "text": "Powers and duties of corporation in general",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27222",
+      "number": "27:222.",
+      "heading": "Corporation and board to act through president",
+      "text": "Corporation and board to act through president",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27223",
+      "number": "27:223.",
+      "heading": "Powers and obligations of corporation's president",
+      "text": "Powers and obligations of corporation's president",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27224",
+      "number": "27:224.",
+      "heading": "Acceptance and expenditure of monies by corporation; corporation to be self-sustaining and self-funded",
+      "text": "Acceptance and expenditure of monies by corporation; corporation to be self-sustaining and self-funded",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27225",
+      "number": "27:225.",
+      "heading": "Personnel program for employees; conflict of interest; employment of specified persons by corporation prohibited; background investigations",
+      "text": "Personnel program for employees; conflict of interest; employment of specified persons by corporation prohibited; background investigations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27226",
+      "number": "27:226.",
+      "heading": "Standards of conduct",
+      "text": "Standards of conduct",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27227",
+      "number": "27:227.",
+      "heading": "Corporation exemptions; local regulation and taxation",
+      "text": "Corporation exemptions; local regulation and taxation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27230",
+      "number": "27:230.",
+      "heading": "Specific powers and duties of the corporation relating to casino gaming operations",
+      "text": "Specific powers and duties of the corporation relating to casino gaming operations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27231",
+      "number": "27:231.",
+      "heading": "Corporation responsibilities relating to gaming operations",
+      "text": "Corporation responsibilities relating to gaming operations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27232",
+      "number": "27:232.",
+      "heading": "Corporation independent hearing officers",
+      "text": "Corporation independent hearing officers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27233",
+      "number": "27:233.",
+      "heading": "Corporation's duty to investigate qualifications of applicants, casino operators, and others; absolute powers of corporation",
+      "text": "Corporation's duty to investigate qualifications of applicants, casino operators, and others; absolute powers of corporation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27234",
+      "number": "27:234.",
+      "heading": "Suitability qualifications for casino gaming operator or license holder",
+      "text": "Suitability qualifications for casino gaming operator or license holder",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27235",
+      "number": "27:235.",
+      "heading": "Casino operating contract, license; disqualification criteria",
+      "text": "Casino operating contract, license; disqualification criteria",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27236",
+      "number": "27:236.",
+      "heading": "Transfer of contract",
+      "text": "Transfer of contract",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27237",
+      "number": "27:237.",
+      "heading": "Records of corporation deemed open; exceptions; restricted use agreements",
+      "text": "Records of corporation deemed open; exceptions; restricted use agreements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27238",
+      "number": "27:238.",
+      "heading": "Repealed by Acts 2001, No. 1222, §2, eff. July 2, 2001.",
+      "text": "Repealed by Acts 2001, No. 1222, §2, eff. July 2, 2001.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27239",
+      "number": "27:239.",
+      "heading": "Application for contract; additional requirements; summary of proposed gaming operations",
+      "text": "Application for contract; additional requirements; summary of proposed gaming operations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-272391",
+      "number": "27:239.1.",
+      "heading": "Wagering at the official gaming establishment",
+      "text": "Wagering at the official gaming establishment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27240",
+      "number": "27:240.",
+      "heading": "Legislative intent; land-based casino gaming activities",
+      "text": "Legislative intent; land-based casino gaming activities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27241",
+      "number": "27:241.",
+      "heading": "Board to let contract to conduct casino gaming operations; bid specifications; compensation of casino gaming operator; contract renewal",
+      "text": "Board to let contract to conduct casino gaming operations; bid specifications; compensation of casino gaming operator; contract renewal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-272411",
+      "number": "27:241.1.",
+      "heading": "Minimum compensation payments; effective March 31, 2001; payments beginning August 1, 2022",
+      "text": "Minimum compensation payments; effective March 31, 2001; payments beginning August 1, 2022",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27242",
+      "number": "27:242.",
+      "heading": "Casino operator; requirements for persons making application or bid",
+      "text": "Casino operator; requirements for persons making application or bid",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27243",
+      "number": "27:243.",
+      "heading": "Requirements for casino operating contract",
+      "text": "Requirements for casino operating contract",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27244",
+      "number": "27:244.",
+      "heading": "Contract to conduct casino gaming operations; other requirements; breach of contract",
+      "text": "Contract to conduct casino gaming operations; other requirements; breach of contract",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27245",
+      "number": "27:245.",
+      "heading": "Receivership, bankruptcy; continued suitability",
+      "text": "Receivership, bankruptcy; continued suitability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27246",
+      "number": "27:246.",
+      "heading": "Utilization of Louisiana goods and services; employment criteria",
+      "text": "Utilization of Louisiana goods and services; employment criteria",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27247",
+      "number": "27:247.",
+      "heading": "Casino support services",
+      "text": "Casino support services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27248",
+      "number": "27:248.",
+      "heading": "Non-gaming economic development by casino gaming operator",
+      "text": "Non-gaming economic development by casino gaming operator",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27249",
+      "number": "27:249.",
+      "heading": "Compulsive gambling; posting information",
+      "text": "Compulsive gambling; posting information",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-272491",
+      "number": "27:249.1.",
+      "heading": "Issuance of permit to conduct racehorse wagering",
+      "text": "Issuance of permit to conduct racehorse wagering",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27250",
+      "number": "27:250.",
+      "heading": "Renewal of licenses; penalties",
+      "text": "Renewal of licenses; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27251",
+      "number": "27:251.",
+      "heading": "Fees for licenses",
+      "text": "Fees for licenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27252",
+      "number": "27:252.",
+      "heading": "Ninety-day time period to claim jackpot ticket; collection and use of funds",
+      "text": "Ninety-day time period to claim jackpot ticket; collection and use of funds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27255",
+      "number": "27:255.",
+      "heading": "Repealed by Acts 2001, No. 1222, §2, eff. July 2, 2001.",
+      "text": "Repealed by Acts 2001, No. 1222, §2, eff. July 2, 2001.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27256",
+      "number": "27:256.",
+      "heading": "Declaratory judgments",
+      "text": "Declaratory judgments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27257",
+      "number": "27:257.",
+      "heading": "Duty of corporation to initiate proceedings",
+      "text": "Duty of corporation to initiate proceedings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27258",
+      "number": "27:258.",
+      "heading": "Authority of corporation to bring civil actions for collection of fees, interest, or penalties",
+      "text": "Authority of corporation to bring civil actions for collection of fees, interest, or penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27259",
+      "number": "27:259.",
+      "heading": "Legislative oversight of corporation rules and regulations",
+      "text": "Legislative oversight of corporation rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27260",
+      "number": "27:260.",
+      "heading": "Gaming or employment in gaming prohibited for persons under twenty-one",
+      "text": "Gaming or employment in gaming prohibited for persons under twenty-one",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27261",
+      "number": "27:261.",
+      "heading": "Prohibited contacts with official gaming establishment and casino operator; public officers; penalties",
+      "text": "Prohibited contacts with official gaming establishment and casino operator; public officers; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27262",
+      "number": "27:262.",
+      "heading": "Skimming of gaming proceeds",
+      "text": "Skimming of gaming proceeds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27263",
+      "number": "27:263.",
+      "heading": "Repealed by Acts 2001, No. 1222, §2, eff. July 2, 2001.",
+      "text": "Repealed by Acts 2001, No. 1222, §2, eff. July 2, 2001.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27264",
+      "number": "27:264.",
+      "heading": "Repealed by Acts 2001, No. 216, §2.",
+      "text": "Repealed by Acts 2001, No. 216, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27265",
+      "number": "27:265.",
+      "heading": "Repealed by Acts 2001, No. 1124, §2.",
+      "text": "Repealed by Acts 2001, No. 1124, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27266",
+      "number": "27:266.",
+      "heading": "Check cashing; purchase of tokens, chips, and electronic cards; prohibitions",
+      "text": "Check cashing; purchase of tokens, chips, and electronic cards; prohibitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27267",
+      "number": "27:267.",
+      "heading": "Declaration of state's exemption from operation of provisions of 15 U.S.C. 1172",
+      "text": "Declaration of state's exemption from operation of provisions of 15 U.S.C. 1172",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27268",
+      "number": "27:268.",
+      "heading": "Legal shipments of gambling devices into state",
+      "text": "Legal shipments of gambling devices into state",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27269",
+      "number": "27:269.",
+      "heading": "Status of authorized games and gaming devices",
+      "text": "Status of authorized games and gaming devices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27270",
+      "number": "27:270.",
+      "heading": "Deposit of revenues; expenditures and investments authorized; transfer of revenues to state treasury; corporation operating account; audit of corporation books and records; audits",
+      "text": "Deposit of revenues; expenditures and investments authorized; transfer of revenues to state treasury; corporation operating account; audit of corporation books and records; audits",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27271",
+      "number": "27:271.",
+      "heading": "Terminated by Acts 1999, No. 1221, §3, eff. June 30, 2000.",
+      "text": "Terminated by Acts 1999, No. 1221, §3, eff. June 30, 2000.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-272711",
+      "number": "27:271.1.",
+      "heading": "Terminated by Acts 2000, 1st Ex. Sess., No. 35, §2, eff. June 30, 2001.",
+      "text": "Terminated by Acts 2000, 1st Ex. Sess., No. 35, §2, eff. June 30, 2001.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27275",
+      "number": "27:275.",
+      "heading": "Protection of creditor's operations during creditor's enforcement in certain situations",
+      "text": "Protection of creditor's operations during creditor's enforcement in certain situations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27276",
+      "number": "27:276.",
+      "heading": "No cause of action against the corporation or the state",
+      "text": "No cause of action against the corporation or the state",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27277",
+      "number": "27:277.",
+      "heading": "Holders of security interests exempt from licensing",
+      "text": "Holders of security interests exempt from licensing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27278",
+      "number": "27:278.",
+      "heading": "Notice of default and cure",
+      "text": "Notice of default and cure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27279",
+      "number": "27:279.",
+      "heading": "Provisional license to former holder of security interest; gaming device",
+      "text": "Provisional license to former holder of security interest; gaming device",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27280",
+      "number": "27:280.",
+      "heading": "Appointment of receiver for official gaming establishment; license; successor receivers",
+      "text": "Appointment of receiver for official gaming establishment; license; successor receivers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27281",
+      "number": "27:281.",
+      "heading": "Effect of appointment of receiver",
+      "text": "Effect of appointment of receiver",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27282",
+      "number": "27:282.",
+      "heading": "Cost of bond; funding of operations during receivership",
+      "text": "Cost of bond; funding of operations during receivership",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27283",
+      "number": "27:283.",
+      "heading": "Operations by receiver",
+      "text": "Operations by receiver",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27284",
+      "number": "27:284.",
+      "heading": "No effect on suit to enforce",
+      "text": "No effect on suit to enforce",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27285",
+      "number": "27:285.",
+      "heading": "Termination of receivership",
+      "text": "Termination of receivership",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27286",
+      "number": "27:286.",
+      "heading": "Restoration of contract",
+      "text": "Restoration of contract",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27301",
+      "number": "27:301.",
+      "heading": "Title",
+      "text": "Title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27302",
+      "number": "27:302.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27303",
+      "number": "27:303.",
+      "heading": "Election on fantasy sports contests",
+      "text": "Election on fantasy sports contests",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27304",
+      "number": "27:304.",
+      "heading": "Gaming Control Board; duties and powers",
+      "text": "Gaming Control Board; duties and powers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27305",
+      "number": "27:305.",
+      "heading": "Fantasy sports contests prohibited in certain parishes",
+      "text": "Fantasy sports contests prohibited in certain parishes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27306",
+      "number": "27:306.",
+      "heading": "Licensing of fantasy sports contest operators",
+      "text": "Licensing of fantasy sports contest operators",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27307",
+      "number": "27:307.",
+      "heading": "Issuance or denial of license",
+      "text": "Issuance or denial of license",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27308",
+      "number": "27:308.",
+      "heading": "Licensee requirements",
+      "text": "Licensee requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-273081",
+      "number": "27:308.1.",
+      "heading": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:432 by Acts 2012, No. 161, §4.",
+      "text": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:432 by Acts 2012, No. 161, §4.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-273082",
+      "number": "27:308.2.",
+      "heading": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:433 by Acts 2012, No. 161, §4.",
+      "text": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:433 by Acts 2012, No. 161, §4.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27309",
+      "number": "27:309.",
+      "heading": "Allowing certain players to play fantasy sports contests; penalties; revocation hearing",
+      "text": "Allowing certain players to play fantasy sports contests; penalties; revocation hearing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27310",
+      "number": "27:310.",
+      "heading": "Reporting of gaming proceeds",
+      "text": "Reporting of gaming proceeds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27311",
+      "number": "27:311.",
+      "heading": "Civil penalties; adoption of schedule of penalties",
+      "text": "Civil penalties; adoption of schedule of penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-273111",
+      "number": "27:311.1.",
+      "heading": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:445 by Acts 2012, No. 161, §4.",
+      "text": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:445 by Acts 2012, No. 161, §4.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-273112",
+      "number": "27:311.2.",
+      "heading": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:446 by Acts 2012, No. 161, §4.",
+      "text": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:446 by Acts 2012, No. 161, §4.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-273113",
+      "number": "27:311.3.",
+      "heading": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:447 by Acts 2012, No. 161, §4.",
+      "text": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:447 by Acts 2012, No. 161, §4.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-273114",
+      "number": "27:311.4.",
+      "heading": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:448 by Acts 2012, No. 161, §4.",
+      "text": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:448 by Acts 2012, No. 161, §4.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-273115",
+      "number": "27:311.5.",
+      "heading": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:449 by Acts 2012, No. 161, §4.",
+      "text": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:449 by Acts 2012, No. 161, §4.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-273116",
+      "number": "27:311.6.",
+      "heading": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:450 by Acts 2012, No. 161, §4.",
+      "text": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:450 by Acts 2012, No. 161, §4.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-273117",
+      "number": "27:311.7.",
+      "heading": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:428 by Acts 2012, No. 161, §4.",
+      "text": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:428 by Acts 2012, No. 161, §4.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-273118",
+      "number": "27:311.8.",
+      "heading": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:457 by Acts 2012, No. 161, §4.",
+      "text": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:457 by Acts 2012, No. 161, §4.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-273119",
+      "number": "27:311.9.",
+      "heading": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:436 by Acts 2012, No. 161, §4.",
+      "text": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:436 by Acts 2012, No. 161, §4.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27312",
+      "number": "27:312.",
+      "heading": "Revocation or suspension of a license; civil penalty",
+      "text": "Revocation or suspension of a license; civil penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27313",
+      "number": "27:313.",
+      "heading": "Investigations and violations",
+      "text": "Investigations and violations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27314",
+      "number": "27:314.",
+      "heading": "Limitation on active accounts; obligations to participants",
+      "text": "Limitation on active accounts; obligations to participants",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27315",
+      "number": "27:315.",
+      "heading": "Charging for inactive accounts",
+      "text": "Charging for inactive accounts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27316",
+      "number": "27:316.",
+      "heading": "Taxation",
+      "text": "Taxation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27317",
+      "number": "27:317.",
+      "heading": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:455 by Acts 2012, No. 161, §4.",
+      "text": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:455 by Acts 2012, No. 161, §4.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27318",
+      "number": "27:318.",
+      "heading": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:438 by Acts 2012, No. 161, §4.",
+      "text": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:438 by Acts 2012, No. 161, §4.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27319",
+      "number": "27:319.",
+      "heading": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:443 by Acts 2012, No. 161, §4.",
+      "text": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:443 by Acts 2012, No. 161, §4.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27320",
+      "number": "27:320.",
+      "heading": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:453 by Acts 2012, No. 161, §4.",
+      "text": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:453 by Acts 2012, No. 161, §4.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27321",
+      "number": "27:321.",
+      "heading": "Repealed by Acts 2012, No. 161, §3.",
+      "text": "Repealed by Acts 2012, No. 161, §3.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27322",
+      "number": "27:322.",
+      "heading": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:444 by Acts 2012, No. 161, §4.",
+      "text": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:444 by Acts 2012, No. 161, §4.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27323",
+      "number": "27:323.",
+      "heading": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:439 by Acts 2012, No. 161, §4.",
+      "text": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:439 by Acts 2012, No. 161, §4.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27324",
+      "number": "27:324.",
+      "heading": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:452 by Acts 2012, No. 161, §4.",
+      "text": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:452 by Acts 2012, No. 161, §4.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27325",
+      "number": "27:325.",
+      "heading": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:456 by Acts 2012, No. 161, §4.",
+      "text": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:456 by Acts 2012, No. 161, §4.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27326",
+      "number": "27:326.",
+      "heading": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:454 by Acts 2012, No. 161, §4.",
+      "text": "Repealed by Acts 2012, No. 161, §3; Redesignated as R.S. 27:454 by Acts 2012, No. 161, §4.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27351",
+      "number": "27:351.",
+      "heading": "Title",
+      "text": "Title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27352",
+      "number": "27:352.",
+      "heading": "Policy",
+      "text": "Policy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27353",
+      "number": "27:353.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27354",
+      "number": "27:354.",
+      "heading": "Power of Louisiana State Racing Commission",
+      "text": "Power of Louisiana State Racing Commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27355",
+      "number": "27:355.",
+      "heading": "Requirements for slot machines",
+      "text": "Requirements for slot machines",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27361",
+      "number": "27:361.",
+      "heading": "Conduct of slot machine gaming; temporary conduct",
+      "text": "Conduct of slot machine gaming; temporary conduct",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27362",
+      "number": "27:362.",
+      "heading": "Repealed by Acts 2001, No. 1222, §2, eff. July 2, 2001.",
+      "text": "Repealed by Acts 2001, No. 1222, §2, eff. July 2, 2001.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27363",
+      "number": "27:363.",
+      "heading": "Suitability standards",
+      "text": "Suitability standards",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27364",
+      "number": "27:364.",
+      "heading": "Gaming Control Board; powers and duties",
+      "text": "Gaming Control Board; powers and duties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27365",
+      "number": "27:365.",
+      "heading": "Division; powers and duties",
+      "text": "Division; powers and duties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27371",
+      "number": "27:371.",
+      "heading": "Prohibition on operation of video draw poker devices; prohibition on any other type of game",
+      "text": "Prohibition on operation of video draw poker devices; prohibition on any other type of game",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27372",
+      "number": "27:372.",
+      "heading": "Gaming area limitations",
+      "text": "Gaming area limitations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-273721",
+      "number": "27:372.1.",
+      "heading": "Limitations on the number of slot machines operated at an eligible facility in Orleans Parish",
+      "text": "Limitations on the number of slot machines operated at an eligible facility in Orleans Parish",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27373",
+      "number": "27:373.",
+      "heading": "Prohibited relationships",
+      "text": "Prohibited relationships",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27374",
+      "number": "27:374.",
+      "heading": "Illegal lottery devices",
+      "text": "Illegal lottery devices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27375",
+      "number": "27:375.",
+      "heading": "Crimes and penalties; false statements; unauthorized slot machines; skimming of slot machine proceeds; payroll check cashing; gambling devices",
+      "text": "Crimes and penalties; false statements; unauthorized slot machines; skimming of slot machine proceeds; payroll check cashing; gambling devices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27376",
+      "number": "27:376.",
+      "heading": "Allowing minors to play slot machines; penalties; revocation of license",
+      "text": "Allowing minors to play slot machines; penalties; revocation of license",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27377",
+      "number": "27:377.",
+      "heading": "Toll-free telephone assistance for compulsive gamblers; posting of signs on premises",
+      "text": "Toll-free telephone assistance for compulsive gamblers; posting of signs on premises",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27381",
+      "number": "27:381.",
+      "heading": "Parishwide election on slot machine gaming",
+      "text": "Parishwide election on slot machine gaming",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27391",
+      "number": "27:391.",
+      "heading": "Authorization of local governing authority tax",
+      "text": "Authorization of local governing authority tax",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27392",
+      "number": "27:392.",
+      "heading": "Collection and disposition of fees and taxes",
+      "text": "Collection and disposition of fees and taxes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27393",
+      "number": "27:393.",
+      "heading": "State tax; levy",
+      "text": "State tax; levy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-273931",
+      "number": "27:393.1.",
+      "heading": "Facility maintenance and improvement fund",
+      "text": "Facility maintenance and improvement fund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27394",
+      "number": "27:394.",
+      "heading": "Ninety-day time period to claim jackpot ticket; collection and use of funds",
+      "text": "Ninety-day time period to claim jackpot ticket; collection and use of funds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27401",
+      "number": "27:401.",
+      "heading": "Short title",
+      "text": "Short title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27402",
+      "number": "27:402.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27403",
+      "number": "27:403.",
+      "heading": "Video draw poker device operation not gambling; license is a privilege",
+      "text": "Video draw poker device operation not gambling; license is a privilege",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27404",
+      "number": "27:404.",
+      "heading": "Service entity",
+      "text": "Service entity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27405",
+      "number": "27:405.",
+      "heading": "Description and specifications of devices",
+      "text": "Description and specifications of devices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27406",
+      "number": "27:406.",
+      "heading": "Ticket vouchers and accounting tickets",
+      "text": "Ticket vouchers and accounting tickets",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27407",
+      "number": "27:407.",
+      "heading": "Games without minimum wager; Orleans excepted",
+      "text": "Games without minimum wager; Orleans excepted",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27409",
+      "number": "27:409.",
+      "heading": "Winning percentage",
+      "text": "Winning percentage",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27410",
+      "number": "27:410.",
+      "heading": "Limitation on amount of money played and value of prizes",
+      "text": "Limitation on amount of money played and value of prizes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27411",
+      "number": "27:411.",
+      "heading": "Expected payback; verification",
+      "text": "Expected payback; verification",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27412",
+      "number": "27:412.",
+      "heading": "State license qualifications; types of licenses",
+      "text": "State license qualifications; types of licenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27413",
+      "number": "27:413.",
+      "heading": "Licenses to operate video draw poker devices at certain alcoholic beverage facilities; multiple facilities",
+      "text": "Licenses to operate video draw poker devices at certain alcoholic beverage facilities; multiple facilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27414",
+      "number": "27:414.",
+      "heading": "Hotel and motel facilities; criteria",
+      "text": "Hotel and motel facilities; criteria",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27415",
+      "number": "27:415.",
+      "heading": "Pari-mutuel wagering facility or offtrack wagering facility; no minimum wager; location",
+      "text": "Pari-mutuel wagering facility or offtrack wagering facility; no minimum wager; location",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27416",
+      "number": "27:416.",
+      "heading": "Qualified truck stop facilities; number of devices; fuel sales",
+      "text": "Qualified truck stop facilities; number of devices; fuel sales",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27417",
+      "number": "27:417.",
+      "heading": "Qualified truck stop criteria; amenities",
+      "text": "Qualified truck stop criteria; amenities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27418",
+      "number": "27:418.",
+      "heading": "Leasing or subleasing restaurant and convenience stores at qualified truck stops; holiday operation",
+      "text": "Leasing or subleasing restaurant and convenience stores at qualified truck stops; holiday operation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27419",
+      "number": "27:419.",
+      "heading": "Truck stop construction; advertising; notice of intent to construct",
+      "text": "Truck stop construction; advertising; notice of intent to construct",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27420",
+      "number": "27:420.",
+      "heading": "Rezoning notice",
+      "text": "Rezoning notice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27421",
+      "number": "27:421.",
+      "heading": "Temporary placement of twenty-five video draw poker devices",
+      "text": "Temporary placement of twenty-five video draw poker devices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27422",
+      "number": "27:422.",
+      "heading": "Truck stop locations; prohibited distances; prohibited structures",
+      "text": "Truck stop locations; prohibited distances; prohibited structures",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27423",
+      "number": "27:423.",
+      "heading": "Termination of lease of truck stop; effect on operation of devices",
+      "text": "Termination of lease of truck stop; effect on operation of devices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27424",
+      "number": "27:424.",
+      "heading": "Sale or transfer of license; continued operation of devices",
+      "text": "Sale or transfer of license; continued operation of devices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27425",
+      "number": "27:425.",
+      "heading": "Tax clearance",
+      "text": "Tax clearance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27426",
+      "number": "27:426.",
+      "heading": "Affidavit application for three machine locations",
+      "text": "Affidavit application for three machine locations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27427",
+      "number": "27:427.",
+      "heading": "Suitability requirements",
+      "text": "Suitability requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27428",
+      "number": "27:428.",
+      "heading": "Application for additional licenses by person previously found suitable; personal history and financial information not required under certain circumstances",
+      "text": "Application for additional licenses by person previously found suitable; personal history and financial information not required under certain circumstances",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27429",
+      "number": "27:429.",
+      "heading": "Regulation of video draw poker devices; Louisiana Gaming Control Board; gaming division",
+      "text": "Regulation of video draw poker devices; Louisiana Gaming Control Board; gaming division",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27430",
+      "number": "27:430.",
+      "heading": "Rules and regulations; reporting to board or division",
+      "text": "Rules and regulations; reporting to board or division",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27431",
+      "number": "27:431.",
+      "heading": "Powers and duties of the board or division; restrictions; permits",
+      "text": "Powers and duties of the board or division; restrictions; permits",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27432",
+      "number": "27:432.",
+      "heading": "Civil penalties; violations; adoption of schedule of penalties",
+      "text": "Civil penalties; violations; adoption of schedule of penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27433",
+      "number": "27:433.",
+      "heading": "Revocation or suspension of permit or license; civil penalty; consent agreements or settlements",
+      "text": "Revocation or suspension of permit or license; civil penalty; consent agreements or settlements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27434",
+      "number": "27:434.",
+      "heading": "Investigations and violations",
+      "text": "Investigations and violations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27435",
+      "number": "27:435.",
+      "heading": "Licensing by division; fees; franchise payments; enforcement activities",
+      "text": "Licensing by division; fees; franchise payments; enforcement activities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27436",
+      "number": "27:436.",
+      "heading": "Application for change of name of licensee operating video draw poker devices; exemption from processing fee",
+      "text": "Application for change of name of licensee operating video draw poker devices; exemption from processing fee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27437",
+      "number": "27:437.",
+      "heading": "Video Draw Poker Device Fund; distribution and expenditure",
+      "text": "Video Draw Poker Device Fund; distribution and expenditure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27438",
+      "number": "27:438.",
+      "heading": "Distribution of video draw poker device revenues; particular licensed establishments; pari-mutuel wagering facilities",
+      "text": "Distribution of video draw poker device revenues; particular licensed establishments; pari-mutuel wagering facilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27439",
+      "number": "27:439.",
+      "heading": "Video Draw Poker Device Purse Supplement Fund and Subfund; distribution and expenditure",
+      "text": "Video Draw Poker Device Purse Supplement Fund and Subfund; distribution and expenditure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27440",
+      "number": "27:440.",
+      "heading": "Video draw poker crimes and penalties; unauthorized devices",
+      "text": "Video draw poker crimes and penalties; unauthorized devices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27441",
+      "number": "27:441.",
+      "heading": "Illegal lottery devices",
+      "text": "Illegal lottery devices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27442",
+      "number": "27:442.",
+      "heading": "Prohibited relationships; division employees; licensees",
+      "text": "Prohibited relationships; division employees; licensees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27443",
+      "number": "27:443.",
+      "heading": "Allowing underage persons to play video draw poker devices; penalties; revocation hearing",
+      "text": "Allowing underage persons to play video draw poker devices; penalties; revocation hearing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27444",
+      "number": "27:444.",
+      "heading": "Check cashing; prohibitions",
+      "text": "Check cashing; prohibitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27445",
+      "number": "27:445.",
+      "heading": "Video draw poker employee permits; categories; permit term",
+      "text": "Video draw poker employee permits; categories; permit term",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27446",
+      "number": "27:446.",
+      "heading": "Video draw poker employee permit; application",
+      "text": "Video draw poker employee permit; application",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27447",
+      "number": "27:447.",
+      "heading": "Suitability requirements; issuance of video draw poker employee permit",
+      "text": "Suitability requirements; issuance of video draw poker employee permit",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27448",
+      "number": "27:448.",
+      "heading": "Division; determination as to issuance or denial of employee permit; rules",
+      "text": "Division; determination as to issuance or denial of employee permit; rules",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27449",
+      "number": "27:449.",
+      "heading": "Provisional authorization to work pending suitability determination",
+      "text": "Provisional authorization to work pending suitability determination",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27450",
+      "number": "27:450.",
+      "heading": "Holder of video draw poker employee permit",
+      "text": "Holder of video draw poker employee permit",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27451",
+      "number": "27:451.",
+      "heading": "Preemption of local laws and taxes",
+      "text": "Preemption of local laws and taxes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27452",
+      "number": "27:452.",
+      "heading": "Local zoning ordinances",
+      "text": "Local zoning ordinances",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27453",
+      "number": "27:453.",
+      "heading": "Toll-free telephone assistance for compulsive gamblers; posting of signs on premises",
+      "text": "Toll-free telephone assistance for compulsive gamblers; posting of signs on premises",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27454",
+      "number": "27:454.",
+      "heading": "Promoting or encouraging the play of video draw poker devices",
+      "text": "Promoting or encouraging the play of video draw poker devices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27455",
+      "number": "27:455.",
+      "heading": "Residence and domicile requirements; licensees",
+      "text": "Residence and domicile requirements; licensees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27456",
+      "number": "27:456.",
+      "heading": "Good faith reliance on inaccurate survey",
+      "text": "Good faith reliance on inaccurate survey",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27457",
+      "number": "27:457.",
+      "heading": "Operation of video draw poker devices in certain parishes not affected by change of parish boundaries",
+      "text": "Operation of video draw poker devices in certain parishes not affected by change of parish boundaries",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27501",
+      "number": "27:501.",
+      "heading": "Potential problems with gaming and gambling; educational program",
+      "text": "Potential problems with gaming and gambling; educational program",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27502",
+      "number": "27:502.",
+      "heading": "Raffles under two hundred fifty dollars",
+      "text": "Raffles under two hundred fifty dollars",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27601",
+      "number": "27:601.",
+      "heading": "Title and citation; privilege",
+      "text": "Title and citation; privilege",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27602",
+      "number": "27:602.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27603",
+      "number": "27:603.",
+      "heading": "Gaming Control Board; state police; duties and powers",
+      "text": "Gaming Control Board; state police; duties and powers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27604",
+      "number": "27:604.",
+      "heading": "License; limited; requirements; contract with platform provider",
+      "text": "License; limited; requirements; contract with platform provider",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27605",
+      "number": "27:605.",
+      "heading": "Sports wagering platform provider",
+      "text": "Sports wagering platform provider",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27606",
+      "number": "27:606.",
+      "heading": "Temporary certificate of authority",
+      "text": "Temporary certificate of authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27607",
+      "number": "27:607.",
+      "heading": "Operators; sports lounge required; responsibilities; pooling",
+      "text": "Operators; sports lounge required; responsibilities; pooling",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27608",
+      "number": "27:608.",
+      "heading": "Limitations on wagering",
+      "text": "Limitations on wagering",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27609",
+      "number": "27:609.",
+      "heading": "Electronic wagering; kiosk; mobile wagering",
+      "text": "Electronic wagering; kiosk; mobile wagering",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27610",
+      "number": "27:610.",
+      "heading": "Payment of winnings; collection and use of funds",
+      "text": "Payment of winnings; collection and use of funds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27611",
+      "number": "27:611.",
+      "heading": "Layoff bets",
+      "text": "Layoff bets",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27612",
+      "number": "27:612.",
+      "heading": "Fixed odds wagering on horse races",
+      "text": "Fixed odds wagering on horse races",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27621",
+      "number": "27:621.",
+      "heading": "Sports wagering license fee",
+      "text": "Sports wagering license fee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27622",
+      "number": "27:622.",
+      "heading": "Sports wagering platform provider permit fee",
+      "text": "Sports wagering platform provider permit fee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27623",
+      "number": "27:623.",
+      "heading": "Sports wagering service provider permit fee",
+      "text": "Sports wagering service provider permit fee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27624",
+      "number": "27:624.",
+      "heading": "Sports wagering distributor permit fee",
+      "text": "Sports wagering distributor permit fee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27625",
+      "number": "27:625.",
+      "heading": "State tax; levy",
+      "text": "State tax; levy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27626",
+      "number": "27:626.",
+      "heading": "Sports Wagering Enforcement Fund",
+      "text": "Sports Wagering Enforcement Fund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27627",
+      "number": "27:627.",
+      "heading": "Promotional play",
+      "text": "Promotional play",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27628",
+      "number": "27:628.",
+      "heading": "Sports Wagering Local Allocation Fund",
+      "text": "Sports Wagering Local Allocation Fund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27629",
+      "number": "27:629.",
+      "heading": "Pari-mutuel wagering; commissions, fees, and other deductions",
+      "text": "Pari-mutuel wagering; commissions, fees, and other deductions",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

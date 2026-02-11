@@ -1,0 +1,598 @@
+{
+  "state": "new-mexico",
+  "path": "title-chapter-6-public-finances/chapter-article-10-public-money",
+  "sections": [
+    {
+      "id": "section-6-10-1",
+      "number": "6-10-1",
+      "heading": "Fiscal year designated.Section 6-10-1",
+      "text": "1 - Definitions.Section 6-10-1.2 - Payment methods authorized; fee.Section 6-10-2 - Public money; cash books; daily balance; public record.Section 6-10-2.1 - State treasurer; duty.Section 6-10-3 - Payment of state money into treasury; suspense funds.Section 6-10",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-11",
+      "number": "6-10-1.1",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-12",
+      "number": "6-10-1.2",
+      "heading": "Payment methods authorized; fee.",
+      "text": "Payment methods authorized; fee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-2",
+      "number": "6-10-2",
+      "heading": "Public money; cash books; daily balance; public record.",
+      "text": "Public money; cash books; daily balance; public record.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-21",
+      "number": "6-10-2.1",
+      "heading": "State treasurer; duty.",
+      "text": "State treasurer; duty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-3",
+      "number": "6-10-3",
+      "heading": "Payment of state money into treasury; suspense funds.",
+      "text": "Payment of state money into treasury; suspense funds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-4",
+      "number": "6-10-4",
+      "heading": "Payment of obligations of prior years from current year appropriations.",
+      "text": "Payment of obligations of prior years from current year appropriations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-5",
+      "number": "6-10-5",
+      "heading": "General fund deficiency; certificates of indebtedness.",
+      "text": "General fund deficiency; certificates of indebtedness.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-6",
+      "number": "6-10-6",
+      "heading": "Issuance of certificates.",
+      "text": "Issuance of certificates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-7",
+      "number": "6-10-7",
+      "heading": "Retirement of certificates.",
+      "text": "Retirement of certificates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-8",
+      "number": "6-10-8",
+      "heading": "County boards of finance.",
+      "text": "County boards of finance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-9",
+      "number": "6-10-9",
+      "heading": "Boards of finance for institutions.",
+      "text": "Boards of finance for institutions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-10",
+      "number": "6-10-10",
+      "heading": "Deposit and investment of funds.",
+      "text": "Deposit and investment of funds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-101",
+      "number": "6-10-10.1",
+      "heading": "Local government investment pool created; distribution of earnings; report of investments.",
+      "text": "Local government investment pool created; distribution of earnings; report of investments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-102",
+      "number": "6-10-10.2",
+      "heading": "Statements of condition required to be transmitted to the state cash manager.",
+      "text": "Statements of condition required to be transmitted to the state cash manager.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-11",
+      "number": "6-10-11",
+      "heading": "Approval of investment of state funds.",
+      "text": "Approval of investment of state funds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-12",
+      "number": "6-10-12",
+      "heading": "[Investment of special road fund balances over $10,000.]",
+      "text": "[Investment of special road fund balances over $10,000.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-13",
+      "number": "6-10-13",
+      "heading": "[Limitation on investment of special road fund.]",
+      "text": "[Limitation on investment of special road fund.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-14",
+      "number": "6-10-14",
+      "heading": "[Securities eligible for special road fund investments.]",
+      "text": "[Securities eligible for special road fund investments.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-15",
+      "number": "6-10-15",
+      "heading": "Surety for deposits.",
+      "text": "Surety for deposits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-16",
+      "number": "6-10-16",
+      "heading": "Security for deposits of public money.",
+      "text": "Security for deposits of public money.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-161",
+      "number": "6-10-16.1",
+      "heading": "Security for public deposits.",
+      "text": "Security for public deposits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-17",
+      "number": "6-10-17",
+      "heading": "Amount of security to be deposited.",
+      "text": "Amount of security to be deposited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-171",
+      "number": "6-10-17.1",
+      "heading": "Noncompliance with collateral requirements; withdrawal of public funds.",
+      "text": "Noncompliance with collateral requirements; withdrawal of public funds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-18",
+      "number": "6-10-18",
+      "heading": "Assignment of securities; disposition.",
+      "text": "Assignment of securities; disposition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-19",
+      "number": "6-10-19",
+      "heading": "Ineligible depository bonds.",
+      "text": "Ineligible depository bonds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-20",
+      "number": "6-10-20",
+      "heading": "Additional security.",
+      "text": "Additional security.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-21",
+      "number": "6-10-21",
+      "heading": "Security for deposits; safekeeping; regulations of state board of finance.",
+      "text": "Security for deposits; safekeeping; regulations of state board of finance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-22",
+      "number": "6-10-22",
+      "heading": "Security for deposits; liability for loss.",
+      "text": "Security for deposits; liability for loss.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-23",
+      "number": "6-10-23",
+      "heading": "Safekeeping of pledged securities; acceptance, release and substitution.",
+      "text": "Safekeeping of pledged securities; acceptance, release and substitution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-24",
+      "number": "6-10-24",
+      "heading": "Deposit of public funds in federally insured banks, savings and loan associations and credit unions; conditions.",
+      "text": "Deposit of public funds in federally insured banks, savings and loan associations and credit unions; conditions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-241",
+      "number": "6-10-24.1",
+      "heading": "State funds; limitation.",
+      "text": "State funds; limitation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-242",
+      "number": "6-10-24.2",
+      "heading": "Linked deposit program.",
+      "text": "Linked deposit program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-25",
+      "number": "6-10-25",
+      "heading": "Declaration of policy.",
+      "text": "Declaration of policy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-26",
+      "number": "6-10-26",
+      "heading": "Quarterly reports of funds on demand deposit; investment in interest-bearing deposits and securities.",
+      "text": "Quarterly reports of funds on demand deposit; investment in interest-bearing deposits and securities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-27",
+      "number": "6-10-27",
+      "heading": "Provisions inapplicable to permanent and certain other funds.",
+      "text": "Provisions inapplicable to permanent and certain other funds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-28",
+      "number": "6-10-28",
+      "heading": "Investment of bond proceeds.",
+      "text": "Investment of bond proceeds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-29",
+      "number": "6-10-29",
+      "heading": "Banks, savings and loan associations and credit unions to furnish statement of deposits monthly; credit interest monthly; signature to checks.",
+      "text": "Banks, savings and loan associations and credit unions to furnish statement of deposits monthly; credit interest monthly; signature to checks.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-30",
+      "number": "6-10-30",
+      "heading": "Interest rates set by state board of finance.",
+      "text": "Interest rates set by state board of finance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-31",
+      "number": "6-10-31",
+      "heading": "Interest on time deposits.",
+      "text": "Interest on time deposits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-32",
+      "number": "6-10-32",
+      "heading": "Treatment of interest on land grant funds.",
+      "text": "Treatment of interest on land grant funds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-33",
+      "number": "6-10-33",
+      "heading": "Interest limited to maximum permitted by federal law or regulation.",
+      "text": "Interest limited to maximum permitted by federal law or regulation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-34",
+      "number": "6-10-34",
+      "heading": "Withdrawal of time deposits subject to federal law or regulation.",
+      "text": "Withdrawal of time deposits subject to federal law or regulation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-35",
+      "number": "6-10-35",
+      "heading": "Fiscal agent of New Mexico; state checking depositories; state depositories; designation by board of finance.",
+      "text": "Fiscal agent of New Mexico; state checking depositories; state depositories; designation by board of finance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-36",
+      "number": "6-10-36",
+      "heading": "Public money deposits of certain governmental units; distribution; interest.",
+      "text": "Public money deposits of certain governmental units; distribution; interest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-361",
+      "number": "6-10-36.1",
+      "heading": "Receipts of public money; disposition by certain municipalities.",
+      "text": "Receipts of public money; disposition by certain municipalities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-37",
+      "number": "6-10-37",
+      "heading": "State treasurer to make deposits.",
+      "text": "State treasurer to make deposits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-38",
+      "number": "6-10-38",
+      "heading": "Bonds of state treasurer, municipal treasurers and treasurers of boards in control.",
+      "text": "Bonds of state treasurer, municipal treasurers and treasurers of boards in control.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-39",
+      "number": "6-10-39",
+      "heading": "[Official bonds; payment of premiums; form.]",
+      "text": "[Official bonds; payment of premiums; form.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-40",
+      "number": "6-10-40",
+      "heading": "Officials receiving consideration for placing loan or deposit; misusing funds; failure to deposit; penalty.",
+      "text": "Officials receiving consideration for placing loan or deposit; misusing funds; failure to deposit; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-41",
+      "number": "6-10-41",
+      "heading": "Suspense account unearned money; transfer.",
+      "text": "Suspense account unearned money; transfer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-42",
+      "number": "6-10-42",
+      "heading": "Authorizing fund transfers to address delays in revenue; restrictions.",
+      "text": "Authorizing fund transfers to address delays in revenue; restrictions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-43",
+      "number": "6-10-43",
+      "heading": "Interest and sinking-fund balances.",
+      "text": "Interest and sinking-fund balances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-44",
+      "number": "6-10-44",
+      "heading": "Temporary investment of excess funds; federal bonds or treasury certificates eligible.",
+      "text": "Temporary investment of excess funds; federal bonds or treasury certificates eligible.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-441",
+      "number": "6-10-44.1",
+      "heading": "Deposits in credit unions.",
+      "text": "Deposits in credit unions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-45",
+      "number": "6-10-45",
+      "heading": "[Deposit of local funds with state treasurer to match allotments.]",
+      "text": "[Deposit of local funds with state treasurer to match allotments.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-46",
+      "number": "6-10-46",
+      "heading": "Disbursement of state funds; vouchers and warrants.",
+      "text": "Disbursement of state funds; vouchers and warrants.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-47",
+      "number": "6-10-47",
+      "heading": "[Safekeeping and insurance of money and securities in state treasury; payment of cost.]",
+      "text": "[Safekeeping and insurance of money and securities in state treasury; payment of cost.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-48",
+      "number": "6-10-48",
+      "heading": "Insolvency of depository institution; profit and loss account.",
+      "text": "Insolvency of depository institution; profit and loss account.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-49",
+      "number": "6-10-49",
+      "heading": "[Insolvency of banks; state funds; right to recover deposits not impaired.]",
+      "text": "[Insolvency of banks; state funds; right to recover deposits not impaired.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-50",
+      "number": "6-10-50",
+      "heading": "Loss of money deposited in qualified banks, savings and loan associations or credit unions; treasurers relieved of liability.",
+      "text": "Loss of money deposited in qualified banks, savings and loan associations or credit unions; treasurers relieved of liability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-51",
+      "number": "6-10-51",
+      "heading": "To cover all moneys lawfully intrusted to treasurers.",
+      "text": "To cover all moneys lawfully intrusted to treasurers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-52",
+      "number": "6-10-52",
+      "heading": "[Failure to comply with specific requirements; penalty.]",
+      "text": "[Failure to comply with specific requirements; penalty.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-53",
+      "number": "6-10-53",
+      "heading": "[Bribery of public treasurers and employees; penalty.]",
+      "text": "[Bribery of public treasurers and employees; penalty.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-54",
+      "number": "6-10-54",
+      "heading": "[Institutions exempted from paying over money to state treasurer; liability for failure to make authorized deposit.]",
+      "text": "[Institutions exempted from paying over money to state treasurer; liability for failure to make authorized deposit.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-55",
+      "number": "6-10-55",
+      "heading": "Short title.",
+      "text": "Short title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-56",
+      "number": "6-10-56",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-57",
+      "number": "6-10-57",
+      "heading": "Cancellation of warrants.",
+      "text": "Cancellation of warrants.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-58",
+      "number": "6-10-58",
+      "heading": "Signing checks for state funds.",
+      "text": "Signing checks for state funds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-59",
+      "number": "6-10-59",
+      "heading": "Loss or destruction of state or political subdivision warrant or order for money; issue of duplicate.",
+      "text": "Loss or destruction of state or political subdivision warrant or order for money; issue of duplicate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-60",
+      "number": "6-10-60",
+      "heading": "Issuance of duplicate; affidavit; bond to save state or political subdivision harmless.",
+      "text": "Issuance of duplicate; affidavit; bond to save state or political subdivision harmless.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-61",
+      "number": "6-10-61",
+      "heading": "[Permanent fund investment laws not affected.]",
+      "text": "[Permanent fund investment laws not affected.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-62",
+      "number": "6-10-62",
+      "heading": "Destruction of documentary evidence of extinguished debt; certificates of destruction; retention.",
+      "text": "Destruction of documentary evidence of extinguished debt; certificates of destruction; retention.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6-10-63",
+      "number": "6-10-63",
+      "heading": "Electronic fund transfers.",
+      "text": "Electronic fund transfers.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

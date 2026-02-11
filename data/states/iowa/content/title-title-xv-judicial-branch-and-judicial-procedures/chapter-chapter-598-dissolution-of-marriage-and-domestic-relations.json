@@ -1,0 +1,518 @@
+{
+  "state": "iowa",
+  "path": "title-title-xv-judicial-branch-and-judicial-procedures/chapter-chapter-598-dissolution-of-marriage-and-domestic-relations",
+  "sections": [
+    {
+      "id": "section-5981",
+      "number": "598.1",
+      "heading": "Definitions.Section 598.2 - Jurisdiction and venue",
+      "text": "Section 598.2A - Choice of law.Section 598.3 - Kind of action — joinder.Section 598.4 - Caption of petition for dissolution.Section 598.5 - Contents of petition — verification — evidence.Section 598.6 - Additional contents.Section 598.7 - Mediation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5982",
+      "number": "598.2",
+      "heading": "Jurisdiction and venue.",
+      "text": "Jurisdiction and venue.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5982a",
+      "number": "598.2A",
+      "heading": "Choice of law.",
+      "text": "Choice of law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5983",
+      "number": "598.3",
+      "heading": "Kind of action — joinder.",
+      "text": "Kind of action — joinder.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5984",
+      "number": "598.4",
+      "heading": "Caption of petition for dissolution.",
+      "text": "Caption of petition for dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5985",
+      "number": "598.5",
+      "heading": "Contents of petition — verification — evidence.",
+      "text": "Contents of petition — verification — evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5986",
+      "number": "598.6",
+      "heading": "Additional contents.",
+      "text": "Additional contents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5987",
+      "number": "598.7",
+      "heading": "Mediation.",
+      "text": "Mediation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5987a",
+      "number": "598.7A",
+      "heading": "Mediation.",
+      "text": "Mediation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5988",
+      "number": "598.8",
+      "heading": "Hearings — exceptions.",
+      "text": "Hearings — exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5989",
+      "number": "598.9",
+      "heading": "Residence — failure of proof.",
+      "text": "Residence — failure of proof.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59810",
+      "number": "598.10",
+      "heading": "Temporary orders.",
+      "text": "Temporary orders.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59811",
+      "number": "598.11",
+      "heading": "How temporary order made — changes — retroactive modification.",
+      "text": "How temporary order made — changes — retroactive modification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59812",
+      "number": "598.12",
+      "heading": "Guardian ad litem for minor child.",
+      "text": "Guardian ad litem for minor child.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59812a",
+      "number": "598.12A",
+      "heading": "Attorney for minor child.",
+      "text": "Attorney for minor child.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59812b",
+      "number": "598.12B",
+      "heading": "Child custody investigators and child and family reporters.",
+      "text": "Child custody investigators and child and family reporters.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59813",
+      "number": "598.13",
+      "heading": "Financial statements filed.",
+      "text": "Financial statements filed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59814",
+      "number": "598.14",
+      "heading": "Attachment.",
+      "text": "Attachment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59814a",
+      "number": "598.14A",
+      "heading": "Retroactive modification of temporary support order.",
+      "text": "Retroactive modification of temporary support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59814b",
+      "number": "598.14B",
+      "heading": "Child visitation — temporary custody orders.",
+      "text": "Child visitation — temporary custody orders.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59815",
+      "number": "598.15",
+      "heading": "Mandatory course — parties to certain proceedings.",
+      "text": "Mandatory course — parties to certain proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59816",
+      "number": "598.16",
+      "heading": "Conciliation — domestic relations divisions.",
+      "text": "Conciliation — domestic relations divisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59817",
+      "number": "598.17",
+      "heading": "Dissolution of marriage — evidence.",
+      "text": "Dissolution of marriage — evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59818",
+      "number": "598.18",
+      "heading": "Recrimination not a bar to dissolution of marriage.",
+      "text": "Recrimination not a bar to dissolution of marriage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59819",
+      "number": "598.19",
+      "heading": "Waiting period before decree.",
+      "text": "Waiting period before decree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59819a",
+      "number": "598.19A",
+      "heading": "Mandatory course — parties to certain proceedings.",
+      "text": "Mandatory course — parties to certain proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59820",
+      "number": "598.20",
+      "heading": "Forfeiture of marital rights.",
+      "text": "Forfeiture of marital rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59820a",
+      "number": "598.20A",
+      "heading": "Beneficiary revocation — life insurance.",
+      "text": "Beneficiary revocation — life insurance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59820b",
+      "number": "598.20B",
+      "heading": "Beneficiary revocation — other contracts.",
+      "text": "Beneficiary revocation — other contracts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59821",
+      "number": "598.21",
+      "heading": "Orders for disposition of property.",
+      "text": "Orders for disposition of property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59821a",
+      "number": "598.21A",
+      "heading": "Orders for spousal support.",
+      "text": "Orders for spousal support.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59821b",
+      "number": "598.21B",
+      "heading": "Orders for child support and medical support.",
+      "text": "Orders for child support and medical support.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59821c",
+      "number": "598.21C",
+      "heading": "Modification of child, spousal, or medical support orders.",
+      "text": "Modification of child, spousal, or medical support orders.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59821d",
+      "number": "598.21D",
+      "heading": "Relocation of parent as grounds to modify order of child custody.",
+      "text": "Relocation of parent as grounds to modify order of child custody.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59821e",
+      "number": "598.21E",
+      "heading": "Contesting paternity to challenge child support order.",
+      "text": "Contesting paternity to challenge child support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59821f",
+      "number": "598.21F",
+      "heading": "Postsecondary education subsidy.",
+      "text": "Postsecondary education subsidy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59821g",
+      "number": "598.21G",
+      "heading": "Minor parent — parenting classes.",
+      "text": "Minor parent — parenting classes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59822",
+      "number": "598.22",
+      "heading": "Support payments — clerk of court — collection services center or comparable government entity in another state — defaults — security.",
+      "text": "Support payments — clerk of court — collection services center or comparable government entity in another state — defaults — security.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59822a",
+      "number": "598.22A",
+      "heading": "Satisfaction of support payments.",
+      "text": "Satisfaction of support payments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59822b",
+      "number": "598.22B",
+      "heading": "Information required in order or judgment.",
+      "text": "Information required in order or judgment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59822c",
+      "number": "598.22C",
+      "heading": "Child support — social security disability dependent benefits.",
+      "text": "Child support — social security disability dependent benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59822d",
+      "number": "598.22D",
+      "heading": "Separate fund or conservatorship for support.",
+      "text": "Separate fund or conservatorship for support.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59823",
+      "number": "598.23",
+      "heading": "Contempt proceedings — alternatives to jail sentence.",
+      "text": "Contempt proceedings — alternatives to jail sentence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59823a",
+      "number": "598.23A",
+      "heading": "Contempt proceedings for provisions of support payments — activity governed by a license.",
+      "text": "Contempt proceedings for provisions of support payments — activity governed by a license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59824",
+      "number": "598.24",
+      "heading": "Costs if party is in default or contempt.",
+      "text": "Costs if party is in default or contempt.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59825",
+      "number": "598.25",
+      "heading": "Parties and court granting marriage dissolution decree — notice.",
+      "text": "Parties and court granting marriage dissolution decree — notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59826",
+      "number": "598.26",
+      "heading": "Record — impounding — violation indictable.",
+      "text": "Record — impounding — violation indictable.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-598",
+      "number": "598",
+      "heading": "27",
+      "text": "27",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59828",
+      "number": "598.28",
+      "heading": "Separate maintenance and annulment.",
+      "text": "Separate maintenance and annulment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59829",
+      "number": "598.29",
+      "heading": "Annulling illegal marriage — causes.",
+      "text": "Annulling illegal marriage — causes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59830",
+      "number": "598.30",
+      "heading": "Validity determined.",
+      "text": "Validity determined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59831",
+      "number": "598.31",
+      "heading": "Children — legitimacy.",
+      "text": "Children — legitimacy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59832",
+      "number": "598.32",
+      "heading": "Annulment — compensation.",
+      "text": "Annulment — compensation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59833",
+      "number": "598.33",
+      "heading": "Order to vacate.",
+      "text": "Order to vacate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59834",
+      "number": "598.34",
+      "heading": "Recipients of public assistance — assignment of support payments.",
+      "text": "Recipients of public assistance — assignment of support payments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59835",
+      "number": "598.35",
+      "heading": "Grandparent — great-grandparent — visitation rights.",
+      "text": "Grandparent — great-grandparent — visitation rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59836",
+      "number": "598.36",
+      "heading": "Attorney fees in proceeding to modify order or decree.",
+      "text": "Attorney fees in proceeding to modify order or decree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59837",
+      "number": "598.37",
+      "heading": "Name change.",
+      "text": "Name change.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59841",
+      "number": "598.41",
+      "heading": "Custody of children.",
+      "text": "Custody of children.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59841a",
+      "number": "598.41A",
+      "heading": "Visitation — history of crimes against a minor.",
+      "text": "Visitation — history of crimes against a minor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59841b",
+      "number": "598.41B",
+      "heading": "Visitation — restrictions — murder of parent.",
+      "text": "Visitation — restrictions — murder of parent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59841c",
+      "number": "598.41C",
+      "heading": "Modification of child custody or physical care — active duty.",
+      "text": "Modification of child custody or physical care — active duty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59841d",
+      "number": "598.41D",
+      "heading": "Assignment of visitation or physical care parenting time — parent serving active duty — family member.",
+      "text": "Assignment of visitation or physical care parenting time — parent serving active duty — family member.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-59842",
+      "number": "598.42",
+      "heading": "Notice of certain orders by clerk of court.",
+      "text": "Notice of certain orders by clerk of court.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

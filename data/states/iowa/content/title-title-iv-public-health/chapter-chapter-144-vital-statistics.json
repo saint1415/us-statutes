@@ -1,0 +1,534 @@
+{
+  "state": "iowa",
+  "path": "title-title-iv-public-health/chapter-chapter-144-vital-statistics",
+  "sections": [
+    {
+      "id": "section-1441",
+      "number": "144.1",
+      "heading": "Definitions.Section 144.2 - Records and statistics",
+      "text": "Section 144.3 - Rules adopted.Section 144.4 - State registrar.Section 144.5 - Duties of state registrar.Section 144.6Section 144.7Section 144.8Section 144.9 - County recorder as registrar.Section 144.10Section 144.11 - Public access to records.Secti",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1442",
+      "number": "144.2",
+      "heading": "Records and statistics.",
+      "text": "Records and statistics.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1443",
+      "number": "144.3",
+      "heading": "Rules adopted.",
+      "text": "Rules adopted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1444",
+      "number": "144.4",
+      "heading": "State registrar.",
+      "text": "State registrar.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1445",
+      "number": "144.5",
+      "heading": "Duties of state registrar.",
+      "text": "Duties of state registrar.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-144",
+      "number": "144",
+      "heading": "6",
+      "text": "6",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1449",
+      "number": "144.9",
+      "heading": "County recorder as registrar.",
+      "text": "County recorder as registrar.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14411",
+      "number": "144.11",
+      "heading": "Public access to records.",
+      "text": "Public access to records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14412",
+      "number": "144.12",
+      "heading": "Forms uniform.",
+      "text": "Forms uniform.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14412a",
+      "number": "144.12A",
+      "heading": "Declaration of paternity registry.",
+      "text": "Declaration of paternity registry.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14413",
+      "number": "144.13",
+      "heading": "Birth certificates.",
+      "text": "Birth certificates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14413a",
+      "number": "144.13A",
+      "heading": "Fees — use of funds — electronic birth certificate system.",
+      "text": "Fees — use of funds — electronic birth certificate system.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14413b",
+      "number": "144.13B",
+      "heading": "Waiver of fees — military service.",
+      "text": "Waiver of fees — military service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14414",
+      "number": "144.14",
+      "heading": "Foundlings.",
+      "text": "Foundlings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14415",
+      "number": "144.15",
+      "heading": "Delayed registrations of birth.",
+      "text": "Delayed registrations of birth.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14416",
+      "number": "144.16",
+      "heading": "Delayed registration of death or marriage.",
+      "text": "Delayed registration of death or marriage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14417",
+      "number": "144.17",
+      "heading": "Petition to establish certificate.",
+      "text": "Petition to establish certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14418",
+      "number": "144.18",
+      "heading": "Court hearing.",
+      "text": "Court hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14419",
+      "number": "144.19",
+      "heading": "Adoption certificate.",
+      "text": "Adoption certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14420",
+      "number": "144.20",
+      "heading": "Information.",
+      "text": "Information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14421",
+      "number": "144.21",
+      "heading": "Amended record.",
+      "text": "Amended record.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14422",
+      "number": "144.22",
+      "heading": "Clerk to report to state registrar.",
+      "text": "Clerk to report to state registrar.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14423",
+      "number": "144.23",
+      "heading": "State registrar to issue new certificate.",
+      "text": "State registrar to issue new certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14423a",
+      "number": "144.23A",
+      "heading": "Biological parent information — reestablishment of original certificate of birth.",
+      "text": "Biological parent information — reestablishment of original certificate of birth.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14424",
+      "number": "144.24",
+      "heading": "Substituting new for original birth certificates — inspection.",
+      "text": "Substituting new for original birth certificates — inspection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14424a",
+      "number": "144.24A",
+      "heading": "Access to original certificate of birth — application — contact preference form — medical history form — fees.",
+      "text": "Access to original certificate of birth — application — contact preference form — medical history form — fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14425",
+      "number": "144.25",
+      "heading": "No previous certificate — procedure.",
+      "text": "No previous certificate — procedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14425a",
+      "number": "144.25A",
+      "heading": "Certificate of birth — foreign and international adoptions.",
+      "text": "Certificate of birth — foreign and international adoptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14426",
+      "number": "144.26",
+      "heading": "Death certificate.",
+      "text": "Death certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14427",
+      "number": "144.27",
+      "heading": "Funeral director’s duties — death certificate — disposition of unclaimed veterans’ remains.",
+      "text": "Funeral director’s duties — death certificate — disposition of unclaimed veterans’ remains.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14428",
+      "number": "144.28",
+      "heading": "Medical certification.",
+      "text": "Medical certification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14429",
+      "number": "144.29",
+      "heading": "Fetal deaths.",
+      "text": "Fetal deaths.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14429a",
+      "number": "144.29A",
+      "heading": "Termination of pregnancy reporting — legislative intent.",
+      "text": "Termination of pregnancy reporting — legislative intent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14430",
+      "number": "144.30",
+      "heading": "Funeral director’s duty — fetal death certificate.",
+      "text": "Funeral director’s duty — fetal death certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14431",
+      "number": "144.31",
+      "heading": "Medical certification — fetal death.",
+      "text": "Medical certification — fetal death.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14431a",
+      "number": "144.31A",
+      "heading": "Certificate of birth resulting in stillbirth.",
+      "text": "Certificate of birth resulting in stillbirth.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14431b",
+      "number": "144.31B",
+      "heading": "Certificate of nonviable birth.",
+      "text": "Certificate of nonviable birth.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14432",
+      "number": "144.32",
+      "heading": "Burial transit permit.",
+      "text": "Burial transit permit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14433",
+      "number": "144.33",
+      "heading": "Bodies brought into state.",
+      "text": "Bodies brought into state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14434",
+      "number": "144.34",
+      "heading": "Disinterment — permit.",
+      "text": "Disinterment — permit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14435",
+      "number": "144.35",
+      "heading": "Extensions of time by rules.",
+      "text": "Extensions of time by rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14436",
+      "number": "144.36",
+      "heading": "Marriage certificate filed — prohibited information.",
+      "text": "Marriage certificate filed — prohibited information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14437",
+      "number": "144.37",
+      "heading": "Dissolution and annulment records.",
+      "text": "Dissolution and annulment records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14438",
+      "number": "144.38",
+      "heading": "Amendment of official record.",
+      "text": "Amendment of official record.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14439",
+      "number": "144.39",
+      "heading": "Change of name.",
+      "text": "Change of name.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14440",
+      "number": "144.40",
+      "heading": "Paternity of children — birth certificates.",
+      "text": "Paternity of children — birth certificates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14441",
+      "number": "144.41",
+      "heading": "Amending local records.",
+      "text": "Amending local records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14442",
+      "number": "144.42",
+      "heading": "Reproduction of original records.",
+      "text": "Reproduction of original records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14443",
+      "number": "144.43",
+      "heading": "Vital records closed to inspection — exceptions.",
+      "text": "Vital records closed to inspection — exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14443a",
+      "number": "144.43A",
+      "heading": "Mutual consent voluntary adoption registry.",
+      "text": "Mutual consent voluntary adoption registry.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14444",
+      "number": "144.44",
+      "heading": "Permits for research.",
+      "text": "Permits for research.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14445",
+      "number": "144.45",
+      "heading": "Certified copies.",
+      "text": "Certified copies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14445a",
+      "number": "144.45A",
+      "heading": "Commemorative birth and marriage certificates.",
+      "text": "Commemorative birth and marriage certificates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14446",
+      "number": "144.46",
+      "heading": "Fees.",
+      "text": "Fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14446a",
+      "number": "144.46A",
+      "heading": "Vital records fund.",
+      "text": "Vital records fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14447",
+      "number": "144.47",
+      "heading": "Persons confined in institutions.",
+      "text": "Persons confined in institutions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14448",
+      "number": "144.48",
+      "heading": "Institutions — dead persons.",
+      "text": "Institutions — dead persons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14449",
+      "number": "144.49",
+      "heading": "Additional record by funeral director.",
+      "text": "Additional record by funeral director.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14450",
+      "number": "144.50",
+      "heading": "Length of time records to be kept.",
+      "text": "Length of time records to be kept.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14451",
+      "number": "144.51",
+      "heading": "Information by others furnished on demand.",
+      "text": "Information by others furnished on demand.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14452",
+      "number": "144.52",
+      "heading": "Unlawful acts — punishment.",
+      "text": "Unlawful acts — punishment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14453",
+      "number": "144.53",
+      "heading": "Other acts — simple misdemeanors.",
+      "text": "Other acts — simple misdemeanors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14454",
+      "number": "144.54",
+      "heading": "Report to county attorney.",
+      "text": "Report to county attorney.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14455",
+      "number": "144.55",
+      "heading": "Attorney general to assist in enforcement.",
+      "text": "Attorney general to assist in enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14456",
+      "number": "144.56",
+      "heading": "Autopsy.",
+      "text": "Autopsy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14457",
+      "number": "144.57",
+      "heading": "Public safety officer death — required notice — autopsy.",
+      "text": "Public safety officer death — required notice — autopsy.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

@@ -1,0 +1,798 @@
+{
+  "state": "hawaii",
+  "path": "title-title-19-health/chapter-328-food-drugs-and-cosmetics",
+  "sections": [
+    {
+      "id": "section-328-1",
+      "number": "328-1",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-2",
+      "number": "328-2",
+      "heading": "Same; label, etc.",
+      "text": "Same; label, etc.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-21",
+      "number": "328-2.1",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-3",
+      "number": "328-3",
+      "heading": "Same; misbranding or misleading advertisement.",
+      "text": "Same; misbranding or misleading advertisement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-4",
+      "number": "328-4",
+      "heading": "Same; antiseptic, germicide; new drug; contamination.",
+      "text": "Same; antiseptic, germicide; new drug; contamination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-5",
+      "number": "328-5",
+      "heading": "Same; \"selling\" includes what.",
+      "text": "Same; \"selling\" includes what.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-6",
+      "number": "328-6",
+      "heading": "Prohibited acts.",
+      "text": "Prohibited acts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-7",
+      "number": "328-7",
+      "heading": "Remedies for violation of law.",
+      "text": "Remedies for violation of law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-8",
+      "number": "328-8",
+      "heading": "Regulations to be prescribed.",
+      "text": "Regulations to be prescribed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-9",
+      "number": "328-9",
+      "heading": "Foods deemed adulterated when.",
+      "text": "Foods deemed adulterated when.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-10",
+      "number": "328-10",
+      "heading": "Foods deemed misbranded when.",
+      "text": "Foods deemed misbranded when.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-105",
+      "number": "328-10.5",
+      "heading": "Regulations for exemption from labeling requirements.",
+      "text": "Regulations for exemption from labeling requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-11",
+      "number": "328-11",
+      "heading": "Regulations to prevent contamination; emergency permits to manufacturers, processors and packers.",
+      "text": "Regulations to prevent contamination; emergency permits to manufacturers, processors and packers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-12",
+      "number": "328-12",
+      "heading": "Suspension and reinstatement of permits.",
+      "text": "Suspension and reinstatement of permits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-123",
+      "number": "328-12.3",
+      "heading": "Protection of food.",
+      "text": "Protection of food.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-124",
+      "number": "328-12.4",
+      "heading": "Food establishments; use of latex gloves prohibited.",
+      "text": "Food establishments; use of latex gloves prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-127",
+      "number": "328-12.7",
+      "heading": "Display of unpackaged processed food.",
+      "text": "Display of unpackaged processed food.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-13",
+      "number": "328-13",
+      "heading": "Adding of poisonous or deleterious substance, regulation of.",
+      "text": "Adding of poisonous or deleterious substance, regulation of.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-14",
+      "number": "328-14",
+      "heading": "Drugs or devices deemed adulterated when.",
+      "text": "Drugs or devices deemed adulterated when.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-15",
+      "number": "328-15",
+      "heading": "Drugs or devices deemed misbranded when; prescriptions excepted, when.",
+      "text": "Drugs or devices deemed misbranded when; prescriptions excepted, when.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-16",
+      "number": "328-16",
+      "heading": "Drugs limited to dispensing on prescription.",
+      "text": "Drugs limited to dispensing on prescription.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-162",
+      "number": "328-16.2",
+      "heading": "Customized patient medication package.",
+      "text": "Customized patient medication package.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-165",
+      "number": "328-16.5",
+      "heading": "Prescription labeling.",
+      "text": "Prescription labeling.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-17",
+      "number": "328-17",
+      "heading": "New drugs, regulation of sale, etc.; exceptions.",
+      "text": "New drugs, regulation of sale, etc.; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-175",
+      "number": "328-17.5",
+      "heading": "Principal labeler responsibility under recall of drug.",
+      "text": "Principal labeler responsibility under recall of drug.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-176",
+      "number": "328-17.6",
+      "heading": "Out-of-state prescriptions.",
+      "text": "Out-of-state prescriptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-177",
+      "number": "328-17.7",
+      "heading": "Record of prescriptions.",
+      "text": "Record of prescriptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-178",
+      "number": "328-17.8",
+      "heading": "Electronic prescription information.",
+      "text": "Electronic prescription information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-179",
+      "number": "328-17.9",
+      "heading": "Supply of electronic equipment",
+      "text": "No person shall supply prescription information processing system equipment, including computer hardware, software, facsimile machines, and related equipment, to practitioners, pharmacists, pharmacies, or medical oxygen distributors, on the condition, agreement, or un",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-18",
+      "number": "328-18",
+      "heading": "Cosmetics deemed adulterated when.",
+      "text": "Cosmetics deemed adulterated when.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-19",
+      "number": "328-19",
+      "heading": "Cosmetics deemed misbranded when.",
+      "text": "Cosmetics deemed misbranded when.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-191",
+      "number": "328-19.1",
+      "heading": "Consumer commodities; labeling; packaging.",
+      "text": "Consumer commodities; labeling; packaging.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-20",
+      "number": "328-20",
+      "heading": "False advertising; exceptions.",
+      "text": "False advertising; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-21",
+      "number": "328-21",
+      "heading": "Rules and regulations, hearings.",
+      "text": "Rules and regulations, hearings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-22",
+      "number": "328-22",
+      "heading": "Duties of department.",
+      "text": "Duties of department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-23",
+      "number": "328-23",
+      "heading": "Inspection powers of director.",
+      "text": "Inspection powers of director.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-24",
+      "number": "328-24",
+      "heading": "Furnishing of samples to director.",
+      "text": "Furnishing of samples to director.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-25",
+      "number": "328-25",
+      "heading": "Director's right to inspect, require recordkeeping, demand records, seize, and conduct hearings.",
+      "text": "Director's right to inspect, require recordkeeping, demand records, seize, and conduct hearings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-26",
+      "number": "328-26",
+      "heading": "Disposal of questioned articles; court orders; expenses; bond.",
+      "text": "Disposal of questioned articles; court orders; expenses; bond.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-27",
+      "number": "328-27",
+      "heading": "Perishables destroyed when.",
+      "text": "Perishables destroyed when.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-28",
+      "number": "328-28",
+      "heading": "Duties of county attorneys, prosecuting attorney.",
+      "text": "Duties of county attorneys, prosecuting attorney.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-29",
+      "number": "328-29",
+      "heading": "Penalty; exceptions.",
+      "text": "Penalty; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-30",
+      "number": "328-30",
+      "heading": "Administrative penalties.",
+      "text": "Administrative penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-31",
+      "number": "328-31",
+      "heading": "Injunctive relief.",
+      "text": "Injunctive relief.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-41",
+      "number": "328-41",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-42",
+      "number": "328-42",
+      "heading": "Department of health regulations.",
+      "text": "Department of health regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-43",
+      "number": "328-43",
+      "heading": "Records, food to be marked.",
+      "text": "Records, food to be marked.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-44",
+      "number": "328-44",
+      "heading": "Bad food; bait.",
+      "text": "Bad food; bait.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-45",
+      "number": "328-45",
+      "heading": "Length of storage time.",
+      "text": "Length of storage time.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-46",
+      "number": "328-46",
+      "heading": "Restorage prohibited.",
+      "text": "Restorage prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-47",
+      "number": "328-47",
+      "heading": "Cold stored goods to be labeled; sales of.",
+      "text": "Cold stored goods to be labeled; sales of.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-48",
+      "number": "328-48",
+      "heading": "Penalty.",
+      "text": "Penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-49",
+      "number": "328-49",
+      "heading": "What fish and when same may be put in cold storage for future sale.",
+      "text": "What fish and when same may be put in cold storage for future sale.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-50",
+      "number": "328-50",
+      "heading": "Fishing on commercial fishing vessels.",
+      "text": "Fishing on commercial fishing vessels.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-51",
+      "number": "328-51",
+      "heading": "Causing preventable deterioration of; penalty.",
+      "text": "Causing preventable deterioration of; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-61",
+      "number": "328-61",
+      "heading": "Notifying consumer.",
+      "text": "Notifying consumer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-62",
+      "number": "328-62",
+      "heading": "Description of label.",
+      "text": "Description of label.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-63",
+      "number": "328-63",
+      "heading": "Injunction.",
+      "text": "Injunction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-64",
+      "number": "328-64",
+      "heading": "Offense, penalty.",
+      "text": "Offense, penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-65",
+      "number": "328-65",
+      "heading": "Administration and enforcement.",
+      "text": "Administration and enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-66",
+      "number": "328-66",
+      "heading": "Thawed food.",
+      "text": "Thawed food.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-71",
+      "number": "328-71",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-72",
+      "number": "328-72",
+      "heading": "Flour must be enriched.",
+      "text": "Flour must be enriched.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-73",
+      "number": "328-73",
+      "heading": "Bread, rolls, buns, standard for.",
+      "text": "Bread, rolls, buns, standard for.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-74",
+      "number": "328-74",
+      "heading": "Flour, wrapped bread, rolls, standard for.",
+      "text": "Flour, wrapped bread, rolls, standard for.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-75",
+      "number": "328-75",
+      "heading": "Enforcement; suspension.",
+      "text": "Enforcement; suspension.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-76",
+      "number": "328-76",
+      "heading": "Penalty.",
+      "text": "Penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-79",
+      "number": "328-79",
+      "heading": "Home-based agricultural producer of honey; exemption.",
+      "text": "Home-based agricultural producer of honey; exemption.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-80",
+      "number": "328-80",
+      "heading": "Home-based agricultural producer of honey; inspections.",
+      "text": "Home-based agricultural producer of honey; inspections.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-81",
+      "number": "328-81",
+      "heading": "to 328-89 REPEALED.",
+      "text": "to 328-89 REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-91",
+      "number": "328-91",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-92",
+      "number": "328-92",
+      "heading": "Drug product and biological product selection.",
+      "text": "Drug product and biological product selection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-93",
+      "number": "328-93",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-94",
+      "number": "328-94",
+      "heading": "Prescription record.",
+      "text": "Prescription record.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-95",
+      "number": "328-95",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-96",
+      "number": "328-96",
+      "heading": "Hawaii list of equivalent generic drug products and interchangeable biological products.",
+      "text": "Hawaii list of equivalent generic drug products and interchangeable biological products.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-97",
+      "number": "328-97",
+      "heading": "Posting requirements.",
+      "text": "Posting requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-98",
+      "number": "328-98",
+      "heading": "Pharmacist liability.",
+      "text": "Pharmacist liability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-99",
+      "number": "328-99",
+      "heading": "Exceptions.",
+      "text": "Exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-100",
+      "number": "328-100",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-101",
+      "number": "328-101",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-102",
+      "number": "328-102",
+      "heading": "Criminal penalty.",
+      "text": "Criminal penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-103",
+      "number": "328-103",
+      "heading": "Administrative penalties.",
+      "text": "Administrative penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-104",
+      "number": "328-104",
+      "heading": "Injunctive relief.",
+      "text": "Injunctive relief.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-105",
+      "number": "328-105",
+      "heading": "Powers and duties.",
+      "text": "Powers and duties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-106",
+      "number": "328-106",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-111",
+      "number": "328-111",
+      "heading": "Objective.",
+      "text": "Objective.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-112",
+      "number": "328-112",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-113",
+      "number": "328-113",
+      "heading": "Rules.",
+      "text": "Rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-114",
+      "number": "328-114",
+      "heading": "Notice.",
+      "text": "Notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-115",
+      "number": "328-115",
+      "heading": "Inspection.",
+      "text": "Inspection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-116",
+      "number": "328-116",
+      "heading": "Penalty; exceptions.",
+      "text": "Penalty; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-117",
+      "number": "328-117",
+      "heading": "Administrative penalties.",
+      "text": "Administrative penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-118",
+      "number": "328-118",
+      "heading": "Injunctive relief.",
+      "text": "Injunctive relief.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-119",
+      "number": "328-119",
+      "heading": "Minimum requirements for the storage and handling of prescription drugs.",
+      "text": "Minimum requirements for the storage and handling of prescription drugs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-120",
+      "number": "328-120",
+      "heading": "Recordkeeping.",
+      "text": "Recordkeeping.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-121",
+      "number": "328-121",
+      "heading": "Written policies and procedures.",
+      "text": "Written policies and procedures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-122",
+      "number": "328-122",
+      "heading": "Responsible persons.",
+      "text": "Responsible persons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328-123",
+      "number": "328-123",
+      "heading": "Salvaging and reprocessing.",
+      "text": "Salvaging and reprocessing.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

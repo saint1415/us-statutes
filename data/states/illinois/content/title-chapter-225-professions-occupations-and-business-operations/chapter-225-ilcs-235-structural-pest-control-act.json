@@ -1,0 +1,470 @@
+{
+  "state": "illinois",
+  "path": "title-chapter-225-professions-occupations-and-business-operations/chapter-225-ilcs-235-structural-pest-control-act",
+  "sections": [
+    {
+      "id": "section-1",
+      "number": "1.",
+      "heading": "Short title). This Act shall be known and may be cited as the",
+      "text": "\"Structural Pest Control Act\".",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2",
+      "number": "2.",
+      "heading": "Legislative intent. It is declared that there exists and",
+      "text": "may in the future exist within the State of Illinois\nlocations where pesticides are received, stored,\nformulated or prepared and subsequently used for the control\nof structural pests, and improper selection, formulation and\napplication of pesticides may\nadversely affect the public health and general welfare.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3",
+      "number": "3.",
+      "heading": "Definitions. As used in this Act, unless the context",
+      "text": "otherwise requires, the terms specified in Sections 3.01 through 3.27\nhave the meanings ascribed to them in those Sections.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-301",
+      "number": "3.01.",
+      "heading": "\"Department\" means the Department of Public Health.",
+      "text": "\"Department\" means the Department of Public Health.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-302",
+      "number": "3.02.",
+      "heading": "\"Director\" means the Director of Public Health.",
+      "text": "\"Director\" means the Director of Public Health.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-303",
+      "number": "3.03.",
+      "heading": "\"Person\" means any individual, group of individuals,",
+      "text": "association, trust, partnership, corporation, person doing business\nunder an assumed name, the State of Illinois, or department thereof,\nany other state-owned and operated institution, public school, licensed day care center, or any other entity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-304",
+      "number": "3.04.",
+      "heading": "\"Commercial structural pest control business",
+      "text": "location\" means any location at or from which any person\nadvertises or contracts to perform structural pest control\nservices for hire or where a person is\nengaged or employed by that business to perform the services,\nstore materials, keep records, or perform other pertinent\nactivities, for the purpose of operating a structural pest\ncontrol business at that business location, but does not\ninclude locations which exist solely for the purpose of\naccepting telephone calls and messages on behalf of the licensee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-305",
+      "number": "3.05.",
+      "heading": "\"Licensee\" means a person licensed in accordance with this Act.",
+      "text": "\"Licensee\" means a person licensed in accordance with this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-306",
+      "number": "3.06.",
+      "heading": "\"Certified technician\" means an individual who has met the",
+      "text": "qualifications set forth under Section 5 of this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-307",
+      "number": "3.07.",
+      "heading": "\"Pests\" include arthropods (insects, spiders, mites, ticks",
+      "text": "and related pests), wood infesting organisms, rats, mice, nuisance birds\nand any other obnoxious or undesirable animals in, on or under\nstructures, but does not include bacteria or other micro-organisms on or\nin living man or other living animals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-308",
+      "number": "3.08.",
+      "heading": "\"Structure\" means any edifice, building or other",
+      "text": "constructed entity including the contents\ntherein, any patio or terrace connected thereto and the land on which it is situated,\nand including any portion of land within the given proprietorship which\nmight constitute a potential harborage for pests which could affect the\nedifice or building or its contents, any portion of land upon which work\nhas begun for the erection of an edifice, any vehicle used as a common carrier,\nany dock, wharf, railroad siding or refuse area.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-309",
+      "number": "3.09.",
+      "heading": "\"Structural pest control\" means and includes the",
+      "text": "use of any device or the application of any substance to prevent,\nrepel, mitigate, curb, control, or eradicate any structural pest in, on, under, or around a\nstructure, or within a part of, or materials used in building, a structure;\nthe use of any pesticide, including insecticides, fungicides and other\nwood treatment products, attractants, repellents, rodenticides, fumigants,\nor mechanical devices for preventing, controlling, eradicating, identifying,\nmitigating, diminishing, or curbing insects, vermin, rats, mice, or other pests in,\non, under, or around a structure, or within a part of, or materials used in\nbuilding, a structure; vault\nfumigation and fumigation of box cars, trucks, ships,\nairplanes, docks, warehouses, and common carriers or soliciting to perform\nany of the foregoing functions. Notwithstanding any other law, an applicator who is licensed or certified under the Illinois Pesticide Act may not engage in structural pest control as defined in this Act unless the applicator is also licensed and certified under this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-311",
+      "number": "3.11.",
+      "heading": "\"Commercial structural pest control business\" means any",
+      "text": "business in the course of which any person performs, advertises, or contracts to\nperform structural pest control services on property under the ownership\nor control of another.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-312",
+      "number": "3.12.",
+      "heading": "\"Non-commercial structural pest control\" means",
+      "text": "structural pest control performed by a person who is not,\nand is not employed by, a commercial structural pest control business.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-313",
+      "number": "3.13.",
+      "heading": "\"Non-commercial structural pest control",
+      "text": "location\" means any location from which a person, who is\nnot engaged in commercial structural pest control, performs\nstructural pest control activities which are confined to\nstructures directly associated with the activity, business,\nproduct or service of such person.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-314",
+      "number": "3.14.",
+      "heading": "\"Restricted pesticide\" means any substance or",
+      "text": "mixture of substances intended for preventing, destroying,\nrepelling, or mitigating any pest, the use of which has been\ncategorized as restricted under subparagraph (C) of paragraph\n(1) of subsection (d) of Section 3 of the Federal\nInsecticide, Fungicide, and Rodenticide Act as amended or under\nthe Illinois Pesticide Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-315",
+      "number": "3.15.",
+      "heading": "\"Registrant\" means a person registered in",
+      "text": "accordance with the provisions of this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-316",
+      "number": "3.16.",
+      "heading": "\"Supervision\" means the direction and management",
+      "text": "by certified personnel of the activities of non-certified\npersonnel in use and storage of general use or restricted pesticides.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-317",
+      "number": "3.17.",
+      "heading": "\"Sub-category\" means a specific area of pest",
+      "text": "control in which a pest control technician may be separately\ncertified as specified by this Act or by rule promulgated thereunder.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-318",
+      "number": "3.18.",
+      "heading": "\"Planned use inspection\" means an inspection of a certified",
+      "text": "or non-certified technician to observe the procedures for preparation,\napplication, and disposal of pesticides to ensure that they are performed in\naccordance with this Act, the Illinois Pesticide Act, the\nEnvironmental Protection Act, the rules and regulations of\nthe Illinois Pollution Control Board, and other applicable State law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-319",
+      "number": "3.19.",
+      "heading": "\"Label\" means the written, printed or graphic matter on or",
+      "text": "attached to the pesticide or device or any of its containers or wrappings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-320",
+      "number": "3.20.",
+      "heading": "\"Labeling\" means the label and all other written, printed",
+      "text": "or graphic matters: (a) on the pesticide or device or any of its containers\nor wrappings, (b) accompanying the pesticide or device or referring to it\nin any other media used to disseminate information to the public, (c) to\nwhich reference is made to the pesticide or device except when references\nare made to current official publications of the U. S. Environmental Protection\nAgency, Departments of Agriculture, Health and Human Services or other federal\nGovernment institutions, the State experiment station or colleges of agriculture\nor other similar state institutions authorized to conduct research in the\nfield of pesticides.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321",
+      "number": "3.21.",
+      "heading": "\"FIFRA\" means the \"Federal Insecticide, Fungicide and Rodenticide Act\".",
+      "text": "\"FIFRA\" means the \"Federal Insecticide, Fungicide and Rodenticide Act\".",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-322",
+      "number": "3.22.",
+      "heading": "\"General use pesticide\" means any substance or mixture of",
+      "text": "substances intended for preventing, destroying, repelling or mitigating\nany pest, as defined in Section 3.07 of this Act, the use of which has\nbeen categorized as general under subparagraph\n(B) of paragraph (1) of subsection (d) of Section\n3 of FIFRA.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-323",
+      "number": "3.23.",
+      "heading": "\"USEPA\" means the United States Environmental Protection Agency.",
+      "text": "\"USEPA\" means the United States Environmental Protection Agency.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-324",
+      "number": "3.24.",
+      "heading": "\"Device\" means any instrument or contrivance, other than",
+      "text": "a firearm or equipment for application of pesticides when sold separately\nfrom pesticides, which is intended for trapping, repelling, destroying,\nor mitigating any pest, other than bacteria, virus, or other microorganisms\non or living in man or other living animals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-325",
+      "number": "3.25.",
+      "heading": "\"Integrated pest management\" is defined as a pest management",
+      "text": "system that includes the following elements:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-326",
+      "number": "3.26.",
+      "heading": "\"School\" means any structure used as a public school in this",
+      "text": "State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-327",
+      "number": "3.27.",
+      "heading": "\"Day care center\" means any structure used as a licensed day care",
+      "text": "center in this State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4",
+      "number": "4.",
+      "heading": "Licensing and registration location requirements.",
+      "text": "Licensing and registration location requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5",
+      "number": "5.",
+      "heading": "Certification requirements. No individual shall apply any",
+      "text": "general use or restricted pesticide while engaged in commercial structural\npest control in this State unless the individual is engaged in or has completed the training requirements prescribed by the Department and is certified, or supervised by someone who\nis certified, by the Department in accordance with this Section.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501",
+      "number": "5.01.",
+      "heading": "Reciprocity.",
+      "text": "Reciprocity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502",
+      "number": "5.02.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6",
+      "number": "6.",
+      "heading": "Renewal of technician certification.",
+      "text": "Renewal of technician certification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7",
+      "number": "7.",
+      "heading": "Written examination required. The Department shall adopt rules for any examinations required for the proper administration of this Act, including any category or sub-category examination involving the use of general or restricted use pesticides and any examination which may be required under Categor",
+      "text": "shall be in the form prescribed by the Department,\naccompanied by the required fee as prescribed in Section 9 of this Act, and received by the Department at least 15 days prior to an examination. The Department or its designee shall conduct\nwritten examinations at least 4 times each year and may require a\npractical demonstration by each applicant.\nWritten examinations shall be prepared from suggested study materials.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8",
+      "number": "8.",
+      "heading": "Change of certified technician. When the",
+      "text": "licensee or registrant is without a certified technician,\nthe licensee or registrant shall notify the Director in writing within 7\ndays\nand shall employ a technician certified in accordance with Section 5 of\nthis Act no later than 45 days from the time the position of\ncertified technician becomes vacant. All structural pest control operations shall be\nsuspended until such time that the licensee or registrant obtains the\nservices of a certified technician.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9",
+      "number": "9.",
+      "heading": "Fees and required insurance.",
+      "text": "Fees and required insurance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10",
+      "number": "10.",
+      "heading": "Powers and duties of the Department). The Department has",
+      "text": "the following powers and duties:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-101",
+      "number": "10.1.",
+      "heading": "Structural Pest Control Advisory Council. The Governor shall",
+      "text": "appoint a Structural Pest Control Advisory Council consisting of 10 members\nto consult with and advise the Department. Their functions shall be to advise\nthe Department in the preparation of rules necessary to carry out the\nprovisions of the Act, offer suggestions for examination questions,\nprovide suggestions for the efficient administration of the Act, develop\ncriteria for issuance of administrative fines, and perform other duties as\nmay be prescribed by the Director. Membership on the council shall be as\nfollows:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-102",
+      "number": "10.2.",
+      "heading": "Integrated pest management guidelines; notification; training of designated persons; request for copies.",
+      "text": "Integrated pest management guidelines; notification; training of designated persons; request for copies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-103",
+      "number": "10.3.",
+      "heading": "Notification. School districts and day care centers must",
+      "text": "maintain a registry of\nparents and guardians of students and employees who have registered to receive\nwritten or telephonic\nnotification prior to application of pesticides to school property or day\ncare centers or provide\nwritten or telephonic notification to all parents and guardians of students before such\npesticide application. Written notification may be included in newsletters,\nbulletins, calendars, or other correspondence currently published by the school\ndistrict or day care center. The written or telephonic notification must be given at\nleast 2 business days\nbefore application of the pesticide application and should identify the\nintended date of the application of the pesticide and the name and telephone\ncontact number for the school or day care center personnel\nresponsible for\nthe pesticide\napplication program. Prior notice shall not be required if there is an\nimminent threat to health or property. If such a situation arises, the\nappropriate school or day care center personnel must sign a statement\ndescribing the circumstances\nthat gave rise to the health threat and ensure that written or telephonic notice is provided\nas soon as practicable. For purposes of this Section, pesticides subject to\nnotification requirements shall not include (i) an antimicrobial agent, such as\ndisinfectant, sanitizer, or deodorizer, or (ii) insecticide baits and\nrodenticide\nbaits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1015",
+      "number": "10.15.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12",
+      "number": "12.",
+      "heading": "Subject to the requirement for",
+      "text": "public hearings as hereinafter provided, the Department shall\npromulgate, publish, and adopt, and may from time to time after public hearing amend\nsuch rules and regulations as may be necessary for the proper\nenforcement of this Act, to protect the health and safety of the public\nand may, when necessary, utilize the services of any other state\nagencies to assist in carrying out the purposes of this Act. The\nDepartment shall hold a public hearing on all proposed rules and\nregulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13",
+      "number": "13.",
+      "heading": "Violations of the Act. It is a violation of this Act and the",
+      "text": "Department may suspend, revoke, or refuse to issue or renew any certificate,\nregistration, or license, in accordance with Section 14 of this Act, upon\nproof of any of the following:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14",
+      "number": "14.",
+      "heading": "Suspension, revocation or refusal to renew license, registration",
+      "text": "or certification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15",
+      "number": "15.",
+      "heading": "Administrative hearing. The Department shall give",
+      "text": "written notice by certified or registered mail to any\napplicant, licensee, registrant or certified technician\nof the Department's intent to suspend, revoke, or refuse to issue a\nlicense, registration, or certificate or to assess a fine. Such person\nhas a right to a hearing before the Department; however, a written\nnotice of a request for such a hearing shall be served on the\nDepartment within 10 days of notice of such refusal, suspension, or\nrevocation of a license, registration, or certification, or imposition\nof a fine. The hearing shall be conducted by the\nDirector, or a Hearing Officer designated in writing by the\nDirector, to conduct the hearing. A stenographic record shall\nbe made of the hearing and the cost borne by the Department;\nhowever, a transcription of the hearing will be made only if a\nperson requests and shall be transcribed at the cost of such person.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-16",
+      "number": "16.",
+      "heading": "Subpoena powers of Department or hearing officer. The Director or",
+      "text": "hearing officer may compel by subpoena or subpoena duces tecum the attendance\nand testimony of witnesses and the production of books and papers and administer\noaths to witnesses. All subpoenas issued by the Director or hearing officer\nmay be served as provided for in a civil action. The fees of witnesses\nfor attendance and travel shall be the same as the fees for witnesses before\nthe circuit court and shall be paid by the party to such proceeding at whose\nrequest the subpoena is issued. If such subpoena is issued at the request\nof the Department, the witness\nfee shall be paid as an administrative expense.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-17",
+      "number": "17.",
+      "heading": "Deposition of witnesses; testimony at hearing recorded. In",
+      "text": "the event of the inability of any party\nor the Department to procure the attendance of witnesses to give testimony\nor produce books and papers,\nsuch party or the Department may take the deposition of witnesses in accordance with\nthe laws of this State. All testimony taken at a hearing shall be reduced to writing,\nand all such testimony and other evidence introduced at the hearing shall be a part\nof the record of the hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19",
+      "number": "19.",
+      "heading": "Certification of record). The Department is not required to",
+      "text": "certify any record or file\nany answer or otherwise appear in any proceeding for judicial review unless the\nparty filing the complaint deposits with the clerk of the court the sum of\n$1 per page representing costs of such certification. Failure on the\npart of the plaintiff to make such deposit shall be grounds for dismissal\nof the action.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-20",
+      "number": "20.",
+      "heading": "Injunction). The performance of structural pest control or the operation",
+      "text": "of a business location as defined in Section 3 of this Act within this State in\nviolation of this Act or the rules and regulations promulgated hereunder is declared\na nuisance and inimical to the public health, welfare and safety and a\ndeceptive business practice. The Director, in the\nname of the people of the State, through the Attorney General or the State's Attorney\nof the county in which such violation occurs may, in addition to other remedies herein\nprovided, bring an action for an injunction to restrain such violation or enjoin\nthe future performance of structural pest control or the operating of a business\nlocation until compliance with the provisions of this Act has been obtained.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-21",
+      "number": "21.",
+      "heading": "Penalty. Any person who violates this Act or any rule or regulation",
+      "text": "adopted by the Department, or who violates any determination or order of the\nDepartment under this Act shall be guilty of a Class A misdemeanor and shall be\nfined a sum of not more than $2,500, serve a jail term of up to 1 day less than 1 year in jail, or both.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-211",
+      "number": "21.1.",
+      "heading": "Administrative civil fines. The Department is empowered to",
+      "text": "assess administrative civil fines in accordance with Section 15 of this Act against a licensee, registrant,\ncertified technician, person, public school, licensed day care center, or other entity for violations of this Act or its rules and\nregulations. These fines shall be established by the Department by rule and\nmay be assessed in addition to, or in lieu of, license, registration, or\ncertification suspensions and revocations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22",
+      "number": "22.",
+      "heading": "Scope of Act. The provisions of this Act apply to any",
+      "text": "structural pest control operations performed by the State or agency\nthereof. However, the State or agency thereof or any unit of local\ngovernment shall not be required to pay any fees, nor shall the employees\nthereof engaged in pest control activities in their official capacity be required to pay any fees for examination, certification, or renewal\nof certification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-23",
+      "number": "23.",
+      "heading": "Judicial review of final administrative decision. The Administrative",
+      "text": "Review Law and the rules adopted under the Administrative Review\nLaw apply to and govern all proceedings for judicial review of final administrative\ndecisions of the Department under this Act. Such judicial review shall be\nhad in the circuit court of the county in which the cause of action arose.\nThe term \"administrative decision\" is defined as in Section 3-101 of the\nCode of Civil Procedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-231",
+      "number": "23.1.",
+      "heading": "The provisions of the Illinois Administrative Procedure",
+      "text": "Act are hereby expressly adopted and shall apply to all administrative rules\nand procedures of the Department of Public Health under this Act, except that\nin case of conflict between the Illinois Administrative Procedure Act and this\nAct the provisions of this Act shall control, and except that Section 5-35 of\nthe Illinois Administrative Procedure Act relating to procedures for\nrule-making does not apply to the adoption of any rule required by federal law\nin connection with which the Department is precluded by law from exercising any\ndiscretion.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24",
+      "number": "24.",
+      "heading": "Severability clause). If any part of this Act is adjudged invalid,",
+      "text": "such adjudication\nshall not affect the validity of the Act as a whole or of any other part.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25",
+      "number": "25.",
+      "heading": "The provisions of the Illinois Administrative",
+      "text": "Procedure Act are hereby\nexpressly adopted and shall apply to all administrative rules\nand procedures of the Department of Public Health under this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26",
+      "number": "26.",
+      "heading": "Continuation of Act; validation.",
+      "text": "Continuation of Act; validation.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}
