@@ -1,0 +1,48 @@
+{
+  "state": "idaho",
+  "path": "title-title-28/chapter-chapter-53",
+  "sections": [
+    {
+      "id": "section-28-5301",
+      "number": "28-5301",
+      "heading": "",
+      "text": "28-5301. SHORT TITLE. This chapter shall be known and may be cited as the \"Digital Assets Act.\"\n\n[28-5301, added 2022, ch. 284, sec. 1, p. 901.]",
+      "source_url": "https://law.justia.com/codes/idaho/title-28/chapter-53/section-28-5301/"
+    },
+    {
+      "id": "section-28-5302",
+      "number": "28-5302",
+      "heading": "",
+      "text": "28-5302. SCOPE. This chapter defines the legal status of digital assets. Digital assets are subject to applicable laws or rules that apply to their business or activity.\n\n[28-5302, added 2022, ch. 284, sec. 1, p. 901.]",
+      "source_url": "https://law.justia.com/codes/idaho/title-28/chapter-53/section-28-5302/"
+    },
+    {
+      "id": "section-28-5303",
+      "number": "28-5303",
+      "heading": "",
+      "text": "28-5303. DEFINITIONS. As used in this chapter:\n\n(1) \"Adverse claim\" means a claimant that has a property interest in a virtual currency or a right to payment evidenced by the virtual currency.\n\n(2) \"Control\" means the ability to exclude others from the use of property and includes the following:\n\n(a) A secured party, or an agent, custodian, fiduciary, or trustee of the party, that has complied with section 28-8-106, Idaho Code, including by means of a private key or the use of a multi-signature arrangement exclusive to the secured party or any substantially similar analogue; and\n\n(b) A smart contract created by a secured party to comply with section 28-8-106, Idaho Code. As used in this paragraph, \"smart contract\" means an automated transaction as described in section 28-50-114, Idaho Code, or any substantially similar analogue comprised of code, script, or programming language that executes the terms of an agreement and may include taking custody of and transferring an asset or issuing executable instructions for these actions, based on the occurrence or nonoccurrence of specified conditions.\n\n(3) \"Digital asset\" means a representation of economic, proprietary, or access rights that is stored in a computer-readable format and includes an open blockchain token, digital commodity, digital security, virtual currency, and any other controllable electronic record.\n\n(4) \"Digital security\" means a digital asset that constitutes a security as defined in section 30-14-102, Idaho Code.\n\n(5) \"Multi-signature arrangement\" means a system of access control relating to a digital asset for the purposes of preventing unauthorized transactions relating to the asset in which two (2) or more private keys are required to conduct a transaction or any other substantially similar analogue.\n\n(6) \"Possession\" includes use of a private key, a multi-signature arrangement exclusive to the secured party, a smart contract as defined in this section, or any substantially similar analogue. \"Possession\" shall also include delivery of certificated digital securities consistent with section 28-8-301(1)(a), Idaho Code.\n\n(7) \"Private key\" means a unique element of cryptographic data or any substantially similar analogue that is:\n\n(a) Held by a person;\n\n(b) Paired with a unique, publicly available element of cryptographic data; and\n\n(c) Associated with an algorithm that is necessary to carry out an encryption or decryption required to execute a transaction.\n\n(8) \"Virtual currency\" means a digital asset that is used as a medium of exchange, unit of account, or store of value.\n\n[28-5303, added 2022, ch. 284, sec. 1, p. 902.]",
+      "source_url": "https://law.justia.com/codes/idaho/title-28/chapter-53/section-28-5303/"
+    },
+    {
+      "id": "section-28-5304",
+      "number": "28-5304",
+      "heading": "",
+      "text": "28-5304. CLASSIFICATION OF DIGITAL ASSETS. Digital assets are intangible personal property and are classified as follows:\n\n(1) Digital assets are intangible personal property and are general intangibles as defined in section 28-9-102, Idaho Code.\n\n(2) Digital securities are intangible personal property and are investment property as defined in section 28-9-102, Idaho Code.\n\n(3) Virtual currency is intangible personal property and is not a security, notwithstanding section 30-14-102, Idaho Code.\n\n[28-5304, added 2022, ch. 284, sec. 1, p. 902.]",
+      "source_url": "https://law.justia.com/codes/idaho/title-28/chapter-53/section-28-5304/"
+    },
+    {
+      "id": "section-28-5305",
+      "number": "28-5305",
+      "heading": "",
+      "text": "28-5305. PURCHASE AND SALE. (1) Digital assets may be purchased and sold in the same manner and subject to the same laws of this state as other personal property. A purchaser or seller may be identified in any way including by name, identifying number, private key, office, or account number.\n\n(2) Except as provided in subsection (3) of this section, a purchaser takes a right to payment, right to performance or interest in property evidenced by a digital asset subject to a claim of a property right, right to payment, and right to performance or interest in property evidenced by the digital asset.\n\n(3) An action based on a claim of a property right, right to performance, or right of payment may not be asserted against a qualified purchaser. For the purposes of this subsection, a qualified purchaser is a purchaser of a digital asset or an interest in a digital asset that obtains the digital asset for value, in good faith, and without notice of a claim of a property right in the digital asset.\n\n[28-5305, added 2022, ch. 284, sec. 1, p. 903.]",
+      "source_url": "https://law.justia.com/codes/idaho/title-28/chapter-53/section-28-5305/"
+    },
+    {
+      "id": "section-28-5306",
+      "number": "28-5306",
+      "heading": "",
+      "text": "28-5306. PERFECTION BY POSSESSION OR CONTROL. (1) Perfection by possession creates a possessory security interest under section 28-9-301, Idaho Code.\n\n(2) A security interest held by a secured party having possession or control has priority over a security interest held by a secured party that does not have possession or control, as applicable. Other provisions of law relating to perfection and priority of security interests, including section 28-9-207, Idaho Code, and priority of control over delivery, shall apply, except that section 28-9-322(a)(1) and (b), Idaho Code, shall not apply.\n\n(3) A person that acquires an interest in and obtains control of a virtual currency without notice of any adverse claim takes the interest in the virtual currency and in any right to payment evidenced by the virtual currency free of any adverse claim.\n\n[28-5306, added 2022, ch. 284, sec. 1, p. 903.]",
+      "source_url": "https://law.justia.com/codes/idaho/title-28/chapter-53/section-28-5306/"
+    }
+  ]
+}

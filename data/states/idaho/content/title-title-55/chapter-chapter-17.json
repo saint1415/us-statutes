@@ -1,0 +1,76 @@
+{
+  "state": "idaho",
+  "path": "title-title-55/chapter-chapter-17",
+  "sections": [
+    {
+      "id": "section-55-1701",
+      "number": "55-1701",
+      "heading": "",
+      "text": "55-1701. DEFINITIONS. The following definitions shall apply to terms used in this chapter:\n\n(1) \"Board\" means the Idaho board of licensure of professional engineers and professional land surveyors.\n\n(2) \"Idaho plane coordinate system\" or \"IPCS\" means the system, and any successor system, of map projections specific to the state of Idaho maintained by NGS.\n\n(3) \"Idaho transverse mercator\" or \"IDTM\" means the statewide mapping projection, and any successor system, specific to the state of Idaho maintained by the NGS.\n\n(4) \"Identifying information\" means the datum, adjustment, epoch, coordinate system, zone, and unit of a plane coordinate system.\n\n(5) \"National geodetic survey\" or \"NGS\" means the federal agency, and any successor agency, that defines and manages the NSRS.\n\n(6) \"National spatial reference system\" or \"NSRS\" means the consistent coordinate system, and any successor system, defining latitude, longitude, height, scale, gravity, orientation, and shoreline throughout the United States.\n\n(7) \"State plane coordinate system\" or \"SPCS\" means the nationwide system, and any successor system, of map projections maintained by NGS.\n\n[55-1701, added 2021, ch. 174, sec. 3, p. 484.]",
+      "source_url": "https://law.justia.com/codes/idaho/title-55/chapter-17/section-55-1701/"
+    },
+    {
+      "id": "section-55-1702",
+      "number": "55-1702",
+      "heading": "",
+      "text": "55-1702. IDAHO PLANE COORDINATE SYSTEM. (1) The board shall, by rule, provide and prescribe the information that defines the currently accepted system of plane coordinates of the IPCS.\n\n(2) The most recent system of plane coordinates that has been established by the NGS based on the NSRS, adopted by the board, and designated as the SPCS for defining and stating the positions or locations of points within the state of Idaho shall be known as the \"Idaho plane coordinate system.\"\n\n(3) Coordinates established or determined under previously defined systems may be used, provided identifying information is included in the document containing the coordinates.\n\n(4) Coordinates derived by transformation from a prior system of plane coordinates shall be qualified as such in the document containing the coordinates. Such document shall also provide:\n\n(a) Identifying information of the prior system and the system translated to, together with a statement of the method of translation;\n\n(b) The type of transformation and parameters used and identifying information of the system translated to; or\n\n(c) Other metadata sufficient to translate coordinates between the original and destination systems.\n\n[55-1702, added 2021, ch. 174, sec. 5, p. 484.]",
+      "source_url": "https://law.justia.com/codes/idaho/title-55/chapter-17/section-55-1702/"
+    },
+    {
+      "id": "section-55-1703",
+      "number": "55-1703",
+      "heading": "",
+      "text": "55-1703. PLANE COORDINATES. (1) The plane coordinates to be used in expressing the position or location of a point in the appropriate zone of the IPCS shall consist of two (2) distances expressed in the units of measure used by the NGS at the time the SPCS is published. The east x-coordinate shall give the distance east of the y-axis, and the north y-coordinate shall give the distance north of the x-axis. The y-axis of any zone shall be parallel with the central meridian of that zone. The x-axis of any zone shall be at right angles to the central meridian of that zone.\n\n(2) The coordinates described in subsection (1) of this section shall be made to depend upon and conform to the most recent system of plane coordinates, known as the SPCS and based upon the NSRS as maintained and provided by the NGS or its successors, provided such system has been adopted by administrative rule by the board.\n\n[55-1703, added 2021, ch. 174, sec. 7, p. 485.]",
+      "source_url": "https://law.justia.com/codes/idaho/title-55/chapter-17/section-55-1703/"
+    },
+    {
+      "id": "section-55-1704",
+      "number": "55-1704",
+      "heading": "",
+      "text": "55-1704. ZONE NAMING AND DOCUMENTS REPORTING COORDINATES WITHIN MULTIPLE ZONES. Any document containing coordinates of the IPCS will include, at a minimum, the datum, adjustment, epoch, and zone names as defined by the NGS. When any document reports coordinates of points that lie within multiple coordinate zones, the coordinates of all points shall refer to one (1) of the zones, which shall be named in the document.\n\n[55-1704, added 1967, ch. 275, sec. 4, p. 771; am. 2010, ch. 256, sec. 6, p. 652; am. 2021, ch. 174, sec. 8, p. 485.]",
+      "source_url": "https://law.justia.com/codes/idaho/title-55/chapter-17/section-55-1704/"
+    },
+    {
+      "id": "section-55-1705",
+      "number": "55-1705",
+      "heading": "",
+      "text": "55-1705. STATED OR IMPLIED ACCURACY. The accuracy of coordinates shall be as stated in the document containing the coordinates. The expression of coordinates to decimals of the units used may not be construed as a statement of expected accuracy or reliability, unless so stated in the document containing the coordinates. Statements of accuracy must be defined as relative, absolute, or both.\n\n[55-1705, added 2021, ch. 174, sec. 10, p. 485.]",
+      "source_url": "https://law.justia.com/codes/idaho/title-55/chapter-17/section-55-1705/"
+    },
+    {
+      "id": "section-55-1706",
+      "number": "55-1706",
+      "heading": "",
+      "text": "55-1706. GEODETIC COORDINATES. The official geodetic datums to which geodetic coordinates, including but not limited to latitude, longitude, ellipsoid height or orthometric height, are referenced within the state of Idaho shall be those defined by the NGS.\n\n[55-1706, added 2021, ch. 174, sec. 11, p. 485.]",
+      "source_url": "https://law.justia.com/codes/idaho/title-55/chapter-17/section-55-1706/"
+    },
+    {
+      "id": "section-55-1707",
+      "number": "55-1707",
+      "heading": "",
+      "text": "55-1707. NONAUTHORITATIVE PLANE OR GEOGRAPHIC COORDINATES. The provisions of this chapter shall not be construed to prohibit the appropriate use of coordinates from nonauthoritative sources or coordinates based on alternative datums and geodetic reference networks. However, such coordinates shall be clearly identified as nonauthoritative or alternative to the IPCS and documented in such a way so as not to be confused with coordinates of the IPCS. Nonauthoritative and alternative coordinates shall not be used to define regulatory boundaries or rights in real property. The board may adopt rules to define appropriate use of such coordinates.\n\n[55-1707, added 2021, ch. 174, sec. 12, p. 485.]",
+      "source_url": "https://law.justia.com/codes/idaho/title-55/chapter-17/section-55-1707/"
+    },
+    {
+      "id": "section-55-1708",
+      "number": "55-1708",
+      "heading": "",
+      "text": "55-1708. SUPPLEMENTAL COORDINATE DESCRIPTIONS. (1) Whenever coordinates based on the IPCS are used to describe any boundary or right in real property, which in the same document or another document of record is also described by reference to any subdivision, line, or corner of the United States public land surveys or the lines or corners of a recorded subdivision, the description by coordinates shall be construed as supplemental to the basic description of such subdivision, line, or corner contained in the official plats and field notes of the United States public land surveys filed of record or in a recorded subdivision plat. In the event of any conflict, a description by reference to the subdivisions, lines, or corners of the United States public land surveys or lines and corners of a recorded subdivision shall prevail over any description by coordinates, unless said coordinates are upheld by adjudication, in which case the coordinate description shall prevail.\n\n(2) Every recorded map, survey, plat, conveyance, or other instrument affecting title to or rights in real property that delineates, describes, or refers to such property or any part thereof by reference to coordinates based upon the IPCS shall also describe the property by reference and tie to public land survey corners as defined in section 55-1603(11), Idaho Code, unless such property is within a recorded subdivision, in which case the property may be described by reference and tie to lines and corners within such subdivision.\n\n[55-1708, added 2021, ch. 174, sec. 14, p. 486.]",
+      "source_url": "https://law.justia.com/codes/idaho/title-55/chapter-17/section-55-1708/"
+    },
+    {
+      "id": "section-55-1709",
+      "number": "55-1709",
+      "heading": "",
+      "text": "55-1709. DESCRIPTION BY COORDINATE NOT MANDATORY. Nothing contained in this chapter shall require any lessee, purchaser, or mortgagee of real property or any right in real property to rely wholly on a land description, any part of which depends exclusively upon coordinates of the IPCS.\n\n[55-1709, added 1967, ch. 275, sec. 9, p. 771; am. 1995, ch. 70, sec. 8, p. 183; am. 2021, ch. 174, sec. 15, p. 486.]",
+      "source_url": "https://law.justia.com/codes/idaho/title-55/chapter-17/section-55-1709/"
+    },
+    {
+      "id": "section-55-1710",
+      "number": "55-1710",
+      "heading": "",
+      "text": "55-1710. MODIFIED COORDINATES. Coordinates within the IPCS that have been modified for any purpose or coordinates within non-IPCS systems shall have:\n\n(1) The qualifier \"MODIFIED\" added to the datum, adjustment, epoch, and zone reference. The document containing the coordinates shall include any datum adjustment, scale, elevation, or combined factors applied together with the origin of scale application and any other transformation parameters applied; or\n\n(2) A label or description displayed in a manner that clearly shows the coordinates were not obtained through the IPCS.\n\n[55-1710, added 2021, ch. 174, sec. 16, p. 486.]",
+      "source_url": "https://law.justia.com/codes/idaho/title-55/chapter-17/section-55-1710/"
+    }
+  ]
+}
