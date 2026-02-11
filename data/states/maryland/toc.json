@@ -1,0 +1,4679 @@
+{
+  "state": "maryland",
+  "children": [
+    {
+      "id": "title-agriculture",
+      "number": "agriculture",
+      "heading": "Agriculture",
+      "children": [
+        {
+          "id": "chapter-title-15-research-facilities-that-use-dogs-or-cats",
+          "number": "title-15-research-facilities-that-use-dogs-or-cats",
+          "heading": "Title 15 Research Facilities That Use Dogs Or Cats",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-15-101",
+              "number": "15-101",
+              "heading": "Adoption of Dog or Cat Used for Scientific Research"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-16-maryland-produce-safety-program",
+          "number": "title-16-maryland-produce-safety-program",
+          "heading": "Title 16 Maryland Produce Safety Program",
+          "section_count": 11,
+          "children": [
+            {
+              "id": "section-16-101",
+              "number": "16-101",
+              "heading": "Definitions [Title Subject to Contingent Abrogation]Section 16-102 - Program Established [Title Subject to Contingent Abrogation]Section 16-103 - Compliance With Program and Federal Requirements [Title Subject to Contingent Abrogation]Section 16-104 - Records; Confidentiality [Title Subject to Conti"
+            },
+            {
+              "id": "section-16-102",
+              "number": "16-102",
+              "heading": "Program Established [Title Subject to Contingent Abrogation]"
+            },
+            {
+              "id": "section-16-103",
+              "number": "16-103",
+              "heading": "Compliance With Program and Federal Requirements [Title Subject to Contingent Abrogation]"
+            },
+            {
+              "id": "section-16-104",
+              "number": "16-104",
+              "heading": "Records; Confidentiality [Title Subject to Contingent Abrogation]"
+            },
+            {
+              "id": "section-16-105",
+              "number": "16-105",
+              "heading": "Inspections by Secretary; Stop-Sale Orders [Title Subject to Contingent Abrogation]"
+            },
+            {
+              "id": "section-16-106",
+              "number": "16-106",
+              "heading": "Regulations [Title Subject to Contingent Abrogation]"
+            },
+            {
+              "id": "section-16-107",
+              "number": "16-107",
+              "heading": "Action for Injunction [Title Subject to Contingent Abrogation]"
+            },
+            {
+              "id": "section-16-108",
+              "number": "16-108",
+              "heading": "Detention of Covered Produce [Title Subject to Contingent Abrogation]"
+            },
+            {
+              "id": "section-16-109",
+              "number": "16-109",
+              "heading": "Condemnation of Covered Produce [Title Subject to Continent Abrogation]"
+            },
+            {
+              "id": "section-16-110",
+              "number": "16-110",
+              "heading": "Subpoenas; Administrative Search Warrants [Title Subject to Contingent Abrogation]"
+            },
+            {
+              "id": "section-16-111",
+              "number": "16-111",
+              "heading": "Penalties and Fines [Title Subject to Contingent Abrogation]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-business-occupations-and-professions",
+      "number": "business-occupations-and-professions",
+      "heading": "Business Occupations And Professions",
+      "children": [
+        {
+          "id": "chapter-title-105-oil-and-gas-land-professionals",
+          "number": "title-105-oil-and-gas-land-professionals",
+          "heading": "Title 105 Oil And Gas Land Professionals",
+          "section_count": 7,
+          "children": [
+            {
+              "id": "section-105-101",
+              "number": "10.5-101",
+              "heading": "DefinitionsSection 10.5-102 - Registration and Certificate RequiredSection 10"
+            },
+            {
+              "id": "section-105-102",
+              "number": "10.5-102",
+              "heading": "Registration and Certificate Required"
+            },
+            {
+              "id": "section-105-103",
+              "number": "10.5-103",
+              "heading": "Registration"
+            },
+            {
+              "id": "section-105-104",
+              "number": "10.5-104",
+              "heading": "Proof of Registration to Landowner"
+            },
+            {
+              "id": "section-105-105",
+              "number": "10.5-105",
+              "heading": "Regulations"
+            },
+            {
+              "id": "section-105-106",
+              "number": "10.5-106",
+              "heading": "Public Access to Registration Information"
+            },
+            {
+              "id": "section-105-107",
+              "number": "10.5-107",
+              "heading": "Penalties"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-95-crane-operators",
+          "number": "title-95-crane-operators",
+          "heading": "Title 95 Crane Operators",
+          "section_count": 7,
+          "children": [
+            {
+              "id": "section-95-101",
+              "number": "9.5-101",
+              "heading": "DefinitionsSection 9.5-102 - Certificate of Competence RequiredSection 9"
+            },
+            {
+              "id": "section-95-102",
+              "number": "9.5-102",
+              "heading": "Certificate of Competence Required"
+            },
+            {
+              "id": "section-95-103",
+              "number": "9.5-103",
+              "heading": "Certificate Must Be Available"
+            },
+            {
+              "id": "section-95-104",
+              "number": "9.5-104",
+              "heading": "Powers of Commissioner"
+            },
+            {
+              "id": "section-95-105",
+              "number": "9.5-105",
+              "heading": "Violations; Penalties"
+            },
+            {
+              "id": "section-95-106",
+              "number": "9.5-106",
+              "heading": "Regulations"
+            },
+            {
+              "id": "section-95-107",
+              "number": "9.5-107",
+              "heading": "Short Title"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-business-regulation",
+      "number": "business-regulation",
+      "heading": "Business Regulation",
+      "children": [
+        {
+          "id": "chapter-title-13-trading-stamp-companies",
+          "number": "title-13-trading-stamp-companies",
+          "heading": "Title 13 Trading Stamp Companies",
+          "section_count": 10,
+          "children": [
+            {
+              "id": "section-13-101",
+              "number": "13-101",
+              "heading": "DefinitionsSection 13-102 - Registration RequiredSection 13-103 - Statements of RegistrationSection 13-104 - BondSection 13-105 - Claims Against BondSection 13-106 - Optional Redemption for CashSection 13-107 - Notice of Place for RedemptionSection 13-108 - End or Suspension of Redemption of Trading"
+            },
+            {
+              "id": "section-13-102",
+              "number": "13-102",
+              "heading": "Registration Required"
+            },
+            {
+              "id": "section-13-103",
+              "number": "13-103",
+              "heading": "Statements of Registration"
+            },
+            {
+              "id": "section-13-104",
+              "number": "13-104",
+              "heading": "Bond"
+            },
+            {
+              "id": "section-13-105",
+              "number": "13-105",
+              "heading": "Claims Against Bond"
+            },
+            {
+              "id": "section-13-106",
+              "number": "13-106",
+              "heading": "Optional Redemption for Cash"
+            },
+            {
+              "id": "section-13-107",
+              "number": "13-107",
+              "heading": "Notice of Place for Redemption"
+            },
+            {
+              "id": "section-13-108",
+              "number": "13-108",
+              "heading": "End or Suspension of Redemption of Trading Stamps"
+            },
+            {
+              "id": "section-13-109",
+              "number": "13-109",
+              "heading": "Fraud, False Representation, or Lottery Prohibited"
+            },
+            {
+              "id": "section-13-110",
+              "number": "13-110",
+              "heading": "Penalty"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-2-maryland-department-of-labor",
+          "number": "title-2-maryland-department-of-labor",
+          "heading": "Title 2 Maryland Department Of Labor",
+          "section_count": 25,
+          "children": [
+            {
+              "id": "section-2-101",
+              "number": "2-101",
+              "heading": "Department EstablishedSection 2-102 - Secretary of LaborSection 2-103 - Deputy Secretary, Consultants, and Other StaffSection 2-103"
+            },
+            {
+              "id": "section-2-102",
+              "number": "2-102",
+              "heading": "Secretary of Labor"
+            },
+            {
+              "id": "section-2-103",
+              "number": "2-103",
+              "heading": "Deputy Secretary, Consultants, and Other Staff"
+            },
+            {
+              "id": "section-2-1031",
+              "number": "2-103.1",
+              "heading": "Office of Small Business Regulatory Assistance"
+            },
+            {
+              "id": "section-2-104",
+              "number": "2-104",
+              "heading": "General Authority and Duties of Secretary"
+            },
+            {
+              "id": "section-2-105",
+              "number": "2-105",
+              "heading": "Regulations"
+            },
+            {
+              "id": "section-2-106",
+              "number": "2-106",
+              "heading": "Licensing Testing Fund"
+            },
+            {
+              "id": "section-2-1061",
+              "number": "2-106.1",
+              "heading": "State Occupational and Professional Licensing Design Board's Fund"
+            },
+            {
+              "id": "section-2-1062",
+              "number": "2-106.2",
+              "heading": "State Occupational and Professional Licensing Design Board's Fund -- Calculation of Costs; Establishment of Fees"
+            },
+            {
+              "id": "section-2-1063",
+              "number": "2-106.3",
+              "heading": "Real Estate Commission Fund"
+            },
+            {
+              "id": "section-2-1064",
+              "number": "2-106.4",
+              "heading": "Calculation of Fees"
+            },
+            {
+              "id": "section-2-1065",
+              "number": "2-106.5",
+              "heading": "State Board of Public Accountancy Fund"
+            },
+            {
+              "id": "section-2-1066",
+              "number": "2-106.6",
+              "heading": "Calculation of Fees for Board of Public Accountancy"
+            },
+            {
+              "id": "section-2-1067",
+              "number": "2-106.7",
+              "heading": "State Commission of Real Estate Appraisers, Appraisal Management Companies, and Home Inspectors Fund"
+            },
+            {
+              "id": "section-2-1068",
+              "number": "2-106.8",
+              "heading": "Calculation of Fees for State Commission of Real Estate Appraisers, Appraisal Management Companies, and Home Inspectors"
+            },
+            {
+              "id": "section-2-1069",
+              "number": "2-106.9",
+              "heading": "State Occupational Mechanical Licensing Boards' Fund"
+            },
+            {
+              "id": "section-2-10610",
+              "number": "2-106.10",
+              "heading": "State Occupational Mechanical Licensing Boards' Fund -- Calculation of Fees"
+            },
+            {
+              "id": "section-2-10611",
+              "number": "2-106.11",
+              "heading": "Maryland Home Improvement Commission Special Fund"
+            },
+            {
+              "id": "section-2-10612",
+              "number": "2-106.12",
+              "heading": "Maryland Home Improvement Commission Special Fund -- Calculation of Fees"
+            },
+            {
+              "id": "section-2-10613",
+              "number": "2-106.13",
+              "heading": "State Barbers and Cosmetologists Boards' Fund"
+            },
+            {
+              "id": "section-2-10614",
+              "number": "2-106.14",
+              "heading": "State Barbers and Cosmetologists Boards' Fund -- Calculation of Fees"
+            },
+            {
+              "id": "section-2-107",
+              "number": "2-107",
+              "heading": "Counsel to Department"
+            },
+            {
+              "id": "section-2-108",
+              "number": "2-108",
+              "heading": "Units in Department"
+            },
+            {
+              "id": "section-2-109",
+              "number": "2-109",
+              "heading": "Advisory Units"
+            },
+            {
+              "id": "section-2-110",
+              "number": "2-110",
+              "heading": "Advisory Units -- Language Requirements; Interpreters"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-25-service-members-veterans-and-military-spouses-licen",
+          "number": "title-25-service-members-veterans-and-military-spouses-licen",
+          "heading": "Title 25 Service Members Veterans And Military Spouses Licen",
+          "section_count": 8,
+          "children": [
+            {
+              "id": "section-25-101",
+              "number": "2.5-101",
+              "heading": "DefinitionsSection 2.5-102 - Scope of TitleSection 2"
+            },
+            {
+              "id": "section-25-102",
+              "number": "2.5-102",
+              "heading": "Scope of Title"
+            },
+            {
+              "id": "section-25-103",
+              "number": "2.5-103",
+              "heading": "Renewal of Licenses; Completion of Continuing Education or Competency Requirements"
+            },
+            {
+              "id": "section-25-104",
+              "number": "2.5-104",
+              "heading": "Credit for Experience and Training or Education as Service Member"
+            },
+            {
+              "id": "section-25-105",
+              "number": "2.5-105",
+              "heading": "Expedited License"
+            },
+            {
+              "id": "section-25-106",
+              "number": "2.5-106",
+              "heading": "Temporary License -- Where Other State Requirements Not Equivalent"
+            },
+            {
+              "id": "section-25-107",
+              "number": "2.5-107",
+              "heading": "Process Published on Website"
+            },
+            {
+              "id": "section-25-108",
+              "number": "2.5-108",
+              "heading": "Regulations"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-65-protection-of-charitable-assets",
+          "number": "title-65-protection-of-charitable-assets",
+          "heading": "Title 65 Protection Of Charitable Assets",
+          "section_count": 5,
+          "children": [
+            {
+              "id": "section-65-101",
+              "number": "6.5-101",
+              "heading": "DefinitionsSection 6.5-102 - Powers and Duties of Attorney GeneralSection 6"
+            },
+            {
+              "id": "section-65-102",
+              "number": "6.5-102",
+              "heading": "Powers and Duties of Attorney General"
+            },
+            {
+              "id": "section-65-103",
+              "number": "6.5-103",
+              "heading": "Discovery of Misapplication, Diversion, or Waste of Charitable Asset or Breach of Fiduciary Duties"
+            },
+            {
+              "id": "section-65-104",
+              "number": "6.5-104",
+              "heading": "Enforcement Subject to Immunities or Limitations on Liability"
+            },
+            {
+              "id": "section-65-105",
+              "number": "6.5-105",
+              "heading": "Limitation of Actions"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-85-household-goods-movers",
+          "number": "title-85-household-goods-movers",
+          "heading": "Title 85 Household Goods Movers",
+          "section_count": 7,
+          "children": [
+            {
+              "id": "section-85-101",
+              "number": "8.5-101",
+              "heading": "DefinitionsSection 8.5-102 - Household Goods Moving ServicesSection 8"
+            },
+            {
+              "id": "section-85-102",
+              "number": "8.5-102",
+              "heading": "Household Goods Moving Services"
+            },
+            {
+              "id": "section-85-103",
+              "number": "8.5-103",
+              "heading": "Application and Fee"
+            },
+            {
+              "id": "section-85-104",
+              "number": "8.5-104",
+              "heading": "Application Requirements"
+            },
+            {
+              "id": "section-85-105",
+              "number": "8.5-105",
+              "heading": "Registration"
+            },
+            {
+              "id": "section-85-106",
+              "number": "8.5-106",
+              "heading": "Regulations"
+            },
+            {
+              "id": "section-85-107",
+              "number": "8.5-107",
+              "heading": "Civil Penalty"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-commercial-law",
+      "number": "commercial-law",
+      "heading": "Commercial Law",
+      "children": [
+        {
+          "id": "chapter-title-10-effective-date-and-repealer",
+          "number": "title-10-effective-date-and-repealer",
+          "heading": "Title 10 Effective Date And Repealer",
+          "section_count": 11,
+          "children": [
+            {
+              "id": "section-10-101",
+              "number": "10-101",
+              "heading": "DefinitionsSection 10-102 - Provision for TransitionSection 10-103 - General RepealerSection 10-104 - Laws Not RepealedSection 10-106 - Continued Application of 10-102Section 10-107 - Validity of Transactions Entered After February 1, 1964, and Before January 1, 1981; Security Interest Perfected on "
+            },
+            {
+              "id": "section-10-102",
+              "number": "10-102",
+              "heading": "Provision for Transition"
+            },
+            {
+              "id": "section-10-103",
+              "number": "10-103",
+              "heading": "General Repealer"
+            },
+            {
+              "id": "section-10-104",
+              "number": "10-104",
+              "heading": "Laws Not Repealed"
+            },
+            {
+              "id": "section-10-106",
+              "number": "10-106",
+              "heading": "Continued Application of 10-102"
+            },
+            {
+              "id": "section-10-107",
+              "number": "10-107",
+              "heading": "Validity of Transactions Entered After February 1, 1964, and Before January 1, 1981; Security Interest Perfected on January 1, 1981"
+            },
+            {
+              "id": "section-10-108",
+              "number": "10-108",
+              "heading": "Security Interest Deemed Perfected"
+            },
+            {
+              "id": "section-10-109",
+              "number": "10-109",
+              "heading": "Effective Period of Statement Which Shall Not Have Lapsed; Transitional Filing"
+            },
+            {
+              "id": "section-10-110",
+              "number": "10-110",
+              "heading": "Continuation of Perfected Security Interest"
+            },
+            {
+              "id": "section-10-111",
+              "number": "10-111",
+              "heading": "Determination of Questions of Priorities"
+            },
+            {
+              "id": "section-10-112",
+              "number": "10-112",
+              "heading": "Provisions Deemed Declaratory"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-16a-police-initiated-towing-services",
+          "number": "title-16a-police-initiated-towing-services",
+          "heading": "Title 16A Police Initiated Towing Services",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-16a-101",
+              "number": "16A-101",
+              "heading": "Police-Initiated Towing Services Authorized -- Reasonable Access to Towed Vehicle -- Tow Company Fees"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-20-maryland-uniform-interparty-agreement-act",
+          "number": "title-20-maryland-uniform-interparty-agreement-act",
+          "heading": "Title 20 Maryland Uniform Interparty Agreement Act",
+          "section_count": 6,
+          "children": [
+            {
+              "id": "section-20-101",
+              "number": "20-101",
+              "heading": "Interparty Agreements AuthorizedSection 20-102 - Contract Not Discharged on Merger of Obligation and RightSection 20-103 - Fraudulent TransactionsSection 20-104 - Title Not RetroactiveSection 20-105 - Uniformity of InterpretationSection 20-106 - Short Title"
+            },
+            {
+              "id": "section-20-102",
+              "number": "20-102",
+              "heading": "Contract Not Discharged on Merger of Obligation and Right"
+            },
+            {
+              "id": "section-20-103",
+              "number": "20-103",
+              "heading": "Fraudulent Transactions"
+            },
+            {
+              "id": "section-20-104",
+              "number": "20-104",
+              "heading": "Title Not Retroactive"
+            },
+            {
+              "id": "section-20-105",
+              "number": "20-105",
+              "heading": "Uniformity of Interpretation"
+            },
+            {
+              "id": "section-20-106",
+              "number": "20-106",
+              "heading": "Short Title"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-21-the-maryland-uniform-electronic-transactions-act",
+          "number": "title-21-the-maryland-uniform-electronic-transactions-act",
+          "heading": "Title 21 The Maryland Uniform Electronic Transactions Act",
+          "section_count": 21,
+          "children": [
+            {
+              "id": "section-21-101",
+              "number": "21-101",
+              "heading": "DefinitionsSection 21-102 - ScopeSection 21-103 - Prospective ApplicationSection 21-104 - Use of Electronic Records and Electronic Signatures; Variation by AgreementSection 21-105 - Construction and ApplicationSection 21-106 - Legal Recognition of Electronic Records, Electronic Signatures, and Elect"
+            },
+            {
+              "id": "section-21-102",
+              "number": "21-102",
+              "heading": "Scope"
+            },
+            {
+              "id": "section-21-103",
+              "number": "21-103",
+              "heading": "Prospective Application"
+            },
+            {
+              "id": "section-21-104",
+              "number": "21-104",
+              "heading": "Use of Electronic Records and Electronic Signatures; Variation by Agreement"
+            },
+            {
+              "id": "section-21-105",
+              "number": "21-105",
+              "heading": "Construction and Application"
+            },
+            {
+              "id": "section-21-106",
+              "number": "21-106",
+              "heading": "Legal Recognition of Electronic Records, Electronic Signatures, and Electronic Contracts"
+            },
+            {
+              "id": "section-21-107",
+              "number": "21-107",
+              "heading": "Provision of Information in Writing; Presentation of Records"
+            },
+            {
+              "id": "section-21-108",
+              "number": "21-108",
+              "heading": "Attribution and Effect of Electronic Record and Electronic Signature"
+            },
+            {
+              "id": "section-21-109",
+              "number": "21-109",
+              "heading": "Effect of Change or Error"
+            },
+            {
+              "id": "section-21-110",
+              "number": "21-110",
+              "heading": "Notarization and Acknowledgment"
+            },
+            {
+              "id": "section-21-111",
+              "number": "21-111",
+              "heading": "Retention of Electronic Records; Originals"
+            },
+            {
+              "id": "section-21-112",
+              "number": "21-112",
+              "heading": "Admissibility in Evidence"
+            },
+            {
+              "id": "section-21-113",
+              "number": "21-113",
+              "heading": "Automated Transaction"
+            },
+            {
+              "id": "section-21-114",
+              "number": "21-114",
+              "heading": "Time and Place of Sending and Receipt"
+            },
+            {
+              "id": "section-21-115",
+              "number": "21-115",
+              "heading": "Transferable Records"
+            },
+            {
+              "id": "section-21-116",
+              "number": "21-116",
+              "heading": "Creation and Retention of Electronic Records and Conversion of Written Records by Governmental Agencies"
+            },
+            {
+              "id": "section-21-117",
+              "number": "21-117",
+              "heading": "Acceptance and Distribution of Electronic Records by Governmental Agencies"
+            },
+            {
+              "id": "section-21-118",
+              "number": "21-118",
+              "heading": "Interoperability"
+            },
+            {
+              "id": "section-21-1181",
+              "number": "21-118.1",
+              "heading": "Use of Electronic Postmarks"
+            },
+            {
+              "id": "section-21-119",
+              "number": "21-119",
+              "heading": "Severability Clause"
+            },
+            {
+              "id": "section-21-120",
+              "number": "21-120",
+              "heading": "Short Title"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-23-operating-agreements-hotels-and-retirement-communit",
+          "number": "title-23-operating-agreements-hotels-and-retirement-communit",
+          "heading": "Title 23 Operating Agreements Hotels And Retirement Communit",
+          "section_count": 6,
+          "children": [
+            {
+              "id": "section-23-101",
+              "number": "23-101",
+              "heading": "DefinitionsSection 23-102 - Conflicts Between Terms and Conditions; Remedies for BreachSection 23-103 - Express CovenantsSection 23-104 - EnforceabilitySection 23-105 - Implied CovenantsSection 23-106 - Construction"
+            },
+            {
+              "id": "section-23-102",
+              "number": "23-102",
+              "heading": "Conflicts Between Terms and Conditions; Remedies for Breach"
+            },
+            {
+              "id": "section-23-103",
+              "number": "23-103",
+              "heading": "Express Covenants"
+            },
+            {
+              "id": "section-23-104",
+              "number": "23-104",
+              "heading": "Enforceability"
+            },
+            {
+              "id": "section-23-105",
+              "number": "23-105",
+              "heading": "Implied Covenants"
+            },
+            {
+              "id": "section-23-106",
+              "number": "23-106",
+              "heading": "Construction"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-5-letters-of-credit",
+          "number": "title-5-letters-of-credit",
+          "heading": "Title 5 Letters Of Credit",
+          "section_count": 18,
+          "children": [
+            {
+              "id": "section-5-101",
+              "number": "5-101",
+              "heading": "Short TitleSection 5-102 - DefinitionsSection 5-103 - ScopeSection 5-104 - Formal RequirementsSection 5-105 - ConsiderationSection 5-106 - Issuance, Amendment, Cancellation, and DurationSection 5-107 - Confirmer, Nominated Person, and AdviserSection 5-108 - Issuer's Rights and ObligationsSection 5-1"
+            },
+            {
+              "id": "section-5-102",
+              "number": "5-102",
+              "heading": "Definitions"
+            },
+            {
+              "id": "section-5-103",
+              "number": "5-103",
+              "heading": "Scope"
+            },
+            {
+              "id": "section-5-104",
+              "number": "5-104",
+              "heading": "Formal Requirements"
+            },
+            {
+              "id": "section-5-105",
+              "number": "5-105",
+              "heading": "Consideration"
+            },
+            {
+              "id": "section-5-106",
+              "number": "5-106",
+              "heading": "Issuance, Amendment, Cancellation, and Duration"
+            },
+            {
+              "id": "section-5-107",
+              "number": "5-107",
+              "heading": "Confirmer, Nominated Person, and Adviser"
+            },
+            {
+              "id": "section-5-108",
+              "number": "5-108",
+              "heading": "Issuer's Rights and Obligations"
+            },
+            {
+              "id": "section-5-109",
+              "number": "5-109",
+              "heading": "Fraud and Forgery"
+            },
+            {
+              "id": "section-5-110",
+              "number": "5-110",
+              "heading": "Warranties"
+            },
+            {
+              "id": "section-5-111",
+              "number": "5-111",
+              "heading": "Remedies"
+            },
+            {
+              "id": "section-5-112",
+              "number": "5-112",
+              "heading": "Transfer of Letter of Credit"
+            },
+            {
+              "id": "section-5-113",
+              "number": "5-113",
+              "heading": "Transfer by Operation of Law"
+            },
+            {
+              "id": "section-5-114",
+              "number": "5-114",
+              "heading": "Assignment of Proceeds"
+            },
+            {
+              "id": "section-5-115",
+              "number": "5-115",
+              "heading": "Statute of Limitations"
+            },
+            {
+              "id": "section-5-116",
+              "number": "5-116",
+              "heading": "Choice of Law and Forum"
+            },
+            {
+              "id": "section-5-117",
+              "number": "5-117",
+              "heading": "Subrogation of Issuer, Applicant, and Nominated Person"
+            },
+            {
+              "id": "section-5-118",
+              "number": "5-118",
+              "heading": "Security Interest of Issuer or Nominated Person"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-6-bulk-transfers",
+          "number": "title-6-bulk-transfers",
+          "heading": "Title 6 Bulk Transfers",
+          "section_count": 11,
+          "children": [
+            {
+              "id": "section-6-101",
+              "number": "6-101",
+              "heading": "Short TitleSection 6-102 - \"Bulk Transfers\"; Transfers of Equipment; Enterprises Subject to This Title; Bulk Transfers Subject to This TitleSection 6-103 - Transfers Excepted From This TitleSection 6-104 - Schedule of Property; List of CreditorsSection 6-105 - Notice to CreditorsSection 6-106 - Appl"
+            },
+            {
+              "id": "section-6-102",
+              "number": "6-102",
+              "heading": "\"Bulk Transfers\"; Transfers of Equipment; Enterprises Subject to This Title; Bulk Transfers Subject to This Title"
+            },
+            {
+              "id": "section-6-103",
+              "number": "6-103",
+              "heading": "Transfers Excepted From This Title"
+            },
+            {
+              "id": "section-6-104",
+              "number": "6-104",
+              "heading": "Schedule of Property; List of Creditors"
+            },
+            {
+              "id": "section-6-105",
+              "number": "6-105",
+              "heading": "Notice to Creditors"
+            },
+            {
+              "id": "section-6-106",
+              "number": "6-106",
+              "heading": "Application of the Proceeds"
+            },
+            {
+              "id": "section-6-107",
+              "number": "6-107",
+              "heading": "The Notice"
+            },
+            {
+              "id": "section-6-108",
+              "number": "6-108",
+              "heading": "Auction Sales; \"Auctioneer\""
+            },
+            {
+              "id": "section-6-109",
+              "number": "6-109",
+              "heading": "What Creditors Protected"
+            },
+            {
+              "id": "section-6-110",
+              "number": "6-110",
+              "heading": "Subsequent Transfers"
+            },
+            {
+              "id": "section-6-111",
+              "number": "6-111",
+              "heading": "Limitation of Actions and Levies"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-criminal-procedure",
+      "number": "criminal-procedure",
+      "heading": "Criminal Procedure",
+      "children": [
+        {
+          "id": "chapter-title-14-office-of-the-state-prosecutor",
+          "number": "title-14-office-of-the-state-prosecutor",
+          "heading": "Title 14 Office Of The State Prosecutor",
+          "section_count": 14,
+          "children": [
+            {
+              "id": "section-14-101",
+              "number": "14-101",
+              "heading": "\"Commission\" DefinedSection 14-102 - Office of the State ProsecutorSection 14-103 - State Prosecutor Selection and Disabilities CommissionSection 14-104 - Filling Vacancies in Office of State ProsecutorSection 14-105 - Reprimand or RemovalSection 14-106 - General Powers and Duties of State Prosecuto"
+            },
+            {
+              "id": "section-14-102",
+              "number": "14-102",
+              "heading": "Office of the State Prosecutor"
+            },
+            {
+              "id": "section-14-103",
+              "number": "14-103",
+              "heading": "State Prosecutor Selection and Disabilities Commission"
+            },
+            {
+              "id": "section-14-104",
+              "number": "14-104",
+              "heading": "Filling Vacancies in Office of State Prosecutor"
+            },
+            {
+              "id": "section-14-105",
+              "number": "14-105",
+              "heading": "Reprimand or Removal"
+            },
+            {
+              "id": "section-14-106",
+              "number": "14-106",
+              "heading": "General Powers and Duties of State Prosecutor"
+            },
+            {
+              "id": "section-14-107",
+              "number": "14-107",
+              "heading": "Investigations"
+            },
+            {
+              "id": "section-14-108",
+              "number": "14-108",
+              "heading": "Reports"
+            },
+            {
+              "id": "section-14-109",
+              "number": "14-109",
+              "heading": "Prosecutions"
+            },
+            {
+              "id": "section-14-110",
+              "number": "14-110",
+              "heading": "Subpoena Authority"
+            },
+            {
+              "id": "section-14-111",
+              "number": "14-111",
+              "heading": "Venue"
+            },
+            {
+              "id": "section-14-112",
+              "number": "14-112",
+              "heading": "Budget and Staff"
+            },
+            {
+              "id": "section-14-113",
+              "number": "14-113",
+              "heading": "Meetings With Attorney General and State's Attorneys"
+            },
+            {
+              "id": "section-14-114",
+              "number": "14-114",
+              "heading": "Annual Report"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-17-forensic-genealogy",
+          "number": "title-17-forensic-genealogy",
+          "heading": "Title 17 Forensic Genealogy",
+          "section_count": 5,
+          "children": [
+            {
+              "id": "section-17-101",
+              "number": "17-101",
+              "heading": "DefinitionsSection 17-102 - Judicial Authorization Required for Forensic Genetic Genealogical Dna Analysis and Search -- Sworn Affidavit by Law Enforcement Agent -- Limited Use of Biological Samples -- Fggs Limited to Open-Data Personal Genomics Database -- Licensing of Laboratory -- Informed Consen"
+            },
+            {
+              "id": "section-17-102",
+              "number": "17-102",
+              "heading": "Judicial Authorization Required for Forensic Genetic Genealogical Dna Analysis and Search -- Sworn Affidavit by Law Enforcement Agent -- Limited Use of Biological Samples -- Fggs Limited to Open-Data Personal Genomics Database -- Licensing of Laboratory -- Informed Consent -- Putative Perpetrators o"
+            },
+            {
+              "id": "section-17-103",
+              "number": "17-103",
+              "heading": "Judicial Authorization for Fggs Sought by Charged Defendant or Convicted Defendant Seeking Postconviction Dna Testing -- Dna Samples From Putative Crime Perpetrators -- Notice to State -- Court Order for Fggs"
+            },
+            {
+              "id": "section-17-104",
+              "number": "17-104",
+              "heading": "Office of Health Care Quality -- Maryland Forensic Laboratory Advisory Committee Disclosure of Genetic Genealogy Prohibited Without Authorization"
+            },
+            {
+              "id": "section-17-105",
+              "number": "17-105",
+              "heading": "Annual Report by Governor's Office of Crime Prevention, Youth, and Victim Services -- Items Included -- Review and Policy Recommendations"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-3-incompetency-and-criminal-responsibility-in-criminal",
+          "number": "title-3-incompetency-and-criminal-responsibility-in-criminal",
+          "heading": "Title 3 Incompetency And Criminal Responsibility In Criminal",
+          "section_count": 24,
+          "children": [
+            {
+              "id": "section-3-101",
+              "number": "3-101",
+              "heading": "Defined TermsSection 3-102 - Secretary to Adopt RegulationsSection 3-103 - Interpreters for ProceedingsSection 3-104 - Court to Determine CompetenceSection 3-105 - Examination of Defendant by Health DepartmentSection 3-106 - Finding of IncompetencySection 3-107 - Dismissal of ChargesSection 3-108 - "
+            },
+            {
+              "id": "section-3-102",
+              "number": "3-102",
+              "heading": "Secretary to Adopt Regulations"
+            },
+            {
+              "id": "section-3-103",
+              "number": "3-103",
+              "heading": "Interpreters for Proceedings"
+            },
+            {
+              "id": "section-3-104",
+              "number": "3-104",
+              "heading": "Court to Determine Competence"
+            },
+            {
+              "id": "section-3-105",
+              "number": "3-105",
+              "heading": "Examination of Defendant by Health Department"
+            },
+            {
+              "id": "section-3-106",
+              "number": "3-106",
+              "heading": "Finding of Incompetency"
+            },
+            {
+              "id": "section-3-107",
+              "number": "3-107",
+              "heading": "Dismissal of Charges"
+            },
+            {
+              "id": "section-3-108",
+              "number": "3-108",
+              "heading": "Reports on Incompetent Persons"
+            },
+            {
+              "id": "section-3-109",
+              "number": "3-109",
+              "heading": "Test for Criminal Responsibility"
+            },
+            {
+              "id": "section-3-110",
+              "number": "3-110",
+              "heading": "Not Criminally Responsible -- Plea and Verdict"
+            },
+            {
+              "id": "section-3-111",
+              "number": "3-111",
+              "heading": "Not Criminally Responsible -- Examination"
+            },
+            {
+              "id": "section-3-112",
+              "number": "3-112",
+              "heading": "Not Criminally Responsible -- Commitment"
+            },
+            {
+              "id": "section-3-113",
+              "number": "3-113",
+              "heading": "Report on Committed Persons"
+            },
+            {
+              "id": "section-3-114",
+              "number": "3-114",
+              "heading": "Eligibility for Release"
+            },
+            {
+              "id": "section-3-115",
+              "number": "3-115",
+              "heading": "Release Hearing"
+            },
+            {
+              "id": "section-3-116",
+              "number": "3-116",
+              "heading": "Report of Office"
+            },
+            {
+              "id": "section-3-117",
+              "number": "3-117",
+              "heading": "Court Review of Report of Office"
+            },
+            {
+              "id": "section-3-118",
+              "number": "3-118",
+              "heading": "Court Action on Report of Office"
+            },
+            {
+              "id": "section-3-119",
+              "number": "3-119",
+              "heading": "Application for Release"
+            },
+            {
+              "id": "section-3-120",
+              "number": "3-120",
+              "heading": "Conditional Release Request by Health Department"
+            },
+            {
+              "id": "section-3-121",
+              "number": "3-121",
+              "heading": "Allegations of Violations of Conditional Release"
+            },
+            {
+              "id": "section-3-122",
+              "number": "3-122",
+              "heading": "Application for Change in Conditional Release"
+            },
+            {
+              "id": "section-3-123",
+              "number": "3-123",
+              "heading": "Notification of Victim"
+            },
+            {
+              "id": "section-3-124",
+              "number": "3-124",
+              "heading": "Examination of Defendant's Information by Health Department -- Access to Judicial Records"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-9-extradition",
+          "number": "title-9-extradition",
+          "heading": "Title 9 Extradition",
+          "section_count": 28,
+          "children": [
+            {
+              "id": "section-9-101",
+              "number": "9-101",
+              "heading": "DefinitionsSection 9-102 - Fugitives From Justice; Duty of GovernorSection 9-103 - Form of DemandSection 9-104 - Governor May Call for InvestigationSection 9-105 - Extradition of Persons Imprisoned or Awaiting Trial in Another State or Who Have Left the Demanding State Under CompulsionSection 9-106 "
+            },
+            {
+              "id": "section-9-102",
+              "number": "9-102",
+              "heading": "Fugitives From Justice; Duty of Governor"
+            },
+            {
+              "id": "section-9-103",
+              "number": "9-103",
+              "heading": "Form of Demand"
+            },
+            {
+              "id": "section-9-104",
+              "number": "9-104",
+              "heading": "Governor May Call for Investigation"
+            },
+            {
+              "id": "section-9-105",
+              "number": "9-105",
+              "heading": "Extradition of Persons Imprisoned or Awaiting Trial in Another State or Who Have Left the Demanding State Under Compulsion"
+            },
+            {
+              "id": "section-9-106",
+              "number": "9-106",
+              "heading": "Extradition of Persons Not Present in Demanding State at Time of Commission of Crime"
+            },
+            {
+              "id": "section-9-107",
+              "number": "9-107",
+              "heading": "Governor's Warrant of Arrest"
+            },
+            {
+              "id": "section-9-108",
+              "number": "9-108",
+              "heading": "Manner and Place of Execution"
+            },
+            {
+              "id": "section-9-109",
+              "number": "9-109",
+              "heading": "Authority of Arresting Officer"
+            },
+            {
+              "id": "section-9-110",
+              "number": "9-110",
+              "heading": "Rights of Accused Person; Application for Writ of Habeas Corpus"
+            },
+            {
+              "id": "section-9-111",
+              "number": "9-111",
+              "heading": "Noncompliance With Delivery Procedures"
+            },
+            {
+              "id": "section-9-112",
+              "number": "9-112",
+              "heading": "Confinement in Correctional Facility When Necessary"
+            },
+            {
+              "id": "section-9-113",
+              "number": "9-113",
+              "heading": "Arrest Before Requisition"
+            },
+            {
+              "id": "section-9-114",
+              "number": "9-114",
+              "heading": "Arrest Without Warrant"
+            },
+            {
+              "id": "section-9-115",
+              "number": "9-115",
+              "heading": "Commitment to Await Requisition; Bail"
+            },
+            {
+              "id": "section-9-116",
+              "number": "9-116",
+              "heading": "Bail by Bond"
+            },
+            {
+              "id": "section-9-117",
+              "number": "9-117",
+              "heading": "Discharge, Recommitment, or Renewal of Bail"
+            },
+            {
+              "id": "section-9-118",
+              "number": "9-118",
+              "heading": "Forfeiture of Bail"
+            },
+            {
+              "id": "section-9-119",
+              "number": "9-119",
+              "heading": "Persons Under Criminal Prosecution in This State at Time of Requisition"
+            },
+            {
+              "id": "section-9-120",
+              "number": "9-120",
+              "heading": "Inquiry Into Guilt or Innocence of Accused Prohibited"
+            },
+            {
+              "id": "section-9-121",
+              "number": "9-121",
+              "heading": "Governor May Recall Warrant"
+            },
+            {
+              "id": "section-9-122",
+              "number": "9-122",
+              "heading": "Fugitives From This State; Duty of Governor"
+            },
+            {
+              "id": "section-9-123",
+              "number": "9-123",
+              "heading": "Application for Issuance of Requisition; by Whom Made; Contents"
+            },
+            {
+              "id": "section-9-124",
+              "number": "9-124",
+              "heading": "Waiver of Extradition Proceedings"
+            },
+            {
+              "id": "section-9-125",
+              "number": "9-125",
+              "heading": "No Waiver by This State"
+            },
+            {
+              "id": "section-9-126",
+              "number": "9-126",
+              "heading": "No Right of Asylum or Immunity From Other Criminal Prosecutions While in This State"
+            },
+            {
+              "id": "section-9-127",
+              "number": "9-127",
+              "heading": "Interpretation of Title"
+            },
+            {
+              "id": "section-9-128",
+              "number": "9-128",
+              "heading": "Short Title"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-election-law",
+      "number": "election-law",
+      "heading": "Election Law",
+      "children": [
+        {
+          "id": "chapter-title-14-disclosure-by-persons-doing-public-business",
+          "number": "title-14-disclosure-by-persons-doing-public-business",
+          "heading": "Title 14 Disclosure By Persons Doing Public Business",
+          "section_count": 12,
+          "children": [
+            {
+              "id": "section-14-101",
+              "number": "14-101",
+              "heading": "DefinitionsSection 14-102 - ApplicabilitySection 14-103 - Attribution of Contribution to CandidateSection 14-104 - Statement of ContributionsSection 14-105 - Attributable ContributionsSection 14-106 - Contracts -- Time of AttributionSection 14-107 - Requirements; Notifications of Deficiencies; Amend"
+            },
+            {
+              "id": "section-14-102",
+              "number": "14-102",
+              "heading": "Applicability"
+            },
+            {
+              "id": "section-14-103",
+              "number": "14-103",
+              "heading": "Attribution of Contribution to Candidate"
+            },
+            {
+              "id": "section-14-104",
+              "number": "14-104",
+              "heading": "Statement of Contributions"
+            },
+            {
+              "id": "section-14-105",
+              "number": "14-105",
+              "heading": "Attributable Contributions"
+            },
+            {
+              "id": "section-14-106",
+              "number": "14-106",
+              "heading": "Contracts -- Time of Attribution"
+            },
+            {
+              "id": "section-14-107",
+              "number": "14-107",
+              "heading": "Requirements; Notifications of Deficiencies; Amended Statements; Late Filing Fees; Violations"
+            },
+            {
+              "id": "section-14-108",
+              "number": "14-108",
+              "heading": "Penalty for Violation Without Knowing Act Illegal -- Civil Citations -- Trial in District Court"
+            },
+            {
+              "id": "section-14-109",
+              "number": "14-109",
+              "heading": "Misdemeanor for Knowing and Willing Violations -- Penalties -- Restrictions on Statements Made Under Oath"
+            },
+            {
+              "id": "section-14-110",
+              "number": "14-110",
+              "heading": "Civil Penalties for Violations -- Issuance of Citations -- Copy to State Prosecutor -- District Court Proceedings"
+            },
+            {
+              "id": "section-14-111",
+              "number": "14-111",
+              "heading": "Liberal Construction"
+            },
+            {
+              "id": "section-14-112",
+              "number": "14-112",
+              "heading": "Regulations"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-15-public-financing-act",
+          "number": "title-15-public-financing-act",
+          "heading": "Title 15 Public Financing Act",
+          "section_count": 14,
+          "children": [
+            {
+              "id": "section-15-101",
+              "number": "15-101",
+              "heading": "PurposeSection 15-102 - DefinitionsSection 15-103 - Fair Campaign Financing FundSection 15-104 - Campaign Finance Entity for Gubernatorial Candidate -- Donations Accepted -- Qualifying Level of Donors and DonationsSection 15-105 - Qualifying Period for Gubernatorial Candidates to Collect Required Co"
+            },
+            {
+              "id": "section-15-102",
+              "number": "15-102",
+              "heading": "Definitions"
+            },
+            {
+              "id": "section-15-103",
+              "number": "15-103",
+              "heading": "Fair Campaign Financing Fund"
+            },
+            {
+              "id": "section-15-104",
+              "number": "15-104",
+              "heading": "Campaign Finance Entity for Gubernatorial Candidate -- Donations Accepted -- Qualifying Level of Donors and Donations"
+            },
+            {
+              "id": "section-15-105",
+              "number": "15-105",
+              "heading": "Qualifying Period for Gubernatorial Candidates to Collect Required Contributions"
+            },
+            {
+              "id": "section-15-106",
+              "number": "15-106",
+              "heading": "Eligible Gubernatorial Ticket -- Prohibited Campaign Finance Activities"
+            },
+            {
+              "id": "section-15-107",
+              "number": "15-107",
+              "heading": "Public Contributions -- Distributions"
+            },
+            {
+              "id": "section-15-108",
+              "number": "15-108",
+              "heading": "Withdrawal as Publicly Funded Candidate -- Actions Necessary if Public Contributions Already Received"
+            },
+            {
+              "id": "section-15-109",
+              "number": "15-109",
+              "heading": "Public Contributions -- Use"
+            },
+            {
+              "id": "section-15-110",
+              "number": "15-110",
+              "heading": "Balance in Fund"
+            },
+            {
+              "id": "section-15-111",
+              "number": "15-111",
+              "heading": "Administration of Title"
+            },
+            {
+              "id": "section-15-112",
+              "number": "15-112",
+              "heading": "Violations"
+            },
+            {
+              "id": "section-15-113",
+              "number": "15-113",
+              "heading": "Civil Penalty for Campaign Finance Violations -- Amount -- Timing of Payment to State Board by Campaign Finance Entity -- Citation of Violations -- Right to Stand Trial -- Prosecution -- Penalty Considerations"
+            },
+            {
+              "id": "section-15-114",
+              "number": "15-114",
+              "heading": "Short Title"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-7-questions",
+          "number": "title-7-questions",
+          "heading": "Title 7 Questions",
+          "section_count": 5,
+          "children": [
+            {
+              "id": "section-7-101",
+              "number": "7-101",
+              "heading": "ApplicabilitySection 7-102 - Qualification of QuestionsSection 7-103 - Text of QuestionsSection 7-104 - Petitions Relating to QuestionsSection 7-105 - Publication of Questions"
+            },
+            {
+              "id": "section-7-102",
+              "number": "7-102",
+              "heading": "Qualification of Questions"
+            },
+            {
+              "id": "section-7-103",
+              "number": "7-103",
+              "heading": "Text of Questions"
+            },
+            {
+              "id": "section-7-104",
+              "number": "7-104",
+              "heading": "Petitions Relating to Questions"
+            },
+            {
+              "id": "section-7-105",
+              "number": "7-105",
+              "heading": "Publication of Questions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-estates-and-trusts",
+      "number": "estates-and-trusts",
+      "heading": "Estates And Trusts",
+      "children": [
+        {
+          "id": "chapter-title-16-maryland-uniform-transfer-on-death-tod-security-reg",
+          "number": "title-16-maryland-uniform-transfer-on-death-tod-security-reg",
+          "heading": "Title 16 Maryland Uniform Transfer On Death Tod Security Reg",
+          "section_count": 12,
+          "children": [
+            {
+              "id": "section-16-101",
+              "number": "16-101",
+              "heading": "DefinitionsSection 16-102 - Registration in Beneficiary Form -- Sole or Joint Tenancy OwnershipSection 16-103 - Registration in Beneficiary Form -- Applicable LawSection 16-104 - Registration in Beneficiary Form -- OriginationSection 16-105 - Registration in Beneficiary Form -- FormSection 16-106 - "
+            },
+            {
+              "id": "section-16-102",
+              "number": "16-102",
+              "heading": "Registration in Beneficiary Form -- Sole or Joint Tenancy Ownership"
+            },
+            {
+              "id": "section-16-103",
+              "number": "16-103",
+              "heading": "Registration in Beneficiary Form -- Applicable Law"
+            },
+            {
+              "id": "section-16-104",
+              "number": "16-104",
+              "heading": "Registration in Beneficiary Form -- Origination"
+            },
+            {
+              "id": "section-16-105",
+              "number": "16-105",
+              "heading": "Registration in Beneficiary Form -- Form"
+            },
+            {
+              "id": "section-16-106",
+              "number": "16-106",
+              "heading": "Registration in Beneficiary Form -- Effect"
+            },
+            {
+              "id": "section-16-107",
+              "number": "16-107",
+              "heading": "Ownership on Death of Owner"
+            },
+            {
+              "id": "section-16-108",
+              "number": "16-108",
+              "heading": "Protection of Registering Entity"
+            },
+            {
+              "id": "section-16-109",
+              "number": "16-109",
+              "heading": "Nontestamentary Transfer-on-Death; Rights of Creditors"
+            },
+            {
+              "id": "section-16-110",
+              "number": "16-110",
+              "heading": "Terms, Conditions, and Forms for Registration"
+            },
+            {
+              "id": "section-16-111",
+              "number": "16-111",
+              "heading": "Short Title; Rules of Construction"
+            },
+            {
+              "id": "section-16-112",
+              "number": "16-112",
+              "heading": "Application of Act"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-18-supported-decision-making",
+          "number": "title-18-supported-decision-making",
+          "heading": "Title 18 Supported Decision Making",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-18-101section",
+              "number": "18-101Section",
+              "heading": "18-102Section 18-103Section 18-104Section 18-105Section 18-106Section 18-107Section 18-108Section 18-109"
+            },
+            {
+              "id": "section-18",
+              "number": "18",
+              "heading": "101"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-family-law",
+      "number": "family-law",
+      "heading": "Family Law",
+      "children": [
+        {
+          "id": "chapter-title-11-alimony",
+          "number": "title-11-alimony",
+          "heading": "Title 11 Alimony",
+          "section_count": 12,
+          "children": [
+            {
+              "id": "section-11-101",
+              "number": "11-101",
+              "heading": "Award -- in GeneralSection 11-102 - Award -- Alimony Pendente LiteSection 11-103 - Award -- Existence of Ground for DivorceSection 11-104 - Award -- Against Nonresident DefendantSection 11-105 - Award -- Following Decree by Another JurisdictionSection 11-106 - Award -- Determination of Amount and Du"
+            },
+            {
+              "id": "section-11-102",
+              "number": "11-102",
+              "heading": "Award -- Alimony Pendente Lite"
+            },
+            {
+              "id": "section-11-103",
+              "number": "11-103",
+              "heading": "Award -- Existence of Ground for Divorce"
+            },
+            {
+              "id": "section-11-104",
+              "number": "11-104",
+              "heading": "Award -- Against Nonresident Defendant"
+            },
+            {
+              "id": "section-11-105",
+              "number": "11-105",
+              "heading": "Award -- Following Decree by Another Jurisdiction"
+            },
+            {
+              "id": "section-11-106",
+              "number": "11-106",
+              "heading": "Award -- Determination of Amount and Duration"
+            },
+            {
+              "id": "section-11-107",
+              "number": "11-107",
+              "heading": "Extension of Period; Modification of Amount"
+            },
+            {
+              "id": "section-11-108",
+              "number": "11-108",
+              "heading": "Termination of Alimony"
+            },
+            {
+              "id": "section-11-109",
+              "number": "11-109",
+              "heading": "Payment to Designee"
+            },
+            {
+              "id": "section-11-110",
+              "number": "11-110",
+              "heading": "Order to Pay Reasonable and Necessary Expenses"
+            },
+            {
+              "id": "section-11-111",
+              "number": "11-111",
+              "heading": "Allocation of Costs of Continued Health Insurance Coverage; Continuation or Reinstatement of Benefits"
+            },
+            {
+              "id": "section-11-112",
+              "number": "11-112",
+              "heading": "Authority of Court in Certain Cases of Insanity"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-13-support-of-parents-and-adult-children",
+          "number": "title-13-support-of-parents-and-adult-children",
+          "heading": "Title 13 Support Of Parents And Adult Children",
+          "section_count": 9,
+          "children": [
+            {
+              "id": "section-13-101",
+              "number": "13-101",
+              "heading": "\"Destitute Adult Child\" DefinedSection 13-102 - Prohibited Acts; PenaltiesSection 13-103 - Complaint by Destitute Adult ChildSection 13-104 - Pretrial Inquiry -- Powers of State's AttorneySection 13-105 - Pretrial Inquiry -- Notice to Accused IndividualSection 13-106 - Filing of Information; Consent"
+            },
+            {
+              "id": "section-13-102",
+              "number": "13-102",
+              "heading": "Prohibited Acts; Penalties"
+            },
+            {
+              "id": "section-13-103",
+              "number": "13-103",
+              "heading": "Complaint by Destitute Adult Child"
+            },
+            {
+              "id": "section-13-104",
+              "number": "13-104",
+              "heading": "Pretrial Inquiry -- Powers of State's Attorney"
+            },
+            {
+              "id": "section-13-105",
+              "number": "13-105",
+              "heading": "Pretrial Inquiry -- Notice to Accused Individual"
+            },
+            {
+              "id": "section-13-106",
+              "number": "13-106",
+              "heading": "Filing of Information; Consent"
+            },
+            {
+              "id": "section-13-107",
+              "number": "13-107",
+              "heading": "Order to Pay Support"
+            },
+            {
+              "id": "section-13-108",
+              "number": "13-108",
+              "heading": "Failure to Give Bond"
+            },
+            {
+              "id": "section-13-109",
+              "number": "13-109",
+              "heading": "Release From Order, Bond, or Recognizance"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-3-breach-of-promise-to-marry-and-alienation-of-affecti",
+          "number": "title-3-breach-of-promise-to-marry-and-alienation-of-affecti",
+          "heading": "Title 3 Breach Of Promise To Marry And Alienation Of Affecti",
+          "section_count": 4,
+          "children": [
+            {
+              "id": "section-3-101",
+              "number": "3-101",
+              "heading": "Construction of TitleSection 3-102 - Action for Breach of Promise to MarrySection 3-103 - Action for Alienation of AffectionsSection 3-104 - Contracts Void; Exception"
+            },
+            {
+              "id": "section-3-102",
+              "number": "3-102",
+              "heading": "Action for Breach of Promise to Marry"
+            },
+            {
+              "id": "section-3-103",
+              "number": "3-103",
+              "heading": "Action for Alienation of Affections"
+            },
+            {
+              "id": "section-3-104",
+              "number": "3-104",
+              "heading": "Contracts Void; Exception"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-7-divorce",
+          "number": "title-7-divorce",
+          "heading": "Title 7 Divorce",
+          "section_count": 7,
+          "children": [
+            {
+              "id": "section-7-101",
+              "number": "7-101",
+              "heading": "Residence RequirementSection 7-103 - Absolute DivorceSection 7-103"
+            },
+            {
+              "id": "section-7-103",
+              "number": "7-103",
+              "heading": "Absolute Divorce"
+            },
+            {
+              "id": "section-7-1032",
+              "number": "7-103.2",
+              "heading": "Child Support and Custody Educational Seminar"
+            },
+            {
+              "id": "section-7-104",
+              "number": "7-104",
+              "heading": "Offer or Refusal of Reconciliation"
+            },
+            {
+              "id": "section-7-105",
+              "number": "7-105",
+              "heading": "Restoration of Former Name"
+            },
+            {
+              "id": "section-7-106",
+              "number": "7-106",
+              "heading": "Record of Divorce Decrees"
+            },
+            {
+              "id": "section-7-107",
+              "number": "7-107",
+              "heading": "Award of Reasonable and Necessary Expenses"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-97-maryland-child-abduction-prevention-act",
+          "number": "title-97-maryland-child-abduction-prevention-act",
+          "heading": "Title 97 Maryland Child Abduction Prevention Act",
+          "section_count": 11,
+          "children": [
+            {
+              "id": "section-97-101",
+              "number": "9.7-101",
+              "heading": "DefinitionsSection 9.7-102 - Electronic Signatures in Global & National Commerce ActSection 9"
+            },
+            {
+              "id": "section-97-102",
+              "number": "9.7-102",
+              "heading": "Electronic Signatures in Global & National Commerce Act"
+            },
+            {
+              "id": "section-97-103",
+              "number": "9.7-103",
+              "heading": "Cooperation and Communication Among Courts"
+            },
+            {
+              "id": "section-97-104",
+              "number": "9.7-104",
+              "heading": "Measures to Prevent Abduction"
+            },
+            {
+              "id": "section-97-105",
+              "number": "9.7-105",
+              "heading": "Petition"
+            },
+            {
+              "id": "section-97-106",
+              "number": "9.7-106",
+              "heading": "Verification and Contents of Petition"
+            },
+            {
+              "id": "section-97-107",
+              "number": "9.7-107",
+              "heading": "Evidence"
+            },
+            {
+              "id": "section-97-108",
+              "number": "9.7-108",
+              "heading": "Court Order"
+            },
+            {
+              "id": "section-97-109",
+              "number": "9.7-109",
+              "heading": "Ex Parte Warrant"
+            },
+            {
+              "id": "section-97-110",
+              "number": "9.7-110",
+              "heading": "Abduction Prevention Order"
+            },
+            {
+              "id": "section-97-111",
+              "number": "9.7-111",
+              "heading": "Maryland Child Abduction Prevention Act"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-financial-institutions",
+      "number": "financial-institutions",
+      "heading": "Financial Institutions",
+      "children": [
+        {
+          "id": "chapter-title-10-state-of-maryland-deposit-insurance-fund-corporatio",
+          "number": "title-10-state-of-maryland-deposit-insurance-fund-corporatio",
+          "heading": "Title 10 State Of Maryland Deposit Insurance Fund Corporatio",
+          "section_count": 24,
+          "children": [
+            {
+              "id": "section-10-101",
+              "number": "10-101",
+              "heading": "DefinitionsSection 10-102 - Corporation EstablishedSection 10-103 - Appointment, Term, and Powers of Fund Director; Board of DirectorsSection 10-103"
+            },
+            {
+              "id": "section-10-102",
+              "number": "10-102",
+              "heading": "Corporation Established"
+            },
+            {
+              "id": "section-10-103",
+              "number": "10-103",
+              "heading": "Appointment, Term, and Powers of Fund Director; Board of Directors"
+            },
+            {
+              "id": "section-10-1031",
+              "number": "10-103.1",
+              "heading": "Advisory Function of Board"
+            },
+            {
+              "id": "section-10-104",
+              "number": "10-104",
+              "heading": "Employees"
+            },
+            {
+              "id": "section-10-105",
+              "number": "10-105",
+              "heading": "Authority of Secretary"
+            },
+            {
+              "id": "section-10-106",
+              "number": "10-106",
+              "heading": "Official Seal"
+            },
+            {
+              "id": "section-10-107",
+              "number": "10-107",
+              "heading": "Fund Director to Devote Full Time to Duties of Fund"
+            },
+            {
+              "id": "section-10-108",
+              "number": "10-108",
+              "heading": "Conflicts of Interest -- in General"
+            },
+            {
+              "id": "section-10-109",
+              "number": "10-109",
+              "heading": "Conflicts of Interest -- Other Prohibited Activities"
+            },
+            {
+              "id": "section-10-110",
+              "number": "10-110",
+              "heading": "State of Maryland Deposit Insurance Fund"
+            },
+            {
+              "id": "section-10-1101",
+              "number": "10-110.1",
+              "heading": "Final Determination of Insurable Loss"
+            },
+            {
+              "id": "section-10-1102",
+              "number": "10-110.2",
+              "heading": "Advances by State to Fund; Money Recovered by Fund"
+            },
+            {
+              "id": "section-10-111",
+              "number": "10-111",
+              "heading": "Membership -- Applications; Certification by Division Director"
+            },
+            {
+              "id": "section-10-112",
+              "number": "10-112",
+              "heading": "Membership -- Effective Upon Approval; Withdrawal; Accumulated Earnings Retained"
+            },
+            {
+              "id": "section-10-113",
+              "number": "10-113",
+              "heading": "Rules and Regulations; Withdrawal From Fund"
+            },
+            {
+              "id": "section-10-114",
+              "number": "10-114",
+              "heading": "Exchange of Information"
+            },
+            {
+              "id": "section-10-115",
+              "number": "10-115",
+              "heading": "Application of State Insurance Laws"
+            },
+            {
+              "id": "section-10-116",
+              "number": "10-116",
+              "heading": "Appropriation Policy"
+            },
+            {
+              "id": "section-10-117",
+              "number": "10-117",
+              "heading": "Eligibility for Membership -- Major Associations"
+            },
+            {
+              "id": "section-10-118",
+              "number": "10-118",
+              "heading": "Eligibility for Membership -- Other Associations"
+            },
+            {
+              "id": "section-10-119",
+              "number": "10-119",
+              "heading": "Penalty for Submitting False Information"
+            },
+            {
+              "id": "section-10-120",
+              "number": "10-120",
+              "heading": "Accrual of Certain Rights, Claims, and Liabilities of Fund to Successor Agency or Maryland Department of Labor"
+            },
+            {
+              "id": "section-10-121",
+              "number": "10-121",
+              "heading": "Defense of Sovereign Immunity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-general-provisions",
+      "number": "general-provisions",
+      "heading": "General Provisions",
+      "children": [
+        {
+          "id": "chapter-title-8-false-claims",
+          "number": "title-8-false-claims",
+          "heading": "Title 8 False Claims",
+          "section_count": 11,
+          "children": [
+            {
+              "id": "section-8-101",
+              "number": "8-101",
+              "heading": "DefinitionsSection 8-102 - General ConsiderationSection 8-103 - Civil Actions -- Governmental EntitiesSection 8-104 - Civil Actions -- Persons and Governmental EntitiesSection 8-105 - Effect of Intervention and Prevailing by Governmental EntitySection 8-106 - When Action May Not Be BroughtSection 8-"
+            },
+            {
+              "id": "section-8-102",
+              "number": "8-102",
+              "heading": "General Consideration"
+            },
+            {
+              "id": "section-8-103",
+              "number": "8-103",
+              "heading": "Civil Actions -- Governmental Entities"
+            },
+            {
+              "id": "section-8-104",
+              "number": "8-104",
+              "heading": "Civil Actions -- Persons and Governmental Entities"
+            },
+            {
+              "id": "section-8-105",
+              "number": "8-105",
+              "heading": "Effect of Intervention and Prevailing by Governmental Entity"
+            },
+            {
+              "id": "section-8-106",
+              "number": "8-106",
+              "heading": "When Action May Not Be Brought"
+            },
+            {
+              "id": "section-8-107",
+              "number": "8-107",
+              "heading": "Retaliatory Actions"
+            },
+            {
+              "id": "section-8-108",
+              "number": "8-108",
+              "heading": "Procedure"
+            },
+            {
+              "id": "section-8-109",
+              "number": "8-109",
+              "heading": "Remedies; Coordination of Investigations; Deposit of Penalty or Damages"
+            },
+            {
+              "id": "section-8-110",
+              "number": "8-110",
+              "heading": "Reports"
+            },
+            {
+              "id": "section-8-111",
+              "number": "8-111",
+              "heading": "Short Title"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-health-general",
+      "number": "health-general",
+      "heading": "Health General",
+      "children": [
+        {
+          "id": "chapter-title-11-interstate-compact-on-mental-health",
+          "number": "title-11-interstate-compact-on-mental-health",
+          "heading": "Title 11 Interstate Compact On Mental Health",
+          "section_count": 7,
+          "children": [
+            {
+              "id": "section-11-101",
+              "number": "11-101",
+              "heading": "\"Article\" Defined; Inapplicability of DefinitionsSection 11-102 - Compact Enacted Into Law and Entered IntoSection 11-103 - Text of the Interstate Compact on Mental HealthSection 11-104 - Compact Administrator; DutiesSection 11-105 - Supplementary Agreements With Other StatesSection 11-106 - Dischar"
+            },
+            {
+              "id": "section-11-102",
+              "number": "11-102",
+              "heading": "Compact Enacted Into Law and Entered Into"
+            },
+            {
+              "id": "section-11-103",
+              "number": "11-103",
+              "heading": "Text of the Interstate Compact on Mental Health"
+            },
+            {
+              "id": "section-11-104",
+              "number": "11-104",
+              "heading": "Compact Administrator; Duties"
+            },
+            {
+              "id": "section-11-105",
+              "number": "11-105",
+              "heading": "Supplementary Agreements With Other States"
+            },
+            {
+              "id": "section-11-106",
+              "number": "11-106",
+              "heading": "Discharge of Financial Obligations"
+            },
+            {
+              "id": "section-11-107",
+              "number": "11-107",
+              "heading": "Consultation With Family"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-insurance",
+      "number": "insurance",
+      "heading": "Insurance",
+      "children": [
+        {
+          "id": "chapter-title-13-credit-life-health-and-involuntary-unemployment-ben",
+          "number": "title-13-credit-life-health-and-involuntary-unemployment-ben",
+          "heading": "Title 13 Credit Life Health And Involuntary Unemployment Ben",
+          "section_count": 17,
+          "children": [
+            {
+              "id": "section-13-101",
+              "number": "13-101",
+              "heading": "DefinitionsSection 13-102 - Purpose and Construction of TitleSection 13-103 - Scope of TitleSection 13-104 - Issuance of PoliciesSection 13-105 - Forms of InsuranceSection 13-106 - Amounts of InsuranceSection 13-107 - Term of InsuranceSection 13-108 - Individual Policies and Group CertificatesSectio"
+            },
+            {
+              "id": "section-13-102",
+              "number": "13-102",
+              "heading": "Purpose and Construction of Title"
+            },
+            {
+              "id": "section-13-103",
+              "number": "13-103",
+              "heading": "Scope of Title"
+            },
+            {
+              "id": "section-13-104",
+              "number": "13-104",
+              "heading": "Issuance of Policies"
+            },
+            {
+              "id": "section-13-105",
+              "number": "13-105",
+              "heading": "Forms of Insurance"
+            },
+            {
+              "id": "section-13-106",
+              "number": "13-106",
+              "heading": "Amounts of Insurance"
+            },
+            {
+              "id": "section-13-107",
+              "number": "13-107",
+              "heading": "Term of Insurance"
+            },
+            {
+              "id": "section-13-108",
+              "number": "13-108",
+              "heading": "Individual Policies and Group Certificates"
+            },
+            {
+              "id": "section-13-109",
+              "number": "13-109",
+              "heading": "Delivery of Policy or Certificate to Debtor"
+            },
+            {
+              "id": "section-13-110",
+              "number": "13-110",
+              "heading": "Filing and Approval of Forms and Rates; Maximum Commissions and Policyholder Benefits"
+            },
+            {
+              "id": "section-13-111",
+              "number": "13-111",
+              "heading": "Premium Rates"
+            },
+            {
+              "id": "section-13-112",
+              "number": "13-112",
+              "heading": "Refunds"
+            },
+            {
+              "id": "section-13-113",
+              "number": "13-113",
+              "heading": "Claims"
+            },
+            {
+              "id": "section-13-114",
+              "number": "13-114",
+              "heading": "Option of Debtor to Provide Insurance"
+            },
+            {
+              "id": "section-13-115",
+              "number": "13-115",
+              "heading": "Insurance of Husband and Wife"
+            },
+            {
+              "id": "section-13-116",
+              "number": "13-116",
+              "heading": "Fronting Agreements"
+            },
+            {
+              "id": "section-13-117",
+              "number": "13-117",
+              "heading": "Enforcement of Title"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-18-long-term-care-insurance",
+          "number": "title-18-long-term-care-insurance",
+          "heading": "Title 18 Long Term Care Insurance",
+          "section_count": 22,
+          "children": [
+            {
+              "id": "section-18-101",
+              "number": "18-101",
+              "heading": "DefinitionsSection 18-102 - RegulationsSection 18-103 - Compliance With Title Required; Advertising; MarketingSection 18-104 - Questions in ApplicationsSection 18-105 - Applicants at Least 80 Years OldSection 18-106 - Outline of Coverage and Buyer's GuideSection 18-107 - Contents of CertificatesSect"
+            },
+            {
+              "id": "section-18-102",
+              "number": "18-102",
+              "heading": "Regulations"
+            },
+            {
+              "id": "section-18-103",
+              "number": "18-103",
+              "heading": "Compliance With Title Required; Advertising; Marketing"
+            },
+            {
+              "id": "section-18-104",
+              "number": "18-104",
+              "heading": "Questions in Applications"
+            },
+            {
+              "id": "section-18-105",
+              "number": "18-105",
+              "heading": "Applicants at Least 80 Years Old"
+            },
+            {
+              "id": "section-18-106",
+              "number": "18-106",
+              "heading": "Outline of Coverage and Buyer's Guide"
+            },
+            {
+              "id": "section-18-107",
+              "number": "18-107",
+              "heading": "Contents of Certificates"
+            },
+            {
+              "id": "section-18-108",
+              "number": "18-108",
+              "heading": "Summaries of Long-Term Care Benefits in Life Insurance Policies"
+            },
+            {
+              "id": "section-18-109",
+              "number": "18-109",
+              "heading": "Policy Limitations and Exclusions -- in General"
+            },
+            {
+              "id": "section-18-110",
+              "number": "18-110",
+              "heading": "Policy Limitations and Exclusions -- Home Health Care Services"
+            },
+            {
+              "id": "section-18-111",
+              "number": "18-111",
+              "heading": "Policy Limitations and Exclusions -- Alzheimer's Disease"
+            },
+            {
+              "id": "section-18-112",
+              "number": "18-112",
+              "heading": "Continuation of Coverage or Conversion of Policies"
+            },
+            {
+              "id": "section-18-113",
+              "number": "18-113",
+              "heading": "Replacement Policies"
+            },
+            {
+              "id": "section-18-114",
+              "number": "18-114",
+              "heading": "Inflation Protection Option"
+            },
+            {
+              "id": "section-18-115",
+              "number": "18-115",
+              "heading": "Evaluating Expected and Actual Loss Ratios"
+            },
+            {
+              "id": "section-18-116",
+              "number": "18-116",
+              "heading": "Increases to Premiums"
+            },
+            {
+              "id": "section-18-1161",
+              "number": "18-116.1",
+              "heading": "Contingent Benefit Upon Lapse"
+            },
+            {
+              "id": "section-18-117",
+              "number": "18-117",
+              "heading": "Reports About Benefits Funded by Acceleration of Death Benefits"
+            },
+            {
+              "id": "section-18-1171",
+              "number": "18-117.1",
+              "heading": "Notice Containing Policy Form Number and Carrier's Customer Service Telephone Number"
+            },
+            {
+              "id": "section-18-118",
+              "number": "18-118",
+              "heading": "Cancellation, Refusal to Renew, or Termination of Policies"
+            },
+            {
+              "id": "section-18-119",
+              "number": "18-119",
+              "heading": "Surrender of Policy"
+            },
+            {
+              "id": "section-18-120",
+              "number": "18-120",
+              "heading": "Prohibited Acts"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-21-surety-insurance",
+          "number": "title-21-surety-insurance",
+          "heading": "Title 21 Surety Insurance",
+          "section_count": 3,
+          "children": [
+            {
+              "id": "section-21-101",
+              "number": "21-101",
+              "heading": "Authority of Surety Insurers to Execute BondsSection 21-102 - Evidence of Qualification to Be Sole SuretySection 21-103 - Failure to Pay Bail Bond Judgment; Penalties"
+            },
+            {
+              "id": "section-21-102",
+              "number": "21-102",
+              "heading": "Evidence of Qualification to Be Sole Surety"
+            },
+            {
+              "id": "section-21-103",
+              "number": "21-103",
+              "heading": "Failure to Pay Bail Bond Judgment; Penalties"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-22-title-insurance",
+          "number": "title-22-title-insurance",
+          "heading": "Title 22 Title Insurance",
+          "section_count": 5,
+          "children": [
+            {
+              "id": "section-22-101",
+              "number": "22-101",
+              "heading": "DefinitionsSection 22-102 - Premiums for Title InsuranceSection 22-103 - Notice to Buyer About Title InsuranceSection 22-104 - Title Insurance Commitment or Sample of the Form of PolicySection 22-105 - Deposits of Trust Money"
+            },
+            {
+              "id": "section-22-102",
+              "number": "22-102",
+              "heading": "Premiums for Title Insurance"
+            },
+            {
+              "id": "section-22-103",
+              "number": "22-103",
+              "heading": "Notice to Buyer About Title Insurance"
+            },
+            {
+              "id": "section-22-104",
+              "number": "22-104",
+              "heading": "Title Insurance Commitment or Sample of the Form of Policy"
+            },
+            {
+              "id": "section-22-105",
+              "number": "22-105",
+              "heading": "Deposits of Trust Money"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-28-holocaust-victims-insurance-act",
+          "number": "title-28-holocaust-victims-insurance-act",
+          "heading": "Title 28 Holocaust Victims Insurance Act",
+          "section_count": 10,
+          "children": [
+            {
+              "id": "section-28-101",
+              "number": "28-101",
+              "heading": "DefinitionsSection 28-102 - Toll-Free Telephone NumberSection 28-103 - Investigation of Claims; Unfair or Deceptive Practices; Notice of Investigations; Intentional Destruction or Alteration of RecordsSection 28-104 - Civil PracticeSection 28-105 - Insurer Reporting RequirementsSection 28-106 - Comm"
+            },
+            {
+              "id": "section-28-102",
+              "number": "28-102",
+              "heading": "Toll-Free Telephone Number"
+            },
+            {
+              "id": "section-28-103",
+              "number": "28-103",
+              "heading": "Investigation of Claims; Unfair or Deceptive Practices; Notice of Investigations; Intentional Destruction or Alteration of Records"
+            },
+            {
+              "id": "section-28-104",
+              "number": "28-104",
+              "heading": "Civil Practice"
+            },
+            {
+              "id": "section-28-105",
+              "number": "28-105",
+              "heading": "Insurer Reporting Requirements"
+            },
+            {
+              "id": "section-28-106",
+              "number": "28-106",
+              "heading": "Commissioner Reporting Requirements"
+            },
+            {
+              "id": "section-28-107",
+              "number": "28-107",
+              "heading": "Penalties"
+            },
+            {
+              "id": "section-28-108",
+              "number": "28-108",
+              "heading": "Compliance Nonviolative of Title 27"
+            },
+            {
+              "id": "section-28-109",
+              "number": "28-109",
+              "heading": "Regulations"
+            },
+            {
+              "id": "section-28-110",
+              "number": "28-110",
+              "heading": "Short Title"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-29-interstate-insurance-product-regulation-compact",
+          "number": "title-29-interstate-insurance-product-regulation-compact",
+          "heading": "Title 29 Interstate Insurance Product Regulation Compact",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-29-101",
+              "number": "29-101",
+              "heading": "Compact Entered Into; General ProvisionsSection 29-102 - Insurance Commissioner as Representative to Commission"
+            },
+            {
+              "id": "section-29-102",
+              "number": "29-102",
+              "heading": "Insurance Commissioner as Representative to Commission"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-30-slavery-era-insurance-policy-reporting",
+          "number": "title-30-slavery-era-insurance-policy-reporting",
+          "heading": "Title 30 Slavery Era Insurance Policy Reporting",
+          "section_count": 3,
+          "children": [
+            {
+              "id": "section-30-101",
+              "number": "30-101",
+              "heading": "DefinitionsSection 30-102 - Slaveholder Insurance Policy -- Report by InsurerSection 30-103 - Slaveholder Insurance Policy -- Report by Commissioner"
+            },
+            {
+              "id": "section-30-102",
+              "number": "30-102",
+              "heading": "Slaveholder Insurance Policy -- Report by Insurer"
+            },
+            {
+              "id": "section-30-103",
+              "number": "30-103",
+              "heading": "Slaveholder Insurance Policy -- Report by Commissioner"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-32-risk-management-and-own-risk-and-solvency-assessmen",
+          "number": "title-32-risk-management-and-own-risk-and-solvency-assessmen",
+          "heading": "Title 32 Risk Management And Own Risk And Solvency Assessmen",
+          "section_count": 10,
+          "children": [
+            {
+              "id": "section-32-101",
+              "number": "32-101",
+              "heading": "DefinitionsSection 32-102 - Purposes; ApplicabilitySection 32-103 - Maintenance of Risk Management FrameworkSection 32-104 - Orsa to Be ConductedSection 32-105 - Summary Report or ReportsSection 32-106 - ExemptionsSection 32-107 - Orsa Summary ReportSection 32-108 - Confidentiality RequirementsSecti"
+            },
+            {
+              "id": "section-32-102",
+              "number": "32-102",
+              "heading": "Purposes; Applicability"
+            },
+            {
+              "id": "section-32-103",
+              "number": "32-103",
+              "heading": "Maintenance of Risk Management Framework"
+            },
+            {
+              "id": "section-32-104",
+              "number": "32-104",
+              "heading": "Orsa to Be Conducted"
+            },
+            {
+              "id": "section-32-105",
+              "number": "32-105",
+              "heading": "Summary Report or Reports"
+            },
+            {
+              "id": "section-32-106",
+              "number": "32-106",
+              "heading": "Exemptions"
+            },
+            {
+              "id": "section-32-107",
+              "number": "32-107",
+              "heading": "Orsa Summary Report"
+            },
+            {
+              "id": "section-32-108",
+              "number": "32-108",
+              "heading": "Confidentiality Requirements"
+            },
+            {
+              "id": "section-32-109",
+              "number": "32-109",
+              "heading": "Penalties for Noncompliance"
+            },
+            {
+              "id": "section-32-110",
+              "number": "32-110",
+              "heading": "Regulations"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-33-insurance-data-security",
+          "number": "title-33-insurance-data-security",
+          "heading": "Title 33 Insurance Data Security",
+          "section_count": 9,
+          "children": [
+            {
+              "id": "section-33-101",
+              "number": "33-101",
+              "heading": "DefinitionsSection 33-102 - Purpose of Title -- Restrictions on Construction of Title -- Compliance With Other LawsSection 33-103 - Information Security Program -- Design of Program -- Duties of Carrier and Risk Assessment -- Actions by Board of Directors -- Measures by Third-Party Service Provider "
+            },
+            {
+              "id": "section-33-102",
+              "number": "33-102",
+              "heading": "Purpose of Title -- Restrictions on Construction of Title -- Compliance With Other Laws"
+            },
+            {
+              "id": "section-33-103",
+              "number": "33-103",
+              "heading": "Information Security Program -- Design of Program -- Duties of Carrier and Risk Assessment -- Actions by Board of Directors -- Measures by Third-Party Service Provider -- Incident Response Plan"
+            },
+            {
+              "id": "section-33-104",
+              "number": "33-104",
+              "heading": "Prompt Investigation of Cybersecurity Event -- Duties of Carrier and Necessary Steps"
+            },
+            {
+              "id": "section-33-105",
+              "number": "33-105",
+              "heading": "Actions Required Following a Cybersecurity Event -- Information Provided by Carrier -- Continuing Obligation to Update and Supplement Information -- Cybersecurity Event Reported by Managed Care Organization"
+            },
+            {
+              "id": "section-33-106",
+              "number": "33-106",
+              "heading": "Federal Laws Governing Carriers -- Compliance"
+            },
+            {
+              "id": "section-33-107",
+              "number": "33-107",
+              "heading": "Certain Documents and Information Confidential and Privileged -- Waiver -- Final Actions Open to Public Inspection"
+            },
+            {
+              "id": "section-33-108",
+              "number": "33-108",
+              "heading": "Penalties for Violations of Title"
+            },
+            {
+              "id": "section-33-109",
+              "number": "33-109",
+              "heading": "Adoption of Regulations"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-labor-and-employment",
+      "number": "labor-and-employment",
+      "heading": "Labor And Employment",
+      "children": [
+        {
+          "id": "chapter-title-2-division-of-labor-and-industry",
+          "number": "title-2-division-of-labor-and-industry",
+          "heading": "Title 2 Division Of Labor And Industry",
+          "section_count": 8,
+          "children": [
+            {
+              "id": "section-2-101",
+              "number": "2-101",
+              "heading": "DefinitionsSection 2-102 - EstablishedSection 2-103 - CommissionerSection 2-104 - Staff of DivisionSection 2-105 - General Responsibilities of CommissionerSection 2-106 - RegulationsSection 2-107 - Units in DivisionSection 2-108 - Annual Report"
+            },
+            {
+              "id": "section-2-102",
+              "number": "2-102",
+              "heading": "Established"
+            },
+            {
+              "id": "section-2-103",
+              "number": "2-103",
+              "heading": "Commissioner"
+            },
+            {
+              "id": "section-2-104",
+              "number": "2-104",
+              "heading": "Staff of Division"
+            },
+            {
+              "id": "section-2-105",
+              "number": "2-105",
+              "heading": "General Responsibilities of Commissioner"
+            },
+            {
+              "id": "section-2-106",
+              "number": "2-106",
+              "heading": "Regulations"
+            },
+            {
+              "id": "section-2-107",
+              "number": "2-107",
+              "heading": "Units in Division"
+            },
+            {
+              "id": "section-2-108",
+              "number": "2-108",
+              "heading": "Annual Report"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-55-railroad-safety-and-health",
+          "number": "title-55-railroad-safety-and-health",
+          "heading": "Title 55 Railroad Safety And Health",
+          "section_count": 23,
+          "children": [
+            {
+              "id": "section-55-101",
+              "number": "5.5-101",
+              "heading": "DefinitionsSection 5.5-102 - Purpose of TitleSection 5"
+            },
+            {
+              "id": "section-55-102",
+              "number": "5.5-102",
+              "heading": "Purpose of Title"
+            },
+            {
+              "id": "section-55-103",
+              "number": "5.5-103",
+              "heading": "Scope of Title"
+            },
+            {
+              "id": "section-55-104",
+              "number": "5.5-104",
+              "heading": "Authority of Commissioner; Delegation"
+            },
+            {
+              "id": "section-55-105",
+              "number": "5.5-105",
+              "heading": "Track Clearance Certificates"
+            },
+            {
+              "id": "section-55-106",
+              "number": "5.5-106",
+              "heading": "Cost of Administration"
+            },
+            {
+              "id": "section-55-107",
+              "number": "5.5-107",
+              "heading": "Enforcement by Attorney General"
+            },
+            {
+              "id": "section-55-108",
+              "number": "5.5-108",
+              "heading": "Regulations"
+            },
+            {
+              "id": "section-55-109",
+              "number": "5.5-109",
+              "heading": "Regulations -- Sanitary Conditions"
+            },
+            {
+              "id": "section-55-110",
+              "number": "5.5-110",
+              "heading": "Specific Health and Safety Standards"
+            },
+            {
+              "id": "section-55-111",
+              "number": "5.5-111",
+              "heading": "Margin and Sidetrack Maintenance"
+            },
+            {
+              "id": "section-55-112",
+              "number": "5.5-112",
+              "heading": "Variances"
+            },
+            {
+              "id": "section-55-113",
+              "number": "5.5-113",
+              "heading": "Inspections and Investigations"
+            },
+            {
+              "id": "section-55-114",
+              "number": "5.5-114",
+              "heading": "Request for Inspection"
+            },
+            {
+              "id": "section-55-115",
+              "number": "5.5-115",
+              "heading": "Notice Prohibiting Use of Apparatus"
+            },
+            {
+              "id": "section-55-116",
+              "number": "5.5-116",
+              "heading": "Citations"
+            },
+            {
+              "id": "section-55-117",
+              "number": "5.5-117",
+              "heading": "Enforcement of Citation"
+            },
+            {
+              "id": "section-55-118",
+              "number": "5.5-118",
+              "heading": "Hearings"
+            },
+            {
+              "id": "section-55-119",
+              "number": "5.5-119",
+              "heading": "Judicial Review and Enforcement"
+            },
+            {
+              "id": "section-55-120",
+              "number": "5.5-120",
+              "heading": "Injunctive Relief Against Imminent Danger"
+            },
+            {
+              "id": "section-55-121",
+              "number": "5.5-121",
+              "heading": "Accident Reports"
+            },
+            {
+              "id": "section-55-122",
+              "number": "5.5-122",
+              "heading": "Prohibited Acts; Criminal Penalties"
+            },
+            {
+              "id": "section-55-123",
+              "number": "5.5-123",
+              "heading": "Civil Penalties"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-6-high-voltage-lines",
+          "number": "title-6-high-voltage-lines",
+          "heading": "Title 6 High Voltage Lines",
+          "section_count": 10,
+          "children": [
+            {
+              "id": "section-6-101",
+              "number": "6-101",
+              "heading": "\"High Voltage Line\" DefinedSection 6-102 - Scope of TitleSection 6-103 - PresumptionSection 6-104 - Administration and Enforcement of TitleSection 6-105 - Administrative Search WarrantSection 6-106 - Restrictions on Activity Within 10 Feet of High Voltage LineSection 6-107 - Duty of Person Performin"
+            },
+            {
+              "id": "section-6-102",
+              "number": "6-102",
+              "heading": "Scope of Title"
+            },
+            {
+              "id": "section-6-103",
+              "number": "6-103",
+              "heading": "Presumption"
+            },
+            {
+              "id": "section-6-104",
+              "number": "6-104",
+              "heading": "Administration and Enforcement of Title"
+            },
+            {
+              "id": "section-6-105",
+              "number": "6-105",
+              "heading": "Administrative Search Warrant"
+            },
+            {
+              "id": "section-6-106",
+              "number": "6-106",
+              "heading": "Restrictions on Activity Within 10 Feet of High Voltage Line"
+            },
+            {
+              "id": "section-6-107",
+              "number": "6-107",
+              "heading": "Duty of Person Performing Activity"
+            },
+            {
+              "id": "section-6-108",
+              "number": "6-108",
+              "heading": "Duty of Owner or Operator of High Voltage Line"
+            },
+            {
+              "id": "section-6-109",
+              "number": "6-109",
+              "heading": "Duty of Owner, Lessee, or User of Equipment"
+            },
+            {
+              "id": "section-6-110",
+              "number": "6-110",
+              "heading": "Penalties"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-85-health-care-payroll-assessment",
+          "number": "title-85-health-care-payroll-assessment",
+          "heading": "Title 85 Health Care Payroll Assessment",
+          "section_count": 7,
+          "children": [
+            {
+              "id": "section-85-101",
+              "number": "8.5-101",
+              "heading": "DefinitionsSection 8.5-102 - ScopeSection 8"
+            },
+            {
+              "id": "section-85-102",
+              "number": "8.5-102",
+              "heading": "Scope"
+            },
+            {
+              "id": "section-85-103",
+              "number": "8.5-103",
+              "heading": "Annual Report of Payroll Information; Exemptions"
+            },
+            {
+              "id": "section-85-104",
+              "number": "8.5-104",
+              "heading": "Computation of Amounts Due; Deductions From Employee Wages Prohibited; Periodic Payments"
+            },
+            {
+              "id": "section-85-105",
+              "number": "8.5-105",
+              "heading": "Failure to Report or to Make Payment; Sanctions"
+            },
+            {
+              "id": "section-85-106",
+              "number": "8.5-106",
+              "heading": "Reporting by Secretary"
+            },
+            {
+              "id": "section-85-107",
+              "number": "8.5-107",
+              "heading": "Duties of Secretary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-public-safety",
+      "number": "public-safety",
+      "heading": "Public Safety",
+      "children": [
+        {
+          "id": "chapter-title-15-gas-pipeline-safety",
+          "number": "title-15-gas-pipeline-safety",
+          "heading": "Title 15 Gas Pipeline Safety",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-15-101",
+              "number": "15-101",
+              "heading": "DefinitionsSection 15-102 - Implementation of Federal Pipeline Safety Laws"
+            },
+            {
+              "id": "section-15-102",
+              "number": "15-102",
+              "heading": "Implementation of Federal Pipeline Safety Laws"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-real-property",
+      "number": "real-property",
+      "heading": "Real Property",
+      "children": [
+        {
+          "id": "chapter-title-1-general-provisions",
+          "number": "title-1-general-provisions",
+          "heading": "Title 1 General Provisions",
+          "section_count": 4,
+          "children": [
+            {
+              "id": "section-1-101",
+              "number": "1-101",
+              "heading": "DefinitionsSection 1-102 - PresumptionsSection 1-103 - Successors in InterestSection 1-104 - Contractual Modifications"
+            },
+            {
+              "id": "section-1-102",
+              "number": "1-102",
+              "heading": "Presumptions"
+            },
+            {
+              "id": "section-1-103",
+              "number": "1-103",
+              "heading": "Successors in Interest"
+            },
+            {
+              "id": "section-1-104",
+              "number": "1-104",
+              "heading": "Contractual Modifications"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-11-maryland-condominium-act",
+          "number": "title-11-maryland-condominium-act",
+          "heading": "Title 11 Maryland Condominium Act",
+          "section_count": 61,
+          "children": [
+            {
+              "id": "section-11-101",
+              "number": "11-101",
+              "heading": "DefinitionsSection 11-102 - Establishment of Condominium RegimeSection 11-102"
+            },
+            {
+              "id": "section-11-102",
+              "number": "11-102",
+              "heading": "Establishment of Condominium Regime"
+            },
+            {
+              "id": "section-11-1021",
+              "number": "11-102.1",
+              "heading": "Notice Prior to Conversion of Residential Property to Condominium"
+            },
+            {
+              "id": "section-11-1022",
+              "number": "11-102.2",
+              "heading": "Termination of Leases"
+            },
+            {
+              "id": "section-11-103",
+              "number": "11-103",
+              "heading": "Declaration"
+            },
+            {
+              "id": "section-11-1031",
+              "number": "11-103.1",
+              "heading": "Corrective Amendments"
+            },
+            {
+              "id": "section-11-104",
+              "number": "11-104",
+              "heading": "Bylaws"
+            },
+            {
+              "id": "section-11-105",
+              "number": "11-105",
+              "heading": "Condominium Plat"
+            },
+            {
+              "id": "section-11-106",
+              "number": "11-106",
+              "heading": "Status and Description of Units"
+            },
+            {
+              "id": "section-11-107",
+              "number": "11-107",
+              "heading": "Percentage Interests"
+            },
+            {
+              "id": "section-11-108",
+              "number": "11-108",
+              "heading": "Use of Common Elements"
+            },
+            {
+              "id": "section-11-1081",
+              "number": "11-108.1",
+              "heading": "Responsibility for Maintenance, Repair, and Replacement"
+            },
+            {
+              "id": "section-11-109",
+              "number": "11-109",
+              "heading": "Council of Unit Owners"
+            },
+            {
+              "id": "section-11-1091",
+              "number": "11-109.1",
+              "heading": "Closed Meetings of Board of Directors"
+            },
+            {
+              "id": "section-11-1092",
+              "number": "11-109.2",
+              "heading": "Annual Proposed Budget"
+            },
+            {
+              "id": "section-11-1093",
+              "number": "11-109.3",
+              "heading": "Court Appointment of Receiver"
+            },
+            {
+              "id": "section-11-1094",
+              "number": "11-109.4",
+              "heading": "Reserve Study of Condominium Common Elements -- Criteria"
+            },
+            {
+              "id": "section-11-110",
+              "number": "11-110",
+              "heading": "Common Expenses and Profits; Assessments; Liens"
+            },
+            {
+              "id": "section-11-111",
+              "number": "11-111",
+              "heading": "Rules and Regulations"
+            },
+            {
+              "id": "section-11-1111",
+              "number": "11-111.1",
+              "heading": "Family Child Care Homes"
+            },
+            {
+              "id": "section-11-1112",
+              "number": "11-111.2",
+              "heading": "Restrictions on Candidate Signs and Propositions"
+            },
+            {
+              "id": "section-11-1113",
+              "number": "11-111.3",
+              "heading": "Distribution of Written Information or Materials"
+            },
+            {
+              "id": "section-11-1114",
+              "number": "11-111.4",
+              "heading": "Installation of Electric Vehicle Recharging Equipment in Condominiums -- Approval by Governing Body -- Permit or Approval by County or Municipality -- Term -- Insurance by Unit Owner"
+            },
+            {
+              "id": "section-11-1115",
+              "number": "11-111.5",
+              "heading": "Condominium Not to Prohibit or Unreasonably Restrict Collection of Organic Waste Materials -- Ability of Private Entity to Access the Common Elements for Purpose of Collection"
+            },
+            {
+              "id": "section-11-112",
+              "number": "11-112",
+              "heading": "Eminent Domain"
+            },
+            {
+              "id": "section-11-113",
+              "number": "11-113",
+              "heading": "Dispute Settlement Mechanism"
+            },
+            {
+              "id": "section-11-114",
+              "number": "11-114",
+              "heading": "Required Insurance Coverage; Reconstruction"
+            },
+            {
+              "id": "section-11-1141",
+              "number": "11-114.1",
+              "heading": "Fidelity Insurance"
+            },
+            {
+              "id": "section-11-1142",
+              "number": "11-114.2",
+              "heading": "Requirement of Owner Insurance Policy on Unit"
+            },
+            {
+              "id": "section-11-115",
+              "number": "11-115",
+              "heading": "Improvements, Alterations, or Additions by Unit Owner"
+            },
+            {
+              "id": "section-11-116",
+              "number": "11-116",
+              "heading": "Books and Records to Be Kept; Audit; Inspection of Records"
+            },
+            {
+              "id": "section-11-118",
+              "number": "11-118",
+              "heading": "Mechanics' and Materialmen's Liens"
+            },
+            {
+              "id": "section-11-119",
+              "number": "11-119",
+              "heading": "Resident Agent"
+            },
+            {
+              "id": "section-11-120",
+              "number": "11-120",
+              "heading": "Expanding Condominiums"
+            },
+            {
+              "id": "section-11-121",
+              "number": "11-121",
+              "heading": "Deposits on New Condominiums"
+            },
+            {
+              "id": "section-11-122",
+              "number": "11-122",
+              "heading": "Zoning and Building Regulations"
+            },
+            {
+              "id": "section-11-123",
+              "number": "11-123",
+              "heading": "Termination of Condominium"
+            },
+            {
+              "id": "section-11-124",
+              "number": "11-124",
+              "heading": "Rules of Construction"
+            },
+            {
+              "id": "section-11-125",
+              "number": "11-125",
+              "heading": "Easements and Encroachments"
+            },
+            {
+              "id": "section-11-126",
+              "number": "11-126",
+              "heading": "Disclosure Requirements"
+            },
+            {
+              "id": "section-11-127",
+              "number": "11-127",
+              "heading": "Registration"
+            },
+            {
+              "id": "section-11-128",
+              "number": "11-128",
+              "heading": "Duties of Secretary of State"
+            },
+            {
+              "id": "section-11-129",
+              "number": "11-129",
+              "heading": "Foreign Condominium Units Sold in State"
+            },
+            {
+              "id": "section-11-130",
+              "number": "11-130",
+              "heading": "Consumer Protection"
+            },
+            {
+              "id": "section-11-131",
+              "number": "11-131",
+              "heading": "Warranties"
+            },
+            {
+              "id": "section-11-132",
+              "number": "11-132",
+              "heading": "Documents to Be Delivered to Council of Unit Owners by Developer"
+            },
+            {
+              "id": "section-11-133",
+              "number": "11-133",
+              "heading": "Termination of Leases or Management and Similar Contracts"
+            },
+            {
+              "id": "section-11-134",
+              "number": "11-134",
+              "heading": "Provisions Requiring Employment of Developer or Vendor to Effect Sale; Exception"
+            },
+            {
+              "id": "section-11-1341",
+              "number": "11-134.1",
+              "heading": "Prohibited Provisions by Developers or Vendors of Condominiums"
+            },
+            {
+              "id": "section-11-135",
+              "number": "11-135",
+              "heading": "Resale of Unit"
+            },
+            {
+              "id": "section-11-136",
+              "number": "11-136",
+              "heading": "Tenant's Right to Purchase Property Occupied as Residence"
+            },
+            {
+              "id": "section-11-137",
+              "number": "11-137",
+              "heading": "Unit Leased by Designated Household"
+            },
+            {
+              "id": "section-11-138",
+              "number": "11-138",
+              "heading": "Local Government's Right to Purchase Rental Facility"
+            },
+            {
+              "id": "section-11-139",
+              "number": "11-139",
+              "heading": "Local Government's Right to Purchase Units"
+            },
+            {
+              "id": "section-11-1391",
+              "number": "11-139.1",
+              "heading": "Electronic Transmission of Notice"
+            },
+            {
+              "id": "section-11-1392",
+              "number": "11-139.2",
+              "heading": "Electronic Transmission of Votes or Proxies"
+            },
+            {
+              "id": "section-11-1393",
+              "number": "11-139.3",
+              "heading": "Attendance at Virtual Meetings -- Attendees Deemed Present -- Voting and Ballots -- Technical Linking Difficulties Not Invalidating"
+            },
+            {
+              "id": "section-11-140",
+              "number": "11-140",
+              "heading": "Legislative Intent; Local Legislative Finding and Declaration of Rental Housing Emergency; Local Laws and Regulations to Meet Emergency; Copies"
+            },
+            {
+              "id": "section-11-141",
+              "number": "11-141",
+              "heading": "Title Additional and Supplemental"
+            },
+            {
+              "id": "section-11-142",
+              "number": "11-142",
+              "heading": "Applicability to Existing Condominiums"
+            },
+            {
+              "id": "section-11-143",
+              "number": "11-143",
+              "heading": "Short Title"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-11a-maryland-real-estate-time-sharing-act",
+          "number": "title-11a-maryland-real-estate-time-sharing-act",
+          "heading": "Title 11A Maryland Real Estate Time Sharing Act",
+          "section_count": 30,
+          "children": [
+            {
+              "id": "section-11a-101",
+              "number": "11A-101",
+              "heading": "DefinitionsSection 11A-102 - Time-Share EstateSection 11A-103 - Time-Share InstrumentSection 11A-104 - Limitations on Time-SharesSection 11A-105 - Provisions in Instrument Regarding Management and Maintenance of Projects and UnitsSection 11A-106 - Developer Control Period; Transfer of Title to Assoc"
+            },
+            {
+              "id": "section-11a-102",
+              "number": "11A-102",
+              "heading": "Time-Share Estate"
+            },
+            {
+              "id": "section-11a-103",
+              "number": "11A-103",
+              "heading": "Time-Share Instrument"
+            },
+            {
+              "id": "section-11a-104",
+              "number": "11A-104",
+              "heading": "Limitations on Time-Shares"
+            },
+            {
+              "id": "section-11a-105",
+              "number": "11A-105",
+              "heading": "Provisions in Instrument Regarding Management and Maintenance of Projects and Units"
+            },
+            {
+              "id": "section-11a-106",
+              "number": "11A-106",
+              "heading": "Developer Control Period; Transfer of Title to Association"
+            },
+            {
+              "id": "section-11a-107",
+              "number": "11A-107",
+              "heading": "Provisions in License Plan Instrument for Management and Maintenance of Plan and Units"
+            },
+            {
+              "id": "section-11a-108",
+              "number": "11A-108",
+              "heading": "Termination of Time-Shares"
+            },
+            {
+              "id": "section-11a-1081",
+              "number": "11A-108.1",
+              "heading": "Continuation of Time-Share Past Termination Date"
+            },
+            {
+              "id": "section-11a-109",
+              "number": "11A-109",
+              "heading": "Managing Entity; Association"
+            },
+            {
+              "id": "section-11a-110",
+              "number": "11A-110",
+              "heading": "Expenses"
+            },
+            {
+              "id": "section-11a-111",
+              "number": "11A-111",
+              "heading": "Insurance"
+            },
+            {
+              "id": "section-11a-112",
+              "number": "11A-112",
+              "heading": "Public Offering Statement"
+            },
+            {
+              "id": "section-11a-113",
+              "number": "11A-113",
+              "heading": "Conversion Buildings"
+            },
+            {
+              "id": "section-11a-114",
+              "number": "11A-114",
+              "heading": "Right of Cancellation"
+            },
+            {
+              "id": "section-11a-115",
+              "number": "11A-115",
+              "heading": "Resale of Time-Share"
+            },
+            {
+              "id": "section-11a-116",
+              "number": "11A-116",
+              "heading": "Purchase Money Escrow Account; Bonds"
+            },
+            {
+              "id": "section-11a-117",
+              "number": "11A-117",
+              "heading": "Warranties"
+            },
+            {
+              "id": "section-11a-118",
+              "number": "11A-118",
+              "heading": "Sales Contract"
+            },
+            {
+              "id": "section-11a-119",
+              "number": "11A-119",
+              "heading": "Advertising"
+            },
+            {
+              "id": "section-11a-120",
+              "number": "11A-120",
+              "heading": "Exchange of Occupancy Rights"
+            },
+            {
+              "id": "section-11a-121",
+              "number": "11A-121",
+              "heading": "Certificate of Registration"
+            },
+            {
+              "id": "section-11a-122",
+              "number": "11A-122",
+              "heading": "Powers of Commission"
+            },
+            {
+              "id": "section-11a-123",
+              "number": "11A-123",
+              "heading": "Persons Not Required to Register"
+            },
+            {
+              "id": "section-11a-124",
+              "number": "11A-124",
+              "heading": "Project Brokers"
+            },
+            {
+              "id": "section-11a-125",
+              "number": "11A-125",
+              "heading": "Remedies"
+            },
+            {
+              "id": "section-11a-126",
+              "number": "11A-126",
+              "heading": "Statutory Conflict"
+            },
+            {
+              "id": "section-11a-127",
+              "number": "11A-127",
+              "heading": "Application"
+            },
+            {
+              "id": "section-11a-128",
+              "number": "11A-128",
+              "heading": "Books and Records; Meetings"
+            },
+            {
+              "id": "section-11a-129",
+              "number": "11A-129",
+              "heading": "Short Title"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-11b-maryland-homeowners-association-act",
+          "number": "title-11b-maryland-homeowners-association-act",
+          "heading": "Title 11B Maryland Homeowners Association Act",
+          "section_count": 40,
+          "children": [
+            {
+              "id": "section-11b-101",
+              "number": "11B-101",
+              "heading": "DefinitionsSection 11B-102 - Applicability of Title and 11b-105 Through 11b-108 and 11b-110Section 11B-103 - Variance of Title's Provisions and Waiver of Rights Conferred Thereby, and Evasion of Title's Requirements, Limitations, or Prohibitions ProhibitedSection 11B-104 - Building Code or Zoning La"
+            },
+            {
+              "id": "section-11b-102",
+              "number": "11B-102",
+              "heading": "Applicability of Title and 11b-105 Through 11b-108 and 11b-110"
+            },
+            {
+              "id": "section-11b-103",
+              "number": "11B-103",
+              "heading": "Variance of Title's Provisions and Waiver of Rights Conferred Thereby, and Evasion of Title's Requirements, Limitations, or Prohibitions Prohibited"
+            },
+            {
+              "id": "section-11b-104",
+              "number": "11B-104",
+              "heading": "Building Code or Zoning Laws, Ordinances, and Regulations to Be Given Full Force and Effect; Local Laws, Ordinances, or Regulations; Alternative Dispute Resolution"
+            },
+            {
+              "id": "section-11b-105",
+              "number": "11B-105",
+              "heading": "Initial Sale of Lots in Developments Containing More Than 12 Lots"
+            },
+            {
+              "id": "section-11b-106",
+              "number": "11B-106",
+              "heading": "Resale of Lot; Initial Sale of Lot in Development Containing 12 or Fewer Lots"
+            },
+            {
+              "id": "section-11b-1061",
+              "number": "11B-106.1",
+              "heading": "Responsibility for Maintenance, Repair, and Replacement of Common Elements"
+            },
+            {
+              "id": "section-11b-1062",
+              "number": "11B-106.2",
+              "heading": "Sale of Common Elements"
+            },
+            {
+              "id": "section-11b-107",
+              "number": "11B-107",
+              "heading": "Initial Sale of Lot Not Intended to Be Occupied or Rented for Residential Purposes"
+            },
+            {
+              "id": "section-11b-108",
+              "number": "11B-108",
+              "heading": "Cancellation of Contract"
+            },
+            {
+              "id": "section-11b-109",
+              "number": "11B-109",
+              "heading": "Untrue Statements or Omissions by Vendor"
+            },
+            {
+              "id": "section-11b-110",
+              "number": "11B-110",
+              "heading": "Warranties; Notice of Defect"
+            },
+            {
+              "id": "section-11b-111",
+              "number": "11B-111",
+              "heading": "Meetings of Homeowners Association or Its Governing Body"
+            },
+            {
+              "id": "section-11b-1111",
+              "number": "11B-111.1",
+              "heading": "Family Child Care Homes -- No-Impact Home-Based Businesses"
+            },
+            {
+              "id": "section-11b-1112",
+              "number": "11B-111.2",
+              "heading": "Candidate or Proposition Sign"
+            },
+            {
+              "id": "section-11b-1113",
+              "number": "11B-111.3",
+              "heading": "Distribution of Written Information and Materials"
+            },
+            {
+              "id": "section-11b-1114",
+              "number": "11B-111.4",
+              "heading": "Meetings"
+            },
+            {
+              "id": "section-11b-1115",
+              "number": "11B-111.5",
+              "heading": "Court Appointment of Receiver"
+            },
+            {
+              "id": "section-11b-1116",
+              "number": "11B-111.6",
+              "heading": "Fidelity Insurance"
+            },
+            {
+              "id": "section-11b-1117",
+              "number": "11B-111.7",
+              "heading": "Number of Declarant Votes"
+            },
+            {
+              "id": "section-11b-1118",
+              "number": "11B-111.8",
+              "heading": "Installation of Electric Vehicle Recharging Equipment in a Development -- Approval by Governing Body -- Permit or Approval by County or Municipality -- Term -- Insurance by Lot Owner"
+            },
+            {
+              "id": "section-11b-1119",
+              "number": "11B-111.9",
+              "heading": "Homeowners Association Not to Prohibit or Unreasonably Restrict Lot Owner From Composting or Contracting With Private Entity"
+            },
+            {
+              "id": "section-11b-11110",
+              "number": "11B-111.10",
+              "heading": "Dispute Settlements -- Procedures Followed -- Suit for Damages -- Inapplicable to Certain Associations"
+            },
+            {
+              "id": "section-11b-112",
+              "number": "11B-112",
+              "heading": "Books and Records of Homeowners Association; Disclosures to Be Deposited Into Depository"
+            },
+            {
+              "id": "section-11b-1121",
+              "number": "11B-112.1",
+              "heading": "Late Charges"
+            },
+            {
+              "id": "section-11b-1122",
+              "number": "11B-112.2",
+              "heading": "Annual Budget"
+            },
+            {
+              "id": "section-11b-1123",
+              "number": "11B-112.3",
+              "heading": "Reserve Study of Homeowners Association Common Areas -- Criteria"
+            },
+            {
+              "id": "section-11b-113",
+              "number": "11B-113",
+              "heading": "Homeowners Association Depository"
+            },
+            {
+              "id": "section-11b-1131",
+              "number": "11B-113.1",
+              "heading": "Electronic Transmission of Notice"
+            },
+            {
+              "id": "section-11b-1132",
+              "number": "11B-113.2",
+              "heading": "Electronic Transmission of Votes or Proxies"
+            },
+            {
+              "id": "section-11b-1133",
+              "number": "11B-113.3",
+              "heading": "Deletion of Ownership Restrictions Based on Race, Religion, or National Origin"
+            },
+            {
+              "id": "section-11b-1134",
+              "number": "11B-113.4",
+              "heading": "Annual Charge"
+            },
+            {
+              "id": "section-11b-1135",
+              "number": "11B-113.5",
+              "heading": "Annexation of Land in Howard County"
+            },
+            {
+              "id": "section-11b-1136",
+              "number": "11B-113.6",
+              "heading": "Attendance at Virtual Meetings -- Attendees Deemed Present -- Voting and Ballots -- Technical Linking Difficulties Not Invalidating"
+            },
+            {
+              "id": "section-11b-114",
+              "number": "11B-114",
+              "heading": "Electronic Payment Fees"
+            },
+            {
+              "id": "section-11b-115",
+              "number": "11B-115",
+              "heading": "Enforcement Authority of Division of Consumer Protection"
+            },
+            {
+              "id": "section-11b-1151",
+              "number": "11B-115.1",
+              "heading": "Enforcement by Division of Consumer Protection"
+            },
+            {
+              "id": "section-11b-116",
+              "number": "11B-116",
+              "heading": "Amendment of Governing Document"
+            },
+            {
+              "id": "section-11b-117",
+              "number": "11B-117",
+              "heading": "Liability for Homeowners Association Assessments and Charges on Lots"
+            },
+            {
+              "id": "section-11b-118",
+              "number": "11B-118",
+              "heading": "Short Title"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-15-effective-date-and-applicability",
+          "number": "title-15-effective-date-and-applicability",
+          "heading": "Title 15 Effective Date And Applicability",
+          "section_count": 3,
+          "children": [
+            {
+              "id": "section-15-101",
+              "number": "15-101",
+              "heading": "General Effective DateSection 15-102 - Special Effective DatesSection 15-103 - Applicability"
+            },
+            {
+              "id": "section-15-102",
+              "number": "15-102",
+              "heading": "Special Effective Dates"
+            },
+            {
+              "id": "section-15-103",
+              "number": "15-103",
+              "heading": "Applicability"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-2-rules-of-construction",
+          "number": "title-2-rules-of-construction",
+          "heading": "Title 2 Rules Of Construction",
+          "section_count": 25,
+          "children": [
+            {
+              "id": "section-2-101",
+              "number": "2-101",
+              "heading": "\"Grant\" or \"Bargain and Sell\" Construed to Pass Whole InterestSection 2-102 - Tenant of Estate Tail May Grant in Fee SimpleSection 2-103 - Rights Granted by Assignment of MortgageSection 2-104 - Meaning of Term \"The Said "
+            },
+            {
+              "id": "section-2-102",
+              "number": "2-102",
+              "heading": "Tenant of Estate Tail May Grant in Fee Simple"
+            },
+            {
+              "id": "section-2-103",
+              "number": "2-103",
+              "heading": "Rights Granted by Assignment of Mortgage"
+            },
+            {
+              "id": "section-2-104",
+              "number": "2-104",
+              "heading": "Meaning of Term \"The Said . . . covenants.\""
+            },
+            {
+              "id": "section-2-105",
+              "number": "2-105",
+              "heading": "Effect of General Warranty"
+            },
+            {
+              "id": "section-2-106",
+              "number": "2-106",
+              "heading": "Effect of Special Warranty"
+            },
+            {
+              "id": "section-2-107",
+              "number": "2-107",
+              "heading": "Effect of Covenant of Seisin"
+            },
+            {
+              "id": "section-2-108",
+              "number": "2-108",
+              "heading": "Effect of Covenant of Right to Grant"
+            },
+            {
+              "id": "section-2-109",
+              "number": "2-109",
+              "heading": "Effect of Covenant of Quiet Enjoyment"
+            },
+            {
+              "id": "section-2-110",
+              "number": "2-110",
+              "heading": "Effect of Covenant That Grantor Has Done No Act to Encumber"
+            },
+            {
+              "id": "section-2-111",
+              "number": "2-111",
+              "heading": "Effect of General Covenant Against Encumbrances"
+            },
+            {
+              "id": "section-2-112",
+              "number": "2-112",
+              "heading": "Effect of Covenant for Further Assurances"
+            },
+            {
+              "id": "section-2-113",
+              "number": "2-113",
+              "heading": "\"Die Without Issue\", and Similar Phrases"
+            },
+            {
+              "id": "section-2-114",
+              "number": "2-114",
+              "heading": "Title to Street or Highway Where Land Binding on It Is Granted"
+            },
+            {
+              "id": "section-2-115",
+              "number": "2-115",
+              "heading": "No Implied Covenant or Warranty of Title or Possession"
+            },
+            {
+              "id": "section-2-116",
+              "number": "2-116",
+              "heading": "Passive Trusts Executed; Section Inapplicable to Security Instruments; Executory Interests and Powers of Appointment Valid"
+            },
+            {
+              "id": "section-2-117",
+              "number": "2-117",
+              "heading": "Presumption Against Joint Tenancy"
+            },
+            {
+              "id": "section-2-118",
+              "number": "2-118",
+              "heading": "Conservation Easements; Grants to Certain Trusts"
+            },
+            {
+              "id": "section-2-119",
+              "number": "2-119",
+              "heading": "Covenants Restricting Installation of Solar Collector Systems"
+            },
+            {
+              "id": "section-2-120",
+              "number": "2-120",
+              "heading": "Disclosure of Material Fact or Latent Defect"
+            },
+            {
+              "id": "section-2-121",
+              "number": "2-121",
+              "heading": "Covenants Restricting Family Day Care Homes"
+            },
+            {
+              "id": "section-2-122",
+              "number": "2-122",
+              "heading": "Grant of Property to Trust Same as Grant to Trustee"
+            },
+            {
+              "id": "section-2-123",
+              "number": "2-123",
+              "heading": "Adoptees"
+            },
+            {
+              "id": "section-2-124",
+              "number": "2-124",
+              "heading": "Unreasonable Restrictions on Location of Portable Basketball Apparatus Prohibited -- Historic Property"
+            },
+            {
+              "id": "section-2-125",
+              "number": "2-125",
+              "heading": "Restrictions Imposing Unreasonable Limitations on Low-Impact Landscaping Prohibited -- Reasonable Design and Aesthetic Guidelines Allowed -- Historic Properties Exempted"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-5-statute-of-frauds",
+          "number": "title-5-statute-of-frauds",
+          "heading": "Title 5 Statute Of Frauds",
+          "section_count": 8,
+          "children": [
+            {
+              "id": "section-5-101",
+              "number": "5-101",
+              "heading": "Certain Estates Created by Parol Are Estates at WillSection 5-102 - Certain Estates Created by Parol Are Estates at Will -- One-Year ExceptionSection 5-103 - Assignment, Grant, or Surrender of Interest in PropertySection 5-104 - Executory ContractsSection 5-105 - Declarations of TrustSection 5-106 -"
+            },
+            {
+              "id": "section-5-102",
+              "number": "5-102",
+              "heading": "Certain Estates Created by Parol Are Estates at Will -- One-Year Exception"
+            },
+            {
+              "id": "section-5-103",
+              "number": "5-103",
+              "heading": "Assignment, Grant, or Surrender of Interest in Property"
+            },
+            {
+              "id": "section-5-104",
+              "number": "5-104",
+              "heading": "Executory Contracts"
+            },
+            {
+              "id": "section-5-105",
+              "number": "5-105",
+              "heading": "Declarations of Trust"
+            },
+            {
+              "id": "section-5-106",
+              "number": "5-106",
+              "heading": "Assignment of Beneficial Interest in Trust"
+            },
+            {
+              "id": "section-5-107",
+              "number": "5-107",
+              "heading": "Not Applicable to Resulting or Constructive Trusts or to Trusts Transferred or Extinguished by Operation of Law"
+            },
+            {
+              "id": "section-5-108",
+              "number": "5-108",
+              "heading": "Other Requirements of This Article Not Repealed"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-6-rights-of-entry-and-possibilities-of-reverter",
+          "number": "title-6-rights-of-entry-and-possibilities-of-reverter",
+          "heading": "Title 6 Rights Of Entry And Possibilities Of Reverter",
+          "section_count": 5,
+          "children": [
+            {
+              "id": "section-6-101",
+              "number": "6-101",
+              "heading": "Thirty-Year Limit on Possibilities of Reverter and Rights of Entry Created on or After July 1, 1969Section 6-102 - Limitation on Duration of Possibilities of Reverter and Rights of Entry Existing Before July 1, 1969Section 6-103 - Limitations of Period Within Which Actions May Be Brought and Land Re"
+            },
+            {
+              "id": "section-6-102",
+              "number": "6-102",
+              "heading": "Limitation on Duration of Possibilities of Reverter and Rights of Entry Existing Before July 1, 1969"
+            },
+            {
+              "id": "section-6-103",
+              "number": "6-103",
+              "heading": "Limitations of Period Within Which Actions May Be Brought and Land Recovered by Reason of Termination of Determinable Fee-Simple Estates or on Happening of Condition Subsequent"
+            },
+            {
+              "id": "section-6-104",
+              "number": "6-104",
+              "heading": "Alienability of Possibilities of Reverter and Rights of Entry"
+            },
+            {
+              "id": "section-6-105",
+              "number": "6-105",
+              "heading": "Exception of Possibilities of Reverter and Rights of Entry Owned by State or Political Subdivisions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-state-government",
+      "number": "state-government",
+      "heading": "State Government",
+      "children": [
+        {
+          "id": "chapter-title-1-definitions",
+          "number": "title-1-definitions",
+          "heading": "Title 1 Definitions",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-1-101",
+              "number": "1-101",
+              "heading": "Definitions"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-17-officers",
+          "number": "title-17-officers",
+          "heading": "Title 17 Officers",
+          "section_count": 9,
+          "children": [
+            {
+              "id": "section-17-101",
+              "number": "17-101",
+              "heading": "Ineligibility for Failure to AccountSection 17-102 - Extent of Removal of IneligibilitySection 17-103 - Inadvertent Issuance of CommissionSection 17-104 - Duty of State's Attorney; Mandamus; PenaltySection 17-105 - Construction of TitleSection 17-106 - Postmasters and United States Marshals Not to H"
+            },
+            {
+              "id": "section-17-102",
+              "number": "17-102",
+              "heading": "Extent of Removal of Ineligibility"
+            },
+            {
+              "id": "section-17-103",
+              "number": "17-103",
+              "heading": "Inadvertent Issuance of Commission"
+            },
+            {
+              "id": "section-17-104",
+              "number": "17-104",
+              "heading": "Duty of State's Attorney; Mandamus; Penalty"
+            },
+            {
+              "id": "section-17-105",
+              "number": "17-105",
+              "heading": "Construction of Title"
+            },
+            {
+              "id": "section-17-106",
+              "number": "17-106",
+              "heading": "Postmasters and United States Marshals Not to Hold State Office"
+            },
+            {
+              "id": "section-17-107",
+              "number": "17-107",
+              "heading": "Debts Not to Be Purchased by Sheriffs, Constables, or Collectors of Taxes"
+            },
+            {
+              "id": "section-17-108",
+              "number": "17-108",
+              "heading": "Residence Requirements for Appointment"
+            },
+            {
+              "id": "section-17-109",
+              "number": "17-109",
+              "heading": "Filling Vacancies; Prohibited Acts"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-4-comptroller",
+          "number": "title-4-comptroller",
+          "heading": "Title 4 Comptroller",
+          "section_count": 13,
+          "children": [
+            {
+              "id": "section-4-101",
+              "number": "4-101",
+              "heading": "PositionSection 4-102 - Surety BondSection 4-103 - SalarySection 4-104 - StaffSection 4-105 - Acting ComptrollerSection 4-106 - Authority Over UnitsSection 4-107 - Inspection of RecordsSection 4-108 - Number and Compensation of Staff of Registers of WillsSection 4-109 - BondSection 4-110 - Blank Lic"
+            },
+            {
+              "id": "section-4-102",
+              "number": "4-102",
+              "heading": "Surety Bond"
+            },
+            {
+              "id": "section-4-103",
+              "number": "4-103",
+              "heading": "Salary"
+            },
+            {
+              "id": "section-4-104",
+              "number": "4-104",
+              "heading": "Staff"
+            },
+            {
+              "id": "section-4-105",
+              "number": "4-105",
+              "heading": "Acting Comptroller"
+            },
+            {
+              "id": "section-4-106",
+              "number": "4-106",
+              "heading": "Authority Over Units"
+            },
+            {
+              "id": "section-4-107",
+              "number": "4-107",
+              "heading": "Inspection of Records"
+            },
+            {
+              "id": "section-4-108",
+              "number": "4-108",
+              "heading": "Number and Compensation of Staff of Registers of Wills"
+            },
+            {
+              "id": "section-4-109",
+              "number": "4-109",
+              "heading": "Bond"
+            },
+            {
+              "id": "section-4-110",
+              "number": "4-110",
+              "heading": "Blank Licenses"
+            },
+            {
+              "id": "section-4-111",
+              "number": "4-111",
+              "heading": "Manner of Expressing Accounts"
+            },
+            {
+              "id": "section-4-112",
+              "number": "4-112",
+              "heading": "Comptroller to Match Certain Information and Produce Certain Aggregated Data on Average Wage or Salary Earnings"
+            },
+            {
+              "id": "section-4-113",
+              "number": "4-113",
+              "heading": "Development of the 21st Century Financial Systems Enterprise"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-5-treasurer",
+          "number": "title-5-treasurer",
+          "heading": "Title 5 Treasurer",
+          "section_count": 9,
+          "children": [
+            {
+              "id": "section-5-101",
+              "number": "5-101",
+              "heading": "Position; AppointmentSection 5-101"
+            },
+            {
+              "id": "section-5-1011",
+              "number": "5-101.1",
+              "heading": "Oath"
+            },
+            {
+              "id": "section-5-102",
+              "number": "5-102",
+              "heading": "Surety Bond -- Required; Forms and Conditions; Renewal; Filing"
+            },
+            {
+              "id": "section-5-1021",
+              "number": "5-102.1",
+              "heading": "Surety Bond -- Duties as Custodian of the Unemployment Insurance Fund"
+            },
+            {
+              "id": "section-5-103",
+              "number": "5-103",
+              "heading": "Conflicts of Interest"
+            },
+            {
+              "id": "section-5-104",
+              "number": "5-104",
+              "heading": "Full-Time Duties; Salary"
+            },
+            {
+              "id": "section-5-105",
+              "number": "5-105",
+              "heading": "Staff"
+            },
+            {
+              "id": "section-5-106",
+              "number": "5-106",
+              "heading": "Inability or Unavailability"
+            },
+            {
+              "id": "section-5-107",
+              "number": "5-107",
+              "heading": "Vacancy in Office"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-tax-general",
+      "number": "tax-general",
+      "heading": "Tax General",
+      "children": [
+        {
+          "id": "chapter-title-3-maryland-tax-court",
+          "number": "title-3-maryland-tax-court",
+          "heading": "Title 3 Maryland Tax Court",
+          "section_count": 13,
+          "children": [
+            {
+              "id": "section-3-101",
+              "number": "3-101",
+              "heading": "DefinitionsSection 3-102 - EstablishedSection 3-103 - JurisdictionSection 3-104 - Place of HearingSection 3-105 - Miscellaneous Powers and DutiesSection 3-106 - MembershipSection 3-107 - Quorum for Business; Concurrence on AppealsSection 3-108 - Chief JudgeSection 3-109 - ClerkSection 3-110 - Deputy"
+            },
+            {
+              "id": "section-3-102",
+              "number": "3-102",
+              "heading": "Established"
+            },
+            {
+              "id": "section-3-103",
+              "number": "3-103",
+              "heading": "Jurisdiction"
+            },
+            {
+              "id": "section-3-104",
+              "number": "3-104",
+              "heading": "Place of Hearing"
+            },
+            {
+              "id": "section-3-105",
+              "number": "3-105",
+              "heading": "Miscellaneous Powers and Duties"
+            },
+            {
+              "id": "section-3-106",
+              "number": "3-106",
+              "heading": "Membership"
+            },
+            {
+              "id": "section-3-107",
+              "number": "3-107",
+              "heading": "Quorum for Business; Concurrence on Appeals"
+            },
+            {
+              "id": "section-3-108",
+              "number": "3-108",
+              "heading": "Chief Judge"
+            },
+            {
+              "id": "section-3-109",
+              "number": "3-109",
+              "heading": "Clerk"
+            },
+            {
+              "id": "section-3-110",
+              "number": "3-110",
+              "heading": "Deputy Clerk"
+            },
+            {
+              "id": "section-3-111",
+              "number": "3-111",
+              "heading": "Examiners"
+            },
+            {
+              "id": "section-3-112",
+              "number": "3-112",
+              "heading": "Staff"
+            },
+            {
+              "id": "section-3-113",
+              "number": "3-113",
+              "heading": "Offices"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-tax-property",
+      "number": "tax-property",
+      "heading": "Tax Property",
+      "children": [
+        {
+          "id": "chapter-title-11-reports",
+          "number": "title-11-reports",
+          "heading": "Title 11 Reports",
+          "section_count": 3,
+          "children": [
+            {
+              "id": "section-11-101",
+              "number": "11-101",
+              "heading": "Annual Report Required for Certain Persons"
+            },
+            {
+              "id": "section-11-102",
+              "number": "11-102",
+              "heading": "Reports on Personal Property"
+            },
+            {
+              "id": "section-11-103",
+              "number": "11-103",
+              "heading": "Amended Report"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-12-recordation-taxes",
+          "number": "title-12-recordation-taxes",
+          "heading": "Title 12 Recordation Taxes",
+          "section_count": 19,
+          "children": [
+            {
+              "id": "section-12-101",
+              "number": "12-101",
+              "heading": "DefinitionsSection 12-102 - Imposition of TaxSection 12-103 - Rate of TaxSection 12-104 - Evidence of Consideration or DebtSection 12-105 - Calculation of Tax"
+            },
+            {
+              "id": "section-12-102",
+              "number": "12-102",
+              "heading": "Imposition of Tax"
+            },
+            {
+              "id": "section-12-103",
+              "number": "12-103",
+              "heading": "Rate of Tax"
+            },
+            {
+              "id": "section-12-104",
+              "number": "12-104",
+              "heading": "Evidence of Consideration or Debt"
+            },
+            {
+              "id": "section-12-105",
+              "number": "12-105",
+              "heading": "Calculation of Tax. [Effective Until July 1, 2024]"
+            },
+            {
+              "id": "section-12-106",
+              "number": "12-106",
+              "heading": "Tax on Corporate, Limited Liability Company, and Partnership Transfers"
+            },
+            {
+              "id": "section-12-107",
+              "number": "12-107",
+              "heading": "Tax on Certain Tangible Personal Property"
+            },
+            {
+              "id": "section-12-108",
+              "number": "12-108",
+              "heading": "Exemptions From Tax"
+            },
+            {
+              "id": "section-12-109",
+              "number": "12-109",
+              "heading": "Payment of Recordation Tax"
+            },
+            {
+              "id": "section-12-110",
+              "number": "12-110",
+              "heading": "Distribution of Revenue"
+            },
+            {
+              "id": "section-12-111",
+              "number": "12-111",
+              "heading": "Responsibility for Payment of Tax"
+            },
+            {
+              "id": "section-12-112",
+              "number": "12-112",
+              "heading": "Administration of Tax"
+            },
+            {
+              "id": "section-12-113",
+              "number": "12-113",
+              "heading": "Proceeds From Recordation Tax in Harford County"
+            },
+            {
+              "id": "section-12-114",
+              "number": "12-114",
+              "heading": "Charles County Rental Transfer Exemption"
+            },
+            {
+              "id": "section-12-115",
+              "number": "12-115",
+              "heading": "Charles County Targeted Businesses Exemption"
+            },
+            {
+              "id": "section-12-116",
+              "number": "12-116",
+              "heading": "Exemption From Recordation Tax"
+            },
+            {
+              "id": "section-12-117",
+              "number": "12-117",
+              "heading": "Tax on Consideration Payable for Transfer of Controlling Interest in Real Property Entity"
+            },
+            {
+              "id": "section-12-118",
+              "number": "12-118",
+              "heading": "Tax on Instrument That Transfers Title to Improved Residential Real Property"
+            },
+            {
+              "id": "section-12-119",
+              "number": "12-119",
+              "heading": "Recordation Tax Report. [Effective July 1, 2024]"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-3-property-tax-assessment-appeal-boards-and-the-admini",
+          "number": "title-3-property-tax-assessment-appeal-boards-and-the-admini",
+          "heading": "Title 3 Property Tax Assessment Appeal Boards And The Admini",
+          "section_count": 8,
+          "children": [
+            {
+              "id": "section-3-101",
+              "number": "3-101",
+              "heading": "DefinitionsSection 3-102 - Board EstablishedSection 3-103 - MembershipSection 3-104 - ChairmanSection 3-105 - Quorum; Meetings; Decisions Evidenced by Order; Compensation and Reimbursement; StaffSection 3-106 - Conflict of Interest; Accepting Gifts; Divulging InformationSection 3-107 - Jurisdiction;"
+            },
+            {
+              "id": "section-3-102",
+              "number": "3-102",
+              "heading": "Board Established"
+            },
+            {
+              "id": "section-3-103",
+              "number": "3-103",
+              "heading": "Membership"
+            },
+            {
+              "id": "section-3-104",
+              "number": "3-104",
+              "heading": "Chairman"
+            },
+            {
+              "id": "section-3-105",
+              "number": "3-105",
+              "heading": "Quorum; Meetings; Decisions Evidenced by Order; Compensation and Reimbursement; Staff"
+            },
+            {
+              "id": "section-3-106",
+              "number": "3-106",
+              "heading": "Conflict of Interest; Accepting Gifts; Divulging Information"
+            },
+            {
+              "id": "section-3-107",
+              "number": "3-107",
+              "heading": "Jurisdiction; Limitations on Actions"
+            },
+            {
+              "id": "section-3-108",
+              "number": "3-108",
+              "heading": "Administrator"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-5-property-tax-general-provisions",
+          "number": "title-5-property-tax-general-provisions",
+          "heading": "Title 5 Property Tax General Provisions",
+          "section_count": 3,
+          "children": [
+            {
+              "id": "section-5-101",
+              "number": "5-101",
+              "heading": "Liability and Reimbursement Rights of Persons Having Less Than Fee Simple InterestsSection 5-102 - Where Property Is Assessed and TaxedSection 5-103 - Duty to Notify Supervisor of the Issuance of Building Permits"
+            },
+            {
+              "id": "section-5-102",
+              "number": "5-102",
+              "heading": "Where Property Is Assessed and Taxed"
+            },
+            {
+              "id": "section-5-103",
+              "number": "5-103",
+              "heading": "Duty to Notify Supervisor of the Issuance of Building Permits"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-transportation",
+      "number": "transportation",
+      "heading": "Transportation",
+      "children": [
+        {
+          "id": "chapter-title-1-definitions-general-provisions",
+          "number": "title-1-definitions-general-provisions",
+          "heading": "Title 1 Definitions General Provisions",
+          "section_count": 3,
+          "children": [
+            {
+              "id": "section-1-101",
+              "number": "1-101",
+              "heading": "DefinitionsSection 1-102 - Certificate of Compliance With Workers' Compensation ActSection 1-103 - Renewal of License or Permit; Verification of Payment of Taxes and Unemployment Insurance Contributions"
+            },
+            {
+              "id": "section-1-102",
+              "number": "1-102",
+              "heading": "Certificate of Compliance With Workers' Compensation Act"
+            },
+            {
+              "id": "section-1-103",
+              "number": "1-103",
+              "heading": "Renewal of License or Permit; Verification of Payment of Taxes and Unemployment Insurance Contributions"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-14-vehicle-laws-antitheft-laws",
+          "number": "title-14-vehicle-laws-antitheft-laws",
+          "heading": "Title 14 Vehicle Laws Antitheft Laws",
+          "section_count": 10,
+          "children": [
+            {
+              "id": "section-14-101",
+              "number": "14-101",
+              "heading": "Exceptions From Provisions of TitleSection 14-102 - Taking or Driving Vehicle Without Consent of OwnerSection 14-103 - Possession of Motor Vehicle Master KeySection 14-104 - Damaging or Tampering With VehicleSection 14-105 - Stolen and Recovered VehiclesSection 14-105"
+            },
+            {
+              "id": "section-14-102",
+              "number": "14-102",
+              "heading": "Taking or Driving Vehicle Without Consent of Owner"
+            },
+            {
+              "id": "section-14-103",
+              "number": "14-103",
+              "heading": "Possession of Motor Vehicle Master Key"
+            },
+            {
+              "id": "section-14-104",
+              "number": "14-104",
+              "heading": "Damaging or Tampering With Vehicle"
+            },
+            {
+              "id": "section-14-105",
+              "number": "14-105",
+              "heading": "Stolen and Recovered Vehicles"
+            },
+            {
+              "id": "section-14-1051",
+              "number": "14-105.1",
+              "heading": "Secured Party to Notify Police of Repossession"
+            },
+            {
+              "id": "section-14-106",
+              "number": "14-106",
+              "heading": "False Report of Theft"
+            },
+            {
+              "id": "section-14-107",
+              "number": "14-107",
+              "heading": "Removed, Falsified, or Unauthorized Identification Number or Registration Card or Plate"
+            },
+            {
+              "id": "section-14-108",
+              "number": "14-108",
+              "heading": "Fraudulent Intent in Possession or Sale of Ownership Document"
+            },
+            {
+              "id": "section-14-110",
+              "number": "14-110",
+              "heading": "Altered or Forged Documents and Plates"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-18-vehicle-laws-for-rent-vehicles",
+          "number": "title-18-vehicle-laws-for-rent-vehicles",
+          "heading": "Title 18 Vehicle Laws For Rent Vehicles",
+          "section_count": 9,
+          "children": [
+            {
+              "id": "section-18-101",
+              "number": "18-101",
+              "heading": "Title Inapplicable to Shared Motor Vehicles Under Peer-to-Peer Car Sharing ProgramSection 18-102 - Certification of Security Prerequisite to RegistrationSection 18-103 - Renting Vehicles to Another -- in GeneralSection 18-104 - Renting Vehicles to Another -- Vehicle With Incorrect OdometerSection 18"
+            },
+            {
+              "id": "section-18-102",
+              "number": "18-102",
+              "heading": "Certification of Security Prerequisite to Registration"
+            },
+            {
+              "id": "section-18-103",
+              "number": "18-103",
+              "heading": "Renting Vehicles to Another -- in General"
+            },
+            {
+              "id": "section-18-104",
+              "number": "18-104",
+              "heading": "Renting Vehicles to Another -- Vehicle With Incorrect Odometer"
+            },
+            {
+              "id": "section-18-105",
+              "number": "18-105",
+              "heading": "Renting Vehicles to Another -- Persons Under Influence of or Impaired by Alcohol, Drugs, or Controlled Dangerous Substances"
+            },
+            {
+              "id": "section-18-106",
+              "number": "18-106",
+              "heading": "Security"
+            },
+            {
+              "id": "section-18-107",
+              "number": "18-107",
+              "heading": "Daily Rental Rates"
+            },
+            {
+              "id": "section-18-108",
+              "number": "18-108",
+              "heading": "Rental Vehicle Companies; Separately Stated Charges"
+            },
+            {
+              "id": "section-18-109",
+              "number": "18-109",
+              "heading": "Age-Based Service Determinations on Rental and Replacement Vehicles"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-185-peer-to-peer-car-sharing-programs",
+          "number": "title-185-peer-to-peer-car-sharing-programs",
+          "heading": "Title 185 Peer To Peer Car Sharing Programs",
+          "section_count": 10,
+          "children": [
+            {
+              "id": "section-185-101",
+              "number": "18.5-101",
+              "heading": "DefinitionsSection 18.5-102 - Coverage; Replacement VehiclesSection 18"
+            },
+            {
+              "id": "section-185-102",
+              "number": "18.5-102",
+              "heading": "Coverage; Replacement Vehicles"
+            },
+            {
+              "id": "section-185-103",
+              "number": "18.5-103",
+              "heading": "Requirements; Records"
+            },
+            {
+              "id": "section-185-104",
+              "number": "18.5-104",
+              "heading": "Odometer Fraud Prohibited"
+            },
+            {
+              "id": "section-185-105",
+              "number": "18.5-105",
+              "heading": "Operation While Driver Under Influence of Alcohol or Drugs Prohibited"
+            },
+            {
+              "id": "section-185-106",
+              "number": "18.5-106",
+              "heading": "Concession Fee With Maryland Aviation Administration"
+            },
+            {
+              "id": "section-185-107",
+              "number": "18.5-107",
+              "heading": "Program Agreement Requirements"
+            },
+            {
+              "id": "section-185-108",
+              "number": "18.5-108",
+              "heading": "Rates and Fees"
+            },
+            {
+              "id": "section-185-109",
+              "number": "18.5-109",
+              "heading": "Vehicle Safety -- Safety Recall Notices"
+            },
+            {
+              "id": "section-185-110",
+              "number": "18.5-110",
+              "heading": "Vehicle Safety -- State Inspections"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-187-motor-scooter-and-electric-low-speed-scooter-shari",
+          "number": "title-187-motor-scooter-and-electric-low-speed-scooter-shari",
+          "heading": "Title 187 Motor Scooter And Electric Low Speed Scooter Shari",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-187-101",
+              "number": "18.7-101",
+              "heading": "DefinitionsSection 18.7-102 - Nonvisual Access to Motor Scooters and Electric Low Speed Scooters"
+            },
+            {
+              "id": "section-187-102",
+              "number": "18.7-102",
+              "heading": "Nonvisual Access to Motor Scooters and Electric Low Speed Scooters"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-19-vehicle-laws-civil-liability-of-governmental-agenci",
+          "number": "title-19-vehicle-laws-civil-liability-of-governmental-agenci",
+          "heading": "Title 19 Vehicle Laws Civil Liability Of Governmental Agenci",
+          "section_count": 3,
+          "children": [
+            {
+              "id": "section-19-101",
+              "number": "19-101",
+              "heading": "Liability for Negligence of Police OfficerSection 19-102 - Liability for Commandeered Vehicles Used in a RoadblockSection 19-103 - Liability for Negligent Operation of Emergency Vehicle"
+            },
+            {
+              "id": "section-19-102",
+              "number": "19-102",
+              "heading": "Liability for Commandeered Vehicles Used in a Roadblock"
+            },
+            {
+              "id": "section-19-103",
+              "number": "19-103",
+              "heading": "Liability for Negligent Operation of Emergency Vehicle"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-20-vehicle-laws-accidents-and-accident-reports",
+          "number": "title-20-vehicle-laws-accidents-and-accident-reports",
+          "heading": "Title 20 Vehicle Laws Accidents And Accident Reports",
+          "section_count": 11,
+          "children": [
+            {
+              "id": "section-20-101",
+              "number": "20-101",
+              "heading": "Scope of TitleSection 20-102 - Driver to Remain at Scene -- Accidents Resulting in Bodily Injury or DeathSection 20-103 - Driver to Remain at Scene -- Accidents Resulting Only in Damage to Attended Vehicle or PropertySection 20-104 - Duty to Give Information and Render AidSection 20-105 - Duty on St"
+            },
+            {
+              "id": "section-20-102",
+              "number": "20-102",
+              "heading": "Driver to Remain at Scene -- Accidents Resulting in Bodily Injury or Death"
+            },
+            {
+              "id": "section-20-103",
+              "number": "20-103",
+              "heading": "Driver to Remain at Scene -- Accidents Resulting Only in Damage to Attended Vehicle or Property"
+            },
+            {
+              "id": "section-20-104",
+              "number": "20-104",
+              "heading": "Duty to Give Information and Render Aid"
+            },
+            {
+              "id": "section-20-105",
+              "number": "20-105",
+              "heading": "Duty on Striking Unattended Vehicle or Other Property"
+            },
+            {
+              "id": "section-20-1051",
+              "number": "20-105.1",
+              "heading": "Information in Addition to That Required by 20-104 and 20-105"
+            },
+            {
+              "id": "section-20-106",
+              "number": "20-106",
+              "heading": "Duty on Striking Domestic Animal"
+            },
+            {
+              "id": "section-20-107",
+              "number": "20-107",
+              "heading": "Written Accident Report by Drivers and Owners"
+            },
+            {
+              "id": "section-20-108",
+              "number": "20-108",
+              "heading": "False Reports Prohibited"
+            },
+            {
+              "id": "section-20-109",
+              "number": "20-109",
+              "heading": "Administrative Penalty for Violation of Reporting Requirements"
+            },
+            {
+              "id": "section-20-113",
+              "number": "20-113",
+              "heading": "Accident Report Forms"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-27-vehicle-laws-penalties-disposition-of-fines-and-for",
+          "number": "title-27-vehicle-laws-penalties-disposition-of-fines-and-for",
+          "heading": "Title 27 Vehicle Laws Penalties Disposition Of Fines And For",
+          "section_count": 4,
+          "children": [
+            {
+              "id": "section-27-101",
+              "number": "27-101",
+              "heading": "Misdemeanor -- Penalties; ExceptionsSection 27-102 - Misdemeanor -- Violation of License Restriction or RegulationSection 27-103 - Payment of Outstanding Fines -- NoticeSection 27-104 - Reimbursement of Forfeited Bond or Collateral"
+            },
+            {
+              "id": "section-27-102",
+              "number": "27-102",
+              "heading": "Misdemeanor -- Violation of License Restriction or Regulation"
+            },
+            {
+              "id": "section-27-103",
+              "number": "27-103",
+              "heading": "Payment of Outstanding Fines -- Notice"
+            },
+            {
+              "id": "section-27-104",
+              "number": "27-104",
+              "heading": "Reimbursement of Forfeited Bond or Collateral"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

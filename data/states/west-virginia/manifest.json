@@ -1,0 +1,28 @@
+{
+  "state": "west-virginia",
+  "state_abbr": "WV",
+  "code_name": "West Virginia Code",
+  "source": "official_website",
+  "source_url": "https://code.wvlegislature.gov",
+  "last_updated": "2026-02-11T13:32:16.286734+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "chapter",
+      "label": "Chapter"
+    },
+    {
+      "level": "article",
+      "label": "Article"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 62,
+    "chapters": 62,
+    "sections": 27933
+  }
+}

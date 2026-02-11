@@ -1,0 +1,28 @@
+{
+  "state": "new-hampshire",
+  "state_abbr": "NH",
+  "code_name": "New Hampshire Revised Statutes",
+  "source": "official_website",
+  "source_url": "https://gc.nh.gov/rsa/html/NHTOC.htm",
+  "last_updated": "2026-02-11T13:15:08.269042+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "title",
+      "label": "Title"
+    },
+    {
+      "level": "chapter",
+      "label": "Chapter"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 65,
+    "chapters": 1317,
+    "sections": 28435
+  }
+}

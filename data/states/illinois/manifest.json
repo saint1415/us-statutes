@@ -1,0 +1,28 @@
+{
+  "state": "illinois",
+  "state_abbr": "IL",
+  "code_name": "Illinois Compiled Statutes",
+  "source": "official_website",
+  "source_url": "https://www.ilga.gov/legislation/ilcs/ilcs.asp",
+  "last_updated": "2026-02-11T13:09:13.450778+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "chapter",
+      "label": "Chapter"
+    },
+    {
+      "level": "act",
+      "label": "Act"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 68,
+    "chapters": 2749,
+    "sections": 38478
+  }
+}

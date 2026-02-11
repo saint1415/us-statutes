@@ -1,0 +1,28 @@
+{
+  "state": "kansas",
+  "state_abbr": "KS",
+  "code_name": "Kansas Statutes",
+  "source": "official_website",
+  "source_url": "https://www.kslegislature.org/li/b2025_26/statute",
+  "last_updated": "2026-02-11T13:08:16.658516+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "chapter",
+      "label": "Chapter"
+    },
+    {
+      "level": "article",
+      "label": "Article"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 85,
+    "chapters": 1557,
+    "sections": 28210
+  }
+}

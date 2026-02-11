@@ -1,0 +1,28 @@
+{
+  "state": "mississippi",
+  "state_abbr": "MS",
+  "code_name": "Mississippi Code",
+  "source": "official_website",
+  "source_url": "https://law.justia.com/codes/mississippi",
+  "last_updated": "2026-02-11T13:11:57.537312+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "title",
+      "label": "Title"
+    },
+    {
+      "level": "chapter",
+      "label": "Chapter"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 50,
+    "chapters": 1063,
+    "sections": 11829
+  }
+}

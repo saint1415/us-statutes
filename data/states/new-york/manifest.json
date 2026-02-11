@@ -1,0 +1,28 @@
+{
+  "state": "new-york",
+  "state_abbr": "NY",
+  "code_name": "New York Consolidated Laws",
+  "source": "official_website",
+  "source_url": "https://legislation.nysenate.gov/api/3",
+  "last_updated": "2026-02-11T13:18:37.891400+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "law",
+      "label": "Law"
+    },
+    {
+      "level": "article",
+      "label": "Article"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 125,
+    "chapters": 369,
+    "sections": 6649
+  }
+}

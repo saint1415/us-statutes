@@ -1,0 +1,28 @@
+{
+  "state": "kentucky",
+  "state_abbr": "KY",
+  "code_name": "Kentucky Revised Statutes",
+  "source": "official_website",
+  "source_url": "https://apps.legislature.ky.gov/law/statutes/index.aspx",
+  "last_updated": "2026-02-11T13:08:56.056723+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "title",
+      "label": "Title"
+    },
+    {
+      "level": "chapter",
+      "label": "Chapter"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 202,
+    "chapters": 203,
+    "sections": 4442
+  }
+}

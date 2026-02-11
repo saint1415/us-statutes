@@ -1,0 +1,32 @@
+{
+  "state": "district-of-columbia",
+  "state_abbr": "DC",
+  "code_name": "District of Columbia Official Code",
+  "source": "dc_council",
+  "source_url": "https://github.com/DCCouncil/law-xml-codified",
+  "last_updated": "2026-02-09T21:58:03.208132+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "division",
+      "label": "Division"
+    },
+    {
+      "level": "title",
+      "label": "Title"
+    },
+    {
+      "level": "chapter",
+      "label": "Chapter"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 54,
+    "chapters": 835,
+    "sections": 24086
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "state": "oklahoma",
+  "state_abbr": "OK",
+  "code_name": "Oklahoma Statutes",
+  "source": "official_website",
+  "source_url": "https://www.oscn.net/applications/oscn/index.asp?ftdb=STOKST&level=1",
+  "last_updated": "2026-02-11T14:02:50.902300+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "title",
+      "label": "Title"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 89,
+    "chapters": 574,
+    "sections": 96076
+  }
+}

@@ -1,0 +1,863 @@
+{
+  "state": "texas",
+  "children": [
+    {
+      "id": "title-auxiliary-water-laws",
+      "number": "auxiliary-water-laws",
+      "heading": "Auxiliary Water Laws",
+      "children": [
+        {
+          "id": "chapter-chapter-1-use-of-state-water",
+          "number": "chapter-1-use-of-state-water",
+          "heading": "Chapter 1 Use Of State Water",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-7621f",
+              "number": "7621f.",
+              "heading": "Sale or Disposal of Salt Water for Pollution Control"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-11-in-general",
+          "number": "chapter-11-in-general",
+          "heading": "Chapter 11 In General",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-8280-13",
+              "number": "8280-13.",
+              "heading": "Flood Insurance;  Participation in Federal Program by Political Subdivisions"
+            }
+          ]
+        },
+        {
+          "id": "chapter-chapter-3-water-control-and-preservation-districts",
+          "number": "chapter-3-water-control-and-preservation-districts",
+          "heading": "Chapter 3 Water Control And Preservation Districts",
+          "section_count": 67,
+          "children": [
+            {
+              "id": "section-7808",
+              "number": "7808.",
+              "heading": "May EstablishArticle 7809. PurposesArticle 7810"
+            },
+            {
+              "id": "section-7809",
+              "number": "7809.",
+              "heading": "Purposes"
+            },
+            {
+              "id": "section-7810",
+              "number": "7810.",
+              "heading": "Powers"
+            },
+            {
+              "id": "section-7811",
+              "number": "7811.",
+              "heading": "Petition"
+            },
+            {
+              "id": "section-7812",
+              "number": "7812.",
+              "heading": "Contingent Deposit"
+            },
+            {
+              "id": "section-7813",
+              "number": "7813.",
+              "heading": "Notice of Hearing"
+            },
+            {
+              "id": "section-7814",
+              "number": "7814.",
+              "heading": "Hearing"
+            },
+            {
+              "id": "section-7815",
+              "number": "7815.",
+              "heading": "Hearing:  Authority of Court"
+            },
+            {
+              "id": "section-7816",
+              "number": "7816.",
+              "heading": "Findings"
+            },
+            {
+              "id": "section-7817",
+              "number": "7817.",
+              "heading": "May Renew Petition"
+            },
+            {
+              "id": "section-7819",
+              "number": "7819.",
+              "heading": "Appeal:  Proceedings"
+            },
+            {
+              "id": "section-7820",
+              "number": "7820.",
+              "heading": "Election Order"
+            },
+            {
+              "id": "section-7821",
+              "number": "7821.",
+              "heading": "Notice of Election"
+            },
+            {
+              "id": "section-7822",
+              "number": "7822.",
+              "heading": "Ballot"
+            },
+            {
+              "id": "section-7823",
+              "number": "7823.",
+              "heading": "Election:  Conduct Of"
+            },
+            {
+              "id": "section-7824",
+              "number": "7824.",
+              "heading": "List of Voters"
+            },
+            {
+              "id": "section-7825",
+              "number": "7825.",
+              "heading": "Voter's Oath"
+            },
+            {
+              "id": "section-7826",
+              "number": "7826.",
+              "heading": "Taxpayer's Oath"
+            },
+            {
+              "id": "section-7827",
+              "number": "7827.",
+              "heading": "Results of Election"
+            },
+            {
+              "id": "section-7828",
+              "number": "7828.",
+              "heading": "Declaration of Result"
+            },
+            {
+              "id": "section-7829",
+              "number": "7829.",
+              "heading": "Board of Directors"
+            },
+            {
+              "id": "section-7830",
+              "number": "7830.",
+              "heading": "Combined District"
+            },
+            {
+              "id": "section-7831",
+              "number": "7831.",
+              "heading": "Combined District:  Declaration"
+            },
+            {
+              "id": "section-7832",
+              "number": "7832.",
+              "heading": "Combined District:  Hearing"
+            },
+            {
+              "id": "section-7833",
+              "number": "7833.",
+              "heading": "Combined District:  Directors"
+            },
+            {
+              "id": "section-7834",
+              "number": "7834.",
+              "heading": "Combined District:  Election"
+            },
+            {
+              "id": "section-7835",
+              "number": "7835.",
+              "heading": "Director's Bond and Oath"
+            },
+            {
+              "id": "section-7836",
+              "number": "7836.",
+              "heading": "County Officers:  Compensation"
+            },
+            {
+              "id": "section-7837",
+              "number": "7837.",
+              "heading": "Organization of Board"
+            },
+            {
+              "id": "section-7838",
+              "number": "7838.",
+              "heading": "Meetings"
+            },
+            {
+              "id": "section-7839",
+              "number": "7839.",
+              "heading": "Powers"
+            },
+            {
+              "id": "section-7840",
+              "number": "7840.",
+              "heading": "Powers:  Limitation"
+            },
+            {
+              "id": "section-7841",
+              "number": "7841.",
+              "heading": "Further Powers"
+            },
+            {
+              "id": "section-7842",
+              "number": "7842.",
+              "heading": "Official Bonds"
+            },
+            {
+              "id": "section-7843",
+              "number": "7843.",
+              "heading": "District Records"
+            },
+            {
+              "id": "section-7844",
+              "number": "7844.",
+              "heading": "Disbursements"
+            },
+            {
+              "id": "section-7845",
+              "number": "7845.",
+              "heading": "District Depository"
+            },
+            {
+              "id": "section-7846",
+              "number": "7846.",
+              "heading": "Audit and Report"
+            },
+            {
+              "id": "section-7847",
+              "number": "7847.",
+              "heading": "Status of District"
+            },
+            {
+              "id": "section-7848",
+              "number": "7848.",
+              "heading": "Suits Affecting District"
+            },
+            {
+              "id": "section-7849",
+              "number": "7849.",
+              "heading": "Property Rights"
+            },
+            {
+              "id": "section-7849a",
+              "number": "7849a.",
+              "heading": "Resisting Water Control Officer"
+            },
+            {
+              "id": "section-7850",
+              "number": "7850.",
+              "heading": "Eminent Domain"
+            },
+            {
+              "id": "section-7851",
+              "number": "7851.",
+              "heading": "District Engineer"
+            },
+            {
+              "id": "section-7852",
+              "number": "7852.",
+              "heading": "Federal Co-Operation"
+            },
+            {
+              "id": "section-7853",
+              "number": "7853.",
+              "heading": "Construction Contracts"
+            },
+            {
+              "id": "section-7854",
+              "number": "7854.",
+              "heading": "Supervision of Work"
+            },
+            {
+              "id": "section-7855",
+              "number": "7855.",
+              "heading": "Contract:  Payment"
+            },
+            {
+              "id": "section-7856",
+              "number": "7856.",
+              "heading": "Maintenance of District"
+            },
+            {
+              "id": "section-7857",
+              "number": "7857.",
+              "heading": "Joint Project"
+            },
+            {
+              "id": "section-7858",
+              "number": "7858.",
+              "heading": "Joint Action"
+            },
+            {
+              "id": "section-7859",
+              "number": "7859.",
+              "heading": "Issuance of Bonds"
+            },
+            {
+              "id": "section-7860",
+              "number": "7860.",
+              "heading": "Bonds:  Requisites"
+            },
+            {
+              "id": "section-7861",
+              "number": "7861.",
+              "heading": "Bonds:  Limit of Issue"
+            },
+            {
+              "id": "section-7862",
+              "number": "7862.",
+              "heading": "Bonds:  Record"
+            },
+            {
+              "id": "section-7863",
+              "number": "7863.",
+              "heading": "Change in Plans"
+            },
+            {
+              "id": "section-7864",
+              "number": "7864.",
+              "heading": "Additional Bonds"
+            },
+            {
+              "id": "section-7865",
+              "number": "7865.",
+              "heading": "Resolution"
+            },
+            {
+              "id": "section-7866",
+              "number": "7866.",
+              "heading": "Additional Bonds:  Requisites"
+            },
+            {
+              "id": "section-7867",
+              "number": "7867.",
+              "heading": "Additional Bonds:  Ballot"
+            },
+            {
+              "id": "section-7868",
+              "number": "7868.",
+              "heading": "Bonds:  Sale"
+            },
+            {
+              "id": "section-7869",
+              "number": "7869.",
+              "heading": "Construction and Maintenance Fund"
+            },
+            {
+              "id": "section-7870",
+              "number": "7870.",
+              "heading": "Tax Levy"
+            },
+            {
+              "id": "section-7871",
+              "number": "7871.",
+              "heading": "Assessment and Collection of Taxes"
+            },
+            {
+              "id": "section-7877",
+              "number": "7877.",
+              "heading": "Maintenance Tax"
+            },
+            {
+              "id": "section-7879",
+              "number": "7879.",
+              "heading": "Interest and Sinking Fund"
+            },
+            {
+              "id": "section-7880",
+              "number": "7880.",
+              "heading": "May Invest Sinking Fund"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title-vernons-civil-statutes",
+      "number": "vernons-civil-statutes",
+      "heading": "Vernons Civil Statutes",
+      "children": [
+        {
+          "id": "chapter-title-1-general-provisions",
+          "number": "title-1-general-provisions",
+          "heading": "Title 1 General Provisions",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-30",
+              "number": "30.",
+              "heading": "Revised Statutes Cited"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-103-parks",
+          "number": "title-103-parks",
+          "heading": "Title 103 Parks",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-6077h-3",
+              "number": "6077h-3.",
+              "heading": "Construction and Maintenance Work Within Park;  Force LaborArticle 6077o. Leasing for Oil and Gas"
+            },
+            {
+              "id": "section-6077o",
+              "number": "6077o.",
+              "heading": "Leasing for Oil and Gas"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-106-patriotism-and-the-flag",
+          "number": "title-106-patriotism-and-the-flag",
+          "heading": "Title 106 Patriotism And The Flag",
+          "section_count": 6,
+          "children": [
+            {
+              "id": "section-6143bb",
+              "number": "6143bb.",
+              "heading": "State Flower SongArticle 6144a"
+            },
+            {
+              "id": "section-6144a",
+              "number": "6144a.",
+              "heading": "Texas Week"
+            },
+            {
+              "id": "section-6144d",
+              "number": "6144d.",
+              "heading": "Texas Conservation and Beautification Week"
+            },
+            {
+              "id": "section-6145-4",
+              "number": "6145-4.",
+              "heading": "Old Galveston Quarter"
+            },
+            {
+              "id": "section-6145-11b",
+              "number": "6145-11b.",
+              "heading": "Sesquicentennial Fund"
+            },
+            {
+              "id": "section-6145-14a",
+              "number": "6145-14a.",
+              "heading": "Lone Star Medallions"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-108-penitentiaries",
+          "number": "title-108-penitentiaries",
+          "heading": "Title 108 Penitentiaries",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-6203f",
+              "number": "6203f.",
+              "heading": "Encouraging Cotton Farmers to Purchase Planting Seed From Department of CorrectionsArticle 6203g"
+            },
+            {
+              "id": "section-6203g",
+              "number": "6203g.",
+              "heading": "Agreement Authorized for Penitentiary System to Produce and Sell Farm Products to State Institutions"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-109-pensions",
+          "number": "title-109-pensions",
+          "heading": "Title 109 Pensions",
+          "section_count": 30,
+          "children": [
+            {
+              "id": "section-6228",
+              "number": "6228.",
+              "heading": "Mothers' AidArticle 6228a-5. Annuities or Investments for Certain Public Employees;  Salary ReductionsArticle 6228a-6"
+            },
+            {
+              "id": "section-6228a-5",
+              "number": "6228a-5.",
+              "heading": "Annuities or Investments for Certain Public Employees;  Salary Reductions"
+            },
+            {
+              "id": "section-6228a-6",
+              "number": "6228a-6.",
+              "heading": "Administration of Social Security Programs by Employees Retirement System"
+            },
+            {
+              "id": "section-6228d",
+              "number": "6228d.",
+              "heading": "Death Before Retirement Under County Retirement Systems"
+            },
+            {
+              "id": "section-6228h",
+              "number": "6228h.",
+              "heading": "Assumption of Pension Liabilities of Participating Subdivision by Annexing Governmental Entity"
+            },
+            {
+              "id": "section-6228j",
+              "number": "6228j.",
+              "heading": "Retirement, Disability and Death Benefit Systems for Appointive County Employees"
+            },
+            {
+              "id": "section-6243a-1",
+              "number": "6243a-1.",
+              "heading": "Pension System for Police Officers and Firefighters in Certain Cities"
+            },
+            {
+              "id": "section-6243b",
+              "number": "6243b.",
+              "heading": "Firemen and Policemen Pension Fund in Cities of 500,000 to 600,000"
+            },
+            {
+              "id": "section-6243c",
+              "number": "6243c.",
+              "heading": "Validating Elections for Pensions in Cities of Over 10,000"
+            },
+            {
+              "id": "section-6243d",
+              "number": "6243d.",
+              "heading": "Pensions in Cities of 290,000 or Over"
+            },
+            {
+              "id": "section-6243d-1",
+              "number": "6243d-1.",
+              "heading": "Policemen's Relief and Retirement Fund"
+            },
+            {
+              "id": "section-6243e",
+              "number": "6243e.",
+              "heading": "Texas Local Fire Fighters Retirement Act"
+            },
+            {
+              "id": "section-6243e1",
+              "number": "6243e.1.",
+              "heading": "Firefighters Relief and Retirement Fund in Cities of 450,000 to 500,000"
+            },
+            {
+              "id": "section-6243e",
+              "number": "6243e",
+              "heading": "2(1). Firefighters' Relief and Retirement Fund in Municipalities of at Least 1,600,000 Population"
+            },
+            {
+              "id": "section-6243e-2",
+              "number": "6243e-2.",
+              "heading": "Firemen's Pensions in Cities of 350,000 to 400,000"
+            },
+            {
+              "id": "section-6243e-3",
+              "number": "6243e-3.",
+              "heading": "Firemen's Death and Disability Benefits;  Heart or Lung Disease"
+            },
+            {
+              "id": "section-6243f-1",
+              "number": "6243f-1.",
+              "heading": "Involuntary Retirement of Fire Fighters in Cities of 400,000 to 450,000;  Age;  Disability"
+            },
+            {
+              "id": "section-6243g-4",
+              "number": "6243g-4.",
+              "heading": "Police Officers Pension System in Certain Municipalities"
+            },
+            {
+              "id": "section-6243h",
+              "number": "6243h.",
+              "heading": "Municipal Pension System in Cities of 1,500,000 or More"
+            },
+            {
+              "id": "section-6243h-2",
+              "number": "6243h-2.",
+              "heading": "Boards of Trustees of Municipal Utilities or Property;  Application of Municipal Retirement System"
+            },
+            {
+              "id": "section-6243i",
+              "number": "6243i.",
+              "heading": "Unitary Retirement System for Certain Municipalities"
+            },
+            {
+              "id": "section-6243j",
+              "number": "6243j.",
+              "heading": "Police Officers' Pension System in Cities of 50,000 to 400,000"
+            },
+            {
+              "id": "section-6243k",
+              "number": "6243k.",
+              "heading": "Retirement, Disability and Death Benefit Systems for Appointive City or Town Employees"
+            },
+            {
+              "id": "section-6243l",
+              "number": "6243l.",
+              "heading": "Separate Retirement System for Police Department Employees in Cities of 250,000 or More"
+            },
+            {
+              "id": "section-6243m",
+              "number": "6243m.",
+              "heading": "Contributions and Benefits;  Certain Municipal Retirement Systems or Death Benefit Programs"
+            },
+            {
+              "id": "section-6243n",
+              "number": "6243n.",
+              "heading": "Municipal Retirement System in Municipalities of 460,000 to 500,000"
+            },
+            {
+              "id": "section-6243n-1",
+              "number": "6243n-1.",
+              "heading": "Police Officers Retirement System in Municipalities of 460,000 to 500,000"
+            },
+            {
+              "id": "section-6243o",
+              "number": "6243o.",
+              "heading": "Police and Fire Fighter Retirement System in Municipalities of 750,000 to 1,000,000"
+            },
+            {
+              "id": "section-6243p",
+              "number": "6243p.",
+              "heading": "Police Retirement Fund in Municipalities of 50,000 to 400,000"
+            },
+            {
+              "id": "section-6243q",
+              "number": "6243q.",
+              "heading": "Retirement Health Trust for Firefighters and Police Officers"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-34-county-finances",
+          "number": "title-34-county-finances",
+          "heading": "Title 34 County Finances",
+          "section_count": 3,
+          "children": [
+            {
+              "id": "section-1676a",
+              "number": "1676a.",
+              "heading": "Auditors in Certain Counties:  Duties, Powers, ReportsArticle 1676b"
+            },
+            {
+              "id": "section-1676b",
+              "number": "1676b.",
+              "heading": "Auditors in Counties of 83,000 to 83,350 Having Navigation Districts and Other Districts"
+            },
+            {
+              "id": "section-1677",
+              "number": "1677.",
+              "heading": "Governmental Acts and Proceedings of Counties Affected by Hurricane Ike"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-44-courts-commissioners",
+          "number": "title-44-courts-commissioners",
+          "heading": "Title 44 Courts Commissioners",
+          "section_count": 2,
+          "children": [
+            {
+              "id": "section-2353d",
+              "number": "2353d.",
+              "heading": "Local Option Elections in Certain Counties Respecting Annual Tax for Domestic Livestock Protective FundArticle 2372e"
+            },
+            {
+              "id": "section-2372e",
+              "number": "2372e.",
+              "heading": "Buildings for Canneries for Unemployment Relief"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-58-express-companies",
+          "number": "title-58-express-companies",
+          "heading": "Title 58 Express Companies",
+          "section_count": 7,
+          "children": [
+            {
+              "id": "section-3860",
+              "number": "3860.",
+              "heading": "Declared Common CarriersArticle 3861"
+            },
+            {
+              "id": "section-3861",
+              "number": "3861.",
+              "heading": "Regulation"
+            },
+            {
+              "id": "section-3862",
+              "number": "3862.",
+              "heading": "Penalty for Overcharge"
+            },
+            {
+              "id": "section-3863",
+              "number": "3863.",
+              "heading": "Powers of Commission"
+            },
+            {
+              "id": "section-3864",
+              "number": "3864.",
+              "heading": "General Office"
+            },
+            {
+              "id": "section-3865",
+              "number": "3865.",
+              "heading": "To Give Notice, Etc"
+            },
+            {
+              "id": "section-3866",
+              "number": "3866.",
+              "heading": "Penalty"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-6-amusements-public-houses-of",
+          "number": "title-6-amusements-public-houses-of",
+          "heading": "Title 6 Amusements Public Houses Of",
+          "section_count": 1,
+          "children": [
+            {
+              "id": "section-179e",
+              "number": "179e.",
+              "heading": "Texas Racing Act"
+            }
+          ]
+        },
+        {
+          "id": "chapter-title-66-free-passes-franks-and-transportation",
+          "number": "title-66-free-passes-franks-and-transportation",
+          "heading": "Title 66 Free Passes Franks And Transportation",
+          "section_count": 25,
+          "children": [
+            {
+              "id": "section-4005",
+              "number": "4005.",
+              "heading": "Free Passes ProhibitedArticle 4005a"
+            },
+            {
+              "id": "section-4005a",
+              "number": "4005a.",
+              "heading": "Free Pass Law"
+            },
+            {
+              "id": "section-4006",
+              "number": "4006.",
+              "heading": "Exceptions"
+            },
+            {
+              "id": "section-4006a",
+              "number": "4006a.",
+              "heading": "Exceptions"
+            },
+            {
+              "id": "section-4006b",
+              "number": "4006b.",
+              "heading": "Using Another's Pass"
+            },
+            {
+              "id": "section-4006-a",
+              "number": "4006-A.",
+              "heading": "Free Transportation to Indian War Veterans"
+            },
+            {
+              "id": "section-4007",
+              "number": "4007.",
+              "heading": "Definitions"
+            },
+            {
+              "id": "section-4008",
+              "number": "4008.",
+              "heading": "Special Rates"
+            },
+            {
+              "id": "section-4008a",
+              "number": "4008a.",
+              "heading": "Aged, Blind or Disabled Persons;  Special Rates"
+            },
+            {
+              "id": "section-4008b",
+              "number": "4008b.",
+              "heading": "Street Railways"
+            },
+            {
+              "id": "section-4009",
+              "number": "4009.",
+              "heading": "Free Transportation"
+            },
+            {
+              "id": "section-4010",
+              "number": "4010.",
+              "heading": "Advertising"
+            },
+            {
+              "id": "section-4011",
+              "number": "4011.",
+              "heading": "Discrimination as to Persons"
+            },
+            {
+              "id": "section-4012",
+              "number": "4012.",
+              "heading": "Evidence of Authority"
+            },
+            {
+              "id": "section-4013",
+              "number": "4013.",
+              "heading": "Discrimination by Device"
+            },
+            {
+              "id": "section-4013a",
+              "number": "4013a.",
+              "heading": "Discrimination by Device"
+            },
+            {
+              "id": "section-4014",
+              "number": "4014.",
+              "heading": "Reports, Etc"
+            },
+            {
+              "id": "section-4015",
+              "number": "4015.",
+              "heading": "Penalty"
+            },
+            {
+              "id": "section-4015a",
+              "number": "4015a.",
+              "heading": "Unlawfully Using Free Pass"
+            },
+            {
+              "id": "section-4015b",
+              "number": "4015b.",
+              "heading": "Evading Law"
+            },
+            {
+              "id": "section-4015c",
+              "number": "4015c.",
+              "heading": "May Be Compelled to Testify"
+            },
+            {
+              "id": "section-4015d",
+              "number": "4015d.",
+              "heading": "Reduced Rate for Officers"
+            },
+            {
+              "id": "section-4015e",
+              "number": "4015e.",
+              "heading": "Collecting Fare From State or Political Subdivision by Officer or Employee Using Free Pass"
+            },
+            {
+              "id": "section-4015f",
+              "number": "4015f.",
+              "heading": "Preference in Transportation"
+            },
+            {
+              "id": "section-4015g",
+              "number": "4015g.",
+              "heading": "Suits for Penalty"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

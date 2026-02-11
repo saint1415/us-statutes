@@ -1,0 +1,24 @@
+{
+  "state": "oregon",
+  "state_abbr": "OR",
+  "code_name": "Oregon Revised Statutes",
+  "source": "official_website",
+  "source_url": "https://www.oregonlegislature.gov/bills_laws/Pages/ORS.aspx",
+  "last_updated": "2026-02-11T13:20:17.531797+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "chapter",
+      "label": "Chapter"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 259,
+    "chapters": 259,
+    "sections": 2399
+  }
+}

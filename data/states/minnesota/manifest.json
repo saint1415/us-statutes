@@ -1,0 +1,24 @@
+{
+  "state": "minnesota",
+  "state_abbr": "MN",
+  "code_name": "Minnesota Statutes",
+  "source": "official_website",
+  "source_url": "https://www.revisor.mn.gov/statutes",
+  "last_updated": "2026-02-11T13:11:26.903268+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "chapter",
+      "label": "Chapter"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 103,
+    "chapters": 1133,
+    "sections": 1179
+  }
+}

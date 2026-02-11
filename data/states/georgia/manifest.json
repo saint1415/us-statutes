@@ -1,0 +1,28 @@
+{
+  "state": "georgia",
+  "state_abbr": "GA",
+  "code_name": "Official Code of Georgia Annotated",
+  "source": "official_website",
+  "source_url": "https://law.justia.com/codes/georgia",
+  "last_updated": "2026-02-11T13:05:02.055661+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "title",
+      "label": "Title"
+    },
+    {
+      "level": "chapter",
+      "label": "Chapter"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 52,
+    "chapters": 893,
+    "sections": 7551
+  }
+}

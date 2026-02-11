@@ -1,0 +1,24 @@
+{
+  "state": "new-jersey",
+  "state_abbr": "NJ",
+  "code_name": "New Jersey Statutes",
+  "source": "official_website",
+  "source_url": "https://law.justia.com/codes/new-jersey",
+  "last_updated": "2026-02-11T14:09:14.149899+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "title",
+      "label": "Title"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 69,
+    "chapters": 385,
+    "sections": 111017
+  }
+}

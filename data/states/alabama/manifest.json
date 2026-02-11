@@ -1,0 +1,28 @@
+{
+  "state": "alabama",
+  "state_abbr": "AL",
+  "code_name": "Code of Alabama",
+  "source": "official_website",
+  "source_url": "https://alisondb.legislature.state.al.us/alison/CodeOfAlabama/1975",
+  "last_updated": "2026-02-11T13:03:41.230030+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "title",
+      "label": "Title"
+    },
+    {
+      "level": "chapter",
+      "label": "Chapter"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 44,
+    "chapters": 1236,
+    "sections": 13699
+  }
+}

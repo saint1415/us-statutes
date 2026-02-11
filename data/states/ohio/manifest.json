@@ -1,0 +1,28 @@
+{
+  "state": "ohio",
+  "state_abbr": "OH",
+  "code_name": "Ohio Revised Code",
+  "source": "official_website",
+  "source_url": "https://codes.ohio.gov/ohio-revised-code",
+  "last_updated": "2026-02-11T13:19:54.081308+00:00",
+  "year": 2024,
+  "structure": [
+    {
+      "level": "title",
+      "label": "Title"
+    },
+    {
+      "level": "chapter",
+      "label": "Chapter"
+    },
+    {
+      "level": "section",
+      "label": "Section"
+    }
+  ],
+  "stats": {
+    "titles": 34,
+    "chapters": 975,
+    "sections": 3521
+  }
+}
