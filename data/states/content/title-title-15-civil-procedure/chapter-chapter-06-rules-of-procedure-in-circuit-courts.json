@@ -1,0 +1,806 @@
+{
+  "state": "south-dakota",
+  "path": "title-title-15-civil-procedure/chapter-chapter-06-rules-of-procedure-in-circuit-courts",
+  "sections": [
+    {
+      "id": "section-15-6-1",
+      "number": "15-6-1",
+      "heading": "Scope of Chapter.Section 15-6-2 - One form of action",
+      "text": "Section 15-6-3 - Commencement of action.Section 15-6-4(a) - Summons--Form.Section 15-6-4(b) - Summons served without complaint.Section 15-6-4(c) - By whom summons served.Section 15-6-4(d) - Personal service of summons.Section 15-6-4(e) - Service b",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-2",
+      "number": "15-6-2",
+      "heading": "One form of action.",
+      "text": "One form of action.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-3",
+      "number": "15-6-3",
+      "heading": "Commencement of action.",
+      "text": "Commencement of action.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6",
+      "number": "15-6",
+      "heading": "4(a) - Summons--Form.",
+      "text": "4(a) - Summons--Form.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-6",
+      "number": "15-6-6",
+      "heading": "15-6-6.Time",
+      "text": "15-6-6.Time",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-7",
+      "number": "15-6-7",
+      "heading": "15-6-7.Pleadings allowed--form of motions",
+      "text": "15-6-7.Pleadings allowed--form of motions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-8",
+      "number": "15-6-8",
+      "heading": "15-6-8.General rules of pleading",
+      "text": "15-6-8.General rules of pleading",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-9",
+      "number": "15-6-9",
+      "heading": "15-6-9.Pleading special matters",
+      "text": "15-6-9.Pleading special matters",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-10",
+      "number": "15-6-10",
+      "heading": "15-6-10.Form of pleadings",
+      "text": "15-6-10.Form of pleadings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-11",
+      "number": "15-6-11",
+      "heading": "15-6-11.Signing of Pleadings",
+      "text": "15-6-11.Signing of Pleadings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-12",
+      "number": "15-6-12",
+      "heading": "15-6-12.Defenses and objections",
+      "text": "15-6-12.Defenses and objections",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-13",
+      "number": "15-6-13",
+      "heading": "15-6-13.Counterclaim and cross-claim",
+      "text": "15-6-13.Counterclaim and cross-claim",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-14",
+      "number": "15-6-14",
+      "heading": "15-6-14.Third-party practice",
+      "text": "15-6-14.Third-party practice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-15",
+      "number": "15-6-15",
+      "heading": "15-6-15.Amended and supplemental pleadings",
+      "text": "15-6-15.Amended and supplemental pleadings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-16",
+      "number": "15-6-16",
+      "heading": "Pretrial procedure--Formulating issues.",
+      "text": "Pretrial procedure--Formulating issues.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-17",
+      "number": "15-6-17",
+      "heading": "15-6-17.Parties plaintiff and defendant--capacity",
+      "text": "15-6-17.Parties plaintiff and defendant--capacity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-18",
+      "number": "15-6-18",
+      "heading": "15-6-18.Joinder of claims and remedies",
+      "text": "15-6-18.Joinder of claims and remedies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-19",
+      "number": "15-6-19",
+      "heading": "15-6-19.Joinder of persons needed for just adjudication",
+      "text": "15-6-19.Joinder of persons needed for just adjudication",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-20",
+      "number": "15-6-20",
+      "heading": "15-6-20.Permissive joinder of parties",
+      "text": "15-6-20.Permissive joinder of parties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-21",
+      "number": "15-6-21",
+      "heading": "Misjoinder and nonjoinder of parties.",
+      "text": "Misjoinder and nonjoinder of parties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-22",
+      "number": "15-6-22",
+      "heading": "Interpleader.",
+      "text": "Interpleader.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-23",
+      "number": "15-6-23",
+      "heading": "15-6-23.Class actions",
+      "text": "15-6-23.Class actions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-231",
+      "number": "15-6-23.1",
+      "heading": "Derivative actions by unincorporated associations.",
+      "text": "Derivative actions by unincorporated associations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-232",
+      "number": "15-6-23.2",
+      "heading": "Actions relating to unincorporated associations.",
+      "text": "Actions relating to unincorporated associations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-24",
+      "number": "15-6-24",
+      "heading": "15-6-24.Intervention",
+      "text": "15-6-24.Intervention",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-25",
+      "number": "15-6-25",
+      "heading": "15-6-25.Substitution of parties",
+      "text": "15-6-25.Substitution of parties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-251",
+      "number": "15-6-25.1",
+      "heading": "Dismissal of parties--Subsequent pleadings.",
+      "text": "Dismissal of parties--Subsequent pleadings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-26",
+      "number": "15-6-26",
+      "heading": "15-6-26.--Discovery pending action",
+      "text": "15-6-26.--Discovery pending action",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-27",
+      "number": "15-6-27",
+      "heading": "15-6-27.Depositions before action or pending appeal",
+      "text": "15-6-27.Depositions before action or pending appeal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-28",
+      "number": "15-6-28",
+      "heading": "15-6-28.Persons before whom depositions may be taken",
+      "text": "15-6-28.Persons before whom depositions may be taken",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-281",
+      "number": "15-6-28.1",
+      "heading": "Interstate depositions and discovery.",
+      "text": "Interstate depositions and discovery.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-282",
+      "number": "15-6-28.2",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-283",
+      "number": "15-6-28.3",
+      "heading": "Issuance of subpoena for interstate depositions and discovery.",
+      "text": "Issuance of subpoena for interstate depositions and discovery.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-284",
+      "number": "15-6-28.4",
+      "heading": "Service of subpoena for interstate depositions and discovery.",
+      "text": "Service of subpoena for interstate depositions and discovery.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-285",
+      "number": "15-6-28.5",
+      "heading": "Deposition, production, inspection, witness fees, expenses, place of examination, attendance where required.",
+      "text": "Deposition, production, inspection, witness fees, expenses, place of examination, attendance where required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-286",
+      "number": "15-6-28.6",
+      "heading": "Application to court.",
+      "text": "Application to court.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-29",
+      "number": "15-6-29",
+      "heading": "Stipulations regarding the taking of depositions.",
+      "text": "Stipulations regarding the taking of depositions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-30",
+      "number": "15-6-30",
+      "heading": "15-6-30.Depositions upon oral examinations",
+      "text": "15-6-30.Depositions upon oral examinations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-31",
+      "number": "15-6-31",
+      "heading": "15-6-31.--Depositions of witnesses upon written interrogatories",
+      "text": "15-6-31.--Depositions of witnesses upon written interrogatories",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-32",
+      "number": "15-6-32",
+      "heading": "15-6-32.Effect of errors and irregularities in depositions",
+      "text": "15-6-32.Effect of errors and irregularities in depositions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-33",
+      "number": "15-6-33",
+      "heading": "15-6-33.Interrogatories to parties",
+      "text": "15-6-33.Interrogatories to parties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-34",
+      "number": "15-6-34",
+      "heading": "15-6-34.Discovery and production of documents and things for inspection, copying, or photographing",
+      "text": "15-6-34.Discovery and production of documents and things for inspection, copying, or photographing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-35",
+      "number": "15-6-35",
+      "heading": "15-6-35.Physical and mental examinations and blood tests of persons",
+      "text": "15-6-35.Physical and mental examinations and blood tests of persons",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-36",
+      "number": "15-6-36",
+      "heading": "15-6-36.Admission of facts and of genuineness of documents",
+      "text": "15-6-36.Admission of facts and of genuineness of documents",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-37",
+      "number": "15-6-37",
+      "heading": "15-6-37.Refusal to make discovery--consequences",
+      "text": "15-6-37.Refusal to make discovery--consequences",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-38",
+      "number": "15-6-38",
+      "heading": "15-6-38.Jury trial of right",
+      "text": "15-6-38.Jury trial of right",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-39",
+      "number": "15-6-39",
+      "heading": "15-6-39.Trial by jury or by the court",
+      "text": "15-6-39.Trial by jury or by the court",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-40",
+      "number": "15-6-40",
+      "heading": "15-6-40.Assignment of cases for trial",
+      "text": "15-6-40.Assignment of cases for trial",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-41",
+      "number": "15-6-41",
+      "heading": "15-6-41.Dismissal of actions",
+      "text": "15-6-41.Dismissal of actions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-42",
+      "number": "15-6-42",
+      "heading": "15-6-42.Consolidation--separate trials",
+      "text": "15-6-42.Consolidation--separate trials",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-43",
+      "number": "15-6-43",
+      "heading": "15-6-43.Evidence",
+      "text": "15-6-43.Evidence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-44",
+      "number": "15-6-44",
+      "heading": "15-6-44.Proof of official record",
+      "text": "15-6-44.Proof of official record",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-441",
+      "number": "15-6-44.1",
+      "heading": "Determination of foreign law.",
+      "text": "Determination of foreign law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-45",
+      "number": "15-6-45",
+      "heading": "15-6-45.Subpoena",
+      "text": "15-6-45.Subpoena",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-46",
+      "number": "15-6-46",
+      "heading": "Exceptions unnecessary.",
+      "text": "Exceptions unnecessary.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-47",
+      "number": "15-6-47",
+      "heading": "15-6-47.Jurors",
+      "text": "15-6-47.Jurors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-48",
+      "number": "15-6-48",
+      "heading": "Juries of less than twelve--Majority verdict.",
+      "text": "Juries of less than twelve--Majority verdict.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-49",
+      "number": "15-6-49",
+      "heading": "15-6-49.Special verdicts and interrogatories",
+      "text": "15-6-49.Special verdicts and interrogatories",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-50",
+      "number": "15-6-50",
+      "heading": "15-6-50.Motion for a directed verdict and for judgment notwithstanding the verdict",
+      "text": "15-6-50.Motion for a directed verdict and for judgment notwithstanding the verdict",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-51",
+      "number": "15-6-51",
+      "heading": "15-6-51.Instructions to jury--objection",
+      "text": "15-6-51.Instructions to jury--objection",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-52",
+      "number": "15-6-52",
+      "heading": "15-6-52.Findings by the court",
+      "text": "15-6-52.Findings by the court",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-53",
+      "number": "15-6-53",
+      "heading": "15-6-53.Referees",
+      "text": "15-6-53.Referees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-54",
+      "number": "15-6-54",
+      "heading": "15-6-54.Judgments--costs",
+      "text": "15-6-54.Judgments--costs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-55",
+      "number": "15-6-55",
+      "heading": "15-6-55.Default",
+      "text": "15-6-55.Default",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-56",
+      "number": "15-6-56",
+      "heading": "15-6-56.Summary judgment",
+      "text": "15-6-56.Summary judgment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-57",
+      "number": "15-6-57",
+      "heading": "Declaratory judgments.",
+      "text": "Declaratory judgments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-58",
+      "number": "15-6-58",
+      "heading": "Entry of judgment and orders.",
+      "text": "Entry of judgment and orders.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-59",
+      "number": "15-6-59",
+      "heading": "15-6-59.New trials--Amendment of judgments",
+      "text": "15-6-59.New trials--Amendment of judgments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-60",
+      "number": "15-6-60",
+      "heading": "15-6-60.Relief from judgment or order",
+      "text": "15-6-60.Relief from judgment or order",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-61",
+      "number": "15-6-61",
+      "heading": "Harmless Error.",
+      "text": "Harmless Error.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-62",
+      "number": "15-6-62",
+      "heading": "15-6-62.Stay of proceedings to enforce a judgment",
+      "text": "15-6-62.Stay of proceedings to enforce a judgment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-63",
+      "number": "15-6-63",
+      "heading": "Disability of a judge.",
+      "text": "Disability of a judge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-64",
+      "number": "15-6-64",
+      "heading": "Seizure of person or property.",
+      "text": "Seizure of person or property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-65",
+      "number": "15-6-65",
+      "heading": "15-6-65.Injunctions and restraining orders",
+      "text": "15-6-65.Injunctions and restraining orders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-66",
+      "number": "15-6-66",
+      "heading": "Receivers.",
+      "text": "Receivers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-67",
+      "number": "15-6-67",
+      "heading": "15-6-67.Deposit in court",
+      "text": "15-6-67.Deposit in court",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-68",
+      "number": "15-6-68",
+      "heading": "Offer of Judgment.",
+      "text": "Offer of Judgment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-69",
+      "number": "15-6-69",
+      "heading": "Execution.",
+      "text": "Execution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-70",
+      "number": "15-6-70",
+      "heading": "Judgment for specific acts--Vesting title.",
+      "text": "Judgment for specific acts--Vesting title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-71",
+      "number": "15-6-71",
+      "heading": "Process in behalf of and against persons not parties.",
+      "text": "Process in behalf of and against persons not parties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-72",
+      "number": "15-6-72",
+      "heading": "Expedited civil actions--General provisions.",
+      "text": "Expedited civil actions--General provisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-721",
+      "number": "15-6-72.1",
+      "heading": "Local intergovernmental actions--Expedited action--Alternative dispute resolution.",
+      "text": "Local intergovernmental actions--Expedited action--Alternative dispute resolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-722",
+      "number": "15-6-72.2",
+      "heading": "Definition--Local government body.",
+      "text": "Definition--Local government body.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-73",
+      "number": "15-6-73",
+      "heading": "Discovery in expedited civil actions.",
+      "text": "Discovery in expedited civil actions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-74",
+      "number": "15-6-74",
+      "heading": "Motions.",
+      "text": "Motions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-75",
+      "number": "15-6-75",
+      "heading": "Procedure for expedited trials.",
+      "text": "Procedure for expedited trials.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-76",
+      "number": "15-6-76",
+      "heading": "Settlement conference--Alternative dispute resolution.",
+      "text": "Settlement conference--Alternative dispute resolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-761",
+      "number": "15-6-76.1",
+      "heading": "Claim preclusion--Issue preclusion.",
+      "text": "Claim preclusion--Issue preclusion.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-77",
+      "number": "15-6-77",
+      "heading": "15-6-77.Courts of record and clerks",
+      "text": "15-6-77.Courts of record and clerks",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-78",
+      "number": "15-6-78",
+      "heading": "15-6-78, 15-6-79.Reserved",
+      "text": "15-6-78, 15-6-79.Reserved",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-80",
+      "number": "15-6-80",
+      "heading": "Stenographic report or transcript as evidence.",
+      "text": "Stenographic report or transcript as evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-81",
+      "number": "15-6-81",
+      "heading": "15-6-81.Applicability",
+      "text": "15-6-81.Applicability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-82",
+      "number": "15-6-82",
+      "heading": "Jurisdiction and venue.",
+      "text": "Jurisdiction and venue.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-83",
+      "number": "15-6-83",
+      "heading": "Rules by courts of record.",
+      "text": "Rules by courts of record.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-84",
+      "number": "15-6-84",
+      "heading": "Forms.",
+      "text": "Forms.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-85",
+      "number": "15-6-85",
+      "heading": "Title.",
+      "text": "Title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-86",
+      "number": "15-6-86",
+      "heading": "Effective date.",
+      "text": "Effective date.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-b",
+      "number": "15-6-B",
+      "heading": "CIRCUIT COURT RULES (See §15-6-83)",
+      "text": "CIRCUIT COURT RULES (See §15-6-83)",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-c",
+      "number": "15-6-C",
+      "heading": "APPENDIX OF FORMS (See §15-6-84)",
+      "text": "APPENDIX OF FORMS (See §15-6-84)",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15-6-a",
+      "number": "15-6-A",
+      "heading": "SPECIAL PROCEEDINGS (See §15-6-81(a))",
+      "text": "SPECIAL PROCEEDINGS (See §15-6-81(a))",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

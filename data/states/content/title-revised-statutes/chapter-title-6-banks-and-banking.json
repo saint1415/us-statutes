@@ -1,0 +1,6478 @@
+{
+  "state": "louisiana",
+  "path": "title-revised-statutes/chapter-title-6-banks-and-banking",
+  "sections": [
+    {
+      "id": "section-61",
+      "number": "6:1.",
+      "heading": "Short title",
+      "text": "Short title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62",
+      "number": "6:2.",
+      "heading": "General definitions",
+      "text": "General definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63",
+      "number": "6:3.",
+      "heading": "Effect on existing banks",
+      "text": "Effect on existing banks",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-64",
+      "number": "6:4.",
+      "heading": "Employment reference; release of certain information",
+      "text": "Employment reference; release of certain information",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-65",
+      "number": "6:5.",
+      "heading": "Public policy",
+      "text": "Public policy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6101",
+      "number": "6:101.",
+      "heading": "Establishment of office; commissioner",
+      "text": "Establishment of office; commissioner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6102",
+      "number": "6:102.",
+      "heading": "Officers and employees; post-employment restriction",
+      "text": "Officers and employees; post-employment restriction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6103",
+      "number": "6:103.",
+      "heading": "Records of the Office of Financial Institutions",
+      "text": "Records of the Office of Financial Institutions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6121",
+      "number": "6:121.",
+      "heading": "Regulatory powers; promulgation of rules and regulations",
+      "text": "Regulatory powers; promulgation of rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61211",
+      "number": "6:121.1.",
+      "heading": "Enforcement powers of commissioner",
+      "text": "Enforcement powers of commissioner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612111",
+      "number": "6:121.1.1.",
+      "heading": "Restrictions on enforcement power; cannabis-related legitimate businesses and service providers; egregious violations",
+      "text": "Restrictions on enforcement power; cannabis-related legitimate businesses and service providers; egregious violations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61212",
+      "number": "6:121.2.",
+      "heading": "Authority to obtain criminal history record information",
+      "text": "Authority to obtain criminal history record information",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61213",
+      "number": "6:121.3.",
+      "heading": "Guidance by commissioner; advisory opinions",
+      "text": "Guidance by commissioner; advisory opinions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61214",
+      "number": "6:121.4.",
+      "heading": "Addition of directors and executive officers of troubled state- chartered institutions and holding companies",
+      "text": "Addition of directors and executive officers of troubled state- chartered institutions and holding companies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61215",
+      "number": "6:121.5.",
+      "heading": "Application containing false information or misrepresentations",
+      "text": "Application containing false information or misrepresentations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61216",
+      "number": "6:121.6.",
+      "heading": "Authority of the commissioner; nondepository institutions; emergencies",
+      "text": "Authority of the commissioner; nondepository institutions; emergencies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61217",
+      "number": "6:121.7.",
+      "heading": "Return of payment; imposition of fee",
+      "text": "Return of payment; imposition of fee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61218",
+      "number": "6:121.8.",
+      "heading": "Licensing systems",
+      "text": "Licensing systems",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6122",
+      "number": "6:122.",
+      "heading": "Power to issue cease and desist orders",
+      "text": "Power to issue cease and desist orders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6123",
+      "number": "6:123.",
+      "heading": "Visitation and examination of state financial institutions",
+      "text": "Visitation and examination of state financial institutions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6124",
+      "number": "6:124.",
+      "heading": "Call reports; statement of financial condition",
+      "text": "Call reports; statement of financial condition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61241",
+      "number": "6:124.1.",
+      "heading": "Community reinvestment rating; acceptance of public funds",
+      "text": "Community reinvestment rating; acceptance of public funds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6125",
+      "number": "6:125.",
+      "heading": "Reports of financial condition",
+      "text": "Reports of financial condition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6126",
+      "number": "6:126.",
+      "heading": "Assessments on financial institutions; disposition of fees; creation of special fund",
+      "text": "Assessments on financial institutions; disposition of fees; creation of special fund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6127",
+      "number": "6:127.",
+      "heading": "Retention of records of financial institutions; microfilm",
+      "text": "Retention of records of financial institutions; microfilm",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6128",
+      "number": "6:128.",
+      "heading": "Financial institutions' holidays; regulations",
+      "text": "Financial institutions' holidays; regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6129",
+      "number": "6:129.",
+      "heading": "Circulating rumor respecting condition of financial institution",
+      "text": "Circulating rumor respecting condition of financial institution",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6130",
+      "number": "6:130.",
+      "heading": "Relocation of main office",
+      "text": "Relocation of main office",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6131",
+      "number": "6:131.",
+      "heading": "Applicability",
+      "text": "Applicability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6132",
+      "number": "6:132.",
+      "heading": "Written decision; reasons; hearing",
+      "text": "Written decision; reasons; hearing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6133",
+      "number": "6:133.",
+      "heading": "Reconsideration of decision",
+      "text": "Reconsideration of decision",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6134",
+      "number": "6:134.",
+      "heading": "Judicial review; venue; effect",
+      "text": "Judicial review; venue; effect",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6135",
+      "number": "6:135.",
+      "heading": "Record filed with court",
+      "text": "Record filed with court",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6136",
+      "number": "6:136.",
+      "heading": "Basis for judicial review",
+      "text": "Basis for judicial review",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6137",
+      "number": "6:137.",
+      "heading": "Judicial review; test; burden",
+      "text": "Judicial review; test; burden",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6138",
+      "number": "6:138.",
+      "heading": "Remand to the commissioner",
+      "text": "Remand to the commissioner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201",
+      "number": "6:201.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6211",
+      "number": "6:211.",
+      "heading": "Incorporation; number of incorporators, application for certificate of authority, filing fee; organization as a limited liability company",
+      "text": "Incorporation; number of incorporators, application for certificate of authority, filing fee; organization as a limited liability company",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6212",
+      "number": "6:212.",
+      "heading": "Corporate name",
+      "text": "Corporate name",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6213",
+      "number": "6:213.",
+      "heading": "Articles of incorporation, filing, form, content; letter of acceptance for filing",
+      "text": "Articles of incorporation, filing, form, content; letter of acceptance for filing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6214",
+      "number": "6:214.",
+      "heading": "Investigation into proposed state bank",
+      "text": "Investigation into proposed state bank",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6215",
+      "number": "6:215.",
+      "heading": "Capital requirements; additional condition precedent",
+      "text": "Capital requirements; additional condition precedent",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6216",
+      "number": "6:216.",
+      "heading": "Certificate of authority; issuance, refusal",
+      "text": "Certificate of authority; issuance, refusal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6217",
+      "number": "6:217.",
+      "heading": "Effect of issuance of certificate of authority, filing requirements",
+      "text": "Effect of issuance of certificate of authority, filing requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6218",
+      "number": "6:218.",
+      "heading": "Expenses of organization and financing",
+      "text": "Expenses of organization and financing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6219",
+      "number": "6:219.",
+      "heading": "Bylaws",
+      "text": "Bylaws",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6220",
+      "number": "6:220.",
+      "heading": "Stockholders' agreements",
+      "text": "Stockholders' agreements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6231",
+      "number": "6:231.",
+      "heading": "Method of amending articles generally",
+      "text": "Method of amending articles generally",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6232",
+      "number": "6:232.",
+      "heading": "Articles of amendment; contents and filing",
+      "text": "Articles of amendment; contents and filing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6233",
+      "number": "6:233.",
+      "heading": "Restatement of articles",
+      "text": "Restatement of articles",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6234",
+      "number": "6:234.",
+      "heading": "Special amendment provisions",
+      "text": "Special amendment provisions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6721",
+      "number": "6:721.",
+      "heading": "Method of amending articles generally",
+      "text": "Method of amending articles generally",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6722",
+      "number": "6:722.",
+      "heading": "§§722 to 730 Repealed by Acts 1970, No. 234, §2.",
+      "text": "§§722 to 730 Repealed by Acts 1970, No. 234, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6241",
+      "number": "6:241.",
+      "heading": "General corporate powers",
+      "text": "General corporate powers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6242",
+      "number": "6:242.",
+      "heading": "Banking powers",
+      "text": "Banking powers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6243",
+      "number": "6:243.",
+      "heading": "Immovable property; dealings",
+      "text": "Immovable property; dealings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6244",
+      "number": "6:244.",
+      "heading": "Transfers by bank and other acts in contemplation of insolvency",
+      "text": "Transfers by bank and other acts in contemplation of insolvency",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6245",
+      "number": "6:245.",
+      "heading": "Changes in core business",
+      "text": "Changes in core business",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6246",
+      "number": "6:246.",
+      "heading": "Bank operating subsidiaries",
+      "text": "Bank operating subsidiaries",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6251",
+      "number": "6:251.",
+      "heading": "Classes of shares; fractional shares",
+      "text": "Classes of shares; fractional shares",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6252",
+      "number": "6:252.",
+      "heading": "Issuance of shares; consideration",
+      "text": "Issuance of shares; consideration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6253",
+      "number": "6:253.",
+      "heading": "Reservation of shares",
+      "text": "Reservation of shares",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6254",
+      "number": "6:254.",
+      "heading": "Convertible securities and stock-purchase rights",
+      "text": "Convertible securities and stock-purchase rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6255",
+      "number": "6:255.",
+      "heading": "Certificates of stock",
+      "text": "Certificates of stock",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6256",
+      "number": "6:256.",
+      "heading": "Transfer of shares",
+      "text": "Transfer of shares",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6257",
+      "number": "6:257.",
+      "heading": "Restriction on transfer of shares and other securities",
+      "text": "Restriction on transfer of shares and other securities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6261",
+      "number": "6:261.",
+      "heading": "Accounting procedures",
+      "text": "Accounting procedures",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6262",
+      "number": "6:262.",
+      "heading": "Impairment of capital; special meeting; notice to restore capital; assessments against stockholders; voluntary restoration",
+      "text": "Impairment of capital; special meeting; notice to restore capital; assessments against stockholders; voluntary restoration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6263",
+      "number": "6:263.",
+      "heading": "Dividends; stock purchased or redeemed; capital surplus required",
+      "text": "Dividends; stock purchased or redeemed; capital surplus required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6271",
+      "number": "6:271.",
+      "heading": "Stockholders' preemptive rights",
+      "text": "Stockholders' preemptive rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6272",
+      "number": "6:272.",
+      "heading": "Stockholders' meetings",
+      "text": "Stockholders' meetings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6273",
+      "number": "6:273.",
+      "heading": "Quorum",
+      "text": "Quorum",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6274",
+      "number": "6:274.",
+      "heading": "Voting of stockholders",
+      "text": "Voting of stockholders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6275",
+      "number": "6:275.",
+      "heading": "Consent of stockholders",
+      "text": "Consent of stockholders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6276",
+      "number": "6:276.",
+      "heading": "Fixing record date",
+      "text": "Fixing record date",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6277",
+      "number": "6:277.",
+      "heading": "Voting trusts",
+      "text": "Voting trusts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6278",
+      "number": "6:278.",
+      "heading": "Registered holder of shares",
+      "text": "Registered holder of shares",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6279",
+      "number": "6:279.",
+      "heading": "Inspection of books and records of state banks; annual report to stockholders",
+      "text": "Inspection of books and records of state banks; annual report to stockholders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6281",
+      "number": "6:281.",
+      "heading": "Board of directors; powers, number, term",
+      "text": "Board of directors; powers, number, term",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6282",
+      "number": "6:282.",
+      "heading": "Board of directors; eligibility, election, oath",
+      "text": "Board of directors; eligibility, election, oath",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6283",
+      "number": "6:283.",
+      "heading": "Meetings of the board; quorum, written consent",
+      "text": "Meetings of the board; quorum, written consent",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6284",
+      "number": "6:284.",
+      "heading": "Committees of the board of directors",
+      "text": "Committees of the board of directors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62841",
+      "number": "6:284.1.",
+      "heading": "Compliance review committees; privilege created",
+      "text": "Compliance review committees; privilege created",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6285",
+      "number": "6:285.",
+      "heading": "Officers and agents; election, powers, duties",
+      "text": "Officers and agents; election, powers, duties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6286",
+      "number": "6:286.",
+      "heading": "Indemnification of officers, directors, employees, and agents",
+      "text": "Indemnification of officers, directors, employees, and agents",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6287",
+      "number": "6:287.",
+      "heading": "Bond of officers and employees; insurance fund",
+      "text": "Bond of officers and employees; insurance fund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6288",
+      "number": "6:288.",
+      "heading": "Interested directors; quorum",
+      "text": "Interested directors; quorum",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6289",
+      "number": "6:289.",
+      "heading": "Loans to executive officers and employees",
+      "text": "Loans to executive officers and employees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6290",
+      "number": "6:290.",
+      "heading": "Directors' examinations",
+      "text": "Directors' examinations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6291",
+      "number": "6:291.",
+      "heading": "Relation and liability of directors and officers to bank and bank holding company stockholders",
+      "text": "Relation and liability of directors and officers to bank and bank holding company stockholders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6292",
+      "number": "6:292.",
+      "heading": "Directors or stockholders not participating in unlawful act",
+      "text": "Directors or stockholders not participating in unlawful act",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6293",
+      "number": "6:293.",
+      "heading": "Actions against directors and officers of banks and bank holding companies",
+      "text": "Actions against directors and officers of banks and bank holding companies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6301",
+      "number": "6:301.",
+      "heading": "Cash reserves",
+      "text": "Cash reserves",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6302",
+      "number": "6:302.",
+      "heading": "Depleted reserve; notice, penalty",
+      "text": "Depleted reserve; notice, penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6303",
+      "number": "6:303.",
+      "heading": "Sale and purchase of excess reserves; reports",
+      "text": "Sale and purchase of excess reserves; reports",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6311",
+      "number": "6:311.",
+      "heading": "Types of accounts authorized to offer",
+      "text": "Types of accounts authorized to offer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63111",
+      "number": "6:311.1.",
+      "heading": "Powers of attorney, procuration, and mandate; written notice of revocation",
+      "text": "Powers of attorney, procuration, and mandate; written notice of revocation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6312",
+      "number": "6:312.",
+      "heading": "Alternative deposits; payment",
+      "text": "Alternative deposits; payment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6313",
+      "number": "6:313.",
+      "heading": "Withdrawal of money or property deposited by or for minors",
+      "text": "Withdrawal of money or property deposited by or for minors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6314",
+      "number": "6:314.",
+      "heading": "Trust deposits; death of depositor; payment",
+      "text": "Trust deposits; death of depositor; payment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6315",
+      "number": "6:315.",
+      "heading": "Adverse claims to deposit; procedure, indemnifying bond",
+      "text": "Adverse claims to deposit; procedure, indemnifying bond",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63151",
+      "number": "6:315.1.",
+      "heading": "Transfer of small deposits; death of depositor; affidavits required; penalties",
+      "text": "Transfer of small deposits; death of depositor; affidavits required; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6316",
+      "number": "6:316.",
+      "heading": "Pledge of deposit accounts; rights and remedies",
+      "text": "Pledge of deposit accounts; rights and remedies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6317",
+      "number": "6:317.",
+      "heading": "Ownership of deposited funds",
+      "text": "Ownership of deposited funds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6318",
+      "number": "6:318.",
+      "heading": "Letters of credit; use by banks",
+      "text": "Letters of credit; use by banks",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6319",
+      "number": "6:319.",
+      "heading": "Public funds deposits",
+      "text": "Public funds deposits",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6321",
+      "number": "6:321.",
+      "heading": "Access to safety deposit box leased by multiple persons",
+      "text": "Access to safety deposit box leased by multiple persons",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6322",
+      "number": "6:322.",
+      "heading": "Access to safety deposit box leased by corporation or unincorporated association",
+      "text": "Access to safety deposit box leased by corporation or unincorporated association",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6323",
+      "number": "6:323.",
+      "heading": "Access to safety deposit box leased by trust estate",
+      "text": "Access to safety deposit box leased by trust estate",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6324",
+      "number": "6:324.",
+      "heading": "Access to safety deposit box leased by a person or persons with designated agent or deputy",
+      "text": "Access to safety deposit box leased by a person or persons with designated agent or deputy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6325",
+      "number": "6:325.",
+      "heading": "Death of a customer and access and transfer of contents of safety deposit boxes, money, and other property by bank to succession or estate representatives, legatees, or heirs; authority",
+      "text": "Death of a customer and access and transfer of contents of safety deposit boxes, money, and other property by bank to succession or estate representatives, legatees, or heirs; authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6326",
+      "number": "6:326.",
+      "heading": "Transfer of contents of safety deposit boxes, money and other property by bank to legal representatives of minors or interdicts; authority",
+      "text": "Transfer of contents of safety deposit boxes, money and other property by bank to legal representatives of minors or interdicts; authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6327",
+      "number": "6:327.",
+      "heading": "Abandonment of safety deposit box",
+      "text": "Abandonment of safety deposit box",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63271",
+      "number": "6:327.1.",
+      "heading": "Disposition of abandoned safety deposit box contents",
+      "text": "Disposition of abandoned safety deposit box contents",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6328",
+      "number": "6:328.",
+      "heading": "Access to safety deposit boxes by authorized persons; security procedures",
+      "text": "Access to safety deposit boxes by authorized persons; security procedures",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6331",
+      "number": "6:331.",
+      "heading": "REPEALED BY ACTS 1993, NO. 278, §1, EFF. JAN. 1, 1994.",
+      "text": "REPEALED BY ACTS 1993, NO. 278, §1, EFF. JAN. 1, 1994.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6332",
+      "number": "6:332.",
+      "heading": "Attorney fiduciary accounts; overdraft notification to office of disciplinary counsel",
+      "text": "Attorney fiduciary accounts; overdraft notification to office of disciplinary counsel",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6333",
+      "number": "6:333.",
+      "heading": "Disclosure of financial records; reimbursement of costs",
+      "text": "Disclosure of financial records; reimbursement of costs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6334",
+      "number": "6:334.",
+      "heading": "Foreclosure of mortgage",
+      "text": "Foreclosure of mortgage",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6335",
+      "number": "6:335.",
+      "heading": "Sharing of electronic financial terminals",
+      "text": "Sharing of electronic financial terminals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6336",
+      "number": "6:336.",
+      "heading": "Legal and regulatory compliance; self-evaluations; privilege of results",
+      "text": "Legal and regulatory compliance; self-evaluations; privilege of results",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6337",
+      "number": "6:337.",
+      "heading": "Duty of secured party upon payment of insurance claim for damage to mortgaged residential property",
+      "text": "Duty of secured party upon payment of insurance claim for damage to mortgaged residential property",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6338",
+      "number": "6:338.",
+      "heading": "Insurance settlement proceeds; return of excess funds; enforcement",
+      "text": "Insurance settlement proceeds; return of excess funds; enforcement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6341",
+      "number": "6:341.",
+      "heading": "Tender and acceptance of United States government gold and silver",
+      "text": "Tender and acceptance of United States government gold and silver",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6351",
+      "number": "6:351.",
+      "heading": "Authorization for mergers, consolidations, and share exchanges",
+      "text": "Authorization for mergers, consolidations, and share exchanges",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6352",
+      "number": "6:352.",
+      "heading": "Merger or consolidation procedure",
+      "text": "Merger or consolidation procedure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63521",
+      "number": "6:352.1.",
+      "heading": "Share exchange procedure",
+      "text": "Share exchange procedure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6353",
+      "number": "6:353.",
+      "heading": "Consolidation; articles of incorporation",
+      "text": "Consolidation; articles of incorporation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6354",
+      "number": "6:354.",
+      "heading": "When merger or consolidation effective",
+      "text": "When merger or consolidation effective",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6355",
+      "number": "6:355.",
+      "heading": "Effect of merger or consolidation",
+      "text": "Effect of merger or consolidation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6361",
+      "number": "6:361.",
+      "heading": "National bank converting into state bank",
+      "text": "National bank converting into state bank",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6362",
+      "number": "6:362.",
+      "heading": "State bank converting into national bank",
+      "text": "State bank converting into national bank",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6363",
+      "number": "6:363.",
+      "heading": "Continuation of corporate entity; use of old name",
+      "text": "Continuation of corporate entity; use of old name",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6364",
+      "number": "6:364.",
+      "heading": "State bank converting into state stock savings and loan association",
+      "text": "State bank converting into state stock savings and loan association",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63641",
+      "number": "6:364.1.",
+      "heading": "Approval of conversion; effective date of conversion",
+      "text": "Approval of conversion; effective date of conversion",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63642",
+      "number": "6:364.2.",
+      "heading": "Effect of conversion from state bank into state stock savings and loan association",
+      "text": "Effect of conversion from state bank into state stock savings and loan association",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6365",
+      "number": "6:365.",
+      "heading": "Federal or state stock savings and loan association converting into a state-chartered bank or savings bank",
+      "text": "Federal or state stock savings and loan association converting into a state-chartered bank or savings bank",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63651",
+      "number": "6:365.1.",
+      "heading": "Merger or conversion of an existing financial institution",
+      "text": "Merger or conversion of an existing financial institution",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6366",
+      "number": "6:366.",
+      "heading": "Voluntary transfer of assets",
+      "text": "Voluntary transfer of assets",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6367",
+      "number": "6:367.",
+      "heading": "Voluntary purchase of assets and liabilities",
+      "text": "Voluntary purchase of assets and liabilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6371",
+      "number": "6:371.",
+      "heading": "Voluntary liquidations and dissolutions of solvent banks with prior approval of commissioner",
+      "text": "Voluntary liquidations and dissolutions of solvent banks with prior approval of commissioner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6372",
+      "number": "6:372.",
+      "heading": "Liquidation procedure",
+      "text": "Liquidation procedure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6376",
+      "number": "6:376.",
+      "heading": "Rights of a stockholder dissenting from certain actions",
+      "text": "Rights of a stockholder dissenting from certain actions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6381",
+      "number": "6:381.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6382",
+      "number": "6:382.",
+      "heading": "Authority of commissioner to take possession and commence conservatorship of state bank",
+      "text": "Authority of commissioner to take possession and commence conservatorship of state bank",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6383",
+      "number": "6:383.",
+      "heading": "Transfer of title to bank assets; extension of prescriptive periods",
+      "text": "Transfer of title to bank assets; extension of prescriptive periods",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6384",
+      "number": "6:384.",
+      "heading": "Notice of conservatorship; effect",
+      "text": "Notice of conservatorship; effect",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6385",
+      "number": "6:385.",
+      "heading": "Conservator's power to manage and control bank",
+      "text": "Conservator's power to manage and control bank",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6386",
+      "number": "6:386.",
+      "heading": "Objection to conservatorship",
+      "text": "Objection to conservatorship",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6387",
+      "number": "6:387.",
+      "heading": "Decision to liquidate bank or terminate conservatorship",
+      "text": "Decision to liquidate bank or terminate conservatorship",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6391",
+      "number": "6:391.",
+      "heading": "Commencement of receivership; confirmation of receiver",
+      "text": "Commencement of receivership; confirmation of receiver",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392",
+      "number": "6:392.",
+      "heading": "Emergency sale of assets; purchase and assumption of assets",
+      "text": "Emergency sale of assets; purchase and assumption of assets",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6393",
+      "number": "6:393.",
+      "heading": "Notice to creditors and depositors",
+      "text": "Notice to creditors and depositors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6394",
+      "number": "6:394.",
+      "heading": "Payment of claims",
+      "text": "Payment of claims",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63941",
+      "number": "6:394.1.",
+      "heading": "Right of set-off",
+      "text": "Right of set-off",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6395",
+      "number": "6:395.",
+      "heading": "Distribution of assets",
+      "text": "Distribution of assets",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6396",
+      "number": "6:396.",
+      "heading": "Termination of executory contracts",
+      "text": "Termination of executory contracts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6397",
+      "number": "6:397.",
+      "heading": "Subrogation to rights of bank depositors",
+      "text": "Subrogation to rights of bank depositors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6398",
+      "number": "6:398.",
+      "heading": "Liquidation procedures involving trust assets",
+      "text": "Liquidation procedures involving trust assets",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6399",
+      "number": "6:399.",
+      "heading": "Destruction of records",
+      "text": "Destruction of records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6400",
+      "number": "6:400.",
+      "heading": "Discharge of receiver",
+      "text": "Discharge of receiver",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6401",
+      "number": "6:401.",
+      "heading": "Exclusive procedures",
+      "text": "Exclusive procedures",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6411",
+      "number": "6:411.",
+      "heading": "Engaging in business of banking without authority; penalty",
+      "text": "Engaging in business of banking without authority; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6412",
+      "number": "6:412.",
+      "heading": "Unauthorized use of the word \"bank\" or similar words",
+      "text": "Unauthorized use of the word \"bank\" or similar words",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-64121",
+      "number": "6:412.1.",
+      "heading": "Soliciting using lender's name or customer loan information; restrictions; injunction; damages; attorney fees; enforcement",
+      "text": "Soliciting using lender's name or customer loan information; restrictions; injunction; damages; attorney fees; enforcement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6413",
+      "number": "6:413.",
+      "heading": "Prohibited use of the term \"insured savings\"",
+      "text": "Prohibited use of the term \"insured savings\"",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6414",
+      "number": "6:414.",
+      "heading": "Use of certain terms by persons other than financial institutions prohibited",
+      "text": "Use of certain terms by persons other than financial institutions prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-64141",
+      "number": "6:414.1.",
+      "heading": "Derogatory statements regarding financial condition of financial institution prohibited; penalty",
+      "text": "Derogatory statements regarding financial condition of financial institution prohibited; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6415",
+      "number": "6:415.",
+      "heading": "Loans; other credit exposure; derivative transactions; restrictions; penalties",
+      "text": "Loans; other credit exposure; derivative transactions; restrictions; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6416",
+      "number": "6:416.",
+      "heading": "Loan on pledge of own stock and pledge of own stock prohibited",
+      "text": "Loan on pledge of own stock and pledge of own stock prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6417",
+      "number": "6:417.",
+      "heading": "Unlawful solicitation or acceptance of gratuity or compensation by officer, director, or employee",
+      "text": "Unlawful solicitation or acceptance of gratuity or compensation by officer, director, or employee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6418",
+      "number": "6:418.",
+      "heading": "Pledge of assets to secure deposits; exceptions; penalty",
+      "text": "Pledge of assets to secure deposits; exceptions; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6419",
+      "number": "6:419.",
+      "heading": "Receipt of deposits while insolvent",
+      "text": "Receipt of deposits while insolvent",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6420",
+      "number": "6:420.",
+      "heading": "False entries or reports; failure to exhibit books; reporting of criminal violations",
+      "text": "False entries or reports; failure to exhibit books; reporting of criminal violations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6421",
+      "number": "6:421.",
+      "heading": "Overdrafts",
+      "text": "Overdrafts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6422",
+      "number": "6:422.",
+      "heading": "Excessive borrowings or repurchase agreements",
+      "text": "Excessive borrowings or repurchase agreements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6423",
+      "number": "6:423.",
+      "heading": "Check-cashing facility; location of business limited",
+      "text": "Check-cashing facility; location of business limited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6451",
+      "number": "6:451.",
+      "heading": "Repealed by Acts 1991, No. 197, §1, eff. July 2, 1991.",
+      "text": "Repealed by Acts 1991, No. 197, §1, eff. July 2, 1991.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6452",
+      "number": "6:452.",
+      "heading": "Loan production offices; power of commissioner to adopt rules and regulations",
+      "text": "Loan production offices; power of commissioner to adopt rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6453",
+      "number": "6:453.",
+      "heading": "Deposit production offices; power of commissioner to adopt rules and regulations",
+      "text": "Deposit production offices; power of commissioner to adopt rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6454",
+      "number": "6:454.",
+      "heading": "Combination of loan production office, deposit production office, and electronic financial terminal",
+      "text": "Combination of loan production office, deposit production office, and electronic financial terminal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6501",
+      "number": "6:501.",
+      "heading": "Branch offices; authority",
+      "text": "Branch offices; authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6502",
+      "number": "6:502.",
+      "heading": "Repealed by Acts 1988, No. 39, §2, eff. June 10, 1988.",
+      "text": "Repealed by Acts 1988, No. 39, §2, eff. June 10, 1988.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6503",
+      "number": "6:503.",
+      "heading": "Repealed by Acts 1988, No. 39, §2, eff. June 10, 1988.",
+      "text": "Repealed by Acts 1988, No. 39, §2, eff. June 10, 1988.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6504",
+      "number": "6:504.",
+      "heading": "Branches in foreign countries",
+      "text": "Branches in foreign countries",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6505",
+      "number": "6:505.",
+      "heading": "Repealed by Acts 1988, No. 39, §2, eff. June 10, 1988.",
+      "text": "Repealed by Acts 1988, No. 39, §2, eff. June 10, 1988.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6506",
+      "number": "6:506.",
+      "heading": "Certificate of authority for branch office",
+      "text": "Certificate of authority for branch office",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6507",
+      "number": "6:507.",
+      "heading": "Closure of branch office",
+      "text": "Closure of branch office",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6511",
+      "number": "6:511.",
+      "heading": "Declaration of policy",
+      "text": "Declaration of policy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6512",
+      "number": "6:512.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6513",
+      "number": "6:513.",
+      "heading": "Prohibitions",
+      "text": "Prohibitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6514",
+      "number": "6:514.",
+      "heading": "Penalties",
+      "text": "Penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6515",
+      "number": "6:515.",
+      "heading": "Administration",
+      "text": "Administration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6516",
+      "number": "6:516.",
+      "heading": "Savings clause",
+      "text": "Savings clause",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6517",
+      "number": "6:517.",
+      "heading": "Minority stockholders' rights",
+      "text": "Minority stockholders' rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6518",
+      "number": "6:518.",
+      "heading": "Oppressed shareholder's remedies",
+      "text": "Oppressed shareholder's remedies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6521",
+      "number": "6:521.",
+      "heading": "Prohibitions",
+      "text": "Prohibitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6531",
+      "number": "6:531.",
+      "heading": "Declaration of policy",
+      "text": "Declaration of policy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6532",
+      "number": "6:532.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6533",
+      "number": "6:533.",
+      "heading": "Scope of Part",
+      "text": "Scope of Part",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6534",
+      "number": "6:534.",
+      "heading": "Law applicable to interstate bank branches; purpose",
+      "text": "Law applicable to interstate bank branches; purpose",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6535",
+      "number": "6:535.",
+      "heading": "Interstate acquisitions; filings with commissioner",
+      "text": "Interstate acquisitions; filings with commissioner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6536",
+      "number": "6:536.",
+      "heading": "Interstate bank acquisitions; filings with commissioner",
+      "text": "Interstate bank acquisitions; filings with commissioner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6537",
+      "number": "6:537.",
+      "heading": "Emergency acquisitions",
+      "text": "Emergency acquisitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-65371",
+      "number": "6:537.1.",
+      "heading": "Parity provision",
+      "text": "Parity provision",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6538",
+      "number": "6:538.",
+      "heading": "Five-year continuous operation requirement",
+      "text": "Five-year continuous operation requirement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6539",
+      "number": "6:539.",
+      "heading": "Agency activities; prohibitions",
+      "text": "Agency activities; prohibitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6540",
+      "number": "6:540.",
+      "heading": "Authority to issue regulations; cooperative agreements; fees; enforcement",
+      "text": "Authority to issue regulations; cooperative agreements; fees; enforcement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-65401",
+      "number": "6:540.1.",
+      "heading": "Savings clause",
+      "text": "Savings clause",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-65402",
+      "number": "6:540.2.",
+      "heading": "Construction with other laws",
+      "text": "Construction with other laws",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6541",
+      "number": "6:541.",
+      "heading": "Declaration of policy",
+      "text": "Declaration of policy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6542",
+      "number": "6:542.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6543",
+      "number": "6:543.",
+      "heading": "Limited exception to bank holding company acts",
+      "text": "Limited exception to bank holding company acts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6544",
+      "number": "6:544.",
+      "heading": "Organization of financial service center banks",
+      "text": "Organization of financial service center banks",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6545",
+      "number": "6:545.",
+      "heading": "Powers and functions",
+      "text": "Powers and functions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6546",
+      "number": "6:546.",
+      "heading": "Additional powers; rate export",
+      "text": "Additional powers; rate export",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6547",
+      "number": "6:547.",
+      "heading": "Additional requirements",
+      "text": "Additional requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6548",
+      "number": "6:548.",
+      "heading": "Interest rate parity; open-end credit",
+      "text": "Interest rate parity; open-end credit",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-65511",
+      "number": "6:551.1.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-65512",
+      "number": "6:551.2.",
+      "heading": "Foreign banking activities; authorized",
+      "text": "Foreign banking activities; authorized",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-65513",
+      "number": "6:551.3.",
+      "heading": "Subsidiary bank; authorization",
+      "text": "Subsidiary bank; authorization",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-65514",
+      "number": "6:551.4.",
+      "heading": "Edge Act or agreement corporation; authorization",
+      "text": "Edge Act or agreement corporation; authorization",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-65515",
+      "number": "6:551.5.",
+      "heading": "Location; limitation",
+      "text": "Location; limitation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-65516",
+      "number": "6:551.6.",
+      "heading": "Filing requirements",
+      "text": "Filing requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-65517",
+      "number": "6:551.7.",
+      "heading": "Requirements to operate; fees",
+      "text": "Requirements to operate; fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-65518",
+      "number": "6:551.8.",
+      "heading": "Application required; contents",
+      "text": "Application required; contents",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-65519",
+      "number": "6:551.9.",
+      "heading": "Approval or disapproval of application",
+      "text": "Approval or disapproval of application",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-655110",
+      "number": "6:551.10.",
+      "heading": "Certificate of authority; transfer prohibited; display required",
+      "text": "Certificate of authority; transfer prohibited; display required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-655111",
+      "number": "6:551.11.",
+      "heading": "Renewal",
+      "text": "Renewal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-655112",
+      "number": "6:551.12.",
+      "heading": "Revocation and surrender",
+      "text": "Revocation and surrender",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-655113",
+      "number": "6:551.13.",
+      "heading": "State agency; authorized actions",
+      "text": "State agency; authorized actions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-655114",
+      "number": "6:551.14.",
+      "heading": "State representative office; authorization; permitted activities",
+      "text": "State representative office; authorization; permitted activities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-655115",
+      "number": "6:551.15.",
+      "heading": "State administrative office; authorization; permitted activities",
+      "text": "State administrative office; authorization; permitted activities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-655116",
+      "number": "6:551.16.",
+      "heading": "Branch banks and agencies",
+      "text": "Branch banks and agencies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-655117",
+      "number": "6:551.17.",
+      "heading": "State international banking facilities",
+      "text": "State international banking facilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-655118",
+      "number": "6:551.18.",
+      "heading": "Purchase of real estate",
+      "text": "Purchase of real estate",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-655119",
+      "number": "6:551.19.",
+      "heading": "Paid-in capital; surplus; undivided profits",
+      "text": "Paid-in capital; surplus; undivided profits",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-655120",
+      "number": "6:551.20.",
+      "heading": "Capital requirements",
+      "text": "Capital requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-655121",
+      "number": "6:551.21.",
+      "heading": "Purchase of credit instruments",
+      "text": "Purchase of credit instruments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-655122",
+      "number": "6:551.22.",
+      "heading": "Annual report and periodic reporting requirements",
+      "text": "Annual report and periodic reporting requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-655123",
+      "number": "6:551.23.",
+      "heading": "Termination",
+      "text": "Termination",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-655124",
+      "number": "6:551.24.",
+      "heading": "Rules and regulations",
+      "text": "Rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-655125",
+      "number": "6:551.25.",
+      "heading": "Examination authority",
+      "text": "Examination authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-655126",
+      "number": "6:551.26.",
+      "heading": "Asset pledge requirements",
+      "text": "Asset pledge requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6571",
+      "number": "6:571.",
+      "heading": "General authority",
+      "text": "General authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6572",
+      "number": "6:572.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6573",
+      "number": "6:573.",
+      "heading": "Organization",
+      "text": "Organization",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6574",
+      "number": "6:574.",
+      "heading": "Capital",
+      "text": "Capital",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6575",
+      "number": "6:575.",
+      "heading": "Powers",
+      "text": "Powers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6576",
+      "number": "6:576.",
+      "heading": "New application, supervision, regulation, and examination of trust bank",
+      "text": "New application, supervision, regulation, and examination of trust bank",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6577",
+      "number": "6:577.",
+      "heading": "Trust companies chartered under prior law",
+      "text": "Trust companies chartered under prior law",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6578",
+      "number": "6:578.",
+      "heading": "Affiliates",
+      "text": "Affiliates",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6579",
+      "number": "6:579.",
+      "heading": "Self-dealing",
+      "text": "Self-dealing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6580",
+      "number": "6:580.",
+      "heading": "Insurance coverage",
+      "text": "Insurance coverage",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6581",
+      "number": "6:581.",
+      "heading": "Capital notes or debentures",
+      "text": "Capital notes or debentures",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6591",
+      "number": "6:591.",
+      "heading": "Private trust company",
+      "text": "Private trust company",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6592",
+      "number": "6:592.",
+      "heading": "Requirements to apply for and maintain status as a private trust company",
+      "text": "Requirements to apply for and maintain status as a private trust company",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6593",
+      "number": "6:593.",
+      "heading": "Conversion to public trust company",
+      "text": "Conversion to public trust company",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6601",
+      "number": "6:601.",
+      "heading": "Investment in trust company facilities",
+      "text": "Investment in trust company facilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6602",
+      "number": "6:602.",
+      "heading": "Other real estate",
+      "text": "Other real estate",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6611",
+      "number": "6:611.",
+      "heading": "Securities",
+      "text": "Securities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6612",
+      "number": "6:612.",
+      "heading": "Transactions in trust company shares or participation shares",
+      "text": "Transactions in trust company shares or participation shares",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6613",
+      "number": "6:613.",
+      "heading": "Subsidiaries",
+      "text": "Subsidiaries",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6614",
+      "number": "6:614.",
+      "heading": "Mutual funds",
+      "text": "Mutual funds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6615",
+      "number": "6:615.",
+      "heading": "Engaging in commerce prohibited",
+      "text": "Engaging in commerce prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6621",
+      "number": "6:621.",
+      "heading": "Borrowing limit",
+      "text": "Borrowing limit",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6622",
+      "number": "6:622.",
+      "heading": "Pledge of assets",
+      "text": "Pledge of assets",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6623",
+      "number": "6:623.",
+      "heading": "Fiduciary responsibility",
+      "text": "Fiduciary responsibility",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6624",
+      "number": "6:624.",
+      "heading": "Reports of apparent crime",
+      "text": "Reports of apparent crime",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6625",
+      "number": "6:625.",
+      "heading": "Out-of-state activities",
+      "text": "Out-of-state activities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6626",
+      "number": "6:626.",
+      "heading": "Out-of-state trust companies",
+      "text": "Out-of-state trust companies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6627",
+      "number": "6:627.",
+      "heading": "Interstate supervision and regulation",
+      "text": "Interstate supervision and regulation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6641",
+      "number": "6:641.",
+      "heading": "Organization; act of incorporation",
+      "text": "Organization; act of incorporation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-66411",
+      "number": "6:641.1.",
+      "heading": "Public policy",
+      "text": "Public policy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-66412",
+      "number": "6:641.2.",
+      "heading": "REPEALED BY ACTS 1989, No. 495, §6.",
+      "text": "REPEALED BY ACTS 1989, No. 495, §6.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6642",
+      "number": "6:642.",
+      "heading": "Amendments of act of incorporation; commissioner's approval",
+      "text": "Amendments of act of incorporation; commissioner's approval",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6643",
+      "number": "6:643.",
+      "heading": "Restriction of the use of term credit union",
+      "text": "Restriction of the use of term credit union",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6644",
+      "number": "6:644.",
+      "heading": "Powers",
+      "text": "Powers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6645",
+      "number": "6:645.",
+      "heading": "Membership",
+      "text": "Membership",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6646",
+      "number": "6:646.",
+      "heading": "Supervision by commissioner; suspension or revocation of charter; liquidation; reports; examination fees",
+      "text": "Supervision by commissioner; suspension or revocation of charter; liquidation; reports; examination fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-66461",
+      "number": "6:646.1.",
+      "heading": "Involuntary dissolution; distribution of assets",
+      "text": "Involuntary dissolution; distribution of assets",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6647",
+      "number": "6:647.",
+      "heading": "Fiscal year; meetings; regulations as to voting",
+      "text": "Fiscal year; meetings; regulations as to voting",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6648",
+      "number": "6:648.",
+      "heading": "Elections; oath of office",
+      "text": "Elections; oath of office",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6649",
+      "number": "6:649.",
+      "heading": "Directors; officers; compensation",
+      "text": "Directors; officers; compensation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-66491",
+      "number": "6:649.1.",
+      "heading": "Relation and liability of directors and officers to a credit union and its members",
+      "text": "Relation and liability of directors and officers to a credit union and its members",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-66492",
+      "number": "6:649.2.",
+      "heading": "Actions against directors and officers of credit unions",
+      "text": "Actions against directors and officers of credit unions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6650",
+      "number": "6:650.",
+      "heading": "Credit committee",
+      "text": "Credit committee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-66501",
+      "number": "6:650.1.",
+      "heading": "REPEALED BY ACTS 1989, No. 495, §6.",
+      "text": "REPEALED BY ACTS 1989, No. 495, §6.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-66502",
+      "number": "6:650.2.",
+      "heading": "Educational committee",
+      "text": "Educational committee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6651",
+      "number": "6:651.",
+      "heading": "Supervisory committee; examination and report",
+      "text": "Supervisory committee; examination and report",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6652",
+      "number": "6:652.",
+      "heading": "Capital",
+      "text": "Capital",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-66521",
+      "number": "6:652.1.",
+      "heading": "Types of capital",
+      "text": "Types of capital",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-66522",
+      "number": "6:652.2.",
+      "heading": "Share and share certificate accounts as legal investments",
+      "text": "Share and share certificate accounts as legal investments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-66523",
+      "number": "6:652.3.",
+      "heading": "Members' share capital",
+      "text": "Members' share capital",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6653",
+      "number": "6:653.",
+      "heading": "Shares of minors and in trust",
+      "text": "Shares of minors and in trust",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-66531",
+      "number": "6:653.1.",
+      "heading": "Trust deposits; death of depositor; payment",
+      "text": "Trust deposits; death of depositor; payment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-66532",
+      "number": "6:653.2.",
+      "heading": "Pledge of share accounts; rights and remedies",
+      "text": "Pledge of share accounts; rights and remedies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-66533",
+      "number": "6:653.3.",
+      "heading": "Ownership of shares",
+      "text": "Ownership of shares",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-66534",
+      "number": "6:653.4.",
+      "heading": "Death of member or account owner; access and transfer of accounts, shares, and property to succession representative, heirs, legatees, and legal representative",
+      "text": "Death of member or account owner; access and transfer of accounts, shares, and property to succession representative, heirs, legatees, and legal representative",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6654",
+      "number": "6:654.",
+      "heading": "Rates of interest",
+      "text": "Rates of interest",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6655",
+      "number": "6:655.",
+      "heading": "Power to borrow",
+      "text": "Power to borrow",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6656",
+      "number": "6:656.",
+      "heading": "Loans",
+      "text": "Loans",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6657",
+      "number": "6:657.",
+      "heading": "Repealed by Acts 2001, No. 887, §2, eff. June 26, 2001.",
+      "text": "Repealed by Acts 2001, No. 887, §2, eff. June 26, 2001.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6658",
+      "number": "6:658.",
+      "heading": "Dividends",
+      "text": "Dividends",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6659",
+      "number": "6:659.",
+      "heading": "Expulsion and withdrawal of members",
+      "text": "Expulsion and withdrawal of members",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-66591",
+      "number": "6:659.1.",
+      "heading": "Inactive accounts",
+      "text": "Inactive accounts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-66592",
+      "number": "6:659.2.",
+      "heading": "Federally insured credit unions; abandonment of safety deposit box",
+      "text": "Federally insured credit unions; abandonment of safety deposit box",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6660",
+      "number": "6:660.",
+      "heading": "Voluntary dissolution",
+      "text": "Voluntary dissolution",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6661",
+      "number": "6:661.",
+      "heading": "Change of place of business",
+      "text": "Change of place of business",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-66611",
+      "number": "6:661.1.",
+      "heading": "Branch offices",
+      "text": "Branch offices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6662",
+      "number": "6:662.",
+      "heading": "Taxation",
+      "text": "Taxation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-66621",
+      "number": "6:662.1.",
+      "heading": "Fiscal agents and depositories",
+      "text": "Fiscal agents and depositories",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6663",
+      "number": "6:663.",
+      "heading": "Money deposited by minors",
+      "text": "Money deposited by minors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6664",
+      "number": "6:664.",
+      "heading": "Money deposited in a multiple party account",
+      "text": "Money deposited in a multiple party account",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6665",
+      "number": "6:665.",
+      "heading": "Bylaws",
+      "text": "Bylaws",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6666",
+      "number": "6:666.",
+      "heading": "Constitutionality",
+      "text": "Constitutionality",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6667",
+      "number": "6:667.",
+      "heading": "Conversion from federal to state and from state to federal credit union; division of assets",
+      "text": "Conversion from federal to state and from state to federal credit union; division of assets",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-66671",
+      "number": "6:667.1.",
+      "heading": "Powers, privileges, and exemptions of federal credit unions",
+      "text": "Powers, privileges, and exemptions of federal credit unions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-66672",
+      "number": "6:667.2.",
+      "heading": "Annual report",
+      "text": "Annual report",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-66673",
+      "number": "6:667.3.",
+      "heading": "Records as evidence",
+      "text": "Records as evidence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6668",
+      "number": "6:668.",
+      "heading": "Criminal Penalties",
+      "text": "Criminal Penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6669",
+      "number": "6:669.",
+      "heading": "Short title",
+      "text": "Short title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6701",
+      "number": "6:701.",
+      "heading": "Applicability",
+      "text": "Applicability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6702",
+      "number": "6:702.",
+      "heading": "Short title",
+      "text": "Short title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6703",
+      "number": "6:703.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6704",
+      "number": "6:704.",
+      "heading": "Organization",
+      "text": "Organization",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6705",
+      "number": "6:705.",
+      "heading": "Incorporation; articles of incorporation; content; bylaws",
+      "text": "Incorporation; articles of incorporation; content; bylaws",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6706",
+      "number": "6:706.",
+      "heading": "Articles of incorporation; approval by the commissioner",
+      "text": "Articles of incorporation; approval by the commissioner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6707",
+      "number": "6:707.",
+      "heading": "Capital stock; types of stock; consideration for issuance; security for loan",
+      "text": "Capital stock; types of stock; consideration for issuance; security for loan",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6708",
+      "number": "6:708.",
+      "heading": "Directors; number; qualifications; oath; vacancies",
+      "text": "Directors; number; qualifications; oath; vacancies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6709",
+      "number": "6:709.",
+      "heading": "Members or stockholders meeting",
+      "text": "Members or stockholders meeting",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6710",
+      "number": "6:710.",
+      "heading": "Notice of meeting",
+      "text": "Notice of meeting",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6711",
+      "number": "6:711.",
+      "heading": "Organization meeting",
+      "text": "Organization meeting",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6712",
+      "number": "6:712.",
+      "heading": "Corporate name",
+      "text": "Corporate name",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6713",
+      "number": "6:713.",
+      "heading": "Forfeiture of charter for nonuse",
+      "text": "Forfeiture of charter for nonuse",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6714",
+      "number": "6:714.",
+      "heading": "Officers and agents; election, powers, duties",
+      "text": "Officers and agents; election, powers, duties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6731",
+      "number": "6:731.",
+      "heading": "General powers of associations",
+      "text": "General powers of associations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6741",
+      "number": "6:741.",
+      "heading": "Authorized capital",
+      "text": "Authorized capital",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6742",
+      "number": "6:742.",
+      "heading": "Miscellaneous provisions relative to capital and accounts",
+      "text": "Miscellaneous provisions relative to capital and accounts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6743",
+      "number": "6:743.",
+      "heading": "Issuance of capital",
+      "text": "Issuance of capital",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6744",
+      "number": "6:744.",
+      "heading": "Shares, savings, and demand accounts; generally",
+      "text": "Shares, savings, and demand accounts; generally",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6745",
+      "number": "6:745.",
+      "heading": "Cancellation of shares, savings accounts",
+      "text": "Cancellation of shares, savings accounts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6746",
+      "number": "6:746.",
+      "heading": "Issuance of shares or savings accounts for consideration other than cash",
+      "text": "Issuance of shares or savings accounts for consideration other than cash",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6747",
+      "number": "6:747.",
+      "heading": "Contract for savings programs",
+      "text": "Contract for savings programs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6748",
+      "number": "6:748.",
+      "heading": "Shares or demand deposits and savings accounts as legal investments and as security",
+      "text": "Shares or demand deposits and savings accounts as legal investments and as security",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-67481",
+      "number": "6:748.1.",
+      "heading": "Public funds deposits; additional collateral",
+      "text": "Public funds deposits; additional collateral",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6749",
+      "number": "6:749.",
+      "heading": "Prescription on savings accounts",
+      "text": "Prescription on savings accounts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6750",
+      "number": "6:750.",
+      "heading": "Pledge of deposit accounts; rights and remedies",
+      "text": "Pledge of deposit accounts; rights and remedies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6761",
+      "number": "6:761.",
+      "heading": "Members of mutual associations",
+      "text": "Members of mutual associations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6762",
+      "number": "6:762.",
+      "heading": "Access to books and records",
+      "text": "Access to books and records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6763",
+      "number": "6:763.",
+      "heading": "Minors",
+      "text": "Minors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6764",
+      "number": "6:764.",
+      "heading": "Authority relative to shares and savings accounts",
+      "text": "Authority relative to shares and savings accounts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6765",
+      "number": "6:765.",
+      "heading": "Shares or savings accounts payable to two or more persons; survivorship",
+      "text": "Shares or savings accounts payable to two or more persons; survivorship",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6766",
+      "number": "6:766.",
+      "heading": "Accounts of administrators, executors, tutors, custodians, trustees and other fiduciaries",
+      "text": "Accounts of administrators, executors, tutors, custodians, trustees and other fiduciaries",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-67661",
+      "number": "6:766.1.",
+      "heading": "Payable on death accounts",
+      "text": "Payable on death accounts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6767",
+      "number": "6:767.",
+      "heading": "Death of member or depositor and access and transfer of money and property by association to succession or estate representatives, legatees, or heirs; authority",
+      "text": "Death of member or depositor and access and transfer of money and property by association to succession or estate representatives, legatees, or heirs; authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-67671",
+      "number": "6:767.1.",
+      "heading": "Repealed by Acts 1970, No. 234, §2.",
+      "text": "Repealed by Acts 1970, No. 234, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6768",
+      "number": "6:768.",
+      "heading": "Transfer of contents of safety deposit boxes by an association to succession or estate representatives, legatees, heirs, minors, or interdicts; authority",
+      "text": "Transfer of contents of safety deposit boxes by an association to succession or estate representatives, legatees, heirs, minors, or interdicts; authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6769",
+      "number": "6:769.",
+      "heading": "Access to safety deposit boxes held jointly or standing in the name of a corporation, unincorporated association, trust estate, agents, or others",
+      "text": "Access to safety deposit boxes held jointly or standing in the name of a corporation, unincorporated association, trust estate, agents, or others",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6770",
+      "number": "6:770.",
+      "heading": "Abandonment of safety deposit box",
+      "text": "Abandonment of safety deposit box",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6771",
+      "number": "6:771.",
+      "heading": "Disposition of abandoned safety deposit box contents",
+      "text": "Disposition of abandoned safety deposit box contents",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6781",
+      "number": "6:781.",
+      "heading": "Indemnity bonds",
+      "text": "Indemnity bonds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6782",
+      "number": "6:782.",
+      "heading": "Depositories",
+      "text": "Depositories",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6783",
+      "number": "6:783.",
+      "heading": "Indemnification of officers, directors, and employees",
+      "text": "Indemnification of officers, directors, and employees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6784",
+      "number": "6:784.",
+      "heading": "Illegal loans",
+      "text": "Illegal loans",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6785",
+      "number": "6:785.",
+      "heading": "Directors, employees and members not disqualified to make acknowledgments",
+      "text": "Directors, employees and members not disqualified to make acknowledgments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6786",
+      "number": "6:786.",
+      "heading": "Relation and liability of directors and officers",
+      "text": "Relation and liability of directors and officers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6787",
+      "number": "6:787.",
+      "heading": "Actions against directors and officers",
+      "text": "Actions against directors and officers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6788",
+      "number": "6:788.",
+      "heading": "§§788 to 790 Repealed by Acts 1970, No. 234, §2.",
+      "text": "§§788 to 790 Repealed by Acts 1970, No. 234, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6791",
+      "number": "6:791.",
+      "heading": "Records",
+      "text": "Records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6792",
+      "number": "6:792.",
+      "heading": "Misdescriptions of assets; false entries",
+      "text": "Misdescriptions of assets; false entries",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6793",
+      "number": "6:793.",
+      "heading": "Directors' examination of association",
+      "text": "Directors' examination of association",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6794",
+      "number": "6:794.",
+      "heading": "Examination",
+      "text": "Examination",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6795",
+      "number": "6:795.",
+      "heading": "§§795, 796 Repealed by Acts 1970, No. 234, §2.",
+      "text": "§§795, 796 Repealed by Acts 1970, No. 234, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6801",
+      "number": "6:801.",
+      "heading": "Savings liability; demand deposit liability",
+      "text": "Savings liability; demand deposit liability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6802",
+      "number": "6:802.",
+      "heading": "Contingent loss account",
+      "text": "Contingent loss account",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6803",
+      "number": "6:803.",
+      "heading": "Earnings; payment",
+      "text": "Earnings; payment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6804",
+      "number": "6:804.",
+      "heading": "Casual deposits",
+      "text": "Casual deposits",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6805",
+      "number": "6:805.",
+      "heading": "Withdrawal of savings accounts and shares",
+      "text": "Withdrawal of savings accounts and shares",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6806",
+      "number": "6:806.",
+      "heading": "Board to determine amounts to be withdrawn",
+      "text": "Board to determine amounts to be withdrawn",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6807",
+      "number": "6:807.",
+      "heading": "Amounts payable",
+      "text": "Amounts payable",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6808",
+      "number": "6:808.",
+      "heading": "Insufficient funds; notices",
+      "text": "Insufficient funds; notices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6809",
+      "number": "6:809.",
+      "heading": "Board may prescribe rules",
+      "text": "Board may prescribe rules",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6810",
+      "number": "6:810.",
+      "heading": "Rights of withdrawing members",
+      "text": "Rights of withdrawing members",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6811",
+      "number": "6:811.",
+      "heading": "New loans and payment of debts during existence of withdrawal list",
+      "text": "New loans and payment of debts during existence of withdrawal list",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6812",
+      "number": "6:812.",
+      "heading": "Commissioner's action may stop withdrawal procedure",
+      "text": "Commissioner's action may stop withdrawal procedure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6813",
+      "number": "6:813.",
+      "heading": "Prohibition against institution of action",
+      "text": "Prohibition against institution of action",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6814",
+      "number": "6:814.",
+      "heading": "Redemption",
+      "text": "Redemption",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6822",
+      "number": "6:822.",
+      "heading": "Loans and investments",
+      "text": "Loans and investments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6823",
+      "number": "6:823.",
+      "heading": "Appraisal",
+      "text": "Appraisal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6824",
+      "number": "6:824.",
+      "heading": "Payments",
+      "text": "Payments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-68241",
+      "number": "6:824.1.",
+      "heading": "Late charges prohibited on certain payments",
+      "text": "Late charges prohibited on certain payments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6825",
+      "number": "6:825.",
+      "heading": "REPEALED BY ACTS 1993, NO. 280, §1, EFF. OCT. 1, 1993.",
+      "text": "REPEALED BY ACTS 1993, NO. 280, §1, EFF. OCT. 1, 1993.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6826",
+      "number": "6:826.",
+      "heading": "Provision for taxes, insurance",
+      "text": "Provision for taxes, insurance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6827",
+      "number": "6:827.",
+      "heading": "REPEALED BY ACTS 1993, NO. 280, §1, EFF. OCT. 1, 1993.",
+      "text": "REPEALED BY ACTS 1993, NO. 280, §1, EFF. OCT. 1, 1993.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6828",
+      "number": "6:828.",
+      "heading": "Loan expenses",
+      "text": "Loan expenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6829",
+      "number": "6:829.",
+      "heading": "Repealed by Acts 2003, No. 69, §1, eff. May 28, 2003.",
+      "text": "Repealed by Acts 2003, No. 69, §1, eff. May 28, 2003.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6830",
+      "number": "6:830.",
+      "heading": "Security for loan on immovable properties; purchase and sale of property",
+      "text": "Security for loan on immovable properties; purchase and sale of property",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6831",
+      "number": "6:831.",
+      "heading": "Shares or savings accounts as additional security",
+      "text": "Shares or savings accounts as additional security",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6832",
+      "number": "6:832.",
+      "heading": "Immovables",
+      "text": "Immovables",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6833",
+      "number": "6:833.",
+      "heading": "Conveyance of property securing loan",
+      "text": "Conveyance of property securing loan",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-68331",
+      "number": "6:833.1.",
+      "heading": "Repealed by Acts 1970, No. 234, §2.",
+      "text": "Repealed by Acts 1970, No. 234, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6834",
+      "number": "6:834.",
+      "heading": "Solicitation or acceptance of gifts for making, or assisting in, procuring a loan",
+      "text": "Solicitation or acceptance of gifts for making, or assisting in, procuring a loan",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6851",
+      "number": "6:851.",
+      "heading": "Home office",
+      "text": "Home office",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6852",
+      "number": "6:852.",
+      "heading": "Branch office",
+      "text": "Branch office",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6853",
+      "number": "6:853.",
+      "heading": "Closure of branch office",
+      "text": "Closure of branch office",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6861",
+      "number": "6:861.",
+      "heading": "Power to merge or consolidate; consent of commissioner; rules and regulations",
+      "text": "Power to merge or consolidate; consent of commissioner; rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6862",
+      "number": "6:862.",
+      "heading": "Merger; when effective",
+      "text": "Merger; when effective",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6863",
+      "number": "6:863.",
+      "heading": "Consolidation; when effective",
+      "text": "Consolidation; when effective",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6864",
+      "number": "6:864.",
+      "heading": "Effect of merger or consolidation",
+      "text": "Effect of merger or consolidation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6865",
+      "number": "6:865.",
+      "heading": "Voluntary transfer of assets",
+      "text": "Voluntary transfer of assets",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6866",
+      "number": "6:866.",
+      "heading": "Commissioner may provide for members or stockholders to vote on plan",
+      "text": "Commissioner may provide for members or stockholders to vote on plan",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6867",
+      "number": "6:867.",
+      "heading": "Dissolution or liquidation",
+      "text": "Dissolution or liquidation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6868",
+      "number": "6:868.",
+      "heading": "Voluntary proceedings for dissolution",
+      "text": "Voluntary proceedings for dissolution",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6869",
+      "number": "6:869.",
+      "heading": "Association continues as corporate entity for sole purpose of winding up affairs",
+      "text": "Association continues as corporate entity for sole purpose of winding up affairs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6870",
+      "number": "6:870.",
+      "heading": "Powers of liquidating trustees",
+      "text": "Powers of liquidating trustees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6871",
+      "number": "6:871.",
+      "heading": "Association subject to commissioner during liquidation",
+      "text": "Association subject to commissioner during liquidation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6872",
+      "number": "6:872.",
+      "heading": "Involuntary dissolution; generally",
+      "text": "Involuntary dissolution; generally",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6873",
+      "number": "6:873.",
+      "heading": "Involuntary dissolution; commissioner shall take possession",
+      "text": "Involuntary dissolution; commissioner shall take possession",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6874",
+      "number": "6:874.",
+      "heading": "Involuntary dissolution; notice to creditors",
+      "text": "Involuntary dissolution; notice to creditors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6875",
+      "number": "6:875.",
+      "heading": "Involuntary dissolution; powers of commissioner; court approval",
+      "text": "Involuntary dissolution; powers of commissioner; court approval",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6876",
+      "number": "6:876.",
+      "heading": "Involuntary dissolution; inventory",
+      "text": "Involuntary dissolution; inventory",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6877",
+      "number": "6:877.",
+      "heading": "Involuntary dissolution; fees",
+      "text": "Involuntary dissolution; fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6878",
+      "number": "6:878.",
+      "heading": "Involuntary dissolution; distribution of assets",
+      "text": "Involuntary dissolution; distribution of assets",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6879",
+      "number": "6:879.",
+      "heading": "Involuntary dissolutions; creditors may not dispose of pledged securities",
+      "text": "Involuntary dissolutions; creditors may not dispose of pledged securities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6880",
+      "number": "6:880.",
+      "heading": "Liquidation by federal corporation",
+      "text": "Liquidation by federal corporation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6881",
+      "number": "6:881.",
+      "heading": "Commissioner may examine association",
+      "text": "Commissioner may examine association",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6882",
+      "number": "6:882.",
+      "heading": "Commissioner may order association to discontinue any illegal practice",
+      "text": "Commissioner may order association to discontinue any illegal practice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6883",
+      "number": "6:883.",
+      "heading": "Conservator",
+      "text": "Conservator",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6884",
+      "number": "6:884.",
+      "heading": "§§884 to 890 Repealed by Acts 1970, No. 234, §2.",
+      "text": "§§884 to 890 Repealed by Acts 1970, No. 234, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6891",
+      "number": "6:891.",
+      "heading": "Foreign association defined",
+      "text": "Foreign association defined",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6892",
+      "number": "6:892.",
+      "heading": "Conduct of business in accordance with this Part; certificate of authority and public necessity",
+      "text": "Conduct of business in accordance with this Part; certificate of authority and public necessity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6893",
+      "number": "6:893.",
+      "heading": "Certificate of authority; exceptions",
+      "text": "Certificate of authority; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6894",
+      "number": "6:894.",
+      "heading": "Certificate of authority; examination of qualifications",
+      "text": "Certificate of authority; examination of qualifications",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6895",
+      "number": "6:895.",
+      "heading": "Penalty for doing business without certificate of authority",
+      "text": "Penalty for doing business without certificate of authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6896",
+      "number": "6:896.",
+      "heading": "Issuance of certificate of authority; renewal annually",
+      "text": "Issuance of certificate of authority; renewal annually",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6897",
+      "number": "6:897.",
+      "heading": "Deposits as security; foreign association ceasing to do business in Louisiana",
+      "text": "Deposits as security; foreign association ceasing to do business in Louisiana",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6898",
+      "number": "6:898.",
+      "heading": "Supervision and examination",
+      "text": "Supervision and examination",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6901",
+      "number": "6:901.",
+      "heading": "Powers, privileges, and exemptions of federal associations",
+      "text": "Powers, privileges, and exemptions of federal associations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6902",
+      "number": "6:902.",
+      "heading": "Companion authority",
+      "text": "Companion authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6903",
+      "number": "6:903.",
+      "heading": "Additional companion authority",
+      "text": "Additional companion authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6904",
+      "number": "6:904.",
+      "heading": "Conversion into state-chartered association",
+      "text": "Conversion into state-chartered association",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6905",
+      "number": "6:905.",
+      "heading": "Limitation",
+      "text": "Limitation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6906",
+      "number": "6:906.",
+      "heading": "Conversions; locations",
+      "text": "Conversions; locations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6907",
+      "number": "6:907.",
+      "heading": "Formation of savings and loan holding companies",
+      "text": "Formation of savings and loan holding companies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6908",
+      "number": "6:908.",
+      "heading": "Oppressed shareholder's remedies",
+      "text": "Oppressed shareholder's remedies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6911",
+      "number": "6:911.",
+      "heading": "REPEALED BY ACTS 1993, NO. 278, §1, EFF. JAN. 1, 1994.",
+      "text": "REPEALED BY ACTS 1993, NO. 278, §1, EFF. JAN. 1, 1994.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6912",
+      "number": "6:912.",
+      "heading": "Additional foreign association fees",
+      "text": "Additional foreign association fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6921",
+      "number": "6:921.",
+      "heading": "Thrift and home financing organizations; exceptions",
+      "text": "Thrift and home financing organizations; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6922",
+      "number": "6:922.",
+      "heading": "Powers of attorney",
+      "text": "Powers of attorney",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6923",
+      "number": "6:923.",
+      "heading": "Exemption from security laws",
+      "text": "Exemption from security laws",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6924",
+      "number": "6:924.",
+      "heading": "Holder of note may enforce",
+      "text": "Holder of note may enforce",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6925",
+      "number": "6:925.",
+      "heading": "Unlawful to destroy property",
+      "text": "Unlawful to destroy property",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6926",
+      "number": "6:926.",
+      "heading": "Foreclosure of mortgage",
+      "text": "Foreclosure of mortgage",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6927",
+      "number": "6:927.",
+      "heading": "Communication from commissioner having effect of approval or order to be in writing and signed",
+      "text": "Communication from commissioner having effect of approval or order to be in writing and signed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6928",
+      "number": "6:928.",
+      "heading": "Right of commissioner to utilize courts",
+      "text": "Right of commissioner to utilize courts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6929",
+      "number": "6:929.",
+      "heading": "Rights of association to contest decisions of commissioner",
+      "text": "Rights of association to contest decisions of commissioner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6930",
+      "number": "6:930.",
+      "heading": "Defamation of institutions prohibited; fine",
+      "text": "Defamation of institutions prohibited; fine",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6931",
+      "number": "6:931.",
+      "heading": "False statements and similar actions prohibited; fine",
+      "text": "False statements and similar actions prohibited; fine",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6932",
+      "number": "6:932.",
+      "heading": "Act of controlling",
+      "text": "Act of controlling",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6933",
+      "number": "6:933.",
+      "heading": "Application to existing associations",
+      "text": "Application to existing associations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6937",
+      "number": "6:937.",
+      "heading": "Dividends; requirements",
+      "text": "Dividends; requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6938",
+      "number": "6:938.",
+      "heading": "Power of state or federal mutual association to convert to capital stock association; procedures; approval of department required; minutes of meeting; succession",
+      "text": "Power of state or federal mutual association to convert to capital stock association; procedures; approval of department required; minutes of meeting; succession",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6939",
+      "number": "6:939.",
+      "heading": "Plan of conversion from mutual to capital stock association; mandatory and permissive requirements",
+      "text": "Plan of conversion from mutual to capital stock association; mandatory and permissive requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6940",
+      "number": "6:940.",
+      "heading": "Acquisition of control over an existing association",
+      "text": "Acquisition of control over an existing association",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6941",
+      "number": "6:941.",
+      "heading": "Restrictions on acquisition of control of capital stock associations",
+      "text": "Restrictions on acquisition of control of capital stock associations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6942",
+      "number": "6:942.",
+      "heading": "Listing and assessment of capital stock; procedure; exemption",
+      "text": "Listing and assessment of capital stock; procedure; exemption",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6943",
+      "number": "6:943.",
+      "heading": "Listing and assessing of stock; place",
+      "text": "Listing and assessing of stock; place",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6944",
+      "number": "6:944.",
+      "heading": "Listing and assessing of stock; branch capital stock associations",
+      "text": "Listing and assessing of stock; branch capital stock associations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6945",
+      "number": "6:945.",
+      "heading": "Listing and assessing of real estate of capital stock associations",
+      "text": "Listing and assessing of real estate of capital stock associations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6946",
+      "number": "6:946.",
+      "heading": "Listing and assessing of stock and real estate; payment of tax; recovery from stockholders",
+      "text": "Listing and assessing of stock and real estate; payment of tax; recovery from stockholders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6947",
+      "number": "6:947.",
+      "heading": "Listing and assessing of stock; report by official",
+      "text": "Listing and assessing of stock; report by official",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6948",
+      "number": "6:948.",
+      "heading": "Power of commissioner to issue rules, regulations, and orders to implement this Chapter",
+      "text": "Power of commissioner to issue rules, regulations, and orders to implement this Chapter",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6949",
+      "number": "6:949.",
+      "heading": "Savings and demand accounts of capital stock savings and loan associations and capital stock savings banks as legal investments",
+      "text": "Savings and demand accounts of capital stock savings and loan associations and capital stock savings banks as legal investments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69501",
+      "number": "6:950.1.",
+      "heading": "Declaration of policy",
+      "text": "Declaration of policy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69502",
+      "number": "6:950.2.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69503",
+      "number": "6:950.3.",
+      "heading": "Scope of Part; effective dates",
+      "text": "Scope of Part; effective dates",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69504",
+      "number": "6:950.4.",
+      "heading": "Applicability of commissioner's rules and regulations; operation of Louisiana association subsidiaries by foreign corporations; reciprocal agreements; penalties",
+      "text": "Applicability of commissioner's rules and regulations; operation of Louisiana association subsidiaries by foreign corporations; reciprocal agreements; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69505",
+      "number": "6:950.5.",
+      "heading": "Interstate acquisitions; filings with commissioner",
+      "text": "Interstate acquisitions; filings with commissioner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69506",
+      "number": "6:950.6.",
+      "heading": "Prohibited acquisitions and activities",
+      "text": "Prohibited acquisitions and activities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69507",
+      "number": "6:950.7.",
+      "heading": "Minority stockholders' rights",
+      "text": "Minority stockholders' rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69508",
+      "number": "6:950.8.",
+      "heading": "Savings clause",
+      "text": "Savings clause",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6951",
+      "number": "6:951.",
+      "heading": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "text": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6952",
+      "number": "6:952.",
+      "heading": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "text": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6953",
+      "number": "6:953.",
+      "heading": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "text": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6954",
+      "number": "6:954.",
+      "heading": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "text": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6955",
+      "number": "6:955.",
+      "heading": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "text": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6956",
+      "number": "6:956.",
+      "heading": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "text": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69561",
+      "number": "6:956.1.",
+      "heading": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "text": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69562",
+      "number": "6:956.2.",
+      "heading": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "text": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6957",
+      "number": "6:957.",
+      "heading": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "text": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6958",
+      "number": "6:958.",
+      "heading": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "text": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6959",
+      "number": "6:959.",
+      "heading": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "text": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6960",
+      "number": "6:960.",
+      "heading": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "text": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6961",
+      "number": "6:961.",
+      "heading": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "text": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6962",
+      "number": "6:962.",
+      "heading": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "text": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6963",
+      "number": "6:963.",
+      "heading": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "text": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6964",
+      "number": "6:964.",
+      "heading": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "text": "Repealed by Acts 1999, No. 794, §2, eff. July 2, 1999.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6965",
+      "number": "6:965.",
+      "heading": "Scope and definitions",
+      "text": "Scope and definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6966",
+      "number": "6:966.",
+      "heading": "Procedure",
+      "text": "Procedure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69661",
+      "number": "6:966.1.",
+      "heading": "Notice of repossession; contents; fees",
+      "text": "Notice of repossession; contents; fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6967",
+      "number": "6:967.",
+      "heading": "Appeal from order",
+      "text": "Appeal from order",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6968",
+      "number": "6:968.",
+      "heading": "§§968, 969 Repealed by Acts 1974, No. 466, §3.",
+      "text": "§§968, 969 Repealed by Acts 1974, No. 466, §3.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69691",
+      "number": "6:969.1.",
+      "heading": "Short title",
+      "text": "Short title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69692",
+      "number": "6:969.2.",
+      "heading": "Scope",
+      "text": "Scope",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69693",
+      "number": "6:969.3.",
+      "heading": "Exclusions",
+      "text": "Exclusions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69694",
+      "number": "6:969.4.",
+      "heading": "Waiver, agreement to forego rights",
+      "text": "Waiver, agreement to forego rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69695",
+      "number": "6:969.5.",
+      "heading": "Repealed by Acts 2001, No. 1066, §1.",
+      "text": "Repealed by Acts 2001, No. 1066, §1.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69696",
+      "number": "6:969.6.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69697",
+      "number": "6:969.7.",
+      "heading": "Terms; construction; additional fees and charges",
+      "text": "Terms; construction; additional fees and charges",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69698",
+      "number": "6:969.8.",
+      "heading": "Construction against implicit repeal",
+      "text": "Construction against implicit repeal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69699",
+      "number": "6:969.9.",
+      "heading": "Consumer loans",
+      "text": "Consumer loans",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696910",
+      "number": "6:969.10.",
+      "heading": "Consumer credit sale",
+      "text": "Consumer credit sale",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696911",
+      "number": "6:969.11.",
+      "heading": "Maximum charges after negotiations",
+      "text": "Maximum charges after negotiations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696912",
+      "number": "6:969.12.",
+      "heading": "Maximum charges after maturity",
+      "text": "Maximum charges after maturity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696913",
+      "number": "6:969.13.",
+      "heading": "Leap years",
+      "text": "Leap years",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696914",
+      "number": "6:969.14.",
+      "heading": "Variable rates",
+      "text": "Variable rates",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696915",
+      "number": "6:969.15.",
+      "heading": "Maximum delinquency charges",
+      "text": "Maximum delinquency charges",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696916",
+      "number": "6:969.16.",
+      "heading": "Maximum deferral charges",
+      "text": "Maximum deferral charges",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696917",
+      "number": "6:969.17.",
+      "heading": "Charges for checks returned for insufficient funds",
+      "text": "Charges for checks returned for insufficient funds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696918",
+      "number": "6:969.18.",
+      "heading": "Documentation and compliance fees; notary fees; transfer of equity and other fees; disclosure",
+      "text": "Documentation and compliance fees; notary fees; transfer of equity and other fees; disclosure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696919",
+      "number": "6:969.19.",
+      "heading": "Right to prepay",
+      "text": "Right to prepay",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696920",
+      "number": "6:969.20.",
+      "heading": "Rebates upon prepayment; prepayment charges; return of lien documents upon payment in full of the balance due",
+      "text": "Rebates upon prepayment; prepayment charges; return of lien documents upon payment in full of the balance due",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696921",
+      "number": "6:969.21.",
+      "heading": "Rebate after acceleration of maturity",
+      "text": "Rebate after acceleration of maturity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696922",
+      "number": "6:969.22.",
+      "heading": "Attorney fees",
+      "text": "Attorney fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696923",
+      "number": "6:969.23.",
+      "heading": "Collection and enforcement costs and expenses",
+      "text": "Collection and enforcement costs and expenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696924",
+      "number": "6:969.24.",
+      "heading": "Use of multiple agreements",
+      "text": "Use of multiple agreements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6969241",
+      "number": "6:969.24.1.",
+      "heading": "Acts to lessen or eliminate competition prohibited",
+      "text": "Acts to lessen or eliminate competition prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6969242",
+      "number": "6:969.24.2.",
+      "heading": "Mandatory sales prohibited",
+      "text": "Mandatory sales prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696925",
+      "number": "6:969.25.",
+      "heading": "Consumer credit insurance",
+      "text": "Consumer credit insurance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696926",
+      "number": "6:969.26.",
+      "heading": "Property insurance",
+      "text": "Property insurance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696927",
+      "number": "6:969.27.",
+      "heading": "Existing insurance",
+      "text": "Existing insurance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696928",
+      "number": "6:969.28.",
+      "heading": "Limitations on insurance rates; contract requirements",
+      "text": "Limitations on insurance rates; contract requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696929",
+      "number": "6:969.29.",
+      "heading": "Choice of insurer",
+      "text": "Choice of insurer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696930",
+      "number": "6:969.30.",
+      "heading": "Conditions applying to insurance provided by the extender of credit",
+      "text": "Conditions applying to insurance provided by the extender of credit",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696931",
+      "number": "6:969.31.",
+      "heading": "Cancellation of insurance; refund or credit upon cancellation",
+      "text": "Cancellation of insurance; refund or credit upon cancellation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696932",
+      "number": "6:969.32.",
+      "heading": "Gain from insurance",
+      "text": "Gain from insurance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696933",
+      "number": "6:969.33.",
+      "heading": "Effect of violations on rights of parties",
+      "text": "Effect of violations on rights of parties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696934",
+      "number": "6:969.34.",
+      "heading": "Guidance by commission; advisory opinions",
+      "text": "Guidance by commission; advisory opinions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696935",
+      "number": "6:969.35.",
+      "heading": "Authority to make consumer loans; assignees; authority to issue debt waiver or debt forgiveness agreements",
+      "text": "Authority to make consumer loans; assignees; authority to issue debt waiver or debt forgiveness agreements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696936",
+      "number": "6:969.36.",
+      "heading": "License not required",
+      "text": "License not required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696937",
+      "number": "6:969.37.",
+      "heading": "Licensing procedures",
+      "text": "Licensing procedures",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696938",
+      "number": "6:969.38.",
+      "heading": "Denial, suspension, or revocation of licenses",
+      "text": "Denial, suspension, or revocation of licenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696939",
+      "number": "6:969.39.",
+      "heading": "Investigations and complaints",
+      "text": "Investigations and complaints",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696940",
+      "number": "6:969.40.",
+      "heading": "Powers of commission",
+      "text": "Powers of commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696941",
+      "number": "6:969.41.",
+      "heading": "Fines imposed by the commission",
+      "text": "Fines imposed by the commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696942",
+      "number": "6:969.42.",
+      "heading": "Venue for litigation or arbitration; choice of law",
+      "text": "Venue for litigation or arbitration; choice of law",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696951",
+      "number": "6:969.51.",
+      "heading": "GAP coverage; requirements",
+      "text": "GAP coverage; requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696952",
+      "number": "6:969.52.",
+      "heading": "Liability; contractual or insurance policies",
+      "text": "Liability; contractual or insurance policies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696953",
+      "number": "6:969.53.",
+      "heading": "Cancellation",
+      "text": "Cancellation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-696954",
+      "number": "6:969.54.",
+      "heading": "Disclosures",
+      "text": "Disclosures",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6970",
+      "number": "6:970.",
+      "heading": "Purchase, merger, or consolidation of impaired financial institutions",
+      "text": "Purchase, merger, or consolidation of impaired financial institutions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6971",
+      "number": "6:971.",
+      "heading": "Approval of transaction; priorities",
+      "text": "Approval of transaction; priorities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6972",
+      "number": "6:972.",
+      "heading": "Retention of branches",
+      "text": "Retention of branches",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6973",
+      "number": "6:973.",
+      "heading": "Prohibited insurance activities",
+      "text": "Prohibited insurance activities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6974",
+      "number": "6:974.",
+      "heading": "Acquisition of state bank in impaired condition",
+      "text": "Acquisition of state bank in impaired condition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6975",
+      "number": "6:975.",
+      "heading": "§§975, 976 Repealed by Acts 1972, No. 454, §3, eff. Jan. 1, 1973.",
+      "text": "§§975, 976 Repealed by Acts 1972, No. 454, §3, eff. Jan. 1, 1973.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61001",
+      "number": "6:1001.",
+      "heading": "Title",
+      "text": "Title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61002",
+      "number": "6:1002.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61003",
+      "number": "6:1003.",
+      "heading": "License; certificates",
+      "text": "License; certificates",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61004",
+      "number": "6:1004.",
+      "heading": "Application for license and change of control",
+      "text": "Application for license and change of control",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-610041",
+      "number": "6:1004.1.",
+      "heading": "License fees; online renewal",
+      "text": "License fees; online renewal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-610042",
+      "number": "6:1004.2.",
+      "heading": "Enforcement powers of the commissioner",
+      "text": "Enforcement powers of the commissioner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61005",
+      "number": "6:1005.",
+      "heading": "Qualifications",
+      "text": "Qualifications",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61006",
+      "number": "6:1006.",
+      "heading": "Approval or denial of application",
+      "text": "Approval or denial of application",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61007",
+      "number": "6:1007.",
+      "heading": "Change of name or location",
+      "text": "Change of name or location",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61008",
+      "number": "6:1008.",
+      "heading": "Suspension or revocation of license; hearing; surrender of license; administrative fines",
+      "text": "Suspension or revocation of license; hearing; surrender of license; administrative fines",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61009",
+      "number": "6:1009.",
+      "heading": "Regulation of fees; unreasonable fees; display of fees",
+      "text": "Regulation of fees; unreasonable fees; display of fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61010",
+      "number": "6:1010.",
+      "heading": "Repealed by Acts 2004, No. 370, §1.",
+      "text": "Repealed by Acts 2004, No. 370, §1.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61011",
+      "number": "6:1011.",
+      "heading": "Powers; limitations; prohibitions",
+      "text": "Powers; limitations; prohibitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61012",
+      "number": "6:1012.",
+      "heading": "Violations; criminal penalties; civil liability",
+      "text": "Violations; criminal penalties; civil liability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61013",
+      "number": "6:1013.",
+      "heading": "Books of account; examinations",
+      "text": "Books of account; examinations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-610131",
+      "number": "6:1013.1.",
+      "heading": "Cashing federal and state treasury checks; records retention",
+      "text": "Cashing federal and state treasury checks; records retention",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61014",
+      "number": "6:1014.",
+      "heading": "Rules and regulations",
+      "text": "Rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61015",
+      "number": "6:1015.",
+      "heading": "False advertising",
+      "text": "False advertising",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61016",
+      "number": "6:1016.",
+      "heading": "Applicability",
+      "text": "Applicability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61031",
+      "number": "6:1031.",
+      "heading": "Citation",
+      "text": "Citation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61032",
+      "number": "6:1032.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61033",
+      "number": "6:1033.",
+      "heading": "License required",
+      "text": "License required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61034",
+      "number": "6:1034.",
+      "heading": "Exemption from licensing",
+      "text": "Exemption from licensing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61035",
+      "number": "6:1035.",
+      "heading": "Qualifications",
+      "text": "Qualifications",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61036",
+      "number": "6:1036.",
+      "heading": "Applications",
+      "text": "Applications",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61037",
+      "number": "6:1037.",
+      "heading": "Accompanying fee; statement and bonds",
+      "text": "Accompanying fee; statement and bonds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61038",
+      "number": "6:1038.",
+      "heading": "Investigation; granting of license",
+      "text": "Investigation; granting of license",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-610381",
+      "number": "6:1038.1.",
+      "heading": "Temporary license; expiration; extension",
+      "text": "Temporary license; expiration; extension",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61039",
+      "number": "6:1039.",
+      "heading": "Maintenance of bond",
+      "text": "Maintenance of bond",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61040",
+      "number": "6:1040.",
+      "heading": "Annual renewal fee; delinquency charge",
+      "text": "Annual renewal fee; delinquency charge",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61041",
+      "number": "6:1041.",
+      "heading": "Agents and subagents",
+      "text": "Agents and subagents",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61042",
+      "number": "6:1042.",
+      "heading": "Liability of licensees",
+      "text": "Liability of licensees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61043",
+      "number": "6:1043.",
+      "heading": "Disclosure of responsibility",
+      "text": "Disclosure of responsibility",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61044",
+      "number": "6:1044.",
+      "heading": "Visitation and examination; revocation of license",
+      "text": "Visitation and examination; revocation of license",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61045",
+      "number": "6:1045.",
+      "heading": "Hearings",
+      "text": "Hearings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61046",
+      "number": "6:1046.",
+      "heading": "Penalties",
+      "text": "Penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61047",
+      "number": "6:1047.",
+      "heading": "Reports",
+      "text": "Reports",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61048",
+      "number": "6:1048.",
+      "heading": "Trust imposed on sales or transmission proceeds",
+      "text": "Trust imposed on sales or transmission proceeds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61049",
+      "number": "6:1049.",
+      "heading": "List of financial institutions",
+      "text": "List of financial institutions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61050",
+      "number": "6:1050.",
+      "heading": "Retention of surety bond",
+      "text": "Retention of surety bond",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61051",
+      "number": "6:1051.",
+      "heading": "Notification of financial institutions; violations; penalties",
+      "text": "Notification of financial institutions; violations; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61052",
+      "number": "6:1052.",
+      "heading": "Account; verification of license; cancellation; overdrafts",
+      "text": "Account; verification of license; cancellation; overdrafts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61053",
+      "number": "6:1053.",
+      "heading": "Significant developments; licensee's duty to report to commissioner",
+      "text": "Significant developments; licensee's duty to report to commissioner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61054",
+      "number": "6:1054.",
+      "heading": "Change of control; notice; application; advisory opinion",
+      "text": "Change of control; notice; application; advisory opinion",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61055",
+      "number": "6:1055.",
+      "heading": "Money transmitters; delivery of funds requirements; exceptions",
+      "text": "Money transmitters; delivery of funds requirements; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61081",
+      "number": "6:1081.",
+      "heading": "Short title",
+      "text": "Short title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61082",
+      "number": "6:1082.",
+      "heading": "Purpose",
+      "text": "Purpose",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61083",
+      "number": "6:1083.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61084",
+      "number": "6:1084.",
+      "heading": "Prohibition",
+      "text": "Prohibition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61085",
+      "number": "6:1085.",
+      "heading": "Rules and regulations",
+      "text": "Rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-610851",
+      "number": "6:1085.1.",
+      "heading": "Authority of the commissioner to impose continuing education",
+      "text": "Authority of the commissioner to impose continuing education",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61086",
+      "number": "6:1086.",
+      "heading": "Licensure requirement",
+      "text": "Licensure requirement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61087",
+      "number": "6:1087.",
+      "heading": "Exemptions; annual registration statement; fees",
+      "text": "Exemptions; annual registration statement; fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61088",
+      "number": "6:1088.",
+      "heading": "Application for licensure; surety bond",
+      "text": "Application for licensure; surety bond",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-610881",
+      "number": "6:1088.1.",
+      "heading": "Licensing system; authorization; fees; required use",
+      "text": "Licensing system; authorization; fees; required use",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-610882",
+      "number": "6:1088.2.",
+      "heading": "Application for licensure; application and renewal fees",
+      "text": "Application for licensure; application and renewal fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-610883",
+      "number": "6:1088.3.",
+      "heading": "Application for renewal of license; restriction; late renewal fees",
+      "text": "Application for renewal of license; restriction; late renewal fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-610884",
+      "number": "6:1088.4.",
+      "heading": "Information reporting",
+      "text": "Information reporting",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61089",
+      "number": "6:1089.",
+      "heading": "Name or location changes and closures; fees",
+      "text": "Name or location changes and closures; fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61090",
+      "number": "6:1090.",
+      "heading": "Restrictions",
+      "text": "Restrictions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61091",
+      "number": "6:1091.",
+      "heading": "Recordkeeping and retention; examinations; investigation of complaints; reports of conditions",
+      "text": "Recordkeeping and retention; examinations; investigation of complaints; reports of conditions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61092",
+      "number": "6:1092.",
+      "heading": "Suspension and revocation of licensure; commissioner's interpretations; prohibitions",
+      "text": "Suspension and revocation of licensure; commissioner's interpretations; prohibitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-610921",
+      "number": "6:1092.1.",
+      "heading": "Costs of appeal",
+      "text": "Costs of appeal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-610922",
+      "number": "6:1092.2.",
+      "heading": "Validity of judgment; execution",
+      "text": "Validity of judgment; execution",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61093",
+      "number": "6:1093.",
+      "heading": "Repealed by Acts 2010, No. 743, §22B, eff. July 1, 2010.",
+      "text": "Repealed by Acts 2010, No. 743, §22B, eff. July 1, 2010.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61094",
+      "number": "6:1094.",
+      "heading": "Professional education required for licensure; continuing education",
+      "text": "Professional education required for licensure; continuing education",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-610941",
+      "number": "6:1094.1.",
+      "heading": "Testing of loan originators",
+      "text": "Testing of loan originators",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61095",
+      "number": "6:1095.",
+      "heading": "Scope",
+      "text": "Scope",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61096",
+      "number": "6:1096.",
+      "heading": "Residential mortgage loans",
+      "text": "Residential mortgage loans",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61097",
+      "number": "6:1097.",
+      "heading": "Residential mortgage loan fees and charges; applicability of the Louisiana Consumer Credit Law",
+      "text": "Residential mortgage loan fees and charges; applicability of the Louisiana Consumer Credit Law",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61098",
+      "number": "6:1098.",
+      "heading": "Residential mortgage loan brokerage contracts",
+      "text": "Residential mortgage loan brokerage contracts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61099",
+      "number": "6:1099.",
+      "heading": "Criminal penalties",
+      "text": "Criminal penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61101",
+      "number": "6:1101.",
+      "heading": "Reverse mortgages; requirements",
+      "text": "Reverse mortgages; requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61102",
+      "number": "6:1102.",
+      "heading": "Counseling",
+      "text": "Counseling",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61103",
+      "number": "6:1103.",
+      "heading": "Commitment and cooling off period",
+      "text": "Commitment and cooling off period",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61104",
+      "number": "6:1104.",
+      "heading": "Reverse mortgage lender; duties to elders",
+      "text": "Reverse mortgage lender; duties to elders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61111",
+      "number": "6:1111.",
+      "heading": "Approval by commissioner of rules and regulations affecting financial institutions",
+      "text": "Approval by commissioner of rules and regulations affecting financial institutions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61121",
+      "number": "6:1121.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61122",
+      "number": "6:1122.",
+      "heading": "Credit agreements to be in writing",
+      "text": "Credit agreements to be in writing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-611221",
+      "number": "6:1122.1.",
+      "heading": "Defenses to written credit agreements",
+      "text": "Defenses to written credit agreements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61123",
+      "number": "6:1123.",
+      "heading": "Actions not considered agreements",
+      "text": "Actions not considered agreements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61124",
+      "number": "6:1124.",
+      "heading": "No implied fiduciary obligations",
+      "text": "No implied fiduciary obligations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61125",
+      "number": "6:1125.",
+      "heading": "§§1125 to 1127 Repealed by Acts 1981, No. 873, §4, eff. Oct. 1, 1981.",
+      "text": "§§1125 to 1127 Repealed by Acts 1981, No. 873, §4, eff. Oct. 1, 1981.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61131",
+      "number": "6:1131.",
+      "heading": "Title",
+      "text": "Title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61132",
+      "number": "6:1132.",
+      "heading": "Policy and purposes",
+      "text": "Policy and purposes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61133",
+      "number": "6:1133.",
+      "heading": "Administration",
+      "text": "Administration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61134",
+      "number": "6:1134.",
+      "heading": "Applicability",
+      "text": "Applicability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61135",
+      "number": "6:1135.",
+      "heading": "Federal deposit insurance",
+      "text": "Federal deposit insurance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61136",
+      "number": "6:1136.",
+      "heading": "Powers; parity with other financial institutions",
+      "text": "Powers; parity with other financial institutions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61137",
+      "number": "6:1137.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61138",
+      "number": "6:1138.",
+      "heading": "General corporate powers",
+      "text": "General corporate powers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61139",
+      "number": "6:1139.",
+      "heading": "Specific powers",
+      "text": "Specific powers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61140",
+      "number": "6:1140.",
+      "heading": "Status as an IRS qualified savings banks institution",
+      "text": "Status as an IRS qualified savings banks institution",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61141",
+      "number": "6:1141.",
+      "heading": "Regulatory powers; promulgation of rules and regulations",
+      "text": "Regulatory powers; promulgation of rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61142",
+      "number": "6:1142.",
+      "heading": "Safety deposit boxes and safekeeping",
+      "text": "Safety deposit boxes and safekeeping",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61151",
+      "number": "6:1151.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61152",
+      "number": "6:1152.",
+      "heading": "Implementation",
+      "text": "Implementation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61153",
+      "number": "6:1153.",
+      "heading": "Oppressed shareholder's remedies",
+      "text": "Oppressed shareholder's remedies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61161",
+      "number": "6:1161.",
+      "heading": "Application for permit to organize",
+      "text": "Application for permit to organize",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61162",
+      "number": "6:1162.",
+      "heading": "Content of application for permit to organize",
+      "text": "Content of application for permit to organize",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61163",
+      "number": "6:1163.",
+      "heading": "Contents of articles of incorporation",
+      "text": "Contents of articles of incorporation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61164",
+      "number": "6:1164.",
+      "heading": "Contents of bylaws",
+      "text": "Contents of bylaws",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61165",
+      "number": "6:1165.",
+      "heading": "Permit to organize",
+      "text": "Permit to organize",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61166",
+      "number": "6:1166.",
+      "heading": "Temporary organization and capital subscriptions",
+      "text": "Temporary organization and capital subscriptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61167",
+      "number": "6:1167.",
+      "heading": "Certificate of organization; issuance; refusal",
+      "text": "Certificate of organization; issuance; refusal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61168",
+      "number": "6:1168.",
+      "heading": "REPEALED BY ACTS 1993, NO. 278, §1, EFF. JAN. 1, 1994.",
+      "text": "REPEALED BY ACTS 1993, NO. 278, §1, EFF. JAN. 1, 1994.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61181",
+      "number": "6:1181.",
+      "heading": "Members",
+      "text": "Members",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61182",
+      "number": "6:1182.",
+      "heading": "Annual and special meetings",
+      "text": "Annual and special meetings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61183",
+      "number": "6:1183.",
+      "heading": "Notice of meetings",
+      "text": "Notice of meetings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61184",
+      "number": "6:1184.",
+      "heading": "Quorum of annual or special meetings",
+      "text": "Quorum of annual or special meetings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61185",
+      "number": "6:1185.",
+      "heading": "Voting",
+      "text": "Voting",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61186",
+      "number": "6:1186.",
+      "heading": "Record date for voting, dividend, and other purposes",
+      "text": "Record date for voting, dividend, and other purposes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61187",
+      "number": "6:1187.",
+      "heading": "Proxies",
+      "text": "Proxies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61188",
+      "number": "6:1188.",
+      "heading": "Directors",
+      "text": "Directors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61189",
+      "number": "6:1189.",
+      "heading": "Bonds of officers and directors",
+      "text": "Bonds of officers and directors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61190",
+      "number": "6:1190.",
+      "heading": "Conduct of directors and officers",
+      "text": "Conduct of directors and officers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61191",
+      "number": "6:1191.",
+      "heading": "Relation and liability of directors and officers",
+      "text": "Relation and liability of directors and officers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61201",
+      "number": "6:1201.",
+      "heading": "Minimum capital for incorporation or conversion",
+      "text": "Minimum capital for incorporation or conversion",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61202",
+      "number": "6:1202.",
+      "heading": "Types of capital; personal property",
+      "text": "Types of capital; personal property",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61203",
+      "number": "6:1203.",
+      "heading": "Capital stock; nature",
+      "text": "Capital stock; nature",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61204",
+      "number": "6:1204.",
+      "heading": "Capital stock; authorization of issuance",
+      "text": "Capital stock; authorization of issuance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61205",
+      "number": "6:1205.",
+      "heading": "Who may hold capital",
+      "text": "Who may hold capital",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61206",
+      "number": "6:1206.",
+      "heading": "Capital maintenance",
+      "text": "Capital maintenance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61207",
+      "number": "6:1207.",
+      "heading": "Dividends; capital surplus required",
+      "text": "Dividends; capital surplus required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61208",
+      "number": "6:1208.",
+      "heading": "Loans or discounts on capital stock",
+      "text": "Loans or discounts on capital stock",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612081",
+      "number": "6:1208.1.",
+      "heading": "Applicability of statute, rules and regulations",
+      "text": "Applicability of statute, rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61221",
+      "number": "6:1221.",
+      "heading": "Underwriting",
+      "text": "Underwriting",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61222",
+      "number": "6:1222.",
+      "heading": "Investment in loans",
+      "text": "Investment in loans",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61223",
+      "number": "6:1223.",
+      "heading": "Other investments",
+      "text": "Other investments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61224",
+      "number": "6:1224.",
+      "heading": "Calculation of interest; postpayments and prepayments",
+      "text": "Calculation of interest; postpayments and prepayments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61225",
+      "number": "6:1225.",
+      "heading": "General loan contract provisions",
+      "text": "General loan contract provisions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61226",
+      "number": "6:1226.",
+      "heading": "Modification agreements",
+      "text": "Modification agreements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61227",
+      "number": "6:1227.",
+      "heading": "Sale, assignment, and servicing of loans and contracts",
+      "text": "Sale, assignment, and servicing of loans and contracts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61228",
+      "number": "6:1228.",
+      "heading": "Purchase of real estate at judicial sale",
+      "text": "Purchase of real estate at judicial sale",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61229",
+      "number": "6:1229.",
+      "heading": "Immovable property; dealings",
+      "text": "Immovable property; dealings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612291",
+      "number": "6:1229.1.",
+      "heading": "Applicability of rules and regulations",
+      "text": "Applicability of rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61230",
+      "number": "6:1230.",
+      "heading": "Purchases of real estate for office and rental purposes",
+      "text": "Purchases of real estate for office and rental purposes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61231",
+      "number": "6:1231.",
+      "heading": "Usury law inapplicable",
+      "text": "Usury law inapplicable",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61232",
+      "number": "6:1232.",
+      "heading": "Prohibited loans",
+      "text": "Prohibited loans",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61233",
+      "number": "6:1233.",
+      "heading": "Effect of unauthorized investments",
+      "text": "Effect of unauthorized investments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61234",
+      "number": "6:1234.",
+      "heading": "Acknowledgments",
+      "text": "Acknowledgments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61235",
+      "number": "6:1235.",
+      "heading": "Loans to one borrower",
+      "text": "Loans to one borrower",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61236",
+      "number": "6:1236.",
+      "heading": "Commissioner's regulations",
+      "text": "Commissioner's regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61237",
+      "number": "6:1237.",
+      "heading": "Change in control",
+      "text": "Change in control",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61251",
+      "number": "6:1251.",
+      "heading": "Withdrawable accounts; general definitions",
+      "text": "Withdrawable accounts; general definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61252",
+      "number": "6:1252.",
+      "heading": "Prohibited activities",
+      "text": "Prohibited activities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61253",
+      "number": "6:1253.",
+      "heading": "Withdrawable accounts",
+      "text": "Withdrawable accounts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61254",
+      "number": "6:1254.",
+      "heading": "Issuance, delivery, and transfer of certificates and account books",
+      "text": "Issuance, delivery, and transfer of certificates and account books",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61255",
+      "number": "6:1255.",
+      "heading": "Joint account; trust account; payment on death account",
+      "text": "Joint account; trust account; payment on death account",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61256",
+      "number": "6:1256.",
+      "heading": "Effect of payment to minor or fiduciary",
+      "text": "Effect of payment to minor or fiduciary",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61257",
+      "number": "6:1257.",
+      "heading": "Payment on legal disability or death of holder in holder's own right of a withdrawable account",
+      "text": "Payment on legal disability or death of holder in holder's own right of a withdrawable account",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61258",
+      "number": "6:1258.",
+      "heading": "Voluntary withdrawal of accounts",
+      "text": "Voluntary withdrawal of accounts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61259",
+      "number": "6:1259.",
+      "heading": "Enforced retirement of withdrawable accounts",
+      "text": "Enforced retirement of withdrawable accounts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61260",
+      "number": "6:1260.",
+      "heading": "Authorized charges",
+      "text": "Authorized charges",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61261",
+      "number": "6:1261.",
+      "heading": "Withdrawable accounts subject to liens",
+      "text": "Withdrawable accounts subject to liens",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61262",
+      "number": "6:1262.",
+      "heading": "Demand deposits; checking account",
+      "text": "Demand deposits; checking account",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61263",
+      "number": "6:1263.",
+      "heading": "Payment of interest",
+      "text": "Payment of interest",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61264",
+      "number": "6:1264.",
+      "heading": "Holders of withdrawable accounts",
+      "text": "Holders of withdrawable accounts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61271",
+      "number": "6:1271.",
+      "heading": "Amendment of articles",
+      "text": "Amendment of articles",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61272",
+      "number": "6:1272.",
+      "heading": "Repealed by Acts 2003, No. 577, §2, eff. June 27, 2003.",
+      "text": "Repealed by Acts 2003, No. 577, §2, eff. June 27, 2003.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61273",
+      "number": "6:1273.",
+      "heading": "Repealed by Acts 2003, No. 577, §2, eff. June 27, 2003.",
+      "text": "Repealed by Acts 2003, No. 577, §2, eff. June 27, 2003.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61274",
+      "number": "6:1274.",
+      "heading": "Repealed by Acts 2003, No. 577, §2, eff. June 27, 2003.",
+      "text": "Repealed by Acts 2003, No. 577, §2, eff. June 27, 2003.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61275",
+      "number": "6:1275.",
+      "heading": "Effect upon existing articles and bylaws",
+      "text": "Effect upon existing articles and bylaws",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61276",
+      "number": "6:1276.",
+      "heading": "Merger; adoption of plan",
+      "text": "Merger; adoption of plan",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61277",
+      "number": "6:1277.",
+      "heading": "Merger; vote of approval",
+      "text": "Merger; vote of approval",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61278",
+      "number": "6:1278.",
+      "heading": "Merger; commissioner's certificate",
+      "text": "Merger; commissioner's certificate",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61279",
+      "number": "6:1279.",
+      "heading": "Effect of merger",
+      "text": "Effect of merger",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61280",
+      "number": "6:1280.",
+      "heading": "Merger; commissioner's expenses",
+      "text": "Merger; commissioner's expenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61281",
+      "number": "6:1281.",
+      "heading": "Sale of assets",
+      "text": "Sale of assets",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61282",
+      "number": "6:1282.",
+      "heading": "Procedure to effect sale of all assets",
+      "text": "Procedure to effect sale of all assets",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61283",
+      "number": "6:1283.",
+      "heading": "Authority to form a bridge charter",
+      "text": "Authority to form a bridge charter",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61284",
+      "number": "6:1284.",
+      "heading": "Conversion of an existing financial institution to a savings bank",
+      "text": "Conversion of an existing financial institution to a savings bank",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61285",
+      "number": "6:1285.",
+      "heading": "Emergency merger",
+      "text": "Emergency merger",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61286",
+      "number": "6:1286.",
+      "heading": "Emergency sale of assets",
+      "text": "Emergency sale of assets",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61301",
+      "number": "6:1301.",
+      "heading": "Powers of commissioner",
+      "text": "Powers of commissioner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61302",
+      "number": "6:1302.",
+      "heading": "Examination",
+      "text": "Examination",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61303",
+      "number": "6:1303.",
+      "heading": "Examiners",
+      "text": "Examiners",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61304",
+      "number": "6:1304.",
+      "heading": "Report of examination",
+      "text": "Report of examination",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61305",
+      "number": "6:1305.",
+      "heading": "Failure to comply with commissioner's report of examination; publication of reports",
+      "text": "Failure to comply with commissioner's report of examination; publication of reports",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61306",
+      "number": "6:1306.",
+      "heading": "Orders of the commissioner",
+      "text": "Orders of the commissioner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61307",
+      "number": "6:1307.",
+      "heading": "Recordkeeping and retention of records by a savings bank",
+      "text": "Recordkeeping and retention of records by a savings bank",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61308",
+      "number": "6:1308.",
+      "heading": "Disclosure of examination reports and other reports",
+      "text": "Disclosure of examination reports and other reports",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61309",
+      "number": "6:1309.",
+      "heading": "Examination of data processing centers",
+      "text": "Examination of data processing centers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61310",
+      "number": "6:1310.",
+      "heading": "Annual directors' examinations",
+      "text": "Annual directors' examinations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61311",
+      "number": "6:1311.",
+      "heading": "Unsafe and unsound; orders of prohibition and removal",
+      "text": "Unsafe and unsound; orders of prohibition and removal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61312",
+      "number": "6:1312.",
+      "heading": "Cease and desist proceedings",
+      "text": "Cease and desist proceedings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61313",
+      "number": "6:1313.",
+      "heading": "Procedure upon the impairment of capital",
+      "text": "Procedure upon the impairment of capital",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61314",
+      "number": "6:1314.",
+      "heading": "Administrative review",
+      "text": "Administrative review",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61321",
+      "number": "6:1321.",
+      "heading": "Conservatorships of savings banks",
+      "text": "Conservatorships of savings banks",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61322",
+      "number": "6:1322.",
+      "heading": "Involuntary liquidation procedures",
+      "text": "Involuntary liquidation procedures",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61331",
+      "number": "6:1331.",
+      "heading": "Affirmative action to correct conditions resulting from violations of law, regulations, orders, or from practices",
+      "text": "Affirmative action to correct conditions resulting from violations of law, regulations, orders, or from practices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61332",
+      "number": "6:1332.",
+      "heading": "Cease and desist; books and records",
+      "text": "Cease and desist; books and records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61333",
+      "number": "6:1333.",
+      "heading": "Removal and prohibition authority",
+      "text": "Removal and prohibition authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61334",
+      "number": "6:1334.",
+      "heading": "Industry-wide prohibition",
+      "text": "Industry-wide prohibition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61335",
+      "number": "6:1335.",
+      "heading": "Institution-affiliated party",
+      "text": "Institution-affiliated party",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61336",
+      "number": "6:1336.",
+      "heading": "Civil money penalties",
+      "text": "Civil money penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61337",
+      "number": "6:1337.",
+      "heading": "Effect of termination or resignation of an institution-affiliated party",
+      "text": "Effect of termination or resignation of an institution-affiliated party",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61338",
+      "number": "6:1338.",
+      "heading": "Unauthorized participation by convicted individual",
+      "text": "Unauthorized participation by convicted individual",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61339",
+      "number": "6:1339.",
+      "heading": "Perjury; false statements",
+      "text": "Perjury; false statements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61340",
+      "number": "6:1340.",
+      "heading": "False advertising",
+      "text": "False advertising",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61341",
+      "number": "6:1341.",
+      "heading": "Prohibitive practices; additional",
+      "text": "Prohibitive practices; additional",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61351",
+      "number": "6:1351.",
+      "heading": "Professional responsibility",
+      "text": "Professional responsibility",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61352",
+      "number": "6:1352.",
+      "heading": "Professional liability",
+      "text": "Professional liability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61353",
+      "number": "6:1353.",
+      "heading": "Officers and directors",
+      "text": "Officers and directors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61354",
+      "number": "6:1354.",
+      "heading": "Imposition of greater standards; liability",
+      "text": "Imposition of greater standards; liability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61361",
+      "number": "6:1361.",
+      "heading": "Short title",
+      "text": "Short title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61362",
+      "number": "6:1362.",
+      "heading": "Intent; scope; effect",
+      "text": "Intent; scope; effect",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61363",
+      "number": "6:1363.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61364",
+      "number": "6:1364.",
+      "heading": "Compliance required",
+      "text": "Compliance required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61365",
+      "number": "6:1365.",
+      "heading": "Lighting standards",
+      "text": "Lighting standards",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61366",
+      "number": "6:1366.",
+      "heading": "Landscape and vegetation standards",
+      "text": "Landscape and vegetation standards",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61367",
+      "number": "6:1367.",
+      "heading": "Notice of customer safety information",
+      "text": "Notice of customer safety information",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61371",
+      "number": "6:1371.",
+      "heading": "Legislative intent",
+      "text": "Legislative intent",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61372",
+      "number": "6:1372.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61373",
+      "number": "6:1373.",
+      "heading": "Notices",
+      "text": "Notices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61374",
+      "number": "6:1374.",
+      "heading": "Delaying financial transactions",
+      "text": "Delaying financial transactions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61375",
+      "number": "6:1375.",
+      "heading": "Applicability of other laws",
+      "text": "Applicability of other laws",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61376",
+      "number": "6:1376.",
+      "heading": "Immunity",
+      "text": "Immunity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61381",
+      "number": "6:1381.",
+      "heading": "Short title",
+      "text": "Short title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61382",
+      "number": "6:1382.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61383",
+      "number": "6:1383.",
+      "heading": "Applicability",
+      "text": "Applicability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61384",
+      "number": "6:1384.",
+      "heading": "Licensure; general",
+      "text": "Licensure; general",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61385",
+      "number": "6:1385.",
+      "heading": "Requirements",
+      "text": "Requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-613851",
+      "number": "6:1385.1.",
+      "heading": "Approval of advanced change of control notice",
+      "text": "Approval of advanced change of control notice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-613852",
+      "number": "6:1385.2.",
+      "heading": "Approval of advanced change of responsible individual notice",
+      "text": "Approval of advanced change of responsible individual notice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61386",
+      "number": "6:1386.",
+      "heading": "Required documents; surety bond; tangible net worth",
+      "text": "Required documents; surety bond; tangible net worth",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-613861",
+      "number": "6:1386.1.",
+      "heading": "Meeting tangible net worth requirements",
+      "text": "Meeting tangible net worth requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-613862",
+      "number": "6:1386.2.",
+      "heading": "Protection of resident assets",
+      "text": "Protection of resident assets",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61387",
+      "number": "6:1387.",
+      "heading": "Issuance of license; appeal",
+      "text": "Issuance of license; appeal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61388",
+      "number": "6:1388.",
+      "heading": "Renewal of license; procedure; denial",
+      "text": "Renewal of license; procedure; denial",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-613881",
+      "number": "6:1388.1.",
+      "heading": "Quarterly financial reports",
+      "text": "Quarterly financial reports",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61389",
+      "number": "6:1389.",
+      "heading": "Virtual currency kiosks; maximum daily transaction limit; cancellation and refund",
+      "text": "Virtual currency kiosks; maximum daily transaction limit; cancellation and refund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61390",
+      "number": "6:1390.",
+      "heading": "Transferability",
+      "text": "Transferability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61391",
+      "number": "6:1391.",
+      "heading": "Examinations",
+      "text": "Examinations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-613911",
+      "number": "6:1391.1.",
+      "heading": "Books, records, and accounts",
+      "text": "Books, records, and accounts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-613912",
+      "number": "6:1391.2.",
+      "heading": "Compliance policies and procedures",
+      "text": "Compliance policies and procedures",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61392",
+      "number": "6:1392.",
+      "heading": "Enforcement power of the commissioner",
+      "text": "Enforcement power of the commissioner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61393",
+      "number": "6:1393.",
+      "heading": "Violations",
+      "text": "Violations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-613931",
+      "number": "6:1393.1.",
+      "heading": "Required disclosures",
+      "text": "Required disclosures",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61394",
+      "number": "6:1394.",
+      "heading": "Implementation; reporting requirements",
+      "text": "Implementation; reporting requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61395",
+      "number": "6:1395.",
+      "heading": "Blockchain analytics",
+      "text": "Blockchain analytics",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61396",
+      "number": "6:1396.",
+      "heading": "Anti-fraud policy",
+      "text": "Anti-fraud policy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61397",
+      "number": "6:1397.",
+      "heading": "Enhanced due diligence policy",
+      "text": "Enhanced due diligence policy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61401",
+      "number": "6:1401.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61402",
+      "number": "6:1402.",
+      "heading": "Provision of virtual currency custody services",
+      "text": "Provision of virtual currency custody services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61411",
+      "number": "6:1411.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61412",
+      "number": "6:1412.",
+      "heading": "Duties of student loan servicers",
+      "text": "Duties of student loan servicers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61413",
+      "number": "6:1413.",
+      "heading": "Written inquiries and complaints",
+      "text": "Written inquiries and complaints",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61421",
+      "number": "6:1421.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61422",
+      "number": "6:1422.",
+      "heading": "Private education lender registry",
+      "text": "Private education lender registry",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61423",
+      "number": "6:1423.",
+      "heading": "Violations",
+      "text": "Violations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61424",
+      "number": "6:1424.",
+      "heading": "Rules",
+      "text": "Rules",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

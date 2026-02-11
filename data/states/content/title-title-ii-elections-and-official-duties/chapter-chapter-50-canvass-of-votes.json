@@ -1,0 +1,446 @@
+{
+  "state": "iowa",
+  "path": "title-title-ii-elections-and-official-duties/chapter-chapter-50-canvass-of-votes",
+  "sections": [
+    {
+      "id": "section-501",
+      "number": "50.1",
+      "heading": "Definitions.Section 50.1A - Canvass by officials",
+      "text": "Section 50.2 - One tally list in certain machine precincts.Section 50.3 - Double or defective ballots.Section 50.4 - Ballots objected to.Section 50.5 - Disputed ballots returned separately.Section 50.6 - Votes in excess of voter declarations.Section 5",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a",
+      "number": "50.1A",
+      "heading": "Canvass by officials.",
+      "text": "Canvass by officials.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-502",
+      "number": "50.2",
+      "heading": "One tally list in certain machine precincts.",
+      "text": "One tally list in certain machine precincts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-503",
+      "number": "50.3",
+      "heading": "Double or defective ballots.",
+      "text": "Double or defective ballots.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-504",
+      "number": "50.4",
+      "heading": "Ballots objected to.",
+      "text": "Ballots objected to.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-505",
+      "number": "50.5",
+      "heading": "Disputed ballots returned separately.",
+      "text": "Disputed ballots returned separately.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-506",
+      "number": "50.6",
+      "heading": "Votes in excess of voter declarations.",
+      "text": "Votes in excess of voter declarations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-507",
+      "number": "50.7",
+      "heading": "Error on county office — township office.",
+      "text": "Error on county office — township office.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-508",
+      "number": "50.8",
+      "heading": "Error on state or district office — tie vote.",
+      "text": "Error on state or district office — tie vote.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-509",
+      "number": "50.9",
+      "heading": "Return of ballots not voted.",
+      "text": "Return of ballots not voted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5010",
+      "number": "50.10",
+      "heading": "Record of ballots returned.",
+      "text": "Record of ballots returned.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5011",
+      "number": "50.11",
+      "heading": "Proclamation of result.",
+      "text": "Proclamation of result.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5012",
+      "number": "50.12",
+      "heading": "Return and preservation of ballots.",
+      "text": "Return and preservation of ballots.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5013",
+      "number": "50.13",
+      "heading": "Destruction of ballots.",
+      "text": "Destruction of ballots.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5014",
+      "number": "50.14",
+      "heading": "Return of results.",
+      "text": "Return of results.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5015",
+      "number": "50.15",
+      "heading": "Destruction in abeyance pending contest.",
+      "text": "Destruction in abeyance pending contest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5015a",
+      "number": "50.15A",
+      "heading": "Unofficial results of voting — general election only.",
+      "text": "Unofficial results of voting — general election only.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5016",
+      "number": "50.16",
+      "heading": "Tally list of board.",
+      "text": "Tally list of board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5017",
+      "number": "50.17",
+      "heading": "Return of election register.",
+      "text": "Return of election register.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-50",
+      "number": "50",
+      "heading": "18",
+      "text": "18",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5019",
+      "number": "50.19",
+      "heading": "Preservation and destruction of books.",
+      "text": "Preservation and destruction of books.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5020",
+      "number": "50.20",
+      "heading": "Notice of number of provisional ballots.",
+      "text": "Notice of number of provisional ballots.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5021",
+      "number": "50.21",
+      "heading": "Special precinct board reconvened.",
+      "text": "Special precinct board reconvened.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5022",
+      "number": "50.22",
+      "heading": "Special precinct board to determine challenges and canvass absentee ballots.",
+      "text": "Special precinct board to determine challenges and canvass absentee ballots.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5023",
+      "number": "50.23",
+      "heading": "Messengers for missing tally lists.",
+      "text": "Messengers for missing tally lists.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5024",
+      "number": "50.24",
+      "heading": "Canvass by board of supervisors.",
+      "text": "Canvass by board of supervisors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5025",
+      "number": "50.25",
+      "heading": "Abstract of votes in the general election.",
+      "text": "Abstract of votes in the general election.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5026",
+      "number": "50.26",
+      "heading": "Duplicate abstracts.",
+      "text": "Duplicate abstracts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5027",
+      "number": "50.27",
+      "heading": "Declaration of election.",
+      "text": "Declaration of election.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5028",
+      "number": "50.28",
+      "heading": "Tally lists filed.",
+      "text": "Tally lists filed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5029",
+      "number": "50.29",
+      "heading": "Certificate of election.",
+      "text": "Certificate of election.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5030",
+      "number": "50.30",
+      "heading": "Abstracts forwarded to state commissioner.",
+      "text": "Abstracts forwarded to state commissioner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5030a",
+      "number": "50.30A",
+      "heading": "Election canvass summary forwarded to state commissioner.",
+      "text": "Election canvass summary forwarded to state commissioner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5031",
+      "number": "50.31",
+      "heading": "Abstracts for governor and lieutenant governor.",
+      "text": "Abstracts for governor and lieutenant governor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5032",
+      "number": "50.32",
+      "heading": "Endorsement on other envelope.",
+      "text": "Endorsement on other envelope.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5033",
+      "number": "50.33",
+      "heading": "Forwarding of envelopes.",
+      "text": "Forwarding of envelopes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5034",
+      "number": "50.34",
+      "heading": "Missing abstracts.",
+      "text": "Missing abstracts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5035",
+      "number": "50.35",
+      "heading": "Delivery of abstracts.",
+      "text": "Delivery of abstracts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5036",
+      "number": "50.36",
+      "heading": "Envelopes containing other abstracts — canvass.",
+      "text": "Envelopes containing other abstracts — canvass.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5037",
+      "number": "50.37",
+      "heading": "State canvassing board.",
+      "text": "State canvassing board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5038",
+      "number": "50.38",
+      "heading": "Time of state canvass.",
+      "text": "Time of state canvass.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5039",
+      "number": "50.39",
+      "heading": "Abstract.",
+      "text": "Abstract.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5040",
+      "number": "50.40",
+      "heading": "Record of canvass.",
+      "text": "Record of canvass.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5041",
+      "number": "50.41",
+      "heading": "Certificate of election.",
+      "text": "Certificate of election.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5042",
+      "number": "50.42",
+      "heading": "Certificates mailed.",
+      "text": "Certificates mailed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5043",
+      "number": "50.43",
+      "heading": "Senator or representative.",
+      "text": "Senator or representative.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5044",
+      "number": "50.44",
+      "heading": "Tie vote.",
+      "text": "Tie vote.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5045",
+      "number": "50.45",
+      "heading": "Canvass public — result determined.",
+      "text": "Canvass public — result determined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5046",
+      "number": "50.46",
+      "heading": "Special elections — canvass and certificate.",
+      "text": "Special elections — canvass and certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5047",
+      "number": "50.47",
+      "heading": "Messengers for election tally lists.",
+      "text": "Messengers for election tally lists.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5048",
+      "number": "50.48",
+      "heading": "General recount provisions.",
+      "text": "General recount provisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5049",
+      "number": "50.49",
+      "heading": "Recounts for public measures.",
+      "text": "Recounts for public measures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5050",
+      "number": "50.50",
+      "heading": "Administrative recounts.",
+      "text": "Administrative recounts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5051",
+      "number": "50.51",
+      "heading": "Election audits.",
+      "text": "Election audits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5052",
+      "number": "50.52",
+      "heading": "Enforcement.",
+      "text": "Enforcement.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

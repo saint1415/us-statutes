@@ -1,0 +1,574 @@
+{
+  "state": "illinois",
+  "path": "title-chapter-410-public-health/chapter-410-ilcs-615-illinois-egg-and-egg-products-act",
+  "sections": [
+    {
+      "id": "section-1",
+      "number": "1.",
+      "heading": "This Act may be cited as the  Illinois Egg and Egg Products Act.",
+      "text": "This Act may be cited as the Illinois Egg and Egg Products Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2",
+      "number": "2.",
+      "heading": "It is hereby declared to be the policy of the",
+      "text": "General Assembly to provide for the inspection of eggs and egg products,\nplace restrictions upon the disposition of certain qualities of eggs,\nand provide uniformity of standards for eggs, and otherwise regulate\nthe processing, handling, labeling, and distribution of eggs\nand egg products as hereinafter prescribed to prevent the movement or\nsale for human food of eggs and egg products which are adulterated or\nmisbranded or otherwise in violation of this Act, and to cooperate\nwith the Federal Government, the several states, and other people to\neffectively carry out the mandate of this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3",
+      "number": "3.",
+      "heading": "Definitions.",
+      "text": "For the purpose of this Act, unless the\ncontext otherwise requires, the terms specified in Sections 3.1 through\n3.36 have the meanings assigned to them in those Sections.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31",
+      "number": "3.1.",
+      "heading": "\"Adulterated\" means any egg or egg product under one",
+      "text": "or more of the following circumstances:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32",
+      "number": "3.2.",
+      "heading": "\"Broker\" means any person who arranges the transfer or",
+      "text": "ownership of eggs or egg products from one person to another and who may or may not\ntake possession of such eggs or egg products in the process.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33",
+      "number": "3.3.",
+      "heading": "\"Candling\" means the careful examination, in an adequately",
+      "text": "dark room or place, of the whole egg by means of a strong light, the apparatus and\nmethod employed to be such as shall be approved by the said Department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-34",
+      "number": "3.4.",
+      "heading": "\"Check\" means an egg that has a broken shell or crack in the",
+      "text": "shell but has its membranes intact and contents not leaking.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-35",
+      "number": "3.5.",
+      "heading": "\"Clean and sound shell egg\" means any egg whose shell is",
+      "text": "free of adhering dirt or foreign material and is not cracked or broken.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36",
+      "number": "3.6.",
+      "heading": "\"Consumer\" means any person who acquires eggs for consumption",
+      "text": "by members of his own household, nonpaying guests and employees, and not for resale.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-37",
+      "number": "3.7.",
+      "heading": "\"Consumer-size container\" means any case, carton, sleeve,",
+      "text": "or other container approved by the Department which is used to market eggs to consumers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38",
+      "number": "3.8.",
+      "heading": "\"Department\" means the Department of Agriculture of the",
+      "text": "State of Illinois.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-39",
+      "number": "3.9.",
+      "heading": "\"Director\" means the Director of the Department of Agriculture",
+      "text": "of the State of Illinois.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-310",
+      "number": "3.10.",
+      "heading": "\"Dirty egg\" means an egg that has a shell that is unbroken",
+      "text": "and has adhering dirt or foreign material, or prominent stains on the shell surface,\nor moderate stains covering more than 1/4 of the shell surface.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-311",
+      "number": "3.11.",
+      "heading": "\"Distributor\" means any person who sells eggs to retailers",
+      "text": "or institutional consumers and shall include any person distributing eggs to his or\nto its own retail outlets or stores, but not including any person only engaged in\nthe hauling or transporting of eggs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-312",
+      "number": "3.12.",
+      "heading": "\"Egg products\" means any liquid, frozen, or dried eggs,",
+      "text": "with or without added ingredients, excepting products which contain\neggs only in a relatively small proportion or historically have not been, in\nthe\njudgment of the Director, considered by consumers as products of the egg\nindustry, and which may be exempted by the Director under conditions he may\nprescribe to assure that the egg ingredients are not adulterated and the\nproducts\nare not adulterated and the products are not represented as egg\nproducts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-313",
+      "number": "3.13.",
+      "heading": "\"Eggs\" means the shell eggs of the domesticated chicken,",
+      "text": "turkey, duck, goose, or guinea.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-314",
+      "number": "3.14.",
+      "heading": "\"Facilities\" means any room or place, compartment, refrigerator,",
+      "text": "or vehicle used in handling eggs in any manner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-315",
+      "number": "3.15.",
+      "heading": "\"Graded egg\" means an egg which is classified in accordance",
+      "text": "with the standards established by the Department, taking into consideration the size\nor weight, quality factors (interior and exterior) including condition of white and\nyolk, the size and condition of the air cell and cleanliness and soundness of shell.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-316",
+      "number": "3.16.",
+      "heading": "\"Handler\" means any person including a producer-dealer engaged",
+      "text": "in the business of distributing or processing eggs or egg products and may\ninclude\nthe receiving, assembling, cleaning, grading, sorting, candling, packing, or\notherwise preparing for market and selling of the eggs and egg\nproducts, or\notherwise using any eggs in the preparation of human food.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-316a",
+      "number": "3.16a.",
+      "heading": "\"Hazardous-disease-infected flock\" means a flock of chickens",
+      "text": "that has\nbeen found to be infected with salmonella or another poultry disease that may\nbe injurious to the health of humans.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-317",
+      "number": "3.17.",
+      "heading": "\"Inedible egg\" means any egg of the following description:",
+      "text": "black rot, yellow rot, white rot, mixed rot (addled egg), sour egg, egg with\na green white, egg with a stuck yolk, moldy egg, musty egg, egg showing a blood\nring, and an egg containing any embryo chick (at or beyond the blood ring\nstage),\nand any egg that is adulterated as that term is defined pursuant\nto the Federal\nFood, Drug and Cosmetic Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-318",
+      "number": "3.18.",
+      "heading": "\"Inspector\" means any employee or official authorized",
+      "text": "to inspect eggs or egg products and to enforce other regulatory measures\nnecessary to effectively carry out the mandate of this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-319",
+      "number": "3.19.",
+      "heading": "\"Institutional consumer\" means any restaurant, hotel, boarding",
+      "text": "house, hospital, nursing home, government institution, or any other business\nfacility or place in which eggs are prepared or offered as food for use by its\npatrons, residents, inmates, or patients.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-320",
+      "number": "3.20.",
+      "heading": "\"Leaker\" means an egg that has a crack or break",
+      "text": "in the shell and shell membranes to the extent that the egg contents are\nexposed or are exuding or free to exude through the shell.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321",
+      "number": "3.21.",
+      "heading": "\"Loss\" means an egg that is unfit for human food",
+      "text": "because it is smashed or broken so that its contents are leaking;\nor overheated, frozen, or contaminated; or an incubator reject;\nor because it contains a bloody white, large meat spots, a large\nquantity of blood, or other foreign material.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321a",
+      "number": "3.21a.",
+      "heading": "\"Lot consolidation\" means the removal of damaged eggs from consumer labeled cartons and replacement of the damaged eggs with eggs of the same grade, size, sell-by date, brand, lot, and source",
+      "text": "\"Lot consolidation\" means the removal of damaged eggs from consumer labeled cartons and replacement of the damaged eggs with eggs of the same grade, size, sell-by date, brand, lot, and source.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-322",
+      "number": "3.22.",
+      "heading": "\"Master container\" means any type of box or case",
+      "text": "made of plastic, wire, cardboard, or other suitable material, used\nto distribute consumer-size containers\nto retailers or institutional consumers\nor bulk (loose) eggs\nto institutional consumers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-323",
+      "number": "3.23.",
+      "heading": "\"Nest run eggs\" means eggs which are packed as they come from",
+      "text": "the production facilities without having been washed, sized, or candled\nfor quality, with the exception that some checks, dirties or other obvious\nundergrades may have been removed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-324",
+      "number": "3.24.",
+      "heading": "\"Official plant\" means any establishment at which",
+      "text": "inspection of the processing of egg products is maintained by the\nDepartment under the authority of this Act or by the United States Department\nof Agriculture under authority of the Federal Egg Products Inspection Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-325",
+      "number": "3.25.",
+      "heading": "\"Packer\" means any person who grades, sizes, candles,",
+      "text": "and packs eggs for purpose of resale.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-326",
+      "number": "3.26.",
+      "heading": "\"Person\" means and includes any individual, partnership,",
+      "text": "firm, corporation, producer, exchange, association, trustee, receiver, or\nany other entity and any member officer, employee, or agent thereof.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-327",
+      "number": "3.27.",
+      "heading": "\"Processing\" means manufacturing egg products, including",
+      "text": "breaking eggs or filtering, mixing, blending, pasteurizing, stabilizing,\ncooling, freezing, drying, or packaging egg products.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328",
+      "number": "3.28.",
+      "heading": "\"Producer\" means a person who feeds and houses any number of",
+      "text": "chickens, turkeys, ducks, geese, or guineas and obtains eggs therefrom, but shall not\ninclude any person who obtains eggs during the hauling, transporting, holding for\nslaughter, or eviscerating of such chickens, turkeys, ducks, geese, or guineas.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-329",
+      "number": "3.29.",
+      "heading": "\"Producer-dealer\" means a producer who candles and grades eggs of his",
+      "text": "own production or additional eggs other than his own production to sell on or off the\npremises to household consumers, institutional consumers, distributors,\nmanufacturers, or retailers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-330",
+      "number": "3.30.",
+      "heading": "\"Restricted egg\" means any check, dirty egg,",
+      "text": "incubator reject, inedible, leaker, or loss.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-331",
+      "number": "3.31.",
+      "heading": "\"Retailer\" means a person who buys candled and graded",
+      "text": "eggs or egg products from a licensed manufacturer, licensed\nhandler, or licensed distributor for resale to a consumer only,\nor who buys candled or graded eggs or egg products to use in the preparation\nof other consumer foods for resale.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-332",
+      "number": "3.32.",
+      "heading": "\"Sell\" means offer for sale, expose for sale, have in",
+      "text": "possession for sale, barter, trade, distribute, market, or traffic in eggs\nin any manner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-333",
+      "number": "3.33.",
+      "heading": "\"Shell treated egg\" means that the shell has been",
+      "text": "treated with oil or other approved preservative preparation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-334",
+      "number": "3.34.",
+      "heading": "\"State\" means the State of Illinois.",
+      "text": "\"State\" means the State of Illinois.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-335",
+      "number": "3.35.",
+      "heading": "\"Federal Food, Drug, and Cosmetic Act\"",
+      "text": "means the Act approved June 25, 1938 (52 Stat.1040), as amended.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-336",
+      "number": "3.36.",
+      "heading": "\"Egg Products Inspection Act\" means the",
+      "text": "federal Act approved December 29, 1970 (84 Stat. 1621), as amended.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4",
+      "number": "4.",
+      "heading": "Sale of unfit eggs or egg products.",
+      "text": "No person shall sell or\noffer for sale eggs or egg\nproducts for human consumption that are unfit for human food. For the\npurpose of this Act, an egg or egg product is unfit for human food if it\nis classified as an inedible egg or loss egg or, in the case of an egg\nproduct,\nit is adulterated, unwholesome, non-inspected, or otherwise unfit for human\nconsumption. Eggs from a hazardous-disease-infected flock shall be diverted\nto egg breaking plants for pasteurization only.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5",
+      "number": "5.",
+      "heading": "The Department, after investigation and public hearing,",
+      "text": "shall establish standards for grading and classification of shell eggs\naccording to the size or weight, quality factors (interior and exterior)\nincluding condition of white and yolk, the size and condition of the air\ncell and cleanliness and soundness of shell. In establishing these\nstandards, the Department may follow the standards promulgated by the\nUnited States Department of Agriculture and may, after investigation and\npublic hearing, amend the Illinois standards from time to time so that the\nfederal specifications can be followed consistently if so desired. Copies\nof any standards so established, or any amendment thereof, shall be\nkept on file in the office of the Director.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6",
+      "number": "6.",
+      "heading": "Candling; labeling; sales by producers; retail sales; temperature",
+      "text": "requirements. All eggs sold at retail or purchased by institutional\nconsumers must be candled for quality and graded for size.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7",
+      "number": "7.",
+      "heading": "No person, other than those who sell only eggs produced by",
+      "text": "their own flocks, shall sell, offer for sale or advertise for sale as\n\"fresh eggs\", or under any words of similar import such as \"new laid\neggs\", \"hennery eggs\", or \"strictly fresh eggs\", any shell eggs which do\nnot meet the minimum requirements of Grade A prescribed by Department standards\nfor\nshell eggs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8",
+      "number": "8.",
+      "heading": "Any person or business who buys, sells, trades, or traffics in",
+      "text": "eggs in this State and is a broker, distributor, handler, packer, producer, or\nproducer-dealer, as defined in this Act, must be licensed in this State. A\nlimited or full license must be purchased annually. No person or business\nshall buy,\nsell,\ntrade,\nor traffic in\neggs in this State without having obtained a license as\nprovided in Section 9, except the following:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9",
+      "number": "9.",
+      "heading": "Licenses; fees. The Department shall issue a license to any",
+      "text": "person upon\nreceipt and approval of a proper application and the required nonrefundable fee. The\nlicense fee and classification of the license shall be established by\nrule.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10",
+      "number": "10.",
+      "heading": "Inspection fee. The Director shall",
+      "text": "set, by\nregulation, a per case inspection fee which shall\ncover\nthe administrative and inspection costs of the program required by the\nAct. In no case shall the rate exceed 11¢ per each 30 dozen eggs or\nfraction thereof.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-111",
+      "number": "11.1.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-112",
+      "number": "11.2.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-113",
+      "number": "11.3.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-114",
+      "number": "11.4.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-115",
+      "number": "11.5.",
+      "heading": "Investigation; notice; hearing.",
+      "text": "The Department may, upon its\nown motion or upon\nthe complaint in writing of any person setting forth facts which\nif\nproved would constitute grounds for refusal to issue or renew a license\nor suspension or revocation of a\nlicense\nunder this Act, investigate the actions of any applicant or any person or\npersons\napplying for, holding, or claiming to hold a license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12",
+      "number": "12.",
+      "heading": "Each producer-dealer, packer, handler or distributor who",
+      "text": "sells candled and graded eggs to any retailer, institutional consumer,\nbakery, or concern which purchases eggs for serving to guests or patrons\nthereof or for its use in preparation of any food products for human\nconsumption, shall furnish the purchaser with an invoice\nor other accounting document\ncovering each sale,\nshowing the exact grade and size of the eggs purchased.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13",
+      "number": "13.",
+      "heading": "The Director shall make rules and regulations",
+      "text": "necessary for the effective administration of this Act. These\nrules and\nregulations shall conform as near as possible but need not be limited\nby rules and regulations established by federal law in\nthe Egg Products Inspection Act, governing the inspection of eggs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141",
+      "number": "14.1.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142",
+      "number": "14.2.",
+      "heading": "For the purpose of carrying out the provisions of this Act",
+      "text": "and the rules and regulations promulgated thereunder, the Department through\nits\nauthorized inspectors or agents is empowered:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143",
+      "number": "14.3.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15",
+      "number": "15.",
+      "heading": "Samples; packing methods.",
+      "text": "Samples; packing methods.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-16",
+      "number": "16.",
+      "heading": "Effective November 1, 1975, no person shall engage in the business",
+      "text": "of removing eggs from their shells, in the manufacture of or preparation of\nfrozen, liquid, desiccated or any other forms of whole eggs, yolks, whites or\nany mixture of yolks and whites for food purposes, with or without the addition\nof any other wholesome ingredients, without first obtaining an Egg Breaker's\nLicense from the Department. The Department shall inspect the establishment\nand the equipment to be used in the egg breaking establishment and shall\nalso ascertain if the establishment complies in method, equipment and the rules\nand regulations in regard to sanitation, which shall from time to time be\nestablished by the Department to govern these establishments. If, after such\ninspection, it appears that such establishment complies with the provisions of\nthe rules and regulations in regard to sanitation governing egg breaking\nestablishments, the Department shall issue an Egg Breaker's License to the\nestablishment, upon payment of the required fee. Beginning on November 1, 2010, the license year shall begin on November 1 and expire on June 30, 2011. Thereafter, the license year shall begin on July 1 of each year, and all licenses shall expire on June 30 of the following year. The license fee shall be $200 for a year or fraction thereof.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-165",
+      "number": "16.5.",
+      "heading": "Violations; administrative monetary penalties. The Director is",
+      "text": "authorized to hold administrative hearings to determine violations of this Act\nor the Department's rules and regulations adopted under this Act. After\nfinding that a violation has occurred, the Director may impose administrative\nmonetary penalties as follows:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-166",
+      "number": "16.6.",
+      "heading": "Violations; penalties. Any person knowingly violating this Act or any rule or order of the Department issued pursuant to this Act shall be guilty of a Class C misdemeanor",
+      "text": "Each day of violation constitutes a separate offense.\nIn the event the person violating this Act or any rule or order issued pursuant to the Act is a corporation or partnership, any officer, director, manager, or managerial agent of the corporation or partnership who violates this Act or causes the corporation or partnership to violate this Act is guilty of a Class C misdemeanor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-167",
+      "number": "16.7.",
+      "heading": "Suspension and revocation of license.",
+      "text": "Suspension and revocation of license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169",
+      "number": "16.9.",
+      "heading": "Termination of application; forfeiture of license fee",
+      "text": "Failure of any applicant to meet all of the requirements for compliance within 60 days after receipt of a license application shall result in termination of the application and forfeiture of the license fee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-17",
+      "number": "17.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-175",
+      "number": "17.5.",
+      "heading": "Subpoenas.",
+      "text": "The Director may issue subpoenas, may bring\nbefore the Department any person, and may take testimony either at an\nadministrative\nhearing or by deposition, with witness fees and mileage fees and in the same\nmanner as prescribed in the Code of Civil Procedure. The Director may\nadminister oaths to witnesses at any proceeding that the Department is\nauthorized by law to conduct. The Director may issue subpoenas duces tecum to\ncommand the production of any records relating to any person. Subpoenas are\nsubject to the rules of the Department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-18",
+      "number": "18.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-185",
+      "number": "18.5.",
+      "heading": "Administrative procedure.",
+      "text": "The Illinois Administrative\nProcedure Act and the Department's rules concerning administrative hearings\napply to this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19",
+      "number": "19.",
+      "heading": "All final",
+      "text": "administrative decisions of the Department are subject to judicial review\nunder Article III of the Code of Civil Procedure and rules adopted\nunder that Article. The term\n\"administrative decision\" is defined as in Section 3-101 of the Code of Civil\nProcedure.\nProceedings for judicial review shall be commenced in the circuit court of\nany county permitted by Section 3-104 of the Code of Civil Procedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-20",
+      "number": "20.",
+      "heading": "Deposit of fees and civil penalties.",
+      "text": "All license fees and\npenalties collected under this Act shall be paid\ninto the Agricultural Master Fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-21",
+      "number": "21.",
+      "heading": "The invalidity of any Section or parts of any Section of this Act",
+      "text": "or any rule or regulation pursuant thereto shall not affect the validity\nof the remainder\nof this Act, or any rule or regulation.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

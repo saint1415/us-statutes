@@ -1,0 +1,622 @@
+{
+  "state": "virginia",
+  "path": "title-title-452-mines-minerals-and-energy/chapter-chapter-11-mineral-mine-safety-act",
+  "sections": [
+    {
+      "id": "section-1",
+      "number": "1.",
+      "heading": "General Provisions§ 45.2-1100. Mineral Mine Safety Act§ 45",
+      "text": "2-1101. Definitions§ 45.2-1102. Safety and health§ 45.2-1103. Special safety rules§ 45.2-1104. Persons permitted to work in mines; age requirements§ 45.2-1105. Prohibited acts by miners or other persons; miners to comply with law§ 45.2-1106.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1100",
+      "number": "45.2-1100.",
+      "heading": "Mineral Mine Safety Act",
+      "text": "Mineral Mine Safety Act",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1101",
+      "number": "45.2-1101.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1102",
+      "number": "45.2-1102.",
+      "heading": "Safety and health",
+      "text": "Safety and health",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1103",
+      "number": "45.2-1103.",
+      "heading": "Special safety rules",
+      "text": "Special safety rules",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1104",
+      "number": "45.2-1104.",
+      "heading": "Persons permitted to work in mines; age requirements",
+      "text": "Persons permitted to work in mines; age requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1105",
+      "number": "45.2-1105.",
+      "heading": "Prohibited acts by miners or other persons; miners to comply with law",
+      "text": "Prohibited acts by miners or other persons; miners to comply with law",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1106",
+      "number": "45.2-1106.",
+      "heading": "Safety materials and supplies",
+      "text": "Safety materials and supplies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1107",
+      "number": "45.2-1107.",
+      "heading": "Notifying miners of violations; compliance with Act",
+      "text": "Notifying miners of violations; compliance with Act",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2",
+      "number": "2.",
+      "heading": "Director and Mining Inspectors",
+      "text": "Director and Mining Inspectors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1108",
+      "number": "45.2-1108.",
+      "heading": "Affiliations of Department personnel with labor union, mining company, etc",
+      "text": "; interest in mine; inspections of mines where inspector previously employed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1109",
+      "number": "45.2-1109.",
+      "heading": "Appointment and general qualifications of mine inspectors",
+      "text": "Appointment and general qualifications of mine inspectors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1110",
+      "number": "45.2-1110.",
+      "heading": "Qualifications of mine inspectors",
+      "text": "Qualifications of mine inspectors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1111",
+      "number": "45.2-1111.",
+      "heading": "Duties of Director",
+      "text": "Duties of Director",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1112",
+      "number": "45.2-1112.",
+      "heading": "Technical specialists",
+      "text": "Technical specialists",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3",
+      "number": "3.",
+      "heading": "Certification of Mineral Mine Workers",
+      "text": "Certification of Mineral Mine Workers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1113",
+      "number": "45.2-1113.",
+      "heading": "Records of Board of Mineral Mining Examiners",
+      "text": "Records of Board of Mineral Mining Examiners",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1114",
+      "number": "45.2-1114.",
+      "heading": "Certification of certain persons employed in mineral mines; powers of the Department",
+      "text": "Certification of certain persons employed in mineral mines; powers of the Department",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1115",
+      "number": "45.2-1115.",
+      "heading": "Examinations required for Mineral Mining Certifications",
+      "text": "Examinations required for Mineral Mining Certifications",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1116",
+      "number": "45.2-1116.",
+      "heading": "Performance of certain tasks by uncertified persons; penalty",
+      "text": "Performance of certain tasks by uncertified persons; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1117",
+      "number": "45.2-1117.",
+      "heading": "Examination fees; Mineral Mining Examiners' Fund",
+      "text": "Examination fees; Mineral Mining Examiners' Fund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1118",
+      "number": "45.2-1118.",
+      "heading": "Reciprocal acceptance of other certifications",
+      "text": "Reciprocal acceptance of other certifications",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1119",
+      "number": "45.2-1119.",
+      "heading": "Renewal of certificates",
+      "text": "Renewal of certificates",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1120",
+      "number": "45.2-1120.",
+      "heading": "Revocation of certificates",
+      "text": "Revocation of certificates",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1121",
+      "number": "45.2-1121.",
+      "heading": "Reexamination",
+      "text": "Reexamination",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1122",
+      "number": "45.2-1122.",
+      "heading": "General mineral miner certification",
+      "text": "General mineral miner certification",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1123",
+      "number": "45.2-1123.",
+      "heading": "Foreman certification",
+      "text": "Foreman certification",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4",
+      "number": "4.",
+      "heading": "Licensing of Mineral Mines",
+      "text": "Licensing of Mineral Mines",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1124",
+      "number": "45.2-1124.",
+      "heading": "License required for operation of mineral mines; term",
+      "text": "License required for operation of mineral mines; term",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1125",
+      "number": "45.2-1125.",
+      "heading": "Fee to accompany application for license; Mineral Mine License Fund; disposition of fees",
+      "text": "Fee to accompany application for license; Mineral Mine License Fund; disposition of fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1126",
+      "number": "45.2-1126.",
+      "heading": "Application for license",
+      "text": "Application for license",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1127",
+      "number": "45.2-1127.",
+      "heading": "Denial or revocation of license",
+      "text": "Denial or revocation of license",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1128",
+      "number": "45.2-1128.",
+      "heading": "Operating without license; penalty",
+      "text": "Operating without license; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1129",
+      "number": "45.2-1129.",
+      "heading": "Annual reports; condition to issuance of license following transfer of ownership",
+      "text": "Annual reports; condition to issuance of license following transfer of ownership",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1130",
+      "number": "45.2-1130.",
+      "heading": "Notices to Department; resumption of mining following discontinuance",
+      "text": "Notices to Department; resumption of mining following discontinuance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1131",
+      "number": "45.2-1131.",
+      "heading": "Maps of mines required to be made; contents; extension and preservation; use by Department; release; posting of map",
+      "text": "Maps of mines required to be made; contents; extension and preservation; use by Department; release; posting of map",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1132",
+      "number": "45.2-1132.",
+      "heading": "When the Director may cause maps to be made; payment of expense",
+      "text": "When the Director may cause maps to be made; payment of expense",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1133",
+      "number": "45.2-1133.",
+      "heading": "Making false statements; penalty",
+      "text": "Making false statements; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5",
+      "number": "5.",
+      "heading": "Mine Rescue Teams",
+      "text": "Mine Rescue Teams",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1134",
+      "number": "45.2-1134.",
+      "heading": "Mine rescue and first aid stations",
+      "text": "Mine rescue and first aid stations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1135",
+      "number": "45.2-1135.",
+      "heading": "Mine rescue teams",
+      "text": "Mine rescue teams",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1136",
+      "number": "45.2-1136.",
+      "heading": "Duty to train team",
+      "text": "Duty to train team",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1137",
+      "number": "45.2-1137.",
+      "heading": "Qualification for team membership; direction of teams",
+      "text": "Qualification for team membership; direction of teams",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1138",
+      "number": "45.2-1138.",
+      "heading": "Team members considered employees of the mine where emergency exists; compensation; workers' compensation",
+      "text": "Team members considered employees of the mine where emergency exists; compensation; workers' compensation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1139",
+      "number": "45.2-1139.",
+      "heading": "Requirements of recovery work",
+      "text": "Requirements of recovery work",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1140",
+      "number": "45.2-1140.",
+      "heading": "State-designated mine rescue teams",
+      "text": "State-designated mine rescue teams",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1141",
+      "number": "45.2-1141.",
+      "heading": "Mine Rescue Fund",
+      "text": "Mine Rescue Fund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1142",
+      "number": "45.2-1142.",
+      "heading": "Inspections; Mine Rescue Coordinator",
+      "text": "Inspections; Mine Rescue Coordinator",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1143",
+      "number": "45.2-1143.",
+      "heading": "Workers' compensation; liability",
+      "text": "Workers' compensation; liability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6",
+      "number": "6.",
+      "heading": "Mine Explosions; Mine Fires; Accidents",
+      "text": "Mine Explosions; Mine Fires; Accidents",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1144",
+      "number": "45.2-1144.",
+      "heading": "Reports of explosions and mine fires; procedure",
+      "text": "Reports of explosions and mine fires; procedure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1145",
+      "number": "45.2-1145.",
+      "heading": "Operators' reports of accidents; investigations; reports by Department",
+      "text": "Operators' reports of accidents; investigations; reports by Department",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1146",
+      "number": "45.2-1146.",
+      "heading": "Reports of other accidents and injuries",
+      "text": "Reports of other accidents and injuries",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1147",
+      "number": "45.2-1147.",
+      "heading": "Duties of mine inspectors",
+      "text": "Duties of mine inspectors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7",
+      "number": "7.",
+      "heading": "Mine Inspections",
+      "text": "Mine Inspections",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1148",
+      "number": "45.2-1148.",
+      "heading": "Frequency of mine inspections",
+      "text": "Frequency of mine inspections",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1149",
+      "number": "45.2-1149.",
+      "heading": "Evaluation of risks at mines",
+      "text": "Evaluation of risks at mines",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1150",
+      "number": "45.2-1150.",
+      "heading": "Review of inspection reports and records",
+      "text": "Review of inspection reports and records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1151",
+      "number": "45.2-1151.",
+      "heading": "Advance notice of inspections; confidentiality of trade secrets",
+      "text": "Advance notice of inspections; confidentiality of trade secrets",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1152",
+      "number": "45.2-1152.",
+      "heading": "Scheduling of mine inspections",
+      "text": "Scheduling of mine inspections",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1153",
+      "number": "45.2-1153.",
+      "heading": "Denial of entry",
+      "text": "Denial of entry",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1154",
+      "number": "45.2-1154.",
+      "heading": "Duties of operator",
+      "text": "Duties of operator",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1155",
+      "number": "45.2-1155.",
+      "heading": "Duties of inspectors",
+      "text": "Duties of inspectors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1156",
+      "number": "45.2-1156.",
+      "heading": "Certificates of inspection",
+      "text": "Certificates of inspection",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8",
+      "number": "8.",
+      "heading": "Enforcement and Penalties; Reports of Violations",
+      "text": "Enforcement and Penalties; Reports of Violations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1157",
+      "number": "45.2-1157.",
+      "heading": "Notices of violations",
+      "text": "Notices of violations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1158",
+      "number": "45.2-1158.",
+      "heading": "Closure orders",
+      "text": "Closure orders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1159",
+      "number": "45.2-1159.",
+      "heading": "Tolling of time for abating violations",
+      "text": "Tolling of time for abating violations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1160",
+      "number": "45.2-1160.",
+      "heading": "Injunctive relief",
+      "text": "Injunctive relief",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1161",
+      "number": "45.2-1161.",
+      "heading": "Violations; penalties",
+      "text": "Violations; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1162",
+      "number": "45.2-1162.",
+      "heading": "Prosecution of violations",
+      "text": "Prosecution of violations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1163",
+      "number": "45.2-1163.",
+      "heading": "Fees and costs",
+      "text": "Fees and costs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1164",
+      "number": "45.2-1164.",
+      "heading": "Reports of violations",
+      "text": "Reports of violations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9",
+      "number": "9.",
+      "heading": "Miner Training",
+      "text": "Miner Training",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1165",
+      "number": "45.2-1165.",
+      "heading": "Training programs",
+      "text": "Training programs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1166",
+      "number": "45.2-1166.",
+      "heading": "Mineral mining safety training",
+      "text": "Mineral mining safety training",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452-1167",
+      "number": "45.2-1167.",
+      "heading": "Mineral mining safety training programs",
+      "text": "Mineral mining safety training programs",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

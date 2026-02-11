@@ -1,0 +1,1606 @@
+{
+  "state": "louisiana",
+  "path": "title-revised-statutes/chapter-title-8-cemeteries",
+  "sections": [
+    {
+      "id": "section-81",
+      "number": "8:1.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-861",
+      "number": "8:61.",
+      "heading": "Cemetery board created; appointments; terms",
+      "text": "Cemetery board created; appointments; terms",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-862",
+      "number": "8:62.",
+      "heading": "Qualifications of members",
+      "text": "Qualifications of members",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-863",
+      "number": "8:63.",
+      "heading": "Compensation; expenses",
+      "text": "Compensation; expenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-864",
+      "number": "8:64.",
+      "heading": "Officers; administrative director; employees",
+      "text": "Officers; administrative director; employees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-865",
+      "number": "8:65.",
+      "heading": "Meetings",
+      "text": "Meetings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-866",
+      "number": "8:66.",
+      "heading": "Administration and enforcement of law",
+      "text": "Administration and enforcement of law",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8661",
+      "number": "8:66.1.",
+      "heading": "Investigations",
+      "text": "Investigations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8662",
+      "number": "8:66.2.",
+      "heading": "Cease and desist orders",
+      "text": "Cease and desist orders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-867",
+      "number": "8:67.",
+      "heading": "Rules and regulations",
+      "text": "Rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-868",
+      "number": "8:68.",
+      "heading": "Hearings",
+      "text": "Hearings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-869",
+      "number": "8:69.",
+      "heading": "Actions to enforce law; attorney general; special counsel",
+      "text": "Actions to enforce law; attorney general; special counsel",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8691",
+      "number": "8:69.1.",
+      "heading": "Service of pleadings upon board",
+      "text": "Service of pleadings upon board",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8692",
+      "number": "8:69.2.",
+      "heading": "Receiverships; procedure; powers, duties, and qualifications; disposition of cemetery",
+      "text": "Receiverships; procedure; powers, duties, and qualifications; disposition of cemetery",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-870",
+      "number": "8:70.",
+      "heading": "Application for certificate of authority",
+      "text": "Application for certificate of authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-871",
+      "number": "8:71.",
+      "heading": "Proof of applicant's compliance with law, rules, and regulations; financial responsibility and reputation",
+      "text": "Proof of applicant's compliance with law, rules, and regulations; financial responsibility and reputation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-872",
+      "number": "8:72.",
+      "heading": "Certificates; regulatory charges; suspension; restoration; late charge; requirement of certificate",
+      "text": "Certificates; regulatory charges; suspension; restoration; late charge; requirement of certificate",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-873",
+      "number": "8:73.",
+      "heading": "Regulatory charges; rate",
+      "text": "Regulatory charges; rate",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-874",
+      "number": "8:74.",
+      "heading": "Sale or interment; certificate of authority; penalty",
+      "text": "Sale or interment; certificate of authority; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-875",
+      "number": "8:75.",
+      "heading": "Refusal to grant, revocation, or suspension of certificate; injunction; fines; additional orders",
+      "text": "Refusal to grant, revocation, or suspension of certificate; injunction; fines; additional orders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-876",
+      "number": "8:76.",
+      "heading": "Sale or transfer of cemetery authority; application for new certificate of authority; compliance required; late charge",
+      "text": "Sale or transfer of cemetery authority; application for new certificate of authority; compliance required; late charge",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-877",
+      "number": "8:77.",
+      "heading": "Cemetery fund",
+      "text": "Cemetery fund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-878",
+      "number": "8:78.",
+      "heading": "Exemptions; exempt certificates of authority; renewal; fees",
+      "text": "Exemptions; exempt certificates of authority; renewal; fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-879",
+      "number": "8:79.",
+      "heading": "Actions for violation of this Title",
+      "text": "Actions for violation of this Title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8101",
+      "number": "8:101.",
+      "heading": "Municipal corporations; establishment and maintenance of cemeteries",
+      "text": "Municipal corporations; establishment and maintenance of cemeteries",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8102",
+      "number": "8:102.",
+      "heading": "Ordinance creating cemetery; location",
+      "text": "Ordinance creating cemetery; location",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8103",
+      "number": "8:103.",
+      "heading": "Anticipation of revenues; bonds or certificates; taxes",
+      "text": "Anticipation of revenues; bonds or certificates; taxes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8104",
+      "number": "8:104.",
+      "heading": "Funds for support and improvement; special municipal election authorized",
+      "text": "Funds for support and improvement; special municipal election authorized",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8105",
+      "number": "8:105.",
+      "heading": "Maximum tax; use of proceeds",
+      "text": "Maximum tax; use of proceeds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8106",
+      "number": "8:106.",
+      "heading": "Rules and regulations; sexton and other employees",
+      "text": "Rules and regulations; sexton and other employees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8107",
+      "number": "8:107.",
+      "heading": "Gifts, donations, and contributions",
+      "text": "Gifts, donations, and contributions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8108",
+      "number": "8:108.",
+      "heading": "Expropriation",
+      "text": "Expropriation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8109",
+      "number": "8:109.",
+      "heading": "Lots, plots, or burial spaces; permits for interment; sale",
+      "text": "Lots, plots, or burial spaces; permits for interment; sale",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8110",
+      "number": "8:110.",
+      "heading": "Contract to assure proper care; maintenance; and control",
+      "text": "Contract to assure proper care; maintenance; and control",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8111",
+      "number": "8:111.",
+      "heading": "Roads and drainage; parishes may provide",
+      "text": "Roads and drainage; parishes may provide",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8112",
+      "number": "8:112.",
+      "heading": "Expropriation of abandoned private cemeteries",
+      "text": "Expropriation of abandoned private cemeteries",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8113",
+      "number": "8:113.",
+      "heading": "Powers of parish governing authorities",
+      "text": "Powers of parish governing authorities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8114",
+      "number": "8:114.",
+      "heading": "Publicly owned cemeteries; mandatory trust accounts",
+      "text": "Publicly owned cemeteries; mandatory trust accounts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8121",
+      "number": "8:121.",
+      "heading": "St. Mary Parish Cemetery District; creation; location",
+      "text": "St. Mary Parish Cemetery District; creation; location",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8122",
+      "number": "8:122.",
+      "heading": "Board; qualification of members; appointment; vacancies; removal of members; officers",
+      "text": "Board; qualification of members; appointment; vacancies; removal of members; officers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8123",
+      "number": "8:123.",
+      "heading": "Corporate status; purpose; powers and duties",
+      "text": "Corporate status; purpose; powers and duties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8124",
+      "number": "8:124.",
+      "heading": "District as political subdivision; election imposing taxes, maximum tax; authority",
+      "text": "District as political subdivision; election imposing taxes, maximum tax; authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8131",
+      "number": "8:131.",
+      "heading": "Rapides Parish Cemetery District; creation; location",
+      "text": "Rapides Parish Cemetery District; creation; location",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-81311",
+      "number": "8:131.1.",
+      "heading": "Board of commissioners; membership; appointment; vacancies; removal of members; officers",
+      "text": "Board of commissioners; membership; appointment; vacancies; removal of members; officers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-81312",
+      "number": "8:131.2.",
+      "heading": "Powers and duties of the board; grants; donations",
+      "text": "Powers and duties of the board; grants; donations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8132",
+      "number": "8:132.",
+      "heading": "Grant Parish Cemetery District; creation; boundaries; purpose",
+      "text": "Grant Parish Cemetery District; creation; boundaries; purpose",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-81321",
+      "number": "8:132.1.",
+      "heading": "Board; qualification of members; appointment; vacancies; removal of members; officers",
+      "text": "Board; qualification of members; appointment; vacancies; removal of members; officers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-81322",
+      "number": "8:132.2.",
+      "heading": "Corporate status; powers and duties",
+      "text": "Corporate status; powers and duties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-81323",
+      "number": "8:132.3.",
+      "heading": "District as a political subdivision; election imposing taxes, maximum tax; authority",
+      "text": "District as a political subdivision; election imposing taxes, maximum tax; authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8133",
+      "number": "8:133.",
+      "heading": "LaSalle Parish Cemetery District; creation; boundaries; purpose",
+      "text": "LaSalle Parish Cemetery District; creation; boundaries; purpose",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-81331",
+      "number": "8:133.1.",
+      "heading": "Board; qualification of members; appointment; vacancies; removal of members; officers",
+      "text": "Board; qualification of members; appointment; vacancies; removal of members; officers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-81332",
+      "number": "8:133.2.",
+      "heading": "Corporate status; powers and duties",
+      "text": "Corporate status; powers and duties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-81333",
+      "number": "8:133.3.",
+      "heading": "District as a political subdivision; election imposing taxes, maximum tax; authority",
+      "text": "District as a political subdivision; election imposing taxes, maximum tax; authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8135",
+      "number": "8:135.",
+      "heading": "Sweet Lake - Grand Lake Community Cemetery District; creation; boundaries; purpose",
+      "text": "Sweet Lake - Grand Lake Community Cemetery District; creation; boundaries; purpose",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-81351",
+      "number": "8:135.1.",
+      "heading": "Board; qualification of members; appointment; vacancies; removal of members; officers",
+      "text": "Board; qualification of members; appointment; vacancies; removal of members; officers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-81352",
+      "number": "8:135.2.",
+      "heading": "Corporate status; powers and duties",
+      "text": "Corporate status; powers and duties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8141",
+      "number": "8:141.",
+      "heading": "St. Landry Parish Cemetery District; creation; boundaries; purpose",
+      "text": "St. Landry Parish Cemetery District; creation; boundaries; purpose",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-81411",
+      "number": "8:141.1.",
+      "heading": "Board; qualification of members; appointment; vacancies; officers",
+      "text": "Board; qualification of members; appointment; vacancies; officers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-81412",
+      "number": "8:141.2.",
+      "heading": "Corporate status; powers and duties",
+      "text": "Corporate status; powers and duties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-81413",
+      "number": "8:141.3.",
+      "heading": "District as a political subdivision; election imposing taxes, maximum tax; authority",
+      "text": "District as a political subdivision; election imposing taxes, maximum tax; authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8201",
+      "number": "8:201.",
+      "heading": "Incorporation required",
+      "text": "Incorporation required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8202",
+      "number": "8:202.",
+      "heading": "Corporations; how organized",
+      "text": "Corporations; how organized",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8203",
+      "number": "8:203.",
+      "heading": "Prior operations not affected",
+      "text": "Prior operations not affected",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8204",
+      "number": "8:204.",
+      "heading": "Specific powers; rulemaking and enforcement",
+      "text": "Specific powers; rulemaking and enforcement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8205",
+      "number": "8:205.",
+      "heading": "Rules and regulations; posting",
+      "text": "Rules and regulations; posting",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8206",
+      "number": "8:206.",
+      "heading": "Contracts required; disclosure",
+      "text": "Contracts required; disclosure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8301",
+      "number": "8:301.",
+      "heading": "Right to acquire property",
+      "text": "Right to acquire property",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8302",
+      "number": "8:302.",
+      "heading": "Surveys and maps",
+      "text": "Surveys and maps",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8303",
+      "number": "8:303.",
+      "heading": "Maps and plats; amendment",
+      "text": "Maps and plats; amendment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8304",
+      "number": "8:304.",
+      "heading": "Permanency of dedication",
+      "text": "Permanency of dedication",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8305",
+      "number": "8:305.",
+      "heading": "Rule against perpetuities, etc., inapplicable",
+      "text": "Rule against perpetuities, etc., inapplicable",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8306",
+      "number": "8:306.",
+      "heading": "Removal of dedication; procedure",
+      "text": "Removal of dedication; procedure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8307",
+      "number": "8:307.",
+      "heading": "Notice of hearing",
+      "text": "Notice of hearing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8308",
+      "number": "8:308.",
+      "heading": "Sale of cemetery spaces; abandoned spaces defined; sale of abandoned spaces",
+      "text": "Sale of cemetery spaces; abandoned spaces defined; sale of abandoned spaces",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-83081",
+      "number": "8:308.1.",
+      "heading": "Franklin; interment space ownership",
+      "text": "Franklin; interment space ownership",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8309",
+      "number": "8:309.",
+      "heading": "Execution of conveyances",
+      "text": "Execution of conveyances",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8310",
+      "number": "8:310.",
+      "heading": "Interment spaces indivisible",
+      "text": "Interment spaces indivisible",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8311",
+      "number": "8:311.",
+      "heading": "Commission on sales prohibited",
+      "text": "Commission on sales prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8312",
+      "number": "8:312.",
+      "heading": "Employment of solicitors prohibited",
+      "text": "Employment of solicitors prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8313",
+      "number": "8:313.",
+      "heading": "Exemption from seizure and sale; mortgage prohibited",
+      "text": "Exemption from seizure and sale; mortgage prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8314",
+      "number": "8:314.",
+      "heading": "Record of ownership and transfers",
+      "text": "Record of ownership and transfers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8315",
+      "number": "8:315.",
+      "heading": "Inspection of records",
+      "text": "Inspection of records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8316",
+      "number": "8:316.",
+      "heading": "Opening of roads and railroads through cemetery; consent required; exception",
+      "text": "Opening of roads and railroads through cemetery; consent required; exception",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8317",
+      "number": "8:317.",
+      "heading": "Certain cemetery lands exempt from taxes",
+      "text": "Certain cemetery lands exempt from taxes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8401",
+      "number": "8:401.",
+      "heading": "License to engage in business",
+      "text": "License to engage in business",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8402",
+      "number": "8:402.",
+      "heading": "Application for license",
+      "text": "Application for license",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8403",
+      "number": "8:403.",
+      "heading": "Application fee; annual fee",
+      "text": "Application fee; annual fee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8404",
+      "number": "8:404.",
+      "heading": "Investigation by board",
+      "text": "Investigation by board",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8405",
+      "number": "8:405.",
+      "heading": "Issuance of license; board's discretion",
+      "text": "Issuance of license; board's discretion",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8406",
+      "number": "8:406.",
+      "heading": "Denial procedure",
+      "text": "Denial procedure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8407",
+      "number": "8:407.",
+      "heading": "Sale or transfer of cemetery sales or cemetery management organization; application for new license; compliance required",
+      "text": "Sale or transfer of cemetery sales or cemetery management organization; application for new license; compliance required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8408",
+      "number": "8:408.",
+      "heading": "Penalties",
+      "text": "Penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8411",
+      "number": "8:411.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8412",
+      "number": "8:412.",
+      "heading": "Application for license; qualifications; fees",
+      "text": "Application for license; qualifications; fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8413",
+      "number": "8:413.",
+      "heading": "Licensee authority; restrictions",
+      "text": "Licensee authority; restrictions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8414",
+      "number": "8:414.",
+      "heading": "Additional powers of the board",
+      "text": "Additional powers of the board",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8415",
+      "number": "8:415.",
+      "heading": "Labor by prisoners permitted",
+      "text": "Labor by prisoners permitted",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8416",
+      "number": "8:416.",
+      "heading": "Liability",
+      "text": "Liability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8417",
+      "number": "8:417.",
+      "heading": "Inadvertent discovery",
+      "text": "Inadvertent discovery",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8418",
+      "number": "8:418.",
+      "heading": "Scope",
+      "text": "Scope",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8451",
+      "number": "8:451.",
+      "heading": "Corporate operation",
+      "text": "Corporate operation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8452",
+      "number": "8:452.",
+      "heading": "Certification of trust fund in articles of incorporation; amendments",
+      "text": "Certification of trust fund in articles of incorporation; amendments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8453",
+      "number": "8:453.",
+      "heading": "Cemeteries in existence on August 1, 1962; acts prohibited",
+      "text": "Cemeteries in existence on August 1, 1962; acts prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8454",
+      "number": "8:454.",
+      "heading": "Trust funds required; master trust funds",
+      "text": "Trust funds required; master trust funds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-84541",
+      "number": "8:454.1.",
+      "heading": "Administration of trust funds; maintenance; exemption from seizure",
+      "text": "Administration of trust funds; maintenance; exemption from seizure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-84542",
+      "number": "8:454.2.",
+      "heading": "Income distribution methods; application; restrictions",
+      "text": "Income distribution methods; application; restrictions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-84543",
+      "number": "8:454.3.",
+      "heading": "Merger of cemetery trust funds",
+      "text": "Merger of cemetery trust funds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8455",
+      "number": "8:455.",
+      "heading": "Annual report by cemeteries",
+      "text": "Annual report by cemeteries",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8456",
+      "number": "8:456.",
+      "heading": "Annual report by trustee; final accounting by trustee required",
+      "text": "Annual report by trustee; final accounting by trustee required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-84561",
+      "number": "8:456.1.",
+      "heading": "Resignation of trustee; orderly transfer of trust fund",
+      "text": "Resignation of trustee; orderly transfer of trust fund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8457",
+      "number": "8:457.",
+      "heading": "Application of Chapter",
+      "text": "Application of Chapter",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8458",
+      "number": "8:458.",
+      "heading": "Prohibited acts; injunctions",
+      "text": "Prohibited acts; injunctions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8459",
+      "number": "8:459.",
+      "heading": "Cemeteries exempt",
+      "text": "Cemeteries exempt",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-84591",
+      "number": "8:459.1.",
+      "heading": "Trust fund transfers",
+      "text": "Trust fund transfers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8460",
+      "number": "8:460.",
+      "heading": "Penalties",
+      "text": "Penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8461",
+      "number": "8:461.",
+      "heading": "Examination of endowment funds; expenses",
+      "text": "Examination of endowment funds; expenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8462",
+      "number": "8:462.",
+      "heading": "Examination expense; effect of refusal to pay; disposition",
+      "text": "Examination expense; effect of refusal to pay; disposition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8463",
+      "number": "8:463.",
+      "heading": "Powers, duties, and records concerning examination of funds",
+      "text": "Powers, duties, and records concerning examination of funds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8464",
+      "number": "8:464.",
+      "heading": "Action required when authority fails to deposit minimum endowment or perpetual funds",
+      "text": "Action required when authority fails to deposit minimum endowment or perpetual funds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8465",
+      "number": "8:465.",
+      "heading": "Order requiring reinvestment in compliance with law; actions for preservation and protection",
+      "text": "Order requiring reinvestment in compliance with law; actions for preservation and protection",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8466",
+      "number": "8:466.",
+      "heading": "Annual report of cemetery authority; contents; fees",
+      "text": "Annual report of cemetery authority; contents; fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8467",
+      "number": "8:467.",
+      "heading": "Examination of reports",
+      "text": "Examination of reports",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8501",
+      "number": "8:501.",
+      "heading": "Application",
+      "text": "Application",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8502",
+      "number": "8:502.",
+      "heading": "Payments to trust; amounts required; master trust fund",
+      "text": "Payments to trust; amounts required; master trust fund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-85021",
+      "number": "8:502.1.",
+      "heading": "Determination of personal property delivery",
+      "text": "Determination of personal property delivery",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-85022",
+      "number": "8:502.2.",
+      "heading": "Suppliers",
+      "text": "Suppliers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-85023",
+      "number": "8:502.3.",
+      "heading": "Trust fund exempt from seizure",
+      "text": "Trust fund exempt from seizure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8503",
+      "number": "8:503.",
+      "heading": "Withdrawals from trust",
+      "text": "Withdrawals from trust",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8504",
+      "number": "8:504.",
+      "heading": "Payments to purchaser; change of domicile",
+      "text": "Payments to purchaser; change of domicile",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8505",
+      "number": "8:505.",
+      "heading": "Annual reports by trustee; final accounting by trustee required",
+      "text": "Annual reports by trustee; final accounting by trustee required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-85051",
+      "number": "8:505.1.",
+      "heading": "Annual report by cemeteries or other entities; report filing fee",
+      "text": "Annual report by cemeteries or other entities; report filing fee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-85052",
+      "number": "8:505.2.",
+      "heading": "Resignation of trustee; orderly transfer of trust fund",
+      "text": "Resignation of trustee; orderly transfer of trust fund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8506",
+      "number": "8:506.",
+      "heading": "Examination by board; expenses",
+      "text": "Examination by board; expenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-85061",
+      "number": "8:506.1.",
+      "heading": "Failure to make required deposits; action",
+      "text": "Failure to make required deposits; action",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8507",
+      "number": "8:507.",
+      "heading": "Nonwaiver of provisions of Chapter",
+      "text": "Nonwaiver of provisions of Chapter",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8508",
+      "number": "8:508.",
+      "heading": "Penalties",
+      "text": "Penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8509",
+      "number": "8:509.",
+      "heading": "Trustee's duty of care",
+      "text": "Trustee's duty of care",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8510",
+      "number": "8:510.",
+      "heading": "Exceptions; trust fund transfers",
+      "text": "Exceptions; trust fund transfers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8511",
+      "number": "8:511.",
+      "heading": "Nonretroactive effect",
+      "text": "Nonretroactive effect",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8512",
+      "number": "8:512.",
+      "heading": "Examination of reports",
+      "text": "Examination of reports",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8601",
+      "number": "8:601.",
+      "heading": "Application of Chapter",
+      "text": "Application of Chapter",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8602",
+      "number": "8:602.",
+      "heading": "Standards of construction",
+      "text": "Standards of construction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8603",
+      "number": "8:603.",
+      "heading": "Ordinances and specifications to be complied with",
+      "text": "Ordinances and specifications to be complied with",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8604",
+      "number": "8:604.",
+      "heading": "Improper construction a nuisance; penalty",
+      "text": "Improper construction a nuisance; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8605",
+      "number": "8:605.",
+      "heading": "Construction in compliance with existing laws",
+      "text": "Construction in compliance with existing laws",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8606",
+      "number": "8:606.",
+      "heading": "Commencement and completion requirements; application form; application fee",
+      "text": "Commencement and completion requirements; application form; application fee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8651",
+      "number": "8:651.",
+      "heading": "Interring or cremating",
+      "text": "Interring or cremating",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8652",
+      "number": "8:652.",
+      "heading": "Unlawful disposal of remains",
+      "text": "Unlawful disposal of remains",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8653",
+      "number": "8:653.",
+      "heading": "Opening graves; stealing body; receiving same",
+      "text": "Opening graves; stealing body; receiving same",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8654",
+      "number": "8:654.",
+      "heading": "Mutilating, disinterring human remains; penalty",
+      "text": "Mutilating, disinterring human remains; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8655",
+      "number": "8:655.",
+      "heading": "Right of disposing of remains; military personnel; limitation of liability",
+      "text": "Right of disposing of remains; military personnel; limitation of liability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8656",
+      "number": "8:656.",
+      "heading": "Effect of authorization",
+      "text": "Effect of authorization",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8657",
+      "number": "8:657.",
+      "heading": "Right to rely on such authorization",
+      "text": "Right to rely on such authorization",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8658",
+      "number": "8:658.",
+      "heading": "Liability for damages; limitation",
+      "text": "Liability for damages; limitation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8659",
+      "number": "8:659.",
+      "heading": "Permission to move remains",
+      "text": "Permission to move remains",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8660",
+      "number": "8:660.",
+      "heading": "Exceptions",
+      "text": "Exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8661",
+      "number": "8:661.",
+      "heading": "Undisposed remains; rules and regulations",
+      "text": "Undisposed remains; rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8662",
+      "number": "8:662.",
+      "heading": "Record of remains to be kept",
+      "text": "Record of remains to be kept",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8663",
+      "number": "8:663.",
+      "heading": "Collection, analysis, and reburial of exposed human skeletal remains",
+      "text": "Collection, analysis, and reburial of exposed human skeletal remains",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8671",
+      "number": "8:671.",
+      "heading": "Short title",
+      "text": "Short title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8672",
+      "number": "8:672.",
+      "heading": "Legislative declaration of intent",
+      "text": "Legislative declaration of intent",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8673",
+      "number": "8:673.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8674",
+      "number": "8:674.",
+      "heading": "Exclusions",
+      "text": "Exclusions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8675",
+      "number": "8:675.",
+      "heading": "Repealed by Acts 2009, No. 438, §6B.",
+      "text": "Repealed by Acts 2009, No. 438, §6B.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8676",
+      "number": "8:676.",
+      "heading": "Powers and duties of the secretary",
+      "text": "Powers and duties of the secretary",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8677",
+      "number": "8:677.",
+      "heading": "Revocation or suspension of permits",
+      "text": "Revocation or suspension of permits",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8678",
+      "number": "8:678.",
+      "heading": "Unlawful acts",
+      "text": "Unlawful acts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8679",
+      "number": "8:679.",
+      "heading": "Civil remedies",
+      "text": "Civil remedies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8680",
+      "number": "8:680.",
+      "heading": "Discovery of unmarked burial sites, human skeletal remains, and burial artifacts",
+      "text": "Discovery of unmarked burial sites, human skeletal remains, and burial artifacts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8681",
+      "number": "8:681.",
+      "heading": "Disposition of unmarked burial sites, human skeletal remains, and burial artifacts",
+      "text": "Disposition of unmarked burial sites, human skeletal remains, and burial artifacts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8701",
+      "number": "8:701.",
+      "heading": "Application",
+      "text": "Application",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8702",
+      "number": "8:702.",
+      "heading": "Standards of construction",
+      "text": "Standards of construction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8703",
+      "number": "8:703.",
+      "heading": "Compliance with ordinances and specifications",
+      "text": "Compliance with ordinances and specifications",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8704",
+      "number": "8:704.",
+      "heading": "Improper use a nuisance; penalty",
+      "text": "Improper use a nuisance; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8705",
+      "number": "8:705.",
+      "heading": "Construction in compliance with existing laws",
+      "text": "Construction in compliance with existing laws",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-87051",
+      "number": "8:705.1.",
+      "heading": "Commencement requirements; application form; application fee",
+      "text": "Commencement requirements; application form; application fee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8706",
+      "number": "8:706.",
+      "heading": "Commencement and completion requirements",
+      "text": "Commencement and completion requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8801",
+      "number": "8:801.",
+      "heading": "Recognized owner of title",
+      "text": "Recognized owner of title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8802",
+      "number": "8:802.",
+      "heading": "Transfer of ownership rights",
+      "text": "Transfer of ownership rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8803",
+      "number": "8:803.",
+      "heading": "Descent of title to cemetery space",
+      "text": "Descent of title to cemetery space",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8804",
+      "number": "8:804.",
+      "heading": "Affidavit as authorization",
+      "text": "Affidavit as authorization",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8805",
+      "number": "8:805.",
+      "heading": "When right of interment or cemetery space is inalienable",
+      "text": "When right of interment or cemetery space is inalienable",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8806",
+      "number": "8:806.",
+      "heading": "Rights of co-owners",
+      "text": "Rights of co-owners",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8807",
+      "number": "8:807.",
+      "heading": "Co-owners; identification",
+      "text": "Co-owners; identification",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8808",
+      "number": "8:808.",
+      "heading": "Co-owners may designate representative",
+      "text": "Co-owners may designate representative",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8809",
+      "number": "8:809.",
+      "heading": "Waiver of right of interment",
+      "text": "Waiver of right of interment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8810",
+      "number": "8:810.",
+      "heading": "Termination of vested right by waiver",
+      "text": "Termination of vested right by waiver",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8811",
+      "number": "8:811.",
+      "heading": "Limitations on vested rights",
+      "text": "Limitations on vested rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8812",
+      "number": "8:812.",
+      "heading": "Conveyance of cemetery spaces; formality and recordation",
+      "text": "Conveyance of cemetery spaces; formality and recordation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8813",
+      "number": "8:813.",
+      "heading": "Correction of errors",
+      "text": "Correction of errors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8814",
+      "number": "8:814.",
+      "heading": "Repealed by Acts 2010, No. 175, §6.",
+      "text": "Repealed by Acts 2010, No. 175, §6.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8901",
+      "number": "8:901.",
+      "heading": "Unlawful to use, lease, or sell for drilling, mining, or prospecting; penalty",
+      "text": "Unlawful to use, lease, or sell for drilling, mining, or prospecting; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8902",
+      "number": "8:902.",
+      "heading": "Underground burials; depth",
+      "text": "Underground burials; depth",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8903",
+      "number": "8:903.",
+      "heading": "Maintenance of cemetery spaces more than fifty years old; sale of repaired abandoned cemetery spaces",
+      "text": "Maintenance of cemetery spaces more than fifty years old; sale of repaired abandoned cemetery spaces",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-89031",
+      "number": "8:903.1.",
+      "heading": "Cemeteries; maintenance of vaults and wall vaults more than fifty years old; reclamation by authority",
+      "text": "Cemeteries; maintenance of vaults and wall vaults more than fifty years old; reclamation by authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8904",
+      "number": "8:904.",
+      "heading": "Speculative sales and purchases prohibited; penalties",
+      "text": "Speculative sales and purchases prohibited; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8905",
+      "number": "8:905.",
+      "heading": "Upkeep of cemeteries; local ordinance authorized; penalty; definition of shareholder",
+      "text": "Upkeep of cemeteries; local ordinance authorized; penalty; definition of shareholder",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8906",
+      "number": "8:906.",
+      "heading": "Additional ad valorem tax; Evangeline Parish",
+      "text": "Additional ad valorem tax; Evangeline Parish",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8907",
+      "number": "8:907.",
+      "heading": "Interment of pet remains",
+      "text": "Interment of pet remains",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8908",
+      "number": "8:908.",
+      "heading": "Abatement of public health or safety risks in abandoned cemeteries",
+      "text": "Abatement of public health or safety risks in abandoned cemeteries",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

@@ -1,0 +1,606 @@
+{
+  "state": "hawaii",
+  "path": "title-title-12-conservation-and-resources/chapter-200-ocean-recreation-and-coastal-areas-programs",
+  "sections": [
+    {
+      "id": "section-200-1",
+      "number": "200-1",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-2",
+      "number": "200-2",
+      "heading": "Board of land and natural resources, powers and duties.",
+      "text": "Board of land and natural resources, powers and duties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-25",
+      "number": "200-2.5",
+      "heading": "Disposition of state boating facility properties.",
+      "text": "Disposition of state boating facility properties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-26",
+      "number": "200-2.6",
+      "heading": "Ala Wai boat harbor; leases.",
+      "text": "Ala Wai boat harbor; leases.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-3",
+      "number": "200-3",
+      "heading": "Ocean recreation and coastal areas programs.",
+      "text": "Ocean recreation and coastal areas programs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-35",
+      "number": "200-3.5",
+      "heading": "Prohibited commercial activities on certain beaches; administrative fine.",
+      "text": "Prohibited commercial activities on certain beaches; administrative fine.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-4",
+      "number": "200-4",
+      "heading": "Rules.",
+      "text": "Rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-45",
+      "number": "200-4.5",
+      "heading": "Safety of ocean users; rules.",
+      "text": "Safety of ocean users; rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-46",
+      "number": "200-4.6",
+      "heading": "Alternate access to state boating facilities; rules.",
+      "text": "Alternate access to state boating facilities; rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-5",
+      "number": "200-5",
+      "heading": "Commercial harbors excluded.",
+      "text": "Commercial harbors excluded.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-6",
+      "number": "200-6",
+      "heading": "Limitation of private use of ocean waters and navigable streams.",
+      "text": "Limitation of private use of ocean waters and navigable streams.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-7",
+      "number": "200-7",
+      "heading": "Waiver of mooring charges",
+      "text": "Waiver of mooring charges",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-8",
+      "number": "200-8",
+      "heading": "Boating program; payment of costs.",
+      "text": "Boating program; payment of costs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-9",
+      "number": "200-9",
+      "heading": "Purpose and use of state small boat harbors.",
+      "text": "Purpose and use of state small boat harbors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-10",
+      "number": "200-10",
+      "heading": "Permits and fees for state small boat harbors; permit transfers.",
+      "text": "Permits and fees for state small boat harbors; permit transfers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-105",
+      "number": "200-10.5",
+      "heading": "Sailing school vessels; rules. The department shall adopt rules for the regulation and operation of sailing school vessels",
+      "text": "Until the rules are adopted, sailing school vessels shall be classified as recreational vessels and subject to rules adopted under sections 200-4 and 200-9 that pertain to recr",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-11",
+      "number": "200-11",
+      "heading": "Existing permits.",
+      "text": "Existing permits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-12",
+      "number": "200-12",
+      "heading": "Administration of state small boat harbors.",
+      "text": "Administration of state small boat harbors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-125",
+      "number": "200-12.5",
+      "heading": "Native Hawaiian canoes; education.",
+      "text": "Native Hawaiian canoes; education.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-13",
+      "number": "200-13",
+      "heading": "Marine inspections.",
+      "text": "Marine inspections.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-135",
+      "number": "200-13.5",
+      "heading": "Vessel insurance.",
+      "text": "Vessel insurance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-14",
+      "number": "200-14",
+      "heading": "Violation of rules; penalty.",
+      "text": "Violation of rules; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-145",
+      "number": "200-14.5",
+      "heading": "General administrative penalties.",
+      "text": "General administrative penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-15",
+      "number": "200-15",
+      "heading": "Vessels or property taken into legal custody; unauthorized control.",
+      "text": "Vessels or property taken into legal custody; unauthorized control.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-16",
+      "number": "200-16",
+      "heading": "Unauthorized vessels; impoundment and disposal proceedings.",
+      "text": "Unauthorized vessels; impoundment and disposal proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-165",
+      "number": "200-16.5",
+      "heading": "Responsibility of vessel owner; evidence of unauthorized mooring.",
+      "text": "Responsibility of vessel owner; evidence of unauthorized mooring.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-17",
+      "number": "200-17",
+      "heading": "Designated slip for Coast Guard auxiliary.",
+      "text": "Designated slip for Coast Guard auxiliary.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-18",
+      "number": "200-18",
+      "heading": "Records of suspensions and revocations of operating privileges to be maintained.",
+      "text": "Records of suspensions and revocations of operating privileges to be maintained.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-19",
+      "number": "200-19",
+      "heading": "Private financing of small boat harbor improvements.",
+      "text": "Private financing of small boat harbor improvements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-20",
+      "number": "200-20",
+      "heading": "Hawaiian outrigger canoes on state shoreline areas.",
+      "text": "Hawaiian outrigger canoes on state shoreline areas.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-21",
+      "number": "200-21",
+      "heading": "Declaration of policy.",
+      "text": "Declaration of policy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-22",
+      "number": "200-22",
+      "heading": "Purpose.",
+      "text": "Purpose.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-23",
+      "number": "200-23",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-24",
+      "number": "200-24",
+      "heading": "Rules.",
+      "text": "Rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-25",
+      "number": "200-25",
+      "heading": "Fines and penalties.",
+      "text": "Fines and penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-26",
+      "number": "200-26",
+      "heading": "Arrest or citation.",
+      "text": "Arrest or citation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-27",
+      "number": "200-27",
+      "heading": "Police reports.",
+      "text": "Police reports.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-28",
+      "number": "200-28",
+      "heading": "Duty of operator involved in, and at the scene of, a boating accident; limitations on liability.",
+      "text": "Duty of operator involved in, and at the scene of, a boating accident; limitations on liability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-29",
+      "number": "200-29",
+      "heading": "Accident reports by operators; confidential nature.",
+      "text": "Accident reports by operators; confidential nature.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-30",
+      "number": "200-30",
+      "heading": "Reciprocal agreements and courtesy.",
+      "text": "Reciprocal agreements and courtesy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-31",
+      "number": "200-31",
+      "heading": "Vessels required to be registered and numbered.",
+      "text": "Vessels required to be registered and numbered.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-32",
+      "number": "200-32",
+      "heading": "Fees and charges.",
+      "text": "Fees and charges.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-33",
+      "number": "200-33",
+      "heading": "Future fee and charge increases or decreases.",
+      "text": "Future fee and charge increases or decreases.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-34",
+      "number": "200-34",
+      "heading": "Disposition of revenues.",
+      "text": "Disposition of revenues.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-35",
+      "number": "200-35",
+      "heading": "Uniformity.",
+      "text": "Uniformity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-36",
+      "number": "200-36",
+      "heading": "Preemption of local law and special rules.",
+      "text": "Preemption of local law and special rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-37",
+      "number": "200-37",
+      "heading": "Operation of thrill craft; parasailing; water sledding; commercial high speed boating.",
+      "text": "Operation of thrill craft; parasailing; water sledding; commercial high speed boating.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-375",
+      "number": "200-37.5",
+      "heading": "Emergency communication devices.",
+      "text": "Emergency communication devices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-38",
+      "number": "200-38",
+      "heading": "Ocean recreation management areas.",
+      "text": "Ocean recreation management areas.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-39",
+      "number": "200-39",
+      "heading": "Kaneohe Bay commercial ocean use activities; permits; restrictions.",
+      "text": "Kaneohe Bay commercial ocean use activities; permits; restrictions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-40",
+      "number": "200-40",
+      "heading": "Marine events; permits; exclusive use; cancellation fee.",
+      "text": "Marine events; permits; exclusive use; cancellation fee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-405",
+      "number": "200-40.5",
+      "heading": "Event spectators; hazards; mitigation",
+      "text": "The department may adopt rules, pursuant to chapter 91, to mitigate the hazards posed by vessels, thrill craft, drones, and other means used by spectators to observe or record regattas, marine parades, surfing contests, and other marine events held in the water",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-41",
+      "number": "200-41",
+      "heading": "Abandonment of vessels.",
+      "text": "Abandonment of vessels.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-42",
+      "number": "200-42",
+      "heading": "Notice to owner.",
+      "text": "Notice to owner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-43",
+      "number": "200-43",
+      "heading": "Public auction; disposition of abandoned vessels.",
+      "text": "Public auction; disposition of abandoned vessels.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-44",
+      "number": "200-44",
+      "heading": "Possession by interested party.",
+      "text": "Possession by interested party.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-45",
+      "number": "200-45",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-46",
+      "number": "200-46",
+      "heading": "Effect of sale.",
+      "text": "Effect of sale.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-47",
+      "number": "200-47",
+      "heading": "Disposition of proceeds.",
+      "text": "Disposition of proceeds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-475",
+      "number": "200-47.5",
+      "heading": "Vessels aground.",
+      "text": "Vessels aground.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-48",
+      "number": "200-48",
+      "heading": "Derelict vessel.",
+      "text": "Derelict vessel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-49",
+      "number": "200-49",
+      "heading": "Disposition of derelict vessel.",
+      "text": "Disposition of derelict vessel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-51",
+      "number": "200-51",
+      "heading": "Disposition of vessels abandoned on the premises of a vessel repair business, private marina, yacht club, or other private property.",
+      "text": "Disposition of vessels abandoned on the premises of a vessel repair business, private marina, yacht club, or other private property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-52",
+      "number": "200-52",
+      "heading": "When vessel deemed abandoned on the premises of a vessel repair business, private marina, or yacht club.",
+      "text": "When vessel deemed abandoned on the premises of a vessel repair business, private marina, or yacht club.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-53",
+      "number": "200-53",
+      "heading": "Sale or disposition of vessel.",
+      "text": "Sale or disposition of vessel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-54",
+      "number": "200-54",
+      "heading": "Disposition of proceeds.",
+      "text": "Disposition of proceeds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-55",
+      "number": "200-55",
+      "heading": "Effect of transfer of title.",
+      "text": "Effect of transfer of title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-61",
+      "number": "200-61",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-62",
+      "number": "200-62",
+      "heading": "Trespass to vessel; penalty.",
+      "text": "Trespass to vessel; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-63",
+      "number": "200-63",
+      "heading": "Questioning and detaining suspected persons aboard a vessel.",
+      "text": "Questioning and detaining suspected persons aboard a vessel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-71",
+      "number": "200-71",
+      "heading": "Hull, defined.",
+      "text": "Hull, defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-72",
+      "number": "200-72",
+      "heading": "Defacing, etc., vessel hull identification numbers.",
+      "text": "Defacing, etc., vessel hull identification numbers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-73",
+      "number": "200-73",
+      "heading": "Unlawful to possess certain vessels or hulls.",
+      "text": "Unlawful to possess certain vessels or hulls.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-74",
+      "number": "200-74",
+      "heading": "Penalty.",
+      "text": "Penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-200-81",
+      "number": "200-81",
+      "heading": "to 200-96 REPEALED.",
+      "text": "to 200-96 REPEALED.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

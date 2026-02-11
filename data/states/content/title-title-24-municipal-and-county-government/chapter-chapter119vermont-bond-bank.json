@@ -1,0 +1,534 @@
+{
+  "state": "vermont",
+  "path": "title-title-24-municipal-and-county-government/chapter-chapter119vermont-bond-bank",
+  "sections": [
+    {
+      "id": "section-retary",
+      "number": "retary",
+      "heading": "of the Senate",
+      "text": "of the Senate",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4551",
+      "number": "4551.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4552",
+      "number": "4552.",
+      "heading": "Law governing",
+      "text": "Law governing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4553",
+      "number": "4553.",
+      "heading": "Liberal construction",
+      "text": "Liberal construction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4554",
+      "number": "4554.",
+      "heading": "Administration expenses",
+      "text": "Administration expenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4555",
+      "number": "4555.",
+      "heading": "Duties of State Treasurer",
+      "text": "Duties of State Treasurer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4556",
+      "number": "4556.",
+      "heading": "Cooperation by government agencies; cost",
+      "text": "Cooperation by government agencies; cost",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4571",
+      "number": "4571.",
+      "heading": "Establishment",
+      "text": "Establishment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4571a",
+      "number": "4571a.",
+      "heading": "Reports",
+      "text": "Reports",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4572",
+      "number": "4572.",
+      "heading": "Membership; vacancies",
+      "text": "Membership; vacancies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4573",
+      "number": "4573.",
+      "heading": "Removal from office; oath",
+      "text": "Removal from office; oath",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4574",
+      "number": "4574.",
+      "heading": "Officers; quorum",
+      "text": "Officers; quorum",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4575",
+      "number": "4575.",
+      "heading": "Bonding of members",
+      "text": "Bonding of members",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4576",
+      "number": "4576.",
+      "heading": "Compensation; expenses",
+      "text": "Compensation; expenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4577",
+      "number": "4577.",
+      "heading": "Staff",
+      "text": "Staff",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4591",
+      "number": "4591.",
+      "heading": "General powers",
+      "text": "General powers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4592",
+      "number": "4592.",
+      "heading": "Supplementary powers",
+      "text": "Supplementary powers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4593",
+      "number": "4593.",
+      "heading": "Prohibited acts",
+      "text": "Prohibited acts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4594",
+      "number": "4594.",
+      "heading": "Annual report; audit",
+      "text": "Annual report; audit",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4595",
+      "number": "4595.",
+      "heading": "Annual budget",
+      "text": "Annual budget",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4596",
+      "number": "4596.",
+      "heading": "Care and custody of bonds",
+      "text": "Care and custody of bonds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4621",
+      "number": "4621.",
+      "heading": "Form of obligation; faith and credit",
+      "text": "Form of obligation; faith and credit",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4622",
+      "number": "4622.",
+      "heading": "Negotiability of bonds or notes",
+      "text": "Negotiability of bonds or notes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4623",
+      "number": "4623.",
+      "heading": "Bonds or notes as legal investment",
+      "text": "Bonds or notes as legal investment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4624",
+      "number": "4624.",
+      "heading": "Tax exemption",
+      "text": "Tax exemption",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4641",
+      "number": "4641.",
+      "heading": "Loans to governmental units",
+      "text": "Loans to governmental units",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4642",
+      "number": "4642.",
+      "heading": "Amount and purpose; general obligation",
+      "text": "Amount and purpose; general obligation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4643",
+      "number": "4643.",
+      "heading": "Form of issuance",
+      "text": "Form of issuance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4644",
+      "number": "4644.",
+      "heading": "Sale price",
+      "text": "Sale price",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4645",
+      "number": "4645.",
+      "heading": "Administrative consent or conditions not required",
+      "text": "Administrative consent or conditions not required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4646",
+      "number": "4646.",
+      "heading": "Approval of Governor and Treasurer",
+      "text": "Approval of Governor and Treasurer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4647",
+      "number": "4647.",
+      "heading": "Payment or refunding of notes",
+      "text": "Payment or refunding of notes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4648",
+      "number": "4648.",
+      "heading": "Terms of agreement with bond or noteholder",
+      "text": "Terms of agreement with bond or noteholder",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4649",
+      "number": "4649.",
+      "heading": "Purchase and disposition of own obligations",
+      "text": "Purchase and disposition of own obligations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4650",
+      "number": "4650.",
+      "heading": "Interest rates",
+      "text": "Interest rates",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4651",
+      "number": "4651.",
+      "heading": "Exchange of coupon bonds",
+      "text": "Exchange of coupon bonds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4652",
+      "number": "4652.",
+      "heading": "Waiver of defenses; rights of holder",
+      "text": "Waiver of defenses; rights of holder",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4653",
+      "number": "4653.",
+      "heading": "Bond anticipation notes",
+      "text": "Bond anticipation notes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4654",
+      "number": "4654.",
+      "heading": "Marketability; certification",
+      "text": "Marketability; certification",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4655",
+      "number": "4655.",
+      "heading": "Presumption of validity",
+      "text": "Presumption of validity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4671",
+      "number": "4671.",
+      "heading": "Reserve fund",
+      "text": "Reserve fund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4672",
+      "number": "4672.",
+      "heading": "Withdrawal or transfer",
+      "text": "Withdrawal or transfer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4673",
+      "number": "4673.",
+      "heading": "Investment",
+      "text": "Investment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4674",
+      "number": "4674.",
+      "heading": "Relation to bond sales",
+      "text": "Relation to bond sales",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4675",
+      "number": "4675.",
+      "heading": "Annual appropriation",
+      "text": "Annual appropriation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4676",
+      "number": "4676.",
+      "heading": "General Fund",
+      "text": "General Fund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4677",
+      "number": "4677.",
+      "heading": "Operating expenses",
+      "text": "Operating expenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4678",
+      "number": "4678.",
+      "heading": "Special accounts",
+      "text": "Special accounts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4679",
+      "number": "4679.",
+      "heading": "Additional accounts",
+      "text": "Additional accounts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4680",
+      "number": "4680.",
+      "heading": "Application of funds; excess",
+      "text": "Application of funds; excess",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4681",
+      "number": "4681.",
+      "heading": "Revenue Bond Reserve Fund",
+      "text": "Revenue Bond Reserve Fund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4682",
+      "number": "4682.",
+      "heading": "Investment of Revenue Bond Reserve Fund",
+      "text": "Investment of Revenue Bond Reserve Fund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4683",
+      "number": "4683.",
+      "heading": "Revenue Fund",
+      "text": "Revenue Fund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4684",
+      "number": "4684.",
+      "heading": "Revenue Fund operating expenses",
+      "text": "Revenue Fund operating expenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4685",
+      "number": "4685.",
+      "heading": "Special accounts in Revenue Fund",
+      "text": "Special accounts in Revenue Fund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4686",
+      "number": "4686.",
+      "heading": "Vermont Infrastructure Sustainability Fund",
+      "text": "Vermont Infrastructure Sustainability Fund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4701",
+      "number": "4701.",
+      "heading": "Rights of holders paramount",
+      "text": "Rights of holders paramount",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4702",
+      "number": "4702.",
+      "heading": "Default in payment",
+      "text": "Default in payment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4703",
+      "number": "4703.",
+      "heading": "Powers of trustee on default",
+      "text": "Powers of trustee on default",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4704",
+      "number": "4704.",
+      "heading": "Superior Court jurisdiction",
+      "text": "Superior Court jurisdiction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4705",
+      "number": "4705.",
+      "heading": "Notice on default",
+      "text": "Notice on default",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4706",
+      "number": "4706.",
+      "heading": "Personal liability",
+      "text": "Personal liability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4707",
+      "number": "4707.",
+      "heading": "Exemption from execution and sale",
+      "text": "Exemption from execution and sale",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4708",
+      "number": "4708.",
+      "heading": "Pledge of revenues; lien thereof",
+      "text": "Pledge of revenues; lien thereof",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4709",
+      "number": "4709.",
+      "heading": "Federal insurance or guaranty",
+      "text": "Federal insurance or guaranty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4710",
+      "number": "4710.",
+      "heading": "Surety for deposits by Bank",
+      "text": "Surety for deposits by Bank",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

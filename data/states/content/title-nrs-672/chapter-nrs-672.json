@@ -1,0 +1,878 @@
+{
+  "state": "nevada",
+  "path": "title-nrs-672/chapter-nrs-672",
+  "sections": [
+    {
+      "id": "section-672010",
+      "number": "672.010",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672020",
+      "number": "672.020",
+      "heading": "Account�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672030",
+      "number": "672.030",
+      "heading": "Beneficiary�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672040",
+      "number": "672.040",
+      "heading": "Board�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672050",
+      "number": "672.050",
+      "heading": "Chair�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672061",
+      "number": "672.061",
+      "heading": "Commissioner�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672070",
+      "number": "672.070",
+      "heading": "Credit",
+      "text": "union� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672080",
+      "number": "672.080",
+      "heading": "Demand�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672090",
+      "number": "672.090",
+      "heading": "Department�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672100",
+      "number": "672.100",
+      "heading": "Deposits�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672110",
+      "number": "672.110",
+      "heading": "Director�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672120",
+      "number": "672.120",
+      "heading": "Dividend�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672125",
+      "number": "672.125",
+      "heading": "Fixed",
+      "text": "assets� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672130",
+      "number": "672.130",
+      "heading": "Immediate",
+      "text": "family� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672140",
+      "number": "672.140",
+      "heading": "Loan",
+      "text": "officer� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672145",
+      "number": "672.145",
+      "heading": "Member�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672150",
+      "number": "672.150",
+      "heading": "Merger�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672160",
+      "number": "672.160",
+      "heading": "Multiple-party",
+      "text": "account� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672170",
+      "number": "672.170",
+      "heading": "Net",
+      "text": "contribution� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672180",
+      "number": "672.180",
+      "heading": "Party�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672190",
+      "number": "672.190",
+      "heading": "Payment�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672210",
+      "number": "672.210",
+      "heading": "Proof",
+      "text": "of death� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672220",
+      "number": "672.220",
+      "heading": "Sums",
+      "text": "on deposit� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672230",
+      "number": "672.230",
+      "heading": "Trust",
+      "text": "account� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672240",
+      "number": "672.240",
+      "heading": "Withdrawal�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672250",
+      "number": "672.250",
+      "heading": "Administration",
+      "text": "of chapter; regulations of Commissioner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672260",
+      "number": "672.260",
+      "heading": "Duties",
+      "text": "of Commissioner; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672270",
+      "number": "672.270",
+      "heading": "Powers",
+      "text": "of Commissioner concerning regulations and legal actions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672275",
+      "number": "672.275",
+      "heading": "Certain",
+      "text": "relationships between employee of Division of Financial Institutions and\n\nlicensee prohibited; termination of prohibited relationship.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672282",
+      "number": "672.282",
+      "heading": "Application",
+      "text": "for license: Additional requirements; fingerprints; grounds for refusal to\n\nissue license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672284",
+      "number": "672.284",
+      "heading": "Suspension",
+      "text": "or revocation of license: Additional grounds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672286",
+      "number": "672.286",
+      "heading": "Use",
+      "text": "or change of business name; prohibitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672288",
+      "number": "672.288",
+      "heading": "Authorization",
+      "text": "of Commissioner to investigate business; free access required; compelling\n\nattendance of witnesses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672290",
+      "number": "672.290",
+      "heading": "Credit",
+      "text": "Union Advisory Council.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672295",
+      "number": "672.295",
+      "heading": "Applicability",
+      "text": "of provisions concerning Regulatory Experimentation Program for Product\n\nInnovation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672300",
+      "number": "672.300",
+      "heading": "Requirement",
+      "text": "of incorporation; exceptions; applicability ofNRS 81.410to81.540, inclusive; perpetual existence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672310",
+      "number": "672.310",
+      "heading": "Procedure",
+      "text": "for incorporation; fees set by regulation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672320",
+      "number": "672.320",
+      "heading": "Amendment",
+      "text": "of articles of incorporation; bylaws.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672330",
+      "number": "672.330",
+      "heading": "Offices;",
+      "text": "principal place of business.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672340",
+      "number": "672.340",
+      "heading": "Fiscal",
+      "text": "year.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672342",
+      "number": "672.342",
+      "heading": "Certificate",
+      "text": "of authority required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672343",
+      "number": "672.343",
+      "heading": "Application",
+      "text": "for certificate of authority: Filing; form; contents; withdrawal of\n\napplication.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6723435",
+      "number": "672.3435",
+      "heading": "Fee",
+      "text": "for initial investigation; annual fees; costs for additional investigations;\n\nregulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672344",
+      "number": "672.344",
+      "heading": "Requirements",
+      "text": "for issuance of certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672345",
+      "number": "672.345",
+      "heading": "Applicable",
+      "text": "law; filing of annual report.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6723455",
+      "number": "672.3455",
+      "heading": "Application",
+      "text": "for certificate of authority to open branch offices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672346",
+      "number": "672.346",
+      "heading": "Examination",
+      "text": "of records; revocation of certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672347",
+      "number": "672.347",
+      "heading": "Applicability",
+      "text": "of provisions ofchapter 80of NRS.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672350",
+      "number": "672.350",
+      "heading": "Board",
+      "text": "of directors: Number, election and terms of members; procedure for filling\n\nvacancy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672360",
+      "number": "672.360",
+      "heading": "Board",
+      "text": "of directors: Responsibilities; meetings; executive committee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672370",
+      "number": "672.370",
+      "heading": "Board",
+      "text": "of directors: Duties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672380",
+      "number": "672.380",
+      "heading": "Board",
+      "text": "of directors: Powers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672390",
+      "number": "672.390",
+      "heading": "Appointment",
+      "text": "of audit committee: Duties; powers; suspension of member; employment of\n\ncertified public accountant.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672400",
+      "number": "672.400",
+      "heading": "Credit",
+      "text": "committee; loan officer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672410",
+      "number": "672.410",
+      "heading": "Removal",
+      "text": "of director, officer or employee on objection of Commissioner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672420",
+      "number": "672.420",
+      "heading": "Officers:",
+      "text": "Election; designation; bonds; terms; duties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672430",
+      "number": "672.430",
+      "heading": "List",
+      "text": "of directors, officers and committee members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672440",
+      "number": "672.440",
+      "heading": "Fiduciary",
+      "text": "relationship of directors and officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672450",
+      "number": "672.450",
+      "heading": "Compensation",
+      "text": "and expenses of directors, officers and members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672460",
+      "number": "672.460",
+      "heading": "General",
+      "text": "powers; waiver or modification of law by Commissioner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672470",
+      "number": "672.470",
+      "heading": "Receiving",
+      "text": "and paying out deposits; borrowing, selling and purchasing assets.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672480",
+      "number": "672.480",
+      "heading": "Fees",
+      "text": "and assessments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672490",
+      "number": "672.490",
+      "heading": "Membership",
+      "text": "in other credit union or organization; performance of certain services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672500",
+      "number": "672.500",
+      "heading": "Donations",
+      "text": "and contributions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672510",
+      "number": "672.510",
+      "heading": "Eligibility",
+      "text": "for membership.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672520",
+      "number": "672.520",
+      "heading": "Eligibility",
+      "text": "of minor; limitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672530",
+      "number": "672.530",
+      "heading": "Subscription",
+      "text": "to and transfer of shares; lien for sums due; reduction in shares.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672540",
+      "number": "672.540",
+      "heading": "Real",
+      "text": "and personal property subject to taxation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672550",
+      "number": "672.550",
+      "heading": "Meetings",
+      "text": "of members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672560",
+      "number": "672.560",
+      "heading": "Savings",
+      "text": "deposits; special clubs and accounts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672570",
+      "number": "672.570",
+      "heading": "Multiple-party",
+      "text": "accounts: Authorization; disbursement of money; limitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672630",
+      "number": "672.630",
+      "heading": "Payment",
+      "text": "of trust accounts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672650",
+      "number": "672.650",
+      "heading": "Right",
+      "text": "to setoff against multiple-party accounts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672670",
+      "number": "672.670",
+      "heading": "Regular",
+      "text": "reserves.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672680",
+      "number": "672.680",
+      "heading": "Special",
+      "text": "reserves.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672690",
+      "number": "672.690",
+      "heading": "Assets",
+      "text": "qualified for reserves.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672700",
+      "number": "672.700",
+      "heading": "Dividends.",
+      "text": "Dividends.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672710",
+      "number": "672.710",
+      "heading": "Loans",
+      "text": "to members: Application; approval; limitations; participation loans; payment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672720",
+      "number": "672.720",
+      "heading": "Loans",
+      "text": "to members: Extension of previous maximum credit; review.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672730",
+      "number": "672.730",
+      "heading": "Loans",
+      "text": "to and guaranties by directors and members of committees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672740",
+      "number": "672.740",
+      "heading": "Security",
+      "text": "for loans.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672750",
+      "number": "672.750",
+      "heading": "Insurance",
+      "text": "of members and accounts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672755",
+      "number": "672.755",
+      "heading": "Approval",
+      "text": "of private insurer and contract of insurance; regulations; reserve.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672760",
+      "number": "672.760",
+      "heading": "Authorized",
+      "text": "investments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672765",
+      "number": "672.765",
+      "heading": "Limitation",
+      "text": "on investment in fixed assets.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672767",
+      "number": "672.767",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672769",
+      "number": "672.769",
+      "heading": "Designated",
+      "text": "reporter� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672771",
+      "number": "672.771",
+      "heading": "Exploitation�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672773",
+      "number": "672.773",
+      "heading": "Older",
+      "text": "person� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672775",
+      "number": "672.775",
+      "heading": "Reasonable",
+      "text": "cause to believe� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672777",
+      "number": "672.777",
+      "heading": "Vulnerable",
+      "text": "person� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672778",
+      "number": "672.778",
+      "heading": "Training;",
+      "text": "reporting to designated reporter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672779",
+      "number": "672.779",
+      "heading": "Designated",
+      "text": "reporter: Designation; duty to report; immunity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672780",
+      "number": "672.780",
+      "heading": "Annual",
+      "text": "financial report.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672790",
+      "number": "672.790",
+      "heading": "Examinations",
+      "text": "and audits; exceptions; fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672795",
+      "number": "672.795",
+      "heading": "Independent",
+      "text": "audit and examination: Payment of assessment; cooperation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672800",
+      "number": "672.800",
+      "heading": "Merger;",
+      "text": "fees set by regulation; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672810",
+      "number": "672.810",
+      "heading": "Conversions;",
+      "text": "fee set by regulation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672820",
+      "number": "672.820",
+      "heading": "Voluntary",
+      "text": "dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672830",
+      "number": "672.830",
+      "heading": "Involuntary",
+      "text": "dissolution: Suspension of operations; corrective actions; declaration of\n\ninsolvency; liquidation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672835",
+      "number": "672.835",
+      "heading": "Involuntary",
+      "text": "dissolution: Appointment of liquidating agent for credit union closed by\n\nbankruptcy or insolvency.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672840",
+      "number": "672.840",
+      "heading": "Procedure",
+      "text": "for liquidation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672850",
+      "number": "672.850",
+      "heading": "Organization",
+      "text": "and operation; rights and powers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672860",
+      "number": "672.860",
+      "heading": "Membership.",
+      "text": "Membership.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672870",
+      "number": "672.870",
+      "heading": "Voting",
+      "text": "representatives.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672875",
+      "number": "672.875",
+      "heading": "Regular",
+      "text": "reserves.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672880",
+      "number": "672.880",
+      "heading": "Use",
+      "text": "of words �credit union� or conducting business as credit union by person not\n\norganized as credit union; spreading false report concerning management or\n\nfinances of credit union.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672890",
+      "number": "672.890",
+      "heading": "Administrative",
+      "text": "fines.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-urity",
+      "number": "urity",
+      "heading": "for loans.",
+      "text": "for loans.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

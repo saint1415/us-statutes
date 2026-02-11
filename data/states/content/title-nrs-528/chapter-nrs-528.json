@@ -1,0 +1,518 @@
+{
+  "state": "nevada",
+  "path": "title-nrs-528/chapter-nrs-528",
+  "sections": [
+    {
+      "id": "section-528010",
+      "number": "528.010",
+      "heading": "Short",
+      "text": "title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528012",
+      "number": "528.012",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528014",
+      "number": "528.014",
+      "heading": "d.b.h.�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528015",
+      "number": "528.015",
+      "heading": "Director�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528016",
+      "number": "528.016",
+      "heading": "Division�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528017",
+      "number": "528.017",
+      "heading": "Dry",
+      "text": "season� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5280173",
+      "number": "528.0173",
+      "heading": "Ground-based",
+      "text": "equipment� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5280175",
+      "number": "528.0175",
+      "heading": "Logging",
+      "text": "operation� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528018",
+      "number": "528.018",
+      "heading": "Lop�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5280185",
+      "number": "528.0185",
+      "heading": "Minimally",
+      "text": "stocked� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528021",
+      "number": "528.021",
+      "heading": "Operating",
+      "text": "area� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528024",
+      "number": "528.024",
+      "heading": "Slash�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5280255",
+      "number": "528.0255",
+      "heading": "Stream�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528026",
+      "number": "528.026",
+      "heading": "Thrifty",
+      "text": "trees� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5280263",
+      "number": "528.0263",
+      "heading": "Timber",
+      "text": "owner� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528030",
+      "number": "528.030",
+      "heading": "Statement",
+      "text": "of purposes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528040",
+      "number": "528.040",
+      "heading": "Administration",
+      "text": "by State Forester Firewarden.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528042",
+      "number": "528.042",
+      "heading": "Logging",
+      "text": "permit: Requirement; application.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528043",
+      "number": "528.043",
+      "heading": "Logging",
+      "text": "permit: Logging plan; performance bond.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528044",
+      "number": "528.044",
+      "heading": "Logging",
+      "text": "permit: Issuance; denial; hearing after denial; return of performance bond.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528045",
+      "number": "528.045",
+      "heading": "Logging",
+      "text": "permit: Duration; renewal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528047",
+      "number": "528.047",
+      "heading": "Logging",
+      "text": "permit: Suspension and revocation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528048",
+      "number": "528.048",
+      "heading": "Variance",
+      "text": "required for operating ground-based equipment on certain slopes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528050",
+      "number": "528.050",
+      "heading": "Stocking",
+      "text": "requirements after completion of logging operations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528053",
+      "number": "528.053",
+      "heading": "Certain",
+      "text": "activities during logging operation prohibited near bodies of water;\n\nexceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528055",
+      "number": "528.055",
+      "heading": "Control",
+      "text": "of erosion: Location and construction of skid trails, landings, roads and\n\nfirebreaks.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5280551",
+      "number": "528.0551",
+      "heading": "Control",
+      "text": "of erosion: Water breaks and culverts required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5280552",
+      "number": "528.0552",
+      "heading": "Control",
+      "text": "of erosion: Outsloped drainage in lieu of water breaks or culverts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5280553",
+      "number": "528.0553",
+      "heading": "Control",
+      "text": "of erosion: Hand maintenance required in absence of other structures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5280554",
+      "number": "528.0554",
+      "heading": "Control",
+      "text": "of erosion: Use of slash to retard water flow.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528057",
+      "number": "528.057",
+      "heading": "Seeding",
+      "text": "of trails, roads and landings required on completion of operations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528060",
+      "number": "528.060",
+      "heading": "Rules",
+      "text": "and regulations of State Forester Firewarden.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528070",
+      "number": "528.070",
+      "heading": "Required",
+      "text": "practices to prevent and suppress fire.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528080",
+      "number": "528.080",
+      "heading": "Additional",
+      "text": "practices required during fire season; contents and observation of fire plan;\n\nrules and regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528082",
+      "number": "528.082",
+      "heading": "Timberland",
+      "text": "conversion certificate: Required for conversion of timber lands to other use;\n\napplication.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528083",
+      "number": "528.083",
+      "heading": "Timberland",
+      "text": "conversion certificate: Conversion plan; affidavit; performance bond.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528084",
+      "number": "528.084",
+      "heading": "Timberland",
+      "text": "conversion certificate: Issuance; denial; hearing after denial; return of\n\nperformance bond.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528085",
+      "number": "528.085",
+      "heading": "Timberland",
+      "text": "conversion certificate: Contents; not transferable; renewal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528086",
+      "number": "528.086",
+      "heading": "Timberland",
+      "text": "conversion certificate: Copy to be furnished to timber operator before\n\ncommencing operations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528088",
+      "number": "528.088",
+      "heading": "Timberland",
+      "text": "conversion certificate: Suspension and revocation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528090",
+      "number": "528.090",
+      "heading": "Penalty.",
+      "text": "Penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528091",
+      "number": "528.091",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528092",
+      "number": "528.092",
+      "heading": "Conservation",
+      "text": "plant materials� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528093",
+      "number": "528.093",
+      "heading": "Desert",
+      "text": "forestry� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528094",
+      "number": "528.094",
+      "heading": "Native",
+      "text": "landscape� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528095",
+      "number": "528.095",
+      "heading": "Production�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528096",
+      "number": "528.096",
+      "heading": "Public",
+      "text": "property� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528097",
+      "number": "528.097",
+      "heading": "Revegetation�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528098",
+      "number": "528.098",
+      "heading": "Urban",
+      "text": "forestry� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528100",
+      "number": "528.100",
+      "heading": "Cooperative",
+      "text": "agreements for establishment of nurseries; Fund for Forest Nurseries.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528105",
+      "number": "528.105",
+      "heading": "Operation",
+      "text": "and management of state nurseries by State Forester Firewarden; powers; fee\n\nschedule for plant materials distributed; regulations; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528107",
+      "number": "528.107",
+      "heading": "Buildings,",
+      "text": "equipment and personnel for state nurseries.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528110",
+      "number": "528.110",
+      "heading": "Boards",
+      "text": "of county commissioners authorized to enter into cooperative agreements to\n\nestablish cooperative nurseries.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528115",
+      "number": "528.115",
+      "heading": "Cooperative",
+      "text": "agreements for research and dissemination of information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528120",
+      "number": "528.120",
+      "heading": "Land",
+      "text": "suitable for program of conservation: Negotiation for acceptance; revegetation,\n\nprotection and management on behalf of State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528131",
+      "number": "528.131",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528132",
+      "number": "528.132",
+      "heading": "Historically",
+      "text": "underserved community� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528133",
+      "number": "528.133",
+      "heading": "Urban",
+      "text": "and community forest� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528134",
+      "number": "528.134",
+      "heading": "Urban",
+      "text": "and community forestry� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528135",
+      "number": "528.135",
+      "heading": "Creation;",
+      "text": "requirements; duties of State Forester Firewarden.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528136",
+      "number": "528.136",
+      "heading": "Technical",
+      "text": "assistance to political subdivisions of State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528137",
+      "number": "528.137",
+      "heading": "Authority",
+      "text": "of State Forester Firewarden to establish program to distribute grants;\n\nregulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528138",
+      "number": "528.138",
+      "heading": "Cooperative",
+      "text": "agreements; authority of State Forester Firewarden to apply for and receive\n\ngifts, grants, services and donations; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-528150",
+      "number": "528.150",
+      "heading": "Report",
+      "text": "concerning fire prevention and forest health in Lake Tahoe Basin; contents of\n\nreport.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

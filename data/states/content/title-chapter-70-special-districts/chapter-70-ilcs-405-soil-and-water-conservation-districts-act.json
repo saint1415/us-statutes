@@ -1,0 +1,878 @@
+{
+  "state": "illinois",
+  "path": "title-chapter-70-special-districts/chapter-70-ilcs-405-soil-and-water-conservation-districts-act",
+  "sections": [
+    {
+      "id": "section-1",
+      "number": "1.",
+      "heading": "Short title.",
+      "text": "This Act shall be known and may be cited as the \"Soil and Water Conservation\nDistricts Act\".",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2",
+      "number": "2.",
+      "heading": "Declaration of policy. The General Assembly declares it to be in the public interest  to provide (a)",
+      "text": "for the conservation of the soil, soil health, soil resources, organic matter in soil and plants, water quality and water\nresources of this State, (b) for the control and prevention of soil\nerosion, (c) for the prevention of air and water pollution and the improvement of resilience to droughts, floods, and other extreme weather, and (d) for\nthe prevention of erosion, floodwater and sediment\ndamages, and thereby to conserve natural resources, control floods,\nprevent impairment of dams and reservoirs, assist in maintaining the\nnavigability of rivers and harbors, conserve wild life and forests,\nprotect the tax base, protect public lands, and protect and promote the\nhealth, safety and general welfare of the people of this State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3",
+      "number": "3.",
+      "heading": "Definitions. As used in this Act, unless the context clearly",
+      "text": "otherwise requires, the terms defined in the Sections following this Section and preceding Section 4\nhave the meanings ascribed to them in those Sections.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-301",
+      "number": "3.01.",
+      "heading": "\"District\" or \"soil and water conservation",
+      "text": "district\" means a public body corporate and politic, organized\nin accordance with this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-302",
+      "number": "3.02.",
+      "heading": "\"Director\" means one of the members of the governing",
+      "text": "body of a district, elected or appointed in accordance with this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-303",
+      "number": "3.03.",
+      "heading": "\"Department\" means the Department of Agriculture of this State.",
+      "text": "\"Department\" means the Department of Agriculture of this State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-304",
+      "number": "3.04.",
+      "heading": "\"State\" means the State of Illinois.",
+      "text": "\"State\" means the State of Illinois.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-305",
+      "number": "3.05.",
+      "heading": "\"Agency of this State\" includes the government of this",
+      "text": "State and any subdivision, agency, or instrumentality thereof.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-306",
+      "number": "3.06.",
+      "heading": "\"United States\" includes the United States of America,",
+      "text": "the Soil Conservation Service of the United States Department of\nAgriculture, and any other agency or instrumentality, corporate or\notherwise, of the United States of America.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-307",
+      "number": "3.07.",
+      "heading": "\"Land owner\" or \"owner of land\" includes any individual of legal",
+      "text": "voting age, firm, or corporation who holds legal or equitable title to\nany land lying within a district organized or proposed to be organized\nunder this Act. For the purposes of this Act, a list of the persons who\nappear from the tax assessment rolls of the county to be owners of land\nwithin a district or proposed district is prima facie evidence of\nthe names and number of such land owners.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-308",
+      "number": "3.08.",
+      "heading": "\"Land occupier\" or \"occupier of land\" includes any individual of",
+      "text": "legal voting age, firm or corporation, other than the owner, who is in\nlegal possession of any land lying within a district organized or\nproposed to be organized under this Act, whether as lessee, renter,\ntenant or otherwise.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-309",
+      "number": "3.09.",
+      "heading": "\"Due Notice\" means notice given in accordance with Section 31 of this Act.",
+      "text": "\"Due Notice\" means notice given in accordance with Section 31 of this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-310",
+      "number": "3.10.",
+      "heading": "\"Proxy\" means a written authorization complying with Section",
+      "text": "32 of this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-311",
+      "number": "3.11.",
+      "heading": "\"Person\" means any owner of land or the owner's",
+      "text": "designated agent including any individual, partnership, firm,\nassociation, joint venture, corporation, trust, estate, commission,\nboard, public or private institution, unit of local government, school\ndistrict, political subdivision of this State, State agency, any\ninterstate body or any other legal entity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-312",
+      "number": "3.12.",
+      "heading": "\"Land disturbing activity\" means any change in land, which",
+      "text": "may result in soil erosion from water or wind and the movement of sediments\ninto state waters or on to lands in the State, including but not limited\nto, the tilling, clearing, grading, excavating, rehabilitating, transporting,\ndepositing or filling of land, other than federal lands. \"Land disturbing\nactivity\" does not include such minor activities as home gardens, individual\nhome landscaping, repairs, maintenance or any plat of subdivision approved\nby municipal or county units of government. This Act shall encourage the\nestablishment of sediment and erosion control ordinances at the municipal\nand county levels.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-313",
+      "number": "3.13.",
+      "heading": "\"Waters\" means any and all waters, public or private, on the",
+      "text": "surface of the ground, which are wholly or partially contained within, flow\nthrough or border upon this State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-314",
+      "number": "3.14.",
+      "heading": "\"Erosion and sediment control plan\" or \"plan\" means a plan",
+      "text": "for the control of soil erosion and sediment resulting from a land disturbing activity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-315",
+      "number": "3.15.",
+      "heading": "\"Conservation standard\" or \"standard\" means any standard adopted",
+      "text": "by the Department or the districts under this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-316",
+      "number": "3.16.",
+      "heading": "\"Guideline\" means a guide or recommendation to be used by districts",
+      "text": "in developing a program and standards for erosion and sediment control.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-317",
+      "number": "3.17.",
+      "heading": "\"Board\" means the State Soil and Water Conservation Districts",
+      "text": "Advisory Board appointed under Section 4 of this Act with which the Department\nand the soil and water conservation district respectively consult and advise\nwith regard to the erosion and sediment control provisions of this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-318",
+      "number": "3.18.",
+      "heading": "\"Point source discharge\" means any discernible, confined, discrete",
+      "text": "conveyance of pollutants to waters through pipes or conduits from sewage\ntreatment plants or industrial processes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-319",
+      "number": "3.19.",
+      "heading": "\"Enduring erosion and sediment control device, structure or",
+      "text": "practice\" means and includes any device, structure or practice designed\nfor the control and prevention of soil erosion and air and water pollution\nfor a period in excess of one year.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-320",
+      "number": "3.20.",
+      "heading": "\"Aggrieved party\" means any person whose property, resources,",
+      "text": "interest or responsibility is being injured or impeded in value or utility\nor any other manner by the adverse effects of sediment caused by soil erosion.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321",
+      "number": "3.21.",
+      "heading": "\"Willful or wanton misconduct\" means a course of action",
+      "text": "which shows an actual or deliberate intention to cause harm or which, if\nnot intentional, shows an utter indifference to or conscious disregard for\nthe safety of others or their property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-323",
+      "number": "3.23.",
+      "heading": "\"Soil health\" means the overall composition of the soil, including the amount of organic matter stored in the soil, and the continued capacity of soil to function as a vital living ecosystem that sustains plants, animals, and humans",
+      "text": "\"Soil health\" means the overall composition of the soil, including the amount of organic matter stored in the soil, and the continued capacity of soil to function as a vital living ecosystem that sustains plants, animals, and humans.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-324",
+      "number": "3.24.",
+      "heading": "\"Healthy soils practices\" means systems of agricultural, forestry, and land management practices that:",
+      "text": "\"Healthy soils practices\" means systems of agricultural, forestry, and land management practices that:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-325",
+      "number": "3.25.",
+      "heading": "\"Soil health assessment\" means soil health indicator measures, including, but not limited to, soil organic matter, soil structure, infiltration and bulk density, water-holding capacity, microbial biomass, and soil respiration",
+      "text": "\"Soil health assessment\" means soil health indicator measures, including, but not limited to, soil organic matter, soil structure, infiltration and bulk density, water-holding capacity, microbial biomass, and soil respiration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-326",
+      "number": "3.26.",
+      "heading": "\"Initiative\" means the Illinois Healthy Soils Initiative.",
+      "text": "\"Initiative\" means the Illinois Healthy Soils Initiative.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-327",
+      "number": "3.27.",
+      "heading": "\"Healthy soil\" means the continuing capacity of a soil to function as a vital, living biological system that sustains plants, animals, and humans, increases soil organic matter, improves soil structure and water-holding and nutrient-holding capacity and nutrient cycling, enhances water infiltration ",
+      "text": "\"Healthy soil\" means the continuing capacity of a soil to function as a vital, living biological system that sustains plants, animals, and humans, increases soil organic matter, improves soil structure and water-holding and nutrient-holding capacity and nutrient cycling, enhances water infiltration and filtration capability, promotes water quality, and results in net long-term ecological benefits. \"Healthy soil\" includes soil that hosts a diversity of beneficial organisms, grow vigorous crops, enhance agricultural resilience, including the ability of crops and livestock to tolerate and recover from drought, temperature extremes, extreme precipitation events, pests, diseases, and other stresses, break down harmful chemicals, and help convert organic residues into stable soil organic matter and retaining nutrients, especially nitrogen and phosphorus.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4",
+      "number": "4.",
+      "heading": "State soil and water conservation districts advisory board.",
+      "text": "The State Soil and Water Conservation Districts Advisory Board is\ncreated. The Board shall consist of 7 members. The Director of the\nDepartment and the Director of Agricultural Extension of the College of\nAgriculture of the University of Illinois shall serve, ex officiis, as\nmembers of the Board. The other 5 members shall be appointed by the\nGovernor by and with the advice and consent of the Senate and shall be\nindividuals who are the owners and active operators of farm lands in this\nState and who have been engaged in farming in this State for at least 5\nyears next preceding their appointment, consideration having been given\nto geographical location and to soil and water conservation district experience.\nIn case of any vacancy in such appointive office during the recess of\nthe Senate, the Governor shall make a temporary appointment until action\nat the next meeting of the Senate, when he shall nominate some person to\nfill such office; and any person so nominated who is confirmed by the\nSenate shall hold his office during the remainder of the term and until\nhis successor is appointed and qualified. If the Senate is not in\nsession at the time this amendatory Act takes effect, the Governor shall\nmake temporary appointments as in the case of a vacancy. The appointed\nmembers of the State Soil and Water Conservation Districts Advisory\nBoard shall serve for a period of 4 years, beginning on the third Monday\nin January of the odd-numbered years in which they are appointed, and\nuntil their successors are appointed and qualified. The board may invite\nthe Secretary of Agriculture of the United States of America to appoint\none person to serve with the above mentioned members in an advisory\ncapacity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5",
+      "number": "5.",
+      "heading": "Organization",
+      "text": "of board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6",
+      "number": "6.",
+      "heading": "Powers and duties. In addition to the powers and duties otherwise",
+      "text": "conferred upon the Department, it shall have the following powers and\nduties:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7",
+      "number": "7.",
+      "heading": "Employees and",
+      "text": "assistance of other agencies.\nSubject to the provisions of the \"Personnel Code\" enacted by the 69th\nGeneral Assembly, the Department may employ an administrative officer,\ntechnical experts and such other agents and employees, permanent and\ntemporary, as it may require. The Department may call upon the Attorney\nGeneral of the State for such legal services as it may require. The\nDepartment shall require surety bonds for all its officers and employees\nwho are entrusted with funds or property under this Act and shall provide\nfor an annual audit of their accounts. The Department may establish and\nprovide suitable office accommodations and the necessary supplies and\nequipment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8",
+      "number": "8.",
+      "heading": "Petition for",
+      "text": "creation of soil and water conservation districts.\nAny 25 or more owners of land lying within the limits of the territory\nproposed to be organized into a district who own at least 10% of the land,\nby area, within such proposed district may file a petition with the\nDepartment asking that a soil and water conservation district be organized\nin the territory described in the petition. Such petition shall set forth:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9",
+      "number": "9.",
+      "heading": "Notice and",
+      "text": "hearing.\nWithin 30 days after such a petition has been filed with the Department,\nit shall cause due notice to be given of a proposed hearing upon the\nquestion of the desirability and necessity, in the interest of the public\nhealth, safety, and welfare, of the creation of such district; upon the\nquestion of the appropriate boundaries to be assigned to such district;\nupon the propriety of the petition and other proceedings taken under this\nAct; and upon all questions relevant to such inquiries. All land\noccupiers and owners of land lying within the limits of the territory\ndescribed in the petition, and of lands within any territory considered for\naddition to such described territory, and all interested parties, shall\nhave the right to attend such hearings and to be heard. If it shall appear\nupon the hearing that it may be desirable to include within the proposed\ndistrict, territory outside of the area within which due notice of the\nhearing has been given, the hearing shall be adjourned and due notice of\nfurther hearings shall be given throughout the entire area considered for\ninclusion in the district, and such further hearing held.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10",
+      "number": "10.",
+      "heading": "Findings and",
+      "text": "determinations of Department. After such hearing, if the Department determines upon the facts\npresented at such hearing and upon such other relevant facts and\ninformation as may be available that there is need in the interest of the\npublic health, safety, and welfare, for a soil and water conservation\ndistrict to function in the territory considered at the hearing, it shall\nmake and record such determination and shall define by metes and bounds, or\nby legal subdivisions, the boundaries of such district. In making such\ndetermination and in defining such boundaries, the Department shall give\ndue weight and consideration to the following matters which are hereby\nstated to be the standards which shall guide the considerations of the\nDepartment: The topography of the area considered and of the State; the\ncomposition of soils; the distribution of erosion; the prevailing\nland use practices; the desirability and necessity of including within the\nboundaries the particular lands under consideration and the benefits such\nlands may receive from being included within such boundaries; the relation\nof the proposed area to existing watersheds and agricultural regions and to\nother soil conservation districts already organized or proposed for\norganization under the provisions of this Act, and such other physical,\ngeographical, and economic factors as are relevant. The territory to be\nincluded within such boundaries need not be contiguous. No territory shall\nbe included within the boundaries of more than one district. In cases where\nterritory is proposed to be added to an existing district, the Department\nshall also consider the attitude of the district directors as expressed at\nthe hearing, by resolution or otherwise.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11",
+      "number": "11.",
+      "heading": "Determination of administrative practicability and feasibility.",
+      "text": "After the Department has made and recorded a determination that there is\nneed, in the interest of public health, safety, and welfare, for the\norganization of a district in a particular territory and has defined the\nboundaries thereof, it shall consider the question whether the operation of\na district within such boundaries with the powers conferred upon soil and\nwater conservation districts in this Act is administratively practicable\nand feasible. To assist the Department in the determination of such\nadministrative practicability and feasibility, it shall within a reasonable\ntime after entry of the determination that there is need for the\norganization of the proposed district and the determination of the\nboundaries thereof, hold a referendum within the proposed district upon the\nproposition of the creation of the district, and cause due notice of any\nsuch referendum to be given.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12",
+      "number": "12.",
+      "heading": "Conduct of",
+      "text": "referenda.\nThe Department shall pay all expenses for the issuance of such notices\nand the conduct of such hearings and referenda and shall supervise the\nconduct of such hearings and referenda. It shall issue appropriate\nregulations governing the conduct of such hearings and referenda, and\nproviding for the registration prior to the date of the referendum of all\neligible voters, or prescribing some other appropriate procedure for the\ndetermination of those eligible as voters in such referendum. No\ninformalities in the conduct of such referendum or in any matters relating\nthereto shall invalidate said referendum or the result thereof if notice\nthereof shall have been given substantially as herein provided and said\nreferendum shall have been fairly conducted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13",
+      "number": "13.",
+      "heading": "Recordation",
+      "text": "and determination.\nThe Department shall publish the result of such referendum. If a\nmajority of the owners of land lying within the district voted in favor of\nthe creation of the district, and if the Department determines that the\nattitude of such owners, the approximate wealth and income of such\nlandowners, the probable expense of carrying on erosion control operations\nwithin such district, and other economic and social factors as may be\nrelevant are such that the operation of such district is administratively\npracticable and feasible, it shall record such determination and shall\nproceed with the organization of the district in the manner hereinafter\nprovided. If less than a majority of the owners of land in such district\nvote in favor of the creation of such district, or if the Department\ndetermines that the attitude of such owners, the approximate wealth and\nincome of such landowners, the probable expense of carrying on erosion\ncontrol operations within such district, and other economic and social\nfactors as may be relevant are such that the operation of the proposed\ndistrict is not otherwise practicable and feasible, it shall record such\ndetermination and deny the petition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14",
+      "number": "14.",
+      "heading": "Organization",
+      "text": "of district.\nIf the Department shall determine that the operation of the proposed\ndistrict is administratively practicable and feasible, it shall appoint 2\ntemporary directors, who shall hold office until the election and\nqualification of the permanent board of directors as provided in Section\n19. Such district shall be a public body corporate and politic, upon the\ntaking of the following proceedings:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15",
+      "number": "15.",
+      "heading": "Certificate",
+      "text": "of organization.\nThe Secretary of State shall examine the application and statement and,\nif he finds that the name proposed for the district is not identical with\nthat of any other district of this State or so nearly similar as to lead to\nconfusion or uncertainty, he shall receive and file them and shall record\nthem in an appropriate book of record in his office. If the Secretary of\nState finds that the name proposed for the district is identical with that\nof any other district of this State, or so nearly similar as to lead to\nconfusion and uncertainty, he shall certify such fact to the Department,\nwhich shall thereupon submit to the Secretary of State a new name for the\ndistrict, which is not subject to such defects. Upon receipt of such new\nname, free of such defects, the Secretary of State shall record the\napplication and statement, with the name so modified, in an appropriate\nbook of record in his office. When the application and statement have been\nmade, filed, and recorded, as herein provided, the district constitutes a\npublic body corporate and politic. The Secretary of State shall make and\nissue to the temporary directors a certificate, under the seal of the\nState, of the due organization of the district, and shall record such\ncertificate with the application and statement. A copy of the statement and\nthe certificate of organization, duly certified by the Secretary of State,\nshall be recorded with the recorder of the county in which the\noffice of the district is located.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1501",
+      "number": "15.01.",
+      "heading": "Whenever it is desired to change the name of an existing",
+      "text": "district the directors shall submit the proposed new name to the\nDepartment, together with their reasons for desiring the change. If the\nDepartment approves the change it shall submit the proposed name to the\nSecretary of State who, if he finds that the proposed name is not identical\nwith that of any other district of this state or so nearly similar as to\nlead to confusion or uncertainty, he shall receive and record the change in\nan appropriate book of record in his office. If the Secretary of State\nfinds that the name proposed for the district is identical with that of any\nother district of this State, or so nearly similar as to lead to confusion\nand uncertainty, he shall certify such fact to the Department, which shall\nthereupon submit to the Secretary of State a new name for the district,\nwhich is not subject to such defects and which is satisfactory to the\ndirectors. Upon receipt of such new name, free of such defects, the\nSecretary of State shall record the change in an appropriate book of record\nin his office.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-16",
+      "number": "16.",
+      "heading": "Subsequent",
+      "text": "petitions.\nNo subsequent petitions covering the same or substantially the same land\nshall be filed within one year after the denial of a preceding petition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-17",
+      "number": "17.",
+      "heading": "Included territory.",
+      "text": "All of the territory\ncontained within the\nboundaries of a county or counties shall be a part of the Soil and Water\nConservation District whose territories are located within the county or\ncounties except in Cook County in which case all of the territory north of 22nd\nStreet also known as Cermak Road, shall be a part of the North Cook Soil and\nWater Conservation District and all of the territory of Cook County that is\nsouth of 22nd Street also known as Cermak Road, shall be a part of the\nWill-South Cook Soil and Water Conservation District. The boundaries for any\nDistrict consolidated after July 1, 1996 in accordance with Section 26a of this\nAct shall encompass all territory contained within those Districts so\nconsolidating.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-18",
+      "number": "18.",
+      "heading": "Certificate",
+      "text": "evidence of organization.\nIn any suit, action, or proceeding involving the validity or enforcement\nof, or relating to, any contract, proceeding, or action of the district,\nthe district shall be deemed prima facie to have been established in\naccordance with the provisions of this Act upon proof of the issuance of\nthe aforesaid certificate by the Secretary of State. A copy of such\ncertificate duly certified by the Secretary of State shall be admissible in\nevidence in any such suit, action, or proceeding and shall be proof of the\nfiling and contents thereof.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19",
+      "number": "19.",
+      "heading": "Governing",
+      "text": "body of district.\nThe governing body of the district shall consist of 5 directors, who\nshall be owners or occupiers of lands within the district in which they\nserve.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1901",
+      "number": "19.01.",
+      "heading": "Occupiers of land lying within the district are eligible to",
+      "text": "hold office and to vote at all elections held in such district except at\nelections held for the adoption or approval of land-use regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-20",
+      "number": "20.",
+      "heading": "Nomination,",
+      "text": "election of directors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2001",
+      "number": "20.01.",
+      "heading": "Upon petition of the directors of any district, the Department",
+      "text": "may authorize that district to nominate and elect directors at annual\nmeetings of the owners or occupiers of land, or both, lying within the\ndistrict rather than according to the provisions of Section 20. Such\nmeetings shall be held on or before March 1 of each year and directors\nelected at such meetings shall take office in the same manner as those\nelected pursuant to Section 20.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-21",
+      "number": "21.",
+      "heading": "Organization",
+      "text": "of governing body.\nThe directors shall elect one of their members as chairman to hold for\nsuch time as the directors may determine but no longer than the term for\nwhich he was elected. A majority of the directors shall constitute a quorum\nand the concurrence of a majority of a quorum in any matter shall be\nrequired for its determination. Directors may receive reasonable\ncompensation for their services not to exceed $20 per day and may be\nreimbursed for expenses, including traveling expenses, necessarily incurred\nin the discharge of their duties. The directors may employ such technical\nassistants as the district needs. The directors may also employ a secretary\nand such other officers, agents and employees, permanent and\ntemporary, as they may require and shall determine their qualifications,\nduties and compensation. The directors may delegate to their chairman or to\none or more agents or employees such powers and duties as they deem proper.\nThe directors shall keep a record of all their actions and proceedings and\nof all resolutions, regulations and orders issued or adopted by them; and\nshall adopt a seal, which seal shall be judicially noticed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22",
+      "number": "22.",
+      "heading": "Powers of",
+      "text": "districts and directors.\nA soil and water conservation district organized under the provisions of\nthis Act shall constitute a public body, corporate and politic, exercising\npublic powers, and such district and the directors thereof shall, in\naddition to the powers created in other Sections of this Act, have the\npowers enumerated in Sections 22.01 through 22.12, each inclusive.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2201",
+      "number": "22.01.",
+      "heading": "To initiate and conduct surveys, investigations and research and to",
+      "text": "develop comprehensive plans for the conservation of soil and water\nresources, improvement of soil health, and for the control and prevention of soil erosion and erosion,\nfloodwater and sediment damages within the district, which plans shall\nspecify in such detail as may be practicable the acts, procedure,\nperformances and avoidances which are necessary or desirable for the\neffectuation of such plans, including the specification of engineering\noperations, methods of cultivation, the growing of vegetation, cropping\nprograms, tillage practices, incorporation of perennial plants, and changes in use of land; and, with the\napproval and assistance of the Department, to publish such plans and\ninformation and bring them to the attention of owners and occupiers of land\nwithin the district.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2202",
+      "number": "22.02.",
+      "heading": "To carry out preventive and control measures within the",
+      "text": "district including, but not limited to, engineering operations, methods of\ncultivation, the growing of vegetation, changes in use of land on lands\nowned or controlled by this State or any of its agencies, with the\ncooperation of the agency administering and having jurisdiction thereof,\nand on any other lands within the district upon obtaining the consent of\nthe owners and occupiers of such lands or the necessary rights or interests\nin such lands.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2202a",
+      "number": "22.02a.",
+      "heading": "The Soil and Water Conservation District shall make all natural resource",
+      "text": "information available to the appropriate county agency or municipality in\nthe promulgation of zoning ordinances or variances. Any person who\npetitions any municipality or county agency in the district for variation,\namendment, or other relief from that municipality's or county's zoning\nordinance or who proposes to subdivide vacant or agricultural lands therein\nshall furnish a copy of such petition or proposal to the Soil and Water\nConservation District. The Soil and Water Conservation District shall be\ngiven not more than 30 days from the time of receipt of the petition or\nproposal to issue its written opinion concerning the petition or proposal\nand submit the same to the appropriate county agency or municipality for\nfurther action.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2203",
+      "number": "22.03.",
+      "heading": "To cooperate, or enter into agreements with, and within the",
+      "text": "limits of appropriations duly made available to it by law, to furnish\nfinancial or other aid to, any agency, governmental or otherwise, or any\nowner or occupier of lands within the district, in the carrying on of soil health improvement,\nerosion-control, and flood prevention operations within the district,\nsubject to such conditions as the directors may deem necessary to advance\nthe purposes of this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2203a",
+      "number": "22.03a.",
+      "heading": "Illinois Healthy Soils Initiative.",
+      "text": "Illinois Healthy Soils Initiative.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2203b",
+      "number": "22.03b.",
+      "heading": "Guidelines for soil health assessments",
+      "text": "The Department shall adopt and revise guidelines to assist soil and water conservation districts in determining local goals and needs for implementing soil health assessments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2203c",
+      "number": "22.03c.",
+      "heading": "Local soil health assessments. Upon the adoption of guidelines described in Section 22",
+      "text": "03b, each soil and water conservation district shall develop annually its own soil health assessment to guide voluntary and incentive-based strategies to improve soil health. The soil health assessment shall be t",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2203d",
+      "number": "22.03d.",
+      "heading": "Compliance and standards; cost sharing",
+      "text": "To be eligible to receive State cost-share support after September 1, 2024, soil and water conservation districts shall have an updated soil health assessment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2204",
+      "number": "22.04.",
+      "heading": "To obtain options upon and to acquire, by purchase, exchange,",
+      "text": "lease, gift, grant, legacy or through condemnation, any property,\nreal or personal, or rights or interests therein necessary for the purpose\nof the district; to maintain, administer and improve any properties\nacquired, to receive income from such properties and to expend such income\nin carrying out the purposes and provisions of this Act; and to sell,\nlease or otherwise dispose of any of its property or interests therein in\nfurtherance of the purposes and provisions of this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2204a",
+      "number": "22.04a.",
+      "heading": "Eminent domain. Notwithstanding any other provision of this Act, any power granted under this Act to acquire property by condemnation or eminent domain is subject to, and shall be exercised in accordance with, the Eminent Domain Act",
+      "text": "Eminent domain. Notwithstanding any other provision of this Act, any power granted under this Act to acquire property by condemnation or eminent domain is subject to, and shall be exercised in accordance with, the Eminent Domain Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2205",
+      "number": "22.05.",
+      "heading": "To make available, on such terms as it shall prescribe, to",
+      "text": "landowners or occupiers within the district, the use of agricultural and\nengineering machinery and equipment, and such other material or equipment\nas will assist such landowners or occupiers to carry on operations upon\ntheir lands for the conservation and improvement of soil health and soil and water resources and for the\nprevention and control of loss of soil health, soil erosion, and erosion floodwater and sediment\ndamages.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2206",
+      "number": "22.06.",
+      "heading": "To construct, improve, operate and maintain such structures as",
+      "text": "may be necessary for the performance of any of the operations authorized in\nthis Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2207",
+      "number": "22.07.",
+      "heading": "To take over, by purchase, lease or by voluntary agreement, and",
+      "text": "to administer, any soil-conservation, water-conservation, flood-prevention,\nerosion-control or erosion-prevention project located within its\nboundaries, undertaken by the United States, or by this State or any of its\nagencies; to manage, as agent of the United States, with its consent, or of\nthis State, with its consent, or of any of its agencies, any such project\nwithin its boundaries to act as agent if so desired and requested for the\nUnited States, or for this State or any of its agencies, in connection with\nthe acquisition, construction, operation or administration of any such\nproject within its boundaries; to accept donations, gifts and contributions\nin money, services, materials, or otherwise, from the United States, or\nfrom this State or any of its agencies, and from any other source, and to\nuse or expend such district moneys, services, materials, or other\ncontributions in carrying on its operations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2207a",
+      "number": "22.07a.",
+      "heading": "To cooperate and effectuate agreements with individuals or",
+      "text": "agencies of government, and to plan, construct, operate, and maintain\nprograms and projects relating to the improvement of soil health and conservation of the renewable natural\nresources of soil, water, forests, fish, wildlife, and air in this state,\nfor the control and prevention of loss of soil health, soil erosion, floods, flood water and\nsediment damages, and impairment of dams and reservoirs; to assist in\nmaintaining the navigability of rivers and harbors, and in addition, to\ncooperate with local interests and agencies of government in providing\ndomestic and industrial municipal and agricultural water supplies and\nrecreational project developments and improvements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2207b",
+      "number": "22.07b.",
+      "heading": "Natural area guardians.",
+      "text": "The governing body of any soil\nand water conservation district may designate Natural Area Guardians for\nthe purpose of managing natural areas on the Illinois Natural Areas\nInventory and natural areas of regional or local significance designated by\nthe governing body within the district. The powers of the Natural Area\nGuardians shall include the following:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2208",
+      "number": "22.08.",
+      "heading": "To sue and be sued in the name of the district; to be",
+      "text": "represented by the Attorney General of the State who shall provide such\nlegal services as may be required; to have perpetual succession unless\nterminated as hereinafter provided; to make and execute contracts and other\ninstruments, necessary or convenient to the exercise of its powers, to\nmake, and from time to time amend and repeal, rules and regulations not\ninconsistent with this Act, to carry into effect its purposes and powers.\nNo director or officer serving without compensation, other than\nreimbursement for expenses and services that are consistent with the\nprovisions of Section 21 of this Act, of a district organized under this\nAct and exempt, or qualified for exemption, from taxation pursuant to\nSection 501(c) of the Internal Revenue Code of 1986, as amended, and no\nemployee of such a district while receiving compensation in the conduct of\nthe employee's assigned duties and responsibilities, shall be liable, and\nno cause of action may be brought, for damages resulting from the exercise\nof judgment or discretion in connection with the duties or responsibilities\nof such director, officer or employee unless the act or omission involved\nwillful or wanton misconduct.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2209",
+      "number": "22.09.",
+      "heading": "As a condition to the extending of any benefits under this",
+      "text": "Act to, or the performance of work\nupon, any lands not owned or controlled by this State or any of its agencies,\nthe directors may require contributions\nin money, services, materials, or otherwise to any operations conferring\nsuch benefits, and may require land owners to\nenter into and perform such agreements or covenants as to the permanent\nuse of such lands as will tend to prevent\nor control erosion thereof; or promote the welfare of the lands of the district.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2210",
+      "number": "22.10.",
+      "heading": "To incur indebtedness as they deem proper in the conduct of",
+      "text": "the business of the district.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2211",
+      "number": "22.11.",
+      "heading": "Purchases made pursuant to this Act shall be made in",
+      "text": "compliance with the \"Local Government Prompt Payment Act\", approved by the\nEighty-fourth General Assembly.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2212",
+      "number": "22.12.",
+      "heading": "To carry out its duties under the Water Use Act of 1983.",
+      "text": "To carry out its duties under the Water Use Act of 1983.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2213",
+      "number": "22.13.",
+      "heading": "District use of sign posts or poles for signs",
+      "text": "Notwithstanding any other provision of law, a district may request that the Department of Transportation install a sign related to the district on an existing or new Department sign post or pole in a public right-of-way. The Department must manufacture",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22a",
+      "number": "22a.",
+      "heading": "The directors shall file with the Department, upon request of",
+      "text": "said Department, copies of such ordinances, rules, regulations, orders,\ncontracts, forms and other documents as they shall adopt or employ, and\nsuch other information concerning their activities as the Department may\nrequire in the performance of its duties under this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-23",
+      "number": "23.",
+      "heading": "Adoption of land-use regulations.",
+      "text": "The directors of any district\nshall have authority to formulate\nregulations governing the use of lands within the district in the interest\nof conserving soil, soil resources, water and water resources and\npreventing and controlling soil erosion and erosion, floodwater and\nsediment damages. The directors shall conduct such public meetings and\npublic hearings upon tentative regulations as may be necessary to assist\nthem in this work. The directors shall not have authority to enact such\nland-use regulations into law until after they shall have caused due notice\nto be given of their intention to conduct a referendum for submission of\nsuch regulations to the land owners within the boundaries of the district\nfor their approval or disapproval of such proposed regulations, shall have\nheld such referendum, and shall have considered the result of such\nreferendum. The proposed regulations shall be embodied in a proposed\nordinance. Copies of such proposed ordinance shall be filed with the\nDepartment for an expression of opinion. The opinion of the Department and\nany statement it may issue with reference thereto shall be made known to\nthe owners in such district at least 10 days prior to the date of any\nreferendum thereon. Copies of such proposed ordinance shall be available\nfor distribution among, and inspection by owners and occupiers of land in\nthe district during the period between publications of such notice and the\ndate of the referendum. The notices of the referendum shall recite the\ncontents of such proposed ordinance and shall state where copies of such\nproposed ordinance may be examined or obtained. The question shall be\nsubmitted by ballots, upon which the words \"For approval of proposed\nordinance No....., prescribing land-use regulations for conservation of\nsoil and water and prevention of erosion\" and \"Against approval of proposed\nordinance No....., prescribing land-use regulations for conservation of\nsoil and water and prevention of erosion\" shall appear, with a square\nbefore each proposition and a direction to insert an X mark in the square\nbefore one or the other of those propositions. A summary or digest of the\nprovisions of the proposed ordinance shall also appear on such ballots. The\ndirectors shall supervise such referendum, shall prescribe appropriate\nregulations governing the conduct thereof, and shall publish the result\nthereof. All the owners of land within the district shall be eligible to\nvote in such referendum and each shall have one vote. Such vote may be cast\nin person or by absentee ballot. No informalities in the conduct of such\nreferendum or in any matters relating thereto shall invalidate such\nreferendum or the result thereof if notice thereof shall have been given\nsubstantially as herein provided and such referendum shall have been fairly\nconducted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24",
+      "number": "24.",
+      "heading": "Enforcement",
+      "text": "of land-use regulations.\nThe directors shall have authority to go upon any lands within the\ndistrict to determine whether land-use regulations adopted under the\nprovisions of Section 23 of this Act are being observed. The directors\nare further authorized to provide by ordinance that any land owner who\nshall sustain damages from any violation of such regulations by any other\nland owner may recover damages at law from such other land owner for such\nviolation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25",
+      "number": "25.",
+      "heading": "Performance",
+      "text": "of work by the directors.\nWhere the directors of any district shall find that any of the\nprovisions of land-use regulations prescribed in an ordinance adopted in\naccordance with the provisions of Section 23 hereof are not being\nobserved on particular lands, and that such non-observance tends to\nincrease erosion and is interfering with the prevention or control of\nerosion and erosion, floodwater and sediment damages on other lands within\nthe district, the directors shall notify the owner of such lands of such\nnon-observance and that upon his failure to comply with the provisions of\nsuch land-use regulations within such reasonable time as may be fixed in\nsuch notice a petition for authority to perform such work will be presented\nto the Circuit Court for the county in which the land of the defendant or a\nmajor portion thereof, may lie. If the owner of such lands then fails to\ncomply with the provisions of such land-use regulations, the directors may\npresent to such Circuit Court a petition, duly verified, setting forth the\nadoption of the ordinance prescribing land-use regulations, the failure of\nthe defendant land owner to observe such regulations, and to perform\nparticular work, operations, or avoidances as required thereby, and that\nsuch non-observance tends to increase erosion and erosion, floodwater and\nsediment damages on such lands and is interfering with the prevention or\ncontrol of erosion on other lands within the district, and praying the\ncourt to require the defendant to perform the work, operations, or\navoidances within a reasonable time and to order that if the defendant\nshall fail so to perform the directors may go on the land, perform the work\nor other operations or otherwise bring the condition of such lands into\nconformity with the requirements of such regulations. Upon the presentation\nof such petition, the court shall cause process to be issued against the\ndefendant, and shall hear the case. If it shall appear to the court that\ntestimony is necessary for the proper disposition of the matter, it may\ntake evidence, or appoint a referee to take such evidence as it may direct\nand report the same to the court with his findings of fact and conclusions\nof law, which shall constitute a part of the proceedings upon which the\ndetermination of the court shall be made. The court may dismiss the\npetition; or it may require the defendant to perform the work, operations,\nor avoidances, and may provide that upon the failure of the defendant to\ninitiate such performance within the time specified in the order of the\ncourt, and to prosecute the same to completion with reasonable diligence,\nthe directors may enter upon the lands involved and perform the work or\noperations or otherwise bring the condition of such lands into conformity\nwith the requirements of the regulations and recover the costs and expenses\nthereof, with interest at the rate of five per centum per annum, from the\nland owner of such lands.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26",
+      "number": "26.",
+      "heading": "Cooperation",
+      "text": "between districts.\nThe directors of any two or more districts organized under the\nprovisions of this Act may cooperate with one another in the exercise of\nany or all powers conferred in this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26a",
+      "number": "26a.",
+      "heading": "Any 25 or more owners of lands lying within the boundaries",
+      "text": "of any district organized under the provisions of this Act may file,\nwith the Department, a petition proposing the consolidation of such\ndistrict with one or more adjoining soil conservation districts. Such\npetition shall set forth: (1) the names of the districts proposed to be\nconsolidated, and (2) the proposed name of the consolidated district.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26a1",
+      "number": "26a.1.",
+      "heading": "Division of districts.",
+      "text": "Any 25 or more owners of lands lying within the boundaries of any\ndistrict organized under this Act which lies in more than one county may\nfile with the Department a petition proposing the division of the district\ninto 2 or more districts along county lines. Such petition shall set forth:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26a2",
+      "number": "26a.2.",
+      "heading": "If a majority of the votes cast in the referendum under Section",
+      "text": "26a.1 are cast in favor of the proposed division and if the Department\ndetermines that such division is administratively practicable and feasible,\nthe Department shall also determine the boundaries of the proposed new\ndistricts, record these determinations and proceed with the division of the\ndistrict in the manner hereinafter provided. If less than a majority of the\nvotes cast in the referendum are cast in favor of the proposed division or\nif the Department determines that such division is not administratively\npracticable and feasible, it shall record such determination and deny the\npetition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26a3",
+      "number": "26a.3.",
+      "heading": "After the Department has made and recorded a determination that",
+      "text": "division of the district is administratively practicable and feasible, the\ndirectors of the district shall present to the Secretary of State through\nthe Department an application for the discontinuance of the district and\nfor a certificate of organization for each of the new districts. The\napplication shall be signed and sworn to by the directors and shall set\nforth the name of the district being divided, the proposed names of the\ndistricts being formed and the location of the offices of each of the new\ndistricts. The application shall be accompanied by a statement from the\nDepartment setting forth (and such statement need contain no details other\nthan the mere recitals) that a petition for the division of the district\nwas filed, that the proposed division was, by resolution, approved by the\ngoverning body of the district, that a referendum was held in the district\non the question of the proposed division, and that the result of such\nreferendum showed a majority of the votes cast to be in favor of the\nproposed division.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26a4",
+      "number": "26a.4.",
+      "heading": "Upon a division of a district, the directors of the divided",
+      "text": "district shall continue to hold office and serve as a temporary governing\nbody of each of the new districts until the members of a permanent\ngoverning body for each of the new districts have been elected and have\nqualified. The provisions of Sections 19, 20 and 21 of this Act that\nrelate to the number, and to the nomination, election and organization of\nmembers of the governing bodies of soil and water conservation districts\nshall govern the selection of the members of the permanent governing body\nfor each of the new districts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26a5",
+      "number": "26a.5.",
+      "heading": "Upon the issuance, by the Secretary of State, of a certificate",
+      "text": "of organization to the new districts, property and things in action\nbelonging to the original district shall become the property of the new\ndistricts in accordance with the plan of distribution approved by the\nDepartment. The liabilities of the divided district shall be assumed by the\nnew districts also in accordance with the plan approved by the Department.\nAll contracts theretofore entered into, to which the divided district was a\nparty shall remain in force for the period provided in them. The new\ndistrict to which they are allotted by the Department shall be substituted\nfor the original district as party to such contracts and shall have the\nsame right and liability to perform, to require performance, to sue and be\nsued thereon, and to modify or terminate such contracts by mutual consent\nor otherwise, as original district had. Any indebtedness, claim, demand or\nright owning or belonging to the original district shall vest in and become\ndue to the new district to which it is allotted, which may demand, sue for,\nrecover and enforce the same in its own name. Upon a division of a\ndistrict, all land-use regulations theretofore adopted and in force and\neffect within the district shall remain in force and effect in each of the\nnew districts until repealed, amended, supplemented or superseded by action\nof the new district.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26b",
+      "number": "26b.",
+      "heading": "Formation of sub-districts - General tax.",
+      "text": "Sub-districts of a Soil and Water Conservation District may be formed\nin a watershed area as provided in this Act. When duly formed such\nsub-districts shall have the power to develop and execute plans and\nprograms and projects relating to any phase of flood prevention, flood\ncontrol, erosion control and control of erosion, floodwater and sediment\ndamages, and to cooperate and enter into agreements with the Secretary\nof Agriculture of the United States and to carry out, maintain and\noperate works of improvement pursuant to the \"Watershed Protection and\nFlood Prevention Act\" of August 4, 1954, as amended and in addition,\nsuch sub-districts shall have the power to levy and collect tax not in\nexcess of .125% of the value of all taxable property within the\nsub-district, as equalized or assessed by the Department of Revenue, to\nbe used for general corporate purposes of the\nsub-district.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26b1",
+      "number": "26b.1.",
+      "heading": "Petition.",
+      "text": "When a majority of the land owners in a proposed sub-district who also\nown a majority of the land in such sub-district desire that a sub-district\nbe organized they shall file a petition with the directors of the district.\nThe area included in the petition need not be contiguous but shall serve\ncompatible purposes. The petition shall contain a legal description of the\nlands proposed to be included, a brief statement of the reasons for\nrequesting organization of the sub-district and a request that the proposed\narea be organized as a sub-district. The petition must be signed by a\nmajority of those owning land in the proposed area who also own a majority\nof such land. Land already in one sub-district cannot be included in\nanother.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26b2",
+      "number": "26b.2.",
+      "heading": "Hearing.",
+      "text": "Within 30 days after such a petition has been filed with the directors\nthey shall cause due notice to be given of a hearing upon the\npracticability and feasibility of creating the proposed sub-district. All\ninterested parties shall have a right to attend such a hearing and to be\nheard. If it shall appear at the hearing that other lands should be\nincluded or that lands included in the petition should be excluded the\ndirectors may permit such inclusion or exclusion, provided the petition\nstill meets the requirements of Section 26b.1. No petitioner may withdraw\nfrom the petition without the consent of a majority of the other\npetitioners. The directors shall adjourn the hearing to a day certain, but\nnot sooner than 15 days nor later than 30 days. Further adjournments may be\nmade, but only for good cause.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26b3",
+      "number": "26b.3.",
+      "heading": "Referendum.",
+      "text": "If the directors determine that the petition\nmeets the requirements of Section 26b.1 and Section 26b.2, they shall,\nwithin 30 days after the conclusion of the hearing, give 10 days notice\nof the holding of a referendum by causing such notice to be published at\nleast once in one or more newspapers having general circulation within\nthe subdistrict. Except as otherwise provided in\nthis Act, the proposition shall be submitted in accordance with Section\n28-3 of The Election Code. The proposition shall be submitted upon\nballots in substantially the following form:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26b4",
+      "number": "26b.4.",
+      "heading": "Certificate of organization - recording.",
+      "text": "Following entry in the official minutes of the district of the\norganization of the sub-district, the directors shall certify this fact on\na separate form, authentic copies of which shall be recorded with the\nCounty Clerk of each county in which any portion of the sub-district lies,\nand with the State Department of Agriculture.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26b5",
+      "number": "26b.5.",
+      "heading": "Sub-districts in more than one Soil and Water Conservation",
+      "text": "District.\nIf a proposed sub-district lies in more than one Soil and Water\nConservation District, the petition may be presented to the directors of\nany one of such districts, and the directors of all districts shall act\njointly as a board of directors with respect to its formation. Such a\nsub-district shall be formed in the same manner and shall have the same\npowers and duties as a sub-district formed in one Soil and Water\nConservation District.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26b6",
+      "number": "26b.6.",
+      "heading": "Governing body of sub-district.)  The governing body of any",
+      "text": "sub-district shall consist of 5 sub-district directors, of legal voting\nage, who shall be owners of land within the sub-district or resident occupiers\nof land within the sub-district, in which they serve. Nominating petitions\nshall be filed and the election of such sub-district directors shall be\nconducted and held in the manner provided in Section 20 of this Act with\nrespect to the election of directors. The 5 nominees receiving the highest\nnumber of votes shall be declared elected. After the first such election,\nthe sub-district directors shall be divided into 3 classes, each consisting\nas nearly as may be of one-third of the entire number of sub-district directors\nand one class of sub-district directors shall be elected each year. The\nterm of office of the members of the first sub-district board shall be\ndetermined\nby lot following their election and 2 shall hold office for 3 years, 2 for\n2 years and one for one year. Their successors shall hold office for 3\nyears and shall be nominated and elected, in the manner provided in Section\n20 of this Act, in the years in which the respective terms of office of\nthe members of the sub-district board expire.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26b7",
+      "number": "26b.7.",
+      "heading": "Addition of territory to a sub-district.",
+      "text": "Addition of territory to a sub-district.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26b8",
+      "number": "26b.8.",
+      "heading": "Detachment of lands from a sub-district.",
+      "text": "The owner or owners of lands which have not been, are not and cannot be\nbenefited by their inclusion in the sub-district may petition the governing\nbody of the sub-district to have such land detached. The petition shall\ndescribe such lands and pray the governing body to hear the causes why such\nlands should be detached. Within 30 days after the receipt of such petition\nthe governing body shall conduct a hearing, having first notified the\npetitioners by mail at least ten days in advance and by causing such notice\nto be published at least once in one or more newspapers having general\ncirculation within the sub-district. Following the hearing the governing\nbody shall determine whether or not such lands or any portion of them\nshould be detached. If it is determined that lands shall be detached this\nfact shall be entered in the official minutes of the sub-district, and\ncertified copies of such entry recorded with the county clerk of each\ncounty in which any portion of such detached lands lie, and with the State\nDepartment of Agriculture.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26b9",
+      "number": "26b.9.",
+      "heading": "Discontinuance of sub-district.",
+      "text": "A sub-district may be discontinued upon petition to the governing body.\nThe petition shall as nearly as practicable meet the conditions specified\nin section 26b.1. Proceedings shall then be had as nearly as practicable\nin accord with the provisions of sections 26b.2, 26b.3 and 26b.4. A\npetition for discontinuance may not be submitted within three years of the\ndate of organization of a sub-district.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27",
+      "number": "27.",
+      "heading": "State",
+      "text": "agencies to cooperate.\nAgencies of this State which shall have jurisdiction over, or be charged\nwith the administration of, any State-owned lands, and of any county, or\nother governmental subdivision of the State, which shall have jurisdiction\nover, or be charged with the administration of, any county-owned or other\npublicly owned lands, lying within the boundaries of any district organized\nhereunder, shall cooperate to the fullest extent practicable with the\ndirectors of such districts in the effectuation of programs and operations\nundertaken by the directors under the provisions of this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28",
+      "number": "28.",
+      "heading": "Discontinuance of district.",
+      "text": "At any time after 3 years after the organization of a district, under\nthe provisions of this Act, any 25 or more owners of land within the limits\nof such district who own at least 10% of the land, by area, within such\ndistrict may file a petition with the Department praying that the\noperations of the district be terminated and the existence of the district\ndiscontinued. The Department may conduct such public meetings and public\nhearings upon such petition as may be necessary to assist it in the\nconsideration thereof.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-29",
+      "number": "29.",
+      "heading": "Determination for discontinuance.",
+      "text": "The Department shall publish the result of such referendum and shall\nthereafter consider and determine whether the continued operation of the\ndistrict is administratively practicable and feasible. If at least a\nmajority of the owners of land within the district shall vote in the\nreferendum on the question of discontinuance, and if a majority of the\nvotes cast in such referendum were in favor of discontinuance or if a\nmajority of the votes cast in such referendum were for continuance or if\nthe Department determines that the attitude of the owners of lands lying\nwithin the district, the approximate wealth and income of the land\noccupiers of the district, the probable expense of carrying on erosion\ncontrol operations within the district and other economic and social\nfactors as may be relevant are such that the continued operation of the\ndistrict is not otherwise practicable and feasible, the Department shall\nrecord such determination and shall certify such determination to the\ndirectors of the district.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-30",
+      "number": "30.",
+      "heading": "Winding up district affairs.",
+      "text": "Upon receipt from the Department of a certification that the Department\nhas determined that the continued operation of the district is not\nadministratively practicable and feasible, the directors shall forthwith\nproceed to terminate the affairs of the district. The directors shall\ndispose of all property belonging to the district at public auction and,\nafter settlement of all legal obligations against the district, shall pay\nover the proceeds of such sale into the State treasury. The directors shall\nthereupon file an application, duly verified, with the Secretary of State\nfor the discontinuance of such district, and shall transmit with such\napplication the certificate of the Department setting forth the\ndetermination of the Department that the continued operation of such\ndistrict is not administratively practicable and feasible and that all\ndebts of the district have been paid. The application shall recite that the\nproperty of the district has been disposed of and the proceeds paid over as\nin this section provided, and shall set forth a full accounting of such\nproperties and proceeds of the sale. The Secretary of State shall issue to\nthe directors a certificate of dissolution and shall record such\ncertificate in an appropriate book of record in his office. A copy of such\ncertificate of dissolution issued by the Secretary of State shall be\nrecorded with the recorder of the county in which the office of\nsuch district is located.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31",
+      "number": "31.",
+      "heading": "Due notice.",
+      "text": "Whenever notice is required to be given under the provisions of this\nAct, a notice published at least twice, with an interval of at least seven\n(7) days between the two (2) publication dates, in one or two newspapers of\ngeneral circulation published within the area; or, if any such newspaper is\nnot published within such area, then by publication in at least one\nnewspaper published outside the area but having general circulation in such\narea and by posting copies of such notice in at least three (3) conspicuous\nplaces within the area, such posting to include posting at public places\nwhere it may be customary to post notices generally, shall be deemed \"due\nnotice.\"",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32",
+      "number": "32.",
+      "heading": "Absentee",
+      "text": "voting.\nAll absentee voting shall be conducted in accordance with the applicable\nprovisions of Article 19 of the Election Code which are not inconsistent\nwith the provisions of this Act, except that the Department shall be\nsubstituted for the county clerk in instances referring to application,\nmailing or delivery, folding, depositing and receipt of ballots.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33",
+      "number": "33.",
+      "heading": "Separability",
+      "text": "clause.\nIf any provision of this Act, or the application of any provision of any\nperson or circumstance, is held invalid, the remainder of the Act, and the\napplication of such provision to other persons or circumstances, shall not\nbe affected thereby.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-34",
+      "number": "34.",
+      "heading": "All books, papers, records and property under the custody or",
+      "text": "control of the State Soil Conservation Districts Board at the time this\namendatory Act of 1951 takes effect shall be transferred to the Department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-35",
+      "number": "35.",
+      "heading": "All districts created and in being under this Act at the time this",
+      "text": "amendatory Act of 1961 takes effect shall be known as Soil and Water\nConservation Districts. Any action or proceeding had or commenced at such\ntime may be continued without amendment of such action or proceeding, and\nany contract, indebtedness, claim, demand, right or regulation shall not be\naffected by this amendatory Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36",
+      "number": "36.",
+      "heading": "Guidelines.",
+      "text": "The Department shall, pursuant to subsection (8)\nof Section 6 of this Act, adopt and revise guidelines for erosion and sediment\ncontrol. Before adopting or revising any guidelines, the Department must\nhold public hearings with respect thereto. At least 30 days notice of the\nhearing must be given by the Department in such manner as the Department\nconsiders as best suited to bring the hearing to the attention of soil and\nwater conservation districts and of all other persons interested in the\nguidelines or proposed revisions. Like notice must be given by the Department\nto any person who has filed a request for notice of such hearings. Copies\nof the proposed guidelines or revisions must be made available to all those\nreceiving notice of the hearing and to any other person, upon request.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-37",
+      "number": "37.",
+      "heading": "Coastal zone management - financing.",
+      "text": "The State erosion and sediment control program may not be adopted unless\nit includes a means of adequately financing the increased district and Department\nwork load to be incurred by the administration and implementation of the plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38",
+      "number": "38.",
+      "heading": "District erosion and sediment control program.",
+      "text": "Each district\nin the State shall, within 2 years after the adoption of the State program\nand guidelines by the Department, develop and adopt a soil erosion and sediment\ncontrol program and standards that are technically feasible, economically\nreasonable and consistent with the State program and guidelines developed\nby the Department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-39",
+      "number": "39.",
+      "heading": "Compliance with standards - cost sharing.",
+      "text": "Any person engaging\nin any land disturbing activity shall be encouraged to comply with the standards\nfor erosion and sediment control established by the district, except those\nland disturbing activities relating to surface mining permitted under Chapter 4 of the\nIllinois Pollution Control Board regulations. When proposed land\ndisturbing activities are to be performed on State land or by or on behalf\nof a State agency, the person engaging in the activities may elect to comply\nwith standards established by the Department. If land disturbing activities\ninvolve land in more than one district, the person engaging in the activities\nmay elect to comply with standards established by each district or standards\nestablished by the Department. He shall notify, in writing, each district\ninvolved and the Department concerning the standards he elects to comply with.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-40",
+      "number": "40.",
+      "heading": "Lands not within jurisdiction of district.",
+      "text": "All lands\npresently lying within the boundaries of a soil and water conservation\ndistrict shall remain under the jurisdiction of a soil and water\nconservation district.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-41",
+      "number": "41.",
+      "heading": "Complaints.",
+      "text": "All complaints for sediment and erosion\ndamages shall be filed with the soil and water conservation districts or\nthe Department if it has jurisdiction. All complaints shall be filed on\nforms provided by the soil and water conservation districts or the\nDepartment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42",
+      "number": "42.",
+      "heading": "Review.",
+      "text": "All final administrative decisions of any district\nor of the Department under this Act are subject to judicial review under\nthe Administrative Review Law, and the rules\nadopted thereunder.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

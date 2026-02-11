@@ -1,0 +1,494 @@
+{
+  "state": "iowa",
+  "path": "title-title-xi-natural-resources/chapter-chapter-459-animal-agriculture-compliance-act",
+  "sections": [
+    {
+      "id": "section-459101",
+      "number": "459.101",
+      "heading": "Title.Section 459.102 - Definitions",
+      "text": "Section 459.103 - General authority — commission and department.Section 459.201 - Special terms.Section 459.202 - Confinement feeding operations structures — separation distances.Section 459.203 - Separation distance requirements for confinement feeding operations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459102",
+      "number": "459.102",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459103",
+      "number": "459.103",
+      "heading": "General authority — commission and department.",
+      "text": "General authority — commission and department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459201",
+      "number": "459.201",
+      "heading": "Special terms.",
+      "text": "Special terms.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459202",
+      "number": "459.202",
+      "heading": "Confinement feeding operations structures — separation distances.",
+      "text": "Confinement feeding operations structures — separation distances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459203",
+      "number": "459.203",
+      "heading": "Separation distance requirements for confinement feeding operations — expansion of prior constructed operations.",
+      "text": "Separation distance requirements for confinement feeding operations — expansion of prior constructed operations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459204",
+      "number": "459.204",
+      "heading": "Liquid manure application — separation distance.",
+      "text": "Liquid manure application — separation distance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459204a",
+      "number": "459.204A",
+      "heading": "Stockpiling dry manure.",
+      "text": "Stockpiling dry manure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459204b",
+      "number": "459.204B",
+      "heading": "Stockpiling dry manure — minimum separation distance requirements.",
+      "text": "Stockpiling dry manure — minimum separation distance requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459205",
+      "number": "459.205",
+      "heading": "Separation distance requirements — exemptions.",
+      "text": "Separation distance requirements — exemptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459206",
+      "number": "459.206",
+      "heading": "Qualified confinement feeding operations — manure storage structures.",
+      "text": "Qualified confinement feeding operations — manure storage structures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459207",
+      "number": "459.207",
+      "heading": "Animal feeding operations — airborne pollutants control.",
+      "text": "Animal feeding operations — airborne pollutants control.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459301",
+      "number": "459.301",
+      "heading": "Special terms.",
+      "text": "Special terms.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459302",
+      "number": "459.302",
+      "heading": "Document processing requirements.",
+      "text": "Document processing requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459303",
+      "number": "459.303",
+      "heading": "Confinement feeding operations — permit requirements.",
+      "text": "Confinement feeding operations — permit requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459304",
+      "number": "459.304",
+      "heading": "Construction permit application procedure — county participation — comments — master matrix.",
+      "text": "Construction permit application procedure — county participation — comments — master matrix.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459305",
+      "number": "459.305",
+      "heading": "Master matrix.",
+      "text": "Master matrix.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459306",
+      "number": "459.306",
+      "heading": "Construction design statement — formed manure storage structures.",
+      "text": "Construction design statement — formed manure storage structures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459307",
+      "number": "459.307",
+      "heading": "Construction design standards — formed manure storage structures.",
+      "text": "Construction design standards — formed manure storage structures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459308",
+      "number": "459.308",
+      "heading": "Unformed manure storage structures — construction standards — inspections.",
+      "text": "Unformed manure storage structures — construction standards — inspections.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459309",
+      "number": "459.309",
+      "heading": "Settled open feedlot effluent basins — construction design standards.",
+      "text": "Settled open feedlot effluent basins — construction design standards.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459310",
+      "number": "459.310",
+      "heading": "Distance requirements.",
+      "text": "Distance requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459311",
+      "number": "459.311",
+      "heading": "Minimum requirements for manure control.",
+      "text": "Minimum requirements for manure control.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459311a",
+      "number": "459.311A",
+      "heading": "Stockpiling dry manure.",
+      "text": "Stockpiling dry manure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459311b",
+      "number": "459.311B",
+      "heading": "Stockpiling dry manure — minimum separation distance requirements and prohibitions.",
+      "text": "Stockpiling dry manure — minimum separation distance requirements and prohibitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459311c",
+      "number": "459.311C",
+      "heading": "Stockpiling dry manure on terrain other than karst terrain.",
+      "text": "Stockpiling dry manure on terrain other than karst terrain.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459311d",
+      "number": "459.311D",
+      "heading": "Stockpiling dry manure on karst terrain.",
+      "text": "Stockpiling dry manure on karst terrain.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459311e",
+      "number": "459.311E",
+      "heading": "Stockpiling — required practices.",
+      "text": "Stockpiling — required practices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459312",
+      "number": "459.312",
+      "heading": "Manure management plan — requirements.",
+      "text": "Manure management plan — requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459312a",
+      "number": "459.312A",
+      "heading": "Election to be a small animal feeding operation.",
+      "text": "Election to be a small animal feeding operation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459313",
+      "number": "459.313",
+      "heading": "Manure application — rules.",
+      "text": "Manure application — rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459313a",
+      "number": "459.313A",
+      "heading": "Application of manure on land — snow covered ground and frozen ground.",
+      "text": "Application of manure on land — snow covered ground and frozen ground.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459313b",
+      "number": "459.313B",
+      "heading": "Application of liquid manure on snow covered ground or frozen ground — annual report.",
+      "text": "Application of liquid manure on snow covered ground or frozen ground — annual report.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459314",
+      "number": "459.314",
+      "heading": "Application of manure near designated areas.",
+      "text": "Application of manure near designated areas.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459314a",
+      "number": "459.314A",
+      "heading": "Licensure — commercial manure service.",
+      "text": "Licensure — commercial manure service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459314b",
+      "number": "459.314B",
+      "heading": "Disciplinary action — commercial manure service.",
+      "text": "Disciplinary action — commercial manure service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459315",
+      "number": "459.315",
+      "heading": "Certification and education requirements.",
+      "text": "Certification and education requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459315a",
+      "number": "459.315A",
+      "heading": "Disciplinary action — commercial manure service representatives.",
+      "text": "Disciplinary action — commercial manure service representatives.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459",
+      "number": "459",
+      "heading": "316",
+      "text": "316",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459317",
+      "number": "459.317",
+      "heading": "Habitual violators — pending actions — restrictions on construction.",
+      "text": "Habitual violators — pending actions — restrictions on construction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459318",
+      "number": "459.318",
+      "heading": "Exception from regulation — research colleges.",
+      "text": "Exception from regulation — research colleges.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459319",
+      "number": "459.319",
+      "heading": "Exception from regulation — stockpiling.",
+      "text": "Exception from regulation — stockpiling.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459320",
+      "number": "459.320",
+      "heading": "Exception from regulation — election for confinement feeding operations confining fish.",
+      "text": "Exception from regulation — election for confinement feeding operations confining fish.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459400",
+      "number": "459.400",
+      "heading": "Compliance fees.",
+      "text": "Compliance fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459401",
+      "number": "459.401",
+      "heading": "Animal agriculture compliance fund.",
+      "text": "Animal agriculture compliance fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459402",
+      "number": "459.402",
+      "heading": "Animal agriculture compliance fees — delinquencies.",
+      "text": "Animal agriculture compliance fees — delinquencies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459403",
+      "number": "459.403",
+      "heading": "County assessment of fees prohibited.",
+      "text": "County assessment of fees prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459501",
+      "number": "459.501",
+      "heading": "Livestock remediation fund.",
+      "text": "Livestock remediation fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459502",
+      "number": "459.502",
+      "heading": "Indemnity fees required — construction permits.",
+      "text": "Indemnity fees required — construction permits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459503",
+      "number": "459.503",
+      "heading": "Indemnity fee required — manure management plan.",
+      "text": "Indemnity fee required — manure management plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459503a",
+      "number": "459.503A",
+      "heading": "Indemnity fee — waiver and reinstatement.",
+      "text": "Indemnity fee — waiver and reinstatement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459504",
+      "number": "459.504",
+      "heading": "Use of fund for emergency cleanup.",
+      "text": "Use of fund for emergency cleanup.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459505",
+      "number": "459.505",
+      "heading": "Use of moneys by counties for cleanup.",
+      "text": "Use of moneys by counties for cleanup.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459506",
+      "number": "459.506",
+      "heading": "Cleanup.",
+      "text": "Cleanup.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459507",
+      "number": "459.507",
+      "heading": "No state obligation.",
+      "text": "No state obligation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459508",
+      "number": "459.508",
+      "heading": "Departmental rules.",
+      "text": "Departmental rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459601",
+      "number": "459.601",
+      "heading": "Animal feeding operations — investigations and enforcement actions.",
+      "text": "Animal feeding operations — investigations and enforcement actions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459602",
+      "number": "459.602",
+      "heading": "Air quality violations — civil penalty.",
+      "text": "Air quality violations — civil penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459603",
+      "number": "459.603",
+      "heading": "Water quality violations — civil penalty.",
+      "text": "Water quality violations — civil penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459604",
+      "number": "459.604",
+      "heading": "Habitual violators — classification — penalties.",
+      "text": "Habitual violators — classification — penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459605",
+      "number": "459.605",
+      "heading": "Habitual violators — permit restrictions.",
+      "text": "Habitual violators — permit restrictions.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

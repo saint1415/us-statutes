@@ -1,0 +1,998 @@
+{
+  "state": "washington",
+  "path": "title-title-70/chapter-title-70",
+  "sections": [
+    {
+      "id": "section-title-70",
+      "number": "Title 70",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-show-dispositions",
+      "number": "Show Dispositions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7001",
+      "number": "70.01",
+      "heading": "General provisions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7002",
+      "number": "70.02",
+      "heading": "Medical records—Health care information access and disclosure.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7003",
+      "number": "70.03",
+      "heading": "Medical records—Providing information to patients.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7005",
+      "number": "70.05",
+      "heading": "Local health departments, boards, officers—Regulations.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7008",
+      "number": "70.08",
+      "heading": "Combined city-county health departments.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7010",
+      "number": "70.10",
+      "heading": "Comprehensive community health centers.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7012",
+      "number": "70.12",
+      "heading": "Public health funds.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7014",
+      "number": "70.14",
+      "heading": "Health care services purchased by state agencies.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7015",
+      "number": "70.15",
+      "heading": "Uniform emergency volunteer health practitioners act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7022",
+      "number": "70.22",
+      "heading": "Mosquito control.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7024",
+      "number": "70.24",
+      "heading": "Control and treatment of sexually transmitted diseases.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7026",
+      "number": "70.26",
+      "heading": "Pandemic influenza preparedness.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7028",
+      "number": "70.28",
+      "heading": "Control of tuberculosis.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7030",
+      "number": "70.30",
+      "heading": "Tuberculosis hospitals, facilities, and funding.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7037",
+      "number": "70.37",
+      "heading": "Health care facilities.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7038",
+      "number": "70.38",
+      "heading": "Health planning and development.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7040",
+      "number": "70.40",
+      "heading": "Hospital and medical facilities survey and construction act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7041",
+      "number": "70.41",
+      "heading": "Hospital licensing and regulation.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7042",
+      "number": "70.42",
+      "heading": "Medical test sites.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7043",
+      "number": "70.43",
+      "heading": "Hospital staff membership or privileges.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7044",
+      "number": "70.44",
+      "heading": "Public hospital districts.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7045",
+      "number": "70.45",
+      "heading": "Acquisition of nonprofit hospitals.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7046",
+      "number": "70.46",
+      "heading": "Health districts.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7047",
+      "number": "70.47",
+      "heading": "Basic health plan—Health care access act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7048",
+      "number": "70.48",
+      "heading": "City and county jails act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7050",
+      "number": "70.50",
+      "heading": "State otologist.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7054",
+      "number": "70.54",
+      "heading": "Miscellaneous health and safety provisions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7056",
+      "number": "70.56",
+      "heading": "Adverse health events and incident reporting system.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7058",
+      "number": "70.58",
+      "heading": "Vital statistics.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7058a",
+      "number": "70.58A",
+      "heading": "Vital statistics.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7062",
+      "number": "70.62",
+      "heading": "Transient accommodations—Licensing—Inspections.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7074",
+      "number": "70.74",
+      "heading": "Washington state explosives act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7075",
+      "number": "70.75",
+      "heading": "Firefighting equipment—Standardization.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7077",
+      "number": "70.77",
+      "heading": "State fireworks law.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7079",
+      "number": "70.79",
+      "heading": "Boilers and unfired pressure vessels.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7082",
+      "number": "70.82",
+      "heading": "Cerebral palsy program.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7083",
+      "number": "70.83",
+      "heading": "Phenylketonuria and other preventable heritable disorders.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7083c",
+      "number": "70.83C",
+      "heading": "Alcohol and drug use treatment associated with pregnancy—Fetal alcohol syndrome.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7083e",
+      "number": "70.83E",
+      "heading": "Prenatal newborn screening for exposure to harmful drugs.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7084",
+      "number": "70.84",
+      "heading": "Blind, handicapped, and disabled persons—\"White cane law\".",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7085",
+      "number": "70.85",
+      "heading": "Emergency party line telephone calls—Limiting telephone communication in hostage situations.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7086",
+      "number": "70.86",
+      "heading": "Earthquake standards for construction.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7087",
+      "number": "70.87",
+      "heading": "Elevators, lifting devices, and moving walks.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7090",
+      "number": "70.90",
+      "heading": "Water recreation facilities.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7092",
+      "number": "70.92",
+      "heading": "Provisions in buildings for aged and handicapped persons.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7096",
+      "number": "70.96",
+      "heading": "Alcoholism.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7097",
+      "number": "70.97",
+      "heading": "Enhanced services facilities.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70100",
+      "number": "70.100",
+      "heading": "Eye protection—Public and private educational institutions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70104",
+      "number": "70.104",
+      "heading": "Pesticides—Health hazards.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70108",
+      "number": "70.108",
+      "heading": "Outdoor music festivals.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70110",
+      "number": "70.110",
+      "heading": "Flammable fabrics—Children's sleepwear.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70111",
+      "number": "70.111",
+      "heading": "Infant crib safety act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70112",
+      "number": "70.112",
+      "heading": "Family medicine—Education and residency programs.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70114",
+      "number": "70.114",
+      "heading": "Migrant labor housing.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70114a",
+      "number": "70.114A",
+      "heading": "Temporary worker housing—Health and safety regulation.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70115",
+      "number": "70.115",
+      "heading": "Drug injection devices.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70122",
+      "number": "70.122",
+      "heading": "Natural death act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70123",
+      "number": "70.123",
+      "heading": "Shelters for victims of domestic violence.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70124",
+      "number": "70.124",
+      "heading": "Abuse of patients.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70125",
+      "number": "70.125",
+      "heading": "Victims of sexual assault act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70126",
+      "number": "70.126",
+      "heading": "Home health care and hospice care.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70127",
+      "number": "70.127",
+      "heading": "In-home services agencies.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70128",
+      "number": "70.128",
+      "heading": "Adult family homes.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70129",
+      "number": "70.129",
+      "heading": "Long-term care resident rights.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70136",
+      "number": "70.136",
+      "heading": "Hazardous materials incidents.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70155",
+      "number": "70.155",
+      "heading": "Tobacco—Access to minors.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70157",
+      "number": "70.157",
+      "heading": "National uniform tobacco settlement—Nonparticipating tobacco product manufacturers.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70158",
+      "number": "70.158",
+      "heading": "Tobacco product manufacturers.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70160",
+      "number": "70.160",
+      "heading": "Smoking in public places.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70162",
+      "number": "70.162",
+      "heading": "Indoor air quality in public buildings.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70168",
+      "number": "70.168",
+      "heading": "Statewide trauma care system.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70170",
+      "number": "70.170",
+      "heading": "Health data and charity care.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70175",
+      "number": "70.175",
+      "heading": "Rural health system project.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70180",
+      "number": "70.180",
+      "heading": "Rural health care.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70185",
+      "number": "70.185",
+      "heading": "Rural and underserved areas—Health care professional recruitment and retention.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70190",
+      "number": "70.190",
+      "heading": "Family policy council.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70198",
+      "number": "70.198",
+      "heading": "Early intervention services—Hearing loss.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70200",
+      "number": "70.200",
+      "heading": "Donations for children.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70225",
+      "number": "70.225",
+      "heading": "Prescription monitoring program.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70230",
+      "number": "70.230",
+      "heading": "Ambulatory surgical facilities.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70245",
+      "number": "70.245",
+      "heading": "The Washington death with dignity act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70250",
+      "number": "70.250",
+      "heading": "Robert Bree collaborative.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70255",
+      "number": "70.255",
+      "heading": "Novelty lighters.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70265",
+      "number": "70.265",
+      "heading": "Public hospital capital facility areas.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70290",
+      "number": "70.290",
+      "heading": "Washington vaccine association.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70305",
+      "number": "70.305",
+      "heading": "Adverse childhood experiences.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70320",
+      "number": "70.320",
+      "heading": "Service coordination organizations—Accountability measures.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70330",
+      "number": "70.330",
+      "heading": "Diabetes—Planning and reports.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70335",
+      "number": "70.335",
+      "heading": "Blood establishments.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70345",
+      "number": "70.345",
+      "heading": "Vapor products.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70350",
+      "number": "70.350",
+      "heading": "Dental health aide therapists.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70352",
+      "number": "70.352",
+      "heading": "Dental laboratories.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70385",
+      "number": "70.385",
+      "heading": "Peer support services.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70390",
+      "number": "70.390",
+      "heading": "Health care cost transparency board.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70395",
+      "number": "70.395",
+      "heading": "Private detention facilities.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70400",
+      "number": "70.400",
+      "heading": "Health care entities—Pregnancy complications.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70405",
+      "number": "70.405",
+      "heading": "Prescription drug affordability board.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70410",
+      "number": "70.410",
+      "heading": "Emergency medical reserve corps.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6864",
+      "number": "68.64",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4912",
+      "number": "49.12",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3852",
+      "number": "38.52",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1670",
+      "number": "16.70",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-43121",
+      "number": "43.121",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4320a",
+      "number": "43.20A",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1928",
+      "number": "19.28",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4344",
+      "number": "43.44",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6907",
+      "number": "69.07",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4844",
+      "number": "48.44",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28a210",
+      "number": "28A.210",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28a210300",
+      "number": "28A.210.300",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28a210060",
+      "number": "28A.210.060",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28a210170",
+      "number": "28A.210.170",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4917",
+      "number": "49.17",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1537",
+      "number": "15.37",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1916500",
+      "number": "19.16.500",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8804",
+      "number": "88.04",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7044450",
+      "number": "70.44.450",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1929",
+      "number": "19.29",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2628080",
+      "number": "26.28.080",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4320",
+      "number": "43.20",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3852030",
+      "number": "38.52.030",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4343",
+      "number": "43.43",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

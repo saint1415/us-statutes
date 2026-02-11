@@ -1,0 +1,622 @@
+{
+  "state": "washington",
+  "path": "title-title-11/chapter-title-11",
+  "sections": [
+    {
+      "id": "section-title-11",
+      "number": "Title 11",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-show-dispositions",
+      "number": "Show Dispositions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1102",
+      "number": "11.02",
+      "heading": "General provisions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1104",
+      "number": "11.04",
+      "heading": "Descent and distribution.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1105a",
+      "number": "11.05A",
+      "heading": "Uniform simultaneous death act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1107",
+      "number": "11.07",
+      "heading": "Nonprobate assets on dissolution or invalidation of marriage.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1108",
+      "number": "11.08",
+      "heading": "Escheats.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1110",
+      "number": "11.10",
+      "heading": "Abatement of assets.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1111",
+      "number": "11.11",
+      "heading": "Testamentary disposition of nonprobate assets act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1112",
+      "number": "11.12",
+      "heading": "Wills.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1118",
+      "number": "11.18",
+      "heading": "Liability of beneficiary of nonprobate asset.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1120",
+      "number": "11.20",
+      "heading": "Custody, proof, and probate of wills.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1124",
+      "number": "11.24",
+      "heading": "Will contests.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1128",
+      "number": "11.28",
+      "heading": "Letters testamentary and of administration.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1132",
+      "number": "11.32",
+      "heading": "Special administrators.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1136",
+      "number": "11.36",
+      "heading": "Qualifications of personal representatives.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1140",
+      "number": "11.40",
+      "heading": "Claims against estate.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1142",
+      "number": "11.42",
+      "heading": "Settlement of creditor claims for estates passing without probate.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1144",
+      "number": "11.44",
+      "heading": "Inventory and appraisement.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1148",
+      "number": "11.48",
+      "heading": "Personal representatives—General provisions—Actions by and against.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1154",
+      "number": "11.54",
+      "heading": "Family support and postdeath creditor's claim exemptions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1156",
+      "number": "11.56",
+      "heading": "Sales, exchanges, leases, mortgages, and borrowing.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1160",
+      "number": "11.60",
+      "heading": "Performance of decedent's contracts.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1162",
+      "number": "11.62",
+      "heading": "Small estates—Disposition of property.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1164",
+      "number": "11.64",
+      "heading": "Partnership property.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1166",
+      "number": "11.66",
+      "heading": "Social security benefits.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1168",
+      "number": "11.68",
+      "heading": "Settlement of estates without administration.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1172",
+      "number": "11.72",
+      "heading": "Distribution before settlement.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1176",
+      "number": "11.76",
+      "heading": "Settlement of estates.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1180",
+      "number": "11.80",
+      "heading": "Estates of absentees.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1184",
+      "number": "11.84",
+      "heading": "Inheritance rights of slayers or abusers.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1186",
+      "number": "11.86",
+      "heading": "Disclaimer of interests.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1190",
+      "number": "11.90",
+      "heading": "Uniform adult guardianship and protective proceedings jurisdiction act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1195a",
+      "number": "11.95A",
+      "heading": "Uniform powers of appointment act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1196a",
+      "number": "11.96A",
+      "heading": "Trust and estate dispute resolution.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1197",
+      "number": "11.97",
+      "heading": "Effect of trust instrument.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1198",
+      "number": "11.98",
+      "heading": "Trusts.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1198b",
+      "number": "11.98B",
+      "heading": "Uniform directed trust act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1199",
+      "number": "11.99",
+      "heading": "Construction.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11100",
+      "number": "11.100",
+      "heading": "Investment of trust funds.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11102",
+      "number": "11.102",
+      "heading": "Common trust funds.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11103",
+      "number": "11.103",
+      "heading": "Revocable trusts.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11104b",
+      "number": "11.104B",
+      "heading": "Uniform fiduciary income and principal act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11106",
+      "number": "11.106",
+      "heading": "Trustees' accounting act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11107",
+      "number": "11.107",
+      "heading": "Trusts—Decanting power.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11108",
+      "number": "11.108",
+      "heading": "Miscellaneous provisions for distributions made by a governing instrument.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11110",
+      "number": "11.110",
+      "heading": "Charitable trusts.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11114",
+      "number": "11.114",
+      "heading": "Uniform transfers to minors act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11118",
+      "number": "11.118",
+      "heading": "Trusts—Animals.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11120",
+      "number": "11.120",
+      "heading": "Uniform fiduciary access to digital assets act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11125",
+      "number": "11.125",
+      "heading": "Uniform power of attorney act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11130",
+      "number": "11.130",
+      "heading": "Uniform guardianship, conservatorship, and other protective arrangements act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11135",
+      "number": "11.135",
+      "heading": "Uniform electronic estate planning documents act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11140",
+      "number": "11.140",
+      "heading": "Washington uniform custodial trust act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6832",
+      "number": "68.32",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2616",
+      "number": "26.16",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3624130",
+      "number": "36.24.130",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3624180",
+      "number": "36.24.180",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-224040",
+      "number": "2.24.040",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6864",
+      "number": "68.64",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-560030",
+      "number": "5.60.030",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2724070",
+      "number": "27.24.070",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3618020",
+      "number": "36.18.020",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6428",
+      "number": "64.28",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-208010",
+      "number": "2.08.010",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-208190",
+      "number": "2.08.190",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4818450",
+      "number": "48.18.450",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4818452",
+      "number": "48.18.452",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-752",
+      "number": "7.52",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9a60",
+      "number": "9A.60",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-548060",
+      "number": "5.48.060",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-23b07240",
+      "number": "23B.07.240",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7304130",
+      "number": "73.04.130",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4948120",
+      "number": "49.48.120",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4956020",
+      "number": "49.56.020",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-540020",
+      "number": "5.40.020",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-540040",
+      "number": "5.40.040",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

@@ -1,0 +1,806 @@
+{
+  "state": "virginia",
+  "path": "title-title-551-property-and-conveyances/chapter-chapter-19-virginia-condominium-act",
+  "sections": [
+    {
+      "id": "section-1",
+      "number": "1.",
+      "heading": "General Provisions§ 55.1-1900. Definitions§ 55",
+      "text": "1-1901. Application and construction of chapter§ 55.1-1902. Variation by agreement§ 55.1-1903. Separate assessments, titles, and taxation§ 55.1-1904. Association charges§ 55.1-1905. Local ordinances; nonconforming conversion condominiums; applicability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1900",
+      "number": "55.1-1900.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1901",
+      "number": "55.1-1901.",
+      "heading": "Application and construction of chapter",
+      "text": "Application and construction of chapter",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1902",
+      "number": "55.1-1902.",
+      "heading": "Variation by agreement",
+      "text": "Variation by agreement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1903",
+      "number": "55.1-1903.",
+      "heading": "Separate assessments, titles, and taxation",
+      "text": "Separate assessments, titles, and taxation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1904",
+      "number": "55.1-1904.",
+      "heading": "Association charges",
+      "text": "Association charges",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1905",
+      "number": "55.1-1905.",
+      "heading": "Local ordinances; nonconforming conversion condominiums; applicability of Uniform Statewide Building Code; other regulations",
+      "text": "Local ordinances; nonconforming conversion condominiums; applicability of Uniform Statewide Building Code; other regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1906",
+      "number": "55.1-1906.",
+      "heading": "Eminent domain",
+      "text": "Eminent domain",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2",
+      "number": "2.",
+      "heading": "Creation, Alteration, and Termination of Condominiums",
+      "text": "Creation, Alteration, and Termination of Condominiums",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1907",
+      "number": "55.1-1907.",
+      "heading": "How condominium may be created",
+      "text": "How condominium may be created",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1908",
+      "number": "55.1-1908.",
+      "heading": "Release of liens",
+      "text": "Release of liens",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1909",
+      "number": "55.1-1909.",
+      "heading": "Description of condominium units",
+      "text": "Description of condominium units",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1910",
+      "number": "55.1-1910.",
+      "heading": "Execution of condominium instruments",
+      "text": "Execution of condominium instruments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1911",
+      "number": "55.1-1911.",
+      "heading": "Recordation of condominium instruments",
+      "text": "Recordation of condominium instruments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1912",
+      "number": "55.1-1912.",
+      "heading": "Construction of condominium instruments",
+      "text": "Construction of condominium instruments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1913",
+      "number": "55.1-1913.",
+      "heading": "Complementarity of condominium instruments; controlling construction",
+      "text": "Complementarity of condominium instruments; controlling construction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1914",
+      "number": "55.1-1914.",
+      "heading": "Validity of condominium instruments; discrimination prohibited",
+      "text": "Validity of condominium instruments; discrimination prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1915",
+      "number": "55.1-1915.",
+      "heading": "Compliance with condominium instruments",
+      "text": "Compliance with condominium instruments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1916",
+      "number": "55.1-1916.",
+      "heading": "Contents of declaration",
+      "text": "Contents of declaration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1917",
+      "number": "55.1-1917.",
+      "heading": "Allocation of interests in the common elements",
+      "text": "Allocation of interests in the common elements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1918",
+      "number": "55.1-1918.",
+      "heading": "Reallocation of interests in common elements",
+      "text": "Reallocation of interests in common elements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1919",
+      "number": "55.1-1919.",
+      "heading": "Assignments of limited common elements; conversion to common element",
+      "text": "Assignments of limited common elements; conversion to common element",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1920",
+      "number": "55.1-1920.",
+      "heading": "Contents of plats and plans",
+      "text": "Contents of plats and plans",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1921",
+      "number": "55.1-1921.",
+      "heading": "Bond to insure completion of improvements",
+      "text": "Bond to insure completion of improvements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1922",
+      "number": "55.1-1922.",
+      "heading": "Preliminary recordation of plats and plans",
+      "text": "Preliminary recordation of plats and plans",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1923",
+      "number": "55.1-1923.",
+      "heading": "Easement for encroachments",
+      "text": "Easement for encroachments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1924",
+      "number": "55.1-1924.",
+      "heading": "Conversion of convertible lands",
+      "text": "Conversion of convertible lands",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1925",
+      "number": "55.1-1925.",
+      "heading": "Conversion of convertible spaces",
+      "text": "Conversion of convertible spaces",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1926",
+      "number": "55.1-1926.",
+      "heading": "Expansion of condominium",
+      "text": "Expansion of condominium",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1927",
+      "number": "55.1-1927.",
+      "heading": "Contraction of condominium",
+      "text": "Contraction of condominium",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1928",
+      "number": "55.1-1928.",
+      "heading": "Easement to facilitate conversion and expansion",
+      "text": "Easement to facilitate conversion and expansion",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1929",
+      "number": "55.1-1929.",
+      "heading": "Easement to facilitate sales",
+      "text": "Easement to facilitate sales",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1930",
+      "number": "55.1-1930.",
+      "heading": "Declarant's obligation to complete and restore",
+      "text": "Declarant's obligation to complete and restore",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1931",
+      "number": "55.1-1931.",
+      "heading": "Alterations within units",
+      "text": "Alterations within units",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1932",
+      "number": "55.1-1932.",
+      "heading": "Relocation of boundaries between units",
+      "text": "Relocation of boundaries between units",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1933",
+      "number": "55.1-1933.",
+      "heading": "Subdivision of units",
+      "text": "Subdivision of units",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1934",
+      "number": "55.1-1934.",
+      "heading": "Amendment of condominium instruments",
+      "text": "Amendment of condominium instruments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1935",
+      "number": "55.1-1935.",
+      "heading": "Use of technology",
+      "text": "Use of technology",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1936",
+      "number": "55.1-1936.",
+      "heading": "Merger or consolidation of condominiums; procedure",
+      "text": "Merger or consolidation of condominiums; procedure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1937",
+      "number": "55.1-1937.",
+      "heading": "Termination of condominium",
+      "text": "Termination of condominium",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1938",
+      "number": "55.1-1938.",
+      "heading": "Rights of mortgagees",
+      "text": "Rights of mortgagees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1939",
+      "number": "55.1-1939.",
+      "heading": "Statement of unit owner rights",
+      "text": "Statement of unit owner rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3",
+      "number": "3.",
+      "heading": "Management of Condominium",
+      "text": "Management of Condominium",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1940",
+      "number": "55.1-1940.",
+      "heading": "Bylaws to be recorded with declaration; contents; unit owners' association; executive board; amendment of bylaws",
+      "text": "Bylaws to be recorded with declaration; contents; unit owners' association; executive board; amendment of bylaws",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-19401",
+      "number": "55.1-1940.1.",
+      "heading": "Termination and duration of certain management contracts",
+      "text": "Termination and duration of certain management contracts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1941",
+      "number": "55.1-1941.",
+      "heading": "Amendment to condominium instruments; consent of mortgagee",
+      "text": "Amendment to condominium instruments; consent of mortgagee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1942",
+      "number": "55.1-1942.",
+      "heading": "Reformation of declaration; judicial procedure",
+      "text": "Reformation of declaration; judicial procedure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1943",
+      "number": "55.1-1943.",
+      "heading": "Control of condominium by declarant",
+      "text": "Control of condominium by declarant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1944",
+      "number": "55.1-1944.",
+      "heading": "Deposit of funds",
+      "text": "Deposit of funds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1945",
+      "number": "55.1-1945.",
+      "heading": "Books, minutes, and records; inspection",
+      "text": "Books, minutes, and records; inspection",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1946",
+      "number": "55.1-1946.",
+      "heading": "Management office",
+      "text": "Management office",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1947",
+      "number": "55.1-1947.",
+      "heading": "Transfer of special declarant rights",
+      "text": "Transfer of special declarant rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1948",
+      "number": "55.1-1948.",
+      "heading": "Declarants not succeeding to special declarant rights",
+      "text": "Declarants not succeeding to special declarant rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1949",
+      "number": "55.1-1949.",
+      "heading": "Meetings of unit owners' association and executive board",
+      "text": "Meetings of unit owners' association and executive board",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1950",
+      "number": "55.1-1950.",
+      "heading": "Distribution of information by members",
+      "text": "Distribution of information by members",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1951",
+      "number": "55.1-1951.",
+      "heading": "Display of the flag of the United States; necessary supporting structures; affirmative defense",
+      "text": "Display of the flag of the United States; necessary supporting structures; affirmative defense",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-19511",
+      "number": "55.1-1951.1.",
+      "heading": "Installation of solar energy collection devices",
+      "text": "Installation of solar energy collection devices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1952",
+      "number": "55.1-1952.",
+      "heading": "Meetings of unit owners' association and executive board; quorums",
+      "text": "Meetings of unit owners' association and executive board; quorums",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1953",
+      "number": "55.1-1953.",
+      "heading": "Meetings of unit owners' association and executive board; voting by unit owners; proxies",
+      "text": "Meetings of unit owners' association and executive board; voting by unit owners; proxies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1954",
+      "number": "55.1-1954.",
+      "heading": "Officers",
+      "text": "Officers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1955",
+      "number": "55.1-1955.",
+      "heading": "Upkeep of condominiums; warranty against structural defects; statute of limitations for warranty; warranty review committee",
+      "text": "Upkeep of condominiums; warranty against structural defects; statute of limitations for warranty; warranty review committee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1956",
+      "number": "55.1-1956.",
+      "heading": "Control of common elements",
+      "text": "Control of common elements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1957",
+      "number": "55.1-1957.",
+      "heading": "Common elements; notice of pesticide application",
+      "text": "Common elements; notice of pesticide application",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1958",
+      "number": "55.1-1958.",
+      "heading": "Tort and contract liability; judgment lien",
+      "text": "Tort and contract liability; judgment lien",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1959",
+      "number": "55.1-1959.",
+      "heading": "Suspension of services for failure to pay assessments; corrective action; assessment of charges for violations; notice; hearing; adoption and enforcement of rules and regulations",
+      "text": "Suspension of services for failure to pay assessments; corrective action; assessment of charges for violations; notice; hearing; adoption and enforcement of rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1960",
+      "number": "55.1-1960.",
+      "heading": "Limitation of occupancy of a unit",
+      "text": "Limitation of occupancy of a unit",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-19601",
+      "number": "55.1-1960.1.",
+      "heading": "Limitation of smoking in condominium",
+      "text": "Limitation of smoking in condominium",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1961",
+      "number": "55.1-1961.",
+      "heading": "Use of for sale sign in connection with resale",
+      "text": "Use of for sale sign in connection with resale",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1962",
+      "number": "55.1-1962.",
+      "heading": "Designation of authorized representative",
+      "text": "Designation of authorized representative",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-19621",
+      "number": "55.1-1962.1.",
+      "heading": "Electric vehicle charging stations permitted",
+      "text": "Electric vehicle charging stations permitted",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1963",
+      "number": "55.1-1963.",
+      "heading": "Insurance",
+      "text": "Insurance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1964",
+      "number": "55.1-1964.",
+      "heading": "Liability for common expenses; late fees; additional assessment; authority to borrow",
+      "text": "Liability for common expenses; late fees; additional assessment; authority to borrow",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1965",
+      "number": "55.1-1965.",
+      "heading": "Annual budget; reserve study; reserves for capital components",
+      "text": "Annual budget; reserve study; reserves for capital components",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1966",
+      "number": "55.1-1966.",
+      "heading": "Lien for assessments; foreclosure",
+      "text": "Lien for assessments; foreclosure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1967",
+      "number": "55.1-1967.",
+      "heading": "Notice of sale under deed of trust",
+      "text": "Notice of sale under deed of trust",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1968",
+      "number": "55.1-1968.",
+      "heading": "Bond to be posted by declarant",
+      "text": "Bond to be posted by declarant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1969",
+      "number": "55.1-1969.",
+      "heading": "Restraints on alienation",
+      "text": "Restraints on alienation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4",
+      "number": "4.",
+      "heading": "Administration of Chapter; Sale, Etc., of Condominium Units",
+      "text": "Administration of Chapter; Sale, Etc., of Condominium Units",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1970",
+      "number": "55.1-1970.",
+      "heading": "Common Interest Community Board",
+      "text": "Common Interest Community Board",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1971",
+      "number": "55.1-1971.",
+      "heading": "General powers and duties of the Common Interest Community Board",
+      "text": "General powers and duties of the Common Interest Community Board",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1972",
+      "number": "55.1-1972.",
+      "heading": "Exemptions from certain provisions of article",
+      "text": "Exemptions from certain provisions of article",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1973",
+      "number": "55.1-1973.",
+      "heading": "Rental of units",
+      "text": "Rental of units",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1974",
+      "number": "55.1-1974.",
+      "heading": "Limitations on dispositions of units",
+      "text": "Limitations on dispositions of units",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1975",
+      "number": "55.1-1975.",
+      "heading": "Application for registration; fee",
+      "text": "Application for registration; fee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1976",
+      "number": "55.1-1976.",
+      "heading": "Public offering statement; condominium securities",
+      "text": "Public offering statement; condominium securities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1977",
+      "number": "55.1-1977.",
+      "heading": "Inquiry and examination",
+      "text": "Inquiry and examination",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1978",
+      "number": "55.1-1978.",
+      "heading": "Notice of filing and registration",
+      "text": "Notice of filing and registration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1979",
+      "number": "55.1-1979.",
+      "heading": "Annual report by declarant",
+      "text": "Annual report by declarant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1980",
+      "number": "55.1-1980.",
+      "heading": "Annual report by unit owners' association",
+      "text": "Annual report by unit owners' association",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1981",
+      "number": "55.1-1981.",
+      "heading": "Termination of registration",
+      "text": "Termination of registration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1982",
+      "number": "55.1-1982.",
+      "heading": "Conversion condominiums; special provisions",
+      "text": "Conversion condominiums; special provisions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1983",
+      "number": "55.1-1983.",
+      "heading": "Escrow of deposits",
+      "text": "Escrow of deposits",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1984",
+      "number": "55.1-1984.",
+      "heading": "Declarant to deliver declaration to purchaser",
+      "text": "Declarant to deliver declaration to purchaser",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1985",
+      "number": "55.1-1985.",
+      "heading": "Investigations and proceedings",
+      "text": "Investigations and proceedings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1986",
+      "number": "55.1-1986.",
+      "heading": "Cease and desist orders",
+      "text": "Cease and desist orders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1987",
+      "number": "55.1-1987.",
+      "heading": "Revocation of registration",
+      "text": "Revocation of registration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1988",
+      "number": "55.1-1988.",
+      "heading": "Judicial review",
+      "text": "Judicial review",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1989",
+      "number": "55.1-1989.",
+      "heading": "Penalties",
+      "text": "Penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5",
+      "number": "5.",
+      "heading": "Disclosure Requirements; Authorized Fees [Repealed]",
+      "text": "Disclosure Requirements; Authorized Fees [Repealed]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551-1990",
+      "number": "55.1-1990.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

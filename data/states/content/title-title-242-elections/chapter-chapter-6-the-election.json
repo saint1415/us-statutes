@@ -1,0 +1,942 @@
+{
+  "state": "virginia",
+  "path": "title-title-242-elections/chapter-chapter-6-the-election",
+  "sections": [
+    {
+      "id": "section-1",
+      "number": "1.",
+      "heading": "General Provisions; Polling Places§ 24",
+      "text": "2-600. Cost of elections§ 24.2-601. Town election process§ 24.2-602. Exemption for ballots and election materials from certain purchasing and procurement requirements§ 24.2-603. Hours polls to be open; closing the polls§ 24.2-603.1. Postponement of certain elec",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-600",
+      "number": "24.2-600.",
+      "heading": "Cost of elections",
+      "text": "Cost of elections",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-601",
+      "number": "24.2-601.",
+      "heading": "Town election process",
+      "text": "Town election process",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-602",
+      "number": "24.2-602.",
+      "heading": "Exemption for ballots and election materials from certain purchasing and procurement requirements",
+      "text": "Exemption for ballots and election materials from certain purchasing and procurement requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-603",
+      "number": "24.2-603.",
+      "heading": "Hours polls to be open; closing the polls",
+      "text": "Hours polls to be open; closing the polls",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-6031",
+      "number": "24.2-603.1.",
+      "heading": "Postponement of certain elections; state of emergency",
+      "text": "Postponement of certain elections; state of emergency",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-604",
+      "number": "24.2-604.",
+      "heading": "Polling places; prohibited activities; prohibited area; penalties",
+      "text": "Polling places; prohibited activities; prohibited area; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-6041",
+      "number": "24.2-604.1.",
+      "heading": "Signs for special entrances to polling places",
+      "text": "Signs for special entrances to polling places",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-6042",
+      "number": "24.2-604.2.",
+      "heading": "Polling places; prohibited area; emergency situations",
+      "text": "Polling places; prohibited area; emergency situations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-6043",
+      "number": "24.2-604.3.",
+      "heading": "Election day page program; high school students",
+      "text": "Election day page program; high school students",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-6044",
+      "number": "24.2-604.4.",
+      "heading": "Polling places; authorized representatives of party or candidate; prohibited activities",
+      "text": "Polling places; authorized representatives of party or candidate; prohibited activities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-6045",
+      "number": "24.2-604.5.",
+      "heading": "Polling places; presence of additional persons authorized",
+      "text": "Polling places; presence of additional persons authorized",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-6046",
+      "number": "24.2-604.6.",
+      "heading": "Polling places; simulated election activities",
+      "text": "Polling places; simulated election activities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-605",
+      "number": "24.2-605.",
+      "heading": "Loudspeakers prohibited at polls; penalty",
+      "text": "Loudspeakers prohibited at polls; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-606",
+      "number": "24.2-606.",
+      "heading": "Preservation of order at elections",
+      "text": "Preservation of order at elections",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-607",
+      "number": "24.2-607.",
+      "heading": "Prohibited conduct; intimidation of voters; disturbance of election; how prevented; penalties",
+      "text": "Prohibited conduct; intimidation of voters; disturbance of election; how prevented; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-608",
+      "number": "24.2-608.",
+      "heading": "Officers to decide order of voting",
+      "text": "Officers to decide order of voting",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-609",
+      "number": "24.2-609.",
+      "heading": "Voting booths",
+      "text": "Voting booths",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-610",
+      "number": "24.2-610.",
+      "heading": "Materials at polling places",
+      "text": "Materials at polling places",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-611",
+      "number": "24.2-611.",
+      "heading": "Form and signing of pollbooks; records of persons voting; electronic pollbooks",
+      "text": "Form and signing of pollbooks; records of persons voting; electronic pollbooks",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2",
+      "number": "2.",
+      "heading": "Ballots",
+      "text": "Ballots",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-612",
+      "number": "24.2-612.",
+      "heading": "List of offices and candidates filed with Department of Elections and checked for accuracy; when ballots printed; number required",
+      "text": "List of offices and candidates filed with Department of Elections and checked for accuracy; when ballots printed; number required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-6121",
+      "number": "24.2-612.1.",
+      "heading": "Ballots; death, withdrawal, or disqualification of candidates",
+      "text": "Ballots; death, withdrawal, or disqualification of candidates",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-6122",
+      "number": "24.2-612.2.",
+      "heading": "Notice of withdrawal of candidates",
+      "text": "Notice of withdrawal of candidates",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-613",
+      "number": "24.2-613.",
+      "heading": "Form of ballot",
+      "text": "Form of ballot",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-614",
+      "number": "24.2-614.",
+      "heading": "Preparation and form of presidential election ballots",
+      "text": "Preparation and form of presidential election ballots",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-615",
+      "number": "24.2-615.",
+      "heading": "Separate questions for proposed constitutional amendments, etc.; uniform ballots",
+      "text": "Separate questions for proposed constitutional amendments, etc.; uniform ballots",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-616",
+      "number": "24.2-616.",
+      "heading": "Duties of printer; statement; penalty",
+      "text": "Duties of printer; statement; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-617",
+      "number": "24.2-617.",
+      "heading": "Representative of electoral board or general registrar to be present at printing; custody of ballots; electoral board or general registrar may disclose contents, style, and size",
+      "text": "Representative of electoral board or general registrar to be present at printing; custody of ballots; electoral board or general registrar may disclose contents, style, and size",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-618",
+      "number": "24.2-618.",
+      "heading": "Delivery of ballots to electoral board or general registrar; checking and recording number",
+      "text": "Delivery of ballots to electoral board or general registrar; checking and recording number",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-619",
+      "number": "24.2-619.",
+      "heading": "Sealing ballots",
+      "text": "Sealing ballots",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-620",
+      "number": "24.2-620.",
+      "heading": "Dividing ballots into packages for each precinct; delivery of absentee ballots",
+      "text": "Dividing ballots into packages for each precinct; delivery of absentee ballots",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-621",
+      "number": "24.2-621.",
+      "heading": "Delivery of packages to officers; opening packages",
+      "text": "Delivery of packages to officers; opening packages",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-622",
+      "number": "24.2-622.",
+      "heading": "Unofficial sample ballots",
+      "text": "Unofficial sample ballots",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-623",
+      "number": "24.2-623.",
+      "heading": "Ballot containers to be supplied by governing bodies; construction and custody",
+      "text": "Ballot containers to be supplied by governing bodies; construction and custody",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-624",
+      "number": "24.2-624.",
+      "heading": "Opening and closing ballot containers; opening polls",
+      "text": "Opening and closing ballot containers; opening polls",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3",
+      "number": "3.",
+      "heading": "Voting Equipment and Systems",
+      "text": "Voting Equipment and Systems",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-625",
+      "number": "24.2-625.",
+      "heading": "Application of Title 24.2 and general law",
+      "text": "Application of Title 24.2 and general law",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-6251",
+      "number": "24.2-625.1.",
+      "heading": "Voting equipment security",
+      "text": "Voting equipment security",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-6252",
+      "number": "24.2-625.2.",
+      "heading": "Wireless communications at polling places",
+      "text": "Wireless communications at polling places",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-626",
+      "number": "24.2-626.",
+      "heading": "Governing bodies shall acquire electronic voting systems",
+      "text": "Governing bodies shall acquire electronic voting systems",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-6261",
+      "number": "24.2-626.1.",
+      "heading": "Acquisition and use of accessible voting devices",
+      "text": "Acquisition and use of accessible voting devices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-627",
+      "number": "24.2-627.",
+      "heading": "Electronic voting systems; number required",
+      "text": "Electronic voting systems; number required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-628",
+      "number": "24.2-628.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-629",
+      "number": "24.2-629.",
+      "heading": "State Board approval process of electronic voting systems",
+      "text": "State Board approval process of electronic voting systems",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-630",
+      "number": "24.2-630.",
+      "heading": "Experimental use of approved systems",
+      "text": "Experimental use of approved systems",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-631",
+      "number": "24.2-631.",
+      "heading": "Experimental use of voting systems and ballots prior to approval of the system",
+      "text": "Experimental use of voting systems and ballots prior to approval of the system",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-632",
+      "number": "24.2-632.",
+      "heading": "Voting equipment custodians",
+      "text": "Voting equipment custodians",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-633",
+      "number": "24.2-633.",
+      "heading": "Notice of final testing of voting system; sealing equipment",
+      "text": "Notice of final testing of voting system; sealing equipment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-634",
+      "number": "24.2-634.",
+      "heading": "Locking and securing after preparation",
+      "text": "Locking and securing after preparation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-635",
+      "number": "24.2-635.",
+      "heading": "Demonstration of equipment",
+      "text": "Demonstration of equipment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-636",
+      "number": "24.2-636.",
+      "heading": "Instruction as to use of equipment",
+      "text": "Instruction as to use of equipment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-637",
+      "number": "24.2-637.",
+      "heading": "Furniture and equipment to be at polling places",
+      "text": "Furniture and equipment to be at polling places",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-638",
+      "number": "24.2-638.",
+      "heading": "Voting equipment to be in plain view; officers and others not permitted to see actual voting; unlocking counter compartment of equipment, etc.",
+      "text": "Voting equipment to be in plain view; officers and others not permitted to see actual voting; unlocking counter compartment of equipment, etc.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-639",
+      "number": "24.2-639.",
+      "heading": "Duties of officers of election",
+      "text": "Duties of officers of election",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-640",
+      "number": "24.2-640.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-641",
+      "number": "24.2-641.",
+      "heading": "Sample ballot",
+      "text": "Sample ballot",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-642",
+      "number": "24.2-642.",
+      "heading": "Inoperative equipment",
+      "text": "Inoperative equipment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4",
+      "number": "4.",
+      "heading": "Conduct of Election; Election Results",
+      "text": "Conduct of Election; Election Results",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-643",
+      "number": "24.2-643.",
+      "heading": "Qualified voter permitted to vote; procedures at polling place; voter identification",
+      "text": "Qualified voter permitted to vote; procedures at polling place; voter identification",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-644",
+      "number": "24.2-644.",
+      "heading": "Voting by paper ballot; voting for presidential electors; write-in votes",
+      "text": "Voting by paper ballot; voting for presidential electors; write-in votes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-645",
+      "number": "24.2-645.",
+      "heading": "Defaced printed ballots",
+      "text": "Defaced printed ballots",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-646",
+      "number": "24.2-646.",
+      "heading": "Voter folds paper ballot and hands same to officer who deposits it unopened in ballot container",
+      "text": "Voter folds paper ballot and hands same to officer who deposits it unopened in ballot container",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-6461",
+      "number": "24.2-646.1.",
+      "heading": "Permitted use of paper ballots",
+      "text": "Permitted use of paper ballots",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-647",
+      "number": "24.2-647.",
+      "heading": "Voting systems; demonstration on election day",
+      "text": "Voting systems; demonstration on election day",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-648",
+      "number": "24.2-648.",
+      "heading": "Write-in votes on voting equipment",
+      "text": "Write-in votes on voting equipment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-649",
+      "number": "24.2-649.",
+      "heading": "Assistance for certain voters inside the polling place; penalties",
+      "text": "Assistance for certain voters inside the polling place; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-6491",
+      "number": "24.2-649.1.",
+      "heading": "Assistance for certain voters outside of the polling place",
+      "text": "Assistance for certain voters outside of the polling place",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-650",
+      "number": "24.2-650.",
+      "heading": "Officers to sign only official papers, etc.",
+      "text": "Officers to sign only official papers, etc.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-651",
+      "number": "24.2-651.",
+      "heading": "Voter who is challenged; how challenge tried",
+      "text": "Voter who is challenged; how challenge tried",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-6511",
+      "number": "24.2-651.1.",
+      "heading": "Voter who is shown as having already voted; provisional ballots",
+      "text": "Voter who is shown as having already voted; provisional ballots",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-652",
+      "number": "24.2-652.",
+      "heading": "Voter whose name erroneously omitted from pollbook; provisional ballots",
+      "text": "Voter whose name erroneously omitted from pollbook; provisional ballots",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-653",
+      "number": "24.2-653.",
+      "heading": "Provisional voting; procedures in polling place",
+      "text": "Provisional voting; procedures in polling place",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-65301",
+      "number": "24.2-653.01.",
+      "heading": "Provisional ballots; electoral boards to make determination as to validity",
+      "text": "Provisional ballots; electoral boards to make determination as to validity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-6531",
+      "number": "24.2-653.1.",
+      "heading": "Voters who did not receive absentee ballots; provisional ballots",
+      "text": "Voters who did not receive absentee ballots; provisional ballots",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-6532",
+      "number": "24.2-653.2.",
+      "heading": "Ballots cast after normal close of polling hours due to court-ordered extension; provisional ballots",
+      "text": "Ballots cast after normal close of polling hours due to court-ordered extension; provisional ballots",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-6533",
+      "number": "24.2-653.3.",
+      "heading": "Voters assigned to split precinct; provisional ballots",
+      "text": "Voters assigned to split precinct; provisional ballots",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-654",
+      "number": "24.2-654.",
+      "heading": "Officers to lock and seal voting equipment and ascertain vote after polls closed; statement of results",
+      "text": "Officers to lock and seal voting equipment and ascertain vote after polls closed; statement of results",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-655",
+      "number": "24.2-655.",
+      "heading": "Representatives of political parties and candidates to be present on request",
+      "text": "Representatives of political parties and candidates to be present on request",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-656",
+      "number": "24.2-656.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-657",
+      "number": "24.2-657.",
+      "heading": "Determination of vote on voting systems",
+      "text": "Determination of vote on voting systems",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-658",
+      "number": "24.2-658.",
+      "heading": "Machines with printed return sheets; disposition of sheets",
+      "text": "Machines with printed return sheets; disposition of sheets",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-659",
+      "number": "24.2-659.",
+      "heading": "Locking voting systems after election and delivering keys to clerk; printed returns as evidence",
+      "text": "Locking voting systems after election and delivering keys to clerk; printed returns as evidence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-660",
+      "number": "24.2-660.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-661",
+      "number": "24.2-661.",
+      "heading": "Detection and setting aside of double ballots",
+      "text": "Detection and setting aside of double ballots",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-662",
+      "number": "24.2-662.",
+      "heading": "Procedure when paper ballots exceed names on pollbooks",
+      "text": "Procedure when paper ballots exceed names on pollbooks",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-663",
+      "number": "24.2-663.",
+      "heading": "When ballot void",
+      "text": "When ballot void",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-664",
+      "number": "24.2-664.",
+      "heading": "Reduction in number of ballots",
+      "text": "Reduction in number of ballots",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-665",
+      "number": "24.2-665.",
+      "heading": "How paper ballots counted",
+      "text": "How paper ballots counted",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-666",
+      "number": "24.2-666.",
+      "heading": "Procedures to account for paper ballots",
+      "text": "Procedures to account for paper ballots",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-667",
+      "number": "24.2-667.",
+      "heading": "Completion of statement of results",
+      "text": "Completion of statement of results",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-6671",
+      "number": "24.2-667.1.",
+      "heading": "Reporting of results; absentee and provisional votes",
+      "text": "Reporting of results; absentee and provisional votes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-668",
+      "number": "24.2-668.",
+      "heading": "Pollbooks, statements of results, and ballots to be sealed and delivered to clerk or general registrar",
+      "text": "Pollbooks, statements of results, and ballots to be sealed and delivered to clerk or general registrar",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-669",
+      "number": "24.2-669.",
+      "heading": "Clerk to keep ballots; inspection; destruction",
+      "text": "Clerk to keep ballots; inspection; destruction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-670",
+      "number": "24.2-670.",
+      "heading": "Clerk to send for books and ballots if not delivered by officers",
+      "text": "Clerk to send for books and ballots if not delivered by officers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-671",
+      "number": "24.2-671.",
+      "heading": "Electoral board to meet and ascertain results; conclusiveness of results",
+      "text": "Electoral board to meet and ascertain results; conclusiveness of results",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-6711",
+      "number": "24.2-671.1.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-6712",
+      "number": "24.2-671.2.",
+      "heading": "Risk-limiting audits",
+      "text": "Risk-limiting audits",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-672",
+      "number": "24.2-672.",
+      "heading": "Electoral board to correct irregularities in returns of officers of election",
+      "text": "Electoral board to correct irregularities in returns of officers of election",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-673",
+      "number": "24.2-673.",
+      "heading": "Candidates having highest number of votes to receive certificate of election",
+      "text": "Candidates having highest number of votes to receive certificate of election",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-6731",
+      "number": "24.2-673.1.",
+      "heading": "(Expires July 1, 2031) Ranked choice voting",
+      "text": "(Expires July 1, 2031) Ranked choice voting",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-674",
+      "number": "24.2-674.",
+      "heading": "Determination by lot in case of tie",
+      "text": "Determination by lot in case of tie",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-675",
+      "number": "24.2-675.",
+      "heading": "Abstracts of votes to be made by secretary and forwarded to State Board and to clerks",
+      "text": "Abstracts of votes to be made by secretary and forwarded to State Board and to clerks",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-676",
+      "number": "24.2-676.",
+      "heading": "Secretary to make out and deliver certificate of election",
+      "text": "Secretary to make out and deliver certificate of election",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-677",
+      "number": "24.2-677.",
+      "heading": "State Board to open and record returns; application of Freedom of Information Act",
+      "text": "State Board to open and record returns; application of Freedom of Information Act",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-678",
+      "number": "24.2-678.",
+      "heading": "Law-enforcement officer to be sent for abstracts not forwarded",
+      "text": "Law-enforcement officer to be sent for abstracts not forwarded",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-679",
+      "number": "24.2-679.",
+      "heading": "State Board to meet and make statement as to number of votes",
+      "text": "State Board to meet and make statement as to number of votes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-680",
+      "number": "24.2-680.",
+      "heading": "Certificates of election",
+      "text": "Certificates of election",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5",
+      "number": "5.",
+      "heading": "Special Elections",
+      "text": "Special Elections",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-681",
+      "number": "24.2-681.",
+      "heading": "How special elections superintended and determined",
+      "text": "How special elections superintended and determined",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-682",
+      "number": "24.2-682.",
+      "heading": "Times for special elections",
+      "text": "Times for special elections",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-683",
+      "number": "24.2-683.",
+      "heading": "Writ for special election to fill a vacancy",
+      "text": "Writ for special election to fill a vacancy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-684",
+      "number": "24.2-684.",
+      "heading": "How referendum elections called and held, and the results ascertained and certified",
+      "text": "How referendum elections called and held, and the results ascertained and certified",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-6841",
+      "number": "24.2-684.1.",
+      "heading": "Requirements for voter petitions to call for referendum elections",
+      "text": "Requirements for voter petitions to call for referendum elections",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-685",
+      "number": "24.2-685.",
+      "heading": "Special elections; request for abolition of constitutional offices",
+      "text": "Special elections; request for abolition of constitutional offices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-686",
+      "number": "24.2-686.",
+      "heading": "Special elections; petition and referendum requirements; abolition of constitutional office by change in form of government",
+      "text": "Special elections; petition and referendum requirements; abolition of constitutional office by change in form of government",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-687",
+      "number": "24.2-687.",
+      "heading": "Authorization for distribution of information on referendum elections",
+      "text": "Authorization for distribution of information on referendum elections",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

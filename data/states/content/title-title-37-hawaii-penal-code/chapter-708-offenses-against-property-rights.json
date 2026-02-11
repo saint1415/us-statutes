@@ -1,0 +1,982 @@
+{
+  "state": "hawaii",
+  "path": "title-title-37-hawaii-penal-code/chapter-708-offenses-against-property-rights",
+  "sections": [
+    {
+      "id": "section-708-800",
+      "number": "708-800",
+      "heading": "Definitions of terms in this chapter.",
+      "text": "Definitions of terms in this chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-801",
+      "number": "708-801",
+      "heading": "Valuation of property or services.",
+      "text": "Valuation of property or services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-802",
+      "number": "708-802",
+      "heading": "Property recovered in offenses against property rights.",
+      "text": "Property recovered in offenses against property rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-803",
+      "number": "708-803",
+      "heading": "Habitual property crime.",
+      "text": "Habitual property crime.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-804",
+      "number": "708-804",
+      "heading": "Control of albizia trees on private property.",
+      "text": "Control of albizia trees on private property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-810",
+      "number": "708-810",
+      "heading": "Burglary in the first degree.",
+      "text": "Burglary in the first degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-811",
+      "number": "708-811",
+      "heading": "Burglary in the second degree. § §708-810 And 708-811 Commentary:",
+      "text": "Burglary in the second degree. § §708-810 And 708-811 Commentary:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-812",
+      "number": "708-812",
+      "heading": "Possession of burglar's tools.",
+      "text": "Possession of burglar's tools.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8125",
+      "number": "708-812.5",
+      "heading": "Burglary offenses; intent to commit therein a crime against a person or against property rights.",
+      "text": "Burglary offenses; intent to commit therein a crime against a person or against property rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-81255",
+      "number": "708-812.55",
+      "heading": "Unauthorized entry in a dwelling in the first degree.",
+      "text": "Unauthorized entry in a dwelling in the first degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8126",
+      "number": "708-812.6",
+      "heading": "Unauthorized entry in a dwelling in the second degree.",
+      "text": "Unauthorized entry in a dwelling in the second degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-813",
+      "number": "708-813",
+      "heading": "Criminal trespass in the first degree.",
+      "text": "Criminal trespass in the first degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-814",
+      "number": "708-814",
+      "heading": "Criminal trespass in the second degree.",
+      "text": "Criminal trespass in the second degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8145",
+      "number": "708-814.5",
+      "heading": "Criminal trespass onto public parks and recreational grounds.",
+      "text": "Criminal trespass onto public parks and recreational grounds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8147",
+      "number": "708-814.7",
+      "heading": "Criminal trespass onto state lands.",
+      "text": "Criminal trespass onto state lands.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8148",
+      "number": "708-814.8",
+      "heading": "Enforcement of trespass laws on public land.",
+      "text": "Enforcement of trespass laws on public land.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-815",
+      "number": "708-815",
+      "heading": "Simple trespass. § §708-813 To 708-815 Commentary:",
+      "text": "Simple trespass. § §708-813 To 708-815 Commentary:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-816",
+      "number": "708-816",
+      "heading": "Defense to trespass.",
+      "text": "Defense to trespass.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8165",
+      "number": "708-816.5",
+      "heading": "Entry upon the premises of a facility utilized as a sex, child, or spouse abuse shelter; penalty",
+      "text": "[(1)] No person shall knowingly enter or remain unlawfully upon the premises of a facility utilized as a sex abuse, child abuse, or spouse abuse shelter after reasonable warning or request to leave by a",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-817",
+      "number": "708-817",
+      "heading": "Burglary of a dwelling during an emergency period.",
+      "text": "Burglary of a dwelling during an emergency period.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-818",
+      "number": "708-818",
+      "heading": "Burglary of a building during an emergency period.",
+      "text": "Burglary of a building during an emergency period.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-820",
+      "number": "708-820",
+      "heading": "Criminal property damage in the first degree.",
+      "text": "Criminal property damage in the first degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-821",
+      "number": "708-821",
+      "heading": "Criminal property damage in the second degree.",
+      "text": "Criminal property damage in the second degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-822",
+      "number": "708-822",
+      "heading": "Criminal property damage in the third degree.",
+      "text": "Criminal property damage in the third degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-823",
+      "number": "708-823",
+      "heading": "Criminal property damage in the fourth degree. § §708-820 To 708-823 Commentary:",
+      "text": "Criminal property damage in the fourth degree. § §708-820 To 708-823 Commentary:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8235",
+      "number": "708-823.5",
+      "heading": "Aggravated criminal property damage.",
+      "text": "Aggravated criminal property damage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8236",
+      "number": "708-823.6",
+      "heading": "Graffiti; sentencing.",
+      "text": "Graffiti; sentencing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-824",
+      "number": "708-824",
+      "heading": "Failure to control widely dangerous means. §708-824 Commentary:",
+      "text": "Failure to control widely dangerous means. §708-824 Commentary:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-825",
+      "number": "708-825",
+      "heading": "Criminal tampering; definitions of terms.",
+      "text": "Criminal tampering; definitions of terms.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-826",
+      "number": "708-826",
+      "heading": "Criminal tampering in the first degree.",
+      "text": "Criminal tampering in the first degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-827",
+      "number": "708-827",
+      "heading": "Criminal tampering in the second degree.",
+      "text": "Criminal tampering in the second degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-828",
+      "number": "708-828",
+      "heading": "Criminal use of a noxious substance. §708-828 Commentary:",
+      "text": "Criminal use of a noxious substance. §708-828 Commentary:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-829",
+      "number": "708-829",
+      "heading": "Criminal littering. §708-829 Commentary:",
+      "text": "Criminal littering. §708-829 Commentary:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-830",
+      "number": "708-830",
+      "heading": "Theft.",
+      "text": "Theft.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8305",
+      "number": "708-830.5",
+      "heading": "Theft in the first degree.",
+      "text": "Theft in the first degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-831",
+      "number": "708-831",
+      "heading": "Theft in the second degree.",
+      "text": "Theft in the second degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-832",
+      "number": "708-832",
+      "heading": "Theft in the third degree.",
+      "text": "Theft in the third degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-833",
+      "number": "708-833",
+      "heading": "Theft in the fourth degree. § §708-830 To 708-833 Commentary:",
+      "text": "Theft in the fourth degree. § §708-830 To 708-833 Commentary:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8335",
+      "number": "708-833.5",
+      "heading": "Shoplifting.",
+      "text": "Shoplifting.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-834",
+      "number": "708-834",
+      "heading": "Defenses: unawareness of ownership; claim of right; household belongings; co-interest not a defense. §708-834 Commentary:",
+      "text": "Defenses: unawareness of ownership; claim of right; household belongings; co-interest not a defense. §708-834 Commentary:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-835",
+      "number": "708-835",
+      "heading": "Proof of theft offense. §708-835 Commentary:",
+      "text": "Proof of theft offense. §708-835 Commentary:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8354",
+      "number": "708-835.4",
+      "heading": "Unauthorized operation of a recording device in a motion picture theater.",
+      "text": "Unauthorized operation of a recording device in a motion picture theater.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8355",
+      "number": "708-835.5",
+      "heading": "Theft of livestock.",
+      "text": "Theft of livestock.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-83555",
+      "number": "708-835.55",
+      "heading": "Theft; agricultural product; sentencing.",
+      "text": "Theft; agricultural product; sentencing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8356",
+      "number": "708-835.6",
+      "heading": "Telemarketing fraud.",
+      "text": "Telemarketing fraud.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-83565",
+      "number": "708-835.65",
+      "heading": "Fraud.",
+      "text": "Fraud.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8357",
+      "number": "708-835.7",
+      "heading": "Theft of copper.",
+      "text": "Theft of copper.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8358",
+      "number": "708-835.8",
+      "heading": "Theft of beer keg.",
+      "text": "Theft of beer keg.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8359",
+      "number": "708-835.9",
+      "heading": "Theft of urn.",
+      "text": "Theft of urn.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-836",
+      "number": "708-836",
+      "heading": "Unauthorized control of a propelled vehicle in the first degree. §708-836 Commentary:",
+      "text": "Unauthorized control of a propelled vehicle in the first degree. §708-836 Commentary:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8361",
+      "number": "708-836.1",
+      "heading": "Unauthorized control of a propelled vehicle in the second degree.",
+      "text": "Unauthorized control of a propelled vehicle in the second degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8365",
+      "number": "708-836.5",
+      "heading": "Unauthorized entry into motor vehicle in the first degree.",
+      "text": "Unauthorized entry into motor vehicle in the first degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8366",
+      "number": "708-836.6",
+      "heading": "Unauthorized entry into motor vehicle in the second degree.",
+      "text": "Unauthorized entry into motor vehicle in the second degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8368",
+      "number": "708-836.8",
+      "heading": "Theft of catalytic converter.",
+      "text": "Theft of catalytic converter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-837",
+      "number": "708-837",
+      "heading": "Failure to return a rental motor vehicle; penalty.",
+      "text": "Failure to return a rental motor vehicle; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8375",
+      "number": "708-837.5",
+      "heading": "Failure to return leased or rented personal property; penalty.",
+      "text": "Failure to return leased or rented personal property; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-838",
+      "number": "708-838",
+      "heading": "Removal of identification marks.",
+      "text": "Removal of identification marks.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-839",
+      "number": "708-839",
+      "heading": "Unlawful possession.",
+      "text": "Unlawful possession.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8395",
+      "number": "708-839.5",
+      "heading": "Theft of utility services. (1) For purposes of this section: \"Customer\" means the person in whose name the utility service is provided",
+      "text": "\"Divert\" means to change the intended course or path of utility services without the authorization or consent of the utility. \"Person\" means any individual, partner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-83955",
+      "number": "708-839.55",
+      "heading": "Unauthorized possession of confidential personal information.",
+      "text": "Unauthorized possession of confidential personal information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8396",
+      "number": "708-839.6",
+      "heading": "Identity theft in the first degree.",
+      "text": "Identity theft in the first degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8397",
+      "number": "708-839.7",
+      "heading": "Identity theft in the second degree",
+      "text": "(1) A person commits the offense of identity theft in the second degree if that person makes or causes to be made, either directly or indirectly, a transmission of any personal information of another by any oral statement, any written statement, or any statement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8398",
+      "number": "708-839.8",
+      "heading": "Identity theft in the third degree",
+      "text": "(1) A person commits the offense of identity theft in the third degree if that person makes or causes to be made, either directly or indirectly, a transmission of any personal information of another by any oral statement, any written statement, or any statement co",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8399",
+      "number": "708-839.9",
+      "heading": "Theft of mail.",
+      "text": "Theft of mail.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-840",
+      "number": "708-840",
+      "heading": "Robbery in the first degree.",
+      "text": "Robbery in the first degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-841",
+      "number": "708-841",
+      "heading": "Robbery in the second degree. § §708-840 And 708-841 Commentary:",
+      "text": "Robbery in the second degree. § §708-840 And 708-841 Commentary:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-842",
+      "number": "708-842",
+      "heading": "Robbery; \"in the course of committing a theft\". §708-842 Commentary:",
+      "text": "Robbery; \"in the course of committing a theft\". §708-842 Commentary:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-850",
+      "number": "708-850",
+      "heading": "Definitions of terms in this part.",
+      "text": "Definitions of terms in this part.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-851",
+      "number": "708-851",
+      "heading": "Forgery in the first degree.",
+      "text": "Forgery in the first degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-852",
+      "number": "708-852",
+      "heading": "Forgery in the second degree.",
+      "text": "Forgery in the second degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-853",
+      "number": "708-853",
+      "heading": "Forgery in the third degree. § §708-851 To 708-853 Commentary:",
+      "text": "Forgery in the third degree. § §708-851 To 708-853 Commentary:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-854",
+      "number": "708-854",
+      "heading": "Criminal possession of a forgery device.",
+      "text": "Criminal possession of a forgery device.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-855",
+      "number": "708-855",
+      "heading": "Criminal simulation.",
+      "text": "Criminal simulation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-856",
+      "number": "708-856",
+      "heading": "Obtaining signature by deception.",
+      "text": "Obtaining signature by deception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-857",
+      "number": "708-857",
+      "heading": "Negotiating a worthless negotiable instrument. §708-857 Commentary:",
+      "text": "Negotiating a worthless negotiable instrument. §708-857 Commentary:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-858",
+      "number": "708-858",
+      "heading": "Suppressing a testamentary or recordable instrument.",
+      "text": "Suppressing a testamentary or recordable instrument.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-870",
+      "number": "708-870",
+      "heading": "Deceptive business practices. §708-870 Commentary:",
+      "text": "Deceptive business practices. §708-870 Commentary:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-871",
+      "number": "708-871",
+      "heading": "False advertising. §708-871 Commentary:",
+      "text": "False advertising. §708-871 Commentary:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8715",
+      "number": "708-871.5",
+      "heading": "False labeling of Hawaii-grown coffee.",
+      "text": "False labeling of Hawaii-grown coffee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-872",
+      "number": "708-872",
+      "heading": "Falsifying business records. §708-872 Commentary:",
+      "text": "Falsifying business records. §708-872 Commentary:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-873",
+      "number": "708-873",
+      "heading": "Defrauding secured creditors. §708-873 Commentary:",
+      "text": "Defrauding secured creditors. §708-873 Commentary:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-874",
+      "number": "708-874",
+      "heading": "Misapplication of entrusted property. §708-874 Commentary:",
+      "text": "Misapplication of entrusted property. §708-874 Commentary:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-875",
+      "number": "708-875",
+      "heading": "Trademark counterfeiting.",
+      "text": "Trademark counterfeiting.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-880",
+      "number": "708-880",
+      "heading": "Commercial bribery. §708-880 Commentary:",
+      "text": "Commercial bribery. §708-880 Commentary:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-881",
+      "number": "708-881",
+      "heading": "Tampering with a publicly-exhibited contest. §708-881 Commentary:",
+      "text": "Tampering with a publicly-exhibited contest. §708-881 Commentary:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-890",
+      "number": "708-890",
+      "heading": "to 708-896 REPEALED. §708-890 Definitions.",
+      "text": "to 708-896 REPEALED. §708-890 Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-891",
+      "number": "708-891",
+      "heading": "to 708-893 OLD REPEALED. §708-891 Computer fraud in the first degree.",
+      "text": "to 708-893 OLD REPEALED. §708-891 Computer fraud in the first degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8915",
+      "number": "708-891.5",
+      "heading": "Computer fraud in the second degree.",
+      "text": "Computer fraud in the second degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8916",
+      "number": "708-891.6",
+      "heading": "Computer fraud in the third degree.",
+      "text": "Computer fraud in the third degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-892",
+      "number": "708-892",
+      "heading": "Computer damage in the first degree.",
+      "text": "Computer damage in the first degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8925",
+      "number": "708-892.5",
+      "heading": "Computer damage in the second degree.",
+      "text": "Computer damage in the second degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8926",
+      "number": "708-892.6",
+      "heading": "Computer damage in the third degree.",
+      "text": "Computer damage in the third degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-893",
+      "number": "708-893",
+      "heading": "Use of a computer in the commission of a separate crime.",
+      "text": "Use of a computer in the commission of a separate crime.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-894",
+      "number": "708-894",
+      "heading": "Forfeiture of property used in computer crimes.",
+      "text": "Forfeiture of property used in computer crimes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-895",
+      "number": "708-895",
+      "heading": "Jurisdiction.",
+      "text": "Jurisdiction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8955",
+      "number": "708-895.5",
+      "heading": "Unauthorized computer access in the first degree.",
+      "text": "Unauthorized computer access in the first degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8956",
+      "number": "708-895.6",
+      "heading": "Unauthorized computer access in the second degree.",
+      "text": "Unauthorized computer access in the second degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8957",
+      "number": "708-895.7",
+      "heading": "Unauthorized computer access in the third degree.",
+      "text": "Unauthorized computer access in the third degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8100",
+      "number": "708-8100",
+      "heading": "Fraudulent use of a credit card.",
+      "text": "Fraudulent use of a credit card.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-81005",
+      "number": "708-8100.5",
+      "heading": "Fraudulent encoding of a credit card",
+      "text": "(1) A person commits the offense of fraudulent encoding of a credit card if, with the intent to defraud the issuer, or another person or organization providing money, goods, services or anything else of value, the person: (a) Intentionally changes, alters, erase",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8101",
+      "number": "708-8101",
+      "heading": "Making a false statement to procure issuance of a credit card.",
+      "text": "Making a false statement to procure issuance of a credit card.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8102",
+      "number": "708-8102",
+      "heading": "Theft, forgery, etc., of credit cards.",
+      "text": "Theft, forgery, etc., of credit cards.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8103",
+      "number": "708-8103",
+      "heading": "Credit card fraud by a provider of goods or services.",
+      "text": "Credit card fraud by a provider of goods or services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8104",
+      "number": "708-8104",
+      "heading": "Possession of unauthorized credit card machinery or incomplete cards.",
+      "text": "Possession of unauthorized credit card machinery or incomplete cards.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8105",
+      "number": "708-8105",
+      "heading": "Credit card lists prohibited; penalty.",
+      "text": "Credit card lists prohibited; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8106",
+      "number": "708-8106",
+      "heading": "Defenses not available.",
+      "text": "Defenses not available.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8120",
+      "number": "708-8120",
+      "heading": "and 708-8121 REPEALED.",
+      "text": "and 708-8121 REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8200",
+      "number": "708-8200",
+      "heading": "Cable television service fraud in the first degree.",
+      "text": "Cable television service fraud in the first degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8201",
+      "number": "708-8201",
+      "heading": "Cable television service fraud in the second degree.",
+      "text": "Cable television service fraud in the second degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8202",
+      "number": "708-8202",
+      "heading": "Telecommunication service fraud in the first degree.",
+      "text": "Telecommunication service fraud in the first degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8203",
+      "number": "708-8203",
+      "heading": "Telecommunication service fraud in the second degree.",
+      "text": "Telecommunication service fraud in the second degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8204",
+      "number": "708-8204",
+      "heading": "Forfeiture of telecommunication service device and cable television service device.",
+      "text": "Forfeiture of telecommunication service device and cable television service device.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8251",
+      "number": "708-8251",
+      "heading": "Arson in the first degree.",
+      "text": "Arson in the first degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8252",
+      "number": "708-8252",
+      "heading": "Arson in the second degree.",
+      "text": "Arson in the second degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8253",
+      "number": "708-8253",
+      "heading": "Arson in the third degree.",
+      "text": "Arson in the third degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8254",
+      "number": "708-8254",
+      "heading": "Arson in the fourth degree.",
+      "text": "Arson in the fourth degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8300",
+      "number": "708-8300",
+      "heading": "Unlicensed contracting activity.",
+      "text": "Unlicensed contracting activity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8301",
+      "number": "708-8301",
+      "heading": "Habitual unlicensed contracting activity; felony.",
+      "text": "Habitual unlicensed contracting activity; felony.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8302",
+      "number": "708-8302",
+      "heading": "Unlicensed contractor fraud.",
+      "text": "Unlicensed contractor fraud.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8303",
+      "number": "708-8303",
+      "heading": "Unlicensed contractor fraud in the first degree.",
+      "text": "Unlicensed contractor fraud in the first degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8304",
+      "number": "708-8304",
+      "heading": "Unlicensed contractor fraud in the second degree.",
+      "text": "Unlicensed contractor fraud in the second degree.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708-8305",
+      "number": "708-8305",
+      "heading": "Unlicensed contractor fraud; valuation of property.",
+      "text": "Unlicensed contractor fraud; valuation of property.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

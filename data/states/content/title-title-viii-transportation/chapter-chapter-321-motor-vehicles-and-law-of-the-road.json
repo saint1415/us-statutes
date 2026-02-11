@@ -1,0 +1,4094 @@
+{
+  "state": "iowa",
+  "path": "title-title-viii-transportation/chapter-chapter-321-motor-vehicles-and-law-of-the-road",
+  "sections": [
+    {
+      "id": "section-3211",
+      "number": "321.1",
+      "heading": "Definitions of words and phrases",
+      "text": "Section 321.1A - Presumption of residency.Section 321.2 - Administration and enforcement.Section 321.3 - Powers and duties of director.Section 321.4 - Rules.Section 321.5 - Duty to obey.Section 321.6 - Reciprocal enforcement — patrol beats.Section 321.7 - Seal of dep",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3211a",
+      "number": "321.1A",
+      "heading": "Presumption of residency.",
+      "text": "Presumption of residency.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3212",
+      "number": "321.2",
+      "heading": "Administration and enforcement.",
+      "text": "Administration and enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3213",
+      "number": "321.3",
+      "heading": "Powers and duties of director.",
+      "text": "Powers and duties of director.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3214",
+      "number": "321.4",
+      "heading": "Rules.",
+      "text": "Rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3215",
+      "number": "321.5",
+      "heading": "Duty to obey.",
+      "text": "Duty to obey.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3216",
+      "number": "321.6",
+      "heading": "Reciprocal enforcement — patrol beats.",
+      "text": "Reciprocal enforcement — patrol beats.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3217",
+      "number": "321.7",
+      "heading": "Seal of department.",
+      "text": "Seal of department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3218",
+      "number": "321.8",
+      "heading": "Director to prescribe forms.",
+      "text": "Director to prescribe forms.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3219",
+      "number": "321.9",
+      "heading": "Authority to administer oaths and acknowledge signatures.",
+      "text": "Authority to administer oaths and acknowledge signatures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32110",
+      "number": "321.10",
+      "heading": "Certified copies of records.",
+      "text": "Certified copies of records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32111",
+      "number": "321.11",
+      "heading": "Records of department.",
+      "text": "Records of department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32111a",
+      "number": "321.11A",
+      "heading": "Personal information disclosure — exception.",
+      "text": "Personal information disclosure — exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32112",
+      "number": "321.12",
+      "heading": "Destruction of records.",
+      "text": "Destruction of records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32113",
+      "number": "321.13",
+      "heading": "Authority to grant or refuse applications.",
+      "text": "Authority to grant or refuse applications.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32114",
+      "number": "321.14",
+      "heading": "Seizure of documents and plates.",
+      "text": "Seizure of documents and plates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32115",
+      "number": "321.15",
+      "heading": "Publication of law.",
+      "text": "Publication of law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32116",
+      "number": "321.16",
+      "heading": "Giving of notices.",
+      "text": "Giving of notices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32117",
+      "number": "321.17",
+      "heading": "Misdemeanor to violate registration provisions.",
+      "text": "Misdemeanor to violate registration provisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32118",
+      "number": "321.18",
+      "heading": "Vehicles subject to registration — exception.",
+      "text": "Vehicles subject to registration — exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32118a",
+      "number": "321.18A",
+      "heading": "Records of implements of husbandry.",
+      "text": "Records of implements of husbandry.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32119",
+      "number": "321.19",
+      "heading": "Exemptions — distinguishing plates — definitions of urban transit company and regional transit system.",
+      "text": "Exemptions — distinguishing plates — definitions of urban transit company and regional transit system.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32120",
+      "number": "321.20",
+      "heading": "Application for registration and certificate of title.",
+      "text": "Application for registration and certificate of title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32120a",
+      "number": "321.20A",
+      "heading": "Certificate of title and registration fees — commercial vehicles.",
+      "text": "Certificate of title and registration fees — commercial vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32120b",
+      "number": "321.20B",
+      "heading": "Proof of security against liability — driving without liability coverage.",
+      "text": "Proof of security against liability — driving without liability coverage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32121",
+      "number": "321.21",
+      "heading": "Special mobile equipment plates.",
+      "text": "Special mobile equipment plates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32122",
+      "number": "321.22",
+      "heading": "Urban and regional transit equipment certificates and plates.",
+      "text": "Urban and regional transit equipment certificates and plates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32123",
+      "number": "321.23",
+      "heading": "Titles to specially constructed and reconstructed vehicles, street rods, replica vehicles, and foreign vehicles.",
+      "text": "Titles to specially constructed and reconstructed vehicles, street rods, replica vehicles, and foreign vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32123a",
+      "number": "321.23A",
+      "heading": "Affidavit of correction.",
+      "text": "Affidavit of correction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32124",
+      "number": "321.24",
+      "heading": "Issuance of registration and certificate of title.",
+      "text": "Issuance of registration and certificate of title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32125",
+      "number": "321.25",
+      "heading": "Application for registration and title — cards attached.",
+      "text": "Application for registration and title — cards attached.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32126",
+      "number": "321.26",
+      "heading": "Multiple registration periods and adjustments.",
+      "text": "Multiple registration periods and adjustments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32127",
+      "number": "321.27",
+      "heading": "Implementation of twelve-month registration period.",
+      "text": "Implementation of twelve-month registration period.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32128",
+      "number": "321.28",
+      "heading": "Failure to register.",
+      "text": "Failure to register.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32129",
+      "number": "321.29",
+      "heading": "Renewal not permitted.",
+      "text": "Renewal not permitted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32130",
+      "number": "321.30",
+      "heading": "Grounds for refusing registration or title.",
+      "text": "Grounds for refusing registration or title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32131",
+      "number": "321.31",
+      "heading": "Records system.",
+      "text": "Records system.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32132",
+      "number": "321.32",
+      "heading": "Registration card carried and exhibited — exception.",
+      "text": "Registration card carried and exhibited — exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32133",
+      "number": "321.33",
+      "heading": "Exception.",
+      "text": "Exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32134",
+      "number": "321.34",
+      "heading": "Plates or validation sticker furnished — retained by owner — special plates.",
+      "text": "Plates or validation sticker furnished — retained by owner — special plates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32135",
+      "number": "321.35",
+      "heading": "Plates — reflective material — bidding procedures.",
+      "text": "Plates — reflective material — bidding procedures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321",
+      "number": "321",
+      "heading": "36",
+      "text": "36",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32137",
+      "number": "321.37",
+      "heading": "Display of plates.",
+      "text": "Display of plates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32138",
+      "number": "321.38",
+      "heading": "Plates — method of attaching — imitations prohibited.",
+      "text": "Plates — method of attaching — imitations prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32139",
+      "number": "321.39",
+      "heading": "Expiration of registration.",
+      "text": "Expiration of registration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32140",
+      "number": "321.40",
+      "heading": "Application for renewal — notification — reasons for refusal.",
+      "text": "Application for renewal — notification — reasons for refusal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32141",
+      "number": "321.41",
+      "heading": "Change of address or name or fuel type.",
+      "text": "Change of address or name or fuel type.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32142",
+      "number": "321.42",
+      "heading": "Lost or damaged certificates, cards, and plates — replacements.",
+      "text": "Lost or damaged certificates, cards, and plates — replacements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32143",
+      "number": "321.43",
+      "heading": "New identifying numbers.",
+      "text": "New identifying numbers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32144",
+      "number": "321.44",
+      "heading": "Rules governing change of engines, drivetrain assemblies, and related parts.",
+      "text": "Rules governing change of engines, drivetrain assemblies, and related parts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32144a",
+      "number": "321.44A",
+      "heading": "Voluntary contribution — anatomical gift public awareness and transplantation fund — amount retained by county treasurer.",
+      "text": "Voluntary contribution — anatomical gift public awareness and transplantation fund — amount retained by county treasurer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32145",
+      "number": "321.45",
+      "heading": "Title must be transferred with vehicle.",
+      "text": "Title must be transferred with vehicle.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32146",
+      "number": "321.46",
+      "heading": "New title and registration upon transfer of ownership — credit.",
+      "text": "New title and registration upon transfer of ownership — credit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32146a",
+      "number": "321.46A",
+      "heading": "Change from apportioned registration — credit.",
+      "text": "Change from apportioned registration — credit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32147",
+      "number": "321.47",
+      "heading": "Transfers by operation of law.",
+      "text": "Transfers by operation of law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32148",
+      "number": "321.48",
+      "heading": "Vehicles acquired for resale.",
+      "text": "Vehicles acquired for resale.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32149",
+      "number": "321.49",
+      "heading": "Time limit — penalty — power of attorney.",
+      "text": "Time limit — penalty — power of attorney.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32150",
+      "number": "321.50",
+      "heading": "Security interest provisions.",
+      "text": "Security interest provisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32151",
+      "number": "321.51",
+      "heading": "Terminal rental adjustment clause — vehicle leases that are not sales or security interests.",
+      "text": "Terminal rental adjustment clause — vehicle leases that are not sales or security interests.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32152",
+      "number": "321.52",
+      "heading": "Out-of-state sales — junked, dismantled, wrecked, or salvage vehicles.",
+      "text": "Out-of-state sales — junked, dismantled, wrecked, or salvage vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32152a",
+      "number": "321.52A",
+      "heading": "Certificate of title surcharge — allocation of moneys.",
+      "text": "Certificate of title surcharge — allocation of moneys.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32153",
+      "number": "321.53",
+      "heading": "Nonresident owners of passenger vehicles and trucks.",
+      "text": "Nonresident owners of passenger vehicles and trucks.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32154",
+      "number": "321.54",
+      "heading": "Registration and financial liability coverage required of certain nonresident carriers.",
+      "text": "Registration and financial liability coverage required of certain nonresident carriers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32155",
+      "number": "321.55",
+      "heading": "Registration and financial liability coverage required for certain vehicles owned or operated by nonresidents.",
+      "text": "Registration and financial liability coverage required for certain vehicles owned or operated by nonresidents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32156",
+      "number": "321.56",
+      "heading": "Repair of out-of-state commercial motor vehicles — permits.",
+      "text": "Repair of out-of-state commercial motor vehicles — permits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32157",
+      "number": "321.57",
+      "heading": "Operation under special plates.",
+      "text": "Operation under special plates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32158",
+      "number": "321.58",
+      "heading": "Application.",
+      "text": "Application.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32159",
+      "number": "321.59",
+      "heading": "Issuance of certificate.",
+      "text": "Issuance of certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32160",
+      "number": "321.60",
+      "heading": "Issuance of special plates.",
+      "text": "Issuance of special plates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32161",
+      "number": "321.61",
+      "heading": "Expiration of special plates.",
+      "text": "Expiration of special plates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32162",
+      "number": "321.62",
+      "heading": "Records required.",
+      "text": "Records required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32163",
+      "number": "321.63",
+      "heading": "Different places of business.",
+      "text": "Different places of business.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32164",
+      "number": "321.64",
+      "heading": "Implementation of multiyear licensing and issuance of special plates.",
+      "text": "Implementation of multiyear licensing and issuance of special plates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32165",
+      "number": "321.65",
+      "heading": "Garage record.",
+      "text": "Garage record.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32166",
+      "number": "321.66",
+      "heading": "Duty to hold vehicles.",
+      "text": "Duty to hold vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32167",
+      "number": "321.67",
+      "heading": "Certificate of title must be executed.",
+      "text": "Certificate of title must be executed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32168",
+      "number": "321.68",
+      "heading": "Sale in bulk.",
+      "text": "Sale in bulk.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32169",
+      "number": "321.69",
+      "heading": "Damage disclosure statement.",
+      "text": "Damage disclosure statement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32169a",
+      "number": "321.69A",
+      "heading": "Disclosure of repairs to new vehicles.",
+      "text": "Disclosure of repairs to new vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32170",
+      "number": "321.70",
+      "heading": "Dealer vehicles.",
+      "text": "Dealer vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32171",
+      "number": "321.71",
+      "heading": "Odometer requirements.",
+      "text": "Odometer requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32171a",
+      "number": "321.71A",
+      "heading": "Counterfeit, nonfunctional, and unsafe air bags.",
+      "text": "Counterfeit, nonfunctional, and unsafe air bags.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32172",
+      "number": "321.72",
+      "heading": "Report of stolen and recovered motor vehicles.",
+      "text": "Report of stolen and recovered motor vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32173",
+      "number": "321.73",
+      "heading": "Reports by owners.",
+      "text": "Reports by owners.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32174",
+      "number": "321.74",
+      "heading": "Action by department.",
+      "text": "Action by department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32178",
+      "number": "321.78",
+      "heading": "Injuring or tampering with vehicle.",
+      "text": "Injuring or tampering with vehicle.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32179",
+      "number": "321.79",
+      "heading": "Intent to injure.",
+      "text": "Intent to injure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32181",
+      "number": "321.81",
+      "heading": "Presumptive evidence.",
+      "text": "Presumptive evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32184",
+      "number": "321.84",
+      "heading": "Seizure of vehicles.",
+      "text": "Seizure of vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32185",
+      "number": "321.85",
+      "heading": "Stolen vehicles or component parts.",
+      "text": "Stolen vehicles or component parts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32186",
+      "number": "321.86",
+      "heading": "Notice by director.",
+      "text": "Notice by director.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32187",
+      "number": "321.87",
+      "heading": "Delivery to owner.",
+      "text": "Delivery to owner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32188",
+      "number": "321.88",
+      "heading": "Failure of owner to claim.",
+      "text": "Failure of owner to claim.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32189",
+      "number": "321.89",
+      "heading": "Abandoned vehicles.",
+      "text": "Abandoned vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32190",
+      "number": "321.90",
+      "heading": "Disposal of abandoned motor vehicles.",
+      "text": "Disposal of abandoned motor vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32191",
+      "number": "321.91",
+      "heading": "Limitation on liability — penalty for abandonment.",
+      "text": "Limitation on liability — penalty for abandonment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32192",
+      "number": "321.92",
+      "heading": "Altering or changing numbers.",
+      "text": "Altering or changing numbers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32193",
+      "number": "321.93",
+      "heading": "Defense.",
+      "text": "Defense.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32194",
+      "number": "321.94",
+      "heading": "Test to determine true number.",
+      "text": "Test to determine true number.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32195",
+      "number": "321.95",
+      "heading": "Right of inspection.",
+      "text": "Right of inspection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32196",
+      "number": "321.96",
+      "heading": "Prohibited plates — certificates.",
+      "text": "Prohibited plates — certificates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32197",
+      "number": "321.97",
+      "heading": "Fraudulent applications.",
+      "text": "Fraudulent applications.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32198",
+      "number": "321.98",
+      "heading": "Operation without registration.",
+      "text": "Operation without registration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32199",
+      "number": "321.99",
+      "heading": "Fraudulent use of registration.",
+      "text": "Fraudulent use of registration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321100",
+      "number": "321.100",
+      "heading": "False evidences of registration.",
+      "text": "False evidences of registration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321101",
+      "number": "321.101",
+      "heading": "Suspension or revocation of registration or cancellation of certificate of title by department.",
+      "text": "Suspension or revocation of registration or cancellation of certificate of title by department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321101a",
+      "number": "321.101A",
+      "heading": "Revocation of registration by county treasurer.",
+      "text": "Revocation of registration by county treasurer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321102",
+      "number": "321.102",
+      "heading": "Suspending or revoking special registration.",
+      "text": "Suspending or revoking special registration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321103",
+      "number": "321.103",
+      "heading": "Owner to return evidences of registration and title.",
+      "text": "Owner to return evidences of registration and title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321104",
+      "number": "321.104",
+      "heading": "Penal offenses against title law.",
+      "text": "Penal offenses against title law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321105",
+      "number": "321.105",
+      "heading": "Annual registration fee required.",
+      "text": "Annual registration fee required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321105a",
+      "number": "321.105A",
+      "heading": "Fee for new registration.",
+      "text": "Fee for new registration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321106",
+      "number": "321.106",
+      "heading": "Registration for fractional part of year.",
+      "text": "Registration for fractional part of year.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321109",
+      "number": "321.109",
+      "heading": "Annual registration fee computed — transit fee.",
+      "text": "Annual registration fee computed — transit fee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321110",
+      "number": "321.110",
+      "heading": "Rejecting fractional dollars.",
+      "text": "Rejecting fractional dollars.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321111",
+      "number": "321.111",
+      "heading": "Conversion of car — effect.",
+      "text": "Conversion of car — effect.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321112",
+      "number": "321.112",
+      "heading": "Minimum motor vehicle fee.",
+      "text": "Minimum motor vehicle fee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321113",
+      "number": "321.113",
+      "heading": "Automatic reduction.",
+      "text": "Automatic reduction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321115",
+      "number": "321.115",
+      "heading": "Antique vehicles — model year plates permitted.",
+      "text": "Antique vehicles — model year plates permitted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321115a",
+      "number": "321.115A",
+      "heading": "Replica vehicles and street rods — model year plates permitted — penalty.",
+      "text": "Replica vehicles and street rods — model year plates permitted — penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321116",
+      "number": "321.116",
+      "heading": "Battery electric and plug-in hybrid electric motor vehicle fees.",
+      "text": "Battery electric and plug-in hybrid electric motor vehicle fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321117",
+      "number": "321.117",
+      "heading": "Motorcycle, autocycle, ambulance, and hearse fees.",
+      "text": "Motorcycle, autocycle, ambulance, and hearse fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321119",
+      "number": "321.119",
+      "heading": "Church buses.",
+      "text": "Church buses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321120",
+      "number": "321.120",
+      "heading": "Business-trade trucks.",
+      "text": "Business-trade trucks.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321121",
+      "number": "321.121",
+      "heading": "Special trucks for farm use.",
+      "text": "Special trucks for farm use.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321122",
+      "number": "321.122",
+      "heading": "Trucks, truck tractors, and road tractors — fees.",
+      "text": "Trucks, truck tractors, and road tractors — fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321123",
+      "number": "321.123",
+      "heading": "Trailers.",
+      "text": "Trailers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321124",
+      "number": "321.124",
+      "heading": "Motor homes, multipurpose vehicles, and motorsports recreational vehicles — fees.",
+      "text": "Motor homes, multipurpose vehicles, and motorsports recreational vehicles — fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321125",
+      "number": "321.125",
+      "heading": "Effect of exemption.",
+      "text": "Effect of exemption.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321126",
+      "number": "321.126",
+      "heading": "Refunds of annual registration fees.",
+      "text": "Refunds of annual registration fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321127",
+      "number": "321.127",
+      "heading": "Payment of refund.",
+      "text": "Payment of refund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321128",
+      "number": "321.128",
+      "heading": "Payment authorized.",
+      "text": "Payment authorized.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321129",
+      "number": "321.129",
+      "heading": "When fees returnable.",
+      "text": "When fees returnable.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321130",
+      "number": "321.130",
+      "heading": "Fees in lieu of taxes.",
+      "text": "Fees in lieu of taxes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321131",
+      "number": "321.131",
+      "heading": "Lien of fee.",
+      "text": "Lien of fee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321132",
+      "number": "321.132",
+      "heading": "When lien attaches.",
+      "text": "When lien attaches.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321133",
+      "number": "321.133",
+      "heading": "Methods of collection.",
+      "text": "Methods of collection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321134",
+      "number": "321.134",
+      "heading": "Monthly penalty.",
+      "text": "Monthly penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321135",
+      "number": "321.135",
+      "heading": "When fees delinquent.",
+      "text": "When fees delinquent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321145",
+      "number": "321.145",
+      "heading": "Disposition of moneys and fees.",
+      "text": "Disposition of moneys and fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321148",
+      "number": "321.148",
+      "heading": "Monthly estimate.",
+      "text": "Monthly estimate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321149",
+      "number": "321.149",
+      "heading": "Supplies.",
+      "text": "Supplies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321150",
+      "number": "321.150",
+      "heading": "Time limit.",
+      "text": "Time limit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321151",
+      "number": "321.151",
+      "heading": "Duty and liability of treasurer.",
+      "text": "Duty and liability of treasurer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321152",
+      "number": "321.152",
+      "heading": "Collection fees retained by county.",
+      "text": "Collection fees retained by county.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321153",
+      "number": "321.153",
+      "heading": "Treasurer’s report to department.",
+      "text": "Treasurer’s report to department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321154",
+      "number": "321.154",
+      "heading": "Reports by department.",
+      "text": "Reports by department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321155",
+      "number": "321.155",
+      "heading": "Duty of treasurer of state.",
+      "text": "Duty of treasurer of state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321156",
+      "number": "321.156",
+      "heading": "Audit by department.",
+      "text": "Audit by department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321157",
+      "number": "321.157",
+      "heading": "Schedule of prices and weights.",
+      "text": "Schedule of prices and weights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321158",
+      "number": "321.158",
+      "heading": "Registration dependent on schedule.",
+      "text": "Registration dependent on schedule.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321159",
+      "number": "321.159",
+      "heading": "Exceptional cases — annual registration fee.",
+      "text": "Exceptional cases — annual registration fee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321160",
+      "number": "321.160",
+      "heading": "Department to maintain statement.",
+      "text": "Department to maintain statement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321161",
+      "number": "321.161",
+      "heading": "Department to fix values and weight.",
+      "text": "Department to fix values and weight.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321162",
+      "number": "321.162",
+      "heading": "Method of fixing value and weight.",
+      "text": "Method of fixing value and weight.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321165",
+      "number": "321.165",
+      "heading": "Manufacture by state.",
+      "text": "Manufacture by state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321166",
+      "number": "321.166",
+      "heading": "Vehicle plate specifications.",
+      "text": "Vehicle plate specifications.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321167",
+      "number": "321.167",
+      "heading": "Delivery of plates, stickers, and emblems.",
+      "text": "Delivery of plates, stickers, and emblems.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321168",
+      "number": "321.168",
+      "heading": "Additional deliveries.",
+      "text": "Additional deliveries.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321169",
+      "number": "321.169",
+      "heading": "Account of plates.",
+      "text": "Account of plates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321170",
+      "number": "321.170",
+      "heading": "Plates for exempt vehicles.",
+      "text": "Plates for exempt vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321171",
+      "number": "321.171",
+      "heading": "Title of plates.",
+      "text": "Title of plates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321174",
+      "number": "321.174",
+      "heading": "Operators licensed — operation of commercial motor vehicles.",
+      "text": "Operators licensed — operation of commercial motor vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321174a",
+      "number": "321.174A",
+      "heading": "Operation of motor vehicle with expired license.",
+      "text": "Operation of motor vehicle with expired license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321176",
+      "number": "321.176",
+      "heading": "Persons exempt from driver’s licensing requirements.",
+      "text": "Persons exempt from driver’s licensing requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321176a",
+      "number": "321.176A",
+      "heading": "Persons exempt from commercial driver’s license requirements.",
+      "text": "Persons exempt from commercial driver’s license requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321176b",
+      "number": "321.176B",
+      "heading": "Restricted commercial driver’s license.",
+      "text": "Restricted commercial driver’s license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321177",
+      "number": "321.177",
+      "heading": "Persons not to be licensed.",
+      "text": "Persons not to be licensed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321178",
+      "number": "321.178",
+      "heading": "Driver education — restricted license — reciprocity.",
+      "text": "Driver education — restricted license — reciprocity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321178a",
+      "number": "321.178A",
+      "heading": "Driver education — teaching parent.",
+      "text": "Driver education — teaching parent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321179",
+      "number": "321.179",
+      "heading": "Motorcycle rider education fund.",
+      "text": "Motorcycle rider education fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321180",
+      "number": "321.180",
+      "heading": "Instruction permits, commercial learner’s permits, and chauffeur’s instruction permits.",
+      "text": "Instruction permits, commercial learner’s permits, and chauffeur’s instruction permits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321180a",
+      "number": "321.180A",
+      "heading": "Special instruction permit.",
+      "text": "Special instruction permit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321180b",
+      "number": "321.180B",
+      "heading": "Graduated driver’s licenses for persons aged fourteen through seventeen.",
+      "text": "Graduated driver’s licenses for persons aged fourteen through seventeen.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321181",
+      "number": "321.181",
+      "heading": "Temporary permit.",
+      "text": "Temporary permit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321182",
+      "number": "321.182",
+      "heading": "Application.",
+      "text": "Application.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321183",
+      "number": "321.183",
+      "heading": "Application for driver’s license or nonoperator’s identification card — selective service registration.",
+      "text": "Application for driver’s license or nonoperator’s identification card — selective service registration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321184",
+      "number": "321.184",
+      "heading": "Applications of unmarried minors.",
+      "text": "Applications of unmarried minors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321185",
+      "number": "321.185",
+      "heading": "Death of person signing application — effect.",
+      "text": "Death of person signing application — effect.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321186",
+      "number": "321.186",
+      "heading": "Examination of new or incompetent operators.",
+      "text": "Examination of new or incompetent operators.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321186a",
+      "number": "321.186A",
+      "heading": "Vision report in lieu of vision test.",
+      "text": "Vision report in lieu of vision test.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321187",
+      "number": "321.187",
+      "heading": "Examiners.",
+      "text": "Examiners.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321187a",
+      "number": "321.187A",
+      "heading": "Commercial driver’s license driving skills tests — fees.",
+      "text": "Commercial driver’s license driving skills tests — fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321188",
+      "number": "321.188",
+      "heading": "Commercial driver’s license requirements.",
+      "text": "Commercial driver’s license requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321189",
+      "number": "321.189",
+      "heading": "Driver’s license — content.",
+      "text": "Driver’s license — content.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321189a",
+      "number": "321.189A",
+      "heading": "Driver’s license for undercover law enforcement officers — fee — penalties.",
+      "text": "Driver’s license for undercover law enforcement officers — fee — penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321190",
+      "number": "321.190",
+      "heading": "Issuance of nonoperator’s identification cards — fee.",
+      "text": "Issuance of nonoperator’s identification cards — fee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321191",
+      "number": "321.191",
+      "heading": "Fees for driver’s licenses.",
+      "text": "Fees for driver’s licenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321192",
+      "number": "321.192",
+      "heading": "Waivers or refunds of fees.",
+      "text": "Waivers or refunds of fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321193",
+      "number": "321.193",
+      "heading": "Restrictions on licenses — penalty.",
+      "text": "Restrictions on licenses — penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321194",
+      "number": "321.194",
+      "heading": "Special minor’s licenses.",
+      "text": "Special minor’s licenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321195",
+      "number": "321.195",
+      "heading": "Replacement of driver’s licenses and nonoperator’s identification cards.",
+      "text": "Replacement of driver’s licenses and nonoperator’s identification cards.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321196",
+      "number": "321.196",
+      "heading": "Expiration of license — renewal.",
+      "text": "Expiration of license — renewal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321197",
+      "number": "321.197",
+      "heading": "Emergency contact information.",
+      "text": "Emergency contact information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321198",
+      "number": "321.198",
+      "heading": "Military service exception.",
+      "text": "Military service exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321199",
+      "number": "321.199",
+      "heading": "Driver’s license records.",
+      "text": "Driver’s license records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321200",
+      "number": "321.200",
+      "heading": "Conviction and accident file.",
+      "text": "Conviction and accident file.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321200a",
+      "number": "321.200A",
+      "heading": "Convictions based upon fraud.",
+      "text": "Convictions based upon fraud.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321201",
+      "number": "321.201",
+      "heading": "Cancellation and return of license — prohibition from issuance of commercial driver’s license for false information.",
+      "text": "Cancellation and return of license — prohibition from issuance of commercial driver’s license for false information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321203",
+      "number": "321.203",
+      "heading": "Suspending privileges of nonresidents.",
+      "text": "Suspending privileges of nonresidents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321204",
+      "number": "321.204",
+      "heading": "Certification of conviction — notification of commercial driver’s disqualification.",
+      "text": "Certification of conviction — notification of commercial driver’s disqualification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321205",
+      "number": "321.205",
+      "heading": "Conviction or administrative decision in another jurisdiction.",
+      "text": "Conviction or administrative decision in another jurisdiction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321206",
+      "number": "321.206",
+      "heading": "Surrender of license — duty of court.",
+      "text": "Surrender of license — duty of court.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321207",
+      "number": "321.207",
+      "heading": "Downgrade of commercial driver’s license or commercial learner’s permit.",
+      "text": "Downgrade of commercial driver’s license or commercial learner’s permit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321208",
+      "number": "321.208",
+      "heading": "Disqualification from operation of commercial motor vehicles — noncommercial driver’s license — temporary license or permit.",
+      "text": "Disqualification from operation of commercial motor vehicles — noncommercial driver’s license — temporary license or permit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321208a",
+      "number": "321.208A",
+      "heading": "Operation in violation of out-of-service order — penalties.",
+      "text": "Operation in violation of out-of-service order — penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321209",
+      "number": "321.209",
+      "heading": "Mandatory revocation.",
+      "text": "Mandatory revocation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321210",
+      "number": "321.210",
+      "heading": "Suspension.",
+      "text": "Suspension.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321210a",
+      "number": "321.210A",
+      "heading": "Suspension for failure to pay fine, penalty, surcharge, or court costs.",
+      "text": "Suspension for failure to pay fine, penalty, surcharge, or court costs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321210b",
+      "number": "321.210B",
+      "heading": "Installment agreement.",
+      "text": "Installment agreement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321210c",
+      "number": "321.210C",
+      "heading": "Probation period.",
+      "text": "Probation period.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321210d",
+      "number": "321.210D",
+      "heading": "Vehicular homicide suspension — termination upon revocation of license — reopening of suspension.",
+      "text": "Vehicular homicide suspension — termination upon revocation of license — reopening of suspension.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321211",
+      "number": "321.211",
+      "heading": "Notice and hearing — appropriation.",
+      "text": "Notice and hearing — appropriation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321211a",
+      "number": "321.211A",
+      "heading": "Appeal of extended suspension or revocation.",
+      "text": "Appeal of extended suspension or revocation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321212",
+      "number": "321.212",
+      "heading": "Period of suspension or revocation — surrender of license.",
+      "text": "Period of suspension or revocation — surrender of license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321213",
+      "number": "321.213",
+      "heading": "License suspensions or revocations due to violations by juvenile drivers.",
+      "text": "License suspensions or revocations due to violations by juvenile drivers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321213a",
+      "number": "321.213A",
+      "heading": "License suspension for juveniles adjudicated delinquent for certain drug or alcohol offenses.",
+      "text": "License suspension for juveniles adjudicated delinquent for certain drug or alcohol offenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321213b",
+      "number": "321.213B",
+      "heading": "Suspension for failure to attend.",
+      "text": "Suspension for failure to attend.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321215",
+      "number": "321.215",
+      "heading": "Temporary restricted license.",
+      "text": "Temporary restricted license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321216",
+      "number": "321.216",
+      "heading": "Unlawful use of license or nonoperator’s identification card — penalty.",
+      "text": "Unlawful use of license or nonoperator’s identification card — penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321216a",
+      "number": "321.216A",
+      "heading": "Falsifying driver’s licenses, nonoperator’s identification cards, or forms.",
+      "text": "Falsifying driver’s licenses, nonoperator’s identification cards, or forms.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321216b",
+      "number": "321.216B",
+      "heading": "Use of driver’s license or nonoperator’s identification card by underage person to obtain alcohol.",
+      "text": "Use of driver’s license or nonoperator’s identification card by underage person to obtain alcohol.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321216c",
+      "number": "321.216C",
+      "heading": "Use of driver’s license or nonoperator’s identification card by underage person to obtain tobacco, tobacco products, alternative nicotine products, vapor products, or cigarettes",
+      "text": "Use of driver’s license or nonoperator’s identification card by underage person to obtain tobacco, tobacco products, alternative nicotine products, vapor products, or cigarettes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321217",
+      "number": "321.217",
+      "heading": "Perjury.",
+      "text": "Perjury.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321218",
+      "number": "321.218",
+      "heading": "Operating without valid driver’s license or when disqualified — penalties.",
+      "text": "Operating without valid driver’s license or when disqualified — penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321218a",
+      "number": "321.218A",
+      "heading": "Civil penalty — disposition — reinstatement.",
+      "text": "Civil penalty — disposition — reinstatement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321219",
+      "number": "321.219",
+      "heading": "Permitting unauthorized minor to drive.",
+      "text": "Permitting unauthorized minor to drive.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321220",
+      "number": "321.220",
+      "heading": "Permitting unauthorized person to drive.",
+      "text": "Permitting unauthorized person to drive.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321221",
+      "number": "321.221",
+      "heading": "Employing unlicensed chauffeur.",
+      "text": "Employing unlicensed chauffeur.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321222",
+      "number": "321.222",
+      "heading": "Renting motor vehicle to another.",
+      "text": "Renting motor vehicle to another.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321223",
+      "number": "321.223",
+      "heading": "Driver’s license inspection for motor vehicle rental.",
+      "text": "Driver’s license inspection for motor vehicle rental.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321224",
+      "number": "321.224",
+      "heading": "Record kept.",
+      "text": "Record kept.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321228",
+      "number": "321.228",
+      "heading": "Provisions refer to highways — exceptions.",
+      "text": "Provisions refer to highways — exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321229",
+      "number": "321.229",
+      "heading": "Obedience to peace officers.",
+      "text": "Obedience to peace officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321230",
+      "number": "321.230",
+      "heading": "Public officers not exempt.",
+      "text": "Public officers not exempt.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321231",
+      "number": "321.231",
+      "heading": "Authorized emergency vehicles and police bicycles.",
+      "text": "Authorized emergency vehicles and police bicycles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321231a",
+      "number": "321.231A",
+      "heading": "Authorized emergency vehicles — parades and events.",
+      "text": "Authorized emergency vehicles — parades and events.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321231b",
+      "number": "321.231B",
+      "heading": "Authorized emergency vehicles — immunity from liability.",
+      "text": "Authorized emergency vehicles — immunity from liability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321231c",
+      "number": "321.231C",
+      "heading": "Fire fighters and emergency medical services members responding to emergency situations.",
+      "text": "Fire fighters and emergency medical services members responding to emergency situations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321232",
+      "number": "321.232",
+      "heading": "Speed detection jamming devices — penalty.",
+      "text": "Speed detection jamming devices — penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321233",
+      "number": "321.233",
+      "heading": "Road workers exempted.",
+      "text": "Road workers exempted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321234",
+      "number": "321.234",
+      "heading": "Bicycles, animals, or animal-drawn vehicles.",
+      "text": "Bicycles, animals, or animal-drawn vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321234a",
+      "number": "321.234A",
+      "heading": "All-terrain vehicles — highway use.",
+      "text": "All-terrain vehicles — highway use.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321235",
+      "number": "321.235",
+      "heading": "Provisions uniform.",
+      "text": "Provisions uniform.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321235a",
+      "number": "321.235A",
+      "heading": "Electric personal assistive mobility devices.",
+      "text": "Electric personal assistive mobility devices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321235b",
+      "number": "321.235B",
+      "heading": "Low-speed electric bicycles — labels — operation.",
+      "text": "Low-speed electric bicycles — labels — operation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321236",
+      "number": "321.236",
+      "heading": "Powers of local authorities.",
+      "text": "Powers of local authorities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321237",
+      "number": "321.237",
+      "heading": "Signs — requirement — notice.",
+      "text": "Signs — requirement — notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321238",
+      "number": "321.238",
+      "heading": "Use of electronic devices while driving — preemption of local legislation.",
+      "text": "Use of electronic devices while driving — preemption of local legislation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321239",
+      "number": "321.239",
+      "heading": "Counties may restrict parking of vehicles.",
+      "text": "Counties may restrict parking of vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321240",
+      "number": "321.240",
+      "heading": "Altering center of gravity of vehicle.",
+      "text": "Altering center of gravity of vehicle.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321241",
+      "number": "321.241",
+      "heading": "Regulation of taxicabs by local authorities — limits.",
+      "text": "Regulation of taxicabs by local authorities — limits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321247",
+      "number": "321.247",
+      "heading": "Golf cart operation on city streets.",
+      "text": "Golf cart operation on city streets.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321248",
+      "number": "321.248",
+      "heading": "Parks and cemeteries.",
+      "text": "Parks and cemeteries.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321249",
+      "number": "321.249",
+      "heading": "School zones.",
+      "text": "School zones.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321250",
+      "number": "321.250",
+      "heading": "Equitable reprisal.",
+      "text": "Equitable reprisal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321251",
+      "number": "321.251",
+      "heading": "Rights of owners of real property — manufactured home communities or mobile home parks.",
+      "text": "Rights of owners of real property — manufactured home communities or mobile home parks.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321252",
+      "number": "321.252",
+      "heading": "Department to adopt sign manual.",
+      "text": "Department to adopt sign manual.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321253",
+      "number": "321.253",
+      "heading": "Department to erect signs.",
+      "text": "Department to erect signs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321253a",
+      "number": "321.253A",
+      "heading": "Directional signs relating to historic sites on land owned or managed by state agencies.",
+      "text": "Directional signs relating to historic sites on land owned or managed by state agencies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321253b",
+      "number": "321.253B",
+      "heading": "Metric signs restricted.",
+      "text": "Metric signs restricted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321254",
+      "number": "321.254",
+      "heading": "Local authorities restricted.",
+      "text": "Local authorities restricted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321255",
+      "number": "321.255",
+      "heading": "Local traffic-control devices.",
+      "text": "Local traffic-control devices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321256",
+      "number": "321.256",
+      "heading": "Obedience to official traffic-control devices.",
+      "text": "Obedience to official traffic-control devices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321257",
+      "number": "321.257",
+      "heading": "Official traffic-control signal.",
+      "text": "Official traffic-control signal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321258",
+      "number": "321.258",
+      "heading": "Arrangement of lights on official traffic-control signals.",
+      "text": "Arrangement of lights on official traffic-control signals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321259",
+      "number": "321.259",
+      "heading": "Unauthorized signs, signals, or markings.",
+      "text": "Unauthorized signs, signals, or markings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321260",
+      "number": "321.260",
+      "heading": "Interference with devices, signs, or signals — unlawful possession — traffic signal preemption devices.",
+      "text": "Interference with devices, signs, or signals — unlawful possession — traffic signal preemption devices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321261",
+      "number": "321.261",
+      "heading": "Death or personal injuries.",
+      "text": "Death or personal injuries.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321262",
+      "number": "321.262",
+      "heading": "Leaving scene of traffic accident prohibited — vehicle damage only —removal of vehicles.",
+      "text": "Leaving scene of traffic accident prohibited — vehicle damage only —removal of vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321263",
+      "number": "321.263",
+      "heading": "Information and aid — leaving scene of personal injury accident.",
+      "text": "Information and aid — leaving scene of personal injury accident.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321264",
+      "number": "321.264",
+      "heading": "Striking unattended vehicle.",
+      "text": "Striking unattended vehicle.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321265",
+      "number": "321.265",
+      "heading": "Striking fixtures upon a highway.",
+      "text": "Striking fixtures upon a highway.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321266",
+      "number": "321.266",
+      "heading": "Reporting accidents.",
+      "text": "Reporting accidents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321267",
+      "number": "321.267",
+      "heading": "Supplemental reports.",
+      "text": "Supplemental reports.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321267a",
+      "number": "321.267A",
+      "heading": "Traffic accidents involving certified law enforcement officers or other emergency responders — reports.",
+      "text": "Traffic accidents involving certified law enforcement officers or other emergency responders — reports.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321268",
+      "number": "321.268",
+      "heading": "Driver unable to report.",
+      "text": "Driver unable to report.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321269",
+      "number": "321.269",
+      "heading": "Accident report forms.",
+      "text": "Accident report forms.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321271",
+      "number": "321.271",
+      "heading": "Reports confidential — without prejudice — exceptions.",
+      "text": "Reports confidential — without prejudice — exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321272",
+      "number": "321.272",
+      "heading": "Tabulation of reports.",
+      "text": "Tabulation of reports.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321273",
+      "number": "321.273",
+      "heading": "City may require reports.",
+      "text": "City may require reports.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321274",
+      "number": "321.274",
+      "heading": "Accidents in cities over 15,000.",
+      "text": "Accidents in cities over 15,000.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321275",
+      "number": "321.275",
+      "heading": "Operation of motorcycles and motorized bicycles.",
+      "text": "Operation of motorcycles and motorized bicycles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321276",
+      "number": "321.276",
+      "heading": "Use of electronic communication device while driving.",
+      "text": "Use of electronic communication device while driving.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321277",
+      "number": "321.277",
+      "heading": "Reckless driving.",
+      "text": "Reckless driving.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321277a",
+      "number": "321.277A",
+      "heading": "Careless driving.",
+      "text": "Careless driving.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321278",
+      "number": "321.278",
+      "heading": "Drag racing prohibited.",
+      "text": "Drag racing prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321279",
+      "number": "321.279",
+      "heading": "Eluding or attempting to elude pursuing law enforcement vehicle.",
+      "text": "Eluding or attempting to elude pursuing law enforcement vehicle.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321280",
+      "number": "321.280",
+      "heading": "Assaults and homicide.",
+      "text": "Assaults and homicide.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321281",
+      "number": "321.281",
+      "heading": "Actions against bicyclists.",
+      "text": "Actions against bicyclists.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321284",
+      "number": "321.284",
+      "heading": "Open containers in motor vehicles — drivers.",
+      "text": "Open containers in motor vehicles — drivers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321284a",
+      "number": "321.284A",
+      "heading": "Open containers in motor vehicles — passengers.",
+      "text": "Open containers in motor vehicles — passengers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321285",
+      "number": "321.285",
+      "heading": "Speed restrictions.",
+      "text": "Speed restrictions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321288",
+      "number": "321.288",
+      "heading": "Control of vehicle — reduced speed.",
+      "text": "Control of vehicle — reduced speed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321289",
+      "number": "321.289",
+      "heading": "Speed signs — duty to install.",
+      "text": "Speed signs — duty to install.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321290",
+      "number": "321.290",
+      "heading": "Special restrictions.",
+      "text": "Special restrictions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321291",
+      "number": "321.291",
+      "heading": "Information or notice.",
+      "text": "Information or notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321292",
+      "number": "321.292",
+      "heading": "Civil action unaffected.",
+      "text": "Civil action unaffected.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321293",
+      "number": "321.293",
+      "heading": "Local authorities may alter limits.",
+      "text": "Local authorities may alter limits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321294",
+      "number": "321.294",
+      "heading": "Minimum speed regulation.",
+      "text": "Minimum speed regulation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321295",
+      "number": "321.295",
+      "heading": "Limitation on bridge or elevated structures.",
+      "text": "Limitation on bridge or elevated structures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321297",
+      "number": "321.297",
+      "heading": "Driving on right-hand side of roadway — exceptions.",
+      "text": "Driving on right-hand side of roadway — exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321298",
+      "number": "321.298",
+      "heading": "Meeting and turning to right.",
+      "text": "Meeting and turning to right.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321299",
+      "number": "321.299",
+      "heading": "Overtaking a vehicle.",
+      "text": "Overtaking a vehicle.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321302",
+      "number": "321.302",
+      "heading": "Overtaking and passing.",
+      "text": "Overtaking and passing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321303",
+      "number": "321.303",
+      "heading": "Limitations on overtaking on the left.",
+      "text": "Limitations on overtaking on the left.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321304",
+      "number": "321.304",
+      "heading": "Prohibited passing.",
+      "text": "Prohibited passing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321305",
+      "number": "321.305",
+      "heading": "One-way roadways and rotary traffic islands.",
+      "text": "One-way roadways and rotary traffic islands.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321306",
+      "number": "321.306",
+      "heading": "Roadways laned for traffic.",
+      "text": "Roadways laned for traffic.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321307",
+      "number": "321.307",
+      "heading": "Following too closely.",
+      "text": "Following too closely.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321308",
+      "number": "321.308",
+      "heading": "Motor trucks and towed vehicles — distance requirements.",
+      "text": "Motor trucks and towed vehicles — distance requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321309",
+      "number": "321.309",
+      "heading": "Towing.",
+      "text": "Towing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321310",
+      "number": "321.310",
+      "heading": "Towing four-wheeled trailers.",
+      "text": "Towing four-wheeled trailers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321311",
+      "number": "321.311",
+      "heading": "Turning at intersections.",
+      "text": "Turning at intersections.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321312",
+      "number": "321.312",
+      "heading": "Turning on curve or crest of grade.",
+      "text": "Turning on curve or crest of grade.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321313",
+      "number": "321.313",
+      "heading": "Starting parked vehicle.",
+      "text": "Starting parked vehicle.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321314",
+      "number": "321.314",
+      "heading": "When signal required.",
+      "text": "When signal required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321315",
+      "number": "321.315",
+      "heading": "Signal continuous.",
+      "text": "Signal continuous.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321316",
+      "number": "321.316",
+      "heading": "Stopping.",
+      "text": "Stopping.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321317",
+      "number": "321.317",
+      "heading": "Signals by hand and arm or signal device.",
+      "text": "Signals by hand and arm or signal device.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321318",
+      "number": "321.318",
+      "heading": "Method of giving hand and arm signals.",
+      "text": "Method of giving hand and arm signals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321319",
+      "number": "321.319",
+      "heading": "Entering intersections from different highways.",
+      "text": "Entering intersections from different highways.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321320",
+      "number": "321.320",
+      "heading": "Left turns — yielding.",
+      "text": "Left turns — yielding.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321321",
+      "number": "321.321",
+      "heading": "Entering through highways.",
+      "text": "Entering through highways.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321322",
+      "number": "321.322",
+      "heading": "Vehicles entering stop or yield intersection.",
+      "text": "Vehicles entering stop or yield intersection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321323",
+      "number": "321.323",
+      "heading": "Moving vehicle backward on highway.",
+      "text": "Moving vehicle backward on highway.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321323a",
+      "number": "321.323A",
+      "heading": "Approaching certain stationary vehicles.",
+      "text": "Approaching certain stationary vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321324",
+      "number": "321.324",
+      "heading": "Operation on approach of emergency vehicles.",
+      "text": "Operation on approach of emergency vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321324a",
+      "number": "321.324A",
+      "heading": "Funeral processions.",
+      "text": "Funeral processions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321325",
+      "number": "321.325",
+      "heading": "Pedestrians subject to signals.",
+      "text": "Pedestrians subject to signals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321326",
+      "number": "321.326",
+      "heading": "Pedestrians on left.",
+      "text": "Pedestrians on left.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321327",
+      "number": "321.327",
+      "heading": "Pedestrians’ right-of-way.",
+      "text": "Pedestrians’ right-of-way.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321328",
+      "number": "321.328",
+      "heading": "Crossing at other than crosswalk.",
+      "text": "Crossing at other than crosswalk.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321329",
+      "number": "321.329",
+      "heading": "Duty of driver — pedestrians crossing or working on highways.",
+      "text": "Duty of driver — pedestrians crossing or working on highways.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321330",
+      "number": "321.330",
+      "heading": "Use of crosswalks.",
+      "text": "Use of crosswalks.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321331",
+      "number": "321.331",
+      "heading": "Pedestrians soliciting rides.",
+      "text": "Pedestrians soliciting rides.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321332",
+      "number": "321.332",
+      "heading": "White canes restricted to blind persons.",
+      "text": "White canes restricted to blind persons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321333",
+      "number": "321.333",
+      "heading": "Duty of drivers.",
+      "text": "Duty of drivers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321334",
+      "number": "321.334",
+      "heading": "Penalties.",
+      "text": "Penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321340",
+      "number": "321.340",
+      "heading": "Driving through safety zone.",
+      "text": "Driving through safety zone.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321341",
+      "number": "321.341",
+      "heading": "Obedience to signal indicating approach of railroad train or railroad track equipment.",
+      "text": "Obedience to signal indicating approach of railroad train or railroad track equipment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321342",
+      "number": "321.342",
+      "heading": "Stop at certain railroad crossings — posting warning.",
+      "text": "Stop at certain railroad crossings — posting warning.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321343",
+      "number": "321.343",
+      "heading": "Certain vehicles must stop.",
+      "text": "Certain vehicles must stop.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321343a",
+      "number": "321.343A",
+      "heading": "Employer violations — penalty.",
+      "text": "Employer violations — penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321344",
+      "number": "321.344",
+      "heading": "Heavy equipment at crossing.",
+      "text": "Heavy equipment at crossing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321344a",
+      "number": "321.344A",
+      "heading": "Reported violations for failure to stop at a railroad crossing — citations.",
+      "text": "Reported violations for failure to stop at a railroad crossing — citations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321344b",
+      "number": "321.344B",
+      "heading": "Immediate safety threat — penalty.",
+      "text": "Immediate safety threat — penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321345",
+      "number": "321.345",
+      "heading": "Stop or yield at highways.",
+      "text": "Stop or yield at highways.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321346",
+      "number": "321.346",
+      "heading": "Cost of signs.",
+      "text": "Cost of signs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321347",
+      "number": "321.347",
+      "heading": "Exceptions.",
+      "text": "Exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321348",
+      "number": "321.348",
+      "heading": "Limitations on cities.",
+      "text": "Limitations on cities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321349",
+      "number": "321.349",
+      "heading": "Exceptions.",
+      "text": "Exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321350",
+      "number": "321.350",
+      "heading": "Primary roads as through highways.",
+      "text": "Primary roads as through highways.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321352",
+      "number": "321.352",
+      "heading": "Additional signs — cost.",
+      "text": "Additional signs — cost.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321353",
+      "number": "321.353",
+      "heading": "Stop before crossing sidewalk — right-of-way.",
+      "text": "Stop before crossing sidewalk — right-of-way.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321354",
+      "number": "321.354",
+      "heading": "Stopping on traveled way.",
+      "text": "Stopping on traveled way.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321355",
+      "number": "321.355",
+      "heading": "Disabled vehicle.",
+      "text": "Disabled vehicle.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321356",
+      "number": "321.356",
+      "heading": "Officers authorized to remove.",
+      "text": "Officers authorized to remove.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321357",
+      "number": "321.357",
+      "heading": "Removed from bridge.",
+      "text": "Removed from bridge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321358",
+      "number": "321.358",
+      "heading": "Stopping, standing, or parking.",
+      "text": "Stopping, standing, or parking.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321359",
+      "number": "321.359",
+      "heading": "Moving other vehicle.",
+      "text": "Moving other vehicle.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321360",
+      "number": "321.360",
+      "heading": "Theaters, hotels, and auditoriums.",
+      "text": "Theaters, hotels, and auditoriums.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321361",
+      "number": "321.361",
+      "heading": "Additional parking regulations.",
+      "text": "Additional parking regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321362",
+      "number": "321.362",
+      "heading": "Unattended motor vehicle.",
+      "text": "Unattended motor vehicle.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321363",
+      "number": "321.363",
+      "heading": "Obstruction to driver’s view.",
+      "text": "Obstruction to driver’s view.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321364",
+      "number": "321.364",
+      "heading": "Preventing contamination of food by hazardous material.",
+      "text": "Preventing contamination of food by hazardous material.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321365",
+      "number": "321.365",
+      "heading": "Coasting prohibited.",
+      "text": "Coasting prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321366",
+      "number": "321.366",
+      "heading": "Acts prohibited on fully controlled-access facilities.",
+      "text": "Acts prohibited on fully controlled-access facilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321366a",
+      "number": "321.366A",
+      "heading": "Immunity from civil liability for certain vehicle operators.",
+      "text": "Immunity from civil liability for certain vehicle operators.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321367",
+      "number": "321.367",
+      "heading": "Following fire apparatus.",
+      "text": "Following fire apparatus.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321368",
+      "number": "321.368",
+      "heading": "Crossing fire hose.",
+      "text": "Crossing fire hose.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321369",
+      "number": "321.369",
+      "heading": "Putting debris on highway.",
+      "text": "Putting debris on highway.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321370",
+      "number": "321.370",
+      "heading": "Removing injurious material.",
+      "text": "Removing injurious material.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321371",
+      "number": "321.371",
+      "heading": "Clearing up wrecks.",
+      "text": "Clearing up wrecks.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321372",
+      "number": "321.372",
+      "heading": "Discharging pupils — stopping requirements — penalties.",
+      "text": "Discharging pupils — stopping requirements — penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321372a",
+      "number": "321.372A",
+      "heading": "Prompt investigation of reported violation of failing to obey school bus warning devices — citation issued to driver or owner.",
+      "text": "Prompt investigation of reported violation of failing to obey school bus warning devices — citation issued to driver or owner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321373",
+      "number": "321.373",
+      "heading": "Required construction — rules adopted.",
+      "text": "Required construction — rules adopted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321374",
+      "number": "321.374",
+      "heading": "Inspection — seal of approval.",
+      "text": "Inspection — seal of approval.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321375",
+      "number": "321.375",
+      "heading": "School bus drivers — qualifications — grounds for suspension.",
+      "text": "School bus drivers — qualifications — grounds for suspension.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321376",
+      "number": "321.376",
+      "heading": "License — authorization — instruction requirement.",
+      "text": "License — authorization — instruction requirement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321377",
+      "number": "321.377",
+      "heading": "Regional transit system transportation.",
+      "text": "Regional transit system transportation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321378",
+      "number": "321.378",
+      "heading": "Applicability.",
+      "text": "Applicability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321379",
+      "number": "321.379",
+      "heading": "Violations.",
+      "text": "Violations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321380",
+      "number": "321.380",
+      "heading": "Enforcement.",
+      "text": "Enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321381",
+      "number": "321.381",
+      "heading": "Movement of unsafe or improperly equipped vehicles.",
+      "text": "Movement of unsafe or improperly equipped vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321381a",
+      "number": "321.381A",
+      "heading": "Operation of low-speed vehicles.",
+      "text": "Operation of low-speed vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321382",
+      "number": "321.382",
+      "heading": "Upgrade pulls — minimum speed.",
+      "text": "Upgrade pulls — minimum speed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321383",
+      "number": "321.383",
+      "heading": "Exceptions — slow vehicles identified.",
+      "text": "Exceptions — slow vehicles identified.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321384",
+      "number": "321.384",
+      "heading": "When lighted lamps required.",
+      "text": "When lighted lamps required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321385",
+      "number": "321.385",
+      "heading": "Headlamps on motor vehicles.",
+      "text": "Headlamps on motor vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321385a",
+      "number": "321.385A",
+      "heading": "Citation for unlighted headlamp, rear lamp, or rear registration plate light.",
+      "text": "Citation for unlighted headlamp, rear lamp, or rear registration plate light.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321386",
+      "number": "321.386",
+      "heading": "Headlamps on motorcycles, motorized bicycles, and all-terrain vehicles.",
+      "text": "Headlamps on motorcycles, motorized bicycles, and all-terrain vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321387",
+      "number": "321.387",
+      "heading": "Rear lamps.",
+      "text": "Rear lamps.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321388",
+      "number": "321.388",
+      "heading": "Illuminating plates.",
+      "text": "Illuminating plates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321389",
+      "number": "321.389",
+      "heading": "Reflector required.",
+      "text": "Reflector required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321390",
+      "number": "321.390",
+      "heading": "Reflector requirements.",
+      "text": "Reflector requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321391",
+      "number": "321.391",
+      "heading": "Approval of reflectors.",
+      "text": "Approval of reflectors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321392",
+      "number": "321.392",
+      "heading": "Clearance and identification lights.",
+      "text": "Clearance and identification lights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321393",
+      "number": "321.393",
+      "heading": "Color and mounting.",
+      "text": "Color and mounting.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321394",
+      "number": "321.394",
+      "heading": "Lamp or flag on projecting load.",
+      "text": "Lamp or flag on projecting load.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321395",
+      "number": "321.395",
+      "heading": "Lamps on parked vehicles.",
+      "text": "Lamps on parked vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321396",
+      "number": "321.396",
+      "heading": "Exception.",
+      "text": "Exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321397",
+      "number": "321.397",
+      "heading": "Lamps on bicycles.",
+      "text": "Lamps on bicycles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321398",
+      "number": "321.398",
+      "heading": "Lamps on other vehicles and equipment.",
+      "text": "Lamps on other vehicles and equipment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321402",
+      "number": "321.402",
+      "heading": "Spot lamps.",
+      "text": "Spot lamps.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321403",
+      "number": "321.403",
+      "heading": "Auxiliary driving lamps.",
+      "text": "Auxiliary driving lamps.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321404",
+      "number": "321.404",
+      "heading": "Signal lamps and signal devices.",
+      "text": "Signal lamps and signal devices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321404a",
+      "number": "321.404A",
+      "heading": "Light-restricting devices prohibited.",
+      "text": "Light-restricting devices prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321405",
+      "number": "321.405",
+      "heading": "Self-illumination.",
+      "text": "Self-illumination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321406",
+      "number": "321.406",
+      "heading": "Cowl lamps.",
+      "text": "Cowl lamps.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321408",
+      "number": "321.408",
+      "heading": "Back-up lamps.",
+      "text": "Back-up lamps.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321409",
+      "number": "321.409",
+      "heading": "Mandatory lighting equipment.",
+      "text": "Mandatory lighting equipment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321415",
+      "number": "321.415",
+      "heading": "Required usage of lighting devices.",
+      "text": "Required usage of lighting devices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321417",
+      "number": "321.417",
+      "heading": "Single-beam road-lighting equipment.",
+      "text": "Single-beam road-lighting equipment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321418",
+      "number": "321.418",
+      "heading": "Alternate road-lighting equipment.",
+      "text": "Alternate road-lighting equipment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321419",
+      "number": "321.419",
+      "heading": "Number of driving lamps required or permitted.",
+      "text": "Number of driving lamps required or permitted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321420",
+      "number": "321.420",
+      "heading": "Number of lamps lighted.",
+      "text": "Number of lamps lighted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321421",
+      "number": "321.421",
+      "heading": "Special restrictions on lamps.",
+      "text": "Special restrictions on lamps.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321422",
+      "number": "321.422",
+      "heading": "Red light in front — rear lights.",
+      "text": "Red light in front — rear lights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321423",
+      "number": "321.423",
+      "heading": "Flashing lights.",
+      "text": "Flashing lights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321424",
+      "number": "321.424",
+      "heading": "Authorized emergency vehicle lights.",
+      "text": "Authorized emergency vehicle lights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321430",
+      "number": "321.430",
+      "heading": "Brake, hitch, and control requirements.",
+      "text": "Brake, hitch, and control requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321431",
+      "number": "321.431",
+      "heading": "Performance ability.",
+      "text": "Performance ability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321432",
+      "number": "321.432",
+      "heading": "Horns and warning devices.",
+      "text": "Horns and warning devices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321433",
+      "number": "321.433",
+      "heading": "Sirens, whistles, air horns, and bells prohibited.",
+      "text": "Sirens, whistles, air horns, and bells prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321434",
+      "number": "321.434",
+      "heading": "Bicycle sirens or whistles.",
+      "text": "Bicycle sirens or whistles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321435",
+      "number": "321.435",
+      "heading": "Motorcycles equipped with detachable stabilizing wheels.",
+      "text": "Motorcycles equipped with detachable stabilizing wheels.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321436",
+      "number": "321.436",
+      "heading": "Mufflers, prevention of noise.",
+      "text": "Mufflers, prevention of noise.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321437",
+      "number": "321.437",
+      "heading": "Mirrors.",
+      "text": "Mirrors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321438",
+      "number": "321.438",
+      "heading": "Windshields and windows.",
+      "text": "Windshields and windows.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321439",
+      "number": "321.439",
+      "heading": "Windshield wipers.",
+      "text": "Windshield wipers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321440",
+      "number": "321.440",
+      "heading": "Restrictions as to tire equipment.",
+      "text": "Restrictions as to tire equipment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321441",
+      "number": "321.441",
+      "heading": "Metal tires prohibited.",
+      "text": "Metal tires prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321442",
+      "number": "321.442",
+      "heading": "Projections on wheels.",
+      "text": "Projections on wheels.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321443",
+      "number": "321.443",
+      "heading": "Exceptions.",
+      "text": "Exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321444",
+      "number": "321.444",
+      "heading": "Safety glass.",
+      "text": "Safety glass.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321445",
+      "number": "321.445",
+      "heading": "Safety belts and safety harnesses — use required.",
+      "text": "Safety belts and safety harnesses — use required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321446",
+      "number": "321.446",
+      "heading": "Child restraint devices.",
+      "text": "Child restraint devices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321449",
+      "number": "321.449",
+      "heading": "Motor carrier safety rules.",
+      "text": "Motor carrier safety rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321449a",
+      "number": "321.449A",
+      "heading": "Rail crew transport drivers.",
+      "text": "Rail crew transport drivers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321449b",
+      "number": "321.449B",
+      "heading": "Texting or using a mobile telephone while operating a commercial motor vehicle.",
+      "text": "Texting or using a mobile telephone while operating a commercial motor vehicle.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321450",
+      "number": "321.450",
+      "heading": "Hazardous materials transportation regulations.",
+      "text": "Hazardous materials transportation regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321451",
+      "number": "321.451",
+      "heading": "Emergency vehicles — certificate of designation.",
+      "text": "Emergency vehicles — certificate of designation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321452",
+      "number": "321.452",
+      "heading": "Scope and effect.",
+      "text": "Scope and effect.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321453",
+      "number": "321.453",
+      "heading": "Exceptions.",
+      "text": "Exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321454",
+      "number": "321.454",
+      "heading": "Width of vehicles.",
+      "text": "Width of vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321455",
+      "number": "321.455",
+      "heading": "Projecting loads on passenger vehicles.",
+      "text": "Projecting loads on passenger vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321456",
+      "number": "321.456",
+      "heading": "Height of vehicles.",
+      "text": "Height of vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321457",
+      "number": "321.457",
+      "heading": "Maximum length.",
+      "text": "Maximum length.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321458",
+      "number": "321.458",
+      "heading": "Loading beyond front.",
+      "text": "Loading beyond front.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321459",
+      "number": "321.459",
+      "heading": "Dual axle requirement.",
+      "text": "Dual axle requirement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321460",
+      "number": "321.460",
+      "heading": "Spilling loads on highways.",
+      "text": "Spilling loads on highways.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321461",
+      "number": "321.461",
+      "heading": "Trailers and towed vehicles.",
+      "text": "Trailers and towed vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321462",
+      "number": "321.462",
+      "heading": "Drawbars and safety chains.",
+      "text": "Drawbars and safety chains.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321463",
+      "number": "321.463",
+      "heading": "Maximum gross weight — exceptions — penalties.",
+      "text": "Maximum gross weight — exceptions — penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321464",
+      "number": "321.464",
+      "heading": "Investigation as to safety.",
+      "text": "Investigation as to safety.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321465",
+      "number": "321.465",
+      "heading": "Weighing vehicles and removal of excess.",
+      "text": "Weighing vehicles and removal of excess.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321466",
+      "number": "321.466",
+      "heading": "Increased loading capacity — reregistration.",
+      "text": "Increased loading capacity — reregistration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321467",
+      "number": "321.467",
+      "heading": "Retractable axles.",
+      "text": "Retractable axles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321471",
+      "number": "321.471",
+      "heading": "Local authorities may restrict.",
+      "text": "Local authorities may restrict.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321472",
+      "number": "321.472",
+      "heading": "Signs posted.",
+      "text": "Signs posted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321473",
+      "number": "321.473",
+      "heading": "Limitations on trucks by local authorities.",
+      "text": "Limitations on trucks by local authorities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321474",
+      "number": "321.474",
+      "heading": "Department may restrict.",
+      "text": "Department may restrict.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321475",
+      "number": "321.475",
+      "heading": "Liability for damage — rules.",
+      "text": "Liability for damage — rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321476",
+      "number": "321.476",
+      "heading": "Stopping, weighing, and inspecting vehicles by state patrol.",
+      "text": "Stopping, weighing, and inspecting vehicles by state patrol.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321477",
+      "number": "321.477",
+      "heading": "Employees as peace officers — maximum age.",
+      "text": "Employees as peace officers — maximum age.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321478",
+      "number": "321.478",
+      "heading": "Bond.",
+      "text": "Bond.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321479",
+      "number": "321.479",
+      "heading": "Badge of authority.",
+      "text": "Badge of authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321480",
+      "number": "321.480",
+      "heading": "Limitation on expense.",
+      "text": "Limitation on expense.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321481",
+      "number": "321.481",
+      "heading": "No impairment of other authority.",
+      "text": "No impairment of other authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321482",
+      "number": "321.482",
+      "heading": "Violations — simple misdemeanors unless otherwise provided.",
+      "text": "Violations — simple misdemeanors unless otherwise provided.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321482a",
+      "number": "321.482A",
+      "heading": "Violations resulting in injury or death — additional penalties.",
+      "text": "Violations resulting in injury or death — additional penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321483",
+      "number": "321.483",
+      "heading": "Felony penalty — class “D” felony.",
+      "text": "Felony penalty — class “D” felony.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321484",
+      "number": "321.484",
+      "heading": "Offenses by owners.",
+      "text": "Offenses by owners.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321485",
+      "number": "321.485",
+      "heading": "Notice to appear — promise to appear.",
+      "text": "Notice to appear — promise to appear.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321486",
+      "number": "321.486",
+      "heading": "Authorized bond forms.",
+      "text": "Authorized bond forms.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321487",
+      "number": "321.487",
+      "heading": "Violation of promise to appear.",
+      "text": "Violation of promise to appear.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321488",
+      "number": "321.488",
+      "heading": "Procedure not exclusive.",
+      "text": "Procedure not exclusive.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321489",
+      "number": "321.489",
+      "heading": "Record inadmissible in a civil action.",
+      "text": "Record inadmissible in a civil action.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321490",
+      "number": "321.490",
+      "heading": "Conviction not to affect credibility.",
+      "text": "Conviction not to affect credibility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321491",
+      "number": "321.491",
+      "heading": "Convictions and recommendations for suspension to be reported.",
+      "text": "Convictions and recommendations for suspension to be reported.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321492",
+      "number": "321.492",
+      "heading": "Peace officers’ authority.",
+      "text": "Peace officers’ authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321492a",
+      "number": "321.492A",
+      "heading": "Quotas on citations prohibited.",
+      "text": "Quotas on citations prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321492b",
+      "number": "321.492B",
+      "heading": "Use of unmanned aerial vehicle for traffic law enforcement prohibited.",
+      "text": "Use of unmanned aerial vehicle for traffic law enforcement prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321493",
+      "number": "321.493",
+      "heading": "Liability for damages.",
+      "text": "Liability for damages.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321498",
+      "number": "321.498",
+      "heading": "Legal effect of use and operation.",
+      "text": "Legal effect of use and operation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321499",
+      "number": "321.499",
+      "heading": "“Person” defined.",
+      "text": "“Person” defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321500",
+      "number": "321.500",
+      "heading": "Original notice — form.",
+      "text": "Original notice — form.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321501",
+      "number": "321.501",
+      "heading": "Manner of service.",
+      "text": "Manner of service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321502",
+      "number": "321.502",
+      "heading": "Notification to nonresident — form.",
+      "text": "Notification to nonresident — form.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321504",
+      "number": "321.504",
+      "heading": "Optional notification.",
+      "text": "Optional notification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321505",
+      "number": "321.505",
+      "heading": "Proof of service.",
+      "text": "Proof of service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321506",
+      "number": "321.506",
+      "heading": "Actual service within this state.",
+      "text": "Actual service within this state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321507",
+      "number": "321.507",
+      "heading": "Venue of actions.",
+      "text": "Venue of actions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321508",
+      "number": "321.508",
+      "heading": "Continuances.",
+      "text": "Continuances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321509",
+      "number": "321.509",
+      "heading": "Duty of director.",
+      "text": "Duty of director.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321510",
+      "number": "321.510",
+      "heading": "Expenses and attorney fees.",
+      "text": "Expenses and attorney fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321511",
+      "number": "321.511",
+      "heading": "Dismissal — effect.",
+      "text": "Dismissal — effect.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321512",
+      "number": "321.512",
+      "heading": "Action against insurance.",
+      "text": "Action against insurance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321513",
+      "number": "321.513",
+      "heading": "Nonresident traffic violator compact.",
+      "text": "Nonresident traffic violator compact.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321514",
+      "number": "321.514",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321515",
+      "number": "321.515",
+      "heading": "Operation.",
+      "text": "Operation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321516",
+      "number": "321.516",
+      "heading": "Insurance.",
+      "text": "Insurance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321517",
+      "number": "321.517",
+      "heading": "Accidents.",
+      "text": "Accidents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321518",
+      "number": "321.518",
+      "heading": "On-demand driverless-capable vehicle network.",
+      "text": "On-demand driverless-capable vehicle network.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321519",
+      "number": "321.519",
+      "heading": "Authority.",
+      "text": "Authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321555",
+      "number": "321.555",
+      "heading": "Habitual offender defined.",
+      "text": "Habitual offender defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321556",
+      "number": "321.556",
+      "heading": "Notice and hearing — findings and order.",
+      "text": "Notice and hearing — findings and order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321560",
+      "number": "321.560",
+      "heading": "Period of revocation — temporary restricted licenses.",
+      "text": "Period of revocation — temporary restricted licenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321561",
+      "number": "321.561",
+      "heading": "Punishment for violation.",
+      "text": "Punishment for violation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321562",
+      "number": "321.562",
+      "heading": "Rule of construction.",
+      "text": "Rule of construction.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

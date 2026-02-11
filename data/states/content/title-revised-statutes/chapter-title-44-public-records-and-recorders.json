@@ -1,0 +1,1662 @@
+{
+  "state": "louisiana",
+  "path": "title-revised-statutes/chapter-title-44-public-records-and-recorders",
+  "sections": [
+    {
+      "id": "section-441",
+      "number": "44:1.",
+      "heading": "General definitions",
+      "text": "General definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4411",
+      "number": "44:1.1.",
+      "heading": "Short title",
+      "text": "Short title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-442",
+      "number": "44:2.",
+      "heading": "Records involved in legislative investigations",
+      "text": "Records involved in legislative investigations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-443",
+      "number": "44:3.",
+      "heading": "Records of prosecutive, investigative, and law enforcement agencies and communications districts",
+      "text": "Records of prosecutive, investigative, and law enforcement agencies and communications districts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4431",
+      "number": "44:3.1.",
+      "heading": "Certain records pertaining to security-related activity",
+      "text": "Certain records pertaining to security-related activity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44311",
+      "number": "44:3.1.1.",
+      "heading": "School surveillance and security video; limited retention and viewing policy",
+      "text": "School surveillance and security video; limited retention and viewing policy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4432",
+      "number": "44:3.2.",
+      "heading": "Proprietary and trade secret information",
+      "text": "Proprietary and trade secret information",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4433",
+      "number": "44:3.3.",
+      "heading": "Public power authority; commercially sensitive information",
+      "text": "Public power authority; commercially sensitive information",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4434",
+      "number": "44:3.4.",
+      "heading": "Records of the Board of Ethics",
+      "text": "Records of the Board of Ethics",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4435",
+      "number": "44:3.5.",
+      "heading": "Records of the Department of Agriculture and Forestry",
+      "text": "Records of the Department of Agriculture and Forestry",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4436",
+      "number": "44:3.6.",
+      "heading": "Airport facility and infrastructure records",
+      "text": "Airport facility and infrastructure records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-444",
+      "number": "44:4.",
+      "heading": "Applicability",
+      "text": "Applicability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4441",
+      "number": "44:4.1.",
+      "heading": "Exceptions",
+      "text": "Exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-445",
+      "number": "44:5.",
+      "heading": "Records of the office of the governor",
+      "text": "Records of the office of the governor",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4451",
+      "number": "44:5.1.",
+      "heading": "Records of the office of a statewide elected official",
+      "text": "Records of the office of a statewide elected official",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-446",
+      "number": "44:6.",
+      "heading": "Completed reports of the Legislative Auditor",
+      "text": "Completed reports of the Legislative Auditor",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-447",
+      "number": "44:7.",
+      "heading": "Hospital records",
+      "text": "Hospital records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-448",
+      "number": "44:8.",
+      "heading": "Louisiana office building corporation, special provisions",
+      "text": "Louisiana office building corporation, special provisions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-449",
+      "number": "44:9.",
+      "heading": "Repealed by Acts 2014, No. 145, §3.",
+      "text": "Repealed by Acts 2014, No. 145, §3.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4410",
+      "number": "44:10.",
+      "heading": "Confidential nature of documents and proceedings of judiciary commission",
+      "text": "Confidential nature of documents and proceedings of judiciary commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4411",
+      "number": "44:11.",
+      "heading": "Confidential nature of certain personnel records; exceptions",
+      "text": "Confidential nature of certain personnel records; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44111",
+      "number": "44:11.1.",
+      "heading": "Limited access to domiciliary address information for judges",
+      "text": "Limited access to domiciliary address information for judges",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44112",
+      "number": "44:11.2.",
+      "heading": "Limited access to personal information for protected individuals",
+      "text": "Limited access to personal information for protected individuals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4412",
+      "number": "44:12.",
+      "heading": "Medical records of persons covered by the Office of Group Benefits programs",
+      "text": "Medical records of persons covered by the Office of Group Benefits programs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44121",
+      "number": "44:12.1.",
+      "heading": "Records of applicants for public positions; prohibitions",
+      "text": "Records of applicants for public positions; prohibitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4413",
+      "number": "44:13.",
+      "heading": "Registration records and other records of use maintained by libraries",
+      "text": "Registration records and other records of use maintained by libraries",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4414",
+      "number": "44:14.",
+      "heading": "Insurance, health and accident; list of insured to be provided to department",
+      "text": "Insurance, health and accident; list of insured to be provided to department",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4415",
+      "number": "44:15.",
+      "heading": "Medical records of persons applying for disability retirement through any state or statewide public retirement system or pension plan or fund",
+      "text": "Medical records of persons applying for disability retirement through any state or statewide public retirement system or pension plan or fund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4416",
+      "number": "44:16.",
+      "heading": "Personal data records for certain members of public retirement systems, plans, or funds",
+      "text": "Personal data records for certain members of public retirement systems, plans, or funds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4417",
+      "number": "44:17.",
+      "heading": "Immunization records; definitions; disclosure; liability; procedures",
+      "text": "Immunization records; definitions; disclosure; liability; procedures",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4418",
+      "number": "44:18.",
+      "heading": "Geophysical survey information",
+      "text": "Geophysical survey information",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4419",
+      "number": "44:19.",
+      "heading": "Records of a coroner; autopsy photographs, video, and other visual images",
+      "text": "Records of a coroner; autopsy photographs, video, and other visual images",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4420",
+      "number": "44:20.",
+      "heading": "Records of discharge from armed forces",
+      "text": "Records of discharge from armed forces",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4421",
+      "number": "44:21.",
+      "heading": "Municipal fire and police civil service; test materials confidential",
+      "text": "Municipal fire and police civil service; test materials confidential",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44211",
+      "number": "44:21.1.",
+      "heading": "Jefferson Parish civil service; test materials confidential",
+      "text": "Jefferson Parish civil service; test materials confidential",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4422",
+      "number": "44:22.",
+      "heading": "Economic development negotiations",
+      "text": "Economic development negotiations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44221",
+      "number": "44:22.1.",
+      "heading": "Port economic development negotiations",
+      "text": "Port economic development negotiations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44222",
+      "number": "44:22.2.",
+      "heading": "Local government economic development negotiations",
+      "text": "Local government economic development negotiations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4423",
+      "number": "44:23.",
+      "heading": "Department of Transportation and Development; preconstruction estimates",
+      "text": "Department of Transportation and Development; preconstruction estimates",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44231",
+      "number": "44:23.1.",
+      "heading": "Department of Transportation and Development; Sabine River Authority; exception for certain sensitive security information or critical infrastructure information",
+      "text": "Department of Transportation and Development; Sabine River Authority; exception for certain sensitive security information or critical infrastructure information",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4431",
+      "number": "44:31.",
+      "heading": "Right to examine records",
+      "text": "Right to examine records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44311",
+      "number": "44:31.1.",
+      "heading": "Exceptions; authority of the custodian",
+      "text": "Exceptions; authority of the custodian",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44312",
+      "number": "44:31.2.",
+      "heading": "Public records awareness program",
+      "text": "Public records awareness program",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4432",
+      "number": "44:32.",
+      "heading": "Duty to permit examination; prevention of alteration; payment for overtime; copies provided; fees",
+      "text": "Duty to permit examination; prevention of alteration; payment for overtime; copies provided; fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4433",
+      "number": "44:33.",
+      "heading": "Availability of records",
+      "text": "Availability of records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44331",
+      "number": "44:33.1.",
+      "heading": "Custodian; contact information; notice to public",
+      "text": "Custodian; contact information; notice to public",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4434",
+      "number": "44:34.",
+      "heading": "Absence of records",
+      "text": "Absence of records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4435",
+      "number": "44:35.",
+      "heading": "Enforcement",
+      "text": "Enforcement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4436",
+      "number": "44:36.",
+      "heading": "Preservation of records",
+      "text": "Preservation of records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4437",
+      "number": "44:37.",
+      "heading": "Penalties for violation by custodians of records",
+      "text": "Penalties for violation by custodians of records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4438",
+      "number": "44:38.",
+      "heading": "Access to records involved in legislative studies",
+      "text": "Access to records involved in legislative studies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4439",
+      "number": "44:39.",
+      "heading": "Microfilm and electronic digitized records; use as evidence",
+      "text": "Microfilm and electronic digitized records; use as evidence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4440",
+      "number": "44:40.",
+      "heading": "Additional copies of records; purchase of equipment; funds available for payment; copies of suit records",
+      "text": "Additional copies of records; purchase of equipment; funds available for payment; copies of suit records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4441",
+      "number": "44:41.",
+      "heading": "Receiving and filing map, plat, etc. for record",
+      "text": "Receiving and filing map, plat, etc. for record",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4442",
+      "number": "44:42.",
+      "heading": "Immunity from suit for invasion of privacy",
+      "text": "Immunity from suit for invasion of privacy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4451",
+      "number": "44:51.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4452",
+      "number": "44:52.",
+      "heading": "Address confidentiality program; application; certification; substitute address; renewal; prohibited acts; penalties",
+      "text": "Address confidentiality program; application; certification; substitute address; renewal; prohibited acts; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4453",
+      "number": "44:53.",
+      "heading": "Cancellation of certification",
+      "text": "Cancellation of certification",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4454",
+      "number": "44:54.",
+      "heading": "Substitute address; use",
+      "text": "Substitute address; use",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4455",
+      "number": "44:55.",
+      "heading": "Secretary of state; use of substitute address; exceptions",
+      "text": "Secretary of state; use of substitute address; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4456",
+      "number": "44:56.",
+      "heading": "Program participants; application assistance",
+      "text": "Program participants; application assistance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4457",
+      "number": "44:57.",
+      "heading": "Service of process",
+      "text": "Service of process",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44671",
+      "number": "44:67.1.",
+      "heading": "Acceptance of collective bargaining agreement",
+      "text": "Acceptance of collective bargaining agreement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44672",
+      "number": "44:67.2.",
+      "heading": "Construction; enforcement",
+      "text": "Construction; enforcement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4471",
+      "number": "44:71.",
+      "heading": "Offices for recording mortgages and conveyances",
+      "text": "Offices for recording mortgages and conveyances",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4472",
+      "number": "44:72.",
+      "heading": "Seal",
+      "text": "Seal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4473",
+      "number": "44:73.",
+      "heading": "Location of office",
+      "text": "Location of office",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4474",
+      "number": "44:74.",
+      "heading": "Repealed by Acts 1974, No. 540, §2",
+      "text": "Repealed by Acts 1974, No. 540, §2",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4475",
+      "number": "44:75.",
+      "heading": "Deputies",
+      "text": "Deputies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4476",
+      "number": "44:76.",
+      "heading": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "text": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4477",
+      "number": "44:77.",
+      "heading": "Recorder as proper party; payment of judgments and compromises; obligation to maintain insurance",
+      "text": "Recorder as proper party; payment of judgments and compromises; obligation to maintain insurance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4478",
+      "number": "44:78.",
+      "heading": "Limitation of liability",
+      "text": "Limitation of liability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4479",
+      "number": "44:79.",
+      "heading": "Recorder not required to pay costs or give security in judicial proceedings",
+      "text": "Recorder not required to pay costs or give security in judicial proceedings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4480",
+      "number": "44:80.",
+      "heading": "Fees",
+      "text": "Fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44101",
+      "number": "44:101.",
+      "heading": "General powers",
+      "text": "General powers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44102",
+      "number": "44:102.",
+      "heading": "Repair and rebinding of books and records; payment",
+      "text": "Repair and rebinding of books and records; payment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44103",
+      "number": "44:103.",
+      "heading": "Certified copies and their effect",
+      "text": "Certified copies and their effect",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44104",
+      "number": "44:104.",
+      "heading": "Redesignated as R.S. 9:2742 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "text": "Redesignated as R.S. 9:2742 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44105",
+      "number": "44:105.",
+      "heading": "Redesignated as R.S. 9:2743 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "text": "Redesignated as R.S. 9:2743 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44106",
+      "number": "44:106.",
+      "heading": "Redesignated as R.S. 9:5169 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "text": "Redesignated as R.S. 9:5169 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44107",
+      "number": "44:107.",
+      "heading": "Redesignated as R.S. 9:5170 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "text": "Redesignated as R.S. 9:5170 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44108",
+      "number": "44:108.",
+      "heading": "Redesignated as R.S. 9:5171 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "text": "Redesignated as R.S. 9:5171 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44109",
+      "number": "44:109.",
+      "heading": "Redesignated as R.S. 9:5172 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "text": "Redesignated as R.S. 9:5172 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441091",
+      "number": "44:109.1.",
+      "heading": "Redesignated as R.S. 9:5173 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "text": "Redesignated as R.S. 9:5173 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44110",
+      "number": "44:110.",
+      "heading": "Redesignated as R.S. 9:5174 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "text": "Redesignated as R.S. 9:5174 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44111",
+      "number": "44:111.",
+      "heading": "Redesignated as R.S. 9:5175 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "text": "Redesignated as R.S. 9:5175 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44112",
+      "number": "44:112.",
+      "heading": "Redesignated as R.S. 9:5176 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "text": "Redesignated as R.S. 9:5176 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44113",
+      "number": "44:113.",
+      "heading": "Redesignated as R.S. 9:2741 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "text": "Redesignated as R.S. 9:2741 by Acts 2010, No. 284, §1, eff. Jan. 1, 2011.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44114",
+      "number": "44:114.",
+      "heading": "Actions against the recorder",
+      "text": "Actions against the recorder",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44115",
+      "number": "44:115.",
+      "heading": "Photographic reproduction of acts",
+      "text": "Photographic reproduction of acts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44116",
+      "number": "44:116.",
+      "heading": "Photostatic, photographic, microfilm, or other photographic or electronic copies of records; indexes of conveyance and mortgage records; disposition; evidentiary status; preservation",
+      "text": "Photostatic, photographic, microfilm, or other photographic or electronic copies of records; indexes of conveyance and mortgage records; disposition; evidentiary status; preservation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44117",
+      "number": "44:117.",
+      "heading": "Preservation of filings in the conveyance records",
+      "text": "Preservation of filings in the conveyance records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44118",
+      "number": "44:118.",
+      "heading": "Electronic copies of records; Lafayette Parish",
+      "text": "Electronic copies of records; Lafayette Parish",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44119",
+      "number": "44:119.",
+      "heading": "Electronic filing and recording of written instruments",
+      "text": "Electronic filing and recording of written instruments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44132",
+      "number": "44:132.",
+      "heading": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "text": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44133",
+      "number": "44:133.",
+      "heading": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "text": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44134",
+      "number": "44:134.",
+      "heading": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "text": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44135",
+      "number": "44:135.",
+      "heading": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "text": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44136",
+      "number": "44:136.",
+      "heading": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "text": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44138",
+      "number": "44:138.",
+      "heading": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "text": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44161",
+      "number": "44:161.",
+      "heading": "Double index; form and contents",
+      "text": "Double index; form and contents",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44162",
+      "number": "44:162.",
+      "heading": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "text": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44163",
+      "number": "44:163.",
+      "heading": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "text": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44171",
+      "number": "44:171.",
+      "heading": "Recordation of discharge from armed forces",
+      "text": "Recordation of discharge from armed forces",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44181",
+      "number": "44:181.",
+      "heading": "Clerk of court as recorder; duties",
+      "text": "Clerk of court as recorder; duties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441811",
+      "number": "44:181.1.",
+      "heading": "Official seal",
+      "text": "Official seal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441812",
+      "number": "44:181.2.",
+      "heading": "Deputy recorders",
+      "text": "Deputy recorders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441813",
+      "number": "44:181.3.",
+      "heading": "Archivist",
+      "text": "Archivist",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441814",
+      "number": "44:181.4.",
+      "heading": "Fees",
+      "text": "Fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441815",
+      "number": "44:181.5.",
+      "heading": "Repealed by Acts 2012, No. 474, §4.",
+      "text": "Repealed by Acts 2012, No. 474, §4.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441816",
+      "number": "44:181.6.",
+      "heading": "Repealed by Acts 2012, No. 474, §4.",
+      "text": "Repealed by Acts 2012, No. 474, §4.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441817",
+      "number": "44:181.7.",
+      "heading": "Notarial archives records; fees",
+      "text": "Notarial archives records; fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44182",
+      "number": "44:182.",
+      "heading": "General powers",
+      "text": "General powers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441821",
+      "number": "44:182.1.",
+      "heading": "Retention of powers",
+      "text": "Retention of powers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441822",
+      "number": "44:182.2.",
+      "heading": "Repealed by Acts 2007, No. 212, §1, eff. July 2, 2007.",
+      "text": "Repealed by Acts 2007, No. 212, §1, eff. July 2, 2007.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441823",
+      "number": "44:182.3.",
+      "heading": "Repealed by Acts 2007, No. 212, §1, eff. July 2, 2007.",
+      "text": "Repealed by Acts 2007, No. 212, §1, eff. July 2, 2007.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441824",
+      "number": "44:182.4.",
+      "heading": "Repealed by Acts 2007, No. 212, §1, eff. July 2, 2007.",
+      "text": "Repealed by Acts 2007, No. 212, §1, eff. July 2, 2007.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441825",
+      "number": "44:182.5.",
+      "heading": "Repealed by Acts 2007, No. 212, §1, eff. July 2, 2007.",
+      "text": "Repealed by Acts 2007, No. 212, §1, eff. July 2, 2007.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441826",
+      "number": "44:182.6.",
+      "heading": "Repealed by Acts 2007, No. 212, §1, eff. July 2, 2007.",
+      "text": "Repealed by Acts 2007, No. 212, §1, eff. July 2, 2007.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441827",
+      "number": "44:182.7.",
+      "heading": "Repealed by Acts 2007, No. 212, §1, eff. July 2, 2007.",
+      "text": "Repealed by Acts 2007, No. 212, §1, eff. July 2, 2007.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441828",
+      "number": "44:182.8.",
+      "heading": "Repealed by Acts 2007, No. 212, §1, eff. July 2, 2007.",
+      "text": "Repealed by Acts 2007, No. 212, §1, eff. July 2, 2007.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441829",
+      "number": "44:182.9.",
+      "heading": "Repealed by Acts 2007, No. 212, §1, eff. July 2, 2007.",
+      "text": "Repealed by Acts 2007, No. 212, §1, eff. July 2, 2007.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4418210",
+      "number": "44:182.10.",
+      "heading": "Repealed by Acts 2007, No. 212, §1, eff. July 2, 2007.",
+      "text": "Repealed by Acts 2007, No. 212, §1, eff. July 2, 2007.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4418211",
+      "number": "44:182.11.",
+      "heading": "Annual budget; submission to enumerated entities",
+      "text": "Annual budget; submission to enumerated entities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44183",
+      "number": "44:183.",
+      "heading": "Microfilm records; use; separate location; preservation of records",
+      "text": "Microfilm records; use; separate location; preservation of records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44184",
+      "number": "44:184.",
+      "heading": "Applicability of other laws",
+      "text": "Applicability of other laws",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441841",
+      "number": "44:184.1.",
+      "heading": "Recordation of agreement",
+      "text": "Recordation of agreement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441842",
+      "number": "44:184.2.",
+      "heading": "Repealed by Acts 2008, No. 677, §2, eff. July 1, 2008, and Acts 2008, No. 856, §2.",
+      "text": "Repealed by Acts 2008, No. 677, §2, eff. July 1, 2008, and Acts 2008, No. 856, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44185",
+      "number": "44:185.",
+      "heading": "Recordation books; indexes",
+      "text": "Recordation books; indexes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44201",
+      "number": "44:201.",
+      "heading": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "text": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-442011",
+      "number": "44:201.1.",
+      "heading": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "text": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44202",
+      "number": "44:202.",
+      "heading": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "text": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44203",
+      "number": "44:203.",
+      "heading": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "text": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44204",
+      "number": "44:204.",
+      "heading": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "text": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44205",
+      "number": "44:205.",
+      "heading": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "text": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-442051",
+      "number": "44:205.1.",
+      "heading": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "text": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44206",
+      "number": "44:206.",
+      "heading": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "text": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44207",
+      "number": "44:207.",
+      "heading": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "text": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44231",
+      "number": "44:231.",
+      "heading": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "text": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-442311",
+      "number": "44:231.1.",
+      "heading": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "text": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44232",
+      "number": "44:232.",
+      "heading": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "text": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-442321",
+      "number": "44:232.1.",
+      "heading": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "text": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44233",
+      "number": "44:233.",
+      "heading": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "text": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44234",
+      "number": "44:234.",
+      "heading": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "text": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-442341",
+      "number": "44:234.1.",
+      "heading": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "text": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44235",
+      "number": "44:235.",
+      "heading": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "text": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44261",
+      "number": "44:261.",
+      "heading": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "text": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44262",
+      "number": "44:262.",
+      "heading": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "text": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44263",
+      "number": "44:263.",
+      "heading": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "text": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44264",
+      "number": "44:264.",
+      "heading": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "text": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44265",
+      "number": "44:265.",
+      "heading": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "text": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44266",
+      "number": "44:266.",
+      "heading": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "text": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44267",
+      "number": "44:267.",
+      "heading": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "text": "Repealed by Acts 2006, No. 621, §20(B), eff. Jan. 1, 2009.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44268",
+      "number": "44:268.",
+      "heading": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "text": "Repealed by Acts 2005, No. 169, §8, eff. July 1, 2006.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44301",
+      "number": "44:301.",
+      "heading": "Pending proceedings",
+      "text": "Pending proceedings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44302",
+      "number": "44:302.",
+      "heading": "Judgments; execution on certified copies",
+      "text": "Judgments; execution on certified copies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44321",
+      "number": "44:321.",
+      "heading": "Petition and service",
+      "text": "Petition and service",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44322",
+      "number": "44:322.",
+      "heading": "Oath",
+      "text": "Oath",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44323",
+      "number": "44:323.",
+      "heading": "Affidavits",
+      "text": "Affidavits",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44324",
+      "number": "44:324.",
+      "heading": "Answer; judgment",
+      "text": "Answer; judgment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44325",
+      "number": "44:325.",
+      "heading": "Parol evidence may be used",
+      "text": "Parol evidence may be used",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44326",
+      "number": "44:326.",
+      "heading": "Court costs",
+      "text": "Court costs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44327",
+      "number": "44:327.",
+      "heading": "Effect of recording certified copies of reestablished records",
+      "text": "Effect of recording certified copies of reestablished records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44328",
+      "number": "44:328.",
+      "heading": "Costs due clerks or other officials",
+      "text": "Costs due clerks or other officials",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44329",
+      "number": "44:329.",
+      "heading": "Certified copies admissible in evidence",
+      "text": "Certified copies admissible in evidence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44361",
+      "number": "44:361.",
+      "heading": "Use of abstractors' records authorized",
+      "text": "Use of abstractors' records authorized",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44362",
+      "number": "44:362.",
+      "heading": "Parishes may purchase or expropriate abstractors' records",
+      "text": "Parishes may purchase or expropriate abstractors' records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44363",
+      "number": "44:363.",
+      "heading": "Procedure for purchase or expropriation by parish",
+      "text": "Procedure for purchase or expropriation by parish",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44364",
+      "number": "44:364.",
+      "heading": "Recordation of evidence adduced at trial",
+      "text": "Recordation of evidence adduced at trial",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44365",
+      "number": "44:365.",
+      "heading": "Binding and certification",
+      "text": "Binding and certification",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44366",
+      "number": "44:366.",
+      "heading": "Compensation for district attorney",
+      "text": "Compensation for district attorney",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44367",
+      "number": "44:367.",
+      "heading": "Certified copies of re-established archives prima facie evidence",
+      "text": "Certified copies of re-established archives prima facie evidence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44368",
+      "number": "44:368.",
+      "heading": "Presumption of correctness; use of parol evidence",
+      "text": "Presumption of correctness; use of parol evidence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44369",
+      "number": "44:369.",
+      "heading": "Judicial notice",
+      "text": "Judicial notice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44370",
+      "number": "44:370.",
+      "heading": "Restricted application",
+      "text": "Restricted application",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44401",
+      "number": "44:401.",
+      "heading": "Division of archives, records management, and history",
+      "text": "Division of archives, records management, and history",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44402",
+      "number": "44:402.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44403",
+      "number": "44:403.",
+      "heading": "Counsel",
+      "text": "Counsel",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44404",
+      "number": "44:404.",
+      "heading": "State archivist",
+      "text": "State archivist",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44405",
+      "number": "44:405.",
+      "heading": "Powers and duties",
+      "text": "Powers and duties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44406",
+      "number": "44:406.",
+      "heading": "Collection of records",
+      "text": "Collection of records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44407",
+      "number": "44:407.",
+      "heading": "Repealed by Acts 2024, No. 508, §2.",
+      "text": "Repealed by Acts 2024, No. 508, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44408",
+      "number": "44:408.",
+      "heading": "Archives and records center building; duty custody and control",
+      "text": "Archives and records center building; duty custody and control",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44409",
+      "number": "44:409.",
+      "heading": "Appointment of advisory groups",
+      "text": "Appointment of advisory groups",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44410",
+      "number": "44:410.",
+      "heading": "§410. Records management programs",
+      "text": "§410. Records management programs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44411",
+      "number": "44:411.",
+      "heading": "§411. Record management obligation of agency heads",
+      "text": "§411. Record management obligation of agency heads",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44412",
+      "number": "44:412.",
+      "heading": "Repealed by Acts 2024, No. 508, §2.",
+      "text": "Repealed by Acts 2024, No. 508, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44413",
+      "number": "44:413.",
+      "heading": "Repealed by Acts 2024, No. 508, §2.",
+      "text": "Repealed by Acts 2024, No. 508, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44414",
+      "number": "44:414.",
+      "heading": "Repealed by Acts 2024, No. 508, §2.",
+      "text": "Repealed by Acts 2024, No. 508, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44415",
+      "number": "44:415.",
+      "heading": "Imaging and preservation services",
+      "text": "Imaging and preservation services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44416",
+      "number": "44:416.",
+      "heading": "Repealed by Acts 2024, No. 508, §2.",
+      "text": "Repealed by Acts 2024, No. 508, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44417",
+      "number": "44:417.",
+      "heading": "Deposit of records of historical value; transfer of deposited records to public or educational institutions; disposition of abandoned property",
+      "text": "Deposit of records of historical value; transfer of deposited records to public or educational institutions; disposition of abandoned property",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44418",
+      "number": "44:418.",
+      "heading": "Responsibility for custody, use, and withdrawal of records",
+      "text": "Responsibility for custody, use, and withdrawal of records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44419",
+      "number": "44:419.",
+      "heading": "RS 44:419 - Preservation, conservation, and exhibition of records",
+      "text": "RS 44:419 - Preservation, conservation, and exhibition of records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44420",
+      "number": "44:420.",
+      "heading": "Deposit of papers and other historical materials of officials and individuals",
+      "text": "Deposit of papers and other historical materials of officials and individuals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44421",
+      "number": "44:421.",
+      "heading": "Authorization to certify facts; evidentiary status of any reproductions",
+      "text": "Authorization to certify facts; evidentiary status of any reproductions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44422",
+      "number": "44:422.",
+      "heading": "Safeguards against the removal, unlawful destruction, or loss of records",
+      "text": "Safeguards against the removal, unlawful destruction, or loss of records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44423",
+      "number": "44:423.",
+      "heading": "Repealed by Acts 2024, No. 508, §2.",
+      "text": "Repealed by Acts 2024, No. 508, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44424",
+      "number": "44:424.",
+      "heading": "Authority of state financial officers and others not limited",
+      "text": "Authority of state financial officers and others not limited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44425",
+      "number": "44:425.",
+      "heading": "Department of Revenue; exemption",
+      "text": "Department of Revenue; exemption",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44426",
+      "number": "44:426.",
+      "heading": "Transfer of inactive legislative records to archives",
+      "text": "Transfer of inactive legislative records to archives",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44427",
+      "number": "44:427.",
+      "heading": "Advisory Board of the Louisiana State Archives",
+      "text": "Advisory Board of the Louisiana State Archives",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44428",
+      "number": "44:428.",
+      "heading": "§§428 to 430 Repealed by Acts 1985, No. 238, §1, effective July 6, 1985.",
+      "text": "§§428 to 430 Repealed by Acts 1985, No. 238, §1, effective July 6, 1985.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44501",
+      "number": "44:501.",
+      "heading": "Board; creation; appointment; compensation",
+      "text": "Board; creation; appointment; compensation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44502",
+      "number": "44:502.",
+      "heading": "Duties of the board",
+      "text": "Duties of the board",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44503",
+      "number": "44:503.",
+      "heading": "State historical records coordinator duties; deputy state historical records coordinator duties",
+      "text": "State historical records coordinator duties; deputy state historical records coordinator duties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44504",
+      "number": "44:504.",
+      "heading": "REPEALED BY ACTS 1989, NO. 46, §1; ACTS 1989, NO. 662, §8, EFF. JULY 7, 1989.",
+      "text": "REPEALED BY ACTS 1989, NO. 46, §1; ACTS 1989, NO. 662, §8, EFF. JULY 7, 1989.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

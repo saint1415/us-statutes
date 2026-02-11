@@ -1,0 +1,734 @@
+{
+  "state": "south-dakota",
+  "path": "title-title-19-evidence/chapter-chapter-19-south-dakota-rules-of-evidence",
+  "sections": [
+    {
+      "id": "section-19-19-101",
+      "number": "19-19-101",
+      "heading": "Scope--Definitions.Section 19-19-102 - Purpose",
+      "text": "Section 19-19-103 - Rulings on evidence.Section 19-19-104 - Preliminary questions.Section 19-19-105 - Limiting evidence that is not admissible against other parties or for other purposes.Section 19-19-106 - Remainder of or related writings or recorded s",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-102",
+      "number": "19-19-102",
+      "heading": "Purpose.",
+      "text": "Purpose.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-103",
+      "number": "19-19-103",
+      "heading": "Rulings on evidence.",
+      "text": "Rulings on evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-104",
+      "number": "19-19-104",
+      "heading": "Preliminary questions.",
+      "text": "Preliminary questions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-105",
+      "number": "19-19-105",
+      "heading": "Limiting evidence that is not admissible against other parties or for other purposes.",
+      "text": "Limiting evidence that is not admissible against other parties or for other purposes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-106",
+      "number": "19-19-106",
+      "heading": "Remainder of or related writings or recorded statements.",
+      "text": "Remainder of or related writings or recorded statements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-201",
+      "number": "19-19-201",
+      "heading": "Judicial notice of adjudicative facts.",
+      "text": "Judicial notice of adjudicative facts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-301",
+      "number": "19-19-301",
+      "heading": "Presumptions in civil cases.",
+      "text": "Presumptions in civil cases.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-302",
+      "number": "19-19-302",
+      "heading": "Presumptions in criminal cases.",
+      "text": "Presumptions in criminal cases.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-401",
+      "number": "19-19-401",
+      "heading": "Test for relevant evidence.",
+      "text": "Test for relevant evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-402",
+      "number": "19-19-402",
+      "heading": "Relevant evidence generally admissible--Irrelevant evidence inadmissible.",
+      "text": "Relevant evidence generally admissible--Irrelevant evidence inadmissible.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-403",
+      "number": "19-19-403",
+      "heading": "Excluding relevant evidence for prejudice, confusion, waste of time, or other reasons.",
+      "text": "Excluding relevant evidence for prejudice, confusion, waste of time, or other reasons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-404",
+      "number": "19-19-404",
+      "heading": "Character evidence--Crimes or other acts.",
+      "text": "Character evidence--Crimes or other acts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-405",
+      "number": "19-19-405",
+      "heading": "Methods of proving character.",
+      "text": "Methods of proving character.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-406",
+      "number": "19-19-406",
+      "heading": "Habit--Routine practice.",
+      "text": "Habit--Routine practice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-407",
+      "number": "19-19-407",
+      "heading": "Subsequent remedial measures.",
+      "text": "Subsequent remedial measures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-408",
+      "number": "19-19-408",
+      "heading": "Compromise offers and negotiations.",
+      "text": "Compromise offers and negotiations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-409",
+      "number": "19-19-409",
+      "heading": "Offers to pay medical and similar expenses.",
+      "text": "Offers to pay medical and similar expenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-410",
+      "number": "19-19-410",
+      "heading": "Pleas, plea discussions, and related statements.",
+      "text": "Pleas, plea discussions, and related statements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-411",
+      "number": "19-19-411",
+      "heading": "Liability insurance.",
+      "text": "Liability insurance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-4111",
+      "number": "19-19-411.1",
+      "heading": "Statements and actions by health care providers not admissible to prove negligence in medical malpractice actions.",
+      "text": "Statements and actions by health care providers not admissible to prove negligence in medical malpractice actions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-412",
+      "number": "19-19-412",
+      "heading": "Sex-offense cases--Victim's sexual behavior or predisposition.",
+      "text": "Sex-offense cases--Victim's sexual behavior or predisposition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-414",
+      "number": "19-19-414",
+      "heading": "Child molestation cases--Similar crimes.",
+      "text": "Child molestation cases--Similar crimes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-501",
+      "number": "19-19-501",
+      "heading": "Privileges recognized only as provided.",
+      "text": "Privileges recognized only as provided.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-502",
+      "number": "19-19-502",
+      "heading": "Lawyer-client privilege.",
+      "text": "Lawyer-client privilege.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-503",
+      "number": "19-19-503",
+      "heading": "Physician and psychotherapist-patient privilege.",
+      "text": "Physician and psychotherapist-patient privilege.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-504",
+      "number": "19-19-504",
+      "heading": "Spousal privilege.",
+      "text": "Spousal privilege.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-505",
+      "number": "19-19-505",
+      "heading": "Religious privilege.",
+      "text": "Religious privilege.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-506",
+      "number": "19-19-506",
+      "heading": "Vote at public election.",
+      "text": "Vote at public election.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-507",
+      "number": "19-19-507",
+      "heading": "Trade secrets.",
+      "text": "Trade secrets.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-508",
+      "number": "19-19-508",
+      "heading": "Confidential communications to public officer.",
+      "text": "Confidential communications to public officer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-5081",
+      "number": "19-19-508.1",
+      "heading": "Student and counselor, psychologist, or social worker--Exceptions.",
+      "text": "Student and counselor, psychologist, or social worker--Exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-5082",
+      "number": "19-19-508.2",
+      "heading": "College or university counselor and student--Exceptions--Qualifications of counselor.",
+      "text": "College or university counselor and student--Exceptions--Qualifications of counselor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-509",
+      "number": "19-19-509",
+      "heading": "Identity of informer.",
+      "text": "Identity of informer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-510",
+      "number": "19-19-510",
+      "heading": "Waiver of privilege by voluntary disclosure.",
+      "text": "Waiver of privilege by voluntary disclosure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-511",
+      "number": "19-19-511",
+      "heading": "Privilege not waived by involuntary disclosure.",
+      "text": "Privilege not waived by involuntary disclosure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-512",
+      "number": "19-19-512",
+      "heading": "Comment upon or inference from claim of privilege--Instruction.",
+      "text": "Comment upon or inference from claim of privilege--Instruction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-513",
+      "number": "19-19-513",
+      "heading": "Motorist's refusal to submit to chemical test of intoxication admissible--Privilege against self-incrimination may not be claimed.",
+      "text": "Motorist's refusal to submit to chemical test of intoxication admissible--Privilege against self-incrimination may not be claimed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-514",
+      "number": "19-19-514",
+      "heading": "Sign language interpreter or relay service operator privilege.",
+      "text": "Sign language interpreter or relay service operator privilege.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-515",
+      "number": "19-19-515",
+      "heading": "Mediation privilege.",
+      "text": "Mediation privilege.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-516",
+      "number": "19-19-516",
+      "heading": "Communications concerning execution of inmate.",
+      "text": "Communications concerning execution of inmate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-601",
+      "number": "19-19-601",
+      "heading": "Competency to testify in general.",
+      "text": "Competency to testify in general.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-602",
+      "number": "19-19-602",
+      "heading": "Need for personal knowledge--Exception for expert opinion.",
+      "text": "Need for personal knowledge--Exception for expert opinion.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-603",
+      "number": "19-19-603",
+      "heading": "Oath or affirmation to testify truthfully.",
+      "text": "Oath or affirmation to testify truthfully.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-6031",
+      "number": "19-19-603.1",
+      "heading": "Form for oath of witness.",
+      "text": "Form for oath of witness.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-6032",
+      "number": "19-19-603.2",
+      "heading": "Form for affirmation of witness.",
+      "text": "Form for affirmation of witness.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-604",
+      "number": "19-19-604",
+      "heading": "Form for oath of interpreter.",
+      "text": "Form for oath of interpreter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-605",
+      "number": "19-19-605",
+      "heading": "Judge's competency as a witness.",
+      "text": "Judge's competency as a witness.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-606",
+      "number": "19-19-606",
+      "heading": "Juror's competency as a witness.",
+      "text": "Juror's competency as a witness.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-607",
+      "number": "19-19-607",
+      "heading": "Who may impeach a witness.",
+      "text": "Who may impeach a witness.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-608",
+      "number": "19-19-608",
+      "heading": "A witness's character for truthfulness or untruthfulness.",
+      "text": "A witness's character for truthfulness or untruthfulness.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-609",
+      "number": "19-19-609",
+      "heading": "Impeachment by evidence of a criminal conviction.",
+      "text": "Impeachment by evidence of a criminal conviction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-610",
+      "number": "19-19-610",
+      "heading": "Religious beliefs or opinions.",
+      "text": "Religious beliefs or opinions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-611",
+      "number": "19-19-611",
+      "heading": "Mode and order of examining witnesses and presenting evidence.",
+      "text": "Mode and order of examining witnesses and presenting evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-6111",
+      "number": "19-19-611.1",
+      "heading": "Address of witness--Release in open court restricted.",
+      "text": "Address of witness--Release in open court restricted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-612",
+      "number": "19-19-612",
+      "heading": "Writing used to refresh a witness's memory.",
+      "text": "Writing used to refresh a witness's memory.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-613",
+      "number": "19-19-613",
+      "heading": "Witness's prior statement.",
+      "text": "Witness's prior statement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-614",
+      "number": "19-19-614",
+      "heading": "Court's calling or examining a witness.",
+      "text": "Court's calling or examining a witness.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-615",
+      "number": "19-19-615",
+      "heading": "Excluding witnesses.",
+      "text": "Excluding witnesses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-701",
+      "number": "19-19-701",
+      "heading": "Opinion testimony by lay witnesses.",
+      "text": "Opinion testimony by lay witnesses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-702",
+      "number": "19-19-702",
+      "heading": "Testimony by expert.",
+      "text": "Testimony by expert.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-703",
+      "number": "19-19-703",
+      "heading": "Bases of opinion testimony by experts.",
+      "text": "Bases of opinion testimony by experts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-704",
+      "number": "19-19-704",
+      "heading": "Opinion on an ultimate issue.",
+      "text": "Opinion on an ultimate issue.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-705",
+      "number": "19-19-705",
+      "heading": "Disclosure of facts or data underlying expert opinion.",
+      "text": "Disclosure of facts or data underlying expert opinion.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-706",
+      "number": "19-19-706",
+      "heading": "Court-appointed expert witnesses.",
+      "text": "Court-appointed expert witnesses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-707",
+      "number": "19-19-707",
+      "heading": "Experts called by parties.",
+      "text": "Experts called by parties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-801",
+      "number": "19-19-801",
+      "heading": "Definitions that apply to this article--Exclusions from hearsay.",
+      "text": "Definitions that apply to this article--Exclusions from hearsay.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-802",
+      "number": "19-19-802",
+      "heading": "Rule against hearsay.",
+      "text": "Rule against hearsay.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-803",
+      "number": "19-19-803",
+      "heading": "Exceptions to the rule against hearsay--Regardless of whether the declarant is available as a witness.",
+      "text": "Exceptions to the rule against hearsay--Regardless of whether the declarant is available as a witness.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-8031",
+      "number": "19-19-803.1",
+      "heading": "Physician's written report in lieu of deposition or in-court testimony admissible.",
+      "text": "Physician's written report in lieu of deposition or in-court testimony admissible.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-8032",
+      "number": "19-19-803.2",
+      "heading": "Physician's written report--Affidavit--Notice--Objection.",
+      "text": "Physician's written report--Affidavit--Notice--Objection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-804",
+      "number": "19-19-804",
+      "heading": "Exceptions to rule against hearsay--When declarant unavailable as witness.",
+      "text": "Exceptions to rule against hearsay--When declarant unavailable as witness.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-805",
+      "number": "19-19-805",
+      "heading": "Hearsay within hearsay.",
+      "text": "Hearsay within hearsay.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-806",
+      "number": "19-19-806",
+      "heading": "Attacking and supporting the declarant.",
+      "text": "Attacking and supporting the declarant.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-8061",
+      "number": "19-19-806.1",
+      "heading": "Statement by child under age thirteen or child with developmental disability regarding sex crime, physical abuse, or neglect.",
+      "text": "Statement by child under age thirteen or child with developmental disability regarding sex crime, physical abuse, or neglect.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-8062",
+      "number": "19-19-806.2",
+      "heading": "Statements alleging child abuse or neglect.",
+      "text": "Statements alleging child abuse or neglect.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-807",
+      "number": "19-19-807",
+      "heading": "Residual exception.",
+      "text": "Residual exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-901",
+      "number": "19-19-901",
+      "heading": "Authenticating or identifying evidence.",
+      "text": "Authenticating or identifying evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-902",
+      "number": "19-19-902",
+      "heading": "Evidence that is self-authenticating.",
+      "text": "Evidence that is self-authenticating.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-903",
+      "number": "19-19-903",
+      "heading": "Subscribing witnesses.",
+      "text": "Subscribing witnesses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-1001",
+      "number": "19-19-1001",
+      "heading": "Definitions that apply to this article.",
+      "text": "Definitions that apply to this article.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-1002",
+      "number": "19-19-1002",
+      "heading": "Requirement of the original.",
+      "text": "Requirement of the original.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-1003",
+      "number": "19-19-1003",
+      "heading": "Admissibility of duplicates.",
+      "text": "Admissibility of duplicates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-1004",
+      "number": "19-19-1004",
+      "heading": "Admissibility of other evidence of content.",
+      "text": "Admissibility of other evidence of content.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-1005",
+      "number": "19-19-1005",
+      "heading": "Copies of public records to prove content.",
+      "text": "Copies of public records to prove content.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-1006",
+      "number": "19-19-1006",
+      "heading": "Summaries to prove content.",
+      "text": "Summaries to prove content.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-1007",
+      "number": "19-19-1007",
+      "heading": "Testimony or statement of a party to prove content.",
+      "text": "Testimony or statement of a party to prove content.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-1008",
+      "number": "19-19-1008",
+      "heading": "Functions of the court and jury.",
+      "text": "Functions of the court and jury.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-1009",
+      "number": "19-19-1009",
+      "heading": "TDD and TTY communications inadmissible as evidence.",
+      "text": "TDD and TTY communications inadmissible as evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-1101",
+      "number": "19-19-1101",
+      "heading": "Applicability of chapter.",
+      "text": "Applicability of chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19-19-1102",
+      "number": "19-19-1102",
+      "heading": "Title.",
+      "text": "Title.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

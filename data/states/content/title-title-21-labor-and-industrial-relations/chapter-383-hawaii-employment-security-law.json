@@ -1,0 +1,982 @@
+{
+  "state": "hawaii",
+  "path": "title-title-21-labor-and-industrial-relations/chapter-383-hawaii-employment-security-law",
+  "sections": [
+    {
+      "id": "section-383-1",
+      "number": "383-1",
+      "heading": "Definitions, generally.",
+      "text": "Definitions, generally.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-2",
+      "number": "383-2",
+      "heading": "Definition of employment.",
+      "text": "Definition of employment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-3",
+      "number": "383-3",
+      "heading": "Place of performance.",
+      "text": "Place of performance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-4",
+      "number": "383-4",
+      "heading": "Election of employing unit.",
+      "text": "Election of employing unit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-5",
+      "number": "383-5",
+      "heading": "Service localized where.",
+      "text": "Service localized where.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-6",
+      "number": "383-6",
+      "heading": "Master and servant relationship, not required when.",
+      "text": "Master and servant relationship, not required when.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-7",
+      "number": "383-7",
+      "heading": "Excluded service.",
+      "text": "Excluded service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-75",
+      "number": "383-7.5",
+      "heading": "Part-time work; benefits available.",
+      "text": "Part-time work; benefits available.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-76",
+      "number": "383-7.6",
+      "heading": "Separation for compelling family reason.",
+      "text": "Separation for compelling family reason.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-8",
+      "number": "383-8",
+      "heading": "Included and excluded service.",
+      "text": "Included and excluded service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-9",
+      "number": "383-9",
+      "heading": "Agricultural labor.",
+      "text": "Agricultural labor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-10",
+      "number": "383-10",
+      "heading": "Definition of wages.",
+      "text": "Definition of wages.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-11",
+      "number": "383-11",
+      "heading": "Excluded payments.",
+      "text": "Excluded payments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-12",
+      "number": "383-12",
+      "heading": "Requirement to post work availability online.",
+      "text": "Requirement to post work availability online.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-21",
+      "number": "383-21",
+      "heading": "Payment of benefits.",
+      "text": "Payment of benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-22",
+      "number": "383-22",
+      "heading": "Weekly benefit amount; computation, minimum and maximum.",
+      "text": "Weekly benefit amount; computation, minimum and maximum.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-23",
+      "number": "383-23",
+      "heading": "Weekly benefit for unemployment.",
+      "text": "Weekly benefit for unemployment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-235",
+      "number": "383-23.5",
+      "heading": "Retirement payments.",
+      "text": "Retirement payments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-24",
+      "number": "383-24",
+      "heading": "Maximum potential benefits.",
+      "text": "Maximum potential benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-25",
+      "number": "383-25",
+      "heading": "to 383-28 REPEALED.",
+      "text": "to 383-28 REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-29",
+      "number": "383-29",
+      "heading": "Eligibility for benefits.",
+      "text": "Eligibility for benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-295",
+      "number": "383-29.5",
+      "heading": "Benefits during training.",
+      "text": "Benefits during training.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-296",
+      "number": "383-29.6",
+      "heading": "Partial unemployment; eligibility.",
+      "text": "Partial unemployment; eligibility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-297",
+      "number": "383-29.7",
+      "heading": "Partial unemployment; claim filing requirements, determinations.",
+      "text": "Partial unemployment; claim filing requirements, determinations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-298",
+      "number": "383-29.8",
+      "heading": "Partial unemployment; waivers.",
+      "text": "Partial unemployment; waivers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-299",
+      "number": "383-29.9",
+      "heading": "Partial unemployment; reporting requirements.",
+      "text": "Partial unemployment; reporting requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-30",
+      "number": "383-30",
+      "heading": "Disqualification for benefits.",
+      "text": "Disqualification for benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-305",
+      "number": "383-30.5",
+      "heading": "Good cause for separation from part-time employment.",
+      "text": "Good cause for separation from part-time employment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-31",
+      "number": "383-31",
+      "heading": "Posting of information.",
+      "text": "Posting of information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-32",
+      "number": "383-32",
+      "heading": "Filing of claim.",
+      "text": "Filing of claim.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-33",
+      "number": "383-33",
+      "heading": "Determinations, in general.",
+      "text": "Determinations, in general.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-34",
+      "number": "383-34",
+      "heading": "Reconsideration of determination.",
+      "text": "Reconsideration of determination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-35",
+      "number": "383-35",
+      "heading": "Appeal pending when redetermination issued.",
+      "text": "Appeal pending when redetermination issued.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-36",
+      "number": "383-36",
+      "heading": "Notice of determinations.",
+      "text": "Notice of determinations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-37",
+      "number": "383-37",
+      "heading": "Appeal tribunal.",
+      "text": "Appeal tribunal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-38",
+      "number": "383-38",
+      "heading": "Appeals, filing, and hearing.",
+      "text": "Appeals, filing, and hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-39",
+      "number": "383-39",
+      "heading": "Procedure.",
+      "text": "Procedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-40",
+      "number": "383-40",
+      "heading": "Conclusiveness of determinations and decisions.",
+      "text": "Conclusiveness of determinations and decisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-41",
+      "number": "383-41",
+      "heading": "Judicial review.",
+      "text": "Judicial review.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-42",
+      "number": "383-42",
+      "heading": "Representation.",
+      "text": "Representation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-43",
+      "number": "383-43",
+      "heading": "Payment of benefits.",
+      "text": "Payment of benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-44",
+      "number": "383-44",
+      "heading": "Recovery of benefits paid.",
+      "text": "Recovery of benefits paid.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-45",
+      "number": "383-45",
+      "heading": "Governing provisions.",
+      "text": "Governing provisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-61",
+      "number": "383-61",
+      "heading": "Payment of contributions; wages not included.",
+      "text": "Payment of contributions; wages not included.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-615",
+      "number": "383-61.5",
+      "heading": "Special assessments on employers to pay interest on loans from Secretary of Labor.",
+      "text": "Special assessments on employers to pay interest on loans from Secretary of Labor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-62",
+      "number": "383-62",
+      "heading": "Rate of contributions; financing benefits paid to government employees and employees of nonprofit organizations.",
+      "text": "Rate of contributions; financing benefits paid to government employees and employees of nonprofit organizations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-625",
+      "number": "383-62.5",
+      "heading": "Treatment of Indian tribes.",
+      "text": "Treatment of Indian tribes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-63",
+      "number": "383-63",
+      "heading": "Definitions for experience rating provisions.",
+      "text": "Definitions for experience rating provisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-64",
+      "number": "383-64",
+      "heading": "Credits for contributions; destruction of employer accounts and records.",
+      "text": "Credits for contributions; destruction of employer accounts and records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-65",
+      "number": "383-65",
+      "heading": "Charges and noncharges for benefits.",
+      "text": "Charges and noncharges for benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-66",
+      "number": "383-66",
+      "heading": "Contribution rates, how determined.",
+      "text": "Contribution rates, how determined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-67",
+      "number": "383-67",
+      "heading": "Reserve ratio.",
+      "text": "Reserve ratio.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-68",
+      "number": "383-68",
+      "heading": "Contribution rate schedules; fund solvency rate schedule; rates based on experience.",
+      "text": "Contribution rate schedules; fund solvency rate schedule; rates based on experience.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-69",
+      "number": "383-69",
+      "heading": "Procedure for rate determination.",
+      "text": "Procedure for rate determination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-70",
+      "number": "383-70",
+      "heading": "Contributions; levy; returns; assessments.",
+      "text": "Contributions; levy; returns; assessments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-71",
+      "number": "383-71",
+      "heading": "Collection of delinquent contributions.",
+      "text": "Collection of delinquent contributions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-72",
+      "number": "383-72",
+      "heading": "Priorities under legal dissolutions or distributions.",
+      "text": "Priorities under legal dissolutions or distributions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-73",
+      "number": "383-73",
+      "heading": "Penalty for delinquency; remission",
+      "text": "Penalty for delinquency; remission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-74",
+      "number": "383-74",
+      "heading": "Appeal; correction of assessment or contributions.",
+      "text": "Appeal; correction of assessment or contributions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-75",
+      "number": "383-75",
+      "heading": "Compromise.",
+      "text": "Compromise.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-76",
+      "number": "383-76",
+      "heading": "Refunds and adjustments.",
+      "text": "Refunds and adjustments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-77",
+      "number": "383-77",
+      "heading": "Employers' coverage, election.",
+      "text": "Employers' coverage, election.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-78",
+      "number": "383-78",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-79",
+      "number": "383-79",
+      "heading": "Combining services performed for predecessor and successor employing units.",
+      "text": "Combining services performed for predecessor and successor employing units.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-80",
+      "number": "383-80",
+      "heading": "Income tax refund offsets.",
+      "text": "Income tax refund offsets.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-91",
+      "number": "383-91",
+      "heading": "Duties and powers of department, director.",
+      "text": "Duties and powers of department, director.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-92",
+      "number": "383-92",
+      "heading": "Rules and regulations.",
+      "text": "Rules and regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-925",
+      "number": "383-92.5",
+      "heading": "Worker profiling.",
+      "text": "Worker profiling.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-93",
+      "number": "383-93",
+      "heading": "Investigation of unemployment hazard.",
+      "text": "Investigation of unemployment hazard.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-94",
+      "number": "383-94",
+      "heading": "Records and reports.",
+      "text": "Records and reports.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-95",
+      "number": "383-95",
+      "heading": "Disclosure of information.",
+      "text": "Disclosure of information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-96",
+      "number": "383-96",
+      "heading": "Service.",
+      "text": "Service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-97",
+      "number": "383-97",
+      "heading": "Change of rates.",
+      "text": "Change of rates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-98",
+      "number": "383-98",
+      "heading": "Referee.",
+      "text": "Referee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-99",
+      "number": "383-99",
+      "heading": "Oaths and subpoenas.",
+      "text": "Oaths and subpoenas.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-100",
+      "number": "383-100",
+      "heading": "Protection against self-incrimination.",
+      "text": "Protection against self-incrimination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-101",
+      "number": "383-101",
+      "heading": "Relation to chapter 371.",
+      "text": "Relation to chapter 371.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-102",
+      "number": "383-102",
+      "heading": "Preservation and destruction of records.",
+      "text": "Preservation and destruction of records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-103",
+      "number": "383-103",
+      "heading": "Representation in civil and criminal actions.",
+      "text": "Representation in civil and criminal actions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-104",
+      "number": "383-104",
+      "heading": "State employment service.",
+      "text": "State employment service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-105",
+      "number": "383-105",
+      "heading": "Federal-state cooperation.",
+      "text": "Federal-state cooperation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-106",
+      "number": "383-106",
+      "heading": "What reciprocal arrangements authorized.",
+      "text": "What reciprocal arrangements authorized.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-107",
+      "number": "383-107",
+      "heading": "Reimbursement payments deemed benefits, when.",
+      "text": "Reimbursement payments deemed benefits, when.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-108",
+      "number": "383-108",
+      "heading": "Cooperation with states, etc.",
+      "text": "Cooperation with states, etc.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-109",
+      "number": "383-109",
+      "heading": "Cooperation with foreign governments.",
+      "text": "Cooperation with foreign governments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-110",
+      "number": "383-110",
+      "heading": "Personnel security program; criminal history record checks.",
+      "text": "Personnel security program; criminal history record checks.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-121",
+      "number": "383-121",
+      "heading": "Unemployment compensation trust fund; establishment and control.",
+      "text": "Unemployment compensation trust fund; establishment and control.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-1215",
+      "number": "383-121.5",
+      "heading": "Renumbered as §383-127.",
+      "text": "Renumbered as §383-127.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-122",
+      "number": "383-122",
+      "heading": "Accounts and deposit.",
+      "text": "Accounts and deposit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-123",
+      "number": "383-123",
+      "heading": "Withdrawals; administrative use.",
+      "text": "Withdrawals; administrative use.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-124",
+      "number": "383-124",
+      "heading": "Relation to unemployment trust fund.",
+      "text": "Relation to unemployment trust fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-125",
+      "number": "383-125",
+      "heading": "Financing employment security administration.",
+      "text": "Financing employment security administration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-126",
+      "number": "383-126",
+      "heading": "Reimbursement of fund.",
+      "text": "Reimbursement of fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-1265",
+      "number": "383-126.5",
+      "heading": "Evaluation of fund balance adequacy.",
+      "text": "Evaluation of fund balance adequacy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-127",
+      "number": "383-127",
+      "heading": "Special unemployment insurance administration fund.",
+      "text": "Special unemployment insurance administration fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-128",
+      "number": "383-128",
+      "heading": "Employment and training fund established.",
+      "text": "Employment and training fund established.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-129",
+      "number": "383-129",
+      "heading": "Employment and training assessment.",
+      "text": "Employment and training assessment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-130",
+      "number": "383-130",
+      "heading": "Unemployment insurance technology special fund.",
+      "text": "Unemployment insurance technology special fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-131",
+      "number": "383-131",
+      "heading": "Unemployment insurance technology assessment.",
+      "text": "Unemployment insurance technology assessment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-141",
+      "number": "383-141",
+      "heading": "Falsely obtaining benefits, etc.",
+      "text": "Falsely obtaining benefits, etc.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-142",
+      "number": "383-142",
+      "heading": "Employing units.",
+      "text": "Employing units.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-143",
+      "number": "383-143",
+      "heading": "General penalty.",
+      "text": "General penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-144",
+      "number": "383-144",
+      "heading": "Unlawful disclosures.",
+      "text": "Unlawful disclosures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-161",
+      "number": "383-161",
+      "heading": "Waiver of rights void.",
+      "text": "Waiver of rights void.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-162",
+      "number": "383-162",
+      "heading": "Limitation of fees.",
+      "text": "Limitation of fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-163",
+      "number": "383-163",
+      "heading": "No assignment of benefits; waiver.",
+      "text": "No assignment of benefits; waiver.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-1635",
+      "number": "383-163.5",
+      "heading": "Child support intercept of unemployment benefits.",
+      "text": "Child support intercept of unemployment benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-1636",
+      "number": "383-163.6",
+      "heading": "Voluntary deduction and withholding of federal and state income taxes",
+      "text": "(a) An individual filing a new claim for unemployment compensation shall, at the time of filing the claim, be advised that: (1) Unemployment compensation is subject to federal and state income tax; (2) Requirements exist pertaini",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-1637",
+      "number": "383-163.7",
+      "heading": "Deduction and withholding of uncollected food stamp overissuances.",
+      "text": "Deduction and withholding of uncollected food stamp overissuances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-164",
+      "number": "383-164",
+      "heading": "Nonliability of State.",
+      "text": "Nonliability of State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-165",
+      "number": "383-165",
+      "heading": "Saving clause, amendment, or repeal.",
+      "text": "Saving clause, amendment, or repeal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-166",
+      "number": "383-166",
+      "heading": "Conformity with federal law.",
+      "text": "Conformity with federal law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-167",
+      "number": "383-167",
+      "heading": "Amendment or repeal of federal law, effect of; nonconformity, effect of.",
+      "text": "Amendment or repeal of federal law, effect of; nonconformity, effect of.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-168",
+      "number": "383-168",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-169",
+      "number": "383-169",
+      "heading": "Effect of state law provisions relating to regular benefits on claims for, and the payment of, extended benefits.",
+      "text": "Effect of state law provisions relating to regular benefits on claims for, and the payment of, extended benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-170",
+      "number": "383-170",
+      "heading": "Eligibility requirements for extended benefits.",
+      "text": "Eligibility requirements for extended benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-1705",
+      "number": "383-170.5",
+      "heading": "Ineligibility for extended benefits when paid under an interstate claim in a state where extended benefit period is not in effect.",
+      "text": "Ineligibility for extended benefits when paid under an interstate claim in a state where extended benefit period is not in effect.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-171",
+      "number": "383-171",
+      "heading": "Weekly extended benefit amount.",
+      "text": "Weekly extended benefit amount.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-172",
+      "number": "383-172",
+      "heading": "Total extended benefit amount.",
+      "text": "Total extended benefit amount.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-173",
+      "number": "383-173",
+      "heading": "Beginning and termination of extended benefit period.",
+      "text": "Beginning and termination of extended benefit period.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-174",
+      "number": "383-174",
+      "heading": "Computations.",
+      "text": "Computations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-176",
+      "number": "383-176",
+      "heading": "Limitation of extended benefits by trade readjustment allowance.",
+      "text": "Limitation of extended benefits by trade readjustment allowance.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

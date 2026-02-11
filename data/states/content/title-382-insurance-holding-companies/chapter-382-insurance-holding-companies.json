@@ -1,0 +1,542 @@
+{
+  "state": "missouri",
+  "path": "title-382-insurance-holding-companies/chapter-382-insurance-holding-companies",
+  "sections": [
+    {
+      "id": "section-382010",
+      "number": "382.010",
+      "heading": "Definitions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382020",
+      "number": "382.020",
+      "heading": "Domestic insurers, authorized investments, ownership and management practices.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382030",
+      "number": "382.030",
+      "heading": "Disposal of investment required, when.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382040",
+      "number": "382.040",
+      "heading": "Securities of domestic insurers, regulation of trading in — divestment of a ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382050",
+      "number": "382.050",
+      "heading": "Statement, contents.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382060",
+      "number": "382.060",
+      "heading": "Approval of merger or acquisition of control, when — hearing, notice — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382070",
+      "number": "382.070",
+      "heading": "Excepted transactions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382080",
+      "number": "382.080",
+      "heading": "Prohibited acts.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382090",
+      "number": "382.090",
+      "heading": "Jurisdiction, acceptance of — service, how had.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382095",
+      "number": "382.095",
+      "heading": "Acquisitions where change of control of insurer, subject to order, when — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382100",
+      "number": "382.100",
+      "heading": "Registration required.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382110",
+      "number": "382.110",
+      "heading": "Registration, form, contents, exempted matter.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382120",
+      "number": "382.120",
+      "heading": "Information to be kept current, when changes reported.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382130",
+      "number": "382.130",
+      "heading": "Termination of registration, when.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382140",
+      "number": "382.140",
+      "heading": "Consolidated registration statements or amendments, when.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382150",
+      "number": "382.150",
+      "heading": "Registration for affiliates authorized.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382160",
+      "number": "382.160",
+      "heading": "Exemption from registration and reports, how and when.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382170",
+      "number": "382.170",
+      "heading": "Disclaimer of affiliation, effect of.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382175",
+      "number": "382.175",
+      "heading": "Enterprise risk report, contents, filing of, due date.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382176",
+      "number": "382.176",
+      "heading": "Group capital calculation, filing of report — exemptions — exceptions to ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382177",
+      "number": "382.177",
+      "heading": "Liquidity stress test, filing of — scope criteria — NAIC compliance.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382180",
+      "number": "382.180",
+      "heading": "Failure to file registration statement, summary, or enterprise risk report ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382190",
+      "number": "382.190",
+      "heading": "Transactions with affiliates, how conducted.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382195",
+      "number": "382.195",
+      "heading": "Prohibited transactions, exceptions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382200",
+      "number": "382.200",
+      "heading": "Reasonable surplus, how determined.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382210",
+      "number": "382.210",
+      "heading": "Extraordinary dividend, notice of — payment from earned surplus, when — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382220",
+      "number": "382.220",
+      "heading": "Director, powers of — insurer liable for examination costs.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382225",
+      "number": "382.225",
+      "heading": "Supervisory college, powers of director — insurer liable for expenses of ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382227",
+      "number": "382.227",
+      "heading": "Internationally active insurance group, director to act as supervisor or ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382230",
+      "number": "382.230",
+      "heading": "Certain information confidential, exception — private civil action, ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382240",
+      "number": "382.240",
+      "heading": "Rules and regulations, how issued.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382250",
+      "number": "382.250",
+      "heading": "Injunction, when authorized.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382260",
+      "number": "382.260",
+      "heading": "Illegally acquired securities, how treated — impending illegal ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382265",
+      "number": "382.265",
+      "heading": "Penalties, certain actions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382270",
+      "number": "382.270",
+      "heading": "Criminal proceedings, when and where commenced, penalty.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382275",
+      "number": "382.275",
+      "heading": "False reports, filing of, penalty.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382277",
+      "number": "382.277",
+      "heading": "Violation, basis for disapproving dividends or distributions and placing ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382280",
+      "number": "382.280",
+      "heading": "Director to take possession, when.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382285",
+      "number": "382.285",
+      "heading": "Liquidation or rehabilitation, effects — maximum amount recoverable — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382290",
+      "number": "382.290",
+      "heading": "Revocation of insurer's license, when.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382300",
+      "number": "382.300",
+      "heading": "Appeals from director's action, procedure.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382302",
+      "number": "382.302",
+      "heading": "Disposal of assets or insurer, notice to director — powers of director — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382400",
+      "number": "382.400",
+      "heading": "Definitions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382402",
+      "number": "382.402",
+      "heading": "Applicability of law.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382405",
+      "number": "382.405",
+      "heading": "Degree of control required, provisions applicable, exemptions — contract ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382407",
+      "number": "382.407",
+      "heading": "Notice to insured, producer to provide, contents.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382409",
+      "number": "382.409",
+      "heading": "Noncompliance with law, powers of director — receiver in liquidation, powers.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382500",
+      "number": "382.500",
+      "heading": "Applicability — findings of general assembly.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382505",
+      "number": "382.505",
+      "heading": "Definitions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382510",
+      "number": "382.510",
+      "heading": "Risk management framework to be maintained.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382515",
+      "number": "382.515",
+      "heading": "ORSA to be conducted, when.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382520",
+      "number": "382.520",
+      "heading": "ORSA summary report required, when, contents.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382525",
+      "number": "382.525",
+      "heading": "Exemptions — waiver — ORSA required, when.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382530",
+      "number": "382.530",
+      "heading": "ORSA summary report to be prepared consistent with ORSA guidance manual — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382535",
+      "number": "382.535",
+      "heading": "Information and ORSA summary report is proprietary and contains trade ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382540",
+      "number": "382.540",
+      "heading": "Violation, failure to file ORSA summary report.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382545",
+      "number": "382.545",
+      "heading": "Severability clause.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382550",
+      "number": "382.550",
+      "heading": "Effective date — first filing date.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382600",
+      "number": "382.600",
+      "heading": "Purpose — applicability.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382605",
+      "number": "382.605",
+      "heading": "Definitions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382610",
+      "number": "382.610",
+      "heading": "CGAD submitted to director, when — attestation required — information may ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382615",
+      "number": "382.615",
+      "heading": "CGAD inquiries, responses to — recordkeeping.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382620",
+      "number": "382.620",
+      "heading": "Documents, materials, and information recognized by state as proprietary ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382625",
+      "number": "382.625",
+      "heading": "Third-party consultants permitted, when — limitation on scope of authority ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382630",
+      "number": "382.630",
+      "heading": "Failure to timely file, penalty — enforcement.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382635",
+      "number": "382.635",
+      "heading": "Rulemaking authority.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382640",
+      "number": "382.640",
+      "heading": "Severability clause.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

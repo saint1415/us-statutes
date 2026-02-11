@@ -1,0 +1,5694 @@
+{
+  "state": "louisiana",
+  "path": "title-revised-statutes/chapter-title-14-criminal-law",
+  "sections": [
+    {
+      "id": "section-141",
+      "number": "14:1.",
+      "heading": "Method of citation",
+      "text": "Method of citation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142",
+      "number": "14:2.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143",
+      "number": "14:3.",
+      "heading": "Interpretation",
+      "text": "Interpretation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-144",
+      "number": "14:4.",
+      "heading": "Conduct made criminal under several articles; how prosecuted",
+      "text": "Conduct made criminal under several articles; how prosecuted",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-145",
+      "number": "14:5.",
+      "heading": "Lesser and included offenses",
+      "text": "Lesser and included offenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146",
+      "number": "14:6.",
+      "heading": "Civil remedies not affected",
+      "text": "Civil remedies not affected",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1442",
+      "number": "14:42.",
+      "heading": "First degree rape",
+      "text": "First degree rape",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14421",
+      "number": "14:42.1.",
+      "heading": "Second degree rape",
+      "text": "Second degree rape",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1443",
+      "number": "14:43.",
+      "heading": "Third degree rape",
+      "text": "Third degree rape",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14431",
+      "number": "14:43.1.",
+      "heading": "Sexual battery",
+      "text": "Sexual battery",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-144311",
+      "number": "14:43.1.1.",
+      "heading": "Misdemeanor sexual battery",
+      "text": "Misdemeanor sexual battery",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14432",
+      "number": "14:43.2.",
+      "heading": "Second degree sexual battery",
+      "text": "Second degree sexual battery",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14433",
+      "number": "14:43.3.",
+      "heading": "Oral sexual battery",
+      "text": "Oral sexual battery",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14434",
+      "number": "14:43.4.",
+      "heading": "Female genital mutilation",
+      "text": "Female genital mutilation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14435",
+      "number": "14:43.5.",
+      "heading": "Intentional exposure to HIV",
+      "text": "Intentional exposure to HIV",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14436",
+      "number": "14:43.6.",
+      "heading": "Administration of medroxyprogesterone acetate (MPA) to certain sex offenders",
+      "text": "Administration of medroxyprogesterone acetate (MPA) to certain sex offenders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14437",
+      "number": "14:43.7.",
+      "heading": "Administration of surgical castration for certain sex offenders; failure to comply with court order",
+      "text": "Administration of surgical castration for certain sex offenders; failure to comply with court order",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1410013",
+      "number": "14:100.13.",
+      "heading": "Operating a vehicle without lawful presence in the United States",
+      "text": "Operating a vehicle without lawful presence in the United States",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1410014",
+      "number": "14:100.14.",
+      "heading": "Giving false information regarding lawful presence in the United States in order to obtain a driver's license",
+      "text": "Giving false information regarding lawful presence in the United States in order to obtain a driver's license",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-147",
+      "number": "14:7.",
+      "heading": "Crime defined",
+      "text": "Crime defined",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-148",
+      "number": "14:8.",
+      "heading": "Criminal conduct",
+      "text": "Criminal conduct",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149",
+      "number": "14:9.",
+      "heading": "Criminal consequences",
+      "text": "Criminal consequences",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1410",
+      "number": "14:10.",
+      "heading": "Criminal intent",
+      "text": "Criminal intent",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1411",
+      "number": "14:11.",
+      "heading": "Criminal intent; how expressed",
+      "text": "Criminal intent; how expressed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1412",
+      "number": "14:12.",
+      "heading": "Criminal negligence",
+      "text": "Criminal negligence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1413",
+      "number": "14:13.",
+      "heading": "Infancy",
+      "text": "Infancy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1414",
+      "number": "14:14.",
+      "heading": "Insanity",
+      "text": "Insanity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1415",
+      "number": "14:15.",
+      "heading": "Intoxication",
+      "text": "Intoxication",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1416",
+      "number": "14:16.",
+      "heading": "Mistake of fact",
+      "text": "Mistake of fact",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1417",
+      "number": "14:17.",
+      "heading": "Mistake of law",
+      "text": "Mistake of law",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1418",
+      "number": "14:18.",
+      "heading": "Justification; general provisions",
+      "text": "Justification; general provisions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1419",
+      "number": "14:19.",
+      "heading": "Use of force or violence in defense",
+      "text": "Use of force or violence in defense",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1420",
+      "number": "14:20.",
+      "heading": "Justifiable homicide",
+      "text": "Justifiable homicide",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14201",
+      "number": "14:20.1.",
+      "heading": "Investigation of death due to violence or suspicious circumstances when claim of self-defense is raised",
+      "text": "Investigation of death due to violence or suspicious circumstances when claim of self-defense is raised",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1421",
+      "number": "14:21.",
+      "heading": "Aggressor cannot claim self defense",
+      "text": "Aggressor cannot claim self defense",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1422",
+      "number": "14:22.",
+      "heading": "Defense of others",
+      "text": "Defense of others",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1423",
+      "number": "14:23.",
+      "heading": "Parties classified",
+      "text": "Parties classified",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1424",
+      "number": "14:24.",
+      "heading": "Principals",
+      "text": "Principals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1425",
+      "number": "14:25.",
+      "heading": "Accessories after the fact",
+      "text": "Accessories after the fact",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1426",
+      "number": "14:26.",
+      "heading": "Criminal conspiracy",
+      "text": "Criminal conspiracy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1427",
+      "number": "14:27.",
+      "heading": "Attempt; penalties; attempt on peace officer; enhanced penalties",
+      "text": "Attempt; penalties; attempt on peace officer; enhanced penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1428",
+      "number": "14:28.",
+      "heading": "Inciting a felony",
+      "text": "Inciting a felony",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14281",
+      "number": "14:28.1.",
+      "heading": "Solicitation for murder",
+      "text": "Solicitation for murder",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1429",
+      "number": "14:29.",
+      "heading": "Homicide",
+      "text": "Homicide",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1430",
+      "number": "14:30.",
+      "heading": "First degree murder",
+      "text": "First degree murder",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14301",
+      "number": "14:30.1.",
+      "heading": "Second degree murder",
+      "text": "Second degree murder",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1431",
+      "number": "14:31.",
+      "heading": "Manslaughter",
+      "text": "Manslaughter",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1432",
+      "number": "14:32.",
+      "heading": "Negligent homicide",
+      "text": "Negligent homicide",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14321",
+      "number": "14:32.1.",
+      "heading": "Vehicular homicide",
+      "text": "Vehicular homicide",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14325",
+      "number": "14:32.5.",
+      "heading": "Feticide defined; exceptions",
+      "text": "Feticide defined; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14326",
+      "number": "14:32.6.",
+      "heading": "First degree feticide",
+      "text": "First degree feticide",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14327",
+      "number": "14:32.7.",
+      "heading": "Second degree feticide",
+      "text": "Second degree feticide",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14328",
+      "number": "14:32.8.",
+      "heading": "Third degree feticide",
+      "text": "Third degree feticide",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14329",
+      "number": "14:32.9.",
+      "heading": "Redesignated as R.S. 14:87.10 by Acts 2022, No. 545, §6A.",
+      "text": "Redesignated as R.S. 14:87.10 by Acts 2022, No. 545, §6A.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143291",
+      "number": "14:32.9.1.",
+      "heading": "Redesignated as R.S. 14:87.11 by Acts 2022, No. 545, §6A.",
+      "text": "Redesignated as R.S. 14:87.11 by Acts 2022, No. 545, §6A.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143210",
+      "number": "14:32.10.",
+      "heading": "Repealed by Acts 2022, No. 545, §4.",
+      "text": "Repealed by Acts 2022, No. 545, §4.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143211",
+      "number": "14:32.11.",
+      "heading": "Redesignated as R.S. 14:87.12 by Acts 2022, No. 545, §6A.",
+      "text": "Redesignated as R.S. 14:87.12 by Acts 2022, No. 545, §6A.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143212",
+      "number": "14:32.12.",
+      "heading": "Criminal assistance to suicide",
+      "text": "Criminal assistance to suicide",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1433",
+      "number": "14:33.",
+      "heading": "Battery defined",
+      "text": "Battery defined",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1434",
+      "number": "14:34.",
+      "heading": "Aggravated battery",
+      "text": "Aggravated battery",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14341",
+      "number": "14:34.1.",
+      "heading": "Second degree battery",
+      "text": "Second degree battery",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14342",
+      "number": "14:34.2.",
+      "heading": "Battery of a police officer",
+      "text": "Battery of a police officer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14343",
+      "number": "14:34.3.",
+      "heading": "Battery of a school teacher",
+      "text": "Battery of a school teacher",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14344",
+      "number": "14:34.4.",
+      "heading": "Battery of a school or recreation athletic contest official",
+      "text": "Battery of a school or recreation athletic contest official",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14345",
+      "number": "14:34.5.",
+      "heading": "Battery of a correctional facility employee",
+      "text": "Battery of a correctional facility employee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143451",
+      "number": "14:34.5.1.",
+      "heading": "Battery of a bus operator",
+      "text": "Battery of a bus operator",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14346",
+      "number": "14:34.6.",
+      "heading": "Disarming of a peace officer",
+      "text": "Disarming of a peace officer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14347",
+      "number": "14:34.7.",
+      "heading": "Aggravated second degree battery",
+      "text": "Aggravated second degree battery",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14348",
+      "number": "14:34.8.",
+      "heading": "Battery of emergency room personnel, emergency services personnel, or a healthcare professional",
+      "text": "Battery of emergency room personnel, emergency services personnel, or a healthcare professional",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14349",
+      "number": "14:34.9.",
+      "heading": "Battery of a dating partner",
+      "text": "Battery of a dating partner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143491",
+      "number": "14:34.9.1.",
+      "heading": "Aggravated assault upon a dating partner",
+      "text": "Aggravated assault upon a dating partner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1435",
+      "number": "14:35.",
+      "heading": "Simple battery",
+      "text": "Simple battery",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14351",
+      "number": "14:35.1.",
+      "heading": "Battery of a child welfare or adult protective service worker",
+      "text": "Battery of a child welfare or adult protective service worker",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14352",
+      "number": "14:35.2.",
+      "heading": "Simple battery of persons with infirmities",
+      "text": "Simple battery of persons with infirmities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14353",
+      "number": "14:35.3.",
+      "heading": "Domestic abuse battery",
+      "text": "Domestic abuse battery",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1436",
+      "number": "14:36.",
+      "heading": "Assault defined",
+      "text": "Assault defined",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1437",
+      "number": "14:37.",
+      "heading": "Aggravated assault",
+      "text": "Aggravated assault",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14371",
+      "number": "14:37.1.",
+      "heading": "Assault by drive-by shooting",
+      "text": "Assault by drive-by shooting",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14372",
+      "number": "14:37.2.",
+      "heading": "Aggravated assault upon a peace officer",
+      "text": "Aggravated assault upon a peace officer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14373",
+      "number": "14:37.3.",
+      "heading": "Unlawful use of a laser on a police officer",
+      "text": "Unlawful use of a laser on a police officer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14374",
+      "number": "14:37.4.",
+      "heading": "Aggravated assault with a firearm",
+      "text": "Aggravated assault with a firearm",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14375",
+      "number": "14:37.5.",
+      "heading": "Aggravated assault upon a utility service employee with a firearm",
+      "text": "Aggravated assault upon a utility service employee with a firearm",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14376",
+      "number": "14:37.6.",
+      "heading": "Aggravated assault with a motor vehicle upon a peace officer",
+      "text": "Aggravated assault with a motor vehicle upon a peace officer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14377",
+      "number": "14:37.7.",
+      "heading": "Domestic abuse aggravated assault",
+      "text": "Domestic abuse aggravated assault",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1438",
+      "number": "14:38.",
+      "heading": "Simple assault",
+      "text": "Simple assault",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14381",
+      "number": "14:38.1.",
+      "heading": "Mingling harmful substances",
+      "text": "Mingling harmful substances",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143811",
+      "number": "14:38.1.1.",
+      "heading": "Adulterating a food product",
+      "text": "Adulterating a food product",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14382",
+      "number": "14:38.2.",
+      "heading": "Assault on a school teacher",
+      "text": "Assault on a school teacher",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14383",
+      "number": "14:38.3.",
+      "heading": "Assault on a child welfare worker",
+      "text": "Assault on a child welfare worker",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14384",
+      "number": "14:38.4.",
+      "heading": "Harassment of a school or recreation athletic contest official",
+      "text": "Harassment of a school or recreation athletic contest official",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14385",
+      "number": "14:38.5.",
+      "heading": "Assault on emergency room personnel, emergency services personnel, or a healthcare professional",
+      "text": "Assault on emergency room personnel, emergency services personnel, or a healthcare professional",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1439",
+      "number": "14:39.",
+      "heading": "Negligent injuring",
+      "text": "Negligent injuring",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14391",
+      "number": "14:39.1.",
+      "heading": "Vehicular negligent injuring",
+      "text": "Vehicular negligent injuring",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14392",
+      "number": "14:39.2.",
+      "heading": "First degree vehicular negligent injuring",
+      "text": "First degree vehicular negligent injuring",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1440",
+      "number": "14:40.",
+      "heading": "Intimidation by officers",
+      "text": "Intimidation by officers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14401",
+      "number": "14:40.1.",
+      "heading": "Terrorizing; menacing",
+      "text": "Terrorizing; menacing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14402",
+      "number": "14:40.2.",
+      "heading": "Stalking",
+      "text": "Stalking",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14403",
+      "number": "14:40.3.",
+      "heading": "Cyberstalking",
+      "text": "Cyberstalking",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14404",
+      "number": "14:40.4.",
+      "heading": "Burning cross on property of another or public place; intent to intimidate",
+      "text": "Burning cross on property of another or public place; intent to intimidate",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14405",
+      "number": "14:40.5.",
+      "heading": "Public display of a noose on property of another or public place; intent to intimidate",
+      "text": "Public display of a noose on property of another or public place; intent to intimidate",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14406",
+      "number": "14:40.6.",
+      "heading": "Unlawful disruption of the operation of a school; penalties",
+      "text": "Unlawful disruption of the operation of a school; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14407",
+      "number": "14:40.7.",
+      "heading": "Cyberbullying",
+      "text": "Cyberbullying",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14408",
+      "number": "14:40.8.",
+      "heading": "Criminal hazing",
+      "text": "Criminal hazing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14409",
+      "number": "14:40.9.",
+      "heading": "Unlawful disruption of the operation of a healthcare facility",
+      "text": "Unlawful disruption of the operation of a healthcare facility",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1441",
+      "number": "14:41.",
+      "heading": "Rape; defined",
+      "text": "Rape; defined",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14411",
+      "number": "14:41.1.",
+      "heading": "Consent; victim in police custody",
+      "text": "Consent; victim in police custody",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1444",
+      "number": "14:44.",
+      "heading": "Aggravated kidnapping",
+      "text": "Aggravated kidnapping",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14441",
+      "number": "14:44.1.",
+      "heading": "Second degree kidnapping",
+      "text": "Second degree kidnapping",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14442",
+      "number": "14:44.2.",
+      "heading": "Aggravated kidnapping of a child",
+      "text": "Aggravated kidnapping of a child",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1445",
+      "number": "14:45.",
+      "heading": "Simple kidnapping",
+      "text": "Simple kidnapping",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14451",
+      "number": "14:45.1.",
+      "heading": "Interference with the custody of a child",
+      "text": "Interference with the custody of a child",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1446",
+      "number": "14:46.",
+      "heading": "False imprisonment",
+      "text": "False imprisonment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14461",
+      "number": "14:46.1.",
+      "heading": "False imprisonment; offender armed with dangerous weapon",
+      "text": "False imprisonment; offender armed with dangerous weapon",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14462",
+      "number": "14:46.2.",
+      "heading": "Human trafficking",
+      "text": "Human trafficking",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14463",
+      "number": "14:46.3.",
+      "heading": "Trafficking of children for sexual purposes",
+      "text": "Trafficking of children for sexual purposes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14464",
+      "number": "14:46.4.",
+      "heading": "Re-homing of a child",
+      "text": "Re-homing of a child",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1447",
+      "number": "14:47.",
+      "heading": "Repealed by Acts 2021, No. 60, §1.",
+      "text": "Repealed by Acts 2021, No. 60, §1.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1448",
+      "number": "14:48.",
+      "heading": "Repealed by Acts 2021, No. 60, §1.",
+      "text": "Repealed by Acts 2021, No. 60, §1.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1449",
+      "number": "14:49.",
+      "heading": "Repealed by Acts 2021, No. 60, §1.",
+      "text": "Repealed by Acts 2021, No. 60, §1.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1450",
+      "number": "14:50.",
+      "heading": "Repealed by Acts 2021, No. 60, §1.",
+      "text": "Repealed by Acts 2021, No. 60, §1.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14501",
+      "number": "14:50.1.",
+      "heading": "Repealed by Acts 2008, No. 220, §13, eff. June 14, 2008.",
+      "text": "Repealed by Acts 2008, No. 220, §13, eff. June 14, 2008.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14502",
+      "number": "14:50.2.",
+      "heading": "Perpetration or attempted perpetration of certain crimes of violence against a victim sixty-five years of age or older",
+      "text": "Perpetration or attempted perpetration of certain crimes of violence against a victim sixty-five years of age or older",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1451",
+      "number": "14:51.",
+      "heading": "Aggravated arson",
+      "text": "Aggravated arson",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14511",
+      "number": "14:51.1.",
+      "heading": "Injury by arson",
+      "text": "Injury by arson",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1452",
+      "number": "14:52.",
+      "heading": "Simple arson",
+      "text": "Simple arson",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14521",
+      "number": "14:52.1.",
+      "heading": "Simple arson of a religious building",
+      "text": "Simple arson of a religious building",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14522",
+      "number": "14:52.2.",
+      "heading": "Negligent arson",
+      "text": "Negligent arson",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1453",
+      "number": "14:53.",
+      "heading": "Arson with intent to defraud",
+      "text": "Arson with intent to defraud",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1454",
+      "number": "14:54.",
+      "heading": "Repealed by Acts 2008, No. 220, §13, eff. June 14, 2008.",
+      "text": "Repealed by Acts 2008, No. 220, §13, eff. June 14, 2008.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14541",
+      "number": "14:54.1.",
+      "heading": "Communicating of false information of planned arson",
+      "text": "Communicating of false information of planned arson",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14542",
+      "number": "14:54.2.",
+      "heading": "Manufacture and possession of delayed action incendiary devices; penalty",
+      "text": "Manufacture and possession of delayed action incendiary devices; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14543",
+      "number": "14:54.3.",
+      "heading": "Manufacture and possession of a bomb",
+      "text": "Manufacture and possession of a bomb",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14544",
+      "number": "14:54.4.",
+      "heading": "Forfeitures",
+      "text": "Forfeitures",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14545",
+      "number": "14:54.5.",
+      "heading": "Fake explosive device",
+      "text": "Fake explosive device",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14546",
+      "number": "14:54.6.",
+      "heading": "Communicating of false information of planned bombing on school property, at a school-sponsored function, or in a firearm-free zone",
+      "text": "Communicating of false information of planned bombing on school property, at a school-sponsored function, or in a firearm-free zone",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1455",
+      "number": "14:55.",
+      "heading": "Aggravated criminal damage to property",
+      "text": "Aggravated criminal damage to property",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1456",
+      "number": "14:56.",
+      "heading": "Simple criminal damage to property",
+      "text": "Simple criminal damage to property",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14561",
+      "number": "14:56.1.",
+      "heading": "Repealed by Acts 2017, No. 281, §3.",
+      "text": "Repealed by Acts 2017, No. 281, §3.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14562",
+      "number": "14:56.2.",
+      "heading": "Repealed by Acts 2017, No. 281, §3.",
+      "text": "Repealed by Acts 2017, No. 281, §3.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14563",
+      "number": "14:56.3.",
+      "heading": "Repealed by Acts 2017, No. 281, §3.",
+      "text": "Repealed by Acts 2017, No. 281, §3.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14564",
+      "number": "14:56.4.",
+      "heading": "Criminal damage to property by defacing with graffiti",
+      "text": "Criminal damage to property by defacing with graffiti",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14565",
+      "number": "14:56.5.",
+      "heading": "Criminal damage to historic buildings or landmarks by defacing with graffiti",
+      "text": "Criminal damage to historic buildings or landmarks by defacing with graffiti",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1457",
+      "number": "14:57.",
+      "heading": "Damage to property with intent to defraud",
+      "text": "Damage to property with intent to defraud",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14571",
+      "number": "14:57.1.",
+      "heading": "Vandalizing, tampering with, or destroying a crime camera system",
+      "text": "Vandalizing, tampering with, or destroying a crime camera system",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1458",
+      "number": "14:58.",
+      "heading": "Contaminating water supplies",
+      "text": "Contaminating water supplies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1459",
+      "number": "14:59.",
+      "heading": "Criminal mischief",
+      "text": "Criminal mischief",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1460",
+      "number": "14:60.",
+      "heading": "Aggravated burglary",
+      "text": "Aggravated burglary",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1461",
+      "number": "14:61.",
+      "heading": "Unauthorized entry of a critical infrastructure",
+      "text": "Unauthorized entry of a critical infrastructure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14611",
+      "number": "14:61.1.",
+      "heading": "Criminal damage to a critical infrastructure",
+      "text": "Criminal damage to a critical infrastructure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1462",
+      "number": "14:62.",
+      "heading": "Simple burglary",
+      "text": "Simple burglary",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14621",
+      "number": "14:62.1.",
+      "heading": "Repealed by Acts 2017, No. 281, §3.",
+      "text": "Repealed by Acts 2017, No. 281, §3.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14622",
+      "number": "14:62.2.",
+      "heading": "Simple burglary of an inhabited dwelling",
+      "text": "Simple burglary of an inhabited dwelling",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14623",
+      "number": "14:62.3.",
+      "heading": "Unauthorized entry of an inhabited dwelling",
+      "text": "Unauthorized entry of an inhabited dwelling",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14624",
+      "number": "14:62.4.",
+      "heading": "Unauthorized entry of a place of business",
+      "text": "Unauthorized entry of a place of business",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14625",
+      "number": "14:62.5.",
+      "heading": "Looting",
+      "text": "Looting",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14626",
+      "number": "14:62.6.",
+      "heading": "Repealed by Acts 2017, No. 281, §3.",
+      "text": "Repealed by Acts 2017, No. 281, §3.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14627",
+      "number": "14:62.7.",
+      "heading": "Unauthorized entry of a dwelling during an emergency or disaster",
+      "text": "Unauthorized entry of a dwelling during an emergency or disaster",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14628",
+      "number": "14:62.8.",
+      "heading": "Home invasion",
+      "text": "Home invasion",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14629",
+      "number": "14:62.9.",
+      "heading": "Repealed by Acts 2017, No. 281, §3.",
+      "text": "Repealed by Acts 2017, No. 281, §3.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1463",
+      "number": "14:63.",
+      "heading": "Criminal trespass; squatters",
+      "text": "Criminal trespass; squatters",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14631",
+      "number": "14:63.1.",
+      "heading": "Repealed by Acts 2003, No. 802, §2.",
+      "text": "Repealed by Acts 2003, No. 802, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14632",
+      "number": "14:63.2.",
+      "heading": "Repealed by Acts 2003, No. 802, §2.",
+      "text": "Repealed by Acts 2003, No. 802, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14633",
+      "number": "14:63.3.",
+      "heading": "Entry on or remaining in places or on land after being forbidden",
+      "text": "Entry on or remaining in places or on land after being forbidden",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14634",
+      "number": "14:63.4.",
+      "heading": "Aiding and abetting others to enter or remain on premises where forbidden",
+      "text": "Aiding and abetting others to enter or remain on premises where forbidden",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14635",
+      "number": "14:63.5.",
+      "heading": "Entry or remaining on site of a school or recreation athletic contest after being forbidden",
+      "text": "Entry or remaining on site of a school or recreation athletic contest after being forbidden",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14636",
+      "number": "14:63.6.",
+      "heading": "Repealed by Acts 2003, No. 802, §2.",
+      "text": "Repealed by Acts 2003, No. 802, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14637",
+      "number": "14:63.7.",
+      "heading": "Repealed by Acts 2003, No. 802, §2.",
+      "text": "Repealed by Acts 2003, No. 802, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14638",
+      "number": "14:63.8.",
+      "heading": "Repealed by Acts 2003, No. 802, §2.",
+      "text": "Repealed by Acts 2003, No. 802, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14639",
+      "number": "14:63.9.",
+      "heading": "Repealed by Acts 2003, No. 802, §2.",
+      "text": "Repealed by Acts 2003, No. 802, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146310",
+      "number": "14:63.10.",
+      "heading": "Repealed by Acts 2003, No. 802, §2.",
+      "text": "Repealed by Acts 2003, No. 802, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146311",
+      "number": "14:63.11.",
+      "heading": "Repealed by Acts 1981, No. 78, §3, eff. Jan. 1, 1982.",
+      "text": "Repealed by Acts 1981, No. 78, §3, eff. Jan. 1, 1982.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146312",
+      "number": "14:63.12.",
+      "heading": "Repealed by Acts 2003, No. 802, §2.",
+      "text": "Repealed by Acts 2003, No. 802, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1464",
+      "number": "14:64.",
+      "heading": "Armed robbery",
+      "text": "Armed robbery",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14641",
+      "number": "14:64.1.",
+      "heading": "First degree robbery",
+      "text": "First degree robbery",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14642",
+      "number": "14:64.2.",
+      "heading": "Carjacking",
+      "text": "Carjacking",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146421",
+      "number": "14:64.2.1.",
+      "heading": "Carjacking; recruitment of juveniles",
+      "text": "Carjacking; recruitment of juveniles",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14643",
+      "number": "14:64.3.",
+      "heading": "Armed robbery; attempted armed robbery; use of firearm; additional penalty",
+      "text": "Armed robbery; attempted armed robbery; use of firearm; additional penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14644",
+      "number": "14:64.4.",
+      "heading": "Second degree robbery",
+      "text": "Second degree robbery",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1465",
+      "number": "14:65.",
+      "heading": "Simple robbery",
+      "text": "Simple robbery",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14651",
+      "number": "14:65.1.",
+      "heading": "Purse snatching",
+      "text": "Purse snatching",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1466",
+      "number": "14:66.",
+      "heading": "Extortion",
+      "text": "Extortion",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1467",
+      "number": "14:67.",
+      "heading": "Theft",
+      "text": "Theft",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14671",
+      "number": "14:67.1.",
+      "heading": "Theft of livestock",
+      "text": "Theft of livestock",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14672",
+      "number": "14:67.2.",
+      "heading": "Theft of timber",
+      "text": "Theft of timber",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14673",
+      "number": "14:67.3.",
+      "heading": "False statements and false or altered documents; unclaimed property claim",
+      "text": "False statements and false or altered documents; unclaimed property claim",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14674",
+      "number": "14:67.4.",
+      "heading": "Anti-Skimming Act",
+      "text": "Anti-Skimming Act",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14675",
+      "number": "14:67.5.",
+      "heading": "Adoption deception",
+      "text": "Adoption deception",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14676",
+      "number": "14:67.6.",
+      "heading": "Mail theft",
+      "text": "Mail theft",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14677",
+      "number": "14:67.7.",
+      "heading": "Theft or unauthorized reproduction of a mail receptacle key or lock",
+      "text": "Theft or unauthorized reproduction of a mail receptacle key or lock",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14678",
+      "number": "14:67.8.",
+      "heading": "Repealed by Acts 2017, No. 281, §3.",
+      "text": "Repealed by Acts 2017, No. 281, §3.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14679",
+      "number": "14:67.9.",
+      "heading": "Repealed by Acts 2017, No. 281, §3.",
+      "text": "Repealed by Acts 2017, No. 281, §3.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146710",
+      "number": "14:67.10.",
+      "heading": "Repealed by Acts 2017, No. 281, §3.",
+      "text": "Repealed by Acts 2017, No. 281, §3.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146711",
+      "number": "14:67.11.",
+      "heading": "Credit card fraud by persons authorized to provide goods and services",
+      "text": "Credit card fraud by persons authorized to provide goods and services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146712",
+      "number": "14:67.12.",
+      "heading": "Theft of a catalytic converter or engine control module",
+      "text": "Theft of a catalytic converter or engine control module",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146713",
+      "number": "14:67.13.",
+      "heading": "Theft or criminal access of an automated teller machine",
+      "text": "Theft or criminal access of an automated teller machine",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146714",
+      "number": "14:67.14.",
+      "heading": "Repealed by Acts 2014, No. 255, §3.",
+      "text": "Repealed by Acts 2014, No. 255, §3.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146715",
+      "number": "14:67.15.",
+      "heading": "Theft of a firearm",
+      "text": "Theft of a firearm",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146716",
+      "number": "14:67.16.",
+      "heading": "Identity theft",
+      "text": "Identity theft",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146717",
+      "number": "14:67.17.",
+      "heading": "Repealed by Acts 2014, No. 255, §3.",
+      "text": "Repealed by Acts 2014, No. 255, §3.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146718",
+      "number": "14:67.18.",
+      "heading": "Repealed by Acts 2017, No. 281, §3.",
+      "text": "Repealed by Acts 2017, No. 281, §3.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146719",
+      "number": "14:67.19.",
+      "heading": "Theft of anhydrous ammonia",
+      "text": "Theft of anhydrous ammonia",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1467191",
+      "number": "14:67.19.1.",
+      "heading": "Unauthorized possession of anhydrous ammonia",
+      "text": "Unauthorized possession of anhydrous ammonia",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146720",
+      "number": "14:67.20.",
+      "heading": "Repealed by Acts 2017, No. 281, §3.",
+      "text": "Repealed by Acts 2017, No. 281, §3.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146721",
+      "number": "14:67.21.",
+      "heading": "Repealed by Acts 2017, No. 281, §3.",
+      "text": "Repealed by Acts 2017, No. 281, §3.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146722",
+      "number": "14:67.22.",
+      "heading": "Fraudulent acquisition of a credit card",
+      "text": "Fraudulent acquisition of a credit card",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146723",
+      "number": "14:67.23.",
+      "heading": "Repealed by Acts 2014, No. 255, §3.",
+      "text": "Repealed by Acts 2014, No. 255, §3.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146724",
+      "number": "14:67.24.",
+      "heading": "Theft of critical infrastructure",
+      "text": "Theft of critical infrastructure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146725",
+      "number": "14:67.25.",
+      "heading": "Organized retail theft",
+      "text": "Organized retail theft",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146726",
+      "number": "14:67.26.",
+      "heading": "Theft of a motor vehicle",
+      "text": "Theft of a motor vehicle",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146727",
+      "number": "14:67.27.",
+      "heading": "Repealed by Acts 2014, No. 255, §3.",
+      "text": "Repealed by Acts 2014, No. 255, §3.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146728",
+      "number": "14:67.28.",
+      "heading": "Repealed by Acts 2017, No. 281, §3.",
+      "text": "Repealed by Acts 2017, No. 281, §3.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146729",
+      "number": "14:67.29.",
+      "heading": "False personation of a veteran or fraudulent representation of a veteran-owned business",
+      "text": "False personation of a veteran or fraudulent representation of a veteran-owned business",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146730",
+      "number": "14:67.30.",
+      "heading": "Repealed by Acts 2017, No. 281, §3.",
+      "text": "Repealed by Acts 2017, No. 281, §3.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1468",
+      "number": "14:68.",
+      "heading": "Unauthorized use of a movable",
+      "text": "Unauthorized use of a movable",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14681",
+      "number": "14:68.1.",
+      "heading": "Unauthorized removal of shopping cart, basket, or dairy case",
+      "text": "Unauthorized removal of shopping cart, basket, or dairy case",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14682",
+      "number": "14:68.2.",
+      "heading": "Unauthorized use of supplemental nutrition assistance program benefits or supplemental nutrition assistance program benefit access devices",
+      "text": "Unauthorized use of supplemental nutrition assistance program benefits or supplemental nutrition assistance program benefit access devices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146821",
+      "number": "14:68.2.1.",
+      "heading": "Failure to report unauthorized use of supplemental nutrition assistance program benefits; penalties",
+      "text": "Failure to report unauthorized use of supplemental nutrition assistance program benefits; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14683",
+      "number": "14:68.3.",
+      "heading": "Unauthorized removal of a motor vehicle; penalties",
+      "text": "Unauthorized removal of a motor vehicle; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14684",
+      "number": "14:68.4.",
+      "heading": "Unauthorized use of a motor vehicle",
+      "text": "Unauthorized use of a motor vehicle",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146841",
+      "number": "14:68.4.1.",
+      "heading": "Staging of a motor vehicle collision",
+      "text": "Staging of a motor vehicle collision",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146842",
+      "number": "14:68.4.2.",
+      "heading": "Aggravated staging of a motor vehicle collision",
+      "text": "Aggravated staging of a motor vehicle collision",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14685",
+      "number": "14:68.5.",
+      "heading": "Repealed by Acts 2017, No. 281, §3.",
+      "text": "Repealed by Acts 2017, No. 281, §3.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14686",
+      "number": "14:68.6.",
+      "heading": "Unauthorized ordering of goods or services",
+      "text": "Unauthorized ordering of goods or services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14687",
+      "number": "14:68.7.",
+      "heading": "Receipts and universal product code labels; unlawful acts",
+      "text": "Receipts and universal product code labels; unlawful acts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1469",
+      "number": "14:69.",
+      "heading": "Illegal possession of stolen things",
+      "text": "Illegal possession of stolen things",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14691",
+      "number": "14:69.1.",
+      "heading": "Illegal possession of stolen firearms",
+      "text": "Illegal possession of stolen firearms",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1470",
+      "number": "14:70.",
+      "heading": "False accounting",
+      "text": "False accounting",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14701",
+      "number": "14:70.1.",
+      "heading": "Medicaid fraud",
+      "text": "Medicaid fraud",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14702",
+      "number": "14:70.2.",
+      "heading": "Refund or access device application fraud",
+      "text": "Refund or access device application fraud",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14703",
+      "number": "14:70.3.",
+      "heading": "Fraud in selling agricultural equipment",
+      "text": "Fraud in selling agricultural equipment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14704",
+      "number": "14:70.4.",
+      "heading": "Access device fraud",
+      "text": "Access device fraud",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14705",
+      "number": "14:70.5.",
+      "heading": "Fraudulent remuneration",
+      "text": "Fraudulent remuneration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14706",
+      "number": "14:70.6.",
+      "heading": "Unlawful distribution, possession, or use of theft alarm deactivation devices",
+      "text": "Unlawful distribution, possession, or use of theft alarm deactivation devices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14707",
+      "number": "14:70.7.",
+      "heading": "Unlawful production, manufacturing, distribution, or possession of fraudulent documents for identification purposes",
+      "text": "Unlawful production, manufacturing, distribution, or possession of fraudulent documents for identification purposes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14708",
+      "number": "14:70.8.",
+      "heading": "Illegal transmission of monetary funds",
+      "text": "Illegal transmission of monetary funds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14709",
+      "number": "14:70.9.",
+      "heading": "Government benefits fraud",
+      "text": "Government benefits fraud",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1471",
+      "number": "14:71.",
+      "heading": "Issuing worthless checks",
+      "text": "Issuing worthless checks",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14711",
+      "number": "14:71.1.",
+      "heading": "Bank fraud",
+      "text": "Bank fraud",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14712",
+      "number": "14:71.2.",
+      "heading": "Failure to pay bridge or bridge-causeway toll",
+      "text": "Failure to pay bridge or bridge-causeway toll",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14713",
+      "number": "14:71.3.",
+      "heading": "Mortgage fraud",
+      "text": "Mortgage fraud",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-147131",
+      "number": "14:71.3.1.",
+      "heading": "Repealed by Acts 2024, No. 738, §3, eff. Jan. 1, 2026.",
+      "text": "Repealed by Acts 2024, No. 738, §3, eff. Jan. 1, 2026.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-147132",
+      "number": "14:71.3.2.",
+      "heading": "Tax lien property fraud",
+      "text": "Tax lien property fraud",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14714",
+      "number": "14:71.4.",
+      "heading": "Homestead exemption fraud",
+      "text": "Homestead exemption fraud",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14715",
+      "number": "14:71.5.",
+      "heading": "Misappropriation of funds; utility services",
+      "text": "Misappropriation of funds; utility services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1472",
+      "number": "14:72.",
+      "heading": "Forgery",
+      "text": "Forgery",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14721",
+      "number": "14:72.1.",
+      "heading": "Use of forged academic records",
+      "text": "Use of forged academic records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-147211",
+      "number": "14:72.1.1.",
+      "heading": "Forgery of a certificate of insurance or insurance identification card; penalties",
+      "text": "Forgery of a certificate of insurance or insurance identification card; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14722",
+      "number": "14:72.2.",
+      "heading": "Monetary instrument abuse",
+      "text": "Monetary instrument abuse",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14723",
+      "number": "14:72.3.",
+      "heading": "Identification of alleged offender",
+      "text": "Identification of alleged offender",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14724",
+      "number": "14:72.4.",
+      "heading": "Disposal of property with fraudulent or malicious intent",
+      "text": "Disposal of property with fraudulent or malicious intent",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14725",
+      "number": "14:72.5.",
+      "heading": "Unlawful production, manufacture, distribution or possession of fraudulent postsecondary education degree",
+      "text": "Unlawful production, manufacture, distribution or possession of fraudulent postsecondary education degree",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14726",
+      "number": "14:72.6.",
+      "heading": "Forgery of a motor vehicle inspection certificate; penalties",
+      "text": "Forgery of a motor vehicle inspection certificate; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1473",
+      "number": "14:73.",
+      "heading": "Commercial bribery",
+      "text": "Commercial bribery",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14731",
+      "number": "14:73.1.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14732",
+      "number": "14:73.2.",
+      "heading": "Offenses against intellectual property",
+      "text": "Offenses against intellectual property",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14733",
+      "number": "14:73.3.",
+      "heading": "Offenses against computer equipment or supplies",
+      "text": "Offenses against computer equipment or supplies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14734",
+      "number": "14:73.4.",
+      "heading": "Offenses against computer users",
+      "text": "Offenses against computer users",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14735",
+      "number": "14:73.5.",
+      "heading": "Computer fraud",
+      "text": "Computer fraud",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14736",
+      "number": "14:73.6.",
+      "heading": "Offenses against electronic mail service provider",
+      "text": "Offenses against electronic mail service provider",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14737",
+      "number": "14:73.7.",
+      "heading": "Computer tampering",
+      "text": "Computer tampering",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14738",
+      "number": "14:73.8.",
+      "heading": "Unauthorized use of a wireless router system; child sexual abuse materials; penalty",
+      "text": "Unauthorized use of a wireless router system; child sexual abuse materials; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14739",
+      "number": "14:73.9.",
+      "heading": "Criminal use of Internet, virtual, street-map; enhanced penalties",
+      "text": "Criminal use of Internet, virtual, street-map; enhanced penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-147310",
+      "number": "14:73.10.",
+      "heading": "Online impersonation",
+      "text": "Online impersonation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-147311",
+      "number": "14:73.11.",
+      "heading": "Communication interference",
+      "text": "Communication interference",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-147312",
+      "number": "14:73.12.",
+      "heading": "Trespass against state computers",
+      "text": "Trespass against state computers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-147313",
+      "number": "14:73.13.",
+      "heading": "Unlawful deepfakes",
+      "text": "Unlawful deepfakes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-147314",
+      "number": "14:73.14.",
+      "heading": "Unlawful dissemination or sale of images of another created by artificial intelligence",
+      "text": "Unlawful dissemination or sale of images of another created by artificial intelligence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1474",
+      "number": "14:74.",
+      "heading": "Criminal neglect of family",
+      "text": "Criminal neglect of family",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14741",
+      "number": "14:74.1.",
+      "heading": "Right of action",
+      "text": "Right of action",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1475",
+      "number": "14:75.",
+      "heading": "Failure to pay child support obligation",
+      "text": "Failure to pay child support obligation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14751",
+      "number": "14:75.1.",
+      "heading": "REPEALED BY ACTS 1993, NO. 442, §4, EFF. JUNE 9, 1993.",
+      "text": "REPEALED BY ACTS 1993, NO. 442, §4, EFF. JUNE 9, 1993.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14752",
+      "number": "14:75.2.",
+      "heading": "REPEALED BY ACTS 1993, NO. 442, §4, EFF. JUNE 9, 1993.",
+      "text": "REPEALED BY ACTS 1993, NO. 442, §4, EFF. JUNE 9, 1993.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1476",
+      "number": "14:76.",
+      "heading": "Bigamy",
+      "text": "Bigamy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1477",
+      "number": "14:77.",
+      "heading": "Abetting in bigamy",
+      "text": "Abetting in bigamy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1478",
+      "number": "14:78.",
+      "heading": "Repealed by Acts 2014, No. 177, §2 and Acts 2014, No. 602, §7, eff. June 12, 2014.",
+      "text": "Repealed by Acts 2014, No. 177, §2 and Acts 2014, No. 602, §7, eff. June 12, 2014.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14781",
+      "number": "14:78.1.",
+      "heading": "Repealed by Acts 2014, No. 177, §2 and Acts 2014, No. 602, §7, eff. June 12, 2014.",
+      "text": "Repealed by Acts 2014, No. 177, §2 and Acts 2014, No. 602, §7, eff. June 12, 2014.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1479",
+      "number": "14:79.",
+      "heading": "Violation of protective orders",
+      "text": "Violation of protective orders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14791",
+      "number": "14:79.1.",
+      "heading": "Criminal abandonment",
+      "text": "Criminal abandonment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14792",
+      "number": "14:79.2.",
+      "heading": "Repealed by Acts 1975, No. 638, §3",
+      "text": "Repealed by Acts 1975, No. 638, §3",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1480",
+      "number": "14:80.",
+      "heading": "Felony carnal knowledge of a juvenile",
+      "text": "Felony carnal knowledge of a juvenile",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14801",
+      "number": "14:80.1.",
+      "heading": "Misdemeanor carnal knowledge of a juvenile",
+      "text": "Misdemeanor carnal knowledge of a juvenile",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1481",
+      "number": "14:81.",
+      "heading": "Indecent behavior with juveniles",
+      "text": "Indecent behavior with juveniles",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14811",
+      "number": "14:81.1.",
+      "heading": "Child sexual abuse materials",
+      "text": "Child sexual abuse materials",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-148111",
+      "number": "14:81.1.1.",
+      "heading": "\"Sexting\"; prohibited acts; penalties",
+      "text": "\"Sexting\"; prohibited acts; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14812",
+      "number": "14:81.2.",
+      "heading": "Molestation of a juvenile or a person with a physical or mental disability",
+      "text": "Molestation of a juvenile or a person with a physical or mental disability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14813",
+      "number": "14:81.3.",
+      "heading": "Computer-aided solicitation of a minor",
+      "text": "Computer-aided solicitation of a minor",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14814",
+      "number": "14:81.4.",
+      "heading": "Prohibited sexual conduct between educator and student",
+      "text": "Prohibited sexual conduct between educator and student",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14815",
+      "number": "14:81.5.",
+      "heading": "Unlawful possession of videotape of protected persons under R.S. 15:440.1 et seq.",
+      "text": "Unlawful possession of videotape of protected persons under R.S. 15:440.1 et seq.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-148151",
+      "number": "14:81.5.1.",
+      "heading": "Unlawful posting; records of certain hearings of the Board of Pardons and committee on parole",
+      "text": "Unlawful posting; records of certain hearings of the Board of Pardons and committee on parole",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14816",
+      "number": "14:81.6.",
+      "heading": "Possessing, trafficking, or importing a child sex doll; reporting",
+      "text": "Possessing, trafficking, or importing a child sex doll; reporting",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1482",
+      "number": "14:82.",
+      "heading": "Prostitution; definition; penalties; enhancement",
+      "text": "Prostitution; definition; penalties; enhancement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14821",
+      "number": "14:82.1.",
+      "heading": "Prostitution; persons under eighteen; additional offenses",
+      "text": "Prostitution; persons under eighteen; additional offenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14822",
+      "number": "14:82.2.",
+      "heading": "Purchase of commercial sexual activity; penalties",
+      "text": "Purchase of commercial sexual activity; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1483",
+      "number": "14:83.",
+      "heading": "Soliciting for prostitutes",
+      "text": "Soliciting for prostitutes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14831",
+      "number": "14:83.1.",
+      "heading": "Inciting prostitution",
+      "text": "Inciting prostitution",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14832",
+      "number": "14:83.2.",
+      "heading": "Promoting prostitution",
+      "text": "Promoting prostitution",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14833",
+      "number": "14:83.3.",
+      "heading": "Prostitution by massage",
+      "text": "Prostitution by massage",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14834",
+      "number": "14:83.4.",
+      "heading": "Massage; sexual conduct prohibited",
+      "text": "Massage; sexual conduct prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1484",
+      "number": "14:84.",
+      "heading": "Pandering",
+      "text": "Pandering",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1485",
+      "number": "14:85.",
+      "heading": "Letting premises for prostitution",
+      "text": "Letting premises for prostitution",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14851",
+      "number": "14:85.1.",
+      "heading": "Repealed by Acts 2008, No. 220, §13, eff. June 14, 2008.",
+      "text": "Repealed by Acts 2008, No. 220, §13, eff. June 14, 2008.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1486",
+      "number": "14:86.",
+      "heading": "Enticing persons into prostitution",
+      "text": "Enticing persons into prostitution",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1487",
+      "number": "14:87.",
+      "heading": "Repealed by Acts 2022, No. 545, §4.",
+      "text": "Repealed by Acts 2022, No. 545, §4.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14871",
+      "number": "14:87.1.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-148711",
+      "number": "14:87.1.1.",
+      "heading": "Killing a child during delivery; penalties",
+      "text": "Killing a child during delivery; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14872",
+      "number": "14:87.2.",
+      "heading": "Human experimentation on an infant born alive",
+      "text": "Human experimentation on an infant born alive",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14873",
+      "number": "14:87.3.",
+      "heading": "Prohibited cutting, resection, excision, harvesting, removal, sale, receipt, research, commerce, or transport of fetal organs, tissues, and body parts; whistleblower account",
+      "text": "Prohibited cutting, resection, excision, harvesting, removal, sale, receipt, research, commerce, or transport of fetal organs, tissues, and body parts; whistleblower account",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14874",
+      "number": "14:87.4.",
+      "heading": "Abortion advertising",
+      "text": "Abortion advertising",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14875",
+      "number": "14:87.5.",
+      "heading": "Intentional failure to sustain life and health of aborted viable infant",
+      "text": "Intentional failure to sustain life and health of aborted viable infant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14876",
+      "number": "14:87.6.",
+      "heading": "Coerced abortion",
+      "text": "Coerced abortion",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-148761",
+      "number": "14:87.6.1.",
+      "heading": "Coerced criminal abortion by means of fraud",
+      "text": "Coerced criminal abortion by means of fraud",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14877",
+      "number": "14:87.7.",
+      "heading": "Abortion",
+      "text": "Abortion",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14878",
+      "number": "14:87.8.",
+      "heading": "Late term abortion",
+      "text": "Late term abortion",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14879",
+      "number": "14:87.9.",
+      "heading": "Criminal abortion by means of abortion-inducing drugs",
+      "text": "Criminal abortion by means of abortion-inducing drugs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-148710",
+      "number": "14:87.10.",
+      "heading": "Abortion by an unlicensed physician",
+      "text": "Abortion by an unlicensed physician",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-148711",
+      "number": "14:87.11.",
+      "heading": "Aggravated abortion by dismemberment",
+      "text": "Aggravated abortion by dismemberment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-148712",
+      "number": "14:87.12.",
+      "heading": "Partial birth abortion",
+      "text": "Partial birth abortion",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1488",
+      "number": "14:88.",
+      "heading": "Repealed by Acts 2022, No. 548, §4.",
+      "text": "Repealed by Acts 2022, No. 548, §4.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1489",
+      "number": "14:89.",
+      "heading": "Crime against nature",
+      "text": "Crime against nature",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14891",
+      "number": "14:89.1.",
+      "heading": "Aggravated crime against nature",
+      "text": "Aggravated crime against nature",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14892",
+      "number": "14:89.2.",
+      "heading": "Crime against nature by solicitation",
+      "text": "Crime against nature by solicitation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14893",
+      "number": "14:89.3.",
+      "heading": "Sexual abuse of an animal",
+      "text": "Sexual abuse of an animal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14896",
+      "number": "14:89.6.",
+      "heading": "Human-animal hybrids",
+      "text": "Human-animal hybrids",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1490",
+      "number": "14:90.",
+      "heading": "Gambling",
+      "text": "Gambling",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14901",
+      "number": "14:90.1.",
+      "heading": "Seizure and disposition of evidence, property and proceeds; gambling",
+      "text": "Seizure and disposition of evidence, property and proceeds; gambling",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14902",
+      "number": "14:90.2.",
+      "heading": "Gambling in public",
+      "text": "Gambling in public",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14903",
+      "number": "14:90.3.",
+      "heading": "Gambling by computer",
+      "text": "Gambling by computer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14904",
+      "number": "14:90.4.",
+      "heading": "Unlawful playing of video draw poker devices by persons under the age of twenty-one; penalty",
+      "text": "Unlawful playing of video draw poker devices by persons under the age of twenty-one; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14905",
+      "number": "14:90.5.",
+      "heading": "Unlawful playing of gaming devices by persons under the age of twenty-one; underage persons, penalty",
+      "text": "Unlawful playing of gaming devices by persons under the age of twenty-one; underage persons, penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14906",
+      "number": "14:90.6.",
+      "heading": "Gambling or wagering at cockfights",
+      "text": "Gambling or wagering at cockfights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14907",
+      "number": "14:90.7.",
+      "heading": "Gambling by electronic sweepstakes device",
+      "text": "Gambling by electronic sweepstakes device",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14908",
+      "number": "14:90.8.",
+      "heading": "Unlawful wagering; prohibited player",
+      "text": "Unlawful wagering; prohibited player",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1491",
+      "number": "14:91.",
+      "heading": "Unlawful sales of weapons to minors",
+      "text": "Unlawful sales of weapons to minors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14911",
+      "number": "14:91.1.",
+      "heading": "Unlawful presence of a sexually violent predator",
+      "text": "Unlawful presence of a sexually violent predator",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14912",
+      "number": "14:91.2.",
+      "heading": "Unlawful presence of a sex offender",
+      "text": "Unlawful presence of a sex offender",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14913",
+      "number": "14:91.3.",
+      "heading": "Unlawful participation in a child-related business",
+      "text": "Unlawful participation in a child-related business",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14914",
+      "number": "14:91.4.",
+      "heading": "Contributing to the endangerment of a minor",
+      "text": "Contributing to the endangerment of a minor",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14915",
+      "number": "14:91.5.",
+      "heading": "Unlawful use of a social networking website",
+      "text": "Unlawful use of a social networking website",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14916",
+      "number": "14:91.6.",
+      "heading": "Unlawful distribution of sample tobacco products, alternative nicotine products, or vapor products to persons under age twenty-one; penalty",
+      "text": "Unlawful distribution of sample tobacco products, alternative nicotine products, or vapor products to persons under age twenty-one; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14917",
+      "number": "14:91.7.",
+      "heading": "Unauthorized possession or consumption of alcoholic beverages on public school property",
+      "text": "Unauthorized possession or consumption of alcoholic beverages on public school property",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14918",
+      "number": "14:91.8.",
+      "heading": "Unlawful sale, purchase, or possession of tobacco, alternative nicotine products, or vapor products; signs required; penalties",
+      "text": "Unlawful sale, purchase, or possession of tobacco, alternative nicotine products, or vapor products; signs required; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14919",
+      "number": "14:91.9.",
+      "heading": "Unlawful presence or contact of a sex offender relative to a former victim",
+      "text": "Unlawful presence or contact of a sex offender relative to a former victim",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149110",
+      "number": "14:91.10.",
+      "heading": "Unlawful sale or distribution of mitragynine speciosa to persons under age",
+      "text": "Unlawful sale or distribution of mitragynine speciosa to persons under age",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149111",
+      "number": "14:91.11.",
+      "heading": "Sale, exhibition, or distribution of material harmful to minors",
+      "text": "Sale, exhibition, or distribution of material harmful to minors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149112",
+      "number": "14:91.12.",
+      "heading": "Sale, distribution or making available to minors publications encouraging, advocating, or facilitating the illegal use of controlled dangerous substances",
+      "text": "Sale, distribution or making available to minors publications encouraging, advocating, or facilitating the illegal use of controlled dangerous substances",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149113",
+      "number": "14:91.13.",
+      "heading": "Illegal use of controlled dangerous substances in the presence of persons under seventeen years of age",
+      "text": "Illegal use of controlled dangerous substances in the presence of persons under seventeen years of age",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149114",
+      "number": "14:91.14.",
+      "heading": "Unlawful distribution of material harmful to minors through the Internet",
+      "text": "Unlawful distribution of material harmful to minors through the Internet",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149115",
+      "number": "14:91.15.",
+      "heading": "Unlawful operation of an unlicensed child day care center",
+      "text": "Unlawful operation of an unlicensed child day care center",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149121",
+      "number": "14:91.21.",
+      "heading": "Sale of poisonous reptiles to minors; penalty",
+      "text": "Sale of poisonous reptiles to minors; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149122",
+      "number": "14:91.22.",
+      "heading": "Repealed by Acts 1974, No. 276, §1",
+      "text": "Repealed by Acts 1974, No. 276, §1",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1492",
+      "number": "14:92.",
+      "heading": "Contributing to the delinquency of juveniles",
+      "text": "Contributing to the delinquency of juveniles",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14921",
+      "number": "14:92.1.",
+      "heading": "Encouraging or contributing to child delinquency, dependency, or neglect; penalty; suspension of sentence; definitions",
+      "text": "Encouraging or contributing to child delinquency, dependency, or neglect; penalty; suspension of sentence; definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14922",
+      "number": "14:92.2.",
+      "heading": "Improper supervision of a minor by parent or legal custodian",
+      "text": "Improper supervision of a minor by parent or legal custodian",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14923",
+      "number": "14:92.3.",
+      "heading": "Retaliation by a minor against a parent, legal custodian, witness, or complainant",
+      "text": "Retaliation by a minor against a parent, legal custodian, witness, or complainant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1493",
+      "number": "14:93.",
+      "heading": "Cruelty to juveniles",
+      "text": "Cruelty to juveniles",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14931",
+      "number": "14:93.1.",
+      "heading": "Model glue; use of; abuse of toxic vapors; unlawful sales to minors; penalties",
+      "text": "Model glue; use of; abuse of toxic vapors; unlawful sales to minors; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14932",
+      "number": "14:93.2.",
+      "heading": "Tattooing and body piercing of minors; prohibition",
+      "text": "Tattooing and body piercing of minors; prohibition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149321",
+      "number": "14:93.2.1.",
+      "heading": "Child desertion",
+      "text": "Child desertion",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149322",
+      "number": "14:93.2.2.",
+      "heading": "Unlawful placement of gold fillings, caps, and crowns; minors",
+      "text": "Unlawful placement of gold fillings, caps, and crowns; minors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149323",
+      "number": "14:93.2.3.",
+      "heading": "Second degree cruelty to juveniles",
+      "text": "Second degree cruelty to juveniles",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14",
+      "number": "14:",
+      "heading": "93.2.4. Unlawful swimming in certain waterways",
+      "text": "93.2.4. Unlawful swimming in certain waterways",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14933",
+      "number": "14:93.3.",
+      "heading": "Cruelty to elderly and persons with infirmities",
+      "text": "Cruelty to elderly and persons with infirmities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14934",
+      "number": "14:93.4.",
+      "heading": "Exploitation of elderly persons or persons with infirmities",
+      "text": "Exploitation of elderly persons or persons with infirmities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14935",
+      "number": "14:93.5.",
+      "heading": "Sexual battery of persons with infirmities",
+      "text": "Sexual battery of persons with infirmities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149310",
+      "number": "14:93.10.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149311",
+      "number": "14:93.11.",
+      "heading": "Unlawful sales to persons under twenty-one",
+      "text": "Unlawful sales to persons under twenty-one",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149312",
+      "number": "14:93.12.",
+      "heading": "Purchase and public possession of alcoholic beverages; exceptions; penalties",
+      "text": "Purchase and public possession of alcoholic beverages; exceptions; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149313",
+      "number": "14:93.13.",
+      "heading": "Unlawful purchase of alcoholic beverages by persons on behalf of persons under twenty-one",
+      "text": "Unlawful purchase of alcoholic beverages by persons on behalf of persons under twenty-one",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149314",
+      "number": "14:93.14.",
+      "heading": "Responsibilities of retail dealers not relieved",
+      "text": "Responsibilities of retail dealers not relieved",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149315",
+      "number": "14:93.15.",
+      "heading": "Alcoholic beverage vaporizer; prohibitions",
+      "text": "Alcoholic beverage vaporizer; prohibitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149316",
+      "number": "14:93.16.",
+      "heading": "Unlawful sales of consumable hemp products to persons under twenty-one",
+      "text": "Unlawful sales of consumable hemp products to persons under twenty-one",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149317",
+      "number": "14:93.17.",
+      "heading": "Purchase and possession of consumable hemp products by a minor; penalties",
+      "text": "Purchase and possession of consumable hemp products by a minor; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149320",
+      "number": "14:93.20.",
+      "heading": "Repealed by Acts 1998, No. 71, §2, eff. June 25, 1998.",
+      "text": "Repealed by Acts 1998, No. 71, §2, eff. June 25, 1998.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1494",
+      "number": "14:94.",
+      "heading": "Illegal use of weapons or dangerous instrumentalities",
+      "text": "Illegal use of weapons or dangerous instrumentalities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1495",
+      "number": "14:95.",
+      "heading": "Illegal carrying of weapons",
+      "text": "Illegal carrying of weapons",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14951",
+      "number": "14:95.1.",
+      "heading": "Possession of firearm or carrying concealed weapon by a person convicted of certain felonies",
+      "text": "Possession of firearm or carrying concealed weapon by a person convicted of certain felonies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149511",
+      "number": "14:95.1.1.",
+      "heading": "Illegally supplying a felon with a firearm",
+      "text": "Illegally supplying a felon with a firearm",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149512",
+      "number": "14:95.1.2.",
+      "heading": "Illegally supplying a felon with ammunition",
+      "text": "Illegally supplying a felon with ammunition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149513",
+      "number": "14:95.1.3.",
+      "heading": "Fraudulent firearm and ammunition purchase; mandatory reporting",
+      "text": "Fraudulent firearm and ammunition purchase; mandatory reporting",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149514",
+      "number": "14:95.1.4.",
+      "heading": "Illegal transfer of a firearm to a prohibited possessor",
+      "text": "Illegal transfer of a firearm to a prohibited possessor",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14952",
+      "number": "14:95.2.",
+      "heading": "Carrying a firearm or dangerous weapon by a student or nonstudent on school property, at school-sponsored functions, or in a firearm-free zone",
+      "text": "Carrying a firearm or dangerous weapon by a student or nonstudent on school property, at school-sponsored functions, or in a firearm-free zone",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149521",
+      "number": "14:95.2.1.",
+      "heading": "Illegal carrying of a firearm at a parade with any firearm used in the commission of a crime of violence",
+      "text": "Illegal carrying of a firearm at a parade with any firearm used in the commission of a crime of violence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149522",
+      "number": "14:95.2.2.",
+      "heading": "Reckless discharge of a firearm at a parade or demonstration",
+      "text": "Reckless discharge of a firearm at a parade or demonstration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14953",
+      "number": "14:95.3.",
+      "heading": "Unlawful use or possession of body armor",
+      "text": "Unlawful use or possession of body armor",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14954",
+      "number": "14:95.4.",
+      "heading": "Repealed by Acts 2016, No. 201, §1.",
+      "text": "Repealed by Acts 2016, No. 201, §1.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14955",
+      "number": "14:95.5.",
+      "heading": "Possession of firearm on premises of alcoholic beverage outlet",
+      "text": "Possession of firearm on premises of alcoholic beverage outlet",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14956",
+      "number": "14:95.6.",
+      "heading": "Firearm-free zone; notice; signs; crime; penalties",
+      "text": "Firearm-free zone; notice; signs; crime; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14957",
+      "number": "14:95.7.",
+      "heading": "Possession of or dealing in firearms with obliterated numbers or marks",
+      "text": "Possession of or dealing in firearms with obliterated numbers or marks",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14958",
+      "number": "14:95.8.",
+      "heading": "Illegal possession of a handgun by a juvenile",
+      "text": "Illegal possession of a handgun by a juvenile",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14959",
+      "number": "14:95.9.",
+      "heading": "Wearing or possessing body armor, by a student or nonstudent on school property, at school-sponsored functions, or in firearm-free zones; exceptions",
+      "text": "Wearing or possessing body armor, by a student or nonstudent on school property, at school-sponsored functions, or in firearm-free zones; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149510",
+      "number": "14:95.10.",
+      "heading": "Possession of a firearm or carrying of a concealed weapon by a person convicted of domestic abuse battery and certain offenses of battery of a dating partner",
+      "text": "Possession of a firearm or carrying of a concealed weapon by a person convicted of domestic abuse battery and certain offenses of battery of a dating partner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1496",
+      "number": "14:96.",
+      "heading": "Aggravated obstruction of a highway of commerce",
+      "text": "Aggravated obstruction of a highway of commerce",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1497",
+      "number": "14:97.",
+      "heading": "Simple obstruction of a highway of commerce",
+      "text": "Simple obstruction of a highway of commerce",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14971",
+      "number": "14:97.1.",
+      "heading": "Solicitation on an interstate highway or in a public right-of-way",
+      "text": "Solicitation on an interstate highway or in a public right-of-way",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14972",
+      "number": "14:97.2.",
+      "heading": "Unlawful sale, purchase, possession, or use of traffic signal preemption devices",
+      "text": "Unlawful sale, purchase, possession, or use of traffic signal preemption devices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1498",
+      "number": "14:98.",
+      "heading": "Operating a vehicle while impaired",
+      "text": "Operating a vehicle while impaired",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14981",
+      "number": "14:98.1.",
+      "heading": "Operating while impaired; first offense; penalties",
+      "text": "Operating while impaired; first offense; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14982",
+      "number": "14:98.2.",
+      "heading": "Operating while impaired; second offense; penalties",
+      "text": "Operating while impaired; second offense; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14983",
+      "number": "14:98.3.",
+      "heading": "Operating while impaired; third offense; penalties",
+      "text": "Operating while impaired; third offense; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14984",
+      "number": "14:98.4.",
+      "heading": "Operating while impaired; fourth offense; penalties",
+      "text": "Operating while impaired; fourth offense; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14985",
+      "number": "14:98.5.",
+      "heading": "Special provisions and definitions",
+      "text": "Special provisions and definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-149851",
+      "number": "14:98.5.1.",
+      "heading": "Assessment for alcohol or drug dependence; rehabilitative programs; second and subsequent convictions",
+      "text": "Assessment for alcohol or drug dependence; rehabilitative programs; second and subsequent convictions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14986",
+      "number": "14:98.6.",
+      "heading": "Underage operating while impaired",
+      "text": "Underage operating while impaired",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14987",
+      "number": "14:98.7.",
+      "heading": "Unlawful refusal to submit to chemical tests; arrests for driving while impaired",
+      "text": "Unlawful refusal to submit to chemical tests; arrests for driving while impaired",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14988",
+      "number": "14:98.8.",
+      "heading": "Operating a vehicle while under suspension for certain prior offenses",
+      "text": "Operating a vehicle while under suspension for certain prior offenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1499",
+      "number": "14:99.",
+      "heading": "Reckless operation of a vehicle",
+      "text": "Reckless operation of a vehicle",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14991",
+      "number": "14:99.1.",
+      "heading": "Hit and run damaging of a potable waterline by operation of a watercraft or vessel",
+      "text": "Hit and run damaging of a potable waterline by operation of a watercraft or vessel",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14992",
+      "number": "14:99.2.",
+      "heading": "Reckless operation of an off-road vehicle",
+      "text": "Reckless operation of an off-road vehicle",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14100",
+      "number": "14:100.",
+      "heading": "Hit-and-run driving",
+      "text": "Hit-and-run driving",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141001",
+      "number": "14:100.1.",
+      "heading": "Obstructing public passages",
+      "text": "Obstructing public passages",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1410011",
+      "number": "14:100.11.",
+      "heading": "Legislative findings; purpose",
+      "text": "Legislative findings; purpose",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1410012",
+      "number": "14:100.12.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14101",
+      "number": "14:101.",
+      "heading": "Desecration of graves",
+      "text": "Desecration of graves",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141011",
+      "number": "14:101.1.",
+      "heading": "Purchase or sale of human organs",
+      "text": "Purchase or sale of human organs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141012",
+      "number": "14:101.2.",
+      "heading": "Unauthorized use of sperm, ovum, or embryo",
+      "text": "Unauthorized use of sperm, ovum, or embryo",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14102",
+      "number": "14:102.",
+      "heading": "Definitions; cruelty to animals",
+      "text": "Definitions; cruelty to animals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141021",
+      "number": "14:102.1.",
+      "heading": "Cruelty to animals; simple and aggravated",
+      "text": "Cruelty to animals; simple and aggravated",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141022",
+      "number": "14:102.2.",
+      "heading": "Seizure and disposition of animals cruelly treated",
+      "text": "Seizure and disposition of animals cruelly treated",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141023",
+      "number": "14:102.3.",
+      "heading": "Search warrant; animal cruelty offenses",
+      "text": "Search warrant; animal cruelty offenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141024",
+      "number": "14:102.4.",
+      "heading": "Confined animals; necessary food and water",
+      "text": "Confined animals; necessary food and water",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141025",
+      "number": "14:102.5.",
+      "heading": "Dogfighting; training and possession of dogs for fighting",
+      "text": "Dogfighting; training and possession of dogs for fighting",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141026",
+      "number": "14:102.6.",
+      "heading": "Seizure and destruction or disposition of dogs and equipment used in dogfighting",
+      "text": "Seizure and destruction or disposition of dogs and equipment used in dogfighting",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141027",
+      "number": "14:102.7.",
+      "heading": "Search warrant for dogfighting offenses",
+      "text": "Search warrant for dogfighting offenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141028",
+      "number": "14:102.8.",
+      "heading": "Injuring or killing of a police animal",
+      "text": "Injuring or killing of a police animal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141029",
+      "number": "14:102.9.",
+      "heading": "Interference with animal research; research laboratory or farm",
+      "text": "Interference with animal research; research laboratory or farm",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1410210",
+      "number": "14:102.10.",
+      "heading": "Bear wrestling; penalty",
+      "text": "Bear wrestling; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1410211",
+      "number": "14:102.11.",
+      "heading": "Illegal contact sports; penalty",
+      "text": "Illegal contact sports; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1410212",
+      "number": "14:102.12.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1410213",
+      "number": "14:102.13.",
+      "heading": "Hearing to determine if dog is dangerous or vicious",
+      "text": "Hearing to determine if dog is dangerous or vicious",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1410214",
+      "number": "14:102.14.",
+      "heading": "Unlawful ownership of dangerous dog",
+      "text": "Unlawful ownership of dangerous dog",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1410215",
+      "number": "14:102.15.",
+      "heading": "Unlawful ownership of a vicious dog",
+      "text": "Unlawful ownership of a vicious dog",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1410216",
+      "number": "14:102.16.",
+      "heading": "Seizure and destruction or disposition of dangerous or vicious dogs",
+      "text": "Seizure and destruction or disposition of dangerous or vicious dogs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1410217",
+      "number": "14:102.17.",
+      "heading": "Registration of dangerous dogs; fees",
+      "text": "Registration of dangerous dogs; fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1410218",
+      "number": "14:102.18.",
+      "heading": "Seizure and disposition of dogs which cause death or inflict bodily injury",
+      "text": "Seizure and disposition of dogs which cause death or inflict bodily injury",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1410219",
+      "number": "14:102.19.",
+      "heading": "Hog and canine fighting prohibited; penalties",
+      "text": "Hog and canine fighting prohibited; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1410220",
+      "number": "14:102.20.",
+      "heading": "Sport killing of zoo or circus animals prohibited",
+      "text": "Sport killing of zoo or circus animals prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1410221",
+      "number": "14:102.21.",
+      "heading": "Unauthorized use of the identity of a deceased soldier",
+      "text": "Unauthorized use of the identity of a deceased soldier",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1410222",
+      "number": "14:102.22.",
+      "heading": "Harboring or concealing an animal which has bitten or inflicted serious bodily injury on a human",
+      "text": "Harboring or concealing an animal which has bitten or inflicted serious bodily injury on a human",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1410223",
+      "number": "14:102.23.",
+      "heading": "Cockfighting",
+      "text": "Cockfighting",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1410224",
+      "number": "14:102.24.",
+      "heading": "Participation in cockfighting",
+      "text": "Participation in cockfighting",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1410225",
+      "number": "14:102.25.",
+      "heading": "Unlawfully supplying any product for the purpose of falsifying a screening test",
+      "text": "Unlawfully supplying any product for the purpose of falsifying a screening test",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1410226",
+      "number": "14:102.26.",
+      "heading": "Unlawful restraint of a dog; definitions; penalties",
+      "text": "Unlawful restraint of a dog; definitions; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1410227",
+      "number": "14:102.27.",
+      "heading": "Unlawful sale of a live dog or cat at certain locations",
+      "text": "Unlawful sale of a live dog or cat at certain locations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1410228",
+      "number": "14:102.28.",
+      "heading": "Transporting live feral swine prohibited; penalties",
+      "text": "Transporting live feral swine prohibited; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1410229",
+      "number": "14:102.29.",
+      "heading": "Unlawful possession, transfer, or manufacture of animal fighting paraphernalia",
+      "text": "Unlawful possession, transfer, or manufacture of animal fighting paraphernalia",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14103",
+      "number": "14:103.",
+      "heading": "Disturbing the peace",
+      "text": "Disturbing the peace",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141031",
+      "number": "14:103.1.",
+      "heading": "Emanation of excessive sound or noise; exceptions; penalties",
+      "text": "Emanation of excessive sound or noise; exceptions; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141032",
+      "number": "14:103.2.",
+      "heading": "Amplified devices in public places; quiet zones; penalties",
+      "text": "Amplified devices in public places; quiet zones; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141033",
+      "number": "14:103.3.",
+      "heading": "Disturbing the peace; residences",
+      "text": "Disturbing the peace; residences",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14104",
+      "number": "14:104.",
+      "heading": "Keeping a disorderly place",
+      "text": "Keeping a disorderly place",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14105",
+      "number": "14:105.",
+      "heading": "Letting a disorderly place",
+      "text": "Letting a disorderly place",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14106",
+      "number": "14:106.",
+      "heading": "Obscenity",
+      "text": "Obscenity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141061",
+      "number": "14:106.1.",
+      "heading": "Promotion or wholesale promotion of obscene devices",
+      "text": "Promotion or wholesale promotion of obscene devices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141062",
+      "number": "14:106.2.",
+      "heading": "Sexual acts prohibited in public; penalties",
+      "text": "Sexual acts prohibited in public; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141063",
+      "number": "14:106.3.",
+      "heading": "Unlawful exhibition of sexually explicit material in a motor vehicle; penalties",
+      "text": "Unlawful exhibition of sexually explicit material in a motor vehicle; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14107",
+      "number": "14:107.",
+      "heading": "Repealed by Acts 2020, No. 172, §1.",
+      "text": "Repealed by Acts 2020, No. 172, §1.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141071",
+      "number": "14:107.1.",
+      "heading": "Ritualistic acts",
+      "text": "Ritualistic acts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141072",
+      "number": "14:107.2.",
+      "heading": "Hate crimes",
+      "text": "Hate crimes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141073",
+      "number": "14:107.3.",
+      "heading": "Criminal blighting of property",
+      "text": "Criminal blighting of property",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141074",
+      "number": "14:107.4.",
+      "heading": "Unlawful posting of criminal activity for notoriety and publicity",
+      "text": "Unlawful posting of criminal activity for notoriety and publicity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141075",
+      "number": "14:107.5.",
+      "heading": "Solicitation of funds or transportation for certain unlawful purposes",
+      "text": "Solicitation of funds or transportation for certain unlawful purposes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14108",
+      "number": "14:108.",
+      "heading": "Resisting an officer",
+      "text": "Resisting an officer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141081",
+      "number": "14:108.1.",
+      "heading": "Flight from an officer; aggravated flight from an officer",
+      "text": "Flight from an officer; aggravated flight from an officer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141082",
+      "number": "14:108.2.",
+      "heading": "Resisting a police officer with force or violence",
+      "text": "Resisting a police officer with force or violence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14109",
+      "number": "14:109.",
+      "heading": "Approaching a peace officer lawfully engaged in law enforcement duties",
+      "text": "Approaching a peace officer lawfully engaged in law enforcement duties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14110",
+      "number": "14:110.",
+      "heading": "Simple escape; aggravated escape",
+      "text": "Simple escape; aggravated escape",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141101",
+      "number": "14:110.1.",
+      "heading": "Jumping bail",
+      "text": "Jumping bail",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1411011",
+      "number": "14:110.1.1.",
+      "heading": "Out-of-state bail jumping",
+      "text": "Out-of-state bail jumping",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1411012",
+      "number": "14:110.1.2.",
+      "heading": "Providing false, nonexistent, or incomplete declaration of residence for bail",
+      "text": "Providing false, nonexistent, or incomplete declaration of residence for bail",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141102",
+      "number": "14:110.2.",
+      "heading": "Tampering with electronic monitoring equipment",
+      "text": "Tampering with electronic monitoring equipment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141103",
+      "number": "14:110.3.",
+      "heading": "Tampering with surveillance, accounting, inventory, or monitoring systems; definitions; penalties",
+      "text": "Tampering with surveillance, accounting, inventory, or monitoring systems; definitions; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14111",
+      "number": "14:111.",
+      "heading": "Assisting escape",
+      "text": "Assisting escape",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14112",
+      "number": "14:112.",
+      "heading": "False personation",
+      "text": "False personation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141121",
+      "number": "14:112.1.",
+      "heading": "False personation of a peace officer or firefighter",
+      "text": "False personation of a peace officer or firefighter",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141122",
+      "number": "14:112.2.",
+      "heading": "Fraudulent portrayal of a law enforcement officer or firefighter",
+      "text": "Fraudulent portrayal of a law enforcement officer or firefighter",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141123",
+      "number": "14:112.3.",
+      "heading": "Aiding and abetting the fraudulent portrayal of a law enforcement officer or firefighter",
+      "text": "Aiding and abetting the fraudulent portrayal of a law enforcement officer or firefighter",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141124",
+      "number": "14:112.4.",
+      "heading": "Unlawful production, manufacturing, distribution, or possession of unauthorized peace officer badges",
+      "text": "Unlawful production, manufacturing, distribution, or possession of unauthorized peace officer badges",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1411211",
+      "number": "14:112.11.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1411212",
+      "number": "14:112.12.",
+      "heading": "Unlawful entry or reentry into the state of Louisiana by an alien",
+      "text": "Unlawful entry or reentry into the state of Louisiana by an alien",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1411213",
+      "number": "14:112.13.",
+      "heading": "Abatement or termination of prosecution on basis of an immigration status determination",
+      "text": "Abatement or termination of prosecution on basis of an immigration status determination",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14113",
+      "number": "14:113.",
+      "heading": "Treason",
+      "text": "Treason",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14114",
+      "number": "14:114.",
+      "heading": "Misprision of treason",
+      "text": "Misprision of treason",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14115",
+      "number": "14:115.",
+      "heading": "Criminal anarchy",
+      "text": "Criminal anarchy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14116",
+      "number": "14:116.",
+      "heading": "Flag desecration",
+      "text": "Flag desecration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141161",
+      "number": "14:116.1.",
+      "heading": "Flag burning",
+      "text": "Flag burning",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14117",
+      "number": "14:117.",
+      "heading": "Flag desecration; exceptions",
+      "text": "Flag desecration; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141171",
+      "number": "14:117.1.",
+      "heading": "Paramilitary organizations; prohibitions",
+      "text": "Paramilitary organizations; prohibitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14118",
+      "number": "14:118.",
+      "heading": "Public bribery",
+      "text": "Public bribery",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141181",
+      "number": "14:118.1.",
+      "heading": "Bribery of sports participants",
+      "text": "Bribery of sports participants",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141182",
+      "number": "14:118.2.",
+      "heading": "Falsifying information on racing license applications",
+      "text": "Falsifying information on racing license applications",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14119",
+      "number": "14:119.",
+      "heading": "Repealed by Acts 2010, No. 797, §2, eff. Jan. 1, 2011.",
+      "text": "Repealed by Acts 2010, No. 797, §2, eff. Jan. 1, 2011.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141191",
+      "number": "14:119.1.",
+      "heading": "Bribery of parents of school children",
+      "text": "Bribery of parents of school children",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14120",
+      "number": "14:120.",
+      "heading": "Corrupt influencing",
+      "text": "Corrupt influencing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14121",
+      "number": "14:121.",
+      "heading": "Informers granted immunity",
+      "text": "Informers granted immunity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14122",
+      "number": "14:122.",
+      "heading": "Public intimidation and retaliation",
+      "text": "Public intimidation and retaliation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141221",
+      "number": "14:122.1.",
+      "heading": "Intimidation and interference in the operation of schools",
+      "text": "Intimidation and interference in the operation of schools",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141222",
+      "number": "14:122.2.",
+      "heading": "Threatening a public official or law enforcement officer; penalties; definitions",
+      "text": "Threatening a public official or law enforcement officer; penalties; definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14123",
+      "number": "14:123.",
+      "heading": "Perjury",
+      "text": "Perjury",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14124",
+      "number": "14:124.",
+      "heading": "Inconsistent statements; perjury",
+      "text": "Inconsistent statements; perjury",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14125",
+      "number": "14:125.",
+      "heading": "False swearing",
+      "text": "False swearing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141251",
+      "number": "14:125.1.",
+      "heading": "False swearing in paternity cases",
+      "text": "False swearing in paternity cases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141252",
+      "number": "14:125.2.",
+      "heading": "False statements concerning paternity",
+      "text": "False statements concerning paternity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14126",
+      "number": "14:126.",
+      "heading": "Inconsistent statements; false swearing",
+      "text": "Inconsistent statements; false swearing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141261",
+      "number": "14:126.1.",
+      "heading": "False swearing for purpose of violating public health or safety",
+      "text": "False swearing for purpose of violating public health or safety",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1412611",
+      "number": "14:126.1.1.",
+      "heading": "False communication with the intent to cause an emergency response",
+      "text": "False communication with the intent to cause an emergency response",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141262",
+      "number": "14:126.2.",
+      "heading": "False statements concerning denial of constitutional rights",
+      "text": "False statements concerning denial of constitutional rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141263",
+      "number": "14:126.3.",
+      "heading": "False statements concerning employment in a nursing or health care facility",
+      "text": "False statements concerning employment in a nursing or health care facility",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1412631",
+      "number": "14:126.3.1.",
+      "heading": "Unauthorized participation in medical assistance programs",
+      "text": "Unauthorized participation in medical assistance programs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141264",
+      "number": "14:126.4.",
+      "heading": "False certification of arrest documents",
+      "text": "False certification of arrest documents",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14127",
+      "number": "14:127.",
+      "heading": "Limitation of defenses",
+      "text": "Limitation of defenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14128",
+      "number": "14:128.",
+      "heading": "Completion of affidavit",
+      "text": "Completion of affidavit",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141281",
+      "number": "14:128.1.",
+      "heading": "Terrorism",
+      "text": "Terrorism",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141282",
+      "number": "14:128.2.",
+      "heading": "Aiding others in terrorism",
+      "text": "Aiding others in terrorism",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14129",
+      "number": "14:129.",
+      "heading": "Jury tampering",
+      "text": "Jury tampering",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141291",
+      "number": "14:129.1.",
+      "heading": "Intimidating, impeding, or injuring witnesses; injuring officers; penalties",
+      "text": "Intimidating, impeding, or injuring witnesses; injuring officers; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141292",
+      "number": "14:129.2.",
+      "heading": "Recording, listening to, or observing proceedings of grand or petit juries while deliberating or voting",
+      "text": "Recording, listening to, or observing proceedings of grand or petit juries while deliberating or voting",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14130",
+      "number": "14:130.",
+      "heading": "Jury misconduct",
+      "text": "Jury misconduct",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141301",
+      "number": "14:130.1.",
+      "heading": "Obstruction of justice",
+      "text": "Obstruction of justice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14131",
+      "number": "14:131.",
+      "heading": "Compounding a felony",
+      "text": "Compounding a felony",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141311",
+      "number": "14:131.1.",
+      "heading": "Failure to report the commission of certain felonies",
+      "text": "Failure to report the commission of certain felonies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14132",
+      "number": "14:132.",
+      "heading": "Injuring public records",
+      "text": "Injuring public records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14133",
+      "number": "14:133.",
+      "heading": "Filing or maintaining false public records",
+      "text": "Filing or maintaining false public records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141331",
+      "number": "14:133.1.",
+      "heading": "Obstruction of court orders",
+      "text": "Obstruction of court orders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1413311",
+      "number": "14:133.1.1.",
+      "heading": "Election fraud or forgery",
+      "text": "Election fraud or forgery",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141332",
+      "number": "14:133.2.",
+      "heading": "Misrepresentation during booking",
+      "text": "Misrepresentation during booking",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141333",
+      "number": "14:133.3.",
+      "heading": "Falsification of drug tests",
+      "text": "Falsification of drug tests",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141334",
+      "number": "14:133.4.",
+      "heading": "Misrepresentation during issuance of a misdemeanor summons or preparation of a juvenile custodial agreement",
+      "text": "Misrepresentation during issuance of a misdemeanor summons or preparation of a juvenile custodial agreement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141335",
+      "number": "14:133.5.",
+      "heading": "Filing a false complaint against a law enforcement officer",
+      "text": "Filing a false complaint against a law enforcement officer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141336",
+      "number": "14:133.6.",
+      "heading": "Filing a false lien against a law enforcement officer, court officer, state officer, or state employee",
+      "text": "Filing a false lien against a law enforcement officer, court officer, state officer, or state employee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141337",
+      "number": "14:133.7.",
+      "heading": "Publication of certain criminal record information or juvenile record information prohibited",
+      "text": "Publication of certain criminal record information or juvenile record information prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14134",
+      "number": "14:134.",
+      "heading": "Malfeasance in office",
+      "text": "Malfeasance in office",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141341",
+      "number": "14:134.1.",
+      "heading": "Malfeasance in office; sexual conduct prohibited with persons in the custody and supervision of the Department of Public Safety and Corrections",
+      "text": "Malfeasance in office; sexual conduct prohibited with persons in the custody and supervision of the Department of Public Safety and Corrections",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141342",
+      "number": "14:134.2.",
+      "heading": "Malfeasance in office; tampering with evidence",
+      "text": "Malfeasance in office; tampering with evidence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141343",
+      "number": "14:134.3.",
+      "heading": "Abuse of office",
+      "text": "Abuse of office",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14135",
+      "number": "14:135.",
+      "heading": "Public salary deduction",
+      "text": "Public salary deduction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14136",
+      "number": "14:136.",
+      "heading": "Public salary extortion",
+      "text": "Public salary extortion",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14137",
+      "number": "14:137.",
+      "heading": "Repealed by Acts 1979, No. 700, §8",
+      "text": "Repealed by Acts 1979, No. 700, §8",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14138",
+      "number": "14:138.",
+      "heading": "Public payroll fraud",
+      "text": "Public payroll fraud",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14139",
+      "number": "14:139.",
+      "heading": "Political payroll padding",
+      "text": "Political payroll padding",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141391",
+      "number": "14:139.1.",
+      "heading": "Political payroll padding by sheriff; sale of assets of sheriff's office prohibited",
+      "text": "Political payroll padding by sheriff; sale of assets of sheriff's office prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141392",
+      "number": "14:139.2.",
+      "heading": "Transfer of capital assets of clerk of court's office prohibited",
+      "text": "Transfer of capital assets of clerk of court's office prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14140",
+      "number": "14:140.",
+      "heading": "Public contract fraud",
+      "text": "Public contract fraud",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14141",
+      "number": "14:141.",
+      "heading": "Prohibited splitting of profits, fees or commissions; exceptions",
+      "text": "Prohibited splitting of profits, fees or commissions; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14142",
+      "number": "14:142.",
+      "heading": "Offenses committed prior to effective date of Code",
+      "text": "Offenses committed prior to effective date of Code",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14143",
+      "number": "14:143.",
+      "heading": "Preemption of state law; exceptions",
+      "text": "Preemption of state law; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14201",
+      "number": "14:201.",
+      "heading": "Collateral securities, unauthorized use or withdrawal prohibited; penalty; proof of intent; of personal advantage",
+      "text": "Collateral securities, unauthorized use or withdrawal prohibited; penalty; proof of intent; of personal advantage",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14202",
+      "number": "14:202.",
+      "heading": "Contractors; misapplication of payments prohibited; penalty",
+      "text": "Contractors; misapplication of payments prohibited; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142021",
+      "number": "14:202.1.",
+      "heading": "Residential contractor fraud; penalties",
+      "text": "Residential contractor fraud; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142022",
+      "number": "14:202.2.",
+      "heading": "Solar electric and solar thermal system contractors; solar tax credit fraud",
+      "text": "Solar electric and solar thermal system contractors; solar tax credit fraud",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14203",
+      "number": "14:203.",
+      "heading": "Electrical appliances, sale without original factory serial number prohibited; penalty",
+      "text": "Electrical appliances, sale without original factory serial number prohibited; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14204",
+      "number": "14:204.",
+      "heading": "Fire-raising on lands of another by criminal negligence; penalty",
+      "text": "Fire-raising on lands of another by criminal negligence; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142041",
+      "number": "14:204.1.",
+      "heading": "Fire-raising in a correctional facility; penalty",
+      "text": "Fire-raising in a correctional facility; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14205",
+      "number": "14:205.",
+      "heading": "Fire-raising on lands of another with malice; penalty",
+      "text": "Fire-raising on lands of another with malice; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14206",
+      "number": "14:206.",
+      "heading": "Fire prevention interference; penalty",
+      "text": "Fire prevention interference; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142061",
+      "number": "14:206.1.",
+      "heading": "Engaging in life safety and property protection contracting without authority prohibited; penalty",
+      "text": "Engaging in life safety and property protection contracting without authority prohibited; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14207",
+      "number": "14:207.",
+      "heading": "Motor vehicles, alteration or removal of identifying numbers prohibited; sale, etc",
+      "text": ", of motor vehicle with altered identifying numbers prohibited; penalty; application of Section",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14208",
+      "number": "14:208.",
+      "heading": "Operas, performance or representation without consent of owner prohibited; penalty",
+      "text": "Operas, performance or representation without consent of owner prohibited; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14209",
+      "number": "14:209.",
+      "heading": "Seals, breaking prohibited; penalty",
+      "text": "Seals, breaking prohibited; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14210",
+      "number": "14:210.",
+      "heading": "Taxicabs, tampering with meter forbidden; penalty",
+      "text": "Taxicabs, tampering with meter forbidden; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14211",
+      "number": "14:211.",
+      "heading": "Repealed by Acts 2017, No. 281, §3.",
+      "text": "Repealed by Acts 2017, No. 281, §3.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14212",
+      "number": "14:212.",
+      "heading": "Forest products, false statement prohibited; penalty",
+      "text": "Forest products, false statement prohibited; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14213",
+      "number": "14:213.",
+      "heading": "False packing of cotton bales and other agricultural products; penalty",
+      "text": "False packing of cotton bales and other agricultural products; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14214",
+      "number": "14:214.",
+      "heading": "Fishing or hunting contest fraud",
+      "text": "Fishing or hunting contest fraud",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14215",
+      "number": "14:215.",
+      "heading": "§§215, 216 Repealed by Acts 1962, No. 310, §III (§3)",
+      "text": "§§215, 216 Repealed by Acts 1962, No. 310, §III (§3)",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14217",
+      "number": "14:217.",
+      "heading": "Purchase or sale of seafoods prohibited under certain conditions; penalties",
+      "text": "Purchase or sale of seafoods prohibited under certain conditions; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14218",
+      "number": "14:218.",
+      "heading": "Seafood sales and purchases; commercial license required of seller; penalties",
+      "text": "Seafood sales and purchases; commercial license required of seller; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14219",
+      "number": "14:219.",
+      "heading": "Removal of building or structure from immovable property subject to a conventional mortgage or vendor's privilege",
+      "text": "Removal of building or structure from immovable property subject to a conventional mortgage or vendor's privilege",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14220",
+      "number": "14:220.",
+      "heading": "Rented or leased motor vehicles; obtaining by false representation, etc.; failure to return; defenses; penalties",
+      "text": "Rented or leased motor vehicles; obtaining by false representation, etc.; failure to return; defenses; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142201",
+      "number": "14:220.1.",
+      "heading": "Leased movables; obtaining by false representation; failure to return or surrender; penalties; restitution",
+      "text": "Leased movables; obtaining by false representation; failure to return or surrender; penalties; restitution",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14221",
+      "number": "14:221.",
+      "heading": "Avoiding payment for telecommunications services, cable television services, or multipoint distribution system service",
+      "text": "Avoiding payment for telecommunications services, cable television services, or multipoint distribution system service",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14222",
+      "number": "14:222.",
+      "heading": "Possession, manufacture, sale or transfer of devices for avoidance of payment for telecommunications services or related offenses; seizure of devices",
+      "text": "Possession, manufacture, sale or transfer of devices for avoidance of payment for telecommunications services or related offenses; seizure of devices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142221",
+      "number": "14:222.1.",
+      "heading": "Unauthorized interception, interference with, or retransmission of services offered over a cable television system",
+      "text": "Unauthorized interception, interference with, or retransmission of services offered over a cable television system",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142222",
+      "number": "14:222.2.",
+      "heading": "Cellular telephone counterfeiting",
+      "text": "Cellular telephone counterfeiting",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142223",
+      "number": "14:222.3.",
+      "heading": "Unlawful use of a cellular tracking device; penalty",
+      "text": "Unlawful use of a cellular tracking device; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14223",
+      "number": "14:223.",
+      "heading": "Sound reproductions without consent prohibited",
+      "text": "Sound reproductions without consent prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142231",
+      "number": "14:223.1.",
+      "heading": "Terms defined",
+      "text": "Terms defined",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142232",
+      "number": "14:223.2.",
+      "heading": "Exceptions",
+      "text": "Exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142233",
+      "number": "14:223.3.",
+      "heading": "Penalties",
+      "text": "Penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142234",
+      "number": "14:223.4.",
+      "heading": "Civil remedies preserved",
+      "text": "Civil remedies preserved",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142235",
+      "number": "14:223.5.",
+      "heading": "Recording of performances without consent prohibited",
+      "text": "Recording of performances without consent prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142236",
+      "number": "14:223.6.",
+      "heading": "Rental or sale of improperly labeled articles prohibited",
+      "text": "Rental or sale of improperly labeled articles prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142237",
+      "number": "14:223.7.",
+      "heading": "Counterfeiting or possessing counterfeit labels prohibited",
+      "text": "Counterfeiting or possessing counterfeit labels prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142238",
+      "number": "14:223.8.",
+      "heading": "Possessing of tools and equipment used for manufacturing unauthorized sound recordings prohibited",
+      "text": "Possessing of tools and equipment used for manufacturing unauthorized sound recordings prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142239",
+      "number": "14:223.9.",
+      "heading": "Unlawful operation of a recording device",
+      "text": "Unlawful operation of a recording device",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14224",
+      "number": "14:224.",
+      "heading": "Transportation of water from St. Tammany Parish prohibited; penalties",
+      "text": "Transportation of water from St. Tammany Parish prohibited; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14225",
+      "number": "14:225.",
+      "heading": "Institutional vandalism",
+      "text": "Institutional vandalism",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14226",
+      "number": "14:226.",
+      "heading": "Protection of owners of crayfish farms; penalties",
+      "text": "Protection of owners of crayfish farms; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14227",
+      "number": "14:227.",
+      "heading": "Identification number, personal property, alteration or removal prohibited",
+      "text": "Identification number, personal property, alteration or removal prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14228",
+      "number": "14:228.",
+      "heading": "Interference with animal research facilities or animal management facilities",
+      "text": "Interference with animal research facilities or animal management facilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142281",
+      "number": "14:228.1.",
+      "heading": "Unauthorized release of certain animals, birds, or aquatic species",
+      "text": "Unauthorized release of certain animals, birds, or aquatic species",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14229",
+      "number": "14:229.",
+      "heading": "Illegal use of counterfeit trademark; penalties",
+      "text": "Illegal use of counterfeit trademark; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14230",
+      "number": "14:230.",
+      "heading": "Money laundering; transactions involving proceeds of criminal activity",
+      "text": "Money laundering; transactions involving proceeds of criminal activity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142301",
+      "number": "14:230.1.",
+      "heading": "Civil remedies",
+      "text": "Civil remedies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14231",
+      "number": "14:231.",
+      "heading": "Counterfeit and nonfunctional air bags prohibited; air bag fraud",
+      "text": "Counterfeit and nonfunctional air bags prohibited; air bag fraud",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14281",
+      "number": "14:281.",
+      "heading": "Disorderly place, maintaining of prohibited; penalty",
+      "text": "Disorderly place, maintaining of prohibited; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14282",
+      "number": "14:282.",
+      "heading": "Operation of places of prostitution prohibited; penalty",
+      "text": "Operation of places of prostitution prohibited; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14283",
+      "number": "14:283.",
+      "heading": "Video voyeurism; penalties",
+      "text": "Video voyeurism; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142831",
+      "number": "14:283.1.",
+      "heading": "Voyeurism; penalties",
+      "text": "Voyeurism; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142832",
+      "number": "14:283.2.",
+      "heading": "Nonconsensual disclosure of a private image",
+      "text": "Nonconsensual disclosure of a private image",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142833",
+      "number": "14:283.3.",
+      "heading": "Abuse of persons with infirmities through electronic means",
+      "text": "Abuse of persons with infirmities through electronic means",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14284",
+      "number": "14:284.",
+      "heading": "Peeping Tom; penalties",
+      "text": "Peeping Tom; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14285",
+      "number": "14:285.",
+      "heading": "Unlawful communications; telephones and telecommunications devices; improper language; harassment; penalty",
+      "text": "Unlawful communications; telephones and telecommunications devices; improper language; harassment; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14286",
+      "number": "14:286.",
+      "heading": "Sale of minor children and other prohibited activities; penalties",
+      "text": "Sale of minor children and other prohibited activities; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14311",
+      "number": "14:311.",
+      "heading": "Discharging fireworks or explosives within one thousand feet of hospital prohibited; penalty",
+      "text": "Discharging fireworks or explosives within one thousand feet of hospital prohibited; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14312",
+      "number": "14:312.",
+      "heading": "Jumping from state bridge for publicity prohibited; penalty",
+      "text": "Jumping from state bridge for publicity prohibited; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14313",
+      "number": "14:313.",
+      "heading": "Wearing of masks, hoods, or other facial disguises in public places prohibited; penalty; exceptions; permit to conduct Mardi Gras festivities; wearing of hoods, masks, or disguises by sex offenders",
+      "text": "Wearing of masks, hoods, or other facial disguises in public places prohibited; penalty; exceptions; permit to conduct Mardi Gras festivities; wearing of hoods, masks, or disguises by sex offenders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143131",
+      "number": "14:313.1.",
+      "heading": "Distributing candy or gifts on Halloween and other public holidays by \"sex offenders\" prohibited; penalty",
+      "text": "Distributing candy or gifts on Halloween and other public holidays by \"sex offenders\" prohibited; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14314",
+      "number": "14:314.",
+      "heading": "Mississippi River, making unauthorized cut-offs prohibited; penalty",
+      "text": "Mississippi River, making unauthorized cut-offs prohibited; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14315",
+      "number": "14:315.",
+      "heading": "Mississippi River, stopping outlets or bayous prohibited; reopening; penalty",
+      "text": "Mississippi River, stopping outlets or bayous prohibited; reopening; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14316",
+      "number": "14:316.",
+      "heading": "Repealed by Acts 2004, No. 577, §2.",
+      "text": "Repealed by Acts 2004, No. 577, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14317",
+      "number": "14:317.",
+      "heading": "Repealed by Acts 1972, No. 255, §1",
+      "text": "Repealed by Acts 1972, No. 255, §1",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14318",
+      "number": "14:318.",
+      "heading": "Sale of fireworks containing white or yellow phosphorus prohibited; penalty",
+      "text": "Sale of fireworks containing white or yellow phosphorus prohibited; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14319",
+      "number": "14:319.",
+      "heading": "Sale of toy pistols prohibited; penalty; exceptions",
+      "text": "Sale of toy pistols prohibited; penalty; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14320",
+      "number": "14:320.",
+      "heading": "Telegrams, divulging or obtaining knowledge of contents prohibited; penalty",
+      "text": "Telegrams, divulging or obtaining knowledge of contents prohibited; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14321",
+      "number": "14:321.",
+      "heading": "Unauthorized signals to persons in charge of locomotives, railroad trains or railroad cars prohibited; penalty",
+      "text": "Unauthorized signals to persons in charge of locomotives, railroad trains or railroad cars prohibited; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14322",
+      "number": "14:322.",
+      "heading": "Wire-tapping prohibited; penalty",
+      "text": "Wire-tapping prohibited; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143221",
+      "number": "14:322.1.",
+      "heading": "Repealed by Acts 1991, No. 795, §3, eff. July 22, 1991.",
+      "text": "Repealed by Acts 1991, No. 795, §3, eff. July 22, 1991.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143222",
+      "number": "14:322.2.",
+      "heading": "Repealed by Acts 1991, No. 795, §3, eff. July 22, 1991.",
+      "text": "Repealed by Acts 1991, No. 795, §3, eff. July 22, 1991.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14323",
+      "number": "14:323.",
+      "heading": "Tracking devices prohibited; penalty",
+      "text": "Tracking devices prohibited; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14324",
+      "number": "14:324.",
+      "heading": "Abandoning or discarding ice boxes or other air tight containers; penalty",
+      "text": "Abandoning or discarding ice boxes or other air tight containers; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14325",
+      "number": "14:325.",
+      "heading": "Annual registration of conductors of public opinion polls; penalty for failure",
+      "text": "Annual registration of conductors of public opinion polls; penalty for failure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14326",
+      "number": "14:326.",
+      "heading": "Processions, marches, parades, or demonstrations; permits; liability; bond; exemptions; penalty",
+      "text": "Processions, marches, parades, or demonstrations; permits; liability; bond; exemptions; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14327",
+      "number": "14:327.",
+      "heading": "Obstructing a fireman",
+      "text": "Obstructing a fireman",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14328",
+      "number": "14:328.",
+      "heading": "Obstruction or interference with members of staff, faculty, or students of educational institutions; trespass, damage to property; felony; penalties",
+      "text": "Obstruction or interference with members of staff, faculty, or students of educational institutions; trespass, damage to property; felony; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14329",
+      "number": "14:329.",
+      "heading": "Interfering with a law enforcement investigation",
+      "text": "Interfering with a law enforcement investigation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143291",
+      "number": "14:329.1.",
+      "heading": "Riot",
+      "text": "Riot",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143292",
+      "number": "14:329.2.",
+      "heading": "Inciting to riot",
+      "text": "Inciting to riot",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143293",
+      "number": "14:329.3.",
+      "heading": "Command to disperse; who may give; failure to comply",
+      "text": "Command to disperse; who may give; failure to comply",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143294",
+      "number": "14:329.4.",
+      "heading": "Wrongful use of public property; permits for use of public property",
+      "text": "Wrongful use of public property; permits for use of public property",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143295",
+      "number": "14:329.5.",
+      "heading": "Prohibition of interference with educational process; certain activities excepted",
+      "text": "Prohibition of interference with educational process; certain activities excepted",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143296",
+      "number": "14:329.6.",
+      "heading": "Proclamation of state of emergency; conditions therefor; effect thereof",
+      "text": "Proclamation of state of emergency; conditions therefor; effect thereof",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143297",
+      "number": "14:329.7.",
+      "heading": "Punishment",
+      "text": "Punishment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143298",
+      "number": "14:329.8.",
+      "heading": "Applicability of other acts",
+      "text": "Applicability of other acts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14330",
+      "number": "14:330.",
+      "heading": "Motion picture ratings; definitions; prohibition on advertising coming attraction with more restrictive rating",
+      "text": "Motion picture ratings; definitions; prohibition on advertising coming attraction with more restrictive rating",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14331",
+      "number": "14:331.",
+      "heading": "Prohibition of debt adjusting when conducted for profit",
+      "text": "Prohibition of debt adjusting when conducted for profit",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14332",
+      "number": "14:332.",
+      "heading": "Interference with medical treatment",
+      "text": "Interference with medical treatment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14333",
+      "number": "14:333.",
+      "heading": "Misrepresentation of age to obtain alcoholic beverages or gain entry to licensed premises prohibited; penalties",
+      "text": "Misrepresentation of age to obtain alcoholic beverages or gain entry to licensed premises prohibited; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14334",
+      "number": "14:334.",
+      "heading": "Ignition interlock device offenses",
+      "text": "Ignition interlock device offenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14335",
+      "number": "14:335.",
+      "heading": "Checks; requiring certain information to be recorded on; prohibited; penalties",
+      "text": "Checks; requiring certain information to be recorded on; prohibited; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14336",
+      "number": "14:336.",
+      "heading": "Unlawful aiming of a laser at an aircraft",
+      "text": "Unlawful aiming of a laser at an aircraft",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14337",
+      "number": "14:337.",
+      "heading": "Unlawful use of an unmanned aircraft system",
+      "text": "Unlawful use of an unmanned aircraft system",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143371",
+      "number": "14:337.1.",
+      "heading": "Unlawful use of an unmanned aircraft system at a parade",
+      "text": "Unlawful use of an unmanned aircraft system at a parade",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14338",
+      "number": "14:338.",
+      "heading": "Interfering with emergency communication",
+      "text": "Interfering with emergency communication",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14351",
+      "number": "14:351.",
+      "heading": "Bail, sale, etc. of real estate securing, prohibited; penalty",
+      "text": "Bail, sale, etc. of real estate securing, prohibited; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14352",
+      "number": "14:352.",
+      "heading": "Repealed by Acts 2010, No. 797, §2, eff. Jan. 1, 2011.",
+      "text": "Repealed by Acts 2010, No. 797, §2, eff. Jan. 1, 2011.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14353",
+      "number": "14:353.",
+      "heading": "Documents simulating official court papers for collection purposes, sale or purchase prohibited; use prohibited; penalty",
+      "text": "Documents simulating official court papers for collection purposes, sale or purchase prohibited; use prohibited; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14354",
+      "number": "14:354.",
+      "heading": "Fiduciaries, failure to file accounts in court; penalty",
+      "text": "Fiduciaries, failure to file accounts in court; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14355",
+      "number": "14:355.",
+      "heading": "Property exempt from execution; penalty for deprivation of rights",
+      "text": "Property exempt from execution; penalty for deprivation of rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14356",
+      "number": "14:356.",
+      "heading": "Sheriffs, etc., solicitation of legal business prohibited; penalty",
+      "text": "Sheriffs, etc., solicitation of legal business prohibited; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143561",
+      "number": "14:356.1.",
+      "heading": "Unlawful referrals by wrecker drivers and others; penalty",
+      "text": "Unlawful referrals by wrecker drivers and others; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143562",
+      "number": "14:356.2.",
+      "heading": "Unlawful appearance bond procurement",
+      "text": "Unlawful appearance bond procurement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143563",
+      "number": "14:356.3.",
+      "heading": "Unlawful referrals by ambulance drivers and others; penalty",
+      "text": "Unlawful referrals by ambulance drivers and others; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14357",
+      "number": "14:357.",
+      "heading": "Candies, selling without payment of license tax; penalty",
+      "text": "Candies, selling without payment of license tax; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14358",
+      "number": "14:358.",
+      "heading": "Subversive activities and communist control law; legislative finding of fact and declaration of necessity",
+      "text": "Subversive activities and communist control law; legislative finding of fact and declaration of necessity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14359",
+      "number": "14:359.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14360",
+      "number": "14:360.",
+      "heading": "Due process determination of facts",
+      "text": "Due process determination of facts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14361",
+      "number": "14:361.",
+      "heading": "Venue",
+      "text": "Venue",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14362",
+      "number": "14:362.",
+      "heading": "Registration of organizations",
+      "text": "Registration of organizations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14363",
+      "number": "14:363.",
+      "heading": "Registration of individuals",
+      "text": "Registration of individuals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14364",
+      "number": "14:364.",
+      "heading": "Registration statements to be public records",
+      "text": "Registration statements to be public records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14365",
+      "number": "14:365.",
+      "heading": "Election ballots",
+      "text": "Election ballots",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14366",
+      "number": "14:366.",
+      "heading": "Public office and public support, disqualification",
+      "text": "Public office and public support, disqualification",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14367",
+      "number": "14:367.",
+      "heading": "Labeling of propaganda",
+      "text": "Labeling of propaganda",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14368",
+      "number": "14:368.",
+      "heading": "Acts prohibited",
+      "text": "Acts prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14369",
+      "number": "14:369.",
+      "heading": "Penalties",
+      "text": "Penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14370",
+      "number": "14:370.",
+      "heading": "Additional penalties",
+      "text": "Additional penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14371",
+      "number": "14:371.",
+      "heading": "Screening of prospective public officials and employees",
+      "text": "Screening of prospective public officials and employees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14372",
+      "number": "14:372.",
+      "heading": "Candidates for public office; filing of nonsubversive affidavits",
+      "text": "Candidates for public office; filing of nonsubversive affidavits",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14373",
+      "number": "14:373.",
+      "heading": "Citation of subversive activities and communist control law",
+      "text": "Citation of subversive activities and communist control law",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14374",
+      "number": "14:374.",
+      "heading": "Failure to report bail bonds",
+      "text": "Failure to report bail bonds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14375",
+      "number": "14:375.",
+      "heading": "Illegal consideration for criminal bail bonds",
+      "text": "Illegal consideration for criminal bail bonds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14376",
+      "number": "14:376.",
+      "heading": "§§376, 377 Repealed by Acts 1965, No. 45, §3",
+      "text": "§§376, 377 Repealed by Acts 1965, No. 45, §3",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14378",
+      "number": "14:378.",
+      "heading": "§§378 to 380 Repealed by Acts 1962, No. 270, §1",
+      "text": "§§378 to 380 Repealed by Acts 1962, No. 270, §1",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14381",
+      "number": "14:381.",
+      "heading": "§§381 to 384 Blank",
+      "text": "§§381 to 384 Blank",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14385",
+      "number": "14:385.",
+      "heading": "Organizations engaged in social, educational or political activities; Communist affiliations prohibited",
+      "text": "Organizations engaged in social, educational or political activities; Communist affiliations prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14386",
+      "number": "14:386.",
+      "heading": "Affidavits",
+      "text": "Affidavits",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14387",
+      "number": "14:387.",
+      "heading": "Failure to file affidavit; penalty",
+      "text": "Failure to file affidavit; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14388",
+      "number": "14:388.",
+      "heading": "False statements in affidavit as perjury",
+      "text": "False statements in affidavit as perjury",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14389",
+      "number": "14:389.",
+      "heading": "Blank",
+      "text": "Blank",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14390",
+      "number": "14:390.",
+      "heading": "Declaration of public policy",
+      "text": "Declaration of public policy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143901",
+      "number": "14:390.1.",
+      "heading": "Definition of communist propaganda",
+      "text": "Definition of communist propaganda",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143902",
+      "number": "14:390.2.",
+      "heading": "Acts prohibited",
+      "text": "Acts prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143903",
+      "number": "14:390.3.",
+      "heading": "Legitimate procurement of contraband",
+      "text": "Legitimate procurement of contraband",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143904",
+      "number": "14:390.4.",
+      "heading": "Venue",
+      "text": "Venue",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143905",
+      "number": "14:390.5.",
+      "heading": "Warehousing and storage",
+      "text": "Warehousing and storage",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143906",
+      "number": "14:390.6.",
+      "heading": "Destruction of contraband",
+      "text": "Destruction of contraband",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143907",
+      "number": "14:390.7.",
+      "heading": "Penalties",
+      "text": "Penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143908",
+      "number": "14:390.8.",
+      "heading": "Short title",
+      "text": "Short title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14401",
+      "number": "14:401.",
+      "heading": "Demonstrations in or near building housing a court or occupied as residence by judge, juror, witness, or court officer",
+      "text": "Demonstrations in or near building housing a court or occupied as residence by judge, juror, witness, or court officer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14402",
+      "number": "14:402.",
+      "heading": "Contraband defined; certain activities regarding contraband in correctional facilities prohibited; penalty; disposition of seized contraband",
+      "text": "Contraband defined; certain activities regarding contraband in correctional facilities prohibited; penalty; disposition of seized contraband",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-144021",
+      "number": "14:402.1.",
+      "heading": "Taking of contraband to hospitals unlawful; penalty",
+      "text": "Taking of contraband to hospitals unlawful; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14403",
+      "number": "14:403.",
+      "heading": "Abuse of children; reports; waiver of privilege",
+      "text": "Abuse of children; reports; waiver of privilege",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-144031",
+      "number": "14:403.1.",
+      "heading": "Substance abuse in schools; definitions; confidential reports; immunity; penalty",
+      "text": "Substance abuse in schools; definitions; confidential reports; immunity; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-144032",
+      "number": "14:403.2.",
+      "heading": "Abuse and neglect of adults",
+      "text": "Abuse and neglect of adults",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-144033",
+      "number": "14:403.3.",
+      "heading": "Reports of missing children; procedures; false reports or communications; penalties",
+      "text": "Reports of missing children; procedures; false reports or communications; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-144034",
+      "number": "14:403.4.",
+      "heading": "Burn injuries and wounds; reports; registry; immunity; penalties",
+      "text": "Burn injuries and wounds; reports; registry; immunity; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-144035",
+      "number": "14:403.5.",
+      "heading": "Gunshot wounds; mandatory reporting",
+      "text": "Gunshot wounds; mandatory reporting",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-144036",
+      "number": "14:403.6.",
+      "heading": "Reporting of neglect or abuse of animals",
+      "text": "Reporting of neglect or abuse of animals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-144037",
+      "number": "14:403.7.",
+      "heading": "Failure to report a missing child",
+      "text": "Failure to report a missing child",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-144038",
+      "number": "14:403.8.",
+      "heading": "Failure to report the death of a child",
+      "text": "Failure to report the death of a child",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-144039",
+      "number": "14:403.9.",
+      "heading": "Alcohol consumption; emergency assistance and cooperation; immunity",
+      "text": "Alcohol consumption; emergency assistance and cooperation; immunity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1440310",
+      "number": "14:403.10.",
+      "heading": "Drug-related overdoses; medical assistance; immunity from prosecution",
+      "text": "Drug-related overdoses; medical assistance; immunity from prosecution",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1440311",
+      "number": "14:403.11.",
+      "heading": "Administration of opiate antagonists; immunity",
+      "text": "Administration of opiate antagonists; immunity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14404",
+      "number": "14:404.",
+      "heading": "Self-mutilation by a prisoner",
+      "text": "Self-mutilation by a prisoner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14405",
+      "number": "14:405.",
+      "heading": "Unlawful establishment of accounts on Internet-based social networking websites by inmates",
+      "text": "Unlawful establishment of accounts on Internet-based social networking websites by inmates",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14501",
+      "number": "14:501.",
+      "heading": "Killing or injuring a person while hunting; penalty for failure to render aid",
+      "text": "Killing or injuring a person while hunting; penalty for failure to render aid",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14502",
+      "number": "14:502.",
+      "heading": "Failure to seek assistance",
+      "text": "Failure to seek assistance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14511",
+      "number": "14:511.",
+      "heading": "Loansharking; penalty",
+      "text": "Loansharking; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14512",
+      "number": "14:512.",
+      "heading": "Aggravated loansharking; penalty",
+      "text": "Aggravated loansharking; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14513",
+      "number": "14:513.",
+      "heading": "Possession of loanshark records; penalty",
+      "text": "Possession of loanshark records; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14601",
+      "number": "14:601.",
+      "heading": "Louisiana Felony Class System Task Force",
+      "text": "Louisiana Felony Class System Task Force",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

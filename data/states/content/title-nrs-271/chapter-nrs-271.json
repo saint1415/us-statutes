@@ -1,0 +1,1862 @@
+{
+  "state": "nevada",
+  "path": "title-nrs-271/chapter-nrs-271",
+  "sections": [
+    {
+      "id": "section-271010",
+      "number": "271.010",
+      "heading": "Short",
+      "text": "title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271015",
+      "number": "271.015",
+      "heading": "Applicability",
+      "text": "of chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271017",
+      "number": "271.017",
+      "heading": "Issuance",
+      "text": "of interim warrants and bonds by municipality.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271020",
+      "number": "271.020",
+      "heading": "Legislative",
+      "text": "declaration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271025",
+      "number": "271.025",
+      "heading": "Decision",
+      "text": "of governing body prima facie evidence of correctness.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271030",
+      "number": "271.030",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271035",
+      "number": "271.035",
+      "heading": "Acquisition�",
+      "text": "and �acquire� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271037",
+      "number": "271.037",
+      "heading": "Art",
+      "text": "project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271040",
+      "number": "271.040",
+      "heading": "Assessable",
+      "text": "property� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271045",
+      "number": "271.045",
+      "heading": "Assessment�",
+      "text": "and �assess� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271050",
+      "number": "271.050",
+      "heading": "Assessment",
+      "text": "lien� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271055",
+      "number": "271.055",
+      "heading": "Assessment",
+      "text": "unit� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271057",
+      "number": "271.057",
+      "heading": "Association�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271060",
+      "number": "271.060",
+      "heading": "Clerk�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271065",
+      "number": "271.065",
+      "heading": "Condemnation�",
+      "text": "and �condemn� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271070",
+      "number": "271.070",
+      "heading": "Cost�",
+      "text": "and �cost of project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271075",
+      "number": "271.075",
+      "heading": "County�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271080",
+      "number": "271.080",
+      "heading": "County",
+      "text": "assessor� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271085",
+      "number": "271.085",
+      "heading": "County",
+      "text": "treasurer� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271090",
+      "number": "271.090",
+      "heading": "Curb",
+      "text": "and gutter project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271095",
+      "number": "271.095",
+      "heading": "Drainage",
+      "text": "project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271097",
+      "number": "271.097",
+      "heading": "Electrical",
+      "text": "project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271098",
+      "number": "271.098",
+      "heading": "Energy",
+      "text": "efficiency improvement� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271099",
+      "number": "271.099",
+      "heading": "Energy",
+      "text": "efficiency improvement project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271100",
+      "number": "271.100",
+      "heading": "Engineer�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271105",
+      "number": "271.105",
+      "heading": "Equipment�",
+      "text": "and �equip� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271110",
+      "number": "271.110",
+      "heading": "Federal",
+      "text": "Government� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271113",
+      "number": "271.113",
+      "heading": "Fire",
+      "text": "protection project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271115",
+      "number": "271.115",
+      "heading": "Governing",
+      "text": "body� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271120",
+      "number": "271.120",
+      "heading": "Hereby,�",
+      "text": "�herein,� �hereinabove,� �hereinafter,� �hereinbefore,� �hereof,� �hereto� and\n\n�hereunder� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271125",
+      "number": "271.125",
+      "heading": "Improvement�",
+      "text": "and �improve� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271130",
+      "number": "271.130",
+      "heading": "Improvement",
+      "text": "district� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271135",
+      "number": "271.135",
+      "heading": "Mailed",
+      "text": "notice� and �notice by mail� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271140",
+      "number": "271.140",
+      "heading": "Member�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271145",
+      "number": "271.145",
+      "heading": "Municipality�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271147",
+      "number": "271.147",
+      "heading": "Neighborhood",
+      "text": "improvement project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271150",
+      "number": "271.150",
+      "heading": "Off-street",
+      "text": "parking project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271152",
+      "number": "271.152",
+      "heading": "Overhead",
+      "text": "service facilities� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271155",
+      "number": "271.155",
+      "heading": "Overpass",
+      "text": "project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271160",
+      "number": "271.160",
+      "heading": "Park",
+      "text": "project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271170",
+      "number": "271.170",
+      "heading": "Posting�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271175",
+      "number": "271.175",
+      "heading": "Project�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271178",
+      "number": "271.178",
+      "heading": "Promotional",
+      "text": "activity� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271180",
+      "number": "271.180",
+      "heading": "Property�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271185",
+      "number": "271.185",
+      "heading": "Public",
+      "text": "body� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271190",
+      "number": "271.190",
+      "heading": "Publication�",
+      "text": "and �publish� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271193",
+      "number": "271.193",
+      "heading": "Rail",
+      "text": "project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271195",
+      "number": "271.195",
+      "heading": "Real",
+      "text": "property� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271197",
+      "number": "271.197",
+      "heading": "Renewable",
+      "text": "energy� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271199",
+      "number": "271.199",
+      "heading": "Renewable",
+      "text": "energy project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271200",
+      "number": "271.200",
+      "heading": "Sanitary",
+      "text": "sewer project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271203",
+      "number": "271.203",
+      "heading": "Security",
+      "text": "wall� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271204",
+      "number": "271.204",
+      "heading": "Service",
+      "text": "facilities� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2712045",
+      "number": "271.2045",
+      "heading": "Service",
+      "text": "provider� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271205",
+      "number": "271.205",
+      "heading": "Sidewalk",
+      "text": "project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271208",
+      "number": "271.208",
+      "heading": "Special",
+      "text": "benefit� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271210",
+      "number": "271.210",
+      "heading": "State�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271215",
+      "number": "271.215",
+      "heading": "Storm",
+      "text": "sewer project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271220",
+      "number": "271.220",
+      "heading": "Street�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271223",
+      "number": "271.223",
+      "heading": "Street",
+      "text": "beautification project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271225",
+      "number": "271.225",
+      "heading": "Street",
+      "text": "project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271230",
+      "number": "271.230",
+      "heading": "Taxes�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271232",
+      "number": "271.232",
+      "heading": "Telephone",
+      "text": "project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271234",
+      "number": "271.234",
+      "heading": "Tourism",
+      "text": "and entertainment project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271235",
+      "number": "271.235",
+      "heading": "Tract�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271237",
+      "number": "271.237",
+      "heading": "Transportation",
+      "text": "project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271240",
+      "number": "271.240",
+      "heading": "Treasurer�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271242",
+      "number": "271.242",
+      "heading": "Underground",
+      "text": "conversion project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271245",
+      "number": "271.245",
+      "heading": "Underpass",
+      "text": "project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271250",
+      "number": "271.250",
+      "heading": "Water",
+      "text": "project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271252",
+      "number": "271.252",
+      "heading": "Waterfront",
+      "text": "maintenance project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271253",
+      "number": "271.253",
+      "heading": "Waterfront",
+      "text": "project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271255",
+      "number": "271.255",
+      "heading": "Computation",
+      "text": "of time.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271257",
+      "number": "271.257",
+      "heading": "Circumstances",
+      "text": "under which majority of property owners may act on behalf of all property\n\nowners.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271265",
+      "number": "271.265",
+      "heading": "General",
+      "text": "powers of counties, cities and towns. [Effective through June 30, 2032.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271270",
+      "number": "271.270",
+      "heading": "Collateral",
+      "text": "powers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271275",
+      "number": "271.275",
+      "heading": "Procedure",
+      "text": "for initiating acquisition or improvement of project.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271280",
+      "number": "271.280",
+      "heading": "Procedure",
+      "text": "for provisional order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271285",
+      "number": "271.285",
+      "heading": "Procedure",
+      "text": "for petition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271290",
+      "number": "271.290",
+      "heading": "Subsequent",
+      "text": "procedure after filing of petition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271295",
+      "number": "271.295",
+      "heading": "Combination",
+      "text": "of projects.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271296",
+      "number": "271.296",
+      "heading": "Neighborhood",
+      "text": "improvement projects: Dissolution of improvement district.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271297",
+      "number": "271.297",
+      "heading": "Neighborhood",
+      "text": "improvement projects: Modification of plan or plat.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271300",
+      "number": "271.300",
+      "heading": "Effect",
+      "text": "of estimates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271305",
+      "number": "271.305",
+      "heading": "Provisional",
+      "text": "order: Provision and contents of notice of hearing; restrictions on changes\n\nafter provision of notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271306",
+      "number": "271.306",
+      "heading": "Apportionment",
+      "text": "of assessments for irregularly shaped tracts; objections to acquisition or\n\nimprovement of project.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271307",
+      "number": "271.307",
+      "heading": "Preparation",
+      "text": "of document by engineer without prior direction of governing body.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271308",
+      "number": "271.308",
+      "heading": "Emergency",
+      "text": "ordinance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271310",
+      "number": "271.310",
+      "heading": "Provisional",
+      "text": "order: Hearing; determination of governing body.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271315",
+      "number": "271.315",
+      "heading": "Appeal",
+      "text": "from adverse order: Pleading with particularity required; judicial review\n\nlimited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271320",
+      "number": "271.320",
+      "heading": "Procedure",
+      "text": "after hearing; modification; division into construction units.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271325",
+      "number": "271.325",
+      "heading": "Resolution",
+      "text": "of governing body; adoption and amendment of ordinance creating district;\n\nrecording list of tracts and estimated assessments; overlapping boundaries of\n\nneighborhood improvement projects prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271330",
+      "number": "271.330",
+      "heading": "Methods",
+      "text": "of acquisition or improvement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271332",
+      "number": "271.332",
+      "heading": "Neighborhood",
+      "text": "improvement projects: Governing body authorized to contract for provision of\n\nimprovements with nonprofit association; requirements for association;\n\nextension of terms of contract; contract to ensure type and level of services\n\ncontinue.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271333",
+      "number": "271.333",
+      "heading": "Neighborhood",
+      "text": "improvement projects: Contract with nonprofit association to provide for\n\ninternal controls and audits; authority of governing body to take control of\n\ncertain assets of association.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271335",
+      "number": "271.335",
+      "heading": "Construction",
+      "text": "contracts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271337",
+      "number": "271.337",
+      "heading": "Addition",
+      "text": "of certain improvements to existing contracts for construction work; waiver of\n\ncertain requirements by owner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271340",
+      "number": "271.340",
+      "heading": "Construction",
+      "text": "by municipality: Supplies and materials.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271345",
+      "number": "271.345",
+      "heading": "Cooperative",
+      "text": "construction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271350",
+      "number": "271.350",
+      "heading": "Use",
+      "text": "of existing improvements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271355",
+      "number": "271.355",
+      "heading": "Interim",
+      "text": "warrants.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271357",
+      "number": "271.357",
+      "heading": "Establishment",
+      "text": "of procedure for obtaining hardship determination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271360",
+      "number": "271.360",
+      "heading": "Order",
+      "text": "for proposed assessment roll; form of roll; postponement of assessments on\n\nproperty for which hardship determination has been approved; effect of improper\n\ndesignation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271365",
+      "number": "271.365",
+      "heading": "Method",
+      "text": "of computing and limitations upon assessments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271366",
+      "number": "271.366",
+      "heading": "Property",
+      "text": "of school district exempt from assessments unless consented to by board of\n\ntrustees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2713665",
+      "number": "271.3665",
+      "heading": "Limitation",
+      "text": "on assessments against municipal land.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271367",
+      "number": "271.367",
+      "heading": "Apportionment",
+      "text": "of assessments for security wall.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271369",
+      "number": "271.369",
+      "heading": "Transportation",
+      "text": "project: Estimate of expenditures to maintain, operate, improve and repair\n\nproject; assessment; use of proceeds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2713695",
+      "number": "271.3695",
+      "heading": "Special",
+      "text": "assessment for extraordinary maintenance, repair and improvement of project\n\nlocated in redevelopment area in certain counties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271370",
+      "number": "271.370",
+      "heading": "Determination",
+      "text": "of assessable tracts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271375",
+      "number": "271.375",
+      "heading": "Preparation",
+      "text": "of proposed assessment roll; report to governing body.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271377",
+      "number": "271.377",
+      "heading": "Estimate",
+      "text": "of expenditures and proposed amendment to assessment roll for neighborhood\n\nimprovement projects; public meeting required; agenda for public meeting; confirmation\n\nof amendment to assessment by resolution; limit on distribution from local\n\ngovernment tax distribution account.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271378",
+      "number": "271.378",
+      "heading": "Estimate",
+      "text": "of expenditures and proposed assessment roll for street beautification\n\nprojects; public hearing required; confirmation of assessments; installment\n\npayments authorized.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271379",
+      "number": "271.379",
+      "heading": "Estimate",
+      "text": "of expenditures and proposed assessment roll for waterfront maintenance\n\nprojects; public hearing required; confirmation of assessments; installment\n\npayments authorized; separate fund for proceeds of assessments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271380",
+      "number": "271.380",
+      "heading": "Notice",
+      "text": "of hearing for assessment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271385",
+      "number": "271.385",
+      "heading": "Hearing",
+      "text": "for assessment; objections waived unless properly filed in writing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271390",
+      "number": "271.390",
+      "heading": "Levy",
+      "text": "of assessments; notice; final determination conclusive; roll prima facie\n\nevidence of regularity and validity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271392",
+      "number": "271.392",
+      "heading": "Protest",
+      "text": "by owner or resident of property to be included within assessment plat for\n\nneighborhood improvement project; modification of assessment plat by governing\n\nbody.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271395",
+      "number": "271.395",
+      "heading": "Appeal",
+      "text": "from adverse determination; scope of judicial review.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271400",
+      "number": "271.400",
+      "heading": "Assessment",
+      "text": "for street and alley intersections.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271405",
+      "number": "271.405",
+      "heading": "Thirty-day",
+      "text": "period for payment; deferred payments; notice of levy of assessment and\n\nrequired payment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271407",
+      "number": "271.407",
+      "heading": "Assessments",
+      "text": "against State and political subdivisions: Ninety-day period of payment;\n\ndeferred payments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271409",
+      "number": "271.409",
+      "heading": "Date",
+      "text": "when payment by mail without postmark or with illegible postmark is deemed\n\nreceived.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271410",
+      "number": "271.410",
+      "heading": "Acceleration",
+      "text": "upon delinquency.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271415",
+      "number": "271.415",
+      "heading": "Limitations",
+      "text": "upon deferred payments; rates of interest; notice of required installment;\n\napplication of credit against payment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271420",
+      "number": "271.420",
+      "heading": "Liens;",
+      "text": "recording final assessment roll and statement of information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271425",
+      "number": "271.425",
+      "heading": "Division",
+      "text": "or combination of tracts: Apportionment or combination of assessments\n\nauthorized; consent of owners; recording of report and statement of\n\ninformation; delegation of duties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271428",
+      "number": "271.428",
+      "heading": "Surplus",
+      "text": "and deficiency fund: Source; uses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271429",
+      "number": "271.429",
+      "heading": "Refund",
+      "text": "of surplus; notice of availability of surplus; claim for refund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271430",
+      "number": "271.430",
+      "heading": "Payment",
+      "text": "of deficiency in assessment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271431",
+      "number": "271.431",
+      "heading": "Pledge",
+      "text": "of revenues.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2714315",
+      "number": "271.4315",
+      "heading": "Application",
+      "text": "of revenues and credits to payment of assessments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271432",
+      "number": "271.432",
+      "heading": "Covenants",
+      "text": "for securing payment of assessments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2714325",
+      "number": "271.4325",
+      "heading": "Lien",
+      "text": "of pledge of revenues.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271433",
+      "number": "271.433",
+      "heading": "Rights",
+      "text": "and remedies of owners of property assessed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2714335",
+      "number": "271.4335",
+      "heading": "Rights",
+      "text": "and remedies cumulative.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271434",
+      "number": "271.434",
+      "heading": "Inaction",
+      "text": "of owner does not relieve municipal officers and agents of liability for\n\nnonperformance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271435",
+      "number": "271.435",
+      "heading": "Reassessments.",
+      "text": "Reassessments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271440",
+      "number": "271.440",
+      "heading": "Reassessment:",
+      "text": "Credit for payment of prior assessment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271445",
+      "number": "271.445",
+      "heading": "Collection",
+      "text": "of assessments; assessment roll and ordinance levying assessment prima facie\n\nevidence of right to recover; reduction or waiver of certain penalties and\n\ninterest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271450",
+      "number": "271.450",
+      "heading": "Procedure",
+      "text": "to place previously omitted property upon assessment roll.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271455",
+      "number": "271.455",
+      "heading": "Validity",
+      "text": "of assessment for local improvement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271460",
+      "number": "271.460",
+      "heading": "Payment",
+      "text": "of assessments by joint owner: Recovery from co-owners; lien.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271465",
+      "number": "271.465",
+      "heading": "Assessment",
+      "text": "paid in error: Recovery.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271470",
+      "number": "271.470",
+      "heading": "Error",
+      "text": "in assessment: Judgment for expenses of municipality properly chargeable\n\nagainst owner or tract.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271472",
+      "number": "271.472",
+      "heading": "Financial",
+      "text": "report required of association providing improvements for neighborhood\n\nimprovement projects.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271475",
+      "number": "271.475",
+      "heading": "Bonds:",
+      "text": "Power to issue; adoption and effective date of ordinance; payment of proceeds\n\nused to pay costs of energy efficiency improvement project or renewable energy\n\nproject.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271477",
+      "number": "271.477",
+      "heading": "Issuance",
+      "text": "of bonds payable solely from proceeds of assessments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271480",
+      "number": "271.480",
+      "heading": "Recital",
+      "text": "of compliance in bonds or deed conclusive evidence of facts recited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271485",
+      "number": "271.485",
+      "heading": "Bonds:",
+      "text": "Sale; rate of interest; proceeds; validity; contract to sell special assessment\n\nbonds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271487",
+      "number": "271.487",
+      "heading": "Determination",
+      "text": "by designated agent of rates of interest on bonds and unpaid installments of\n\nassessments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271488",
+      "number": "271.488",
+      "heading": "Issuance",
+      "text": "of bonds to refund all or portion of outstanding bonds; bonds to be secured by\n\ncertain assessments; power of governing body to amend assessment ordinance;\n\nduties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271489",
+      "number": "271.489",
+      "heading": "Agreements",
+      "text": "for assurance of payments on bonds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2714895",
+      "number": "271.4895",
+      "heading": "Submission",
+      "text": "of annual financial information to Director of Legislative Counsel Bureau.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271490",
+      "number": "271.490",
+      "heading": "Fund",
+      "text": "for payment of bonds; deposit and use of money collected from penalties,\n\ncollection costs and interest; payment of administrative costs incurred in\n\nconnection with district.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271495",
+      "number": "271.495",
+      "heading": "Deficiency",
+      "text": "in bond fund or surplus and deficiency fund: Payment from general fund; levy of\n\ntax.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271497",
+      "number": "271.497",
+      "heading": "Municipality",
+      "text": "to prepare final accounting of bond fund; requirements for final accounting;\n\ntime for completing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271500",
+      "number": "271.500",
+      "heading": "Municipality�s",
+      "text": "liability on bonds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271502",
+      "number": "271.502",
+      "heading": "Assessments",
+      "text": "and other revenues pledged for payment of securities: Lien of pledge; priority;\n\nvalidity against third persons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271505",
+      "number": "271.505",
+      "heading": "Incontestable",
+      "text": "recital in bonds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271515",
+      "number": "271.515",
+      "heading": "Bonds:",
+      "text": "Form; terms; execution; facsimile signature.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271520",
+      "number": "271.520",
+      "heading": "Bonds:",
+      "text": "Exemption from taxation; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271525",
+      "number": "271.525",
+      "heading": "Early",
+      "text": "hearings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271530",
+      "number": "271.530",
+      "heading": "Effect",
+      "text": "of faulty notice of hearing; proper notice; continuance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271535",
+      "number": "271.535",
+      "heading": "Legal",
+      "text": "investments in bonds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271536",
+      "number": "271.536",
+      "heading": "Advances",
+      "text": "of money for certain improvements in lieu of issuance of bonds or interim\n\nsecurities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271537",
+      "number": "271.537",
+      "heading": "Limitation",
+      "text": "on number of annual installments to repay advancement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271538",
+      "number": "271.538",
+      "heading": "Medium-term",
+      "text": "obligations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271540",
+      "number": "271.540",
+      "heading": "Procedure",
+      "text": "for collection and enforcement of assessments by municipal treasurer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271545",
+      "number": "271.545",
+      "heading": "Delinquent",
+      "text": "assessment or installment marked delinquent on assessment roll; contents of\n\nnotice of sale of property; ordinance to establish procedures for conducting\n\nsale of property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271550",
+      "number": "271.550",
+      "heading": "Notice",
+      "text": "of sale by publication and mail.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271555",
+      "number": "271.555",
+      "heading": "Public",
+      "text": "sale: Time, place and continuation; order of sale of property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271560",
+      "number": "271.560",
+      "heading": "Sale",
+      "text": "to person offering to pay amount due; when stricken off to municipality; resale\n\nof property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271565",
+      "number": "271.565",
+      "heading": "Report",
+      "text": "of sale by municipal treasurer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271570",
+      "number": "271.570",
+      "heading": "Certificate",
+      "text": "of sale: Contents; signature; delivery.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271575",
+      "number": "271.575",
+      "heading": "Municipal",
+      "text": "clerk custodian of certificates for property sold to municipality; sale or\n\ntransfer of certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271580",
+      "number": "271.580",
+      "heading": "Entry",
+      "text": "of payments and redemptions by treasurer on assessment roll.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271585",
+      "number": "271.585",
+      "heading": "Property",
+      "text": "bid in by or stricken off to municipality held in trust by municipality for\n\nspecial assessment district; when municipality may take and hold property\n\ndischarged of trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271590",
+      "number": "271.590",
+      "heading": "Sale",
+      "text": "of property by municipality after expiration of period of redemption; notice;\n\npublic auction; disposition of proceeds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271595",
+      "number": "271.595",
+      "heading": "Redemption",
+      "text": "of property; certificate of redemption; notice to owner of demand of purchaser;\n\nexecution and delivery of deed to purchaser if redemption not made; date when\n\nredemption payment is deemed to have been made; expiration of certificate of\n\nsale; deed not to be executed to holder of expired certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271600",
+      "number": "271.600",
+      "heading": "Recitals,",
+      "text": "contents and execution of deed; deed as conclusive evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271605",
+      "number": "271.605",
+      "heading": "Fees",
+      "text": "for issuance of certificate of sale and deed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271610",
+      "number": "271.610",
+      "heading": "Acquisition",
+      "text": "of lien by purchaser of certificate of sale; interest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271615",
+      "number": "271.615",
+      "heading": "Notice",
+      "text": "to municipal treasurer of proceeding to foreclose lien for general taxes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271620",
+      "number": "271.620",
+      "heading": "Sale",
+      "text": "of unsold property after maturity of last unpaid installment of bond issue.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271625",
+      "number": "271.625",
+      "heading": "Action",
+      "text": "by municipality for collection and enforcement of delinquent assessment or\n\ninstallment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271630",
+      "number": "271.630",
+      "heading": "Foreclosure",
+      "text": "actions and proceedings against municipality by holders of bonds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2716301",
+      "number": "271.6301",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2716302",
+      "number": "271.6302",
+      "heading": "Capital",
+      "text": "provider� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2716303",
+      "number": "271.6303",
+      "heading": "Energy",
+      "text": "efficiency improvement project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2716304",
+      "number": "271.6304",
+      "heading": "Financing",
+      "text": "agreement� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2716305",
+      "number": "271.6305",
+      "heading": "Program",
+      "text": "guide� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2716306",
+      "number": "271.6306",
+      "heading": "Property",
+      "text": "owner� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2716307",
+      "number": "271.6307",
+      "heading": "Qualified",
+      "text": "improvement project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2716308",
+      "number": "271.6308",
+      "heading": "Renewable",
+      "text": "energy project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2716309",
+      "number": "271.6309",
+      "heading": "Resiliency",
+      "text": "project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271631",
+      "number": "271.631",
+      "heading": "Water",
+      "text": "efficiency improvement project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2716312",
+      "number": "271.6312",
+      "heading": "Power",
+      "text": "of municipality to create district; ownership of improvements or installations\n\nwithin district; inapplicability of certain provisions related to local\n\nimprovements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2716315",
+      "number": "271.6315",
+      "heading": "Procedure",
+      "text": "for creation of district.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27163155",
+      "number": "271.63155",
+      "heading": "Financing",
+      "text": "or refinancing: Assessment on real property; bonds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2716316",
+      "number": "271.6316",
+      "heading": "Voluntary",
+      "text": "assessment and direct financing agreements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27163165",
+      "number": "271.63165",
+      "heading": "Notice",
+      "text": "of assessment and assessment lien; contents of notice; priority of assessment\n\nlien.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2716317",
+      "number": "271.6317",
+      "heading": "Conditions",
+      "text": "for lessee of real property to enter into financing agreement with capital\n\nprovider.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27163175",
+      "number": "271.63175",
+      "heading": "Municipality",
+      "text": "immune from liability; municipality prohibited from using or pledging public\n\nfunds or money to secure obligations; imposition of fee on property owner to\n\nrecover administrative costs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2716321",
+      "number": "271.6321",
+      "heading": "Requirements",
+      "text": "for construction; laws relating to public bidding, public works and public\n\nprocurement not applicable.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2716325",
+      "number": "271.6325",
+      "heading": "Resolution",
+      "text": "of governing body specifying procedures for the creation and administration of\n\ndistrict; program guide.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271635",
+      "number": "271.635",
+      "heading": "Administration",
+      "text": "of certain improvement districts pursuant to economic development financing\n\nagreement approved by Office of Economic Development.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271640",
+      "number": "271.640",
+      "heading": "Applicability.",
+      "text": "Applicability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2716405",
+      "number": "271.6405",
+      "heading": "Authorized",
+      "text": "modifications.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271641",
+      "number": "271.641",
+      "heading": "Engineer�s",
+      "text": "report: Preparation and filing; contents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2716415",
+      "number": "271.6415",
+      "heading": "Modification",
+      "text": "if protest hearing not required: Conditions; adoption of ordinance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271642",
+      "number": "271.642",
+      "heading": "Modification",
+      "text": "if protest hearing required: Provisional order; contents and provision of\n\nnotice of hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2716425",
+      "number": "271.6425",
+      "heading": "Modification",
+      "text": "if protest hearing required: Prohibited if certain owners of tracts in district\n\nobject within time specified in notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271643",
+      "number": "271.643",
+      "heading": "Modification",
+      "text": "if protest hearing required: Conduct of hearing; consideration and waiver of\n\ncomplaints, protests and objections concerning modification; procedure for\n\ntermination of proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2716435",
+      "number": "271.6435",
+      "heading": "Modification",
+      "text": "if protest hearing required: Appeal from adverse determination; scope of\n\njudicial review.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271644",
+      "number": "271.644",
+      "heading": "Modification",
+      "text": "if protest hearing required: Final determination of modification and\n\nassessments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2716445",
+      "number": "271.6445",
+      "heading": "Modification",
+      "text": "if protest hearing required: Adoption of ordinance modifying project and\n\nassessments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271645",
+      "number": "271.645",
+      "heading": "Recording",
+      "text": "of list of tracts, assessments and special benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2716455",
+      "number": "271.6455",
+      "heading": "Establishment",
+      "text": "of procedure for providing payment or credit for reduced assessments resulting\n\nfrom modification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271646",
+      "number": "271.646",
+      "heading": "Authority",
+      "text": "of governing body to require requester of modification to pay expenses incurred\n\nin relevant proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271650",
+      "number": "271.650",
+      "heading": "Pledge",
+      "text": "of sales or use tax proceeds in assessment ordinance for project in certain\n\ncounties: Amount; required determinations; interlocal agreements;\n\nconclusiveness of determinations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271660",
+      "number": "271.660",
+      "heading": "Agreement",
+      "text": "with Department of Taxation regarding distribution of pledged amounts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271670",
+      "number": "271.670",
+      "heading": "Agreement",
+      "text": "with owner of property interest in district to defray cost of local governmental\n\nservices during term of pledge: Contents; determination by governing body of\n\nmunicipality; notice to and hearing by board of trustees of school district;\n\nconclusiveness of governing body�s determination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271680",
+      "number": "271.680",
+      "heading": "Limitations",
+      "text": "on issuance of bonds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271700",
+      "number": "271.700",
+      "heading": "Applicability",
+      "text": "ofNRS 271.700to271.730, inclusive.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271710",
+      "number": "271.710",
+      "heading": "Exemption",
+      "text": "from compliance with certain provisions; agreement with owners of all assessable\n\nproperty in district; powers of governing body; applicability of provisions\n\ngoverning payment of prevailing wage for projects.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271720",
+      "number": "271.720",
+      "heading": "Requirements,",
+      "text": "conditions and effect of agreement with owners of all assessable property in\n\ndistrict.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271730",
+      "number": "271.730",
+      "heading": "Fixing",
+      "text": "of rates of interest regarding property sold after date of agreement with\n\nowners of all property in district.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271800",
+      "number": "271.800",
+      "heading": "Procedure",
+      "text": "for establishing district; combination with another project; requirements for\n\nconstruction of project; applicability of public bidding requirements limited;\n\napplicability of provisions governing prevailing wage for projects;\n\nprerequisites to commencement of construction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271850",
+      "number": "271.850",
+      "heading": "Requirements",
+      "text": "for placement of service facilities underground; calculation of costs for\n\nconversion.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-icle",
+      "number": "icle",
+      "heading": "8",
+      "text": "8",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2",
+      "number": "2",
+      "heading": "of Article 10",
+      "text": "of Article 10",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

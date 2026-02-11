@@ -1,0 +1,854 @@
+{
+  "state": "new-mexico",
+  "path": "title-chapter-53-corporations/chapter-article-8-nonprofit-corporations",
+  "sections": [
+    {
+      "id": "section-53-8-1",
+      "number": "53-8-1",
+      "heading": "Short title.Section 53-8-2 - Definitions",
+      "text": "Section 53-8-3 - Applicability.Section 53-8-4 - Purposes.Section 53-8-5 - General powers.Section 53-8-6 - Defense of ultra vires.Section 53-8-7 - Corporate name.Section 53-8-7.1 - Reserved name.Section 53-8-8 - Registered office and registered agent.Section 5",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-2",
+      "number": "53-8-2",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-3",
+      "number": "53-8-3",
+      "heading": "Applicability.",
+      "text": "Applicability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-4",
+      "number": "53-8-4",
+      "heading": "Purposes.",
+      "text": "Purposes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-5",
+      "number": "53-8-5",
+      "heading": "General powers.",
+      "text": "General powers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-6",
+      "number": "53-8-6",
+      "heading": "Defense of ultra vires.",
+      "text": "Defense of ultra vires.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-7",
+      "number": "53-8-7",
+      "heading": "Corporate name.",
+      "text": "Corporate name.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-71",
+      "number": "53-8-7.1",
+      "heading": "Reserved name.",
+      "text": "Reserved name.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-8",
+      "number": "53-8-8",
+      "heading": "Registered office and registered agent.",
+      "text": "Registered office and registered agent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-9",
+      "number": "53-8-9",
+      "heading": "Change of registered office or registered agent.",
+      "text": "Change of registered office or registered agent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-10",
+      "number": "53-8-10",
+      "heading": "Service of process on corporation.",
+      "text": "Service of process on corporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-11",
+      "number": "53-8-11",
+      "heading": "Members.",
+      "text": "Members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-12",
+      "number": "53-8-12",
+      "heading": "Bylaws.",
+      "text": "Bylaws.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-13",
+      "number": "53-8-13",
+      "heading": "Meetings of members.",
+      "text": "Meetings of members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-14",
+      "number": "53-8-14",
+      "heading": "Notice of members' meetings; waiver.",
+      "text": "Notice of members' meetings; waiver.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-15",
+      "number": "53-8-15",
+      "heading": "Voting.",
+      "text": "Voting.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-16",
+      "number": "53-8-16",
+      "heading": "Quorum.",
+      "text": "Quorum.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-17",
+      "number": "53-8-17",
+      "heading": "Board of directors.",
+      "text": "Board of directors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-18",
+      "number": "53-8-18",
+      "heading": "Number and election of directors.",
+      "text": "Number and election of directors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-181",
+      "number": "53-8-18.1",
+      "heading": "Repealed.",
+      "text": "Repealed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-19",
+      "number": "53-8-19",
+      "heading": "Vacancy.",
+      "text": "Vacancy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-20",
+      "number": "53-8-20",
+      "heading": "Quorum of directors.",
+      "text": "Quorum of directors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-21",
+      "number": "53-8-21",
+      "heading": "Committees.",
+      "text": "Committees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-22",
+      "number": "53-8-22",
+      "heading": "Directors' meetings.",
+      "text": "Directors' meetings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-23",
+      "number": "53-8-23",
+      "heading": "Officers.",
+      "text": "Officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-24",
+      "number": "53-8-24",
+      "heading": "Removal of officers.",
+      "text": "Removal of officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-25",
+      "number": "53-8-25",
+      "heading": "Liability.",
+      "text": "Liability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-251",
+      "number": "53-8-25.1",
+      "heading": "Duties of directors.",
+      "text": "Duties of directors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-252",
+      "number": "53-8-25.2",
+      "heading": "Liability of directors.",
+      "text": "Liability of directors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-253",
+      "number": "53-8-25.3",
+      "heading": "Nonprofit corporations; boards of directors; liability; immunity.",
+      "text": "Nonprofit corporations; boards of directors; liability; immunity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-26",
+      "number": "53-8-26",
+      "heading": "Indemnification of officers and directors.",
+      "text": "Indemnification of officers and directors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-27",
+      "number": "53-8-27",
+      "heading": "Books and records.",
+      "text": "Books and records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-28",
+      "number": "53-8-28",
+      "heading": "Shares of stock and dividends prohibited; exemption from franchise tax.",
+      "text": "Shares of stock and dividends prohibited; exemption from franchise tax.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-29",
+      "number": "53-8-29",
+      "heading": "Loans to directors and officers.",
+      "text": "Loans to directors and officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-30",
+      "number": "53-8-30",
+      "heading": "Incorporators.",
+      "text": "Incorporators.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-31",
+      "number": "53-8-31",
+      "heading": "Articles of incorporation.",
+      "text": "Articles of incorporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-32",
+      "number": "53-8-32",
+      "heading": "Filing of articles of incorporation.",
+      "text": "Filing of articles of incorporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-33",
+      "number": "53-8-33",
+      "heading": "Effect of incorporation.",
+      "text": "Effect of incorporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-34",
+      "number": "53-8-34",
+      "heading": "Organization meetings.",
+      "text": "Organization meetings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-35",
+      "number": "53-8-35",
+      "heading": "Right to amend articles of incorporation.",
+      "text": "Right to amend articles of incorporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-36",
+      "number": "53-8-36",
+      "heading": "Procedure to amend articles of incorporation.",
+      "text": "Procedure to amend articles of incorporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-37",
+      "number": "53-8-37",
+      "heading": "Articles of amendment.",
+      "text": "Articles of amendment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-38",
+      "number": "53-8-38",
+      "heading": "Effectiveness of amendment.",
+      "text": "Effectiveness of amendment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-39",
+      "number": "53-8-39",
+      "heading": "Restated articles of incorporation.",
+      "text": "Restated articles of incorporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-40",
+      "number": "53-8-40",
+      "heading": "Procedure for merger.",
+      "text": "Procedure for merger.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-41",
+      "number": "53-8-41",
+      "heading": "Procedure for consolidation.",
+      "text": "Procedure for consolidation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-42",
+      "number": "53-8-42",
+      "heading": "Adoption of merger or consolidation.",
+      "text": "Adoption of merger or consolidation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-43",
+      "number": "53-8-43",
+      "heading": "Articles of merger or consolidation.",
+      "text": "Articles of merger or consolidation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-44",
+      "number": "53-8-44",
+      "heading": "Effect of merger or consolidation.",
+      "text": "Effect of merger or consolidation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-45",
+      "number": "53-8-45",
+      "heading": "Merger or consolidation of domestic and foreign corporations.",
+      "text": "Merger or consolidation of domestic and foreign corporations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-46",
+      "number": "53-8-46",
+      "heading": "Sale, lease, exchange or mortgage of assets.",
+      "text": "Sale, lease, exchange or mortgage of assets.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-47",
+      "number": "53-8-47",
+      "heading": "Voluntary dissolution.",
+      "text": "Voluntary dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-48",
+      "number": "53-8-48",
+      "heading": "Distribution of assets.",
+      "text": "Distribution of assets.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-49",
+      "number": "53-8-49",
+      "heading": "Plan of distribution.",
+      "text": "Plan of distribution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-50",
+      "number": "53-8-50",
+      "heading": "Revocation of voluntary dissolution proceedings.",
+      "text": "Revocation of voluntary dissolution proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-51",
+      "number": "53-8-51",
+      "heading": "Articles of dissolution.",
+      "text": "Articles of dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-52",
+      "number": "53-8-52",
+      "heading": "Filing of articles of dissolution.",
+      "text": "Filing of articles of dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-53",
+      "number": "53-8-53",
+      "heading": "Revocation of certificate of incorporation.",
+      "text": "Revocation of certificate of incorporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-54",
+      "number": "53-8-54",
+      "heading": "Issuance of certificate of revocation.",
+      "text": "Issuance of certificate of revocation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-55",
+      "number": "53-8-55",
+      "heading": "Jurisdiction of court to liquidate assets and affairs of corporation.",
+      "text": "Jurisdiction of court to liquidate assets and affairs of corporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-56",
+      "number": "53-8-56",
+      "heading": "Procedure in liquidation of corporation by court.",
+      "text": "Procedure in liquidation of corporation by court.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-57",
+      "number": "53-8-57",
+      "heading": "Qualification of receivers.",
+      "text": "Qualification of receivers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-58",
+      "number": "53-8-58",
+      "heading": "Filing of claims in liquidation proceedings.",
+      "text": "Filing of claims in liquidation proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-59",
+      "number": "53-8-59",
+      "heading": "Discontinuance of liquidation proceedings.",
+      "text": "Discontinuance of liquidation proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-60",
+      "number": "53-8-60",
+      "heading": "Decree of involuntary dissolution.",
+      "text": "Decree of involuntary dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-61",
+      "number": "53-8-61",
+      "heading": "Filing of decree of dissolution.",
+      "text": "Filing of decree of dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-62",
+      "number": "53-8-62",
+      "heading": "Deposits with state treasurer.",
+      "text": "Deposits with state treasurer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-63",
+      "number": "53-8-63",
+      "heading": "Survival of remedy after dissolution.",
+      "text": "Survival of remedy after dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-64",
+      "number": "53-8-64",
+      "heading": "Admission of foreign corporation.",
+      "text": "Admission of foreign corporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-65",
+      "number": "53-8-65",
+      "heading": "Powers of foreign corporation.",
+      "text": "Powers of foreign corporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-66",
+      "number": "53-8-66",
+      "heading": "Corporate name of foreign corporation.",
+      "text": "Corporate name of foreign corporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-67",
+      "number": "53-8-67",
+      "heading": "Change of name by foreign corporation.",
+      "text": "Change of name by foreign corporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-68",
+      "number": "53-8-68",
+      "heading": "Application for certificate of authority.",
+      "text": "Application for certificate of authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-69",
+      "number": "53-8-69",
+      "heading": "Filing of application for certificate of authority.",
+      "text": "Filing of application for certificate of authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-70",
+      "number": "53-8-70",
+      "heading": "Effect of [certificate of] authority.",
+      "text": "Effect of [certificate of] authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-71",
+      "number": "53-8-71",
+      "heading": "Registered office and registered agent of foreign corporation.",
+      "text": "Registered office and registered agent of foreign corporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-72",
+      "number": "53-8-72",
+      "heading": "Change of registered office or registered agent of foreign corporation.",
+      "text": "Change of registered office or registered agent of foreign corporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-73",
+      "number": "53-8-73",
+      "heading": "Service of process on foreign corporation.",
+      "text": "Service of process on foreign corporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-74",
+      "number": "53-8-74",
+      "heading": "Repealed.",
+      "text": "Repealed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-75",
+      "number": "53-8-75",
+      "heading": "Merger of foreign corporation authorized to conduct affairs in this state.",
+      "text": "Merger of foreign corporation authorized to conduct affairs in this state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-76",
+      "number": "53-8-76",
+      "heading": "Amended certificate of authority.",
+      "text": "Amended certificate of authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-77",
+      "number": "53-8-77",
+      "heading": "Withdrawal of foreign corporation.",
+      "text": "Withdrawal of foreign corporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-78",
+      "number": "53-8-78",
+      "heading": "Filing of application for withdrawal.",
+      "text": "Filing of application for withdrawal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-79",
+      "number": "53-8-79",
+      "heading": "Revocation of certificate of authority.",
+      "text": "Revocation of certificate of authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-80",
+      "number": "53-8-80",
+      "heading": "Issuance of certificate of revocation.",
+      "text": "Issuance of certificate of revocation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-81",
+      "number": "53-8-81",
+      "heading": "Conducting affairs without certificate of authority.",
+      "text": "Conducting affairs without certificate of authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-82",
+      "number": "53-8-82",
+      "heading": "Annual report.",
+      "text": "Annual report.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-83",
+      "number": "53-8-83",
+      "heading": "Filing of annual report; initial report; supplemental report; extension of time.",
+      "text": "Filing of annual report; initial report; supplemental report; extension of time.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-84",
+      "number": "53-8-84",
+      "heading": "Repealed.",
+      "text": "Repealed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-85",
+      "number": "53-8-85",
+      "heading": "Fees for filing documents and issuing certificates.",
+      "text": "Fees for filing documents and issuing certificates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-86",
+      "number": "53-8-86",
+      "heading": "Recordkeeping.",
+      "text": "Recordkeeping.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-861",
+      "number": "53-8-86.1",
+      "heading": "Fees of secretary of state; dishonored check; civil penalty; suspension of filing.",
+      "text": "Fees of secretary of state; dishonored check; civil penalty; suspension of filing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-87",
+      "number": "53-8-87",
+      "heading": "Miscellaneous charges.",
+      "text": "Miscellaneous charges.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-88",
+      "number": "53-8-88",
+      "heading": "Penalty imposed upon corporation.",
+      "text": "Penalty imposed upon corporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-881",
+      "number": "53-8-88.1",
+      "heading": "Dormant corporations; statement in lieu of annual report.",
+      "text": "Dormant corporations; statement in lieu of annual report.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-89",
+      "number": "53-8-89",
+      "heading": "Reports; affirmation; penalty.",
+      "text": "Reports; affirmation; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-90",
+      "number": "53-8-90",
+      "heading": "Authority to make refunds.",
+      "text": "Authority to make refunds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-91",
+      "number": "53-8-91",
+      "heading": "Appeal from commission [secretary of state].",
+      "text": "Appeal from commission [secretary of state].",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-92",
+      "number": "53-8-92",
+      "heading": "Issuance of certificate of good standing and compliance.",
+      "text": "Issuance of certificate of good standing and compliance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-93",
+      "number": "53-8-93",
+      "heading": "Certificates and certified copies to be received in evidence.",
+      "text": "Certificates and certified copies to be received in evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-94",
+      "number": "53-8-94",
+      "heading": "Forms to be furnished by corporation commission [secretary of state].",
+      "text": "Forms to be furnished by corporation commission [secretary of state].",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-95",
+      "number": "53-8-95",
+      "heading": "Greater voting requirements.",
+      "text": "Greater voting requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-96",
+      "number": "53-8-96",
+      "heading": "Waiver of notice.",
+      "text": "Waiver of notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-97",
+      "number": "53-8-97",
+      "heading": "Action by members or directors without a meeting.",
+      "text": "Action by members or directors without a meeting.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-98",
+      "number": "53-8-98",
+      "heading": "Unauthorized assumption of corporate powers.",
+      "text": "Unauthorized assumption of corporate powers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53-8-99",
+      "number": "53-8-99",
+      "heading": "Effect of repeal of prior acts.",
+      "text": "Effect of repeal of prior acts.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

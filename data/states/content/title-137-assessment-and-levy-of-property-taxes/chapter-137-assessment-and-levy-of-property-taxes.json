@@ -1,0 +1,1398 @@
+{
+  "state": "missouri",
+  "path": "title-137-assessment-and-levy-of-property-taxes/chapter-137-assessment-and-levy-of-property-taxes",
+  "sections": [
+    {
+      "id": "section-137010",
+      "number": "137.010",
+      "heading": "Definitions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137015",
+      "number": "137.015",
+      "heading": "Classification of property.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137016",
+      "number": "137.016",
+      "heading": "Real property, subclasses of, defined — political subdivision may adjust ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137017",
+      "number": "137.017",
+      "heading": "Agricultural and horticultural property, how assessed.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137018",
+      "number": "137.018",
+      "heading": "Certain merchandise exempt from ad valorem taxes.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137021",
+      "number": "137.021",
+      "heading": "Grading of land for valuation, agricultural and horticultural land, factors ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137022",
+      "number": "137.022",
+      "heading": "Private car company, defined — subject to assessment and taxation, manner.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137023",
+      "number": "137.023",
+      "heading": "Rules and regulations — promulgation, procedure.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137030",
+      "number": "137.030",
+      "heading": "Levy for library purposes.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137035",
+      "number": "137.035",
+      "heading": "What taxes to be assessed, levied, and collected in counties.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137037",
+      "number": "137.037",
+      "heading": "Levy to pay cost of property reevaluation — election — form of ballot.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137040",
+      "number": "137.040",
+      "heading": "Procedure for assessing, levying, and collecting additional taxes — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137045",
+      "number": "137.045",
+      "heading": "Assessment, levy, and collection not to be made except as provided — penalty.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137055",
+      "number": "137.055",
+      "heading": "County commission to fix rate of tax, when, exceptions — public hearing to ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137060",
+      "number": "137.060",
+      "heading": "Action of county commission to be entered of record.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137065",
+      "number": "137.065",
+      "heading": "Limit of county taxes — increase, election, ballot — reduction not ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137070",
+      "number": "137.070",
+      "heading": "Apportionment in counties having township organization.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137072",
+      "number": "137.072",
+      "heading": "School districts and political subdivisions may increase tax ceiling by ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137073",
+      "number": "137.073",
+      "heading": "Definitions — revision of prior levy, when, procedure — calculation of ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137074",
+      "number": "137.074",
+      "heading": "Merchants' and manufacturers' personal property excluded in tax rate ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137075",
+      "number": "137.075",
+      "heading": "What property liable for taxes.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137076",
+      "number": "137.076",
+      "heading": "Valuation by assessor, factors to be considered — income-based approach for ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137078",
+      "number": "137.078",
+      "heading": "Depreciation schedules for broadcasting equipment, definitions — true value ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137079",
+      "number": "137.079",
+      "heading": "Business personal property, excludes from total assessed valuation a ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137080",
+      "number": "137.080",
+      "heading": "Annual assessment date — subclasses of tangible personal property.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137081",
+      "number": "137.081",
+      "heading": "New political subdivisions, assessment, effective when.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137082",
+      "number": "137.082",
+      "heading": "New construction, assessment of upon occupancy, how — payment of taxes, ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137083",
+      "number": "137.083",
+      "heading": "Assessor in counties of third classification may make changes in assessor's ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137085",
+      "number": "137.085",
+      "heading": "Government lands become taxable, when — state lien on real property, extent of.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137090",
+      "number": "137.090",
+      "heading": "Tangible personal property to be assessed in county of owner's residence — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137092",
+      "number": "137.092",
+      "heading": "Rental or leasing facilities to submit lessee lists.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137095",
+      "number": "137.095",
+      "heading": "Corporate property, where taxed — tractors and trailers.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137098",
+      "number": "137.098",
+      "heading": "College fraternity and sorority real property, how assessed.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137100",
+      "number": "137.100",
+      "heading": "Certain property exempt from taxes.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137101",
+      "number": "137.101",
+      "heading": "Charitable organizations, exemption from property taxes — assessor's duties.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137110",
+      "number": "137.110",
+      "heading": "Assessment blanks, books and supplies, furnished, when.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137112",
+      "number": "137.112",
+      "heading": "Deferred maintenance, defined.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137113",
+      "number": "137.113",
+      "heading": "Scope of sections.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137114",
+      "number": "137.114",
+      "heading": "Assessment of deferred maintenance improvements postponed — eligibility ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137115",
+      "number": "137.115",
+      "heading": "Real and personal property, assessment — classes of property, assessment — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137116",
+      "number": "137.116",
+      "heading": "Department of revenue to furnish lists of motor vehicles.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137117",
+      "number": "137.117",
+      "heading": "Recorder to furnish list of real estate transfers (third and fourth class ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137119",
+      "number": "137.119",
+      "heading": "Filing of subdivision plat not to affect classification or increase ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137120",
+      "number": "137.120",
+      "heading": "Property list, contents.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137122",
+      "number": "137.122",
+      "heading": "Depreciable tangible personal property — definitions — standardized ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137123",
+      "number": "137.123",
+      "heading": "Wind energy property, true value calculation for assessment purposes — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137125",
+      "number": "137.125",
+      "heading": "Procedure in case of absence from property and of death.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137130",
+      "number": "137.130",
+      "heading": "Assessor to make physical inspection, when — assessment.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137135",
+      "number": "137.135",
+      "heading": "Duplicate list to be left if made during absence of owner.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137150",
+      "number": "137.150",
+      "heading": "Assessor and other officers to administer oaths — failure of assessor — penalty.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137155",
+      "number": "137.155",
+      "heading": "Form of oath — refusal to make oath — penalty.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137160",
+      "number": "137.160",
+      "heading": "Assessment of discovered real property — notice to state tax commission.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137165",
+      "number": "137.165",
+      "heading": "Procedure of assessing real estate omitted from tax books.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137170",
+      "number": "137.170",
+      "heading": "Each tract of land charged with its own taxes — notice to owner.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137175",
+      "number": "137.175",
+      "heading": "Failure to assess taxable property — method of subsequent assessments.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137177",
+      "number": "137.177",
+      "heading": "Building permits in certain second class counties, when required — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137180",
+      "number": "137.180",
+      "heading": "Valuation increased — assessor to notify owner — appeals to county board of ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137185",
+      "number": "137.185",
+      "heading": "Tracts less than one-sixteenth of a section.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137190",
+      "number": "137.190",
+      "heading": "Penalty for violation of section 137.185.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137195",
+      "number": "137.195",
+      "heading": "County commissions to procure plats from United States land office.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137200",
+      "number": "137.200",
+      "heading": "Plats or maps lost — duty of county commissions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137205",
+      "number": "137.205",
+      "heading": "Assessor to have free access to plats and maps — board to compare — omissions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137210",
+      "number": "137.210",
+      "heading": "Assessor to examine and compare lists — assessor's book.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137215",
+      "number": "137.215",
+      "heading": "Books to be divided into two parts — land list and personal property list — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137220",
+      "number": "137.220",
+      "heading": "Assessor to prepare plats to all tracts and lots.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137225",
+      "number": "137.225",
+      "heading": "Assessor to be provided with real estate book and personal assessment book.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137230",
+      "number": "137.230",
+      "heading": "When section 137.225 does not apply.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137235",
+      "number": "137.235",
+      "heading": "Assessor's books to have three columns for values — extension of taxes.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137237",
+      "number": "137.237",
+      "heading": "Tax-exempt properties, assessor to compile list for state tax commission.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137240",
+      "number": "137.240",
+      "heading": "County commissions to furnish additional books when necessary.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137243",
+      "number": "137.243",
+      "heading": "Projected tax liability, assessor to provide clerk with assessment book — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137245",
+      "number": "137.245",
+      "heading": "Assessor to prepare and return assessor's book, verification — clerk to ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137250",
+      "number": "137.250",
+      "heading": "List lost or destroyed — new assessment to be made.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137260",
+      "number": "137.260",
+      "heading": "County clerk to correct tax book.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137265",
+      "number": "137.265",
+      "heading": "Assessment not illegal because of informality in making.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137270",
+      "number": "137.270",
+      "heading": "County commission to hear and determine erroneous assessments.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137275",
+      "number": "137.275",
+      "heading": "Appeals to county board of equalization — lodged where.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137280",
+      "number": "137.280",
+      "heading": "Failure to deliver list, penalty, exceptions, second notice by assessor ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137285",
+      "number": "137.285",
+      "heading": "Double assessment for making fraudulent list.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137290",
+      "number": "137.290",
+      "heading": "Clerk to extend taxes in assessor's book, authentication as tax book, ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137295",
+      "number": "137.295",
+      "heading": "Clerk to make statement.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137298",
+      "number": "137.298",
+      "heading": "Cities may pass ordinance to include charges for outstanding parking ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137300",
+      "number": "137.300",
+      "heading": "Supplemental tax book.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137305",
+      "number": "137.305",
+      "heading": "Supplemental tax book same validity and force.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137320",
+      "number": "137.320",
+      "heading": "Penalty for clerk's neglect or refusal — evidence.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137325",
+      "number": "137.325",
+      "heading": "Sections 137.325 to 137.420 applicable to first class counties.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137335",
+      "number": "137.335",
+      "heading": "Blanks for assessment to be designed by state tax commission — time of ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137340",
+      "number": "137.340",
+      "heading": "Taxpayer to file return listing all tangible personal property.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137345",
+      "number": "137.345",
+      "heading": "Failure to deliver list, penalty, exceptions — second notice to be given by ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137350",
+      "number": "137.350",
+      "heading": "Assessment of estates — duty of guardian.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137355",
+      "number": "137.355",
+      "heading": "Notice of increased assessment of listed property — notice to owners, when, ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137360",
+      "number": "137.360",
+      "heading": "Form of oath — penalty for refusal — lists filed with county clerk.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137375",
+      "number": "137.375",
+      "heading": "Assessor to deliver book, when — affidavit — duty of county clerk — penalty ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137380",
+      "number": "137.380",
+      "heading": "Procedure when assessor's lists cannot be included in one book.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137385",
+      "number": "137.385",
+      "heading": "Appeal from assessment — form — time for filing.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137390",
+      "number": "137.390",
+      "heading": "County commission to determine tax rate.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137392",
+      "number": "137.392",
+      "heading": "Clerk to deliver tax books to collector, when — extension of time.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137395",
+      "number": "137.395",
+      "heading": "County commission to establish system of bookkeeping.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137400",
+      "number": "137.400",
+      "heading": "County reimbursed for abstract furnished to any city, town or village.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137405",
+      "number": "137.405",
+      "heading": "Certain sections not applicable to property assessed by state tax commission.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137410",
+      "number": "137.410",
+      "heading": "Inconsistent laws not applicable.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137415",
+      "number": "137.415",
+      "heading": "County commission of first class charter county to furnish recorder with ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137420",
+      "number": "137.420",
+      "heading": "False certification a misdemeanor.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137425",
+      "number": "137.425",
+      "heading": "Tax levy, how made in counties with township organization — assessment ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137435",
+      "number": "137.435",
+      "heading": "Real property assessed, how and where.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137440",
+      "number": "137.440",
+      "heading": "Assessment of real and tangible property.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137445",
+      "number": "137.445",
+      "heading": "Assessor's books — how made.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137450",
+      "number": "137.450",
+      "heading": "Assessment lists to be filed with county clerk.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137465",
+      "number": "137.465",
+      "heading": "County clerk to submit lists of property — abstracts of all real property.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137470",
+      "number": "137.470",
+      "heading": "County clerk to estimate state, county, township, school, bridge and other tax.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137475",
+      "number": "137.475",
+      "heading": "County clerk to deliver assessment roll to collector.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137480",
+      "number": "137.480",
+      "heading": "State tax commission to instruct and advise county clerks.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137485",
+      "number": "137.485",
+      "heading": "Constitutional charter cities subject to the provisions of sections 137.485 ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137490",
+      "number": "137.490",
+      "heading": "Dates of beginning and completing assessment — assessment must be uniform — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137495",
+      "number": "137.495",
+      "heading": "Property owners to file return listing tangible personal property, when — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137500",
+      "number": "137.500",
+      "heading": "Assessment blanks, distribution, how signed — penalty.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137505",
+      "number": "137.505",
+      "heading": "Failure to file return — duty of assessor.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137510",
+      "number": "137.510",
+      "heading": "Assessor's books — method of preparation — date to be completed.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137512",
+      "number": "137.512",
+      "heading": "Notice as to time and place of inspection of assessment records.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137515",
+      "number": "137.515",
+      "heading": "Assessor to make abstract of books, when — copies certified.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137520",
+      "number": "137.520",
+      "heading": "Assessor to extend book — make tax bills.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137525",
+      "number": "137.525",
+      "heading": "Duties of city comptroller.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137535",
+      "number": "137.535",
+      "heading": "Assessor to make daily record of transfers of property.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137540",
+      "number": "137.540",
+      "heading": "False returns — board of equalization notified — duties of board.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137545",
+      "number": "137.545",
+      "heading": "False returns — penalty.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137550",
+      "number": "137.550",
+      "heading": "Provisions of sections 137.485 to 137.550 to supersede any conflicting ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137554",
+      "number": "137.554",
+      "heading": "Portion of tax expended on city streets, city to designate where and how spent.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137555",
+      "number": "137.555",
+      "heading": "Special road and bridge tax, how levied, collected and disbursed.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137556",
+      "number": "137.556",
+      "heading": "One-fourth of tax expended on city streets in certain counties — exception, ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137557",
+      "number": "137.557",
+      "heading": "Establishment of county-urban road systems — portion of special road and ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137558",
+      "number": "137.558",
+      "heading": "County-urban road system — refunds to cities — county-arterial roads (St. ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137559",
+      "number": "137.559",
+      "heading": "Portion of road bond construction fund may be expended on system roads.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137560",
+      "number": "137.560",
+      "heading": "Special road and bridge fund to be a separate fund on all accounting ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137565",
+      "number": "137.565",
+      "heading": "Election for tax — petition — duty of county commission.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137570",
+      "number": "137.570",
+      "heading": "Form of ballot.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137575",
+      "number": "137.575",
+      "heading": "County commission to make levy — how collected.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137580",
+      "number": "137.580",
+      "heading": "County commission to refund special road and bridge tax to incorporated ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137585",
+      "number": "137.585",
+      "heading": "Township special road and bridge tax, how levied, collected and disbursed.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137590",
+      "number": "137.590",
+      "heading": "Such funds to be shown as separate items.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137595",
+      "number": "137.595",
+      "heading": "Taxes — how collected — how kept.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137600",
+      "number": "137.600",
+      "heading": "Railroad, telegraph and telephone taxes — rate — how collected and disbursed.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137715",
+      "number": "137.715",
+      "heading": "Clerks and deputies, appointment, compensation, how paid.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137720",
+      "number": "137.720",
+      "heading": "Percentage of ad valorem property tax collections to be deducted for ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137721",
+      "number": "137.721",
+      "heading": "Percentage of ad valorem property tax collections to be deposited in county ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137722",
+      "number": "137.722",
+      "heading": "Percentage of ad valorem property tax collection to be deposited in county ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137725",
+      "number": "137.725",
+      "heading": "Assessors, clerks, deputies, salaries and expenses to be paid from ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137750",
+      "number": "137.750",
+      "heading": "Assessment and equalization maintenance plan, payment of portion of ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137900",
+      "number": "137.900",
+      "heading": "Definitions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137910",
+      "number": "137.910",
+      "heading": "Personal property in transit through state or consigned in transit to ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137920",
+      "number": "137.920",
+      "heading": "Warehouse duty to keep records of in-transit property, in-transit defined.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137930",
+      "number": "137.930",
+      "heading": "Forms for no-situs, tax exemptions, procedure.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137940",
+      "number": "137.940",
+      "heading": "Reconsignment of in-transit property to final destination in state, ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137950",
+      "number": "137.950",
+      "heading": "Evasion of taxes — civil action to recover taxes, costs and attorney's fee.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137960",
+      "number": "137.960",
+      "heading": "False statements to assessors — penalty.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137975",
+      "number": "137.975",
+      "heading": "Annual reports to be filed, form, content.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137977",
+      "number": "137.977",
+      "heading": "Failure to file, penalty — waiver of penalty, when — report deemed filed, when.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137979",
+      "number": "137.979",
+      "heading": "Commission to assess, adjust and equalize aggregate valuation — operations ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137981",
+      "number": "137.981",
+      "heading": "Administrative and judicial review procedure authorized for private car ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137983",
+      "number": "137.983",
+      "heading": "Private car companies not subject to ad valorem taxation, when.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-137985",
+      "number": "137.985",
+      "heading": "Commission to apportion aggregate value to each county levying an ad ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1371000",
+      "number": "137.1000",
+      "heading": "Title, effective date.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1371003",
+      "number": "137.1003",
+      "heading": "Definitions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1371006",
+      "number": "137.1006",
+      "heading": "Powers of commission.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1371009",
+      "number": "137.1009",
+      "heading": "Commission to prescribe report forms — penalty for failure to submit ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1371012",
+      "number": "137.1012",
+      "heading": "Aggregate valuation of distributable freight line company property by the ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1371015",
+      "number": "137.1015",
+      "heading": "Review of original assessment, when — procedures.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1371018",
+      "number": "137.1018",
+      "heading": "Statewide average rate of property taxes levied, ascertained by the ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1371021",
+      "number": "137.1021",
+      "heading": "Deposit of taxes collected into county private car tax trust fund — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1371024",
+      "number": "137.1024",
+      "heading": "Director to notify attorney general of failure to pay taxes due.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1371027",
+      "number": "137.1027",
+      "heading": "Attorney general to institute a suit, when — property subject to seizure, when.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1371030",
+      "number": "137.1030",
+      "heading": "Contingent procedures for freight line company taxes, effective when.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1371040",
+      "number": "137.1040",
+      "heading": "Tax imposed for upkeep and maintenance of cemeteries (Counties not adopting ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1371050",
+      "number": "137.1050",
+      "heading": "Homestead property tax credit, persons 62 or older — definitions — credit ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1371055",
+      "number": "137.1055",
+      "heading": "Homestead property tax credit, certain counties — definitions — credit ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

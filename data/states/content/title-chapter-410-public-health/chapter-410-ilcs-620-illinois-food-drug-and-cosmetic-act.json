@@ -1,0 +1,838 @@
+{
+  "state": "illinois",
+  "path": "title-chapter-410-public-health/chapter-410-ilcs-620-illinois-food-drug-and-cosmetic-act",
+  "sections": [
+    {
+      "id": "section-1",
+      "number": "1.",
+      "heading": "This Act shall be known and may be cited as the Illinois Food, Drug and Cosmetic Act.",
+      "text": "This Act shall be known and may be cited as the Illinois Food, Drug and Cosmetic Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2",
+      "number": "2.",
+      "heading": "In this Act unless the context otherwise requires, the words and",
+      "text": "phrases defined in Sections 2.1 through 2.37, have the meanings\nset forth therein.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-21",
+      "number": "2.1.",
+      "heading": "\"Director\" means the Director of Public Health; except that in",
+      "text": "regard to new animal drugs, animal feed, meat and poultry and meat and\npoultry food products\nother than those sold at retail, \"Director\" means the Director of\nAgriculture.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22",
+      "number": "2.2.",
+      "heading": "\"Person\" includes individual, partnership, corporation and",
+      "text": "association.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-23",
+      "number": "2.3.",
+      "heading": "\"Food\" means (1) articles used for food or drink for man or other",
+      "text": "animals, (2) chewing gum, and (3) articles used for components of any such\narticle.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24",
+      "number": "2.4.",
+      "heading": "(a) \"Drug\" means (1) articles recognized in the official United",
+      "text": "States Pharmacopoeia - National Formulary, official Homeopathic Pharmacopoeia\nof the United\nStates, United States Dispensatory, or Remington's Practice of Pharmacy,\nor any supplement to any of them; and (2)\narticles intended for use in the diagnosis, cure, mitigation, treatment or\nprevention of disease in man or other animals; and (3) articles (other than\nfood) intended to affect the structure or any function of the body of man\nor other animals; and (4) articles intended for use as a component of any\narticle specified in clause (1), (2) or (3); but does not include devices\nor their components, parts or accessories.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25",
+      "number": "2.5.",
+      "heading": "\"Device\" (except when used in Sections 2.11 and 3.10 and",
+      "text": "subsection (f) of Section\n11, subsections (c) and (p) of Section 15, and subsection (c) of Section\n19) means instruments, implements,\nmachines, implants, in vitro reagents, apparatus and contrivances, including\ntheir components, parts and\naccessories, or other similar or related articles which are (1) recognized\nin the official United States Pharmacopoeia - National Formulary or any\nsupplement thereto; (2) intended for use in the diagnosis, cure, mitigation,\ntreatment or prevention of disease or other conditions in man or\nother animals; or (3) intended to\naffect the structure or any function of the body of man or other animals;\nand which do not achieve any of their principal intended purposes through\nchemical action within or on the body of man or other animals and which are\nnot dependent upon being metabolized for the achievement of any of their\nprincipal intended purposes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26",
+      "number": "2.6.",
+      "heading": "\"Cosmetic\" means (1) articles intended to be rubbed, poured,",
+      "text": "sprinkled, or sprayed on, introduced into, or otherwise applied to the\nhuman body or any part thereof for cleansing, beautifying, promoting\nattractiveness, or altering the appearance, and (2) articles intended for\nuse as a component of any such articles, except that such term shall not\ninclude soap.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27",
+      "number": "2.7.",
+      "heading": "\"Official compendium\" means the official United States",
+      "text": "Pharmacopoeia - National Formulary, official Homeopathic Pharmacopoeia\nof the United States, United States Dispensatory, Remington's Practice of\nPharmacy, or any supplement to any of them.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28",
+      "number": "2.8.",
+      "heading": "\"Label\" means a display of written, printed or graphic matter",
+      "text": "upon the immediate container of any article; and a requirement made by or\nunder authority of this Act that any word, statement, or other information\nappear on the label shall not be considered to be complied with unless such\nword, statement, or other information also appears on the outside container\nor wrapper, if any there be, of the retail package of such article, or is\neasily legible through the outside container or wrapper.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-29",
+      "number": "2.9.",
+      "heading": "\"Immediate container\" does not include package liners.",
+      "text": "\"Immediate container\" does not include package liners.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-210",
+      "number": "2.10.",
+      "heading": "\"Labeling\" means all labels and other written, printed or",
+      "text": "graphic matter upon an article or any of its containers or wrappers or\naccompanying such article.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-211",
+      "number": "2.11.",
+      "heading": "If an article is alleged to be misbranded because the labeling",
+      "text": "is misleading or if an advertisement is alleged to be false because it is\nmisleading, then in determining whether the labeling or advertisement is\nmisleading, there shall be taken into account (among other things) not only\nrepresentations made or suggested by statement, word, design, device, sound\nor any combination thereof, but also the extent to which the labeling or\nadvertisement fails to reveal material facts in the light of such\nrepresentations or material facts with respect to consequences which may\nresult from the use of the article to which the labeling or advertisement\nrelates under the conditions of use prescribed in the labeling or\nadvertisement thereof or under such conditions of use as are customary or\nusual.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-212",
+      "number": "2.12.",
+      "heading": "\"Advertisement\" means all representations disseminated in any",
+      "text": "manner or by any means other than by labeling, to induce or which are\nlikely to induce, directly or indirectly, the purchase of food, drugs,\ndevices or cosmetics.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-213",
+      "number": "2.13.",
+      "heading": "The representation of a drug in its labeling or advertisement as",
+      "text": "an antiseptic shall be considered to be a representation that it is a\ngermicide, except for a drug purporting to be or represented as an\nantiseptic for inhibitory use as a wet dressing, ointment, dusting power or\nsuch other use involving prolonged contact with the body.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-214",
+      "number": "2.14.",
+      "heading": "\"New drug\" means (1) any drug (except a new animal drug or",
+      "text": "an animal feed bearing or containing a new animal drug) the composition\nof which is such that the drug is not generally recognized among experts\nqualified by scientific training and experience to evaluate the safety and\neffectiveness of drugs as safe and effective for use under the conditions\nprescribed, recommended, or suggested in the labeling thereof; or (2) any\ndrug (except a new animal drug or an animal feed bearing or containing\na new animal drug) the composition of which is such that the drug, as a\nresult of investigations\nto determine its safety and effectiveness for use under such conditions,\nhas become so recognized, but which has not, otherwise than in such\ninvestigations, been used to a material extent or for a material time under\nsuch conditions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-215",
+      "number": "2.15.",
+      "heading": "\"Contaminated with filth\" applies to any food, drug, device or",
+      "text": "cosmetic not securely protected from dust, dirt and, as far as may be\nnecessary by all reasonable means, from all foreign or injurious\ncontaminations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-216",
+      "number": "2.16.",
+      "heading": "The provisions of this Act regarding the selling of food, drugs,",
+      "text": "devices or cosmetics, include the manufacture, production, processing,\npacking, packaging, exposure, offer, possession and holding of any such\narticle for sale; and the sale, dispensing and giving of any such article,\nand the supplying or applying of any such articles in the conduct of any\nfood, drug or cosmetic establishment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-217",
+      "number": "2.17.",
+      "heading": "\"Pesticide chemical\" means any substance which alone, in",
+      "text": "chemical combination or in formulation with one or more other substances is\n\"a pesticide\" within the meaning of the Federal\nInsecticide,\nFungicide and Rodenticide Act (7 U.S.C. 136) as now enacted\nor as hereafter amended and\nwhich is used in the production, storage or transportation of raw\nagricultural commodities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-218",
+      "number": "2.18.",
+      "heading": "\"Raw agricultural commodity\" means any food in its raw or",
+      "text": "natural state, including all fruits that are washed, colored or otherwise\ntreated in their unpeeled natural form before marketing and honey that is in the comb or that is removed from the comb and in an unadulterated condition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-219",
+      "number": "2.19.",
+      "heading": "\"Food additive\" means any substance, the intended use of which",
+      "text": "results or may be reasonably expected to result, directly or indirectly, in\nits becoming a component or otherwise affecting the characteristics of any\nfood, (including any substance intended for use in producing,\nmanufacturing, packing, processing, preparing, treating, packaging,\ntransporting or holding food; and including any source of radiation\nintended for any such use), if such substance is not generally recognized,\namong experts qualified by scientific training and experience to evaluate\nits safety, as having been adequately shown through scientific procedures\n(or, in the case of a substance used in a food prior to January 1, 1958,\nthrough either scientific procedures or experience based on common use in\nfood) to be safe under the conditions of its intended use; except that such\nterm does not include: (1) a pesticide chemical in or on a raw agricultural\ncommodity; or (2) a pesticide chemical to the extent that it is intended\nfor use or is used in the production, storage or transportation of any raw\nagricultural commodity; or (3) a color additive; or (4) any substance used\nin accordance with a sanction or approval granted prior to the enactment of\nthe Food Additives Amendment of 1958, pursuant to the Federal Act; the\nPoultry Products Inspection Act (21 U.S.C. 451 et seq.) or the Meat\nInspection Act of March 4, 1907, as amended and extended (34 Stat. 1260);\nor (5) a new animal drug.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-220",
+      "number": "2.20.",
+      "heading": "(1) \"Color additive\" means a material which-(A) is a dye,",
+      "text": "pigment or other substance made by a process of synthesis or similar\nartifice, or extracted, isolated, or otherwise derived, with or without\nintermediate or final change of identity from a vegetable, animal, mineral\nor other source; or (B) when added or applied to a food, drug or cosmetic,\nor to the human body or any part thereof is capable (alone or through\nreaction with another substance) of imparting color thereto; except that\nsuch term does not include any material which has been or hereafter is\nexempted under the Federal Act. (2) \"Color\" includes black, white and\nintermediate grays. (3) Nothing in clause (1) of this Section shall be\nconstrued to apply to any pesticide chemical, soil or plant nutrient, or\nother agricultural chemical solely because of its effect in aiding,\nretarding or otherwise affecting, directly or indirectly the growth or\nother natural physiological process of produce of the soil and thereby\naffecting its color, whether before or after harvest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221",
+      "number": "2.21.",
+      "heading": "\"Federal Act\" means the Federal Food, Drug and Cosmetic Act, as",
+      "text": "amended.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-222",
+      "number": "2.22.",
+      "heading": "\"Drug product selection\", as used in Section 3.14 of",
+      "text": "this Act, means the act of selecting the source of supply of a drug product\nin a specified dosage form in accordance with Section 3.14 of this Act\nand Section 25 of the Pharmacy Practice Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-223",
+      "number": "2.23.",
+      "heading": "\"Bulk food\" means unpackaged or unwrapped, processed or unprocessed",
+      "text": "food in aggregate containers from which quantities desired by the consumer\nmay be withdrawn. For the purpose of this Act, bulk food does not include\nfresh fruits, fresh vegetables, nuts in the shell, salad bars and potentially\nhazardous foods.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-224",
+      "number": "2.24.",
+      "heading": "\"Counterfeit drug\" means a drug which, or the container",
+      "text": "or labeling of which, without authorization, bears the trademark, trade\nname or other identifying mark, imprint or device, or any likeness thereof,\nof a drug manufacturer, processor, packer or distributor other than the\nperson or persons who in fact manufactured, processed, packed or distributed\nsuch drug and which thereby falsely purports or is represented to be the\nproduct of, or to have been packed or distributed by, such other drug manufacturer,\nprocessor, packer or distributor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-225",
+      "number": "2.25.",
+      "heading": "\"New animal drug\" means any drug intended for use",
+      "text": "for animals other than man, including any drug intended for use in animal\nfeed but not including such animal feed (1) the composition of which is\nsuch that such drug is not generally recognized, among experts qualified\nby scientific training and experience to evaluate the safety and effectiveness\nof animal drugs, as safe and effective for use under the condition prescribed,\nrecommended or suggested in the labeling thereof; except that such a drug\nnot so recognized shall not be deemed to be a \"new animal drug\" if at any\ntime prior to June 25, 1938, it was subject to the Food and Drug Act of\nJune 30, 1906, as amended, and if at such time its labeling contained the\nsame representations concerning the conditions of its use; or (2) the composition\nof which is such that such drug, as a result of investigations to determine\nits safety and effectiveness for use under such conditions, has become so\nrecognized but which has not, other than in such investigations, been\nused to a material extent or for a material time under such conditions;\nor (3) which drug is composed wholly or partly of any kind of penicillin,\nstreptomycin, chlortetracycline, chloramphenicol or bacitracin, or any\nderivative thereof, except when there is in effect a published order of\nthe Secretary of Health and Human Services declaring such drug not to be\na new animal drug on the grounds that the requirement of certification\nof batches of such drug, as provided for in Section 512(n) of the Federal\nAct, is not necessary to insure that the objectives specified in paragraph\n(3) thereof are achieved and that neither paragraph (1) nor (2) above applies\nto such drug.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-226",
+      "number": "2.26.",
+      "heading": "\"Animal feed\", as used in Section 2.25 of this Act",
+      "text": "and in the provisions of this Act referring to Section 512 of the Federal\nAct, means an article which is intended for use in food for animals\nother than man and which is intended for use as a substantial source of\nnutrients in the diet of the animal, and is not limited to a mixture intended\nto be the sole ration of the animal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-227",
+      "number": "2.27.",
+      "heading": "\"Saccharin\" includes calcium saccharin, sodium saccharin",
+      "text": "and ammonium saccharin.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-228",
+      "number": "2.28.",
+      "heading": "\"Infant formula\" means a food which purports to",
+      "text": "be or is represented for special dietary use solely as a food for infants\nby reason of its simulation of human milk or its suitability as a complete\nor partial substitute for human milk.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-229",
+      "number": "2.29.",
+      "heading": "\"Vended water device\" means any self-service device",
+      "text": "which, upon insertion of coins or token, or by some other means, dispenses\nunit services of water into a container without the necessity of refilling\nthe machine between each operation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-230",
+      "number": "2.30.",
+      "heading": "\"Bulk milk hauler-sampler\" means a person who is qualified",
+      "text": "and trained for the grading and sampling of raw milk in accordance with\nFederal and State quality standards and procedures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-231",
+      "number": "2.31.",
+      "heading": "\"Manufactured milk producer\" means one or more persons who",
+      "text": "exercise control over the production of raw milk delivered to a manufactured\nmilk processing plant and those who receive payment for such product.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-232",
+      "number": "2.32.",
+      "heading": "\"Manufactured dairy farm\" means a place or premises where",
+      "text": "one or more milking cows or goats are kept, a part or all of the milk produced\nthereon being delivered, sold or offered for sale to a plant for manufacturing\npurposes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-233",
+      "number": "2.33.",
+      "heading": "\"Manufactured dairy plant\" means any place, premises or establishment",
+      "text": "where milk or dairy products are received or handled for processing or manufacturing\nor prepared for distribution. \"Plant\", when that term is used in connection with\nthe production, transportation, grading or use of milk, means any plant\nthat handles or purchases milk for manufacturing purposes. \"Plant\", when\nthat term is used in connection with requirements for plants or issuing permits to\nplants, means only those plants which process manufactured dairy products.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-234",
+      "number": "2.34.",
+      "heading": "\"Milk for manufacturing purposes\" means milk produced for",
+      "text": "processing and manufacturing into products for human consumption but not\nsubject to Grade A or comparable requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-235",
+      "number": "2.35.",
+      "heading": "\"Manufactured dairy products\" means, but is not limited to,",
+      "text": "evaporated milk, condensed skim milk, condensed milk, concentrate milk,\nnonfat dry milk, dry milk, dry cream, dry whey, dry buttermilk, butter,\nbuttermilk, cheese, cheese products, ice cream, ice milk, sherbet, frozen\ndesserts, dairy confections, or novelties, related dairy products (products\nwith butter fat or milk solids substitutions or milk and dairy product imitations)\nand such other dairy products for human consumption not regulated under\nthe Grade A Pasteurized Milk and Milk Products Act, and designated by the\nDepartment. All manufactured dairy\nproducts shall meet the applicable definitions and standards of identity\nas promulgated under the Federal Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-236",
+      "number": "2.36.",
+      "heading": "\"Prescription\" means and includes any order for drugs or",
+      "text": "medical devices, written, facsimile, or verbal by a physician licensed\nto\npractice medicine in all its branches, dentist, veterinarian,\nor podiatric physician containing the following: (1) name of the\npatient; (2) date when prescription was given; (3) name and strength of\ndrug or description of the medical device prescribed; (4) quantity, (5)\ndirections\nfor use, (6) prescriber's name, address and signature, and (7) DEA\nnumber where\nrequired, for controlled substances. A prescription for medication other than controlled substances shall be valid for up to 15 months from the date issued for the purpose of refills, unless the prescription states otherwise.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237",
+      "number": "2.37.",
+      "heading": "\"Prescription drug\" means any drug which is required to bear",
+      "text": "on its label the statement \"Caution: Federal Law Prohibits Dispensing\nWithout Prescription\".",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-238",
+      "number": "2.38.",
+      "heading": "Bulk milk pickup tank.",
+      "text": "\"Bulk milk pickup tank\" means the tank,\nand those appurtenances necessary for its use, used by a milk hauler-sampler to\ntransport bulk raw milk for pasteurization from a dairy farm to a milk plant,\nreceiving station, or transfer station.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-239",
+      "number": "2.39.",
+      "heading": "Certified pasteurizer sealer.",
+      "text": "\"Certified pasteurizer\nsealer\" means a person who has satisfactorily completed a course of\ninstruction and has demonstrated the ability to satisfactorily conduct all\npasteurization control tests, as required by rules adopted by the Department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3",
+      "number": "3.",
+      "heading": "The enumerated acts in Sections 3.1 through 3.21",
+      "text": "and the causing thereof are prohibited in this State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31",
+      "number": "3.1.",
+      "heading": "The manufacture, sale or delivery, holding or offering for sale",
+      "text": "of any food, drug, device or cosmetic that is adulterated or misbranded.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32",
+      "number": "3.2.",
+      "heading": "The adulteration or misbranding of any food, drug, device or",
+      "text": "cosmetic.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33",
+      "number": "3.3.",
+      "heading": "The receipt in commerce of any food, drug, device or cosmetic",
+      "text": "that is adulterated or misbranded and the delivery or proffered delivery\nthereof for pay or otherwise.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-34",
+      "number": "3.4.",
+      "heading": "The sale, delivery for sale, holding for sale or offering for",
+      "text": "sale of any article in violation of Section 12, 17 or 17.1.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-35",
+      "number": "3.5.",
+      "heading": "The dissemination of any false advertisement.",
+      "text": "The dissemination of any false advertisement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36",
+      "number": "3.6.",
+      "heading": "The refusal to permit entry or inspection or to permit the taking",
+      "text": "of a sample or to permit access to or copying of any record as authorized\nby Section 22; or the failure to establish or maintain any record or make\nany report required under Section 512(j), (l) or (m) of the Federal Act,\nor the refusal to permit access to or verification or copying of any such required\nrecord.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-37",
+      "number": "3.7.",
+      "heading": "The giving of a guaranty or undertaking which is false, except by",
+      "text": "a person who relied on a guaranty or undertaking to the same effect signed\nby and containing the name and address of the person residing in the State\nof Illinois from whom he received in good faith the food, drug, device or\ncosmetic.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38",
+      "number": "3.8.",
+      "heading": "The removal or disposal of a detained or embargoed article in",
+      "text": "violation of Section 6.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-39",
+      "number": "3.9.",
+      "heading": "The alteration, mutilation, destruction, obliteration or removal",
+      "text": "of the whole or any part of the labeling of or the doing of any other act\nwith respect to a food, drug, device or cosmetic, if such act is done while\nsuch article is held for sale (whether or not the first sale) and results\nin such article being adulterated or misbranded.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-310",
+      "number": "3.10.",
+      "heading": "(1) Forging, counterfeiting, simulating or falsely representing",
+      "text": "or without proper authority using any mark, stamp, tag, label or other identification\ndevice authorized or required by regulations promulgated under the\nprovisions of this Act or the Federal Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-311",
+      "number": "3.11.",
+      "heading": "The using by any person to his own advantage, or revealing,",
+      "text": "other than to the Director or authorized representative or to the courts\nwhen relevant in any judicial proceeding under this Act of any information\nacquired under authority of this Act concerning any method or process which\nas a trade secret is entitled to protection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-312",
+      "number": "3.12.",
+      "heading": "The using on the labeling of any drug or device or in any advertisement",
+      "text": "relating to such drug or device of any representation or suggestion that an\napplication with respect to such drug is effective under Section 17 or\nthat such drug or device complies with the provisions of such Section.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-313",
+      "number": "3.13.",
+      "heading": "In the case of a prescription drug distributed or offered for",
+      "text": "sale in this State, the failure of the manufacturer, packer or distributor\nthereof to maintain for transmittal or to transmit to any practitioner\nlicensed by applicable law to administer such drug who makes written\nrequest for information as to such drug, true and correct copies of all\nprinted matter which is required to be included in any package in which\nthat drug is distributed or sold or such other printed matter as is\napproved under the Federal Act. Nothing in this Section shall be\nconstrued to exempt any person from any labeling requirement imposed by or\nunder other provisions of this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-314",
+      "number": "3.14.",
+      "heading": "Dispensing or causing to be dispensed a different drug  in",
+      "text": "place of the drug or brand of drug ordered or prescribed without the\nexpress permission of the person ordering or prescribing.\nExcept as set forth in Section 26 of the Pharmacy Practice Act, this Section does not prohibit the interchange of different brands\nof the same generically equivalent drug product, when the drug\nproducts\nare not required to bear the legend \"Caution: Federal law prohibits dispensing\nwithout prescription\", provided that the same dosage form is dispensed and\nthere is no greater than 1% variance in the stated amount of each active\ningredient of the drug products.\nA generic drug determined to be therapeutically equivalent by the\nUnited States Food and Drug Administration (FDA) shall be available\nfor substitution in Illinois in accordance with this Act and the\nPharmacy Practice Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-315",
+      "number": "3.15.",
+      "heading": "To offer for sale any bulk food in a manner other than to prevent",
+      "text": "direct handling of such items by the consumer. This Section shall not prohibit\nself-service by consumers provided that the dispensers utilized prevent\nthe direct handling of such foods and provided further that the take-home containers, including bags, cups, and lids, are maintained clean, sanitary, and free from debris, smooth, durable, and easy-to-clean, and are not capable of causing, through cleanliness or design, conditions that may cause or spread disease.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-316",
+      "number": "3.16.",
+      "heading": "(1) Placing or causing to be placed upon any drug or device",
+      "text": "or container thereof, with intent to defraud, the trade name or other identifying\nmark, or imprint of another or any likeness of any of the foregoing; or\n(2) selling, dispensing, disposing of or causing to be sold, dispensed or\ndisposed of or concealing or keeping in possession, control, or custody,\nwith intent to sell, dispense or dispose of, any drug, device or any container\nthereof, with knowledge that the trade name or other identifying mark or\nimprint of another or any likeness of any of the foregoing has been placed\nthereon in a manner prohibited by clause (1) above; or (3) making, selling,\ndisposing of; causing to be made, sold or disposed of; keeping in possession,\ncontrol or custody; or concealing with intent to defraud any punch, die,\nplate, stone or other thing designed to print, imprint, or reproduce the\ntrademark, trade name, or other identifying mark, imprint,\nor device of another or any likeness of any of the foregoing upon any drug\nor container labeling thereof so as to render such drug a counterfeit drug.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-317",
+      "number": "3.17.",
+      "heading": "The failure to register in accordance with Section 510 of",
+      "text": "the Federal Act, the failure to provide any information required by Section\n510(j) or (k) of the Federal Act, or the failure to provide a notice required\nby Section 510(j)(2) of the Federal Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-318",
+      "number": "3.18.",
+      "heading": "(1) The failure or refusal to (A) comply with any requirement",
+      "text": "prescribed under Section 518 or 520(g) of the Federal Act, or (B) furnish\nany notification or other material or information required by or under Section\n519 or 520(g) of the Federal Act. (2) With respect to any device, the submission\nof any report that is required by or under this Act that is false or misleading\nin any material respect.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-319",
+      "number": "3.19.",
+      "heading": "The movement of a device in violation of any order under",
+      "text": "Section 304(g) of the Federal Act or the removal or alteration of any mark\nor label required by the order to identify the device as detained.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-320",
+      "number": "3.20.",
+      "heading": "The failure to provide the notice required by Section 412(b)",
+      "text": "or 412(c), the failure to make the reports required by Section 412(d)(1)(B),\nor the failure to meet the requirements prescribed under Section 412(d)(2)\nof the Federal Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321",
+      "number": "3.21.",
+      "heading": "Except as authorized by this Act, the Illinois Controlled Substances",
+      "text": "Act, the Pharmacy Practice Act, the Dental Practice Act, the Medical\nPractice Act of 1987, the Veterinary Medicine and Surgery Practice Act of\n2004, the Podiatric Medical Practice Act of 1987, Section 22-30 of the School Code, Section 40 of the Illinois State Police Act, Section 10.19 of the Illinois Police Training Act, or the Epinephrine Injector Act, to sell or dispense a\nprescription drug without a prescription.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-322",
+      "number": "3.22.",
+      "heading": "(a) Whoever knowingly distributes, or possesses with intent to",
+      "text": "distribute, human growth hormone for any use in humans other than the\ntreatment of a disease or other recognized medical condition, where the use\nhas been authorized by the Secretary of Health and Human Services and under\nthe order of a physician, is guilty of a Class 3 felony, and may be fined\nan amount not to exceed $50,000. As used in this Section, the term \"human growth hormone\" means somatrem, somatropin, or an analogue of either of them.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-323",
+      "number": "3.23.",
+      "heading": "Legend drug prohibition.",
+      "text": "Legend drug prohibition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-324",
+      "number": "3.24.",
+      "heading": "Drug misbranding; gluten. An oral drug is misbranded if gluten is included as an inactive ingredient and is not so listed on its label",
+      "text": "This Section does not apply to a pharmacy or pharmacist, as those terms are defined in Section 3 of the Pharmacy Practice Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4",
+      "number": "4.",
+      "heading": "In addition to the remedies hereinafter provided the Director is",
+      "text": "authorized to file a complaint and apply to the circuit court for, and such\ncourt may upon hearing and for cause shown grant, a temporary restraining\norder or preliminary or\npermanent injunction restraining any person from violating any provision of\nSections 3.1 through 3.21.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5",
+      "number": "5.",
+      "heading": "(a) A person who violates any of the provisions of this Act,",
+      "text": "other than Sections 3.22 and 6, is guilty of a Class C misdemeanor; but if\nthe violation is committed after a conviction of such person under this\nSection has become final, the person shall be guilty of a Class A\nmisdemeanor. A person who violates the provisions of Section 6 of this Act\nis guilty of a Class A misdemeanor; but if the violation is committed after\na conviction of such person under this Section has become final, the person\nshall be guilty of a Class 4 felony.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6",
+      "number": "6.",
+      "heading": "(a) When an authorized agent of the Director finds or has probable",
+      "text": "cause to believe that any food, drug, device or cosmetic is adulterated or\nso misbranded as to be dangerous or fraudulent within the meaning of this\nAct, is in violation of Section 12, 17 or 17.1 of this Act, or is suspected to be a synthetic drug product, he or she\nshall affix to such article a tag or other appropriate marking\ngiving notice that the article is or is suspected of being adulterated or\nmisbranded and has been detained or embargoed and warning all persons not\nto remove or dispose of such article by sale or otherwise until permission\nfor removal or disposal is given by such agent or the court. It is unlawful\nfor any person to remove or dispose of such detained or embargoed article\nby sale or otherwise without such permission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7",
+      "number": "7.",
+      "heading": "It shall be the duty of each state's attorney to whom the Director",
+      "text": "reports any violation of this Act, to cause appropriate proceedings to be\ninstituted in the proper courts without delay and to be prosecuted in the\nmanner required by law. Before any violation of this Act is reported to any\nsuch state's attorney for the institution of a criminal proceeding, the\nperson against whom such proceeding is contemplated shall be given\nappropriate notice and an opportunity to present his views before the\nDirector or his designated agent, either orally or in writing, in person or\nby attorney, with regard to such contemplated proceeding.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8",
+      "number": "8.",
+      "heading": "Nothing in this Act shall be construed as requiring the Director to",
+      "text": "report for the institution of proceedings under this Act, minor violations\nof this Act, when the Director believes that the public interest will be\nadequately served in the circumstances by a suitable written notice or\nwarning.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9",
+      "number": "9.",
+      "heading": "Definitions and standards of identity, quality and fill of container",
+      "text": "and supplements thereto or revisions thereof, adopted under authority of the Federal\nFood, Drug and Cosmetic Act are the definitions and standards of identity,\nquality and fill of container in this State except insofar as modified\nor rejected by regulations promulgated by the Director. In addition,\nthe Director of Agriculture may promulgate regulations which set standards of\nidentity, quantity and fill of container for foods.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10",
+      "number": "10.",
+      "heading": "A food is adulterated - (a) (1) If it bears or contains any",
+      "text": "poisonous or deleterious substance\nwhich may render it injurious to health; but in case the substance is not\nan added substance such food shall not be considered adulterated under this\nclause if the quantity of such substance in such food does not ordinarily\nrender it injurious to health; or (2) (A) if it bears or contains any added\npoisonous or added deleterious substance other than one which is (i) a\npesticide chemical in or on a raw agricultural commodity; (ii) a food\nadditive; or (iii) a color additive which is unsafe within the meaning of\nsubsection (a) of Section 13; or (iv) a new animal\ndrug which is unsafe within the meaning of Section 14; or (B) if it is\na raw agricultural commodity and it bears\nor contains a pesticide chemical which is unsafe within the meaning of\nSection 408 (a) of the Federal Act as amended; or (C) if it is or it bears\nor contains, any food additive which is unsafe within the meaning of\nSection 409 of the Federal Act as amended; provided that where a pesticide\nchemical has been used in or on a raw agricultural commodity in conformity\nwith an exemption granted or tolerance prescribed under Section 408 of the\nFederal Act and such raw agricultural commodity has been subjected to\nprocessing such as canning, cooking, freezing, dehydrating or milling, the\nresidue of such pesticide chemical remaining in or on such processed food\nshall, notwithstanding the provisions of Section 13 and Clause (C) of this\nSection not be deemed unsafe if such residue in or on the raw agricultural\ncommodity has been removed to the extent possible in good manufacturing\npractice, and the concentration of such residue in the processed food when\nready-to-eat, is not greater than the tolerance prescribed for the raw\nagricultural commodity; or (D) if it is, or it bears or contains, a new\nanimal drug (or conversion product thereof) which is unsafe within the\nmeaning of Section 512 of the Federal Act; or (3) if it consists in whole\nor in part of a diseased, contaminated, filthy, putrid or decomposed\nsubstance, or if it is otherwise unfit for food; or (4) if it has been\nproduced, prepared, packed or held under unsanitary conditions whereby it\nmay have become contaminated with filth or whereby it may have been\nrendered diseased, unwholesome or injurious to health; or (5) if it is, in\nwhole or in part, the product of a diseased animal or an\nanimal which has died otherwise than by slaughter, or that has been fed\nupon the uncooked offal from a slaughterhouse; or (6) if its container is\ncomposed, in whole or in part, of any poisonous or deleterious substance\nwhich may render the contents injurious to health; or (7) if it has been\nintentionally subjected to radiation unless the use of the radiation was in\nconformity with a regulation or exemption in effect pursuant to Section 13\nof this Act or Section 409 of the Federal Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11",
+      "number": "11.",
+      "heading": "A food is misbranded:",
+      "text": "A food is misbranded:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-115",
+      "number": "11.5.",
+      "heading": "Standardization of food labeling.",
+      "text": "Standardization of food labeling.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12",
+      "number": "12.",
+      "heading": "(a) When the Director finds after investigation that the",
+      "text": "distribution in Illinois of any class of food may, by reason of\ncontamination with microorganisms during manufacture, processing or packing\nthereof in any locality, be injurious to health and that such injurious\nnature cannot be adequately determined after such articles have entered\ncommerce, and in such case only, he shall promulgate regulations providing\nfor the issuance to manufacturers, processors of packers of such class of\nfood in such locality of permits to which shall be attached such conditions\ngoverning the manufacture, processing or packing of such class of food for\nsuch temporary period of time as may be necessary to protect the public\nhealth; and after the effective date of such regulations and during such\ntemporary period no person shall introduce or deliver for introduction into\ncommerce any such food manufactured, processed or packed by any such\nmanufacturer, processor or packer unless such manufacturer, processor or\npacker holds a permit issued by the Director as provided by such\nregulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-121",
+      "number": "12.1.",
+      "heading": "The Director may promulgate regulations exempting",
+      "text": "from any labeling requirement of this Act:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13",
+      "number": "13.",
+      "heading": "(a) Any added poisonous or deleterious substance, any food",
+      "text": "additive, any pesticide chemical in or on a raw agricultural commodity or\nany color additive shall with respect to any particular use or intended use\nbe deemed unsafe for the purpose of application of clause (2) (a) of\nSection 10(a) with respect to any food, Section 14(a) with respect to\nany drug or device or Section 18(a) with respect to any cosmetic, unless\nthere is in effect a regulation pursuant to Section 21 of this Act or\nsubsection (b) of this Section limiting the quantity of such substance and\nthe use or intended use of such substance conforms to the terms prescribed\nby such regulation. While such regulation or a regulation under the Federal\nAct relating to such substance is in effect, a food, drug or cosmetic\nshall not, by reason of bearing or containing such substance in accordance\nwith the regulation, be considered adulterated within the meaning of clause\n1, Section 10(a), Section 14(a) or Section 18(a).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14",
+      "number": "14.",
+      "heading": "A drug or device is adulterated:",
+      "text": "(a) (1) If it consists in\nwhole or in part of any filthy, putrid or\ndecomposed substance; or (2) (A) if it has been produced, prepared, packed\nor held under unsanitary conditions whereby it may have been contaminated\nwith filth or whereby it may have been rendered injurious to health; or (B)\nif it is a drug and the methods used in, or the facilities or controls used\nfor, its manufacture, processing, packing or holding do not conform to or\nare not operated or administered in conformity with current good\nmanufacturing practice to assure that such drug meets the requirements of\nthe Act as to safety and has the identity and strength and meets the\nquality and purity characteristics which it purports or is represented to\npossess; or (3) if it is a drug and its container is composed, in whole or\nin part, of any poisonous or deleterious substance which may render the\ncontents injurious to health; or (4) if (A) it is a drug and it bears or\ncontains, for purposes of coloring only, a color additive which is unsafe\nwithin the meaning of Section 706 of the Federal Act or (B) it is a\ncolor additive, the intended use of which in or on drugs or devices is\nfor purposes of coloring only and\nis unsafe within the meaning of Section 706 of the Federal Act; or\n(5) if it is a new animal drug which is unsafe within the meaning of Section\n512 of the Federal Act; or (6) if it is an animal feed bearing or\ncontaining a new animal drug, and such animal feed is unsafe within the\nmeaning of Section 512 of the Federal Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15",
+      "number": "15.",
+      "heading": "A drug or device is misbranded - (a) If its labeling is false",
+      "text": "or misleading in any particular.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-16",
+      "number": "16.",
+      "heading": "(a) The Director is hereby authorized to promulgate",
+      "text": "regulations exempting from any labeling or packaging requirement of this\nAct drugs and devices which are (i) in accordance with the practice of the\ntrade, to be processed, labeled or repacked in substantial quantities at\nestablishments other than those where originally processed or packaged on\ncondition that such drugs and devices are not adulterated or misbranded\nunder the provisions of this Act upon removal from such processing,\nlabeling or repacking establishment or (ii) packaged, repackaged, or labeled to the\nextent permitted under the Illinois Drug Reuse Opportunity Program Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-165",
+      "number": "16.5.",
+      "heading": "Single-use surgical devices.",
+      "text": "Single-use surgical devices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-17",
+      "number": "17.",
+      "heading": "(a) No person shall sell, deliver, offer for sale, hold for",
+      "text": "sale or give away any new drug unless (1) an application with respect thereto\nhas been\napproved and the approval has not been withdrawn under Section 505 of the\nFederal Act, and (2) a copy of the letter of approval or approvability\nissued by the Federal Food and Drug Administration is on file with the\nDirector, if the product is manufactured in the State of Illinois.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171",
+      "number": "17.1.",
+      "heading": "(a) (1) A new animal drug shall, with respect to any particular",
+      "text": "use or intended use of such drug, be deemed unsafe for the purposes of this\nAct unless, (A) there is in effect an approval of an application filed pursuant\nto Section 512(b) of the Federal Act with respect to such use or intended\nuse of such drug, and (B) such drug, its labeling and such use conforms\nto such approved application.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-172",
+      "number": "17.2.",
+      "heading": "Cosmetic testing on animals.",
+      "text": "Cosmetic testing on animals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-18",
+      "number": "18.",
+      "heading": "A cosmetic is adulterated:",
+      "text": "A cosmetic is adulterated:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19",
+      "number": "19.",
+      "heading": "A cosmetic is misbranded:",
+      "text": "A cosmetic is misbranded:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-20",
+      "number": "20.",
+      "heading": "False or misleading advertisement.",
+      "text": "False or misleading advertisement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-21",
+      "number": "21.",
+      "heading": "(a) The authority to promulgate regulations for the efficient",
+      "text": "enforcement of this Act is vested in the Director. The Director is\nauthorized to make the regulations promulgated under this Act conform, in\nso far as practicable, with those promulgated under the Federal Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-211",
+      "number": "21.1.",
+      "heading": "The Director shall, in accordance with this Act, promulgate",
+      "text": "rules and standards for manufactured dairy farms, manufactured dairy\nplants, bulk milk hauler-samplers, bulk milk pickup tanks, certified\npasteurizer sealers, and manufactured dairy products.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-212",
+      "number": "21.2.",
+      "heading": "After July 1, 1986, it shall be unlawful for any person to",
+      "text": "establish, maintain, conduct or operate a manufactured dairy farm or\nmanufactured\ndairy plant, or to process milk for manufacturing purposes or manufactured\ndairy products, or to haul or sample milk for manufacturing purposes within\nthis State, without first obtaining a permit therefor from the Department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-213",
+      "number": "21.3.",
+      "heading": "Certificates of free sale; health certificates; shellfish",
+      "text": "certificates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-214",
+      "number": "21.4.",
+      "heading": "Catfish labeling.",
+      "text": "Catfish labeling.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-215",
+      "number": "21.5.",
+      "heading": "Default beverage for children's meals.",
+      "text": "Default beverage for children's meals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22",
+      "number": "22.",
+      "heading": "(a) For purposes of enforcement of this Act, officers or employees",
+      "text": "designated by the Director, or the Director of Agriculture, where\napplicable, upon presenting appropriate credentials and a\nwritten notice to the owner, operator, agent or most responsible\nperson in charge, are authorized\n(1) to enter at reasonable times any factory, warehouse or establishment in\nwhich food, drugs, devices or cosmetics are manufactured, processed, packed\nor held for introduction into commerce or after such introduction or to\nenter any vehicle being used to transport or hold such food, drugs, devices\nor cosmetics in commerce; and (2) to inspect at reasonable times and within\nreasonable limits and in a reasonable manner such factory, warehouse,\nestablishment or vehicle and all pertinent equipment, finished and\nunfinished materials, containers and labeling therein and to obtain samples\nnecessary to the enforcement of this Act. In the case of any\nfactory, warehouse, establishment or consulting laboratory in which\nprescription drugs are manufactured, processed, packed or held, the\ninspection shall extend to all things therein (including records, files,\npapers, processes, controls and facilities) bearing on whether prescription\ndrugs which are adulterated or misbranded within the meaning of this Act or\nwhich may not be manufactured, introduced into commerce or sold or offered\nfor sale by reason of any provision of this Act, have been or are being\nmanufactured, processed, packed, transported or held in any such place or\notherwise bearing on violation of this Act. No inspection authorized for\nprescription drugs by the preceding sentence shall extend to (A) financial\ndata, (B) sales data other than shipment data, (C) pricing data, (D)\npersonnel data (other than data as to qualifications of technical and\nprofessional personnel performing functions subject to this Act), and (E)\nresearch data (other than data, relating to new drugs, antibiotic\ndrugs and new animal drugs subject to reporting and inspection\nunder regulations lawfully issued\npursuant to Section 505 (i) or (j) or Section 507 (d) or (g) of the Federal\nAct, and data, relating to other drugs or devices, which in the case\nof a new drug or device would be subject to reporting or inspection\nunder lawful regulations issued\npursuant to Section 505 (j) or 519 of the Federal Act. A separate notice shall be\ngiven for each such inspection, but a notice shall not be required for each\nentry made during the period covered by the inspection. Each such\ninspection shall be commenced and completed with reasonable promptness. The\nprovisions of the second sentence of this subsection shall not apply to:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221",
+      "number": "22.1.",
+      "heading": "The provisions of the Illinois Administrative Procedure",
+      "text": "Act are hereby expressly adopted and shall apply to all administrative\nrules and procedures of the Director of the Department of Public Health under\nthis Act, except that Section 5-35 of the Illinois Administrative\nProcedure Act relating to procedures for rule-making does not apply to the\nadoption of any rule required by federal law in connection with which the\nDepartment is precluded by law from exercising any discretion.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-222",
+      "number": "22.2.",
+      "heading": "All final administrative decisions of the Department hereunder",
+      "text": "shall be subject to judicial review pursuant to the provisions of the \"Administrative\nReview Law\", and the rules adopted pursuant thereto. The term \"administrative\ndecision\" is defined as in Section 3-101 of the Code of Civil Procedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-223",
+      "number": "22.3.",
+      "heading": "The Director after notice and opportunity for hearing to",
+      "text": "the applicant or permit holder may deny, suspend, or revoke a permit in\nany case in which he or she finds that there has been a substantial failure\nto comply with the provisions of this Act or the standards, rules and regulations\nestablished by virtue thereof.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-224",
+      "number": "22.4.",
+      "heading": "Food and Drug Safety Fund.",
+      "text": "There is created in the\nState Treasury a special fund to be known as the Food and Drug Safety Fund.\nAll subscription, fine, and permit fees, certificate fees, and other moneys\ncollected by the\nDepartment of Public Health under\nthis Act shall be deposited into the Fund. Subject to appropriation by the\nGeneral Assembly, moneys deposited into this Fund shall be made available\nto the Department of Public Health to administer Department activities related\nto food safety, drug\nsafety, milk safety, or drug product selection. All interest that accrues\non the moneys in the Fund shall be deposited into the Fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-23",
+      "number": "23.",
+      "heading": "(a) The Director may cause to be published from time to time",
+      "text": "reports summarizing all judgments and court orders which have been\nrendered under this Act, including the nature of the charge and the\ndisposition thereof.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24",
+      "number": "24.",
+      "heading": "Nothing in this Act shall be construed to limit or repeal any provisions",
+      "text": "of the Illinois Controlled Substances Act or the Methamphetamine Control and Community Protection Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25",
+      "number": "25.",
+      "heading": "Notwithstanding any provisions to the contrary in this Act, the",
+      "text": "Director of Agriculture has exclusive jurisdiction to\nenforce Section 9 as to standards of identity, quantity and\nfill of container for\nfoods, Sections 3.6, 3.9, 3.10, 3.12, 3.14, 3.16, 3.17, 3.21, 6, 10, 14,\n17.1 and 22 as they relate to new animal drugs or animal feeds,\nsubsections (d), (e), (h) (1) and (h) (2) of Section 11 and\nsubsection (1) of Section 12.1 of this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26",
+      "number": "26.",
+      "heading": "If any provision of this Act is declared unconstitutional or the",
+      "text": "applicability thereof to any person or circumstances is held invalid, the\nconstitutionality of the remainder of the Act and applicability thereof to\nother persons and circumstances shall not be affected thereby.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27",
+      "number": "27.",
+      "heading": "Honey. Notwithstanding any other provision of this Act, the Department may not regulate honey that is in the comb or that is removed from the comb and in an unadulterated condition; both forms of honey are exempt from the provisions of this Act",
+      "text": "Honey. Notwithstanding any other provision of this Act, the Department may not regulate honey that is in the comb or that is removed from the comb and in an unadulterated condition; both forms of honey are exempt from the provisions of this Act.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

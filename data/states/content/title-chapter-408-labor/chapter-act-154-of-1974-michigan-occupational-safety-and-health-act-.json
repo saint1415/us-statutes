@@ -1,0 +1,606 @@
+{
+  "state": "michigan",
+  "path": "title-chapter-408-labor/chapter-act-154-of-1974-michigan-occupational-safety-and-health-act-",
+  "sections": [
+    {
+      "id": "section-4081001",
+      "number": "408.1001",
+      "heading": "Short Title.Section 408.1002 - Scope of Act; Effect on Statutory or Common Law",
+      "text": "Section 408.1003 - Meanings of Words and Phrases.Section 408.1004 - Definitions; a to M.Section 408.1004.amended - Definitions; a to M.Section 408.1005 - Definitions; E to I.Section 408.1006 - Definitions; P to W.Section",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081002",
+      "number": "408.1002",
+      "heading": "Scope of Act; Effect on Statutory or Common Law.",
+      "text": "Scope of Act; Effect on Statutory or Common Law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081003",
+      "number": "408.1003",
+      "heading": "Meanings of Words and Phrases.",
+      "text": "Meanings of Words and Phrases.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081004",
+      "number": "408.1004",
+      "heading": "Definitions; a to M.",
+      "text": "Definitions; a to M.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081004amended",
+      "number": "408.1004.amended",
+      "heading": "Definitions; a to M.",
+      "text": "Definitions; a to M.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081005",
+      "number": "408.1005",
+      "heading": "Definitions; E to I.",
+      "text": "Definitions; E to I.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081006",
+      "number": "408.1006",
+      "heading": "Definitions; P to W.",
+      "text": "Definitions; P to W.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081009",
+      "number": "408.1009",
+      "heading": "Legislative Declaration.",
+      "text": "Legislative Declaration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081011",
+      "number": "408.1011",
+      "heading": "Duties of Employer.",
+      "text": "Duties of Employer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081012",
+      "number": "408.1012",
+      "heading": "Duties of Employee.",
+      "text": "Duties of Employee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081013",
+      "number": "408.1013",
+      "heading": "Administration and Enforcement; Reports.",
+      "text": "Administration and Enforcement; Reports.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081014",
+      "number": "408.1014",
+      "heading": "Federal Standards Incorporated by Reference; Force and Effect; Conflicts; Copies of Standard; Processing Proposed Rule Substantially Similar to Federal Standard; Clear and Convincing Need for Standard; Compliance With Administrative Procedures Act of 1969; Inapplicability to MCL 408",
+      "text": "1014r.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081014a",
+      "number": "408.1014a",
+      "heading": "Occupational Safety and Health Hazard Communication Standard; Incorporation by Reference; Applicability of Standard; Conflicting Provisions; Administration and Enforcement of Standards; Duties of Employers",
+      "text": "Occupational Safety and Health Hazard Communication Standard; Incorporation by Reference; Applicability of Standard; Conflicting Provisions; Administration and Enforcement of Standards; Duties of Employers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081014b",
+      "number": "408.1014b",
+      "heading": "Disclosure of Specific Chemical Identity, Percentage Composition, or Both.",
+      "text": "Disclosure of Specific Chemical Identity, Percentage Composition, or Both.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081014c",
+      "number": "408.1014c",
+      "heading": "Identification of Pipes and Piping Systems in Workplace; Establishment of Pipe and Stationary Process Container Entry Procedure; Applicable Provisions",
+      "text": "Identification of Pipes and Piping Systems in Workplace; Establishment of Pipe and Stationary Process Container Entry Procedure; Applicable Provisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081014d",
+      "number": "408.1014d",
+      "heading": "Trade Secret Claims; Petition; Review; Confidentiality; Determination; Final Order; Revocation of Order; Hearing; Exemption of Records and Information From Disclosure Under Freedom of Information Act; Providing Director With Specific Chemical Identity and Percentage Composition of Hazardous Chemical",
+      "text": "Trade Secret Claims; Petition; Review; Confidentiality; Determination; Final Order; Revocation of Order; Hearing; Exemption of Records and Information From Disclosure Under Freedom of Information Act; Providing Director With Specific Chemical Identity and Percentage Composition of Hazardous Chemical.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081014e",
+      "number": "408.1014e",
+      "heading": "Public Service Announcements.",
+      "text": "Public Service Announcements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081014f",
+      "number": "408.1014f",
+      "heading": "Employer Engaged in Agricultural Operations; Certifying List of Chemicals.",
+      "text": "Employer Engaged in Agricultural Operations; Certifying List of Chemicals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081014g",
+      "number": "408.1014g",
+      "heading": "Chemical in Sealed Package in Transit by Common Carrier.",
+      "text": "Chemical in Sealed Package in Transit by Common Carrier.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081014h",
+      "number": "408.1014h",
+      "heading": "Employer Engaged in Construction Operations.",
+      "text": "Employer Engaged in Construction Operations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081014i",
+      "number": "408.1014i",
+      "heading": "Plan for Executing Responsibilities of Organized Fire Department.",
+      "text": "Plan for Executing Responsibilities of Organized Fire Department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081014j",
+      "number": "408.1014j",
+      "heading": "Signs Throughout Workplace; Contents.",
+      "text": "Signs Throughout Workplace; Contents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081014k",
+      "number": "408.1014k",
+      "heading": "Safety Data Sheets for Hazardous Chemicals in Workplace; Organization; Training Employees; Notice of New or Revised Sheets.",
+      "text": "Safety Data Sheets for Hazardous Chemicals in Workplace; Organization; Training Employees; Notice of New or Revised Sheets.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081014l",
+      "number": "408.1014l",
+      "heading": "Failure to Provide Exposed Employee With Access to Most Current Safety Data Sheet.",
+      "text": "Failure to Provide Exposed Employee With Access to Most Current Safety Data Sheet.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081014m",
+      "number": "408.1014m",
+      "heading": "Conflicting Provisions Unenforceable.",
+      "text": "Conflicting Provisions Unenforceable.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081014n",
+      "number": "408.1014n",
+      "heading": "Federal Occupational Safety and Health Field Sanitation Standard; Incorporation by Reference; Effect; Providing Potable Water, Toilet Facility, and Hand Washing Facility for Agricultural Employees; Administration and Enforcement of Incorporated Standard; Copies of Standard",
+      "text": "Federal Occupational Safety and Health Field Sanitation Standard; Incorporation by Reference; Effect; Providing Potable Water, Toilet Facility, and Hand Washing Facility for Agricultural Employees; Administration and Enforcement of Incorporated Standard; Copies of Standard.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081014r",
+      "number": "408.1014r",
+      "heading": "Use of Firefighting Foam Concentrate (Pfas); Rules.",
+      "text": "Use of Firefighting Foam Concentrate (Pfas); Rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081015",
+      "number": "408.1015",
+      "heading": "Repealed.  2012, Act 416, Eff. Dec. 27, 2012.",
+      "text": "Repealed. 2012, Act 416, Eff. Dec. 27, 2012.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081016",
+      "number": "408.1016",
+      "heading": "Promulgation, Expression, and Adoption of Standards by Director.",
+      "text": "Promulgation, Expression, and Adoption of Standards by Director.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081017",
+      "number": "408.1017",
+      "heading": "Workplace Ergonomics; Promulgation of Rules Prohibited; Federal Rules or Guidelines; \"Workplace Ergonomics\" Defined.",
+      "text": "Workplace Ergonomics; Promulgation of Rules Prohibited; Federal Rules or Guidelines; \"Workplace Ergonomics\" Defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081018",
+      "number": "408.1018",
+      "heading": "Repealed.  2012, Act 448, Imd. Eff. Dec. 27, 2012.",
+      "text": "Repealed. 2012, Act 448, Imd. Eff. Dec. 27, 2012.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081019",
+      "number": "408.1019",
+      "heading": "Promulgation of Standards by Director.",
+      "text": "Promulgation of Standards by Director.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081021",
+      "number": "408.1021",
+      "heading": "Continuation of Safety Standards; Emergency Safety Standards; Promulgation of Approved Standard.",
+      "text": "Continuation of Safety Standards; Emergency Safety Standards; Promulgation of Approved Standard.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081023",
+      "number": "408.1023",
+      "heading": "Repealed. 2012, Act 447, Imd. Eff. Dec. 27, 2012.",
+      "text": "Repealed. 2012, Act 447, Imd. Eff. Dec. 27, 2012.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081024",
+      "number": "408.1024",
+      "heading": "Continuation of Occupational Health Standards; Promulgation; Requirements for Standard; Emergency Standard; Contents of Standard; Availability and Costs of Medical Examination or Test; Religious Objection",
+      "text": "Continuation of Occupational Health Standards; Promulgation; Requirements for Standard; Emergency Standard; Contents of Standard; Availability and Costs of Medical Examination or Test; Religious Objection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081027",
+      "number": "408.1027",
+      "heading": "Temporary Order Granting Variance From Standard; Rule or Order for Variance From Standard.",
+      "text": "Temporary Order Granting Variance From Standard; Rule or Order for Variance From Standard.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081028",
+      "number": "408.1028",
+      "heading": "Violation of Standard Threatening Physical Harm; Request for Inspection; Notice; Determination; Notification of Condition Presenting Imminent Danger; Notification of Violation of Act or Rule; Inspection; Confidentiality; Procedures for Informal Review of Decision; Statement of Final Disposition; Rig",
+      "text": "Violation of Standard Threatening Physical Harm; Request for Inspection; Notice; Determination; Notification of Condition Presenting Imminent Danger; Notification of Violation of Act or Rule; Inspection; Confidentiality; Procedures for Informal Review of Decision; Statement of Final Disposition; Right to Attend Meetings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081029",
+      "number": "408.1029",
+      "heading": "Inspection and Investigations; Right of Entry; Warrant; Witnesses; Evidence; Right of Accompaniment; Advance Notice; Tests and Samples; Evaluation; Confidentiality of Trade Secrets; Conference; Liability for Damages; Discrimination Prohibited; “Wages and Fringe Benefits” Defined",
+      "text": "Inspection and Investigations; Right of Entry; Warrant; Witnesses; Evidence; Right of Accompaniment; Advance Notice; Tests and Samples; Evaluation; Confidentiality of Trade Secrets; Conference; Liability for Damages; Discrimination Prohibited; “Wages and Fringe Benefits” Defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081030",
+      "number": "408.1030",
+      "heading": "Safety and Health Inspector at Site of Tunnel, Shaft, Caisson, or Cofferdam; Qualifications; Powers and Duties; Cost of Wages and Fringe Benefits; Advising of and Publishing Regular and Overtime Rates; Tunnel Construction Activity Exceeding 60 Hours per Week; Employer's Responsibility Not Diminished",
+      "text": "Safety and Health Inspector at Site of Tunnel, Shaft, Caisson, or Cofferdam; Qualifications; Powers and Duties; Cost of Wages and Fringe Benefits; Advising of and Publishing Regular and Overtime Rates; Tunnel Construction Activity Exceeding 60 Hours per Week; Employer's Responsibility Not Diminished.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081031",
+      "number": "408.1031",
+      "heading": "Determination of Imminent Danger; Notice; Order; Tagging Equipment or Process; Removal of Tag; on Site Review; Recommendation; Discrimination Prohibited; Noncompliance With Order; Petition to Restrain Condition or Practice; Action Against Department; Response to Imminent Danger Complaint; Opportunit",
+      "text": "Determination of Imminent Danger; Notice; Order; Tagging Equipment or Process; Removal of Tag; on Site Review; Recommendation; Discrimination Prohibited; Noncompliance With Order; Petition to Restrain Condition or Practice; Action Against Department; Response to Imminent Danger Complaint; Opportunity to Identify, Label, or Provide Safety Data Sheet for Container.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081033",
+      "number": "408.1033",
+      "heading": "Citation for Violation; Issuance; Contents; Presentation; Mailing; Posting; Notification of Compliance; Failure to Correct Violation; Notice in Place of Citation; Rules; Vacating Citation",
+      "text": "Citation for Violation; Issuance; Contents; Presentation; Mailing; Posting; Notification of Compliance; Failure to Correct Violation; Notice in Place of Citation; Rules; Vacating Citation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081035",
+      "number": "408.1035",
+      "heading": "Violations; Civil and Criminal Penalties; Effective Date of Increases in Civil Penalties Made Pursuant to 1991 Amendatory Act.",
+      "text": "Violations; Civil and Criminal Penalties; Effective Date of Increases in Civil Penalties Made Pursuant to 1991 Amendatory Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081035amended",
+      "number": "408.1035.amended",
+      "heading": "Violations; Civil and Criminal Penalties.",
+      "text": "Violations; Civil and Criminal Penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081035aadded",
+      "number": "408.1035a.added",
+      "heading": "Violations; Civil and Criminal Penalties.",
+      "text": "Violations; Civil and Criminal Penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081036",
+      "number": "408.1036",
+      "heading": "Civil Penalties; Assessment; Schedule; Payment; Recovering Unpaid Penalty.",
+      "text": "Civil Penalties; Assessment; Schedule; Payment; Recovering Unpaid Penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081036amended",
+      "number": "408.1036.amended",
+      "heading": "Civil Penalties; Assessment; Asbestos-Related Violations; Payment; Recovering Unpaid Penalty.",
+      "text": "Civil Penalties; Assessment; Asbestos-Related Violations; Payment; Recovering Unpaid Penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081037",
+      "number": "408.1037",
+      "heading": "Evidence and Investigation of Criminal Violation.",
+      "text": "Evidence and Investigation of Criminal Violation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081041",
+      "number": "408.1041",
+      "heading": "Granting Additional Time for Compliance, Modification, or Dismissal of Citation and Penalty; Petition; Procedure; Effect of Failure to Petition; Action by Department; Notice; Finality of Decision; Appeal to Board",
+      "text": "Granting Additional Time for Compliance, Modification, or Dismissal of Citation and Penalty; Petition; Procedure; Effect of Failure to Petition; Action by Department; Notice; Finality of Decision; Appeal to Board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081042",
+      "number": "408.1042",
+      "heading": "Hearing; Order; Rules of Procedure; Report of Hearing Officer.",
+      "text": "Hearing; Order; Rules of Procedure; Report of Hearing Officer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081043",
+      "number": "408.1043",
+      "heading": "Hearing; Conduct of Proceedings.",
+      "text": "Hearing; Conduct of Proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081044",
+      "number": "408.1044",
+      "heading": "Review of Report of Hearing Officer; Powers of Board; Order Affirming or Modifying Abatement Requirements; Judicial Review of Order or Standard.",
+      "text": "Review of Report of Hearing Officer; Powers of Board; Order Affirming or Modifying Abatement Requirements; Judicial Review of Order or Standard.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081045",
+      "number": "408.1045",
+      "heading": "Cease Operation Order; Enforcement Proceedings.",
+      "text": "Cease Operation Order; Enforcement Proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081046",
+      "number": "408.1046",
+      "heading": "Board of Health and Safety Compliance and Appeals; Creation; Appointment, Qualifications, and Terms of Members; Chairman; Vacancy; Scope of Authority; Meetings; Quorum; Prerequisite to Official Action; Compensation and Expenses; Hearing; Evidence; Fees; Rules; Construction and Application of Identic",
+      "text": "Board of Health and Safety Compliance and Appeals; Creation; Appointment, Qualifications, and Terms of Members; Chairman; Vacancy; Scope of Authority; Meetings; Quorum; Prerequisite to Official Action; Compensation and Expenses; Hearing; Evidence; Fees; Rules; Construction and Application of Identical State and Federal Standards.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081048",
+      "number": "408.1048",
+      "heading": "Conducting Business at Public Meeting; Notice.",
+      "text": "Conducting Business at Public Meeting; Notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081052",
+      "number": "408.1052",
+      "heading": "Department Attorney as Representative of Departments, Board, and Commissions in Litigation; Board Not Considered Party in Judicial Review Proceeding.",
+      "text": "Department Attorney as Representative of Departments, Board, and Commissions in Litigation; Board Not Considered Party in Judicial Review Proceeding.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081054",
+      "number": "408.1054",
+      "heading": "Safety Education and Training Division; Creation; Functions; Newsletter; Statement as to Standard, Rule, or Order.",
+      "text": "Safety Education and Training Division; Creation; Functions; Newsletter; Statement as to Standard, Rule, or Order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081055",
+      "number": "408.1055",
+      "heading": "Safety Education and Training Fund.",
+      "text": "Safety Education and Training Fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081056",
+      "number": "408.1056",
+      "heading": "Occupational Health Education and Training Program.",
+      "text": "Occupational Health Education and Training Program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081057-4081058",
+      "number": "408.1057-408.1058",
+      "heading": "Repealed. 1991, Act 105, Eff. June 17, 1994.",
+      "text": "Repealed. 1991, Act 105, Eff. June 17, 1994.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081058a-4081058d",
+      "number": "408.1058a-408.1058d",
+      "heading": "Repealed. 1988, Act 439, Imd. Eff. Dec. 27, 1988.",
+      "text": "Repealed. 1988, Act 439, Imd. Eff. Dec. 27, 1988.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081058e",
+      "number": "408.1058e",
+      "heading": "Repealed. 1991, Act 105, Eff. June 17, 1994.",
+      "text": "Repealed. 1991, Act 105, Eff. June 17, 1994.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081058f",
+      "number": "408.1058f",
+      "heading": "Repealed. 1990, Act 2, Imd. Eff. Feb. 12, 1990.",
+      "text": "Repealed. 1990, Act 2, Imd. Eff. Feb. 12, 1990.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-408",
+      "number": "408",
+      "heading": "1059, 408.1059a - Repealed. 1991, Act 105, Eff. June 17, 1994.",
+      "text": "1059, 408.1059a - Repealed. 1991, Act 105, Eff. June 17, 1994.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081059b",
+      "number": "408.1059b",
+      "heading": "Repealed. 1988, Act 439, Imd. Eff. Dec. 27, 1988.",
+      "text": "Repealed. 1988, Act 439, Imd. Eff. Dec. 27, 1988.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081059c-4081059e",
+      "number": "408.1059c-408.1059e",
+      "heading": "Repealed. 1991, Act 105, Eff. June 17, 1994.",
+      "text": "Repealed. 1991, Act 105, Eff. June 17, 1994.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081059f",
+      "number": "408.1059f",
+      "heading": "Repealed. 1988, Act 439, Imd. Eff. Dec. 27, 1988.",
+      "text": "Repealed. 1988, Act 439, Imd. Eff. Dec. 27, 1988.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081060-4081060d",
+      "number": "408.1060-408.1060d",
+      "heading": "Repealed. 1991, Act 105, Eff. June 17, 1994.",
+      "text": "Repealed. 1991, Act 105, Eff. June 17, 1994.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081061",
+      "number": "408.1061",
+      "heading": "Records and Reports of Work Illnesses and Injuries; Access to Records by Employee; Notice to Employee of Exposure and Corrective Action; Federal Requirements Not Negated",
+      "text": "Records and Reports of Work Illnesses and Injuries; Access to Records by Employee; Notice to Employee of Exposure and Corrective Action; Federal Requirements Not Negated.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081063",
+      "number": "408.1063",
+      "heading": "Confidentiality of Trade Secrets; Protection; Rules; Orders; Information Available to Public; Identity of Employee Exempt From Disclosure.",
+      "text": "Confidentiality of Trade Secrets; Protection; Rules; Orders; Information Available to Public; Identity of Employee Exempt From Disclosure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081065",
+      "number": "408.1065",
+      "heading": "Discharging or Discriminating Against Employee Prohibited; Complaint; Investigation; Order; Notice; Review; Finality of Determination; Parties; Hearings Officers; Conduct of Proceedings; Determination as Final Disposition; Judicial Review; Venue; Civil Action to Enforce Order; Powers of Director of ",
+      "text": "Discharging or Discriminating Against Employee Prohibited; Complaint; Investigation; Order; Notice; Review; Finality of Determination; Parties; Hearings Officers; Conduct of Proceedings; Determination as Final Disposition; Judicial Review; Venue; Civil Action to Enforce Order; Powers of Director of Labor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081067",
+      "number": "408.1067",
+      "heading": "Posting Requirements; Warning Labels.",
+      "text": "Posting Requirements; Warning Labels.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081069",
+      "number": "408.1069",
+      "heading": "Rules; Declaratory Rulings; Effect of Standards Adopted by Reference or Continued in Effect.",
+      "text": "Rules; Declaratory Rulings; Effect of Standards Adopted by Reference or Continued in Effect.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081091",
+      "number": "408.1091",
+      "heading": "Pending Proceedings Continued.",
+      "text": "Pending Proceedings Continued.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081093",
+      "number": "408.1093",
+      "heading": "Repeal.",
+      "text": "Repeal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081094",
+      "number": "408.1094",
+      "heading": "Effective Date.",
+      "text": "Effective Date.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

@@ -1,0 +1,1846 @@
+{
+  "state": "louisiana",
+  "path": "title-revised-statutes/chapter-title-31-mineral-code",
+  "sections": [
+    {
+      "id": "section-311",
+      "number": "31:1.",
+      "heading": "Title and form of citation",
+      "text": "Title and form of citation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-312",
+      "number": "31:2.",
+      "heading": "Relation to Civil Code",
+      "text": "Relation to Civil Code",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-313",
+      "number": "31:3.",
+      "heading": "Freedom of contract and limitations thereon",
+      "text": "Freedom of contract and limitations thereon",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-314",
+      "number": "31:4.",
+      "heading": "Substances to which Code applicable",
+      "text": "Substances to which Code applicable",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-315",
+      "number": "31:5.",
+      "heading": "Ownership of solid minerals",
+      "text": "Ownership of solid minerals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-316",
+      "number": "31:6.",
+      "heading": "Right to search for fugitive minerals; elements of ownership of land",
+      "text": "Right to search for fugitive minerals; elements of ownership of land",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-317",
+      "number": "31:7.",
+      "heading": "When minerals reduced to possession",
+      "text": "When minerals reduced to possession",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-318",
+      "number": "31:8.",
+      "heading": "Landowner's right of enjoyment for mineral extraction",
+      "text": "Landowner's right of enjoyment for mineral extraction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-319",
+      "number": "31:9.",
+      "heading": "Correlative rights of owners of common reservoir or deposit",
+      "text": "Correlative rights of owners of common reservoir or deposit",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3110",
+      "number": "31:10.",
+      "heading": "Liability to others with interests in common reservoir or deposit",
+      "text": "Liability to others with interests in common reservoir or deposit",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3111",
+      "number": "31:11.",
+      "heading": "Reasonable regard for concurrent uses of the land burdened by mineral rights",
+      "text": "Reasonable regard for concurrent uses of the land burdened by mineral rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3112",
+      "number": "31:12.",
+      "heading": "Protection of landowner's interest in minerals",
+      "text": "Protection of landowner's interest in minerals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3113",
+      "number": "31:13.",
+      "heading": "Damages for removal of solid minerals",
+      "text": "Damages for removal of solid minerals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3114",
+      "number": "31:14.",
+      "heading": "Drainage of fugitive minerals; exclusion of liability; exceptions",
+      "text": "Drainage of fugitive minerals; exclusion of liability; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3115",
+      "number": "31:15.",
+      "heading": "Right of landowner to convey, reserve, or lease right to explore and develop",
+      "text": "Right of landowner to convey, reserve, or lease right to explore and develop",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3116",
+      "number": "31:16.",
+      "heading": "Basic mineral rights; status as real rights",
+      "text": "Basic mineral rights; status as real rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3117",
+      "number": "31:17.",
+      "heading": "Rescission for lesion beyond moiety unavailable",
+      "text": "Rescission for lesion beyond moiety unavailable",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3118",
+      "number": "31:18.",
+      "heading": "Nature of mineral rights",
+      "text": "Nature of mineral rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3119",
+      "number": "31:19.",
+      "heading": "Capacity to create mineral rights",
+      "text": "Capacity to create mineral rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3120",
+      "number": "31:20.",
+      "heading": "Authority to create mineral rights",
+      "text": "Authority to create mineral rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3121",
+      "number": "31:21.",
+      "heading": "Nature of mineral servitude",
+      "text": "Nature of mineral servitude",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3122",
+      "number": "31:22.",
+      "heading": "Certain rights and obligations of mineral servitude owner",
+      "text": "Certain rights and obligations of mineral servitude owner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3123",
+      "number": "31:23.",
+      "heading": "Right of servitude owner to operate; protection thereof",
+      "text": "Right of servitude owner to operate; protection thereof",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3124",
+      "number": "31:24.",
+      "heading": "Right of landowner to create mineral servitude",
+      "text": "Right of landowner to create mineral servitude",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3125",
+      "number": "31:25.",
+      "heading": "Right of conditional landowner to create mineral servitude",
+      "text": "Right of conditional landowner to create mineral servitude",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3126",
+      "number": "31:26.",
+      "heading": "Usufructuary may not create mineral servitude",
+      "text": "Usufructuary may not create mineral servitude",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3127",
+      "number": "31:27.",
+      "heading": "Extinction of mineral servitudes",
+      "text": "Extinction of mineral servitudes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3128",
+      "number": "31:28.",
+      "heading": "Commencement of prescription of nonuse",
+      "text": "Commencement of prescription of nonuse",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3186",
+      "number": "31:86.",
+      "heading": "Commencement of prescription of nonuse",
+      "text": "Commencement of prescription of nonuse",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3129",
+      "number": "31:29.",
+      "heading": "How prescription of nonuse is interrupted",
+      "text": "How prescription of nonuse is interrupted",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3130",
+      "number": "31:30.",
+      "heading": "Date on which prescription interrupted and commenced anew",
+      "text": "Date on which prescription interrupted and commenced anew",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3131",
+      "number": "31:31.",
+      "heading": "Operations beyond prescriptive date; effect as interruption",
+      "text": "Operations beyond prescriptive date; effect as interruption",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3132",
+      "number": "31:32.",
+      "heading": "Interruption by additional operations",
+      "text": "Interruption by additional operations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3133",
+      "number": "31:33.",
+      "heading": "Unit operations; effect as interruption of prescription",
+      "text": "Unit operations; effect as interruption of prescription",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3134",
+      "number": "31:34.",
+      "heading": "Shut-in well; testing as interruption of prescription",
+      "text": "Shut-in well; testing as interruption of prescription",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3135",
+      "number": "31:35.",
+      "heading": "Unitization with tested shut-in well as interruption of prescription",
+      "text": "Unitization with tested shut-in well as interruption of prescription",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3136",
+      "number": "31:36.",
+      "heading": "Production as interruption of prescription",
+      "text": "Production as interruption of prescription",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3137",
+      "number": "31:37.",
+      "heading": "Unit production as interruption of prescription",
+      "text": "Unit production as interruption of prescription",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3138",
+      "number": "31:38.",
+      "heading": "Good faith production for beneficial purpose required",
+      "text": "Good faith production for beneficial purpose required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3139",
+      "number": "31:39.",
+      "heading": "Attempt to restore or secure new production as interruption of prescription",
+      "text": "Attempt to restore or secure new production as interruption of prescription",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3140",
+      "number": "31:40.",
+      "heading": "Interruption applicable to all minerals and modes of use",
+      "text": "Interruption applicable to all minerals and modes of use",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3141",
+      "number": "31:41.",
+      "heading": "Commencement of prescription anew following attempt to restore or secure new production",
+      "text": "Commencement of prescription anew following attempt to restore or secure new production",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3142",
+      "number": "31:42.",
+      "heading": "By whom a mineral servitude may be used",
+      "text": "By whom a mineral servitude may be used",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3143",
+      "number": "31:43.",
+      "heading": "When a person is acting on behalf of servitude owner",
+      "text": "When a person is acting on behalf of servitude owner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3144",
+      "number": "31:44.",
+      "heading": "Adoption of operations by another",
+      "text": "Adoption of operations by another",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3145",
+      "number": "31:45.",
+      "heading": "Time within which adoption must be made",
+      "text": "Time within which adoption must be made",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3146",
+      "number": "31:46.",
+      "heading": "Procedure for adoption",
+      "text": "Procedure for adoption",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3147",
+      "number": "31:47.",
+      "heading": "Compulsory unit operations; adoption unnecessary",
+      "text": "Compulsory unit operations; adoption unnecessary",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3148",
+      "number": "31:48.",
+      "heading": "Obligation of servitude owner to pay costs",
+      "text": "Obligation of servitude owner to pay costs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3149",
+      "number": "31:49.",
+      "heading": "Unsuccessful operations; waiver of damages when adopted",
+      "text": "Unsuccessful operations; waiver of damages when adopted",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3150",
+      "number": "31:50.",
+      "heading": "Adoption a matter of right",
+      "text": "Adoption a matter of right",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3151",
+      "number": "31:51.",
+      "heading": "Adoption when servitude under lease",
+      "text": "Adoption when servitude under lease",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3152",
+      "number": "31:52.",
+      "heading": "Right to claim production in absence of adoption",
+      "text": "Right to claim production in absence of adoption",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3153",
+      "number": "31:53.",
+      "heading": "Adoption possible only as specifically provided",
+      "text": "Adoption possible only as specifically provided",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3154",
+      "number": "31:54.",
+      "heading": "Interruption of prescription by acknowledgment; formal requirements",
+      "text": "Interruption of prescription by acknowledgment; formal requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3155",
+      "number": "31:55.",
+      "heading": "Express intent required",
+      "text": "Express intent required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3156",
+      "number": "31:56.",
+      "heading": "Contractual extension of servitude; requirements",
+      "text": "Contractual extension of servitude; requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3157",
+      "number": "31:57.",
+      "heading": "Extended servitude subject to rules of prescription",
+      "text": "Extended servitude subject to rules of prescription",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3158",
+      "number": "31:58.",
+      "heading": "Prescription not affected by minority or other disability",
+      "text": "Prescription not affected by minority or other disability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3159",
+      "number": "31:59.",
+      "heading": "Suspension of prescription by obstacle",
+      "text": "Suspension of prescription by obstacle",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3160",
+      "number": "31:60.",
+      "heading": "Suspension effective as to all minerals",
+      "text": "Suspension effective as to all minerals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3161",
+      "number": "31:61.",
+      "heading": "Compulsory unitization order not an obstacle; establishment of mining plan is an obstacle",
+      "text": "Compulsory unitization order not an obstacle; establishment of mining plan is an obstacle",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3162",
+      "number": "31:62.",
+      "heading": "Mineral servitude indivisible except as specifically provided",
+      "text": "Mineral servitude indivisible except as specifically provided",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3163",
+      "number": "31:63.",
+      "heading": "Presumption arising from separate description of tracts forming continuous body of land",
+      "text": "Presumption arising from separate description of tracts forming continuous body of land",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3164",
+      "number": "31:64.",
+      "heading": "Presumption when servitudes created on noncontiguous tracts",
+      "text": "Presumption when servitudes created on noncontiguous tracts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3165",
+      "number": "31:65.",
+      "heading": "Division of servient estate not division of servitude",
+      "text": "Division of servient estate not division of servitude",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3166",
+      "number": "31:66.",
+      "heading": "Right of owners of contiguous tracts to create single servitude",
+      "text": "Right of owners of contiguous tracts to create single servitude",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3167",
+      "number": "31:67.",
+      "heading": "Right of co-owners to create single servitude in partition of land",
+      "text": "Right of co-owners to create single servitude in partition of land",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3168",
+      "number": "31:68.",
+      "heading": "Effect of limitation of servitude rights to specified horizons or levels",
+      "text": "Effect of limitation of servitude rights to specified horizons or levels",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3169",
+      "number": "31:69.",
+      "heading": "Effect of partial conveyances of servitude rights",
+      "text": "Effect of partial conveyances of servitude rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3170",
+      "number": "31:70.",
+      "heading": "Effect of contracts for use or development of portion of servitude",
+      "text": "Effect of contracts for use or development of portion of servitude",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3171",
+      "number": "31:71.",
+      "heading": "Partial unitization not a division",
+      "text": "Partial unitization not a division",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3172",
+      "number": "31:72.",
+      "heading": "Parties free to contract except as specifically limited",
+      "text": "Parties free to contract except as specifically limited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3173",
+      "number": "31:73.",
+      "heading": "Single servitude may not exist on noncontiguous tracts",
+      "text": "Single servitude may not exist on noncontiguous tracts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3174",
+      "number": "31:74.",
+      "heading": "Right to fix term or shorten prescriptive period; effect of stipulation for prescriptive period greater than ten years",
+      "text": "Right to fix term or shorten prescriptive period; effect of stipulation for prescriptive period greater than ten years",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3175",
+      "number": "31:75.",
+      "heading": "Right to contract regarding rules of use",
+      "text": "Right to contract regarding rules of use",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3176",
+      "number": "31:76.",
+      "heading": "Expectancy of extinction not an article of commerce",
+      "text": "Expectancy of extinction not an article of commerce",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3177",
+      "number": "31:77.",
+      "heading": "Application of after-acquired title doctrine",
+      "text": "Application of after-acquired title doctrine",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3178",
+      "number": "31:78.",
+      "heading": "Prescription when after-acquired title doctrine applies; acquisition of outstanding servitude",
+      "text": "Prescription when after-acquired title doctrine applies; acquisition of outstanding servitude",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3179",
+      "number": "31:79.",
+      "heading": "Prescription when after-acquired title doctrine applies; extinction of outstanding servitude",
+      "text": "Prescription when after-acquired title doctrine applies; extinction of outstanding servitude",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3180",
+      "number": "31:80.",
+      "heading": "Nature of mineral royalty",
+      "text": "Nature of mineral royalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3181",
+      "number": "31:81.",
+      "heading": "Executive and operating rights not included",
+      "text": "Executive and operating rights not included",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3182",
+      "number": "31:82.",
+      "heading": "Who may create mineral royalty",
+      "text": "Who may create mineral royalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3183",
+      "number": "31:83.",
+      "heading": "Creation of mineral royalty by conditional owner",
+      "text": "Creation of mineral royalty by conditional owner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3184",
+      "number": "31:84.",
+      "heading": "Creation of mineral royalty by usufructuary",
+      "text": "Creation of mineral royalty by usufructuary",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3185",
+      "number": "31:85.",
+      "heading": "Extinction of mineral royalties",
+      "text": "Extinction of mineral royalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3187",
+      "number": "31:87.",
+      "heading": "Production as interruption of prescription; commencement of prescription anew",
+      "text": "Production as interruption of prescription; commencement of prescription anew",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3188",
+      "number": "31:88.",
+      "heading": "Saved production sufficient to interrupt prescription",
+      "text": "Saved production sufficient to interrupt prescription",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3189",
+      "number": "31:89.",
+      "heading": "Unit production as an interruption of prescription",
+      "text": "Unit production as an interruption of prescription",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3190",
+      "number": "31:90.",
+      "heading": "Tested shut-in well as interruption of prescription",
+      "text": "Tested shut-in well as interruption of prescription",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3191",
+      "number": "31:91.",
+      "heading": "Unitization with tested shut-in well; effect as interruption of prescription",
+      "text": "Unitization with tested shut-in well; effect as interruption of prescription",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3192",
+      "number": "31:92.",
+      "heading": "Interruption applicable to all minerals",
+      "text": "Interruption applicable to all minerals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3193",
+      "number": "31:93.",
+      "heading": "Application of rules concerning acknowledgment and extension of prescription",
+      "text": "Application of rules concerning acknowledgment and extension of prescription",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3194",
+      "number": "31:94.",
+      "heading": "Acknowledgment by servitude owner of previously created mineral royalty",
+      "text": "Acknowledgment by servitude owner of previously created mineral royalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3195",
+      "number": "31:95.",
+      "heading": "Limited effect of acknowledgment of previously created royalty",
+      "text": "Limited effect of acknowledgment of previously created royalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3196",
+      "number": "31:96.",
+      "heading": "Previously created royalty; dependency on mineral servitude when acknowledged",
+      "text": "Previously created royalty; dependency on mineral servitude when acknowledged",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3197",
+      "number": "31:97.",
+      "heading": "Prescription not affected by minority or other disability",
+      "text": "Prescription not affected by minority or other disability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3198",
+      "number": "31:98.",
+      "heading": "Suspension of prescription by obstacle",
+      "text": "Suspension of prescription by obstacle",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3199",
+      "number": "31:99.",
+      "heading": "Obstacle to production from servitude suspends prescription as to dependent royalty",
+      "text": "Obstacle to production from servitude suspends prescription as to dependent royalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31100",
+      "number": "31:100.",
+      "heading": "Suspension effective as to all minerals",
+      "text": "Suspension effective as to all minerals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31101",
+      "number": "31:101.",
+      "heading": "Mineral royalty indivisible except as specifically provided",
+      "text": "Mineral royalty indivisible except as specifically provided",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31102",
+      "number": "31:102.",
+      "heading": "Rule regarding effect of partial conveyance; applicability to mineral royalty",
+      "text": "Rule regarding effect of partial conveyance; applicability to mineral royalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31103",
+      "number": "31:103.",
+      "heading": "Freedom of contract; application of rules to mineral royalty",
+      "text": "Freedom of contract; application of rules to mineral royalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31104",
+      "number": "31:104.",
+      "heading": "Rules applicable to transactions involving outstanding servitudes; applicability to mineral royalties",
+      "text": "Rules applicable to transactions involving outstanding servitudes; applicability to mineral royalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31105",
+      "number": "31:105.",
+      "heading": "Nature of executive right",
+      "text": "Nature of executive right",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31106",
+      "number": "31:106.",
+      "heading": "Executive right a mineral right",
+      "text": "Executive right a mineral right",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31107",
+      "number": "31:107.",
+      "heading": "Interruption of prescription accruing against executive right",
+      "text": "Interruption of prescription accruing against executive right",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31108",
+      "number": "31:108.",
+      "heading": "Nature of executive and nonexecutive interests",
+      "text": "Nature of executive and nonexecutive interests",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31109",
+      "number": "31:109.",
+      "heading": "Obligation of owner of executive interest",
+      "text": "Obligation of owner of executive interest",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31110",
+      "number": "31:110.",
+      "heading": "Lease in violation of obligation valid; right of nonexecutive to damages",
+      "text": "Lease in violation of obligation valid; right of nonexecutive to damages",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31111",
+      "number": "31:111.",
+      "heading": "Effect of certain transactions involving executive right",
+      "text": "Effect of certain transactions involving executive right",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31112",
+      "number": "31:112.",
+      "heading": "Right of nonexecutive to operate",
+      "text": "Right of nonexecutive to operate",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31113",
+      "number": "31:113.",
+      "heading": "Executive right as appendage of another mineral right",
+      "text": "Executive right as appendage of another mineral right",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31114",
+      "number": "31:114.",
+      "heading": "Nature of mineral lease; creation on noncontiguous tracts; effect of unit operations",
+      "text": "Nature of mineral lease; creation on noncontiguous tracts; effect of unit operations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31115",
+      "number": "31:115.",
+      "heading": "Requirement of term; limitation of continuation without drilling or mining operations or production",
+      "text": "Requirement of term; limitation of continuation without drilling or mining operations or production",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31116",
+      "number": "31:116.",
+      "heading": "Who may grant a mineral lease",
+      "text": "Who may grant a mineral lease",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31117",
+      "number": "31:117.",
+      "heading": "Granting of mineral lease by owner under conditional title",
+      "text": "Granting of mineral lease by owner under conditional title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31118",
+      "number": "31:118.",
+      "heading": "Right of usufructuaries to lease",
+      "text": "Right of usufructuaries to lease",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31119",
+      "number": "31:119.",
+      "heading": "Obligations of lessor",
+      "text": "Obligations of lessor",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31120",
+      "number": "31:120.",
+      "heading": "Lessor's warranty and limitation of liability for breach thereof",
+      "text": "Lessor's warranty and limitation of liability for breach thereof",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31121",
+      "number": "31:121.",
+      "heading": "Right of lessee to lease from adverse claimants",
+      "text": "Right of lessee to lease from adverse claimants",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31122",
+      "number": "31:122.",
+      "heading": "Lessee's obligation to act as reasonably prudent operator",
+      "text": "Lessee's obligation to act as reasonably prudent operator",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31123",
+      "number": "31:123.",
+      "heading": "Rent and the obligation to make timely payment thereof",
+      "text": "Rent and the obligation to make timely payment thereof",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31124",
+      "number": "31:124.",
+      "heading": "Production in paying quantities required; definition",
+      "text": "Production in paying quantities required; definition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31125",
+      "number": "31:125.",
+      "heading": "Amount of royalties relevant to reasonableness of lessee's expectation",
+      "text": "Amount of royalties relevant to reasonableness of lessee's expectation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31126",
+      "number": "31:126.",
+      "heading": "Interests created out of lessee's interest dependent thereon and not prescriptible",
+      "text": "Interests created out of lessee's interest dependent thereon and not prescriptible",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31127",
+      "number": "31:127.",
+      "heading": "Lessee's right to assign or sublease",
+      "text": "Lessee's right to assign or sublease",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31128",
+      "number": "31:128.",
+      "heading": "Responsibility of assignee or sublessee to original lessor",
+      "text": "Responsibility of assignee or sublessee to original lessor",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31129",
+      "number": "31:129.",
+      "heading": "Assignor or sublessor not relieved of obligations or liabilities unless discharged",
+      "text": "Assignor or sublessor not relieved of obligations or liabilities unless discharged",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31130",
+      "number": "31:130.",
+      "heading": "Lease not divided by partial assignment or sublease",
+      "text": "Lease not divided by partial assignment or sublease",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31131",
+      "number": "31:131.",
+      "heading": "Lessor must accept performance by assignee or sublessee",
+      "text": "Lessor must accept performance by assignee or sublessee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31132",
+      "number": "31:132.",
+      "heading": "Demands by lessor; effect on assignee or sublessee",
+      "text": "Demands by lessor; effect on assignee or sublessee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31133",
+      "number": "31:133.",
+      "heading": "Termination of mineral lease",
+      "text": "Termination of mineral lease",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31134",
+      "number": "31:134.",
+      "heading": "Right to relief for violation",
+      "text": "Right to relief for violation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31135",
+      "number": "31:135.",
+      "heading": "Rules of default applicable except as specified",
+      "text": "Rules of default applicable except as specified",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31136",
+      "number": "31:136.",
+      "heading": "Written notice; requirement and effect on claims for damages or dissolution of lease",
+      "text": "Written notice; requirement and effect on claims for damages or dissolution of lease",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31137",
+      "number": "31:137.",
+      "heading": "Nonpayment of royalties; notice prerequisite to judicial demand",
+      "text": "Nonpayment of royalties; notice prerequisite to judicial demand",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31138",
+      "number": "31:138.",
+      "heading": "Required response of lessee to notice",
+      "text": "Required response of lessee to notice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-311381",
+      "number": "31:138.1.",
+      "heading": "Division order; precedence of lease; penalties for failure to pay royalties due",
+      "text": "Division order; precedence of lease; penalties for failure to pay royalties due",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31139",
+      "number": "31:139.",
+      "heading": "Effect of payment in response to notice",
+      "text": "Effect of payment in response to notice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31140",
+      "number": "31:140.",
+      "heading": "Effect of nonpayment in response to notice or failure to state cause therefor",
+      "text": "Effect of nonpayment in response to notice or failure to state cause therefor",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31141",
+      "number": "31:141.",
+      "heading": "Dissolution not a favored remedy",
+      "text": "Dissolution not a favored remedy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31142",
+      "number": "31:142.",
+      "heading": "Dissolution may be partial or entire",
+      "text": "Dissolution may be partial or entire",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31143",
+      "number": "31:143.",
+      "heading": "Summary eviction not applicable",
+      "text": "Summary eviction not applicable",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31144",
+      "number": "31:144.",
+      "heading": "After-acquired title clause may bind lessor and successors in title",
+      "text": "After-acquired title clause may bind lessor and successors in title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31145",
+      "number": "31:145.",
+      "heading": "After-acquired title doctrine; applicability in absence of special clause",
+      "text": "After-acquired title doctrine; applicability in absence of special clause",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31146",
+      "number": "31:146.",
+      "heading": "Lessor's privilege",
+      "text": "Lessor's privilege",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31147",
+      "number": "31:147.",
+      "heading": "Right to seize property on premises or within fifteen days of removal",
+      "text": "Right to seize property on premises or within fifteen days of removal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31148",
+      "number": "31:148.",
+      "heading": "Manner of enforcement",
+      "text": "Manner of enforcement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31149",
+      "number": "31:149.",
+      "heading": "Mineral rights reserved from acquisitions of land by governments or agencies thereof imprescriptible; prescriptive period in acquisitions for economic development",
+      "text": "Mineral rights reserved from acquisitions of land by governments or agencies thereof imprescriptible; prescriptive period in acquisitions for economic development",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-311491",
+      "number": "31:149.1.",
+      "heading": "Repealed by Acts 2004, No. 919, §2, eff. August 1, 2004.",
+      "text": "Repealed by Acts 2004, No. 919, §2, eff. August 1, 2004.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-311492",
+      "number": "31:149.2.",
+      "heading": "Repealed by Acts 2004, No. 919, §2, eff. August 1, 2004.",
+      "text": "Repealed by Acts 2004, No. 919, §2, eff. August 1, 2004.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-311493",
+      "number": "31:149.3.",
+      "heading": "Repealed by Acts 2004, No. 919, §2, eff. August 1, 2004.",
+      "text": "Repealed by Acts 2004, No. 919, §2, eff. August 1, 2004.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31150",
+      "number": "31:150.",
+      "heading": "Repealed by Acts 2004, No. 919, §2, eff. August 1, 2004.",
+      "text": "Repealed by Acts 2004, No. 919, §2, eff. August 1, 2004.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31151",
+      "number": "31:151.",
+      "heading": "Repealed by Acts 2004, No. 919, §2, eff. August 1, 2004.",
+      "text": "Repealed by Acts 2004, No. 919, §2, eff. August 1, 2004.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31152",
+      "number": "31:152.",
+      "heading": "Repealed by Acts 2004, No. 919, §2, eff. August 1, 2004.",
+      "text": "Repealed by Acts 2004, No. 919, §2, eff. August 1, 2004.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31153",
+      "number": "31:153.",
+      "heading": "How mineral rights are possessed",
+      "text": "How mineral rights are possessed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31154",
+      "number": "31:154.",
+      "heading": "Possession under title as including mineral rights",
+      "text": "Possession under title as including mineral rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31155",
+      "number": "31:155.",
+      "heading": "Possession without title as including mineral rights",
+      "text": "Possession without title as including mineral rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31156",
+      "number": "31:156.",
+      "heading": "Interruption of possession by use or exercise of mineral rights",
+      "text": "Interruption of possession by use or exercise of mineral rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31157",
+      "number": "31:157.",
+      "heading": "Interruption of possession by acknowledgment",
+      "text": "Interruption of possession by acknowledgment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31158",
+      "number": "31:158.",
+      "heading": "Interruption of possession by judicial demand",
+      "text": "Interruption of possession by judicial demand",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31159",
+      "number": "31:159.",
+      "heading": "Mineral rights not established by acquisitive prescription",
+      "text": "Mineral rights not established by acquisitive prescription",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31160",
+      "number": "31:160.",
+      "heading": "Perfection of title by prescription as including mineral rights",
+      "text": "Perfection of title by prescription as including mineral rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31161",
+      "number": "31:161.",
+      "heading": "Interruption of acquisitive prescription",
+      "text": "Interruption of acquisitive prescription",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31162",
+      "number": "31:162.",
+      "heading": "Suspension of acquisitive prescription",
+      "text": "Suspension of acquisitive prescription",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31163",
+      "number": "31:163.",
+      "heading": "Acquisitive prescription; unavailability to mineral servitude owner",
+      "text": "Acquisitive prescription; unavailability to mineral servitude owner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31164",
+      "number": "31:164.",
+      "heading": "Creation of mineral servitude by co-owner of land",
+      "text": "Creation of mineral servitude by co-owner of land",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31165",
+      "number": "31:165.",
+      "heading": "Creation of mineral royalty by co-owner of land",
+      "text": "Creation of mineral royalty by co-owner of land",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31166",
+      "number": "31:166.",
+      "heading": "Granting of mineral lease by co-owner of land",
+      "text": "Granting of mineral lease by co-owner of land",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31167",
+      "number": "31:167.",
+      "heading": "Mineral right owner may not compel partition of land",
+      "text": "Mineral right owner may not compel partition of land",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31168",
+      "number": "31:168.",
+      "heading": "Mineral rights susceptible of undivided ownership",
+      "text": "Mineral rights susceptible of undivided ownership",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31169",
+      "number": "31:169.",
+      "heading": "Those who are not co-owners of mineral rights",
+      "text": "Those who are not co-owners of mineral rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31170",
+      "number": "31:170.",
+      "heading": "Right of co-owner of mineral servitude to create mineral royalties",
+      "text": "Right of co-owner of mineral servitude to create mineral royalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31171",
+      "number": "31:171.",
+      "heading": "Right of co-owner of mineral lease to create dependent rights",
+      "text": "Right of co-owner of mineral lease to create dependent rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31172",
+      "number": "31:172.",
+      "heading": "Mineral servitudes and royalties subject to partition",
+      "text": "Mineral servitudes and royalties subject to partition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31173",
+      "number": "31:173.",
+      "heading": "Mineral lessee's interest subject to partition; susceptibility of dependent rights to partition",
+      "text": "Mineral lessee's interest subject to partition; susceptibility of dependent rights to partition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31174",
+      "number": "31:174.",
+      "heading": "Use by one co-owner inures to benefit of all",
+      "text": "Use by one co-owner inures to benefit of all",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31175",
+      "number": "31:175.",
+      "heading": "Co-owner of mineral servitude may not operate independently",
+      "text": "Co-owner of mineral servitude may not operate independently",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31176",
+      "number": "31:176.",
+      "heading": "Co-owner of mineral servitude may act to prevent waste or destruction or extinction of servitude",
+      "text": "Co-owner of mineral servitude may act to prevent waste or destruction or extinction of servitude",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31177",
+      "number": "31:177.",
+      "heading": "Co-owner of mineral lease may not operate independently except to prevent waste, destruction, or termination",
+      "text": "Co-owner of mineral lease may not operate independently except to prevent waste, destruction, or termination",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31178",
+      "number": "31:178.",
+      "heading": "When land burdened by mineral right may be judicially partitioned in kind",
+      "text": "When land burdened by mineral right may be judicially partitioned in kind",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31179",
+      "number": "31:179.",
+      "heading": "Mineral right owner as party to partition of land",
+      "text": "Mineral right owner as party to partition of land",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31180",
+      "number": "31:180.",
+      "heading": "Appraisal of land to be partitioned required",
+      "text": "Appraisal of land to be partitioned required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31181",
+      "number": "31:181.",
+      "heading": "Service of appraisal required",
+      "text": "Service of appraisal required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31182",
+      "number": "31:182.",
+      "heading": "Opposition to appraisal permitted",
+      "text": "Opposition to appraisal permitted",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31183",
+      "number": "31:183.",
+      "heading": "Distribution of proceeds of partition sale",
+      "text": "Distribution of proceeds of partition sale",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31184",
+      "number": "31:184.",
+      "heading": "Effect of failure to appraise mineral right or interest therein",
+      "text": "Effect of failure to appraise mineral right or interest therein",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31185",
+      "number": "31:185.",
+      "heading": "Owner of appraised mineral right entitled to participate in proceeds of sale",
+      "text": "Owner of appraised mineral right entitled to participate in proceeds of sale",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31186",
+      "number": "31:186.",
+      "heading": "Owner of right derived from all co-owners of land unaffected by licitation",
+      "text": "Owner of right derived from all co-owners of land unaffected by licitation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31187",
+      "number": "31:187.",
+      "heading": "Mineral right created by party acquiring land not affected by sale",
+      "text": "Mineral right created by party acquiring land not affected by sale",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31188",
+      "number": "31:188.",
+      "heading": "Mineral rights not included in usufruct of land except as specifically provided",
+      "text": "Mineral rights not included in usufruct of land except as specifically provided",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31189",
+      "number": "31:189.",
+      "heading": "Conventional usufruct may include enjoyment of mineral rights",
+      "text": "Conventional usufruct may include enjoyment of mineral rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31190",
+      "number": "31:190.",
+      "heading": "Usufructuary of land entitled to enjoyment of mines or quarries worked; exception",
+      "text": "Usufructuary of land entitled to enjoyment of mines or quarries worked; exception",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31191",
+      "number": "31:191.",
+      "heading": "When oil and gas wells and lignite operations considered open mines",
+      "text": "When oil and gas wells and lignite operations considered open mines",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31192",
+      "number": "31:192.",
+      "heading": "Right of usufructuary of land to grant lease",
+      "text": "Right of usufructuary of land to grant lease",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31193",
+      "number": "31:193.",
+      "heading": "Nature of usufruct of a mineral right",
+      "text": "Nature of usufruct of a mineral right",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31194",
+      "number": "31:194.",
+      "heading": "Usufructuary not obligated to account to naked owner",
+      "text": "Usufructuary not obligated to account to naked owner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31195",
+      "number": "31:195.",
+      "heading": "Right of naked owner of land to enjoyment of minerals",
+      "text": "Right of naked owner of land to enjoyment of minerals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31196",
+      "number": "31:196.",
+      "heading": "Obligations of naked owner arising from enjoyment of rights in minerals",
+      "text": "Obligations of naked owner arising from enjoyment of rights in minerals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31197",
+      "number": "31:197.",
+      "heading": "Repealed by Acts 1990, No. 1079, §8, eff. Sept. 1, 1990.",
+      "text": "Repealed by Acts 1990, No. 1079, §8, eff. Sept. 1, 1990.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31198",
+      "number": "31:198.",
+      "heading": "Repealed by Acts 1990, No. 1079, §8, eff. Sept. 1, 1990.",
+      "text": "Repealed by Acts 1990, No. 1079, §8, eff. Sept. 1, 1990.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-311981",
+      "number": "31:198.1.",
+      "heading": "Repealed by Acts 1990, No. 1079, §8, eff. Sept. 1, 1990.",
+      "text": "Repealed by Acts 1990, No. 1079, §8, eff. Sept. 1, 1990.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31199",
+      "number": "31:199.",
+      "heading": "Repealed by Acts 1990, No. 1079, §8, eff. Sept. 1, 1990.",
+      "text": "Repealed by Acts 1990, No. 1079, §8, eff. Sept. 1, 1990.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31200",
+      "number": "31:200.",
+      "heading": "Repealed by Acts 1990, No. 1079, §8, eff. Sept. 1, 1990.",
+      "text": "Repealed by Acts 1990, No. 1079, §8, eff. Sept. 1, 1990.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31201",
+      "number": "31:201.",
+      "heading": "Repealed by Acts 1990, No. 1079, §8, eff. Sept. 1, 1990.",
+      "text": "Repealed by Acts 1990, No. 1079, §8, eff. Sept. 1, 1990.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31202",
+      "number": "31:202.",
+      "heading": "Repealed by Acts 1990, No. 1079, §8, eff. Sept. 1, 1990.",
+      "text": "Repealed by Acts 1990, No. 1079, §8, eff. Sept. 1, 1990.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31203",
+      "number": "31:203.",
+      "heading": "Mineral rights susceptible of mortgage; effect of mortgage",
+      "text": "Mineral rights susceptible of mortgage; effect of mortgage",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31204",
+      "number": "31:204.",
+      "heading": "Security interest in minerals and proceeds thereof",
+      "text": "Security interest in minerals and proceeds thereof",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31205",
+      "number": "31:205.",
+      "heading": "When transfer, assignment, or termination of mortgage or pledge effective against parties dealing with mortgagee or pledgee",
+      "text": "When transfer, assignment, or termination of mortgage or pledge effective against parties dealing with mortgagee or pledgee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31206",
+      "number": "31:206.",
+      "heading": "Obligation of owner of expired mineral right to furnish recordable act evidencing extinction or expiration of right; mineral lease",
+      "text": "Obligation of owner of expired mineral right to furnish recordable act evidencing extinction or expiration of right; mineral lease",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31207",
+      "number": "31:207.",
+      "heading": "Effect of failure to furnish act evidencing extinction or expiration of right; mineral lease",
+      "text": "Effect of failure to furnish act evidencing extinction or expiration of right; mineral lease",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31208",
+      "number": "31:208.",
+      "heading": "Effect of good faith dispute as to extinction or expiration of right",
+      "text": "Effect of good faith dispute as to extinction or expiration of right",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31209",
+      "number": "31:209.",
+      "heading": "Applicability to demand for dissolution of mineral lease",
+      "text": "Applicability to demand for dissolution of mineral lease",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31210",
+      "number": "31:210.",
+      "heading": "When purchaser protected in paying party in interest under lease for minerals produced",
+      "text": "When purchaser protected in paying party in interest under lease for minerals produced",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-312101",
+      "number": "31:210.1.",
+      "heading": "Interest on purchase payment of production",
+      "text": "Interest on purchase payment of production",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-312102",
+      "number": "31:210.2.",
+      "heading": "Declaration of interest; when third party purchasers of oil may withhold payment",
+      "text": "Declaration of interest; when third party purchasers of oil may withhold payment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31211",
+      "number": "31:211.",
+      "heading": "Availability of mandamus for nonpayment of sums due for production",
+      "text": "Availability of mandamus for nonpayment of sums due for production",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31212",
+      "number": "31:212.",
+      "heading": "Right to attorney's fee incurred in securing writ",
+      "text": "Right to attorney's fee incurred in securing writ",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-312121",
+      "number": "31:212.1.",
+      "heading": "Sales relative to minerals after they are severed are subject to the laws of registry",
+      "text": "Sales relative to minerals after they are severed are subject to the laws of registry",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3121221",
+      "number": "31:212.21.",
+      "heading": "Nonpayment of production payment or royalties; notice prerequisite to judicial demand",
+      "text": "Nonpayment of production payment or royalties; notice prerequisite to judicial demand",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3121222",
+      "number": "31:212.22.",
+      "heading": "Required response of obligor to notice",
+      "text": "Required response of obligor to notice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3121223",
+      "number": "31:212.23.",
+      "heading": "Effects of payment or nonpayment with or without stating reasonable cause therefor; division order",
+      "text": "Effects of payment or nonpayment with or without stating reasonable cause therefor; division order",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3121231",
+      "number": "31:212.31.",
+      "heading": "Payment information to interest owners",
+      "text": "Payment information to interest owners",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3121232",
+      "number": "31:212.32.",
+      "heading": "Accumulation of proceeds from production",
+      "text": "Accumulation of proceeds from production",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31213",
+      "number": "31:213.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31214",
+      "number": "31:214.",
+      "heading": "Applicability of Code to existing rights",
+      "text": "Applicability of Code to existing rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31215",
+      "number": "31:215.",
+      "heading": "Contracts; partnership status",
+      "text": "Contracts; partnership status",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31216",
+      "number": "31:216.",
+      "heading": "Filing",
+      "text": "Filing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31217",
+      "number": "31:217.",
+      "heading": "Declaration in lieu of agreement",
+      "text": "Declaration in lieu of agreement",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

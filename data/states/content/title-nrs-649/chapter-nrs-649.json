@@ -1,0 +1,718 @@
+{
+  "state": "nevada",
+  "path": "title-nrs-649/chapter-nrs-649",
+  "sections": [
+    {
+      "id": "section-649005",
+      "number": "649.005",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649010",
+      "number": "649.010",
+      "heading": "Claim�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649015",
+      "number": "649.015",
+      "heading": "Collection",
+      "text": "activities� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649020",
+      "number": "649.020",
+      "heading": "Collection",
+      "text": "agency� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649025",
+      "number": "649.025",
+      "heading": "Collection",
+      "text": "agent� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649026",
+      "number": "649.026",
+      "heading": "Commissioner�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649028",
+      "number": "649.028",
+      "heading": "Compliance",
+      "text": "manager� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649030",
+      "number": "649.030",
+      "heading": "Customer�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649031",
+      "number": "649.031",
+      "heading": "Debt",
+      "text": "buyer� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649033",
+      "number": "649.033",
+      "heading": "Exempt",
+      "text": "entity� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649035",
+      "number": "649.035",
+      "heading": "Manager�",
+      "text": "defined. [Replaced in revision byNRS\n\n649.028.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649036",
+      "number": "649.036",
+      "heading": "Medical",
+      "text": "debt� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649037",
+      "number": "649.037",
+      "heading": "Medical",
+      "text": "debtor� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649038",
+      "number": "649.038",
+      "heading": "Medical",
+      "text": "facility� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649039",
+      "number": "649.039",
+      "heading": "Nationwide",
+      "text": "Multistate Licensing System and Registry� or �Registry� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649041",
+      "number": "649.041",
+      "heading": "Provider",
+      "text": "of emergency medical services� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649042",
+      "number": "649.042",
+      "heading": "Provider",
+      "text": "of health care� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649044",
+      "number": "649.044",
+      "heading": "Remote",
+      "text": "location� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649045",
+      "number": "649.045",
+      "heading": "Legislative",
+      "text": "finding and declaration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649051",
+      "number": "649.051",
+      "heading": "Administration",
+      "text": "and enforcement of chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649053",
+      "number": "649.053",
+      "heading": "Regulations.",
+      "text": "Regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649054",
+      "number": "649.054",
+      "heading": "Regulations",
+      "text": "authorizing collection from location outside of Nevada; standards for trust\n\naccounts. [Repealed.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649056",
+      "number": "649.056",
+      "heading": "Regulations",
+      "text": "prescribing methods of conducting business; investigations and examinations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649057",
+      "number": "649.057",
+      "heading": "Investigations",
+      "text": "and hearings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649059",
+      "number": "649.059",
+      "heading": "Approval",
+      "text": "of printed forms.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649061",
+      "number": "649.061",
+      "heading": "Notification",
+      "text": "of results of examination; retention and destruction of examination papers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649065",
+      "number": "649.065",
+      "heading": "Records:",
+      "text": "Maintenance by Commissioner; contents; confidentiality and disclosure of\n\napplication and personal or financial records and other documents submitted or\n\nobtained pursuant to certain examination, audit or investigation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649067",
+      "number": "649.067",
+      "heading": "Records:",
+      "text": "Certain records relating to complaint or investigation deemed confidential;\n\ncertain records relating to disciplinary action deemed public records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649075",
+      "number": "649.075",
+      "heading": "License",
+      "text": "required to engage in business of collection agency; conduct constituting\n\nengaging in such business; location for which license required to be obtained;\n\nconditions under which debt buyer is authorized to share license with\n\naffiliated person.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649085",
+      "number": "649.085",
+      "heading": "Qualifications",
+      "text": "of applicant for license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649095",
+      "number": "649.095",
+      "heading": "Application",
+      "text": "for license: Contents; examination of applicant; submission of financial\n\nstatement; withdrawal of application.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649105",
+      "number": "649.105",
+      "heading": "Bond",
+      "text": "or substitute security required; amount and conditions; adjustments in amount.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649115",
+      "number": "649.115",
+      "heading": "Form",
+      "text": "of bond; matters covered by bond; statute of limitations for bringing action on\n\nbond.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649119",
+      "number": "649.119",
+      "heading": "Deposit",
+      "text": "as substitute for bond.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649125",
+      "number": "649.125",
+      "heading": "Investigation",
+      "text": "by Commissioner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649135",
+      "number": "649.135",
+      "heading": "Approval",
+      "text": "of application: Conditions; findings; notice; issuance of unique license\n\nnumber; update of public record regarding licensees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649145",
+      "number": "649.145",
+      "heading": "Conditions",
+      "text": "for issuance of license; contents of license. [Repealed.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649155",
+      "number": "649.155",
+      "heading": "Order",
+      "text": "denying application; notice of denial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649165",
+      "number": "649.165",
+      "heading": "Rights",
+      "text": "of licensee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649167",
+      "number": "649.167",
+      "heading": "License",
+      "text": "as collection agency valid for principal place of business and branch offices\n\nin application; notice to Commissioner of location of additional branch office\n\nrequired.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649171",
+      "number": "649.171",
+      "heading": "Certificate",
+      "text": "of registration; limitations on business practices; fees; disciplinary action;\n\nregulations. [Repealed.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649175",
+      "number": "649.175",
+      "heading": "Certificate",
+      "text": "required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649185",
+      "number": "649.185",
+      "heading": "Application.",
+      "text": "Application.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649196",
+      "number": "649.196",
+      "heading": "Qualifications",
+      "text": "of applicant; requirements for issuance; notice of refusal to issue certificate;\n\nrequest for hearing; withdrawal of application.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649205",
+      "number": "649.205",
+      "heading": "Examinations:",
+      "text": "Frequency; location; requirements; reexamination; waiver; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649215",
+      "number": "649.215",
+      "heading": "Grounds",
+      "text": "for refusing examination or suspending or revoking certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649225",
+      "number": "649.225",
+      "heading": "Issuance",
+      "text": "of certificate; unique identification number required for certificate; notice\n\nto Commissioner of compliance manager�s change of residence address required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649233",
+      "number": "649.233",
+      "heading": "Payment",
+      "text": "of child support: Submission of certain information by applicant; grounds for\n\ndenial of license or certificate; duty of Commissioner. [Effective until the\n\ndate of the repeal of 42 U.S.C. � 666, the federal law requiring each state to\n\nestablish procedures for withholding, suspending and restricting the\n\nprofessional, occupational and recreational licenses for child support\n\narrearages and for noncompliance with certain processes relating to paternity\n\nor child support proceedings.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649235",
+      "number": "649.235",
+      "heading": "Not",
+      "text": "transferable.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649245",
+      "number": "649.245",
+      "heading": "Expiration;",
+      "text": "renewal; cancellation; reinstatement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649271",
+      "number": "649.271",
+      "heading": "Commissioner",
+      "text": "authorized to take action to participate; charges for use; regulations;\n\nprovisions do not replace or affect authority of Commissioner regarding\n\nlicensing and certification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649273",
+      "number": "649.273",
+      "heading": "Submission",
+      "text": "and processing of fingerprints.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649277",
+      "number": "649.277",
+      "heading": "Commissioner",
+      "text": "required to report certain information or material; confidentiality of\n\ninformation or material provided; Commissioner authorized to enter into certain\n\nagreements and arrangements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649279",
+      "number": "649.279",
+      "heading": "Additional",
+      "text": "materials required to be submitted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649281",
+      "number": "649.281",
+      "heading": "Holder",
+      "text": "of license or certificate required to register and maintain unique identifier;\n\nCommissioner authorized to issue license or certificate through Registry;\n\nreferences to Commissioner deemed references to Registry.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649295",
+      "number": "649.295",
+      "heading": "Amounts;",
+      "text": "deposit; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649297",
+      "number": "649.297",
+      "heading": "Fee",
+      "text": "for failure to submit reports; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649300",
+      "number": "649.300",
+      "heading": "Payment",
+      "text": "of assessment; cooperation with audits and examinations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649305",
+      "number": "649.305",
+      "heading": "Collection",
+      "text": "agency prohibited from operating without compliance manager; limitations on\n\nemployment of compliance managers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649310",
+      "number": "649.310",
+      "heading": "Remote",
+      "text": "location: Prerequisites for collection agent to begin remote work.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649311",
+      "number": "649.311",
+      "heading": "Remote",
+      "text": "location: Requirements; connection to collection agency; restriction on number\n\nof agents at same location; prohibition against collection agent printing or storing\n\nphysical records remotely; deemed extension of collection agency.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649312",
+      "number": "649.312",
+      "heading": "Remote",
+      "text": "location: Duty of collection agency to develop and implement security policy;\n\ncontents of security policy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649313",
+      "number": "649.313",
+      "heading": "Remote",
+      "text": "location: Duty of collection agent to comply with certain statutory\n\nrequirements; duty of collection agency to record and monitor calls, maintain\n\nrecords, review policies and procedures and establish procedure for monitoring\n\ncollection agents; prohibited acts by collection agency or collection agent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649315",
+      "number": "649.315",
+      "heading": "Display",
+      "text": "of license or certificate. [Repealed.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649320",
+      "number": "649.320",
+      "heading": "Duty",
+      "text": "of collection agency to display on Internet website unique identifier of\n\ncollection agency and unique identifier and certificate identification number\n\nof compliance manager.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649325",
+      "number": "649.325",
+      "heading": "Change",
+      "text": "of location of business.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649330",
+      "number": "649.330",
+      "heading": "Notification",
+      "text": "of change in management or ownership of voting stock; application for licensure\n\nof replacement; investigation; costs; waiver.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649331",
+      "number": "649.331",
+      "heading": "Recording",
+      "text": "of telephone conversations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649332",
+      "number": "649.332",
+      "heading": "Verification",
+      "text": "of claim.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649334",
+      "number": "649.334",
+      "heading": "Written",
+      "text": "agreement required to be specific, intelligible and unambiguous; money\n\ncollected required to be credited first to principal; partial collection of\n\nclaim prohibited; accounting of money collected on behalf of customer;\n\nexception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6493345",
+      "number": "649.3345",
+      "heading": "Withdrawal",
+      "text": "of claim by customer; exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649335",
+      "number": "649.335",
+      "heading": "Retention",
+      "text": "and examinations of records and accounts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649345",
+      "number": "649.345",
+      "heading": "Annual",
+      "text": "report to Commissioner and Registry; additional reports; suspension of license\n\nor certificate for false information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649347",
+      "number": "649.347",
+      "heading": "Additional",
+      "text": "annual report to Commissioner concerning collection of claims for unit-owners�\n\nassociation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649355",
+      "number": "649.355",
+      "heading": "Business",
+      "text": "ethics and practices; trust accounts; exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649365",
+      "number": "649.365",
+      "heading": "Approval",
+      "text": "of business name required; prohibition against use of certain names, terms and\n\nforms.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649366",
+      "number": "649.366",
+      "heading": "Collection",
+      "text": "of medical debt: Notification to medical debtor required before taking action\n\nto collect.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649367",
+      "number": "649.367",
+      "heading": "Collection",
+      "text": "of medical debt: Conditions for acceptance of voluntary payment from medical\n\ndebtor during notification period; protections for medical debtor who initiates\n\ncontact with or makes voluntary payment to collection agency during\n\nnotification period.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649368",
+      "number": "649.368",
+      "heading": "Collection",
+      "text": "of medical debt: Prohibited practices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649369",
+      "number": "649.369",
+      "heading": "Collection",
+      "text": "of medical debt: Protections may not be waived.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649370",
+      "number": "649.370",
+      "heading": "Violation",
+      "text": "of federal Fair Debt Collection Practices Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649375",
+      "number": "649.375",
+      "heading": "Prohibited",
+      "text": "practices generally.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649385",
+      "number": "649.385",
+      "heading": "Investigation",
+      "text": "of verified complaint; verified answer; action by Commissioner after informal\n\nhearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649390",
+      "number": "649.390",
+      "heading": "Investigation",
+      "text": "of verified complaint concerning unlicensed person; order to cease and desist;\n\nadministrative fines; suit to recover fine; cumulative penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649395",
+      "number": "649.395",
+      "heading": "Authorized",
+      "text": "disciplinary action; grounds for disciplinary action; effect of revocation of\n\nlicense; orders imposing discipline deemed public records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649398",
+      "number": "649.398",
+      "heading": "Suspension",
+      "text": "of license or certificate for failure to pay child support or comply with\n\ncertain subpoenas or warrants; reinstatement of license or certificate.\n\n[Effective until 2 years after the date of the repeal of 42 U.S.C. � 666, the\n\nfederal law requiring each state to establish procedures for withholding,\n\nsuspending and restricting the professional, occupational and recreational\n\nlicenses for child support arrearages and for noncompliance with certain\n\nprocesses relating to paternity or child support proceedings.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649400",
+      "number": "649.400",
+      "heading": "Injunctive",
+      "text": "relief.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649435",
+      "number": "649.435",
+      "heading": "Criminal",
+      "text": "penalty for violations; each day of unlawful operation constitutes separate\n\noffense.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649440",
+      "number": "649.440",
+      "heading": "Administrative",
+      "text": "fine for violations.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

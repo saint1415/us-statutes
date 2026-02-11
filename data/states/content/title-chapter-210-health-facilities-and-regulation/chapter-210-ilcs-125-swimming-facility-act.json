@@ -1,0 +1,542 @@
+{
+  "state": "illinois",
+  "path": "title-chapter-210-health-facilities-and-regulation/chapter-210-ilcs-125-swimming-facility-act",
+  "sections": [
+    {
+      "id": "section-1",
+      "number": "1.",
+      "heading": "Short title.",
+      "text": "This Act shall be known and may be cited as the\nSwimming Facility Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2",
+      "number": "2.",
+      "heading": "Legislative purpose. It is found that there exists, and may in",
+      "text": "the future exist, within the\nState of Illinois public swimming facilities, including swimming pools, spas, water slides, public\nbathing beaches, and other swimming facilities, which\nare substandard in one or more important features of safety, cleanliness or\nsanitation. Such conditions adversely affect the public health, safety and\ngeneral welfare of persons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3",
+      "number": "3.",
+      "heading": "Definitions. As used in this Act, unless the context otherwise",
+      "text": "requires, the terms\nspecified in Sections 3.01 through 3.24 have the meanings ascribed\nto them\nin those Sections.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-301",
+      "number": "3.01.",
+      "heading": "Swimming pool. \"Swimming pool\" means any artificial basin of",
+      "text": "water which is\nmodified, improved, constructed or installed for the purpose of public\nswimming, wading, floating, or diving, and includes: pools for community\nuse, pools at\napartments, condominiums, and other groups or associations having 5 or more\nliving units, clubs, churches, camps, schools, institutions, Y.M.C.A.'s,\nY.W.C.A.'s, parks, recreational areas, motels, hotels, health clubs, golf and country clubs, and other commercial\nestablishments. It does not include pools at private single-family residences intended\nonly for the use of the owner and guests.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-302",
+      "number": "3.02.",
+      "heading": "\"Public Bathing Beach\" means any body of water, except as defined in",
+      "text": "Section 3.01, or that portion thereof used for the purpose of public\nswimming or recreational bathing, and includes beaches at: apartments,\ncondominiums, subdivisions, and other groups or associations having 5 or more living\nunits, clubs, churches, camps, schools, institutions, parks, recreational\nareas, motels, hotels and other commercial establishments. It includes\nshores, equipments, buildings and appurtenances pertaining to such areas.\nIt does not include bathing beaches at private residences intended only for\nthe use of the owner and guests.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-303",
+      "number": "3.03.",
+      "heading": "\"Applicant\" means any person making application for a permit or license.",
+      "text": "\"Applicant\" means any person making application for a permit or license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-304",
+      "number": "3.04.",
+      "heading": "\"Licensee\" means any individual having a license under this Act, any",
+      "text": "member of a firm, partnership or association to which a license is issued\nunder this Act and any corporation having a license under this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-305",
+      "number": "3.05.",
+      "heading": "\"Person\" means any individual, group of individuals, association, trust,",
+      "text": "partnership, limited liability company, corporation, person doing business under an assumed name,\ncounty, municipality, the State of Illinois, or any political subdivision\nor department thereof, or any other entity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-306",
+      "number": "3.06.",
+      "heading": "\"Department\" means the Department of Public Health, State of Illinois.",
+      "text": "\"Department\" means the Department of Public Health, State of Illinois.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-307",
+      "number": "3.07.",
+      "heading": "\"Director\" means the Director of the Department of Public Health, State",
+      "text": "of Illinois.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-308",
+      "number": "3.08.",
+      "heading": "\"Revocation\" means to declare invalid, for an indefinite period of time,",
+      "text": "a permit or license issued to the applicant or licensee by the Department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-309",
+      "number": "3.09",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-310",
+      "number": "3.10.",
+      "heading": "Spa. \"Spa\" means a basin of water designed for recreational",
+      "text": "or\ntherapeutic use that is not drained, cleaned, or refilled for each user. It\nmay\ninclude hydrojet circulation, hot water, cold water mineral bath, air induction\nbubbles, or some combination thereof. It includes \"therapeutic pools\",\n\"hydrotherapy pools\", \"whirlpools\", \"cold spas\", \"hot spas\", and \"hot tubs\". It does not\ninclude these facilities at individual single-family residences intended for use by the\noccupant and his or her guests.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-311",
+      "number": "3.11.",
+      "heading": "Water slide.",
+      "text": "\"Water slide\" means a ride with a flow of water and\nhaving a\nflume exceeding 30 feet in length.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-312",
+      "number": "3.12.",
+      "heading": "Swimming facility. \"Swimming facility\" means a swimming pool,",
+      "text": "spa, public bathing\nbeach, or aquatic feature and its appurtenances, singular or aggregated together, that exists for the purpose of providing recreation or therapeutic services to the public. It does not include isolation or flotation tanks.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-313",
+      "number": "3.13.",
+      "heading": "Spray pool.   \"Spray pool\" means an aquatic feature that is not a swimming pool and that has structures or fittings for spraying, dumping, or shooting water",
+      "text": "The term does not include features having as a source of water a public water supply that is regulated by the Illinois Environmental Protecti",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-314",
+      "number": "3.14.",
+      "heading": "Prequalified architect or prequalified professional engineer",
+      "text": "\"Prequalified architect\" or \"prequalified professional engineer\" means an individual who is prequalified by the Department and is responsible for coordinating the design, planning, and creation of specifications for swimming facilities an",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-315",
+      "number": "3.15.",
+      "heading": "Prequalified swimming facility contractor",
+      "text": "\"Prequalified swimming facility contractor\" means a person who is prequalified by the Department to perform the construction, installation, modification, or repair of a swimming facility and its appurtenances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-316",
+      "number": "3.16.",
+      "heading": "Aquatic feature.   \"Aquatic feature\" means any single element of a swimming facility other than a swimming pool or spa or bathing beach, including, but not limited to, a lazy river, water slide, spray pool, or other feature that provides aquatic recreation or therapy",
+      "text": "Aquatic feature. \"Aquatic feature\" means any single element of a swimming facility other than a swimming pool or spa or bathing beach, including, but not limited to, a lazy river, water slide, spray pool, or other feature that provides aquatic recreation or therapy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-317",
+      "number": "3.17.",
+      "heading": "Lapsed fee.  \"Lapsed fee\" means the amount charged to a licensee for failing to renew a swimming facility license within one year after the expiration of the license",
+      "text": "This fee is in addition to any other fees associated with renewal of a swimming facility license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-318",
+      "number": "3.18.",
+      "heading": "Living unit.   \"Living unit\" means a home, mobile home, duplex unit, apartment unit, condominium unit, or any dwelling unit in a multi-unit residential structure or a campground lot",
+      "text": "Living unit. \"Living unit\" means a home, mobile home, duplex unit, apartment unit, condominium unit, or any dwelling unit in a multi-unit residential structure or a campground lot.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-319",
+      "number": "3.19.",
+      "heading": "Major alteration.  \"Major alteration\" means any change to a swimming facility or its aquatic features or appurtenances that alters the facility's functionality or as-built or as-permitted condition",
+      "text": "This includes, but is not limited to, an alteration of a pool that changes the water surface area, d",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-320",
+      "number": "3.20.",
+      "heading": "Subsequent inspection.  \"Subsequent inspection\" means any inspection made by the Department or its agents or certified local health departments that are authorized by local government ordinance to administer and enforce this Act  for purposes of annual renewals, responding to a substantiated complai",
+      "text": "Subsequent inspection. \"Subsequent inspection\" means any inspection made by the Department or its agents or certified local health departments that are authorized by local government ordinance to administer and enforce this Act for purposes of annual renewals, responding to a substantiated complaint, complying with a request by the licensee or its agent, or ensuring compliance with an order of the Department. The term does not include initial inspections performed by the Department relating to permitted construction, interim compliance inspections, or Department inspections in a case in which no violations are found.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321",
+      "number": "3.21.",
+      "heading": "Initial review.  \"Initial review\" means the first review of any submittal made by an applicant for a permit for construction or major alteration, as provided for in Section 5 of this Act",
+      "text": "If the requirements of Section 5 are met, a permit shall be issued; otherwise the Department shall issue corresp",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-322",
+      "number": "3.22.",
+      "heading": "Initial inspection. \"Initial inspection\" means an inspection conducted by the Department to determine compliance with this Act and rules promulgated thereunder in order to approve the operation of a swimming facility after the Department has issued a permit for construction or major alteration",
+      "text": "Initial inspection. \"Initial inspection\" means an inspection conducted by the Department to determine compliance with this Act and rules promulgated thereunder in order to approve the operation of a swimming facility after the Department has issued a permit for construction or major alteration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-323",
+      "number": "3.23.",
+      "heading": "Agent health department. \"Agent health department\" means a certified local health department that the Department has designated as its agent for making inspections and investigations under Section 11 of this Act",
+      "text": "Agent health department. \"Agent health department\" means a certified local health department that the Department has designated as its agent for making inspections and investigations under Section 11 of this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-324",
+      "number": "3.24.",
+      "heading": "Ordinance health department. \"Ordinance health department\" means a certified local health department belonging to a unit of local government that has adopted an ordinance electing to administer and enforce this Act and adopting, by reference, the rules adopted and amended from time to time by the De",
+      "text": "Ordinance health department. \"Ordinance health department\" means a certified local health department belonging to a unit of local government that has adopted an ordinance electing to administer and enforce this Act and adopting, by reference, the rules adopted and amended from time to time by the Department under the authority of Section 27 of this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4",
+      "number": "4.",
+      "heading": "License to operate. After May 1, 2002,",
+      "text": "it shall be unlawful\nfor any person to open,\nestablish, maintain or operate a swimming facility within this\nState without first obtaining a license therefor from the Department or, where applicable, from the ordinance health department.\n\nApplications for\noriginal licenses shall be made on forms furnished by the Department or, where applicable, by an ordinance health department. Each\napplication shall be signed by the applicant and\naccompanied by an affidavit of the applicant as to the truth of the\napplication.\nEach application shall contain: the name\nand address of the applicant, or names and addresses of the partners if the\napplicant is a partnership, or the name and addresses of the officers if\nthe applicant is a corporation or the names and addresses of all persons\nhaving an interest therein if the applicant is a group of individuals,\nassociation, or trust; and the location of the swimming facility. A\nlicense shall be valid only in the possession of the person to whom it is\nissued and shall not be the subject of sale, assignment, or other transfer,\nvoluntary, or involuntary, nor shall the license be valid for any premises\nother than those for which originally issued. Upon receipt of an\napplication for an original license, the Department or, where applicable, the ordinance health department shall inspect such\nswimming facility to insure compliance with this Act. In no case shall license fees be assessed by both the Department and the ordinance health department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5",
+      "number": "5.",
+      "heading": "Permit for construction or major alteration.  No swimming facility shall be",
+      "text": "constructed or altered in a major manner until plans,\nspecifications, and other information\nrelative to such swimming facility and appurtenant\nfacilities as may be\nrequested on forms provided by the Department are submitted to and reviewed by the Department\nand found to comply with minimum sanitary and safety requirements and\ndesign criteria, and until a permit for the construction or major alteration is\nissued by the Department. Permits are valid for a period of one year from\ndate of issue. They may be reissued upon application to the Department and\npayment of the permit fee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51",
+      "number": "5.1.",
+      "heading": "Permit applications; certification",
+      "text": "Permit applications shall be made by an architect or engineer prequalified in accordance with Section 30 of this Act. Such applications shall include the sealed technical submissions of the prequalified architect or prequalified professional engineer responsible",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-52",
+      "number": "5.2.",
+      "heading": "Plan resubmittal.   Those permit applications failing to qualify for a permit for construction or major alteration after review by the Department shall be supplemented within 30 days by a plan resubmittal",
+      "text": "Such resubmittals shall include, but not be limited to, revised plans, specifications and oth",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6",
+      "number": "6.",
+      "heading": "License renewal. Applications and fees for renewal of",
+      "text": "the license shall be made in writing by the holder of the license, on forms\nfurnished by the Department or, where applicable, the ordinance health department, shall be accompanied by a license application\nfee in accordance with Sections 8.1, 8.2, and 8.3 of this Act for fees assessed by the Department or as established by local ordinance for fees assessed by the ordinance health department, which shall not be refundable, and shall contain any change in\nthe information submitted since the original license was issued or the\nlatest renewal granted. In addition to any other fees required under this\nAct, a late fee in accordance with Sections 8.1, 8.2, and 8.3 of this Act shall be charged when any renewal application is\nreceived by the Department after the license has expired or as established by local ordinance for fees assessed by the ordinance health department; however, educational\ninstitutions and units of State or local government shall not be required\nto pay late fees. If, after inspection, the Department or the ordinance health department is satisfied\nthat the swimming facility is in substantial compliance\nwith the\nprovisions of this Act and the rules issued thereunder, the\nDepartment or the ordinance health department shall issue the renewal license. No license shall be renewed if the licensee has unpaid fines, fees, or penalties owed to the Department. In no case shall license renewal or late fees be assessed by both the Department and the ordinance health department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7",
+      "number": "7.",
+      "heading": "Conditional license. If the Department or, where applicable,  the ordinance health department finds that the facilities",
+      "text": "of any swimming facility for which a license is sought are not in compliance with the\nprovisions of this Act and the rules of the Department\nrelating thereto, but may operate without undue prejudice to the public,\nthe Department or the ordinance health department may issue a conditional license setting forth\nthe conditions on which the license is issued, the manner in which the\nswimming facility fails to comply with the Act and such\nrules, and shall set forth the time, not to exceed 3 years, within\nwhich the applicant must make any changes or corrections necessary to fully\ncomply with this Act and the rules of the Department\nrelating thereto. No more than 3 such consecutive annual conditional licenses may be issued.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8",
+      "number": "8.",
+      "heading": "Payment of fees; display of licenses. All fees and penalties generated under",
+      "text": "the authority of this Act, except fees collected by agent health departments or ordinance health departments, shall be deposited into\nthe Facility Licensing Fund and, subject to appropriation, shall be used by the\nDepartment in the administration of this Act. All fees and penalties shall be submitted in\nthe form of a check or money order or by other means authorized by the Department, agent health department, or ordinance health department. All\nlicenses provided for in this Act shall be displayed in a\nconspicuous place for public view, within or on such premises. In case of\nrevocation or suspension, the licensee shall cause the\nlicense to be removed and to post the notice of revocation or suspension\nissued by the Department or ordinance health department. Fees for a permit for construction or major alteration, an original license, and a plan resubmittal shall be determined by the total water surface area of the swimming facility, except that aquatic features and bathing beaches shall be charged a fixed fee regardless of water surface area. License renewal fees assessed by the Department shall be determined by the total water surface area of the swimming facility, except that aquatic features and bathing beaches shall be charged a fixed fee regardless of water surface area. Late renewal, lapsed, initial inspection, and subsequent inspection fees assessed by the Department shall be fixed fees regardless of water surface area.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-81",
+      "number": "8.1.",
+      "heading": "Fee schedule for fees assessed by the Department for all licensees except certain tax-exempt organizations, governmental units, and public elementary and secondary schools",
+      "text": "The fee schedule for fees assessed by the Department for all licensees, except those specifically identified in Sections 8.2 a",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-0-500",
+      "number": "0-500",
+      "heading": "sq ft",
+      "text": "sq ft",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-82",
+      "number": "8.2.",
+      "heading": "Fee schedule for fees assessed by the Department for certain tax-exempt organizations",
+      "text": "The fee schedule for fees assessed by the Department for a licensee that is an organization recognized by the United States Internal Revenue Service as tax-exempt under Title 26 of the United States Code, Section",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-83",
+      "number": "8.3.",
+      "heading": "Fee schedule for fees assessed by the Department for certain governmental units and schools",
+      "text": "The fee schedule for fees assessed by the Department for a licensee that is a unit of State or local government or a public elementary or secondary school shall be as follows:Water SurfaceConstructionMajor A",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9",
+      "number": "9.",
+      "heading": "Inspections. Subject to constitutional limitations, the",
+      "text": "Department, by its\nrepresentatives, after proper identification, is authorized and shall have\nthe power to enter at reasonable times upon private or public property for\nthe purpose of inspecting and investigating conditions relating to the\nenforcement of this Act and rules issued hereunder. Written notice of\nall violations shall be given to each person against whom a violation is alleged.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10",
+      "number": "10.",
+      "heading": "Access to premises.",
+      "text": "It shall be the duty of the owners,\noperators and licensees of swimming\nfacilities to give the Department and its authorized agents\nfree access to such premises at all reasonable times for the purpose of\ninspection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11",
+      "number": "11.",
+      "heading": "Department's agents.  The Department may designate certified local health departments as its agents for purposes of carrying out this Act",
+      "text": "An agent so designated may charge fees for costs associated with enforcing this Act. Where the agent determines that it cannot perform an inspection under this",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12",
+      "number": "12.",
+      "heading": "Water samples.",
+      "text": "Licensees shall cause to be submitted water\nsamples and such operational\nand analytical data and records as may be required by the Department to\ndetermine the sanitary and safety conditions of the swimming facility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13",
+      "number": "13.",
+      "heading": "Rules. The Department shall promulgate, publish, adopt and",
+      "text": "amend such\nrules as may be necessary for the proper enforcement of\nthis Act, to protect the health and safety of the public using swimming facilities and their appurtenances, and may, when necessary,\nutilize the services of any other\nstate agencies to assist in carrying out the purposes of this Act. These rules\nshall include but are not limited to design criteria for swimming\nfacility areas and bather preparation facilities, standards relating to\nsanitation, cleanliness, plumbing, water supply, sewage and solid waste\ndisposal, design and construction of all equipment, buildings, rodent and\ninsect control, communicable disease control, safety and sanitation of\nappurtenant swimming facilities. The rules must\ninclude provisions for the prevention of bather entrapment or entanglement at\nnew and existing swimming facilities.\nBather preparation\nfacilities\nconsisting of dressing room space, toilets and showers shall be available\nfor use of patrons of swimming facilities, except as\nprovided by\nDepartment rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14",
+      "number": "14.",
+      "heading": "Whenever the Department determines that there are reasonable grounds to",
+      "text": "believe that there has been violation of any provision of this Act or the\nrules issued hereunder, the Department shall give notice of\nsuch alleged violation to the person to whom the license was issued, as\nherein provided. Such notice shall:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15",
+      "number": "15.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-151",
+      "number": "15.1.",
+      "heading": "Violations at facilities.",
+      "text": "Violations at facilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-152",
+      "number": "15.2.",
+      "heading": "Violations and civil penalties",
+      "text": "The Department is empowered to assess civil penalties and sanctions for violations of this Act and the rules promulgated under this Act. Each day a violation exists shall constitute a separate violation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-16",
+      "number": "16.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-161",
+      "number": "16.1.",
+      "heading": "Denial, suspension, or revocation of a license",
+      "text": "The Director, after notice and opportunity for a hearing to a party, may deny, suspend, or revoke a license or permit, or assess a civil penalty, in any case in which he or she finds that there has been a substantial failure to comply with the provisio",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-17",
+      "number": "17.",
+      "heading": "Subpoenas; witness fees. The Director or Hearing Officer may compel by subpoena or subpoena",
+      "text": "duces tecum the attendance and testimony of witnesses and the production\nof records or documents either in electronic or paper form and administer oaths to witnesses. All subpoenas issued by the\nDirector or Hearing Officer may be served as provided for in a civil\naction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-18",
+      "number": "18.",
+      "heading": "In the event of the inability of any party, or the Department, to",
+      "text": "procure the attendance of witnesses to give testimony or produce books and\npapers, such party or the Department may take the deposition of witnesses\nin accordance with the laws of this State. All testimony taken at a hearing\nshall be reduced to writing, and all such testimony and other evidence\nintroduced at the hearing shall be a part of the record of the hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19",
+      "number": "19.",
+      "heading": "The Director shall make findings of fact in such hearing, and the",
+      "text": "Director shall render his decision within 30 days after the termination of\nthe hearing, unless additional time is required by him for a proper\ndisposition of the matter. When the hearing has been conducted by a Hearing\nOfficer, the Director shall review the findings of fact and recommendations\nof the Hearing Officer, and the transcribed record if a party has requested\nand paid for such record before rendering a decision. It shall be the duty\nof the Director to forward a copy of his decision by registered or\ncertified mail, to the owner, operator, licensee or applicant within 5 days\nof rendition of such decision. Technical errors in the proceeding before\nthe Director or Hearing Officer or their failure to observe the technical\nrules of evidence shall not be grounds for the reversal of any\nadministrative decision unless it appears to the court that such error or\nfailure materially affects the rights of any party and results in\nsubstantial injustice to him.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-20",
+      "number": "20.",
+      "heading": "Judicial review. The Department is not required to certify any record or file any",
+      "text": "answer or otherwise appear in any proceeding for judicial\nreview unless there is filed in the court with the complaint a receipt from the Department acknowledging payment of the costs of furnishing and certifying the record, which costs shall be computed at the rate of $1 per page of such record.\nFailure on the part of the plaintiff to make such deposit shall be grounds\nfor dismissal of the action.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-205",
+      "number": "20.5.",
+      "heading": "Reproduction of records. The Department may charge $0",
+      "text": "25 per each 8.5\" x 11\" page, whether paper or electronic, for copies of records held by the Department pursuant to this Act. For documents larger than 8.5\" x 11\", actual copying costs plus $0.25 per page shall apply.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-21",
+      "number": "21.",
+      "heading": "Closure of facility. Whenever the Department finds any violation of this Act or the rules promulgated under this Act, if the  violation presents an emergency or risk to public health, the Department shall, without prior notice or hearing, issue a written notice, immediately order the owner, operator",
+      "text": "licensee to close the swimming facility and to prohibit\nany person from using\nsuch facilities. Notwithstanding any other provisions in this Act, such order shall be effective immediately.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-211",
+      "number": "21.1.",
+      "heading": "Use of life jackets.",
+      "text": "No person shall prohibit the use of a\nlife jacket in a\nswimming facility by an individual who, as evidenced by a\nstatement signed by a\nlicensed physician, suffers from a physical disability or condition which\nnecessitates the use of such life jacket.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22",
+      "number": "22.",
+      "heading": "Criminal penalties. Any person who violates this Act or any rule adopted by",
+      "text": "the Department, or who violates any determination or order of the\nDepartment under this Act, shall be guilty of a Class A misdemeanor punishable by a fine of $1,000 for each day the violation exists, in addition to civil penalties, or up to 6 months imprisonment, or both a fine and imprisonment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-222",
+      "number": "22.2.",
+      "heading": "Civil enforcement. The Department may impose administrative civil penalties for violations of this Act and the rules promulgated thereunder, pursuant to rules for such penalties adopted by the Department",
+      "text": "The State's Attorney of the county in which the violation occurred, or the Attorney General, s",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-23",
+      "number": "23.",
+      "heading": "Applicability of Act. Nothing in this Act shall be construed to",
+      "text": "exclude the State of Illinois\nand Departments and educational institutions thereof and units of local\ngovernment except that the provisions in this Act for fees or late fees for licenses and\npermits,\nand the provisions for civil penalties, fines and imprisonment shall not apply to the State\nof Illinois, to Departments and educational institutions thereof, or units\nof local government. This Act shall not apply to beaches operated by units\nof local government located on Lake Michigan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24",
+      "number": "24.",
+      "heading": "The Administrative Review Law, as amended, and",
+      "text": "the rules adopted under the Administrative Review Law apply to and govern\nall proceedings for judicial review of final administrative decisions of\nthe Department under this Act. The term \"Administrative decision\" is\ndefined as in Section 3-101 of the Code of Civil Procedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-241",
+      "number": "24.1.",
+      "heading": "The provisions of the Illinois Administrative Procedure Act are",
+      "text": "hereby expressly adopted and shall apply to all administrative rules and\nprocedures of the Department of Public Health under this Act, except that in\ncase of conflict between the Illinois Administrative Procedure Act and this Act\nthe provisions of this Act shall control, and except that Section 5-35 of the\nIllinois Administrative Procedure Act relating to procedures for rule-making\ndoes not apply to the adoption of any rule required by federal law in\nconnection with which the Department is precluded by law from exercising any\ndiscretion.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26",
+      "number": "26.",
+      "heading": "If any part of this Act is adjudged invalid, such adjudication shall not",
+      "text": "affect the validity of the Act as a whole or of any other part.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27",
+      "number": "27.",
+      "heading": "Adoption of ordinances. Any unit of government having a certified local",
+      "text": "health department may administer and enforce this\nAct by adopting an ordinance electing to administer and enforce this Act\nand adopting by reference the rules promulgated and\namended from time to time by the Department under authority of this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28",
+      "number": "28.",
+      "heading": "(Repealed).",
+      "text": "(Repealed).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-30",
+      "number": "30.",
+      "heading": "Prequalified architect or prequalified professional engineer.",
+      "text": "Prequalified architect or prequalified professional engineer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31",
+      "number": "31.",
+      "heading": "Prequalified swimming facility contractor.",
+      "text": "Prequalified swimming facility contractor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32",
+      "number": "32.",
+      "heading": "Service animals.   It is the duty of a licensee under this Act to allow the use of service animals as defined and prescribed in 28 C",
+      "text": "F.R. 35.104, 28 C.F.R. 35.136, 28 C.F.R. 35.139, 28 C.F.R. 36.104, 28 C.F.R. 208, and 28 C.F.R. 302(c) if the service animal has been trained to perform a specific ta",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

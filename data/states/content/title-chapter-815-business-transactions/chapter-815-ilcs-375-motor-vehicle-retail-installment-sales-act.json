@@ -1,0 +1,398 @@
+{
+  "state": "illinois",
+  "path": "title-chapter-815-business-transactions/chapter-815-ilcs-375-motor-vehicle-retail-installment-sales-act",
+  "sections": [
+    {
+      "id": "section-1",
+      "number": "1.",
+      "heading": "This Act may be cited as the Motor Vehicle Retail Installment Sales Act.",
+      "text": "This Act may be cited as the Motor Vehicle Retail Installment Sales Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2",
+      "number": "2.",
+      "heading": "For the purposes of this Act, unless the context otherwise",
+      "text": "requires, the terms specified in the following Sections preceding Section\n3 have the\nmeanings ascribed to them in those Sections.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-21",
+      "number": "2.1.",
+      "heading": "\"Motor vehicle\" means a motor vehicle as defined in the Illinois Vehicle",
+      "text": "Code but does not include bicycles, motorcycles, motor scooters,\nsnowmobiles, trailers, farm equipment, and manufactured homes as defined in subdivision (53) of Section 9-102 of the Uniform Commercial Code.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22",
+      "number": "2.2.",
+      "heading": "\"Retail buyer\" or \"buyer\" means a person who buys a motor vehicle",
+      "text": "from a retail seller, primarily for personal, family, household or\nagricultural purposes in a retail installment transaction, but does not\ninclude a buyer for use in business (not including farming or a\nprofession).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-23",
+      "number": "2.3.",
+      "heading": "\"Retail seller\" or \"seller\" means a person engaged in the",
+      "text": "business of selling motor vehicles to retail buyers in retail installment\ntransactions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24",
+      "number": "2.4.",
+      "heading": "\"Retail installment transaction\" means a credit sale of a motor",
+      "text": "vehicle by a retail seller to a retail buyer for a deferred payment price\npayable in one or more installments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25",
+      "number": "2.5.",
+      "heading": "\"Retail Installment contract\", \"installment contract\" or",
+      "text": "\"contract\" means an instrument or instruments prescribing the terms of a\nretail installment transaction and entered into in this\nState.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26",
+      "number": "2.6.",
+      "heading": "\"Cash sale price\" means the price stated in a retail installment",
+      "text": "contract for which the seller in good faith and in the regular course of\nbusiness would have sold to the buyer, and the buyer would have bought from\nthe seller, the motor vehicle if the sale had been a sale for cash. The\ncash sale price may include any taxes, registration, certificate of title,\nlicense, and cash sales prices for accessories and their installation and\nfor delivering, servicing, repairing or improving the motor vehicle.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27",
+      "number": "2.7.",
+      "heading": "\"Official fees\" means the taxes and fees prescribed by law that",
+      "text": "actually are, or will be, paid to public officials for determining the\nexistence of, or for perfecting, releasing, or satisfying a security interest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28",
+      "number": "2.8.",
+      "heading": "\"Amount financed\" means the cash sale price of the motor vehicle",
+      "text": "plus all other charges individually itemized, which are included in the\namount financed, including the amount actually paid or to be paid by the\nseller pursuant to an agreement with the buyer to discharge a security\ninterest,\nlien interest, or lease interest on the property traded in, but which are not\na part\nof the finance charge, minus the\namount of the buyer's down payment in money or goods.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-29",
+      "number": "2.9.",
+      "heading": "\"Finance charge\" means the sum of all charges payable,",
+      "text": "directly or indirectly by the buyer and imposed directly or indirectly\nby the seller as an incident to or as a condition of the extension of\ncredit, whether payable by the buyer, the seller, or any other person on\nbehalf of the buyer to the seller or a third party including any of the\nfollowing types of charges:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-210",
+      "number": "2.10.",
+      "heading": "\"Deferred payment price\" means the total of (1) the cash sale",
+      "text": "price of the motor vehicle purchased, (2) all other charges individually\nitemized which are included in the amount financed but which are not a part\nof the finance charge, and (3) the finance charge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-211",
+      "number": "2.11.",
+      "heading": "\"Sales finance agency\" means a person engaged, in",
+      "text": "whole or in part, in the business of purchasing or making loans upon the\nsecurity of retail installment contracts. The term includes, but is not\nlimited to, banks, trust companies, private bankers and industrial bankers\nauthorized to do business and to accept deposits in this State, if so\nengaged.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-212",
+      "number": "2.12.",
+      "heading": "\"Holder\" of a retail installment contract means the retail",
+      "text": "seller of the motor vehicle under the installment contract or sales finance\nagency or other assignee which purchases or makes a loan upon the security\nof the retail installment contract.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-213",
+      "number": "2.13.",
+      "heading": "\"Annual percentage rate\" means the nominal annual percentage rate",
+      "text": "of finance charge determined in accordance with the actuarial method of\ncomputation with an accuracy at least to the nearest 1/4 of 1%; or at the\noption of the seller, by application of the United States rule so that it may\nbe disclosed with an accuracy at least to the nearest 1/4 of 1%.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-214",
+      "number": "2.14.",
+      "heading": "Truth-in-Lending Act.",
+      "text": "\"Truth-in-Lending Act\" means the federal\nTruth-in-Lending Act,\n15 U.S.C. 1601 et seq., and Regulation Z, 12 C.F.R. Part 226.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-215",
+      "number": "2.15.",
+      "heading": "Precomputed.",
+      "text": "A contract is \"precomputed\" if the debt is\nexpressed as the sum of the amount financed plus the amount of the finance\ncharge computed in advance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3",
+      "number": "3.",
+      "heading": "(a) Every retail installment contract must be in writing, dated,",
+      "text": "signed by both the buyer and the seller, and, except as otherwise provided\nin this Act, completed as to all essential provisions before it is signed\nby the buyer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4",
+      "number": "4.",
+      "heading": "Every retail installment contract must contain the names of the",
+      "text": "seller and of the buyer, the place of business of the seller, the residence\nof the buyer as specified by the buyer, and a description of the motor\nvehicle. The contract must clearly state and describe any security taken or\nretained by the seller. No charge may be made to a buyer under an\ninstallment contract for insurance against loss or damage caused to the\nmotor vehicle, for insurance against liability for personal injury or\nproperty damage caused to others by reason of ownership or operation of the\nmotor vehicle, for credit life insurance, for credit health and accident\ninsurance or for any other kind of insurance, unless the installment\ncontract separately specifies for each kind of\ninsurance the type of coverage, the term of coverage and the separate,\nidentified charge made therefor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5",
+      "number": "5.",
+      "heading": "Every retail installment contract shall disclose the following",
+      "text": "items, as applicable:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6",
+      "number": "6.",
+      "heading": "(a) Except as provided under subsections (b) and",
+      "text": "(c), every retail\ninstallment contract must provide for a schedule of\nperiodic installment payments from the due\ndate of the\nfirst installment payment to the date of the final maturity of the\ncontract.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7",
+      "number": "7.",
+      "heading": "Notwithstanding the provisions of any retail installment contract",
+      "text": "to the contrary, the buyer may prepay the contract in full, whether by\npayment in cash, extension, renewal or otherwise, at any time before\nmaturity, and if he does so shall receive a refund credit thereon for that\nprepayment. The amount of refund credit shall represent at least as great a\nproportion of the finance charge less an acquisition cost of $25, as the\nsum of the periodical time balances beginning with the next payment period\nbears to the sum of all the periodical time balances under the schedule of\ninstallment payments in the contract.\nIn those instances where a buyer's overpayment requires the refund credit to\nbe given through the issuance of a negotiable instrument by the holder, no\nrefund credit need be made if the amount of refund credit is less than $5,\nprovided that a buyer may obtain a cash refund at the seller's or holder's\nlocation.\nIn all other cases where the buyer's prepayment permits the refund credit to be\ngiven to\nthe buyer as a credit on the buyer's account, no refund credit need be made if\nthe amount of refund credit is less than $1.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8",
+      "number": "8.",
+      "heading": "(a) A seller under a retail installment contract may require",
+      "text": "insurance against substantial risk of loss of or damage to the motor\nvehicle, protecting the seller or holder as well as the buyer, and may,\nif the buyer elects, include therefor in the contract an amount not\nexceeding the premiums chargeable for such insurance in accordance with\nrate filings made with the Director of Insurance. No seller or holder\nmay require as a condition precedent to, or as a part of, a retail\ninstallment transaction that such insurance be purchased from or through\nthe seller or holder, or any employee, affiliate, or associate of seller\nor holder. A seller under a retail installment contract may not require\nother insurance; but if the buyer voluntarily contracts therefor, the\nseller may then include in the contract an amount for that other\ninsurance not exceeding the premiums paid or payable by the seller or\nholder. In those transactions where the buyer elects to select the\ninsurance company, broker or agent for the purpose of obtaining\ninsurance required by the holder under this Section, the buyer must, on\nor before the date when buyer takes possession of the motor vehicle,\nfurnish the holder with satisfactory evidence of insurance in a company\nacceptable to the seller or holder.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9",
+      "number": "9.",
+      "heading": "The seller may not decline existing required insurance and must",
+      "text": "afford the buyer the privilege of purchasing any required insurance from an\ninsurance company authorized to do business in this State, from or through\nany broker or agent selected by the buyer, if the insurance company is\napproved by the holder and satisfactory evidence of binding coverage is\nfurnished the seller or holder. Such approval may not be arbitrarily\nor unreasonably withheld by the holder. All insurance which is purchased by\nthe seller or holder and for which an amount is included in a contract must\nbe written by an insurance company authorized to do business in the State. The holder\nof a contract which includes an amount for insurance purchased by the\nseller or holder must, within 30 days after the date of the contract, cause\nto be sent to the buyer the policies or certificates of insurance clearly\nsetting forth the amount of the premium, the types of insurance, the\ncoverages and all the terms, exceptions, limitations, restrictions and\nconditions of the insurance or, in respect to group credit life insurance\nand credit accident and health insurance, a notice or statement for that\ninsurance clearly setting forth the name of the insurer, the identity of\nthe insured buyer by name or otherwise and a description of the coverage.\nIf, however, the holder or seller is unable to obtain insurance for the\nbuyer within a reasonable time, the holder or seller shall notify the buyer\nby certified mail of this fact, and 10 days after this notification the\nseller or holder of the contract shall cease to be liable for the insurance\nexcept for the credit or refund to the buyer of the premiums included in\nthe contract.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-901",
+      "number": "9.01.",
+      "heading": "Credit life insurance and credit accident and health insurance",
+      "text": "issued in connection with a retail installment contract or retail charge\nagreement and any charge therefor made to the buyer, must comply with\nArticle IX 1/2 of the \"Illinois Insurance Code\", approved June 29, 1937, as\nnow or hereafter amended, and all lawful requirements of the Director of\nInsurance related thereto.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-902",
+      "number": "9.02.",
+      "heading": "In any situation in which a person has purchased a  motor",
+      "text": "vehicle under an installment sales contract and has purchased\ncredit life\nor credit disability insurance with such contract, the\ninstallment sales\ncontract must include a notice containing the following\ninformation:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-903",
+      "number": "9.03.",
+      "heading": "Disclosure of consideration paid to seller.",
+      "text": "Consideration or\nanother thing of value may be paid to or retained by the seller or holder or an\naffiliate\nof the seller or holder in connection with any insurance, debt cancellation\ncontract, or\nother such product purchased pursuant to the retail installment sales contract\nmade or held by the seller or holder\nand all or a portion of the consideration may be included in the amount\ncharged to the obligor, so long as the seller discloses to the obligor that\nthe seller, holder, or any of their affiliates may receive something of value\nin connection\nwith the purchase.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10",
+      "number": "10.",
+      "heading": "If any insurance for which an amount is included in the",
+      "text": "contract is cancelled, any unearned insurance refund exceeding one dollar\nreceived or receivable by the holder or, if the amount included for\ninsurance in the contract exceeds the premiums paid or payable by the\nholder, any unearned portion of the amount so included exceeding\none dollar shall be credited on the final maturing installments of the\ncontract except to the extent those amounts are applied toward payment for\nsimilar insurance protecting the interests of the buyer and the holder or\neither of them.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11",
+      "number": "11.",
+      "heading": "Delinquency charges.",
+      "text": "A retail installment contract may provide\nfor a\ndelinquency and collection charge, on each installment in default for a\nperiod of not\nless than 10 days, in an amount not exceeding 5% of the installment on\ninstallments in excess of $200 or $10 on installments\nof $200 or less.\nOnly one delinquency and collection charge may be collected on any\ninstallment regardless of the period during which it\nremains\nin default. In addition, a retail installment contract may provide for the\npayment by the buyer of reasonable attorney's fees incurred in the\ncollection or\nenforcement of the contract. Any clause or provision of any retail\ninstallment contract entered into after December 31, 1973, to the contrary\nnotwithstanding with respect to attorney's fees incurred in the collection\nor enforcement of such contract, the court in its discretion may award\nattorney's fees to either party as the interests of justice may require.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-111",
+      "number": "11.1.",
+      "heading": "(a) A seller in a retail installment contract may add a \"documentary",
+      "text": "fee\" for processing documents and performing services related to closing of a\nsale. The maximum amount that may be charged by a seller for a documentary fee\nis the base documentary fee beginning January 1, 2008 until January 1, 2020, of $150, which shall be\nsubject to an annual rate adjustment equal to the percentage of change in the\nBureau of Labor Statistics Consumer Price Index. Every retail installment\ncontract under this Act shall contain or be accompanied by a notice containing\nthe following information:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-112",
+      "number": "11.2.",
+      "heading": "Final installment.",
+      "text": "Fifteen days after the final installment is\ndue as originally scheduled or deferred, the holder may compute and charge\ninterest on any balance remaining unpaid, including unpaid default or deferment\ncharges, at the annual percentage rate stated in the retail installment\ncontract until fully paid or reduced to judgment. At the time the final\ninstallment is due, the holder shall give notice to the buyer stating any\namounts unpaid.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12",
+      "number": "12.",
+      "heading": "No provision in a retail installment contract under which, in the",
+      "text": "absence of the buyer's default, the holder may, arbitrarily and without\nreasonable cause, accelerate the maturity of any part or all of the amount\nowing thereunder is enforceable.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13",
+      "number": "13.",
+      "heading": "The seller shall deliver to the buyer a copy of the retail",
+      "text": "installment contract signed by the seller. Any acknowledgment by the buyer\nof delivery of a copy of the contract must be printed or written in a size\nequal to at least 10 point bold type and, if contained in the contract,\nmust appear directly above the legend required above the buyer's signature\nby Section 3. The buyer's written acknowledgment of\ndelivery of a copy of the contract conforming to the requirements of this\nAct is conclusive proof of the delivery and of compliance with\nthis\nSection in any action by or against an assignee of the contract without\nknowledge to the contrary when he purchases the contract. Until the seller\ndelivers a copy of the contract to him or her, a buyer who has\nnot received delivery of the motor vehicle has the\nright to cancel his agreement and to receive a refund of all payments made\nand a return of all goods traded in to the seller on account of or in\ncontemplation of the contract, or, if those goods cannot be returned, the\nvalue thereof. However, this Section does not apply when the merchandise\nhas been specially ordered or custom made to the specifications of the\npurchaser and evidence of such order is provided by the seller.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14",
+      "number": "14.",
+      "heading": "Notwithstanding Sections 4 and 5 and paragraph (a) of Section 3 of",
+      "text": "this Act, if delivery of the motor vehicle is not made at the time of the\nexecution of the retail installment contract and the contract so provides,\nthe identifying number or marks of the motor vehicle or similar information\nand the due date of the first installment may be inserted by the seller in\nthe seller's counterpart of the contract after it has been signed by the\nbuyer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15",
+      "number": "15.",
+      "heading": "The seller or holder of a retail installment contract must",
+      "text": "give the buyer a written receipt for any payment made in cash. Upon the\nbuyer's written request the holder of a retail installment contract shall\ngive or forward to the buyer a written statement of the amounts of payments\nand the total amount unpaid under the contract. Upon written request, a\nbuyer is entitled to such a statement once every 6 months without charge.\nThe holder may require payment of a reasonable charge not exceeding $10 for\neach additional statement furnished.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-16",
+      "number": "16.",
+      "heading": "An agreement by a buyer that he will not assert against the",
+      "text": "assignee or the holder of a retail installment contract executed by the\nbuyer any claim or defense which he may have against the seller and the\nrights of a holder in due course of any negotiable note executed in\nconnection with a retail installment contract are enforceable by an\nassignee or holder who takes his assignment or indorsement for value in\ngood faith and without notice of a claim or defense unless:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-17",
+      "number": "17.",
+      "heading": "All defenses available against a holder in due course of a",
+      "text": "negotiable instrument under subsection (2) of Section 3-305 of the Uniform\nCommercial Code are available to a buyer under a retail installment\ncontract notwithstanding any agreement to the contrary.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171",
+      "number": "17.1.",
+      "heading": "Seller may not keep keys.",
+      "text": "For contracts entered into after\nJanuary 1, 1998, unless\notherwise provided for in the retail installment sales contract, a seller or\nholder cannot take or retain possession of the keys (or copy thereof) to a\nmotor vehicle purchased under a retail installment sales contract.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-18",
+      "number": "18.",
+      "heading": "Each person, other than a seller or holder, who signs a retail",
+      "text": "installment contract may be held liable only to the extent that he actually\nreceives the motor vehicle described or identified in the contract, except that\na parent or spouse or any other person listed as an owner of the motor vehicle\non the Certificate of Title issued for the motor vehicle who co-signs such\nretail installment contract may be held liable to the full extent of the\ndeferred payment price notwithstanding such parent or spouse or any other\nperson listed as an owner has not actually received the motor vehicle\ndescribed or identified in the contract and except to the extent such person\nother than a seller or holder, signs in the capacity of a guarantor of\ncollection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19",
+      "number": "19.",
+      "heading": "The holder of a contract, upon request by the buyer, may extend",
+      "text": "the scheduled due date of all or any part of any installment or\ninstallments, or renew or restate the unpaid time balance of the contract,\nthe amounts and due dates of the installments, and may collect for that\nextension, renewal or restatement a refinance charge computed as follows:\nIf the unpaid time balance of the contract is extended, renewed or\nrestated, the holder may compute the refinance charge on an amount\ndetermined by adding to the unpaid balance the cost to the holder for\ninsurance and official fees incidental to the refinancing, and accrued\ndelinquency and collection charges and deducting any refund credit which\nmay be due the buyer for prepayment under Section 7 of this Act at the\nrate of finance charge applicable to the age of the motor vehicle at the\ntime of refinancing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-20",
+      "number": "20.",
+      "heading": "Unless otherwise limited by this Act, the parties shall have",
+      "text": "the rights and remedies provided in Article 9 of the Uniform Commercial\nCode with respect to default and disposition and redemption of collateral. If\nthe holder of a retail installment contract repossesses a motor vehicle that\nwas used as collateral, the holder shall be subject to the requirements of and\nshall transfer the certificate of title pursuant to Section 3-114 of the\nIllinois Vehicle Code.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-21",
+      "number": "21.",
+      "heading": "The finance charge on any motor vehicle retail installment contract shall be no more than the maximum rate permissible under the Predatory Loan Prevention Act",
+      "text": "The finance charge on any motor vehicle retail installment contract shall be no more than the maximum rate permissible under the Predatory Loan Prevention Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22",
+      "number": "22.",
+      "heading": "No retail seller whose sales are regulated under this Act may",
+      "text": "advertise to the public on price tags, on signs, in public media, or in any\nother manner that indicates or implies that the finance charge, finance or\ninterest rates he charges are in any way \"recommended\", \"approved\", or\n\"set\" by the State government or by this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221",
+      "number": "22.1.",
+      "heading": "(a) This Section applies to any advertisement to aid, promote, or assist",
+      "text": "directly or indirectly any motor vehicle installment sale, or other\nextension of credit subject to the provisions of this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-23",
+      "number": "23.",
+      "heading": "The Attorney General or the State's Attorney of any county in this",
+      "text": "State may bring an action in the name of the State against any person to\nrestrain and prevent any violation of this Act. In the enforcement of this\nAct the Attorney General or the State's Attorney may accept an assurance of\ndiscontinuance of any act or practice deemed in violation of this Act, from\nany person engaging in, or who has engaged in, that act or practice.\nFailure to perform the terms of any such assurance constitutes prima facie\nproof of a violation of this Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24",
+      "number": "24.",
+      "heading": "(a) Any person who knowingly violates this Act is guilty of a Class",
+      "text": "A misdemeanor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25",
+      "number": "25.",
+      "heading": "If any provision of this Act or the application thereof to any",
+      "text": "person or circumstances is held invalid, the invalidity shall not affect\nother provisions or applications of the Act which can be effected without\nthe invalid provisions or application, and to this end the provisions of\nthis Act are severable.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26",
+      "number": "26.",
+      "heading": "This act does not apply to any contract entered into before",
+      "text": "January 1, 1968. Contracts entered into before January 1, 1968, and the\nrights, duties and interests flowing from them, remain valid thereafter and\nmay be satisfied, completed, consummated and enforced as required or\npermitted by the Retail Installment Sales Act, approved June 17, 1957, as\namended.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-261",
+      "number": "26.1.",
+      "heading": "Rulemaking authority. The Secretary of Financial and Professional Regulation and his or her designees shall have authority to adopt and enforce reasonable rules, directions, orders, decisions, and findings necessary to execute and enforce this Act and protect consumers in this State",
+      "text": "The Secretary's",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

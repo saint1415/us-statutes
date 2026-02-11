@@ -1,0 +1,926 @@
+{
+  "state": "south-dakota",
+  "path": "title-title-36-professions-and-occupations/chapter-chapter-09-registered-and-practical-nurses",
+  "sections": [
+    {
+      "id": "section-36-9-1",
+      "number": "36-9-1",
+      "heading": "Definitions.Section 36-9-1.1 - Legislative findings, policy and intent",
+      "text": "Section 36-9-2 - Evidence of qualification and license required to practice nursing.Section 36-9-3 - Practice of registered nurse.Section 36-9-3.1 - Practice of certified registered nurse anesthetist--Promulgation of rules.Sectio",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-11",
+      "number": "36-9-1.1",
+      "heading": "Legislative findings, policy and intent.",
+      "text": "Legislative findings, policy and intent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-2",
+      "number": "36-9-2",
+      "heading": "Evidence of qualification and license required to practice nursing.",
+      "text": "Evidence of qualification and license required to practice nursing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-3",
+      "number": "36-9-3",
+      "heading": "Practice of registered nurse.",
+      "text": "Practice of registered nurse.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-31",
+      "number": "36-9-3.1",
+      "heading": "Practice of certified registered nurse anesthetist--Promulgation of rules.",
+      "text": "Practice of certified registered nurse anesthetist--Promulgation of rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-32",
+      "number": "36-9-3.2",
+      "heading": "Repealed.",
+      "text": "Repealed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-4",
+      "number": "36-9-4",
+      "heading": "Practice of licensed practical nurse.",
+      "text": "Practice of licensed practical nurse.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-41",
+      "number": "36-9-4.1",
+      "heading": "Additional functions after special training of licensed practical nurse.",
+      "text": "Additional functions after special training of licensed practical nurse.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-5",
+      "number": "36-9-5",
+      "heading": "Appointment and composition of board.",
+      "text": "Appointment and composition of board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-6",
+      "number": "36-9-6",
+      "heading": "Citizenship and residence requirements of board members.",
+      "text": "Citizenship and residence requirements of board members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-7",
+      "number": "36-9-7",
+      "heading": "Qualifications of registered nurse members of board.",
+      "text": "Qualifications of registered nurse members of board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-8",
+      "number": "36-9-8",
+      "heading": "Qualifications of licensed practical nurse members of board.",
+      "text": "Qualifications of licensed practical nurse members of board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-81",
+      "number": "36-9-8.1",
+      "heading": "Qualifications of public members of board.",
+      "text": "Qualifications of public members of board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-9",
+      "number": "36-9-9",
+      "heading": "Terms of office of board members--Appointment.",
+      "text": "Terms of office of board members--Appointment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-91",
+      "number": "36-9-9.1",
+      "heading": "36-9-9.1.Repealed by SL 1976, ch 228, §57.",
+      "text": "36-9-9.1.Repealed by SL 1976, ch 228, §57.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-10",
+      "number": "36-9-10",
+      "heading": "36-9-10.Repealed by SL 1971, ch 23, §2.",
+      "text": "36-9-10.Repealed by SL 1971, ch 23, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-11",
+      "number": "36-9-11",
+      "heading": "Removal of board members.",
+      "text": "Removal of board members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-111",
+      "number": "36-9-11.1",
+      "heading": "Board continued within Department of Health--Records and reports.",
+      "text": "Board continued within Department of Health--Records and reports.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-12",
+      "number": "36-9-12",
+      "heading": "Employment of executive director--Qualifications.",
+      "text": "Employment of executive director--Qualifications.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-13",
+      "number": "36-9-13",
+      "heading": "36-9-13.Repealed by SL 1976, ch 228, §57.",
+      "text": "36-9-13.Repealed by SL 1976, ch 228, §57.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-14",
+      "number": "36-9-14",
+      "heading": "Duties and compensation of executive director.",
+      "text": "Duties and compensation of executive director.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-15",
+      "number": "36-9-15",
+      "heading": "Delegation of activities to executive director.",
+      "text": "Delegation of activities to executive director.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-16",
+      "number": "36-9-16",
+      "heading": "Employment of other persons by board.",
+      "text": "Employment of other persons by board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-17",
+      "number": "36-9-17",
+      "heading": "Meetings of board--Election of officers.",
+      "text": "Meetings of board--Election of officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-18",
+      "number": "36-9-18",
+      "heading": "Quorum of board.",
+      "text": "Quorum of board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-19",
+      "number": "36-9-19",
+      "heading": "36-9-19, 36-9-20.Repealed by SL 1976, ch 228, §57.",
+      "text": "36-9-19, 36-9-20.Repealed by SL 1976, ch 228, §57.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-21",
+      "number": "36-9-21",
+      "heading": "Promulgation of rules.",
+      "text": "Promulgation of rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-22",
+      "number": "36-9-22",
+      "heading": "36-9-22, 36-9-23.Repealed by SL 1986, ch 302, §§63, 64.",
+      "text": "36-9-22, 36-9-23.Repealed by SL 1986, ch 302, §§63, 64.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-24",
+      "number": "36-9-24",
+      "heading": "Deposit and withdrawal of money received.",
+      "text": "Deposit and withdrawal of money received.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-25",
+      "number": "36-9-25",
+      "heading": "Balance of fees held by board--Use of fees.",
+      "text": "Balance of fees held by board--Use of fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-26",
+      "number": "36-9-26",
+      "heading": "36-9-26.Repealed by SL 1982, ch 16, §30.",
+      "text": "36-9-26.Repealed by SL 1982, ch 16, §30.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-27",
+      "number": "36-9-27",
+      "heading": "36-9-27.Repealed by SL 1979, ch 255, §15.",
+      "text": "36-9-27.Repealed by SL 1979, ch 255, §15.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-28",
+      "number": "36-9-28",
+      "heading": "Practices not prohibited by chapter.",
+      "text": "Practices not prohibited by chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-281",
+      "number": "36-9-28.1",
+      "heading": "36-9-28.1.Repealed by SL 1998, ch 225, §2.",
+      "text": "36-9-28.1.Repealed by SL 1998, ch 225, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-29",
+      "number": "36-9-29",
+      "heading": "Board to examine, license, and renew licenses.",
+      "text": "Board to examine, license, and renew licenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-30",
+      "number": "36-9-30",
+      "heading": "Proof of education required--Registered nurse.",
+      "text": "Proof of education required--Registered nurse.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-301",
+      "number": "36-9-30.1",
+      "heading": "Qualifications of registered nurse anesthetist.",
+      "text": "Qualifications of registered nurse anesthetist.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-31",
+      "number": "36-9-31",
+      "heading": "Examination required for registered nursing license--Issuance of license.",
+      "text": "Examination required for registered nursing license--Issuance of license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-311",
+      "number": "36-9-31.1",
+      "heading": "Temporary permit for applicant pending examination--Practice under supervision required.",
+      "text": "Temporary permit for applicant pending examination--Practice under supervision required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-312",
+      "number": "36-9-31.2",
+      "heading": "Temporary anesthetist permit pending examination results.",
+      "text": "Temporary anesthetist permit pending examination results.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-32",
+      "number": "36-9-32",
+      "heading": "Licensing of registered nurse from another state or country.",
+      "text": "Licensing of registered nurse from another state or country.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-321",
+      "number": "36-9-32.1",
+      "heading": "Temporary permit for applicant holding license from another state.",
+      "text": "Temporary permit for applicant holding license from another state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-322",
+      "number": "36-9-32.2",
+      "heading": "Temporary anesthetist permit issued to applicant from another state.",
+      "text": "Temporary anesthetist permit issued to applicant from another state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-33",
+      "number": "36-9-33",
+      "heading": "36-9-33.Repealed by SL 1976, ch 228, §57.",
+      "text": "36-9-33.Repealed by SL 1976, ch 228, §57.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-34",
+      "number": "36-9-34",
+      "heading": "36-9-34, 36-9-34.1.Repealed by SL 1986, ch 307, §§23, 24.",
+      "text": "36-9-34, 36-9-34.1.Repealed by SL 1986, ch 307, §§23, 24.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-35",
+      "number": "36-9-35",
+      "heading": "Fees required of registered nurses.",
+      "text": "Fees required of registered nurses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-36",
+      "number": "36-9-36",
+      "heading": "Title used by licensed registered nurse or certified registered nurse anesthetist.",
+      "text": "Title used by licensed registered nurse or certified registered nurse anesthetist.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-37",
+      "number": "36-9-37",
+      "heading": "Proof of education required--Licensed practical nurse.",
+      "text": "Proof of education required--Licensed practical nurse.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-38",
+      "number": "36-9-38",
+      "heading": "Examination required for licensed practical nursing license--Issuance of license.",
+      "text": "Examination required for licensed practical nursing license--Issuance of license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-381",
+      "number": "36-9-38.1",
+      "heading": "Temporary permit for licensed practical nursing pending examination--Practice under supervision required.",
+      "text": "Temporary permit for licensed practical nursing pending examination--Practice under supervision required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-39",
+      "number": "36-9-39",
+      "heading": "Licensing of licensed practical or vocational nurse from another state or country.",
+      "text": "Licensing of licensed practical or vocational nurse from another state or country.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-391",
+      "number": "36-9-39.1",
+      "heading": "Temporary permit for licensed practical nurse from out of state.",
+      "text": "Temporary permit for licensed practical nurse from out of state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-40",
+      "number": "36-9-40",
+      "heading": "36-9-40.Repealed by SL 1976, ch 228, §57.",
+      "text": "36-9-40.Repealed by SL 1976, ch 228, §57.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-41",
+      "number": "36-9-41",
+      "heading": "36-9-41.Omitted.",
+      "text": "36-9-41.Omitted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-42",
+      "number": "36-9-42",
+      "heading": "36-9-42.Repealed by SL 1986, ch 307, §27.",
+      "text": "36-9-42.Repealed by SL 1986, ch 307, §27.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-43",
+      "number": "36-9-43",
+      "heading": "Fees required of licensed practical nurses.",
+      "text": "Fees required of licensed practical nurses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-44",
+      "number": "36-9-44",
+      "heading": "Title used by licensed practical nurse.",
+      "text": "Title used by licensed practical nurse.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-45",
+      "number": "36-9-45",
+      "heading": "Biennial renewal of license--Expiration date--Notice by board--Fee--Period of renewal.",
+      "text": "Biennial renewal of license--Expiration date--Notice by board--Fee--Period of renewal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-451",
+      "number": "36-9-45.1",
+      "heading": "36-9-45.1.Repealed by SL 2016, ch 194, §25.",
+      "text": "36-9-45.1.Repealed by SL 2016, ch 194, §25.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-46",
+      "number": "36-9-46",
+      "heading": "Application for inactive status--Fee.",
+      "text": "Application for inactive status--Fee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-47",
+      "number": "36-9-47",
+      "heading": "Reinstatement of lapsed license.",
+      "text": "Reinstatement of lapsed license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-471",
+      "number": "36-9-47.1",
+      "heading": "Evidence of completion of reentry requirements.",
+      "text": "Evidence of completion of reentry requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-472",
+      "number": "36-9-47.2",
+      "heading": "Issuance of limited license to nurse enrolled in reentry program--Application for license or renewal on completion of program.",
+      "text": "Issuance of limited license to nurse enrolled in reentry program--Application for license or renewal on completion of program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-48",
+      "number": "36-9-48",
+      "heading": "36-9-48.Repealed by SL 1979, ch 255, §43.",
+      "text": "36-9-48.Repealed by SL 1979, ch 255, §43.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-49",
+      "number": "36-9-49",
+      "heading": "Grounds for denial, revocation, or suspension of license or application.",
+      "text": "Grounds for denial, revocation, or suspension of license or application.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-491",
+      "number": "36-9-49.1",
+      "heading": "Physical or mental condition as ground for denial, revocation or suspension--Examination--Immediate suspension upon failure to submit.",
+      "text": "Physical or mental condition as ground for denial, revocation or suspension--Examination--Immediate suspension upon failure to submit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-50",
+      "number": "36-9-50",
+      "heading": "36-9-50.Repealed by SL 1976, ch 228, §57.",
+      "text": "36-9-50.Repealed by SL 1976, ch 228, §57.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-51",
+      "number": "36-9-51",
+      "heading": "36-9-51.Repealed by SL 1979, ch 255, §46.",
+      "text": "36-9-51.Repealed by SL 1979, ch 255, §46.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-511",
+      "number": "36-9-51.1",
+      "heading": "Hearing required for license revocation, suspension, or reissuance.",
+      "text": "Hearing required for license revocation, suspension, or reissuance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-512",
+      "number": "36-9-51.2",
+      "heading": "Revocation or suspension proceedings to conform to administrative procedure.",
+      "text": "Revocation or suspension proceedings to conform to administrative procedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-513",
+      "number": "36-9-51.3",
+      "heading": "Majority of board required to suspend, revoke, or reissue license.",
+      "text": "Majority of board required to suspend, revoke, or reissue license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-514",
+      "number": "36-9-51.4",
+      "heading": "Appeal by aggrieved party from board actions.",
+      "text": "Appeal by aggrieved party from board actions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-52",
+      "number": "36-9-52",
+      "heading": "36-9-52 to 36-9-56.Repealed by SL 1976, ch 228, §57.",
+      "text": "36-9-52 to 36-9-56.Repealed by SL 1976, ch 228, §57.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-57",
+      "number": "36-9-57",
+      "heading": "Reissuance of revoked or suspended license.",
+      "text": "Reissuance of revoked or suspended license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-58",
+      "number": "36-9-58",
+      "heading": "Approval by board of curricula and educational standards.",
+      "text": "Approval by board of curricula and educational standards.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-581",
+      "number": "36-9-58.1",
+      "heading": "36-9-58.1.Repealed by SL 1976, ch 228, §57.",
+      "text": "36-9-58.1.Repealed by SL 1976, ch 228, §57.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-582",
+      "number": "36-9-58.2",
+      "heading": "Application by institution to provide educational program.",
+      "text": "Application by institution to provide educational program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-583",
+      "number": "36-9-58.3",
+      "heading": "Survey of educational program of applicant institution--Interim approval.",
+      "text": "Survey of educational program of applicant institution--Interim approval.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-584",
+      "number": "36-9-58.4",
+      "heading": "Denial of approval of educational program.",
+      "text": "Denial of approval of educational program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-59",
+      "number": "36-9-59",
+      "heading": "36-9-59 to 36-9-63.Repealed by SL 1979, ch 255, §§55 to 60.",
+      "text": "36-9-59 to 36-9-63.Repealed by SL 1979, ch 255, §§55 to 60.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-64",
+      "number": "36-9-64",
+      "heading": "Survey of approved programs in state--Report to board.",
+      "text": "Survey of approved programs in state--Report to board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-641",
+      "number": "36-9-64.1",
+      "heading": "Fee and expenses for survey of educational institution.",
+      "text": "Fee and expenses for survey of educational institution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-65",
+      "number": "36-9-65",
+      "heading": "36-9-65.Repealed by SL 1979, ch 255, §62.",
+      "text": "36-9-65.Repealed by SL 1979, ch 255, §62.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-66",
+      "number": "36-9-66",
+      "heading": "Notice to institution of failure to maintain educational standards.",
+      "text": "Notice to institution of failure to maintain educational standards.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-67",
+      "number": "36-9-67",
+      "heading": "Withdrawal of board approval on failure to correct deficiencies.",
+      "text": "Withdrawal of board approval on failure to correct deficiencies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-671",
+      "number": "36-9-67.1",
+      "heading": "Educational programs conducted or sponsored by board.",
+      "text": "Educational programs conducted or sponsored by board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-68",
+      "number": "36-9-68",
+      "heading": "Prohibited acts--Misdemeanor.",
+      "text": "Prohibited acts--Misdemeanor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-69",
+      "number": "36-9-69",
+      "heading": "Single act as proof of violation.",
+      "text": "Single act as proof of violation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-70",
+      "number": "36-9-70",
+      "heading": "Board to prosecute violations.",
+      "text": "Board to prosecute violations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-71",
+      "number": "36-9-71",
+      "heading": "Unlicensed practice of nursing as public nuisance.",
+      "text": "Unlicensed practice of nursing as public nuisance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-72",
+      "number": "36-9-72",
+      "heading": "Injunction to prevent unlawful practice--Election of remedies.",
+      "text": "Injunction to prevent unlawful practice--Election of remedies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-73",
+      "number": "36-9-73",
+      "heading": "36-9-73, 36-9-74.Omitted.",
+      "text": "36-9-73, 36-9-74.Omitted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-75",
+      "number": "36-9-75",
+      "heading": "36-9-75.Repealed by SL 1986, ch 307, §37.",
+      "text": "36-9-75.Repealed by SL 1986, ch 307, §37.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-76",
+      "number": "36-9-76",
+      "heading": "Nurses' education assistance scholarship.",
+      "text": "Nurses' education assistance scholarship.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-77",
+      "number": "36-9-77",
+      "heading": "Funding for education assistance scholarship program.",
+      "text": "Funding for education assistance scholarship program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-78",
+      "number": "36-9-78",
+      "heading": "Qualification criteria for education assistance scholarship.",
+      "text": "Qualification criteria for education assistance scholarship.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-79",
+      "number": "36-9-79",
+      "heading": "Number and distribution of scholarships from education assistance program.",
+      "text": "Number and distribution of scholarships from education assistance program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-80",
+      "number": "36-9-80",
+      "heading": "Restrictions on distributions from education assistance program.",
+      "text": "Restrictions on distributions from education assistance program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-81",
+      "number": "36-9-81",
+      "heading": "36-9-81 to 36-9-83.Repealed by SL 2014, ch 180, §§10 to 12.",
+      "text": "36-9-81 to 36-9-83.Repealed by SL 2014, ch 180, §§10 to 12.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-84",
+      "number": "36-9-84",
+      "heading": "Definition of durable medical equipment or therapeutic device.",
+      "text": "Definition of durable medical equipment or therapeutic device.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-85",
+      "number": "36-9-85",
+      "heading": "Evidence of qualifications required for license as clinical nurse specialist.",
+      "text": "Evidence of qualifications required for license as clinical nurse specialist.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-86",
+      "number": "36-9-86",
+      "heading": "Requirements for license as clinical nurse specialist.",
+      "text": "Requirements for license as clinical nurse specialist.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-87",
+      "number": "36-9-87",
+      "heading": "Practice of a licensed clinical nurse specialist.",
+      "text": "Practice of a licensed clinical nurse specialist.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-88",
+      "number": "36-9-88",
+      "heading": "Title used by clinical nurse specialist.",
+      "text": "Title used by clinical nurse specialist.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-89",
+      "number": "36-9-89",
+      "heading": "Temporary permit for clinical nurse specialist awaiting exam results.",
+      "text": "Temporary permit for clinical nurse specialist awaiting exam results.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-90",
+      "number": "36-9-90",
+      "heading": "Temporary permit for out of state licensed clinical nurse specialist applicant--Issuance date and termination date.",
+      "text": "Temporary permit for out of state licensed clinical nurse specialist applicant--Issuance date and termination date.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-91",
+      "number": "36-9-91",
+      "heading": "Fees required of clinical nurse specialists.",
+      "text": "Fees required of clinical nurse specialists.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-92",
+      "number": "36-9-92",
+      "heading": "Superseded eff. Jan 19, 2018.",
+      "text": "Superseded eff. Jan 19, 2018.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-93",
+      "number": "36-9-93",
+      "heading": "Head of nurse licensing board defined.",
+      "text": "Head of nurse licensing board defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-94",
+      "number": "36-9-94",
+      "heading": "Practice privileges--Power of board to limit or revoke.",
+      "text": "Practice privileges--Power of board to limit or revoke.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-95",
+      "number": "36-9-95",
+      "heading": "Nursing workforce center established--Funding.",
+      "text": "Nursing workforce center established--Funding.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-96",
+      "number": "36-9-96",
+      "heading": "Powers of nursing workforce center.",
+      "text": "Powers of nursing workforce center.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-97",
+      "number": "36-9-97",
+      "heading": "Criminal background investigation of applicants and licensees subject to disciplinary investigation--Cooperation required--Fees.",
+      "text": "Criminal background investigation of applicants and licensees subject to disciplinary investigation--Cooperation required--Fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-98",
+      "number": "36-9-98",
+      "heading": "Nurse Licensure Compact.",
+      "text": "Nurse Licensure Compact.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36-9-99",
+      "number": "36-9-99",
+      "heading": "General funds not to be used to support compact.",
+      "text": "General funds not to be used to support compact.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

@@ -1,0 +1,534 @@
+{
+  "state": "kentucky",
+  "path": "title-article-8-investment-securities/chapter-article-8-investment-securities",
+  "sections": [
+    {
+      "id": "section-8-101",
+      "number": "8-101",
+      "heading": "Short title.",
+      "text": "Short title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-102",
+      "number": "8-102",
+      "heading": "Definitions and index of definitions.",
+      "text": "Definitions and index of definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-103",
+      "number": "8-103",
+      "heading": "Rules for determining whether certain obligations and interests are securities or financial assets.",
+      "text": "Rules for determining whether certain obligations and interests are securities or financial assets.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-104",
+      "number": "8-104",
+      "heading": "Acquisition of security or financial asset or interest therein.",
+      "text": "Acquisition of security or financial asset or interest therein.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-105",
+      "number": "8-105",
+      "heading": "Notice of adverse claim.",
+      "text": "Notice of adverse claim.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-106",
+      "number": "8-106",
+      "heading": "Control.",
+      "text": "Control.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-107",
+      "number": "8-107",
+      "heading": "Whether indorsement, instruction, or entitlement order is effective.",
+      "text": "Whether indorsement, instruction, or entitlement order is effective.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-108",
+      "number": "8-108",
+      "heading": "Warranties in direct holding.",
+      "text": "Warranties in direct holding.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-109",
+      "number": "8-109",
+      "heading": "Warranties in indirect holding.",
+      "text": "Warranties in indirect holding.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-110",
+      "number": "8-110",
+      "heading": "Applicability -- Choice of law.",
+      "text": "Applicability -- Choice of law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-111",
+      "number": "8-111",
+      "heading": "Clearing corporation rules.",
+      "text": "Clearing corporation rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-112",
+      "number": "8-112",
+      "heading": "Creditor's legal process.",
+      "text": "Creditor's legal process.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-113",
+      "number": "8-113",
+      "heading": "Statute of frauds inapplicable.",
+      "text": "Statute of frauds inapplicable.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-114",
+      "number": "8-114",
+      "heading": "Evidentiary rules concerning certificated securities.",
+      "text": "Evidentiary rules concerning certificated securities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-115",
+      "number": "8-115",
+      "heading": "Securities intermediary and others not liable to adverse claimant.",
+      "text": "Securities intermediary and others not liable to adverse claimant.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-116",
+      "number": "8-116",
+      "heading": "Securities intermediary as purchaser for value.",
+      "text": "Securities intermediary as purchaser for value.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-201",
+      "number": "8-201",
+      "heading": "\"Issuer.\"",
+      "text": "\"Issuer.\"",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-202",
+      "number": "8-202",
+      "heading": "Issuer's responsibility and defenses -- Notice of defect of defense.",
+      "text": "Issuer's responsibility and defenses -- Notice of defect of defense.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-203",
+      "number": "8-203",
+      "heading": "Staleness as notice of defect or defense.",
+      "text": "Staleness as notice of defect or defense.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-204",
+      "number": "8-204",
+      "heading": "Effect of issuer's restrictions on transfer.",
+      "text": "Effect of issuer's restrictions on transfer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-205",
+      "number": "8-205",
+      "heading": "Effect of unauthorized signature on security certificate.",
+      "text": "Effect of unauthorized signature on security certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-206",
+      "number": "8-206",
+      "heading": "Completion or alteration of security certificate.",
+      "text": "Completion or alteration of security certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-207",
+      "number": "8-207",
+      "heading": "Rights and duties of issuer with respect to registered owners.",
+      "text": "Rights and duties of issuer with respect to registered owners.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-208",
+      "number": "8-208",
+      "heading": "Effect of signature of authenticating trustee, registrar, or transfer agent.",
+      "text": "Effect of signature of authenticating trustee, registrar, or transfer agent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-209",
+      "number": "8-209",
+      "heading": "Issuer's lien.",
+      "text": "Issuer's lien.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-210",
+      "number": "8-210",
+      "heading": "Overissue.",
+      "text": "Overissue.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-301",
+      "number": "8-301",
+      "heading": "Delivery.",
+      "text": "Delivery.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-302",
+      "number": "8-302",
+      "heading": "Rights of purchaser.",
+      "text": "Rights of purchaser.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-303",
+      "number": "8-303",
+      "heading": "Protected purchaser.",
+      "text": "Protected purchaser.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-304",
+      "number": "8-304",
+      "heading": "Indorsement.",
+      "text": "Indorsement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-305",
+      "number": "8-305",
+      "heading": "Instruction.",
+      "text": "Instruction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-306",
+      "number": "8-306",
+      "heading": "Effect of guaranteeing signature, indorsement, or instruction.",
+      "text": "Effect of guaranteeing signature, indorsement, or instruction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-307",
+      "number": "8-307",
+      "heading": "Purchaser's right to requisites for registration of transfer.",
+      "text": "Purchaser's right to requisites for registration of transfer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-308",
+      "number": "8-308",
+      "heading": "Repealed, 1997.",
+      "text": "Repealed, 1997.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-309",
+      "number": "8-309",
+      "heading": "Repealed, 1997.",
+      "text": "Repealed, 1997.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-310",
+      "number": "8-310",
+      "heading": "Repealed, 1997.",
+      "text": "Repealed, 1997.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-311",
+      "number": "8-311",
+      "heading": "Repealed, 1997.",
+      "text": "Repealed, 1997.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-312",
+      "number": "8-312",
+      "heading": "Repealed, 1997.",
+      "text": "Repealed, 1997.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-313",
+      "number": "8-313",
+      "heading": "Repealed, 1997.",
+      "text": "Repealed, 1997.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-314",
+      "number": "8-314",
+      "heading": "Repealed, 1997.",
+      "text": "Repealed, 1997.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-315",
+      "number": "8-315",
+      "heading": "Repealed, 1997.",
+      "text": "Repealed, 1997.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-316",
+      "number": "8-316",
+      "heading": "Repealed, 1997.",
+      "text": "Repealed, 1997.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-317",
+      "number": "8-317",
+      "heading": "Repealed, 1997.",
+      "text": "Repealed, 1997.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-318",
+      "number": "8-318",
+      "heading": "Repealed, 1997.",
+      "text": "Repealed, 1997.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-319",
+      "number": "8-319",
+      "heading": "Repealed, 1997.",
+      "text": "Repealed, 1997.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-320",
+      "number": "8-320",
+      "heading": "Repealed, 1997.",
+      "text": "Repealed, 1997.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-321",
+      "number": "8-321",
+      "heading": "Repealed, 1997.",
+      "text": "Repealed, 1997.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-401",
+      "number": "8-401",
+      "heading": "Duty of issuer to register transfer.",
+      "text": "Duty of issuer to register transfer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-402",
+      "number": "8-402",
+      "heading": "Assurance that indorsement or instruction is effective.",
+      "text": "Assurance that indorsement or instruction is effective.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-403",
+      "number": "8-403",
+      "heading": "Demand that issuer not register transfer.",
+      "text": "Demand that issuer not register transfer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-404",
+      "number": "8-404",
+      "heading": "Wrongful registration.",
+      "text": "Wrongful registration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-405",
+      "number": "8-405",
+      "heading": "Replacement of lost, destroyed, or wrongfully taken security certificate.",
+      "text": "Replacement of lost, destroyed, or wrongfully taken security certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-406",
+      "number": "8-406",
+      "heading": "Obligation to notify issuer of lost, destroyed, or wrongfully taken security certificate.",
+      "text": "Obligation to notify issuer of lost, destroyed, or wrongfully taken security certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-407",
+      "number": "8-407",
+      "heading": "Authenticating trustee, transfer agent, and registrar.",
+      "text": "Authenticating trustee, transfer agent, and registrar.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-408",
+      "number": "8-408",
+      "heading": "Repealed, 1997.",
+      "text": "Repealed, 1997.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-501",
+      "number": "8-501",
+      "heading": "Securities account -- Acquisition of security entitlement from securities intermediary.",
+      "text": "Securities account -- Acquisition of security entitlement from securities intermediary.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-502",
+      "number": "8-502",
+      "heading": "Assertion of adverse claim against entitlement holder.",
+      "text": "Assertion of adverse claim against entitlement holder.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-503",
+      "number": "8-503",
+      "heading": "Property interest of entitlement holder in financial asset held by securities intermediary.",
+      "text": "Property interest of entitlement holder in financial asset held by securities intermediary.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-504",
+      "number": "8-504",
+      "heading": "Duties of securities intermediary to maintain financial asset.",
+      "text": "Duties of securities intermediary to maintain financial asset.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-505",
+      "number": "8-505",
+      "heading": "Duty of securities intermediary with respect to payments and distributions.",
+      "text": "Duty of securities intermediary with respect to payments and distributions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-506",
+      "number": "8-506",
+      "heading": "Duty of securities intermediary to exercise rights as directed by entitlement holder.",
+      "text": "Duty of securities intermediary to exercise rights as directed by entitlement holder.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-507",
+      "number": "8-507",
+      "heading": "Duty of securities intermediary to comply with entitlement order.",
+      "text": "Duty of securities intermediary to comply with entitlement order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-508",
+      "number": "8-508",
+      "heading": "Duty of securities intermediary to change entitlement holder's position to other form of security holding.",
+      "text": "Duty of securities intermediary to change entitlement holder's position to other form of security holding.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-509",
+      "number": "8-509",
+      "heading": "Specification of duties of securities intermediary by other statute or regulation -- Manner of performance of duties of securities intermediary and exercise of rights of entitlement holder",
+      "text": "Specification of duties of securities intermediary by other statute or regulation -- Manner of performance of duties of securities intermediary and exercise of rights of entitlement holder.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-510",
+      "number": "8-510",
+      "heading": "Rights of purchaser of security entitlement from entitlement holder.",
+      "text": "Rights of purchaser of security entitlement from entitlement holder.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8-511",
+      "number": "8-511",
+      "heading": "Priority among security interests and entitlement holders.",
+      "text": "Priority among security interests and entitlement holders.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

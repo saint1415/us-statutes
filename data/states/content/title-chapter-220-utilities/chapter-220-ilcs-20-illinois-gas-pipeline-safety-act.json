@@ -1,0 +1,214 @@
+{
+  "state": "illinois",
+  "path": "title-chapter-220-utilities/chapter-220-ilcs-20-illinois-gas-pipeline-safety-act",
+  "sections": [
+    {
+      "id": "section-1",
+      "number": "1.",
+      "heading": "This Act shall be known and may be cited as the Illinois Gas Pipeline Safety Act.",
+      "text": "This Act shall be known and may be cited as the Illinois Gas Pipeline Safety Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2",
+      "number": "2.",
+      "heading": "As used in this Act, unless the context, otherwise requires, the terms",
+      "text": "specified in the Sections following this Section and preceding Section 3 have the meanings ascribed to them\nin those Sections.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-201",
+      "number": "2.01.",
+      "heading": "\"Person\" means any individual, firm, joint venture, partnership,",
+      "text": "corporation, company, limited liability company, firm, association, municipality, cooperative association, or joint\nstock association, and includes any trustee, receiver, assignee or personal\nrepresentative thereof.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-202",
+      "number": "2.02.",
+      "heading": "\"Gas\" means natural gas, flammable gas or gas which is toxic or",
+      "text": "corrosive.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2025",
+      "number": "2.02.5.",
+      "heading": "\"Primary fuel line\" means that portion of the customer-owned",
+      "text": "piping that connects the outlet of the gas meter to the outside wall of\nresidential premises, excluding any customer-owned branch lines that may be\nconnected thereto.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-203",
+      "number": "2.03.",
+      "heading": "\"Transportation of gas\" means the gathering, transmission, or",
+      "text": "distribution of gas by pipeline or its storage, within this State and not\nsubject to the jurisdiction of the Federal Energy Regulatory\nCommission under the\nNatural Gas Act, except that it includes the transmission of gas through\npipeline facilities within this State that transport gas from an interstate\ngas pipeline to a direct sales customer within this State purchasing gas\nfor its own consumption. \"Transportation of gas\" also includes\nthe conveyance of gas from a gas main through the primary fuel line to the\noutside wall of residential\npremises. If the gas meter is placed within 3 feet of the structure, the\nutility's responsibility shall end at the outlet side of the meter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204",
+      "number": "2.04.",
+      "heading": "\"Pipeline facilities\" includes new and existing pipe rights-of-way and",
+      "text": "any equipment, facility, or building used in the transportation of gas\nor the\ntreatment of gas during the course of transportation and\nincludes facilities within this State that transport gas from an interstate\ngas pipeline to a direct sales customer within this State purchasing gas\nfor its own consumption, but\n\"rights-of-way\" as used in this Act does not authorize the Commission to\nprescribe, under this Act, the location or\nrouting of any pipeline facility. \"Pipeline facilities\" also includes\nnew and existing pipes and lines and any other equipment, facility, or\nstructure, except customer-owned branch lines connected to the primary fuel\nlines, used to convey gas from a gas main to the outside wall of\nresidential premises, and any person who provides gas service directly to its\nresidential customer through these facilities shall be deemed to operate\nsuch pipeline facilities for purposes of this Act irrespective of the ownership\nof the facilities or the location of the facilities with respect to the\nmeter, except that a person who provides gas service to a \"master meter\nsystem\", as that term is defined at 49 C.F.R. Section 191.3, shall not be\ndeemed to operate any facilities downstream of the master meter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-205",
+      "number": "2.05.",
+      "heading": "\"Commission\" means the Illinois Commerce Commission.",
+      "text": "\"Commission\" means the Illinois Commerce Commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-206",
+      "number": "2.06.",
+      "heading": "\"Public Utilities Act\" means \"An Act concerning public utilities\",",
+      "text": "approved June 29, 1921, as amended.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-207",
+      "number": "2.07.",
+      "heading": "\"Federal Act\" means 49 U.S.C. Chapter 601",
+      "text": "This amendatory Act of the 100th General Assembly is intended to reflect numbering and citation changes to the United States Code occurring on or after the effective date of this amendatory Act of the 100th General Assembly.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-208",
+      "number": "2.08.",
+      "heading": "Notice of probable violation. \"Notice of probable violation\" or \"NOPV\" means a written notice, satisfying the criteria set forth in Section 7",
+      "text": "5 of this Act, given by the pipeline safety manager to a person who engages in the transportation of gas or who owns or operates pipeline facilities that iden",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-209",
+      "number": "2.09.",
+      "heading": "Pipeline safety manager. \"Pipeline safety manager\" means the manager of the Commission's Pipeline Safety Program or other staff of the Commission assigned to gas pipeline safety issues",
+      "text": "Pipeline safety manager. \"Pipeline safety manager\" means the manager of the Commission's Pipeline Safety Program or other staff of the Commission assigned to gas pipeline safety issues.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-210",
+      "number": "2.10.",
+      "heading": "Department. \"Department\" means the Department of Natural Resources.",
+      "text": "Department. \"Department\" means the Department of Natural Resources.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-211",
+      "number": "2.11.",
+      "heading": "Downhole. \"Downhole\" means the portion of the underground natural gas storage facility from the first flange attaching the wellhead to the pipeline equipment and continuing down the well casing to and including the storage reservoir",
+      "text": "Downhole. \"Downhole\" means the portion of the underground natural gas storage facility from the first flange attaching the wellhead to the pipeline equipment and continuing down the well casing to and including the storage reservoir.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-212",
+      "number": "2.12.",
+      "heading": "Underground natural gas storage facility",
+      "text": "\"Underground natural gas storage facility\" means a gas pipeline facility that stores natural gas in an underground facility, including a depleted hydrocarbon reservoir, an aquifer reservoir, and a solution-mined salt cavern reservoir.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3",
+      "number": "3.",
+      "heading": "(a) As soon as practicable, but not later than 3 months after the",
+      "text": "effective date of this Act, the Commission shall adopt rules establishing\nminimum safety standards for the transportation of gas and for pipeline\nfacilities. Such rules shall be at least as inclusive, as stringent, and\ncompatible with, the minimum safety standards adopted by the Secretary of\nTransportation under the Federal Act. Thereafter, the Commission shall\nmaintain such rules so that the rules are at least as inclusive, as\nstringent, and compatible with, the minimum standards from time to time in\neffect under the Federal Act. Notwithstanding the generality of the foregoing, the Commission shall not adopt or enforce standards governing downhole portions of an underground natural gas storage facility, as long as the Department submits to the Secretary of Transportation annually the certification described in 49 U.S.C. 60105(a) and the certification is not rejected under 49 U.S.C. 60105(f). The Commission and the Department shall work cooperatively with each other and with other entities in the federal and State governments to ensure that the policies embodied in the Federal Act, the Illinois Underground Natural Gas Storage Safety Act, this Act, the Illinois Oil and Gas Act, the Public Utilities Act, and the rules adopted thereunder, are fully effectuated. The Commission and the Department shall take steps to avoid the duplication of efforts while at the same time ensuring that all regulatory obligations are fulfilled. As long as the Department submits to the Secretary of Transportation annually the certification described in 49 U.S.C. 60105(a) and the certification is not rejected under 49 U.S.C. 60105(f), the Department shall have jurisdiction over the downhole portion of underground natural gas storage facilities subject to this Act. The Commission shall retain jurisdiction over all other portions of the underground natural gas storage facilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4",
+      "number": "4.",
+      "heading": "Subject to 49 U.S.C. 60118(d), the Commission",
+      "text": "may, upon application by any person engaged in the transportation of gas or\nthe operation of pipeline facilities, waive in whole or in part, compliance\nwith any standard established under this Act, if it determines that such a\nwaiver is not inconsistent with gas pipeline safety.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5",
+      "number": "5.",
+      "heading": "Each person who engages in the transportation of gas or who owns or",
+      "text": "operates pipeline facilities shall file with the Commission a plan for\ninspection and maintenance of each pipeline facility owned or operated by\nsuch person as well as any changes in such plan, in accordance with\nregulations prescribed by the Commission. The Commission may, by\nregulation, also require such person to file the plans for approval. If the\nCommission finds, at any time, that the plan is inadequate to achieve safe\noperation, the Commission shall, after notice and opportunity for a\nhearing, require the plan to be revised. The plan required by the\nCommission under this Section must be practicable and designed to meet the\nneed for pipeline safety. In determining the adequacy of any plan, the\nCommission shall consider relevant available pipeline safety data; whether\nthe plan is appropriate for the particular type of pipeline transportation;\nthe reasonableness of the plan; and the extent to which the plan will\ncontribute to public safety.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6",
+      "number": "6.",
+      "heading": "(a) Each person who engages in the transportation of gas or who owns or",
+      "text": "operates pipeline facilities shall:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7",
+      "number": "7.",
+      "heading": "Penalties; action for penalties; Commission approval of penalties.",
+      "text": "Penalties; action for penalties; Commission approval of penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-75",
+      "number": "7.5.",
+      "heading": "NOPV; Commission hearing.",
+      "text": "NOPV; Commission hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8",
+      "number": "8.",
+      "heading": "Except as otherwise provided in this Act, the Public Utilities Act",
+      "text": "applies to pipeline facilities and to persons engaged in the transportation\nof gas or operating pipeline facilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9",
+      "number": "9.",
+      "heading": "The Commission shall prepare and file with the Secretary of",
+      "text": "Transportation the initial and annual certification and report required by 49 U.S.C. 60105(a).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10",
+      "number": "10.",
+      "heading": "The Commission may apply for, accept, receive and receipt for Federal",
+      "text": "monies, for the State, given by the Federal government under the Federal\nAct for any purpose within the authority of the Commission. The Commission\nmay also act as an agent for any agency or officer of the Federal\ngovernment for any purpose which is otherwise within the authority of the\nCommission, and the Commission may enter into agreements for such purpose\nwith any such agency or officer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11",
+      "number": "11.",
+      "heading": "Nothing contained in this Act is intended, nor shall it be construed, to",
+      "text": "limit or diminish the authority of the Commission under the Public Utilities Act or the Department under the Illinois Oil and Gas Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12",
+      "number": "12.",
+      "heading": "If any provision, clause or phrase of this Act or the application",
+      "text": "thereof to any person or circumstances is held invalid, such invalidity\nshall not affect other provisions or application of this Act which can be\ngiven effect without the invalid provision or application and to this end\nprovisions of this Act are declared to be separable.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

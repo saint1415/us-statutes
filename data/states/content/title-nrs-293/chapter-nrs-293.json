@@ -1,0 +1,3318 @@
+{
+  "state": "nevada",
+  "path": "title-nrs-293/chapter-nrs-293",
+  "sections": [
+    {
+      "id": "section-293010",
+      "number": "293.010",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293016",
+      "number": "293.016",
+      "heading": "Abstract",
+      "text": "of votes� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293017",
+      "number": "293.017",
+      "heading": "Active",
+      "text": "registration� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293019",
+      "number": "293.019",
+      "heading": "Approved",
+      "text": "electronic transmission� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293021",
+      "number": "293.021",
+      "heading": "Automatic",
+      "text": "voter registration agency� defined. [Effective January 1, 2025.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293025",
+      "number": "293.025",
+      "heading": "Ballot�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293026",
+      "number": "293.026",
+      "heading": "Ballot",
+      "text": "box� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293030",
+      "number": "293.030",
+      "heading": "Ballot",
+      "text": "listing� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293032",
+      "number": "293.032",
+      "heading": "Canvass�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293033",
+      "number": "293.033",
+      "heading": "Central",
+      "text": "committee� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2930335",
+      "number": "293.0335",
+      "heading": "Central",
+      "text": "counting place� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293034",
+      "number": "293.034",
+      "heading": "Certificate",
+      "text": "of election� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293035",
+      "number": "293.035",
+      "heading": "Challenge",
+      "text": "list� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293038",
+      "number": "293.038",
+      "heading": "City",
+      "text": "of population category one� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2930382",
+      "number": "293.0382",
+      "heading": "City",
+      "text": "of population category two� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2930384",
+      "number": "293.0384",
+      "heading": "City",
+      "text": "of population category three� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293040",
+      "number": "293.040",
+      "heading": "Clerk�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293042",
+      "number": "293.042",
+      "heading": "Contest�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293044",
+      "number": "293.044",
+      "heading": "County",
+      "text": "clerk� defined; synonymous with �registrar of voters� in certain counties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2930455",
+      "number": "293.0455",
+      "heading": "Declaration",
+      "text": "of candidacy� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293046",
+      "number": "293.046",
+      "heading": "Deputy",
+      "text": "clerk� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293050",
+      "number": "293.050",
+      "heading": "Election",
+      "text": "board officer� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293055",
+      "number": "293.055",
+      "heading": "Elector�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293056",
+      "number": "293.056",
+      "heading": "Facsimile",
+      "text": "machine� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293057",
+      "number": "293.057",
+      "heading": "Filing",
+      "text": "officer� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293059",
+      "number": "293.059",
+      "heading": "General",
+      "text": "city election� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293060",
+      "number": "293.060",
+      "heading": "General",
+      "text": "election� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293063",
+      "number": "293.063",
+      "heading": "Independent",
+      "text": "candidate� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2930635",
+      "number": "293.0635",
+      "heading": "Information",
+      "text": "system� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293064",
+      "number": "293.064",
+      "heading": "Judicial",
+      "text": "office� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2930643",
+      "number": "293.0643",
+      "heading": "Judicial",
+      "text": "officer� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293065",
+      "number": "293.065",
+      "heading": "Mail�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2930653",
+      "number": "293.0653",
+      "heading": "Mail",
+      "text": "ballot� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2930655",
+      "number": "293.0655",
+      "heading": "Major",
+      "text": "political party� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2930657",
+      "number": "293.0657",
+      "heading": "Mechanical",
+      "text": "recording device� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2930659",
+      "number": "293.0659",
+      "heading": "Mechanical",
+      "text": "voting system� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293066",
+      "number": "293.066",
+      "heading": "Minor",
+      "text": "political party� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2930675",
+      "number": "293.0675",
+      "heading": "Nonpartisan",
+      "text": "office� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293068",
+      "number": "293.068",
+      "heading": "Oath�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293069",
+      "number": "293.069",
+      "heading": "Petition",
+      "text": "district� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293070",
+      "number": "293.070",
+      "heading": "Physical",
+      "text": "disability� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293073",
+      "number": "293.073",
+      "heading": "Political",
+      "text": "party� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293077",
+      "number": "293.077",
+      "heading": "Precinct�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2930771",
+      "number": "293.0771",
+      "heading": "Presidential",
+      "text": "preference primary election� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293079",
+      "number": "293.079",
+      "heading": "Primary",
+      "text": "city election� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293080",
+      "number": "293.080",
+      "heading": "Primary",
+      "text": "election� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293090",
+      "number": "293.090",
+      "heading": "Registered",
+      "text": "voter� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2930925",
+      "number": "293.0925",
+      "heading": "Registrar",
+      "text": "of voters� register� defined. [Repealed.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293093",
+      "number": "293.093",
+      "heading": "Regular",
+      "text": "votes� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293094",
+      "number": "293.094",
+      "heading": "Rejected",
+      "text": "ballot� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293095",
+      "number": "293.095",
+      "heading": "Roster�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293097",
+      "number": "293.097",
+      "heading": "Sample",
+      "text": "ballot� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293100",
+      "number": "293.100",
+      "heading": "School",
+      "text": "office� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293103",
+      "number": "293.103",
+      "heading": "School",
+      "text": "officers� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293104",
+      "number": "293.104",
+      "heading": "Security",
+      "text": "of an information system� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293105",
+      "number": "293.105",
+      "heading": "Service",
+      "text": "of the United States� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293107",
+      "number": "293.107",
+      "heading": "Spoiled",
+      "text": "ballot� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293109",
+      "number": "293.109",
+      "heading": "State",
+      "text": "officer� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2931105",
+      "number": "293.1105",
+      "heading": "Statewide",
+      "text": "office� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293111",
+      "number": "293.111",
+      "heading": "Statewide",
+      "text": "voter registration list� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293113",
+      "number": "293.113",
+      "heading": "Tally",
+      "text": "list� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293115",
+      "number": "293.115",
+      "heading": "Township",
+      "text": "office� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293117",
+      "number": "293.117",
+      "heading": "Township",
+      "text": "officer� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293119",
+      "number": "293.119",
+      "heading": "Undervote�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2931195",
+      "number": "293.1195",
+      "heading": "United",
+      "text": "States Election Assistance Commission� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2931205",
+      "number": "293.1205",
+      "heading": "Voter",
+      "text": "registration card� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293121",
+      "number": "293.121",
+      "heading": "Voting",
+      "text": "district� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293124",
+      "number": "293.124",
+      "heading": "Secretary",
+      "text": "of State to serve as Chief Officer of Elections; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293126",
+      "number": "293.126",
+      "heading": "Applicability",
+      "text": "of chapter to city elections.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2931265",
+      "number": "293.1265",
+      "heading": "Inapplicability",
+      "text": "of certain laws to members or members-elect of Legislature; plenary and\n\nexclusive jurisdiction and power of each House over certain matters.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293127",
+      "number": "293.127",
+      "heading": "Liberal",
+      "text": "construction of title and determination of real will of electors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2931273",
+      "number": "293.1273",
+      "heading": "Facsimile",
+      "text": "of signature created by computer to verify or compare signature.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2931275",
+      "number": "293.1275",
+      "heading": "Counting",
+      "text": "of Saturdays, Sundays and holidays in computing certain periods of time;\n\nexceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-29312755",
+      "number": "293.12755",
+      "heading": "Date.",
+      "text": "Date.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293127563",
+      "number": "293.127563",
+      "heading": "Secretary",
+      "text": "of State to determine number of signatures required for certain petitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293127565",
+      "number": "293.127565",
+      "heading": "Use",
+      "text": "of public buildings to gather signatures on petitions; remedy for violation;\n\nregulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-29312757",
+      "number": "293.12757",
+      "heading": "Qualification",
+      "text": "to sign petition. [Effective through December 31, 2024.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-29312758",
+      "number": "293.12758",
+      "heading": "Receipt",
+      "text": "issued by county clerk; requirements for petition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2931276",
+      "number": "293.1276",
+      "heading": "County",
+      "text": "clerk to forward number of signatures to Secretary of State; notice of failure\n\nto file required number of signatures; handling of petition; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2931277",
+      "number": "293.1277",
+      "heading": "Verification",
+      "text": "of signatures by county clerks; regulations. [Effective through December 31,\n\n2024.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2931278",
+      "number": "293.1278",
+      "heading": "Qualification",
+      "text": "or disqualification of petition upon receipt of certificates or amended\n\ncertificates by Secretary of State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2931279",
+      "number": "293.1279",
+      "heading": "Qualification",
+      "text": "or disqualification of petition upon verification of signatures; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-29312793",
+      "number": "293.12793",
+      "heading": "Appeal",
+      "text": "with Secretary of State contesting verification of signatures; notification of\n\npublic officer who is subject of petition to recall; consideration and\n\ninvestigation of allegations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-29312795",
+      "number": "293.12795",
+      "heading": "Action",
+      "text": "by Secretary of State upon review of appeal; judicial review of decision of\n\nSecretary of State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293128",
+      "number": "293.128",
+      "heading": "Procedure",
+      "text": "for qualification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293165",
+      "number": "293.165",
+      "heading": "Procedure",
+      "text": "for filling certain vacancies in major or minor political party nomination or\n\nnonpartisan nomination; deadline for making changes to general election ballot.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293166",
+      "number": "293.166",
+      "heading": "Procedure",
+      "text": "for filling certain vacancies in party nomination for office of State\n\nLegislator from multicounty legislative district; deadline for making changes\n\nto general election ballot.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293167",
+      "number": "293.167",
+      "heading": "Nomination",
+      "text": "of party candidates for United States Senator or Representative in Congress.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293171",
+      "number": "293.171",
+      "heading": "Procedure",
+      "text": "for organization.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2931715",
+      "number": "293.1715",
+      "heading": "Procedure",
+      "text": "to place candidates� names on ballot; limitation on number of candidates to\n\nappear on ballot; procedure to determine number of signatures required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293172",
+      "number": "293.172",
+      "heading": "Contents",
+      "text": "of petition required to place candidates� names on ballot; limitation on who\n\nmay sign petition; requirements for signing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2931725",
+      "number": "293.1725",
+      "heading": "Candidates:",
+      "text": "Submission of list to Secretary of State; filing of declaration of candidacy\n\nand certificate of nomination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293174",
+      "number": "293.174",
+      "heading": "Challenge",
+      "text": "of qualification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293175",
+      "number": "293.175",
+      "heading": "Date",
+      "text": "of primary election; nomination of candidates; applicability of provisions\n\ngoverning nominations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2931755",
+      "number": "293.1755",
+      "heading": "Residency",
+      "text": "requirements for candidates; unlawful for candidates to make certain false\n\nstatements; certain offices excepted from residency requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293176",
+      "number": "293.176",
+      "heading": "When",
+      "text": "candidacy for major political party prohibited; exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293177",
+      "number": "293.177",
+      "heading": "Declaration",
+      "text": "of candidacy: Filing required; fee; filing periods; forms; contents; submission\n\nand retention of proof of identity, address and residency; appointment of agent\n\nfor service of process; investigation and challenge of candidates; unlawful for\n\ncandidates to make certain false statements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293179",
+      "number": "293.179",
+      "heading": "Questionnaire",
+      "text": "for candidates for judicial office; filing officers required to post\n\nquestionnaires on Internet.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293181",
+      "number": "293.181",
+      "heading": "Declaration",
+      "text": "of residency required of candidates for office of State Legislator; form; contents;\n\nunlawful for candidates to make certain false statements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293182",
+      "number": "293.182",
+      "heading": "Written",
+      "text": "challenges concerning qualifications of candidates; enforcement in preelection\n\nactions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293184",
+      "number": "293.184",
+      "heading": "Remedies",
+      "text": "for candidates who unlawfully make certain false statements; disqualification\n\nfrom taking office; removal from ballot or notification to voters at polling\n\nplaces; enforcement in preelection actions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293185",
+      "number": "293.185",
+      "heading": "Appropriate",
+      "text": "filing officer for filing declaration of candidacy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293186",
+      "number": "293.186",
+      "heading": "Candidates",
+      "text": "for public office to receive form or access to electronic form for making\n\nfinancial disclosure statement and related instructions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293187",
+      "number": "293.187",
+      "heading": "Certification",
+      "text": "of names of persons for whom candidacy papers have been filed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293190",
+      "number": "293.190",
+      "heading": "Certification",
+      "text": "of names of persons nominated at primary election.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293193",
+      "number": "293.193",
+      "heading": "Filing",
+      "text": "fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293194",
+      "number": "293.194",
+      "heading": "Return",
+      "text": "of filing fee to certain candidates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293195",
+      "number": "293.195",
+      "heading": "Nonpartisan",
+      "text": "offices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293196",
+      "number": "293.196",
+      "heading": "Each",
+      "text": "office of justice of the Supreme Court constitutes separate office for\n\nnomination and election.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2931965",
+      "number": "293.1965",
+      "heading": "Each",
+      "text": "office of judge of the Court of Appeals constitutes separate office for\n\nnomination and election.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293197",
+      "number": "293.197",
+      "heading": "Each",
+      "text": "department of district court constitutes separate office for nomination and\n\nelection; ballots used in certain counties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293198",
+      "number": "293.198",
+      "heading": "Each",
+      "text": "department of Justice Court constitutes separate office for nomination and\n\nelection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293200",
+      "number": "293.200",
+      "heading": "Independent",
+      "text": "candidates: Qualification; petition of candidacy; time limit for challenge;\n\ndeclaration of candidacy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293202",
+      "number": "293.202",
+      "heading": "Withdrawal",
+      "text": "of candidacy; rescission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293203",
+      "number": "293.203",
+      "heading": "Contents",
+      "text": "and publication of notice of primary or general election.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293204",
+      "number": "293.204",
+      "heading": "Period",
+      "text": "for filing declaration of candidacy for special election.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2932045",
+      "number": "293.2045",
+      "heading": "Remedies",
+      "text": "in preelection actions challenging candidates who fail to meet qualifications\n\nfor office; disqualification from taking office; removal from ballot or\n\nnotification to voters at polling places; applicability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293205",
+      "number": "293.205",
+      "heading": "Establishment,",
+      "text": "abolishment, alteration and consolidation; boundaries.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293206",
+      "number": "293.206",
+      "heading": "Submission",
+      "text": "of maps to Secretary of State and Legislative Counsel Bureau; determination of\n\nstatutory compliance; revisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293207",
+      "number": "293.207",
+      "heading": "Establishment",
+      "text": "on basis of number of voters therein; maximum number of voters; consolidation\n\nof precincts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293208",
+      "number": "293.208",
+      "heading": "Limitations",
+      "text": "on creation, division, abolition, consolidation and alteration during certain\n\nperiods; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293209",
+      "number": "293.209",
+      "heading": "Creation",
+      "text": "or change of election district during certain period in year of general or\n\ngeneral city election prohibited; annexation not prohibited during year of\n\nelection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293210",
+      "number": "293.210",
+      "heading": "Establishment",
+      "text": "of new election precinct: Petition and conditions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293217",
+      "number": "293.217",
+      "heading": "Appointment",
+      "text": "of officers by county clerk; appointment of deputy sheriffs for elections;\n\nappointment of trainees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2932175",
+      "number": "293.2175",
+      "heading": "Appointment",
+      "text": "of pupil as trainee: Qualifications; requirements; duties; compensation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293218",
+      "number": "293.218",
+      "heading": "Recommendations",
+      "text": "by chair of election board of persons for service on election board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293220",
+      "number": "293.220",
+      "heading": "Delivery",
+      "text": "of notice of appointment to officer or trainee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293223",
+      "number": "293.223",
+      "heading": "Notice",
+      "text": "of unwillingness to serve as officer or trainee; appointment of replacement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293225",
+      "number": "293.225",
+      "heading": "Continuing",
+      "text": "powers and duties of election boards; reserve officers of election board;\n\nprocedure for filling vacancies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293227",
+      "number": "293.227",
+      "heading": "Designation",
+      "text": "of chair; duties; restrictions upon participation of trainees; training; travel\n\nexpenses for training.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293247",
+      "number": "293.247",
+      "heading": "Regulations",
+      "text": "of Secretary of State for conduct of elections; interpretations; distribution\n\nof information to county and city clerks.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293250",
+      "number": "293.250",
+      "heading": "Secretary",
+      "text": "of State to prescribe procedures and requirements relating to certain\n\nelection-related computer systems and form of ballots and other\n\nelection-related documents; requirements for statewide measures and other\n\nprinted matter on ballots; authority of county clerks to divide paper ballots\n\nand prescribe color for ballots and voting receipts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2932502",
+      "number": "293.2502",
+      "heading": "Elections",
+      "text": "procedures manual: Requirements; submission to Legislative Commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2932504",
+      "number": "293.2504",
+      "heading": "Training",
+      "text": "course related to elections procedures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293252",
+      "number": "293.252",
+      "heading": "Appointment",
+      "text": "of committees to prepare arguments advocating and opposing approval of\n\nconstitutional amendments and statewide measures proposed by initiative or\n\nreferendum; duties of committees; Secretary of State required to reject\n\nlibelous or factually inaccurate statements; appeal; inapplicability of Open\n\nMeeting Law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293253",
+      "number": "293.253",
+      "heading": "Publication",
+      "text": "of certain statewide measures: Duties of Secretary of State and county clerk;\n\ncosts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2932543",
+      "number": "293.2543",
+      "heading": "Short",
+      "text": "title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2932546",
+      "number": "293.2546",
+      "heading": "Legislative",
+      "text": "declaration of voters� rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2932549",
+      "number": "293.2549",
+      "heading": "Duties",
+      "text": "of Secretary of State and of county and city clerks.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2932555",
+      "number": "293.2555",
+      "heading": "Privilege",
+      "text": "for political vote.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293256",
+      "number": "293.256",
+      "heading": "Names",
+      "text": "of candidates on ballots not to include title, designation of profession or\n\noccupation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2932565",
+      "number": "293.2565",
+      "heading": "Use",
+      "text": "of given names, surnames and nicknames on ballot; use of additional criteria to\n\ndistinguish between candidates having same given names and surnames.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293257",
+      "number": "293.257",
+      "heading": "Separate",
+      "text": "primary ballots; placement of candidates� names; designation on application to\n\nregister to vote of affiliation with major political party condition for\n\nregistered voter to cast ballot for party at primary election.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293260",
+      "number": "293.260",
+      "heading": "Declaration",
+      "text": "of nominees: Omission and appearance of names on primary and general ballot;\n\ncertain candidates declared elected at primary election; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293263",
+      "number": "293.263",
+      "heading": "Primary",
+      "text": "ballot for major political party: Form; names of candidates to be grouped\n\nalphabetically; exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293265",
+      "number": "293.265",
+      "heading": "Nonpartisan",
+      "text": "primary ballot: Form; names of candidates to be grouped alphabetically;\n\nexception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293267",
+      "number": "293.267",
+      "heading": "Ballot",
+      "text": "for general election: Form; names of candidates to be grouped alphabetically;\n\nexception; indication of party name, �no political party� or �nonpartisan� or\n\nabbreviations thereof; order of appearance of certain statewide measures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2932673",
+      "number": "293.2673",
+      "heading": "Ballot",
+      "text": "to indicate date of election and at which election ballot will be used.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293268",
+      "number": "293.268",
+      "heading": "Order",
+      "text": "of listing offices, candidates and questions on ballots.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293269",
+      "number": "293.269",
+      "heading": "Ballots",
+      "text": "for statewide offices or President and Vice President must permit voter to\n\nregister opposition to all candidates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2932693",
+      "number": "293.2693",
+      "heading": "Voter",
+      "text": "education program to be provided in county or city using paper ballots.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2932694",
+      "number": "293.2694",
+      "heading": "Contracts",
+      "text": "to purchase ballots; notification by county or city of election to use ballots\n\npurchased by Secretary of State; contract vendor required to deposit mail\n\nballots for mailing within this State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2932696",
+      "number": "293.2696",
+      "heading": "General",
+      "text": "requirements for voting systems; duties of Secretary of State and of county and\n\ncity clerks.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2932699",
+      "number": "293.2699",
+      "heading": "Voting",
+      "text": "systems used by counties and cities: Voting materials to be provided in English\n\nand other languages as required by federal law or as authorized by county or\n\ncity clerk.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293269905",
+      "number": "293.269905",
+      "heading": "Deadlines;",
+      "text": "requirements; facilitation of meetings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293269911",
+      "number": "293.269911",
+      "heading": "Preparation",
+      "text": "and distribution of mail ballots; exceptions; mail ballot contents; time for\n\ndistribution; mootness of untimely legal action which would prevent\n\ndistribution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293269913",
+      "number": "293.269913",
+      "heading": "Methods",
+      "text": "of distribution and other requirements for mail ballots and supporting\n\nmaterials; recordation of certain information by county clerk.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293269915",
+      "number": "293.269915",
+      "heading": "Requirements",
+      "text": "for mail ballots distributed to certain voters who have not previously voted in\n\nelection for federal office in Nevada; exceptions; treatment as provisional\n\nballot under certain circumstances. [Effective through December 31, 2024.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293269917",
+      "number": "293.269917",
+      "heading": "Procedure",
+      "text": "for voting by mail ballot; procedure for voting in person after mail ballot\n\nsent to voter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293269919",
+      "number": "293.269919",
+      "heading": "Unlawful",
+      "text": "to mark and sign mail ballot on behalf of voter or assist voter to mark and\n\nsign mail ballot; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293269921",
+      "number": "293.269921",
+      "heading": "Procedure",
+      "text": "for timely returning mail ballot; treatment of mail ballot when postmark cannot\n\nbe determined; requirements for ballot drop boxes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293269923",
+      "number": "293.269923",
+      "heading": "Persons",
+      "text": "authorized to return mail ballot; unlawful acts relating to return of mail\n\nballot; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293269925",
+      "number": "293.269925",
+      "heading": "Establishment",
+      "text": "of procedures for processing and counting mail ballots.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293269927",
+      "number": "293.269927",
+      "heading": "Duties",
+      "text": "of county clerk upon return of mail ballot: Procedure for checking signatures;\n\nsafeguarding and delivery of mail ballots for counting; procedure to contact\n\nvoter to remedy certain defects in returned mail ballot.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293269929",
+      "number": "293.269929",
+      "heading": "Appointment",
+      "text": "and membership of mail ballot central counting board; board under direction of\n\ncounty clerk.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293269931",
+      "number": "293.269931",
+      "heading": "Period",
+      "text": "for counting mail ballots; counting must be public; rejection of certain mail\n\nballots.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293269933",
+      "number": "293.269933",
+      "heading": "Process",
+      "text": "for counting mail ballots; requirements relating to empty envelopes and\n\nrejected mail ballots.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293269935",
+      "number": "293.269935",
+      "heading": "Certification",
+      "text": "and reporting of mail ballot results; secrecy of mail ballots; unlawful to\n\ndisseminate information about mail ballot results before polls close and all\n\nvotes cast on election day; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293269937",
+      "number": "293.269937",
+      "heading": "County",
+      "text": "clerk to test accuracy of electronic devices used to verify signatures on mail\n\nballots; daily audit required during processing of mail ballots.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293269951",
+      "number": "293.269951",
+      "heading": "Use",
+      "text": "of system of approved electronic transmission by certain persons to register to\n\nvote and apply for and cast ballot.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293269971",
+      "number": "293.269971",
+      "heading": "Establishment",
+      "text": "of policy to ensure certain persons may vote and register to vote in jail;\n\ncoordination between county clerk, city clerk and jail administrator; posting\n\nof elections information in county or city jail; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293269973",
+      "number": "293.269973",
+      "heading": "Responsibilities",
+      "text": "of jails.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293269975",
+      "number": "293.269975",
+      "heading": "Administrator",
+      "text": "of jail required to submit report of certain information to Secretary of State\n\nafter certain elections.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293270",
+      "number": "293.270",
+      "heading": "Voting",
+      "text": "by printed ballot or other approved or authorized system; write-in voting\n\nprohibited; exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293272",
+      "number": "293.272",
+      "heading": "Voting",
+      "text": "in person required at first election after valid registration for voter who\n\nregistered to vote by mail or computer; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2932725",
+      "number": "293.2725",
+      "heading": "Person",
+      "text": "who registers to vote at Department of Motor Vehicles or registers or\n\npreregisters to vote by mail or computer and has not previously voted in\n\nelection for federal office in Nevada: Prerequisites to voting at polling place\n\nand to voting by mail; applicability of section; exceptions. [Effective through\n\nDecember 31, 2024.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293273",
+      "number": "293.273",
+      "heading": "Time",
+      "text": "for opening and closing polls; duties of election board officers; persons\n\npermitted inside certain areas of polls.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2932731",
+      "number": "293.2731",
+      "heading": "Establishment",
+      "text": "of polling places.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2932733",
+      "number": "293.2733",
+      "heading": "Establishment",
+      "text": "of polling places and ballot drop boxes within Indian reservation or colony.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2932735",
+      "number": "293.2735",
+      "heading": "Establishment",
+      "text": "of polling place for precinct in residential development exclusively for\n\nelderly persons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2932738",
+      "number": "293.2738",
+      "heading": "Polling",
+      "text": "place not to be established in any building named for candidate appearing on\n\nballot.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293274",
+      "number": "293.274",
+      "heading": "Members",
+      "text": "of general public allowed to observe conduct of voting at polling place;\n\nphotographing or otherwise recording conduct of voting by members of general\n\npublic prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293275",
+      "number": "293.275",
+      "heading": "Possession",
+      "text": "of certain rosters by election board required for performance of board�s\n\nduties; required tests of electronic rosters before election.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293277",
+      "number": "293.277",
+      "heading": "Conditions",
+      "text": "for entitlement of person to vote; forms of identification to identify\n\nregistered voter; county clerk to prescribe verification procedure. [Effective\n\nthrough December 31, 2024.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293283",
+      "number": "293.283",
+      "heading": "Identification",
+      "text": "of registered voter who is unable to sign name.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293285",
+      "number": "293.285",
+      "heading": "Procedure",
+      "text": "for taking registered voter�s signature. [Effective through December 31, 2024.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293287",
+      "number": "293.287",
+      "heading": "Announcement",
+      "text": "of name and political affiliation of registered voter; challenges; nonpartisan\n\nballot at primary election.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2932955",
+      "number": "293.2955",
+      "heading": "Accessibility",
+      "text": "of polling place, ballot and election materials to persons who are elderly and\n\nto persons with disabilities; particular requirements regarding voting booths\n\nand waiting lines; alternative placement of specially equipped voting devices\n\nat centralized locations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293296",
+      "number": "293.296",
+      "heading": "Assistance",
+      "text": "to voter who is physically disabled or unable to read or write English.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293297",
+      "number": "293.297",
+      "heading": "Change",
+      "text": "of vote on certain mechanical recording devices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293301",
+      "number": "293.301",
+      "heading": "Procedure",
+      "text": "for posting or publishing alphabetical listing of registered voters; tearing or\n\ndefacing alphabetical listing prohibited; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293302",
+      "number": "293.302",
+      "heading": "Posting",
+      "text": "of notice of death of candidate at polling place.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933025",
+      "number": "293.3025",
+      "heading": "Posting",
+      "text": "of copies of certain other information and documents at polling place.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293303",
+      "number": "293.303",
+      "heading": "Challenges.",
+      "text": "Challenges.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933035",
+      "number": "293.3035",
+      "heading": "Notice",
+      "text": "of result of challenge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293304",
+      "number": "293.304",
+      "heading": "Voting",
+      "text": "by person successfully challenged on grounds of residency.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293305",
+      "number": "293.305",
+      "heading": "Closing",
+      "text": "of polls; admission of voters and other persons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293307",
+      "number": "293.307",
+      "heading": "Duties",
+      "text": "of voting board before adjournment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933072",
+      "number": "293.3072",
+      "heading": "Establishment",
+      "text": "of polling places as vote centers where eligible voters in county may vote on\n\nelection day.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933073",
+      "number": "293.3073",
+      "heading": "Requirements",
+      "text": "for providing notice of locations of vote centers; exceptions; limitations on\n\nestablishing additional vote centers after such notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933074",
+      "number": "293.3074",
+      "heading": "Requirements",
+      "text": "for preparing and delivering rosters for vote centers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933075",
+      "number": "293.3075",
+      "heading": "Requirements",
+      "text": "for casting ballots at vote centers. [Effective through December 31, 2024.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933078",
+      "number": "293.3078",
+      "heading": "Provisional",
+      "text": "ballot� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933079",
+      "number": "293.3079",
+      "heading": "Provisional",
+      "text": "ballot must include all offices, candidates and measures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933081",
+      "number": "293.3081",
+      "heading": "Casting",
+      "text": "of provisional ballot: General conditions; declaration or application.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933082",
+      "number": "293.3082",
+      "heading": "Casting",
+      "text": "of provisional ballot: Specific prerequisites; completion of written\n\naffirmation; contents of affirmation; provision of receipt; notation on roster.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933083",
+      "number": "293.3083",
+      "heading": "Casting",
+      "text": "of ballot by mail; treatment as provisional ballot under certain circumstances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933084",
+      "number": "293.3084",
+      "heading": "County",
+      "text": "and city clerks to establish certain procedures relating to provisional ballots.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933085",
+      "number": "293.3085",
+      "heading": "Canvass",
+      "text": "and counting of provisional ballots.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933086",
+      "number": "293.3086",
+      "heading": "Free",
+      "text": "access system to provide information to voter casting provisional ballot.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293356",
+      "number": "293.356",
+      "heading": "Issuance",
+      "text": "of ballot; location at which ballot must be voted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933561",
+      "number": "293.3561",
+      "heading": "County",
+      "text": "clerk to establish criteria for selection of permanent and temporary polling\n\nplaces for early voting by personal appearance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933564",
+      "number": "293.3564",
+      "heading": "Establishment",
+      "text": "of permanent polling places for early voting; eligible voters may vote by\n\npersonal appearance at any polling place for early voting.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933568",
+      "number": "293.3568",
+      "heading": "Period",
+      "text": "for early voting; days and hours for early voting at permanent polling places.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933572",
+      "number": "293.3572",
+      "heading": "Establishment",
+      "text": "of temporary branch polling places for early voting and ballot drop boxes;\n\nestablishment within Indian reservation or colony; days and hours for early\n\nvoting; legal rights and remedies of property owners or lessors not affected by\n\npresence of such polling places.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933575",
+      "number": "293.3575",
+      "heading": "Establishment",
+      "text": "of polling places for early voters.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933576",
+      "number": "293.3576",
+      "heading": "Schedule",
+      "text": "of locations and days and hours for early voting; limitations on establishment\n\nof additional locations; extension of hours after publication of schedule.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293358",
+      "number": "293.358",
+      "heading": "Appointment",
+      "text": "of deputy clerks.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933583",
+      "number": "293.3583",
+      "heading": "Mechanical",
+      "text": "recording devices: Preparation before polls open each day.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933585",
+      "number": "293.3585",
+      "heading": "Procedure",
+      "text": "for early voting. [Effective through December 31, 2024.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933594",
+      "number": "293.3594",
+      "heading": "Security",
+      "text": "precautions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933604",
+      "number": "293.3604",
+      "heading": "Mechanical",
+      "text": "recording devices: Duties of election board at close of each voting day; duties\n\nof ballot board for early voting and county clerk at close of last voting day.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933606",
+      "number": "293.3606",
+      "heading": "Returns;",
+      "text": "secrecy of ballots; disseminating information about count of returns before\n\npolls close prohibited; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933608",
+      "number": "293.3608",
+      "heading": "County",
+      "text": "clerk to ensure that mechanical recording devices used for early voting provide\n\nrecord of number of votes; delivery of records and storage devices to central\n\ncounting place.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293361",
+      "number": "293.361",
+      "heading": "Electioneering",
+      "text": "prohibited near polling place or jail during certain periods; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933625",
+      "number": "293.3625",
+      "heading": "Record",
+      "text": "made by county clerk of receipt at central counting place of sealed container\n\nused to transport official ballots.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293363",
+      "number": "293.363",
+      "heading": "Preparation",
+      "text": "by counting board to count ballots; counting must be public and continue until\n\ncompleted; requirements for counting paper ballots; rejection of certain\n\nballots; record of discrepancies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293365",
+      "number": "293.365",
+      "heading": "Accounting",
+      "text": "for all paper ballots before counting of votes begins.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293367",
+      "number": "293.367",
+      "heading": "Standards",
+      "text": "for rejecting ballots for appearance of tampering; regulations for counting\n\nballots.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2933677",
+      "number": "293.3677",
+      "heading": "Standards",
+      "text": "for counting votes; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293368",
+      "number": "293.368",
+      "heading": "Counting",
+      "text": "of votes cast for deceased candidate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293370",
+      "number": "293.370",
+      "heading": "Procedure",
+      "text": "for completion of tally lists.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293373",
+      "number": "293.373",
+      "heading": "Duties",
+      "text": "of officers of counting board after ballots counted if paper ballots used.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293383",
+      "number": "293.383",
+      "heading": "Posting",
+      "text": "of copies of result of votes cast.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293387",
+      "number": "293.387",
+      "heading": "Canvass",
+      "text": "of returns; abstract of votes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293388",
+      "number": "293.388",
+      "heading": "Abstract",
+      "text": "of votes: Transmission to public libraries or posting upon website.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293389",
+      "number": "293.389",
+      "heading": "Inclusion",
+      "text": "of inactive voters in reports of votes prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293391",
+      "number": "293.391",
+      "heading": "Disposition",
+      "text": "and inspection of ballots, lists, records and stubs of voted ballots after\n\ncanvass by county commissioners.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293393",
+      "number": "293.393",
+      "heading": "Preparation",
+      "text": "of abstracts of votes cast at general election or certain other elections;\n\npreparation and delivery of certificates of election for certain offices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293394",
+      "number": "293.394",
+      "heading": "Risk-limiting",
+      "text": "audits of election results; regulations; audits by county clerks required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293395",
+      "number": "293.395",
+      "heading": "Transmission",
+      "text": "of copy of certified abstract of votes and mechanized report to Secretary of\n\nState; canvass of vote by justices of Supreme Court; Governor to grant\n\ncertificates of election and issue proclamations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293397",
+      "number": "293.397",
+      "heading": "Prohibitions",
+      "text": "against withholding certificate of election or commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293400",
+      "number": "293.400",
+      "heading": "Tie",
+      "text": "vote: Determination of winner in certain elections; determination of nominees\n\nin certain primary elections; right to recount.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293403",
+      "number": "293.403",
+      "heading": "Recount",
+      "text": "of vote: Demand; advance deposit of costs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293404",
+      "number": "293.404",
+      "heading": "Employment",
+      "text": "and duties of recount board; persons present; procedures for recount of\n\nballots; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293405",
+      "number": "293.405",
+      "heading": "Costs",
+      "text": "of recount; commencement and completion of recount; limitation on additional\n\nrecount.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293407",
+      "number": "293.407",
+      "heading": "Filing",
+      "text": "of written statement of contest with clerk of district court; verification;\n\nnotification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293410",
+      "number": "293.410",
+      "heading": "Statement",
+      "text": "of contest must not be dismissed for deficiencies of form; grounds for contest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293413",
+      "number": "293.413",
+      "heading": "Time",
+      "text": "for filing statement of contest; precedence of election contest; referral to\n\nspecial master.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293415",
+      "number": "293.415",
+      "heading": "Depositions",
+      "text": "in election contests; trial and submission of matter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293417",
+      "number": "293.417",
+      "heading": "Judgment",
+      "text": "of court in election contest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293420",
+      "number": "293.420",
+      "heading": "Court",
+      "text": "costs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293423",
+      "number": "293.423",
+      "heading": "Recount",
+      "text": "of ballots at hearing of contest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293424",
+      "number": "293.424",
+      "heading": "Requirements",
+      "text": "applicable to recount and contest of election to office of presidential\n\nelector.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293425",
+      "number": "293.425",
+      "heading": "Contest",
+      "text": "of general election for office of State Legislator: Statement of contest and\n\nother documents and materials to be filed with Secretary of State; notification\n\nof defendant; ability of contestant to amend statement of contest; list of\n\nwitnesses; depositions, investigation and presentation of evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293427",
+      "number": "293.427",
+      "heading": "Contest",
+      "text": "of general election for office of State Legislator: Seating of candidate with\n\nhighest number of votes; withdrawal of statement of contest; hearing and\n\ndeciding of contest by appropriate house of Legislature; certificates of\n\nelection; remedy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293430",
+      "number": "293.430",
+      "heading": "Contest",
+      "text": "of general election for office of Governor, Lieutenant Governor, justice of\n\nSupreme Court or judge of Court of Appeals: Filing of documents and other\n\nevidence with Secretary of State; notification of defendant; seating of\n\ncandidate; duties of Secretary of State and Legislature; withdrawal of contest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293433",
+      "number": "293.433",
+      "heading": "Decision",
+      "text": "of contest for office of Governor, Lieutenant Governor or justice of Supreme\n\nCourt by Senate and Assembly in joint session.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293435",
+      "number": "293.435",
+      "heading": "Certificate",
+      "text": "of election delivered after decision.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293437",
+      "number": "293.437",
+      "heading": "Designation",
+      "text": "of locations for polling places; payment of expenses for renting privately\n\nowned locations; legal rights and remedies of property owners or lessors not\n\naffected by presence of polling places at such locations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293440",
+      "number": "293.440",
+      "heading": "Lists",
+      "text": "of registered voters in precinct, district or county: Distribution of copies;\n\ncontents; limitation on printing costs; request for and use by committees of\n\npolitical parties; fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293442",
+      "number": "293.442",
+      "heading": "Election",
+      "text": "Account: Creation; deposit of money in Account; disposition of interest and\n\nincome; authority of Secretary of State to disburse, expend and receive money;\n\npayment of claims.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293443",
+      "number": "293.443",
+      "heading": "Responsibility",
+      "text": "for payment of election expenses; competitive bidding for printing of ballots;\n\nauthority to charge for costs of printing certain applications to register to\n\nvote.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293445",
+      "number": "293.445",
+      "heading": "Expenses",
+      "text": "for assistants to county or city clerk.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293446",
+      "number": "293.446",
+      "heading": "Compensation",
+      "text": "of officer of election board for delivery of election returns to county or city\n\nclerk.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293460",
+      "number": "293.460",
+      "heading": "Compensation",
+      "text": "of officers of election board, deputy sheriffs and other employees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293462",
+      "number": "293.462",
+      "heading": "Construction",
+      "text": "of containers used to transport official ballots.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293463",
+      "number": "293.463",
+      "heading": "Employees",
+      "text": "may absent themselves from employment to vote: Procedure; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293464",
+      "number": "293.464",
+      "heading": "Court-ordered",
+      "text": "extension of deadline for voting.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293465",
+      "number": "293.465",
+      "heading": "Loss",
+      "text": "or destruction of ballots, or other cause, preventing election in precinct or\n\ndistrict; new election.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293468",
+      "number": "293.468",
+      "heading": "Secretary",
+      "text": "of State to provide election materials in usable format for persons who are\n\nelderly or disabled.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2934685",
+      "number": "293.4685",
+      "heading": "Certain",
+      "text": "additional duties of Secretary of State; county and city clerks to provide\n\ninformation requested by Secretary of State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2934687",
+      "number": "293.4687",
+      "heading": "Website",
+      "text": "maintained by Secretary of State for public information relating to elections;\n\nrequirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2934688",
+      "number": "293.4688",
+      "heading": "Access",
+      "text": "by mobile device to website maintained by Secretary of State; use of mobile\n\ndevice to submit information or forms.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2934689",
+      "number": "293.4689",
+      "heading": "Website",
+      "text": "maintained by county clerk for public information relating to elections;\n\nrequirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293469",
+      "number": "293.469",
+      "heading": "County",
+      "text": "clerks encouraged to provide election information and materials in usable\n\nformat for persons who are elderly or disabled.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2934695",
+      "number": "293.4695",
+      "heading": "County",
+      "text": "clerks required to collect and report certain information concerning election\n\nprocesses; Secretary of State to solicit and collect voter comments regarding\n\nelection processes; report to Legislature.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293471",
+      "number": "293.471",
+      "heading": "Address",
+      "text": "of business that receives or distributes mail to be provided to county clerk.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293480",
+      "number": "293.480",
+      "heading": "Limitation",
+      "text": "on inspection of ballots after return to county or city clerk.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293481",
+      "number": "293.481",
+      "heading": "Governing",
+      "text": "body of political subdivision, public or quasi-public corporation, or other\n\nlocal agency submitting question to voters required to submit certain documents\n\nand information to county and city clerks; fee to cover cost of placing\n\nquestion and associated information on ballot.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2934815",
+      "number": "293.4815",
+      "heading": "Transmission",
+      "text": "of question to be presented to voters to Secretary of State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293484",
+      "number": "293.484",
+      "heading": "Contents",
+      "text": "of voter registration cards; issuance of card is not prerequisite to vote.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293485",
+      "number": "293.485",
+      "heading": "Qualifications",
+      "text": "to vote: Citizenship; age; residence; registration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2934855",
+      "number": "293.4855",
+      "heading": "Qualifications",
+      "text": "and procedures for certain minors to preregister to vote; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293486",
+      "number": "293.486",
+      "heading": "Determination",
+      "text": "of actual residence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293487",
+      "number": "293.487",
+      "heading": "When",
+      "text": "residence not gained or lost.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293490",
+      "number": "293.490",
+      "heading": "Residence",
+      "text": "not lost upon removal from county or precinct.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293493",
+      "number": "293.493",
+      "heading": "Loss",
+      "text": "of residence upon removal to another state, territory or foreign country.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293495",
+      "number": "293.495",
+      "heading": "Presumption",
+      "text": "of intention to abandon residence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293497",
+      "number": "293.497",
+      "heading": "Residence",
+      "text": "of head of family.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293500",
+      "number": "293.500",
+      "heading": "Loss",
+      "text": "of residence upon removal from State with intention to remain elsewhere for\n\nindefinite time.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935002",
+      "number": "293.5002",
+      "heading": "Procedures",
+      "text": "applicable to certain persons issued fictitious address.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293502",
+      "number": "293.502",
+      "heading": "Procedures",
+      "text": "applicable to certain persons recently discharged from Armed Forces or\n\nseparated from employment outside of the United States and their spouses and\n\ndependents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293503",
+      "number": "293.503",
+      "heading": "County",
+      "text": "clerk is ex officio county registrar; custody of documents relating to\n\npreregistration or registration; official records of office of county clerk;\n\nmaintenance of records; time limitation on program to remove names of\n\nineligible persons; availability of records for public inspection; confidential\n\ninformation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935035",
+      "number": "293.5035",
+      "heading": "Designation",
+      "text": "by county clerk of building owned or leased by county as county facility at\n\nwhich persons may preregister or register to vote.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293504",
+      "number": "293.504",
+      "heading": "Voter",
+      "text": "registration agencies: Creation; duties; duty of Secretary of State to\n\ncooperate with Secretary of Defense to allow persons to preregister or register\n\nat military recruitment offices. [Effective through December 31, 2024.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935045",
+      "number": "293.5045",
+      "heading": "Voter",
+      "text": "registration agencies: Prohibited acts; penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293505",
+      "number": "293.505",
+      "heading": "Appointment,",
+      "text": "powers and duties relating to field registrars; prohibited acts relating to\n\npreregistration and registration; penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935055",
+      "number": "293.5055",
+      "heading": "County",
+      "text": "clerk or field registrar authorized to preregister or register residents of\n\ncounty outside boundaries of county.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935057",
+      "number": "293.5057",
+      "heading": "Nonresidents",
+      "text": "may preregister or register to vote for office of President and Vice President\n\nunder certain circumstances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293506",
+      "number": "293.506",
+      "heading": "County",
+      "text": "clerk required to accept applications for preregistration and registration\n\nsubmitted by computer to Secretary of State; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293507",
+      "number": "293.507",
+      "heading": "Applications:",
+      "text": "Forms; distribution; contents; requirements regarding identification and\n\nresidence; use of affidavits and identification numbers under certain\n\ncircumstances; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293508",
+      "number": "293.508",
+      "heading": "Applications:",
+      "text": "Forms must include option to receive sample ballot in larger type.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293509",
+      "number": "293.509",
+      "heading": "Applications:",
+      "text": "County clerk authorized to provide forms to persons upon request; requirements\n\nfor request; records to be kept by county clerk in response to request.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293510",
+      "number": "293.510",
+      "heading": "Applications:",
+      "text": "County clerk required to use database created by Secretary of State to prepare\n\nrosters; applications for preregistration required to be kept separate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293511",
+      "number": "293.511",
+      "heading": "Register",
+      "text": "or roster kept by computer to include certain information. [Repealed.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293513",
+      "number": "293.513",
+      "heading": "Elector",
+      "text": "may register for other elections despite closing of registration for impending\n\nelection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293517",
+      "number": "293.517",
+      "heading": "Authorized",
+      "text": "methods of preregistration and registration; requirements for application;\n\nchange of name; issuance of voter registration card; objection to application\n\nby county clerk under certain circumstances. [Effective through December 31,\n\n2024.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293518",
+      "number": "293.518",
+      "heading": "Persons",
+      "text": "must indicate affiliation or nonaffiliation with political party at time of\n\npreregistration or registration; circumstances when party listed as\n\n�nonpartisan�; duties of county clerk or field registrar of voters. [Effective\n\nthrough December 31, 2024.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293520",
+      "number": "293.520",
+      "heading": "Preregistration,",
+      "text": "registration and reregistration of persons who are unable to sign name.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293523",
+      "number": "293.523",
+      "heading": "Preregistration",
+      "text": "and registration of naturalized citizens.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935235",
+      "number": "293.5235",
+      "heading": "Requirements",
+      "text": "relating to preregistration and registration by mail or computer; exceptions;\n\ncorrection of information in applications; procedure for incomplete\n\napplications; required notices; prohibited acts; penalties; regulations.\n\n[Effective through December 31, 2024.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935237",
+      "number": "293.5237",
+      "heading": "Preregistration",
+      "text": "and registration at home by field registrar.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293525",
+      "number": "293.525",
+      "heading": "Vote",
+      "text": "after residence changed but registration not transferred; affirmation by\n\nelector; use of information regarding current address to correct statewide\n\nvoter registration list and roster.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293527",
+      "number": "293.527",
+      "heading": "County",
+      "text": "clerk required to update preregistration or registration when person moves to\n\nanother county.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293530",
+      "number": "293.530",
+      "heading": "Authority",
+      "text": "of county clerk to correct statewide voter registration list, determine whether\n\nresidence is accurate and make investigations of registration; duty of county\n\nclerk to cancel registration under certain circumstances, maintain records\n\nregarding notices of cancellation and designate voter as inactive; regulations;\n\nrequired notices after certain changes to statewide voter registration list.\n\n[Effective through December 31, 2024.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935303",
+      "number": "293.5303",
+      "heading": "Data",
+      "text": "concerning change of address of registered voter: Agreement with United States\n\nPostal Service or other authorized person for use of data by county clerk.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935307",
+      "number": "293.5307",
+      "heading": "Data",
+      "text": "concerning change of address of registered voter: Identification of registered\n\nvoter who has moved; notices to registered voter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293533",
+      "number": "293.533",
+      "heading": "Action",
+      "text": "to compel registration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293535",
+      "number": "293.535",
+      "heading": "Challenges",
+      "text": "alleging that registered voter is not citizen of United States or has abandoned\n\nresidence in county; notice to registrant; procedure; cancellation; other\n\nchallenges not precluded.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293537",
+      "number": "293.537",
+      "heading": "Handling",
+      "text": "of applications of persons who have cancelled their preregistration or\n\nregistration; reinstatement of such applications cancelled erroneously;\n\npreservation and destruction of such applications.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293540",
+      "number": "293.540",
+      "heading": "Circumstances",
+      "text": "in which county clerk is required to cancel preregistration or registration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293541",
+      "number": "293.541",
+      "heading": "Additional",
+      "text": "circumstances in which county clerk is required to cancel preregistration or\n\nregistration; notice; exception to notice requirement if insufficient time\n\nexists before election; voting after execution of affidavit of cancellation;\n\nseparation of ballots.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935415",
+      "number": "293.5415",
+      "heading": "Circumstances",
+      "text": "in which certain persons adjudicated mentally incompetent declared ineligible\n\nto vote; certain judicial findings required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293542",
+      "number": "293.542",
+      "heading": "Duty",
+      "text": "of court to provide notification of judicial findings that certain persons lack\n\nmental capacity to vote.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293543",
+      "number": "293.543",
+      "heading": "Reregistration",
+      "text": "of certain persons after cancellation of registration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293547",
+      "number": "293.547",
+      "heading": "Written",
+      "text": "challenges.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293548",
+      "number": "293.548",
+      "heading": "Withdrawal",
+      "text": "of written challenge or affidavit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293550",
+      "number": "293.550",
+      "heading": "Registration",
+      "text": "of certain persons enlisted or inducted into Armed Forces of the United States:\n\nAppearance before county clerk or field registrar.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293553",
+      "number": "293.553",
+      "heading": "Registration",
+      "text": "of certain persons in service of United States or attending school.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293555",
+      "number": "293.555",
+      "heading": "Registration",
+      "text": "of spouse or dependent of certain persons in service of United States.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293557",
+      "number": "293.557",
+      "heading": "Publication",
+      "text": "of list of registered voters.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293558",
+      "number": "293.558",
+      "heading": "Disclosure",
+      "text": "of identification numbers to public; county or city clerk prohibited from\n\ndisclosing certain information; registered voter may request that address and\n\ntelephone number be withheld from public.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293560",
+      "number": "293.560",
+      "heading": "Close",
+      "text": "of registration; publication of day and time that each method of registration\n\ncloses; offices of county clerk, certain county facilities and ex officio\n\nregistrars allowed to be open on last Friday of October in even-numbered years;\n\nhours of operation for county facility for voter registration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293562",
+      "number": "293.562",
+      "heading": "Notices",
+      "text": "from nongovernmental entities must indicate that such notices are not official\n\nelections mail.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293563",
+      "number": "293.563",
+      "heading": "Preparation",
+      "text": "and delivery of rosters to polling place.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293565",
+      "number": "293.565",
+      "heading": "Sample",
+      "text": "ballots: Inclusion and exclusion of certain matters; distribution; exceptions;\n\nrequired notices; form and type size; cost of distributing responsibility of\n\npolitical subdivision for certain elections.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293567",
+      "number": "293.567",
+      "heading": "Number",
+      "text": "of registered voters in county to be transmitted by county clerk to Secretary\n\nof State before certain elections.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935727",
+      "number": "293.5727",
+      "heading": "Preregistration",
+      "text": "and registration by paper application as part of certain transactions with\n\nDepartment; procedure for incomplete application; use of forms submitted to\n\nDepartment to correct previous preregistration or registration; regulations.\n\n[Effective through December 31, 2024.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935732",
+      "number": "293.5732",
+      "heading": "Establishment",
+      "text": "of system for electronic transmission of voter registration information as part\n\nof certain transactions with Department; requirements for system. [Effective\n\nthrough December 31, 2024.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935737",
+      "number": "293.5737",
+      "heading": "Procedures",
+      "text": "for notifying persons regarding transmission of information; required\n\ndisclosures; regulations. [Effective through December 31, 2024.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935742",
+      "number": "293.5742",
+      "heading": "Procedures",
+      "text": "for collecting information; use of certain affidavits; issuance of certain\n\nidentification numbers. [Effective through December 31, 2024.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935747",
+      "number": "293.5747",
+      "heading": "Timeline",
+      "text": "for transmission of information to database created by Secretary of State;\n\ndestruction of certain records after transmission; timeline for forwarding\n\ncertain paper documents to database. [Effective through December 31, 2024.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935752",
+      "number": "293.5752",
+      "heading": "Persons",
+      "text": "deemed applicants to register to vote unless they affirmatively decline in\n\nwriting; duties of county clerks upon receipt of information; use of certain\n\nsignatures. [Effective through December 31, 2024.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935757",
+      "number": "293.5757",
+      "heading": "Persons",
+      "text": "may use paper applications; actions of persons regarding voter registration\n\nmust not affect services or assistance provided by Department; confidentiality\n\nand limitations on use of certain information; prohibition against requiring\n\ncertain documentation; regulations. [Effective through December 31, 2024.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935762",
+      "number": "293.5762",
+      "heading": "Duties",
+      "text": "of Department in administering electronic transmission of voter registration\n\ninformation; use of paper forms and secured containers; collection and\n\ntransmission of information to database created by Secretary of State;\n\nregulations. [Effective through December 31, 2024.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935767",
+      "number": "293.5767",
+      "heading": "Review",
+      "text": "of information by county clerks to determine eligibility to register to vote;\n\neffect of determination of ineligibility. [Effective through December 31,\n\n2024.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935768",
+      "number": "293.5768",
+      "heading": "Automatic",
+      "text": "voter registration agencies; transactions which qualify for automatic voter\n\nregistration; limitations on request and transmission of certain information.\n\n[Effective January 1, 2025.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-29357682",
+      "number": "293.57682",
+      "heading": "Designation",
+      "text": "of other agencies in Executive Department of State Government as automatic\n\nvoter registration agencies by Governor; notification. [Effective January 1,\n\n2025.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-29357684",
+      "number": "293.57684",
+      "heading": "Designation",
+      "text": "of agency of Indian tribe as automatic voter registration agency under certain\n\ncircumstances. [Effective January 1, 2025.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-29357686",
+      "number": "293.57686",
+      "heading": "Establishment",
+      "text": "of system for electronic transmission of voter registration information;\n\nrequirements for system. [Effective January 1, 2025.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-29357688",
+      "number": "293.57688",
+      "heading": "Requirement",
+      "text": "for automatic voter registration agency to transmit certain information to\n\ndatabase created by Secretary of State; timeline for transmission. [Effective\n\nJanuary 1, 2025.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-29357691",
+      "number": "293.57691",
+      "heading": "Procedure",
+      "text": "upon receipt of voter registration information from automatic voter\n\nregistration agency without electronic facsimile of voter signature;\n\naffirmation required for certain persons. [Effective January 1, 2025.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-29357693",
+      "number": "293.57693",
+      "heading": "Procedure",
+      "text": "upon transmission of information by automatic voter registration agency; review\n\nof information by county clerks to determine eligibility to register to vote;\n\nnotification; effect of determination of ineligibility. [Effective January 1,\n\n2025.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-29357695",
+      "number": "293.57695",
+      "heading": "Date",
+      "text": "person is deemed registered to vote; county clerk to correct statewide voter\n\nregistration list if necessary. [Effective January 1, 2025.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-29357697",
+      "number": "293.57697",
+      "heading": "Procedure",
+      "text": "for persons ineligible for automatic voter registration; eligibility of persons\n\nregarding voter registration must not affect services or assistance provided by\n\nautomatic voter registration agency; confidentiality and limitations on use of\n\ncertain information. [Effective January 1, 2025.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-29357699",
+      "number": "293.57699",
+      "heading": "Regulations.",
+      "text": "[Effective January 1, 2025.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935772",
+      "number": "293.5772",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935777",
+      "number": "293.5777",
+      "heading": "Election�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935782",
+      "number": "293.5782",
+      "heading": "Final",
+      "text": "verification� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935787",
+      "number": "293.5787",
+      "heading": "Polling",
+      "text": "place for early voting� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935792",
+      "number": "293.5792",
+      "heading": "Provisional",
+      "text": "ballot� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935812",
+      "number": "293.5812",
+      "heading": "Applicability",
+      "text": "of other election laws; resolution of conflicts; rules of interpretation;\n\nintended public purpose.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935817",
+      "number": "293.5817",
+      "heading": "Applicability",
+      "text": "to city elections; preemption of conflicting city charters; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935832",
+      "number": "293.5832",
+      "heading": "Methods",
+      "text": "and procedures for updating voter registration information during certain\n\nperiods; casting of provisional ballot under certain circumstances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935837",
+      "number": "293.5837",
+      "heading": "Methods",
+      "text": "and procedures for registering by computer during certain periods and appearing\n\nin person to vote at polling place for early voting or on election day; casting\n\nof provisional ballot under certain circumstances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935842",
+      "number": "293.5842",
+      "heading": "Methods",
+      "text": "and procedures for registering and voting in person at polling place for early\n\nvoting; casting of provisional ballot under certain circumstances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935847",
+      "number": "293.5847",
+      "heading": "Methods",
+      "text": "and procedures for registering and voting in person at polling place on\n\nelection day; casting of provisional ballot.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935852",
+      "number": "293.5852",
+      "heading": "Provisional",
+      "text": "ballot must include all offices, candidates and measures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935872",
+      "number": "293.5872",
+      "heading": "Procedures",
+      "text": "for final verification of qualifications to register and vote in election;\n\nprocedures for handling provisional ballots until final verification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935877",
+      "number": "293.5877",
+      "heading": "Canvass",
+      "text": "and counting of provisional ballots; requirements and restrictions on reporting\n\nresults involving provisional ballots.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935882",
+      "number": "293.5882",
+      "heading": "Free",
+      "text": "access system to provide information to certain voters regarding counting of\n\nprovisional ballots.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2935887",
+      "number": "293.5887",
+      "heading": "Issuance",
+      "text": "of voter registration card after final verification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293671",
+      "number": "293.671",
+      "heading": "Establishment",
+      "text": "of statewide voter preregistration and registration system; duties of Secretary\n\nof State; requirements for system; disclosures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293675",
+      "number": "293.675",
+      "heading": "Establishment",
+      "text": "and maintenance of centralized database of voter registration information;\n\ncreation of statewide voter registration list; duties of Secretary of State;\n\nrequirements for list; duties of county and city clerks and Department of Motor\n\nVehicles; verification of information with Social Security Administration;\n\nagreements with state agencies to provide information necessary for list;\n\nexchange of information with chief election officers of other states.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293700",
+      "number": "293.700",
+      "heading": "Bribery",
+      "text": "of elector.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293705",
+      "number": "293.705",
+      "heading": "Unlawful",
+      "text": "acts concerning elections officials.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293710",
+      "number": "293.710",
+      "heading": "Intimidation",
+      "text": "of voters and other unlawful acts in connection with election process.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293720",
+      "number": "293.720",
+      "heading": "Suppression",
+      "text": "of or failure to file nomination paper by public officer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293730",
+      "number": "293.730",
+      "heading": "Unlawful",
+      "text": "interference with conduct of election; unlawful acts relating to certain\n\nballots; unlawful acts inside polling place.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293740",
+      "number": "293.740",
+      "heading": "Soliciting",
+      "text": "votes and electioneering inside certain places or within certain distance from\n\ncertain places prohibited; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293750",
+      "number": "293.750",
+      "heading": "Removal",
+      "text": "or destruction of election supplies or equipment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293755",
+      "number": "293.755",
+      "heading": "Tampering",
+      "text": "or interfering with certain election equipment or computer programs used to\n\nconduct election; report of violation to district attorney.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293760",
+      "number": "293.760",
+      "heading": "Alteration,",
+      "text": "defacement or removal of posted results of votes cast.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293770",
+      "number": "293.770",
+      "heading": "Refusal",
+      "text": "of person sworn by election board to answer questions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293775",
+      "number": "293.775",
+      "heading": "Voting",
+      "text": "by person who knows he or she is not qualified elector; voting using name of\n\nanother person.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293780",
+      "number": "293.780",
+      "heading": "Voting",
+      "text": "more than once at same election.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293790",
+      "number": "293.790",
+      "heading": "Offer",
+      "text": "to vote by person whose vote has been rejected.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293800",
+      "number": "293.800",
+      "heading": "Unlawful",
+      "text": "acts concerning registration of voters; violations of laws governing elections;\n\ncrimes by public officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293805",
+      "number": "293.805",
+      "heading": "Unlawful",
+      "text": "to pay compensation based upon total number of persons preregistered or registered\n\nor total number preregistered or registered in particular political party.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293810",
+      "number": "293.810",
+      "heading": "Preregistration",
+      "text": "or registration in more than one county at one time.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293820",
+      "number": "293.820",
+      "heading": "Solicitation",
+      "text": "of contribution for political organization without prior approval or charter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293830",
+      "number": "293.830",
+      "heading": "Betting",
+      "text": "on election.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293840",
+      "number": "293.840",
+      "heading": "Civil",
+      "text": "penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293870",
+      "number": "293.870",
+      "heading": "Confidentiality",
+      "text": "of records relating to security of information systems used for elections;\n\nlimitations on disclosure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293875",
+      "number": "293.875",
+      "heading": "Training",
+      "text": "on cybersecurity required for local election officials; notification of\n\nSecretary of State of attacks on security of information systems used by such\n\nofficials.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293877",
+      "number": "293.877",
+      "heading": "Training",
+      "text": "on forensic signature verification required for local election officials.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293900",
+      "number": "293.900",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293902",
+      "number": "293.902",
+      "heading": "Confidential",
+      "text": "information� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293904",
+      "number": "293.904",
+      "heading": "Personal",
+      "text": "information� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293906",
+      "number": "293.906",
+      "heading": "Court",
+      "text": "order required to request confidentiality of certain personal information;\n\nduties of Secretary of State or county or city clerk.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293908",
+      "number": "293.908",
+      "heading": "Certain",
+      "text": "persons who may request personal information to be kept confidential.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293909",
+      "number": "293.909",
+      "heading": "Additional",
+      "text": "circumstances in which certain persons may petition to have personal\n\ninformation kept confidential.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293910",
+      "number": "293.910",
+      "heading": "Limitations",
+      "text": "on disclosure of confidential information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293912",
+      "number": "293.912",
+      "heading": "Authorization",
+      "text": "to provide confidential information to certain persons or entities; records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293914",
+      "number": "293.914",
+      "heading": "Denial",
+      "text": "of request for confidential information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293916",
+      "number": "293.916",
+      "heading": "Unlawful",
+      "text": "to obtain, disclose or use personal or confidential information in unauthorized\n\nmanner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293918",
+      "number": "293.918",
+      "heading": "Unlawful",
+      "text": "to disclose confidential information that will create substantial risk of\n\nbodily harm.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293920",
+      "number": "293.920",
+      "heading": "Civil",
+      "text": "penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1",
+      "number": "1",
+      "heading": "of Article 2",
+      "text": "of Article 2",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-retary",
+      "number": "retary",
+      "heading": "of State to serve as Chief Officer of Elections;",
+      "text": "regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6",
+      "number": "6",
+      "heading": "of Article 4",
+      "text": "of Article 4",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-icle",
+      "number": "icle",
+      "heading": "4",
+      "text": "4",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-urity",
+      "number": "urity",
+      "heading": "precautions.",
+      "text": "precautions.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

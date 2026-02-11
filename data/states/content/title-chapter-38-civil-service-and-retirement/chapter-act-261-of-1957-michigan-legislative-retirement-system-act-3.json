@@ -1,0 +1,822 @@
+{
+  "state": "michigan",
+  "path": "title-chapter-38-civil-service-and-retirement/chapter-act-261-of-1957-michigan-legislative-retirement-system-act-3",
+  "sections": [
+    {
+      "id": "section-381001",
+      "number": "38.1001",
+      "heading": "Retirement System; Creation.Section 38",
+      "text": "1002 - Michigan Legislative Retirement System; Name.Section 38.1003 - Construction of Terms.Section 38.1004 - “Retirement System” Defined.Section 38.1005 - Board; Definition.Section 38.1006 - “Member” Defined.Section 38.1007 - Repealed. 1981, Act 123, Imd. Eff.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381002",
+      "number": "38.1002",
+      "heading": "Michigan Legislative Retirement System; Name.",
+      "text": "Michigan Legislative Retirement System; Name.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381003",
+      "number": "38.1003",
+      "heading": "Construction of Terms.",
+      "text": "Construction of Terms.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381004",
+      "number": "38.1004",
+      "heading": "“Retirement System” Defined.",
+      "text": "“Retirement System” Defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381005",
+      "number": "38.1005",
+      "heading": "Board; Definition.",
+      "text": "Board; Definition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381006",
+      "number": "38.1006",
+      "heading": "“Member” Defined.",
+      "text": "“Member” Defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381007",
+      "number": "38.1007",
+      "heading": "Repealed. 1981, Act 123, Imd. Eff. July 23, 1981.",
+      "text": "Repealed. 1981, Act 123, Imd. Eff. July 23, 1981.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381007a",
+      "number": "38.1007a",
+      "heading": "“Direct Rollover” and “Distributee” Defined.",
+      "text": "“Direct Rollover” and “Distributee” Defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381008",
+      "number": "38.1008",
+      "heading": "Repealed. 1981, Act 123, Imd. Eff. July 23, 1981.",
+      "text": "Repealed. 1981, Act 123, Imd. Eff. July 23, 1981.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381008a",
+      "number": "38.1008a",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381009",
+      "number": "38.1009",
+      "heading": "“Salary” Defined.",
+      "text": "“Salary” Defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381010",
+      "number": "38.1010",
+      "heading": "Repealed. 1981, Act 123, Imd. Eff. July 23, 1981.",
+      "text": "Repealed. 1981, Act 123, Imd. Eff. July 23, 1981.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381011",
+      "number": "38.1011",
+      "heading": "“Service” Defined; Election to Receive Military Service Credit; Effect of Membership in Retirement System.",
+      "text": "“Service” Defined; Election to Receive Military Service Credit; Effect of Membership in Retirement System.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381012",
+      "number": "38.1012",
+      "heading": "“Retirement Allowance” Defined.",
+      "text": "“Retirement Allowance” Defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381013",
+      "number": "38.1013",
+      "heading": "“Retirant” Defined.",
+      "text": "“Retirant” Defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381013a",
+      "number": "38.1013a",
+      "heading": "“Survivor,”“eligible Child,” and “Surviving Spouse” Defined.",
+      "text": "“Survivor,”“eligible Child,” and “Surviving Spouse” Defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381014",
+      "number": "38.1014",
+      "heading": "“Refund Beneficiary” Defined.",
+      "text": "“Refund Beneficiary” Defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381015",
+      "number": "38.1015",
+      "heading": "Actuarial Tables; Definition.",
+      "text": "Actuarial Tables; Definition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381016",
+      "number": "38.1016",
+      "heading": "Prescribed Rate of Interest; Definition.",
+      "text": "Prescribed Rate of Interest; Definition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381017",
+      "number": "38.1017",
+      "heading": "“Fiscal Year” Defined.",
+      "text": "“Fiscal Year” Defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381017a",
+      "number": "38.1017a",
+      "heading": "“Deferred Vested Member” Defined.",
+      "text": "“Deferred Vested Member” Defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381017b",
+      "number": "38.1017b",
+      "heading": "“Leadership Position” Defined.",
+      "text": "“Leadership Position” Defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381017c",
+      "number": "38.1017c",
+      "heading": "“Legislator” Defined.",
+      "text": "“Legislator” Defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381017d",
+      "number": "38.1017d",
+      "heading": "“Tier 1” and “Tier 2” Defined.",
+      "text": "“Tier 1” and “Tier 2” Defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381018",
+      "number": "38.1018",
+      "heading": "Legislator or Lieutenant Governor; Membership in Retirement System; Notice of Election Not to Participate; Refund of Contributions; Effect of Notice; Rescission of Notice; Contributions and Interest; Eligibility on or After March 31, 1997",
+      "text": "Legislator or Lieutenant Governor; Membership in Retirement System; Notice of Election Not to Participate; Refund of Contributions; Effect of Notice; Rescission of Notice; Contributions and Interest; Eligibility on or After March 31, 1997.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381019",
+      "number": "38.1019",
+      "heading": "Repealed. 1981, Act 123, Imd. Eff. July 23, 1981.",
+      "text": "Repealed. 1981, Act 123, Imd. Eff. July 23, 1981.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381020",
+      "number": "38.1020",
+      "heading": "Members' Retirement Fund; Creation; Purpose; Computing Retirement Reserves for Retirement Allowances; Financing; State's Appropriations for Current Service, Accrued Service, and Retirement Allowances; Allocation of Employer Contributions",
+      "text": "Members' Retirement Fund; Creation; Purpose; Computing Retirement Reserves for Retirement Allowances; Financing; State's Appropriations for Current Service, Accrued Service, and Retirement Allowances; Allocation of Employer Contributions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381021",
+      "number": "38.1021",
+      "heading": "Members' Savings Fund; Creation; Purpose; Contributions; Rate; Additional Contributions; Payroll Deductions; Transfer of Contributions Upon Retirement or Death",
+      "text": "Members' Savings Fund; Creation; Purpose; Contributions; Rate; Additional Contributions; Payroll Deductions; Transfer of Contributions Upon Retirement or Death.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381021a",
+      "number": "38.1021a",
+      "heading": "Member Contributions Picked Up by State.",
+      "text": "Member Contributions Picked Up by State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381022",
+      "number": "38.1022",
+      "heading": "Survivors' Retirement Fund; Creation; Purpose; Contributions; Rate; Payroll Deductions; Computing Retirement Reserves for Retirement Allowances; Financing; State's Appropriations for Survivors' Retirement Allowances",
+      "text": "Survivors' Retirement Fund; Creation; Purpose; Contributions; Rate; Payroll Deductions; Computing Retirement Reserves for Retirement Allowances; Financing; State's Appropriations for Survivors' Retirement Allowances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381022a",
+      "number": "38.1022a",
+      "heading": "Income Fund; Creation; Purpose; Interest, Dividends, and Other Income; Expenses.",
+      "text": "Income Fund; Creation; Purpose; Interest, Dividends, and Other Income; Expenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381022b",
+      "number": "38.1022b",
+      "heading": "Prorating and Allocating Annual Appropriations to Retirement System.",
+      "text": "Prorating and Allocating Annual Appropriations to Retirement System.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381022c",
+      "number": "38.1022c",
+      "heading": "Health Insurance Fund; Creation; Disposition; Disbursement; Contributions; Payroll Deductions; Nonrefundable.",
+      "text": "Health Insurance Fund; Creation; Disposition; Disbursement; Contributions; Payroll Deductions; Nonrefundable.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381023",
+      "number": "38.1023",
+      "heading": "Requirements for Entitlement to Retirement Allowance; Right to Allowance; Amount; Recalculation of Retirement Allowance; Election to Defer Receipt of Retirement Allowance; Computation of Retirement Allowance; Longevity Allowance",
+      "text": "Requirements for Entitlement to Retirement Allowance; Right to Allowance; Amount; Recalculation of Retirement Allowance; Election to Defer Receipt of Retirement Allowance; Computation of Retirement Allowance; Longevity Allowance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381023a",
+      "number": "38.1023a",
+      "heading": "Repealed. 1974, Act 215, Eff. Dec. 31, 1974.",
+      "text": "Repealed. 1974, Act 215, Eff. Dec. 31, 1974.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381023b",
+      "number": "38.1023b",
+      "heading": "Retirant or Deferred Vested Member Again Becoming Legislator or Lieutenant Governor; Election to Again Become Member; Notice; Conditions; Nonpayment of Retirement Allowance; Declining to Again Become Member; Exception",
+      "text": "Retirant or Deferred Vested Member Again Becoming Legislator or Lieutenant Governor; Election to Again Become Member; Notice; Conditions; Nonpayment of Retirement Allowance; Declining to Again Become Member; Exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381023c",
+      "number": "38.1023c",
+      "heading": "Increase of Retirement Allowance.",
+      "text": "Increase of Retirement Allowance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381023d",
+      "number": "38.1023d",
+      "heading": "Disabled Member; Retirement Allowance; Annual Examination.",
+      "text": "Disabled Member; Retirement Allowance; Annual Examination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381023e",
+      "number": "38.1023e",
+      "heading": "Supplemental Payments for Retirants or Retirement Allowance Beneficiaries With Retirement Allowance Effective Date Before January 1, 1979; Future Adjustments",
+      "text": "Supplemental Payments for Retirants or Retirement Allowance Beneficiaries With Retirement Allowance Effective Date Before January 1, 1979; Future Adjustments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381024",
+      "number": "38.1024",
+      "heading": "Survivor's Retirement Allowance; Eligibility; Duration, Commencement, and Rate; Status of Adopted Child; Payments to Eligible Child; Effect of Marriage or Attainment of Ineligible Age; Payment of Survivor's Retirement Allowance as Provided in Written Designation; Division of Survivor's Retirement Al",
+      "text": "Survivor's Retirement Allowance; Eligibility; Duration, Commencement, and Rate; Status of Adopted Child; Payments to Eligible Child; Effect of Marriage or Attainment of Ineligible Age; Payment of Survivor's Retirement Allowance as Provided in Written Designation; Division of Survivor's Retirement Allowance Among Eligible Survivors; Receipt of Entire Survivor's Retirement Allowance by Surviving Spouse When Eligible Children Become Ineligible.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381024a",
+      "number": "38.1024a",
+      "heading": "Remarriage of Surviving Spouse.",
+      "text": "Remarriage of Surviving Spouse.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381025",
+      "number": "38.1025",
+      "heading": "Retirement System as Trust; Board as Fiduciary; Nonapplicability to Tier 2 Retirement Plan.",
+      "text": "Retirement System as Trust; Board as Fiduciary; Nonapplicability to Tier 2 Retirement Plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381026",
+      "number": "38.1026",
+      "heading": "Retirement System; Board of Trustees; Membership; Eligibility and Terms; Oath of Office.",
+      "text": "Retirement System; Board of Trustees; Membership; Eligibility and Terms; Oath of Office.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381027",
+      "number": "38.1027",
+      "heading": "First Board of Trustees; Organizational Meeting, Election of Officers.",
+      "text": "First Board of Trustees; Organizational Meeting, Election of Officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381028",
+      "number": "38.1028",
+      "heading": "Vacancy in Trusteeship.",
+      "text": "Vacancy in Trusteeship.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381029",
+      "number": "38.1029",
+      "heading": "Trustees; Compensation and Expenses.",
+      "text": "Trustees; Compensation and Expenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381030",
+      "number": "38.1030",
+      "heading": "Board of Trustees; Quorum, Proxy.",
+      "text": "Board of Trustees; Quorum, Proxy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381031",
+      "number": "38.1031",
+      "heading": "Board of Trustees; Powers and Duties.",
+      "text": "Board of Trustees; Powers and Duties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381032",
+      "number": "38.1032",
+      "heading": "Board of Trustees; Regular and Special Meetings; Conducting Business at Public Meeting; Notice of Meeting.",
+      "text": "Board of Trustees; Regular and Special Meetings; Conducting Business at Public Meeting; Notice of Meeting.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381033",
+      "number": "38.1033",
+      "heading": "Board of Trustees; Authority as to Retirement Allowances, Suspensions and Refunds.",
+      "text": "Board of Trustees; Authority as to Retirement Allowances, Suspensions and Refunds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381034",
+      "number": "38.1034",
+      "heading": "Board of Trustees; Certification of Prescribed Interest Rate; Adoption of Actuarial Tables.",
+      "text": "Board of Trustees; Certification of Prescribed Interest Rate; Adoption of Actuarial Tables.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381035",
+      "number": "38.1035",
+      "heading": "Board of Trustees; Estimate of Appropriation.",
+      "text": "Board of Trustees; Estimate of Appropriation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381036",
+      "number": "38.1036",
+      "heading": "Repealed. 1987, Act 58, Imd. Eff. June 23, 1987.",
+      "text": "Repealed. 1987, Act 58, Imd. Eff. June 23, 1987.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381036a",
+      "number": "38.1036a",
+      "heading": "Reinstatement of Suspended Contributions.",
+      "text": "Reinstatement of Suspended Contributions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381037",
+      "number": "38.1037",
+      "heading": "Repealed. 1981, Act 123, Imd. Eff. July 23, 1981.",
+      "text": "Repealed. 1981, Act 123, Imd. Eff. July 23, 1981.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381038",
+      "number": "38.1038",
+      "heading": "Board of Trustees; Offices; Books and Records; Availability of Certain Writings to Public.",
+      "text": "Board of Trustees; Offices; Books and Records; Availability of Certain Writings to Public.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381039",
+      "number": "38.1039",
+      "heading": "Board of Trustees; Appointment of Secretary and Administrative Personnel.",
+      "text": "Board of Trustees; Appointment of Secretary and Administrative Personnel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381040",
+      "number": "38.1040",
+      "heading": "Board of Trustees; Record of Proceedings; Individual Accounts; Actuarial Data.",
+      "text": "Board of Trustees; Record of Proceedings; Individual Accounts; Actuarial Data.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381041",
+      "number": "38.1041",
+      "heading": "Board of Trustees; Audit of Accounts; Annual Statement.",
+      "text": "Board of Trustees; Audit of Accounts; Annual Statement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381042",
+      "number": "38.1042",
+      "heading": "Acceptance of Gift, Grant, or Bequest by Board.",
+      "text": "Acceptance of Gift, Grant, or Bequest by Board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381043",
+      "number": "38.1043",
+      "heading": "Individual Statement.",
+      "text": "Individual Statement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381044",
+      "number": "38.1044",
+      "heading": "Rules and Bylaws.",
+      "text": "Rules and Bylaws.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381045",
+      "number": "38.1045",
+      "heading": "Secretary of Board; Powers and Duties.",
+      "text": "Secretary of Board; Powers and Duties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381046",
+      "number": "38.1046",
+      "heading": "Actuary; Technical Advisor of Board, Powers and Duties.",
+      "text": "Actuary; Technical Advisor of Board, Powers and Duties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381047",
+      "number": "38.1047",
+      "heading": "State Treasurer as Ex Officio Treasurer of Retirement System; Duties.",
+      "text": "State Treasurer as Ex Officio Treasurer of Retirement System; Duties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381048",
+      "number": "38.1048",
+      "heading": "Warrants.",
+      "text": "Warrants.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381049",
+      "number": "38.1049",
+      "heading": "Payroll Voucher.",
+      "text": "Payroll Voucher.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381050",
+      "number": "38.1050",
+      "heading": "Investment and Reinvestment of Cash Assets; Nonapplicability to Tier 2.",
+      "text": "Investment and Reinvestment of Cash Assets; Nonapplicability to Tier 2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381050a",
+      "number": "38.1050a",
+      "heading": "Grants and Insurance Revolving Fund; Creation; Purpose; Expenditures; Payments to Fund by Payroll Deductions; Purchase and Payment of Premiums on Life Insurance Policies",
+      "text": "Grants and Insurance Revolving Fund; Creation; Purpose; Expenditures; Payments to Fund by Payroll Deductions; Purchase and Payment of Premiums on Life Insurance Policies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381050b",
+      "number": "38.1050b",
+      "heading": "Hospitalization, Medical, Dental, and Vision Coverage; Purchase; Payment of Premiums; Manner.",
+      "text": "Hospitalization, Medical, Dental, and Vision Coverage; Purchase; Payment of Premiums; Manner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381051",
+      "number": "38.1051",
+      "heading": "Investment of Retirement System Funds; Ownership by System; Registration; Recording; Nonapplicability to Tier 2.",
+      "text": "Investment of Retirement System Funds; Ownership by System; Registration; Recording; Nonapplicability to Tier 2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381052",
+      "number": "38.1052",
+      "heading": "Board of Trustees and Employees; Interest in Investments Prohibited; Violation of Section, Penalty.",
+      "text": "Board of Trustees and Employees; Interest in Investments Prohibited; Violation of Section, Penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381053",
+      "number": "38.1053",
+      "heading": "Vested Interest in Refunds; Payment of Member Contributions; Discharge of Claims.",
+      "text": "Vested Interest in Refunds; Payment of Member Contributions; Discharge of Claims.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381054",
+      "number": "38.1054",
+      "heading": "Payments as Obligations of State; Disposition of Revenues.",
+      "text": "Payments as Obligations of State; Disposition of Revenues.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381055",
+      "number": "38.1055",
+      "heading": "Refund of Contributions With Interest; Request; Forfeiture; Service Credit Upon Resumption of Membership; Designation of Beneficiary; Payment of Contributions With Interest",
+      "text": "Refund of Contributions With Interest; Request; Forfeiture; Service Credit Upon Resumption of Membership; Designation of Beneficiary; Payment of Contributions With Interest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381056",
+      "number": "38.1056",
+      "heading": "Undivided Interest in Assets of System.",
+      "text": "Undivided Interest in Assets of System.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381057",
+      "number": "38.1057",
+      "heading": "Retirement Allowances, Benefits, and Credits Not Subject to Taxation; Subject to Taxation Beginning January 1, 2012; Subject to Public Employee Retirement Benefit Protection Act",
+      "text": "Retirement Allowances, Benefits, and Credits Not Subject to Taxation; Subject to Taxation Beginning January 1, 2012; Subject to Public Employee Retirement Benefit Protection Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381058",
+      "number": "38.1058",
+      "heading": "Retirement System Records; Falsification, Penalty.",
+      "text": "Retirement System Records; Falsification, Penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381058a",
+      "number": "38.1058a",
+      "heading": "Correction of Error; Adjustment of Payment.",
+      "text": "Correction of Error; Adjustment of Payment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381059",
+      "number": "38.1059",
+      "heading": "Payment of Benefits; Commencement.",
+      "text": "Payment of Benefits; Commencement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381059a",
+      "number": "38.1059a",
+      "heading": "Retirement System as Qualified Pension Plan; Administrative Requirements and Benefit Limitations; Qualified Military Service.",
+      "text": "Retirement System as Qualified Pension Plan; Administrative Requirements and Benefit Limitations; Qualified Military Service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381060",
+      "number": "38.1060",
+      "heading": "Short Title.",
+      "text": "Short Title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381061",
+      "number": "38.1061",
+      "heading": "Election to Terminate Membership in Tier 1 and Become Qualified Participant in Tier 2; Election by Deferred Vested Member or Former Nonvested Member; Election as Irrevocable; Rights and Duties; Method of Election; Signature of Spouse; Waiver; Election Subject to Eligible Domestic Relations Order; No",
+      "text": "Election to Terminate Membership in Tier 1 and Become Qualified Participant in Tier 2; Election by Deferred Vested Member or Former Nonvested Member; Election as Irrevocable; Rights and Duties; Method of Election; Signature of Spouse; Waiver; Election Subject to Eligible Domestic Relations Order; Notice of Disqualification for Tax Purposes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381062",
+      "number": "38.1062",
+      "heading": "Election to Terminate Membership in Retirement System Under MCL 38",
+      "text": "1061(1) and (2); Transfer of Lump Sum Amount; Recomputation; Calculation; Basis; Utilization of Actuarial Valuation Report; Notification of Disqualification for Tax Purposes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381063",
+      "number": "38.1063",
+      "heading": "Calculation of Accrued Cost Savings; Submission of Total Amount in Executive Budget to Legislature; Appropriation.",
+      "text": "Calculation of Accrued Cost Savings; Submission of Total Amount in Executive Budget to Legislature; Appropriation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381064",
+      "number": "38.1064",
+      "heading": "Meanings of Words and Phrases; “Accumulated Balance” Defined.",
+      "text": "Meanings of Words and Phrases; “Accumulated Balance” Defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381065",
+      "number": "38.1065",
+      "heading": "“Employer,”“former Qualified Participant,” and “Health Benefit Dependent” Defined.",
+      "text": "“Employer,”“former Qualified Participant,” and “Health Benefit Dependent” Defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381066",
+      "number": "38.1066",
+      "heading": "“Qualified Participant,”“refund Beneficiary,” and “State Treasurer” Defined.",
+      "text": "“Qualified Participant,”“refund Beneficiary,” and “State Treasurer” Defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381067",
+      "number": "38.1067",
+      "heading": "Administration and Investment of Tier 2 by State Treasurer; State Treasurer as Fiduciary and Trustee; Appointment of Advisory Board; Determination of Provisions and Procedures; Authority and Responsibility of State Treasurer to Employ or Contract With Employees or for Services",
+      "text": "Administration and Investment of Tier 2 by State Treasurer; State Treasurer as Fiduciary and Trustee; Appointment of Advisory Board; Determination of Provisions and Procedures; Authority and Responsibility of State Treasurer to Employ or Contract With Employees or for Services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381068",
+      "number": "38.1068",
+      "heading": "Hearing.",
+      "text": "Hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381069",
+      "number": "38.1069",
+      "heading": "Accumulated Employer and Employee Contributions and Earnings; Direction of Investment; Limitations Inapplicable to Tier 2.",
+      "text": "Accumulated Employer and Employee Contributions and Earnings; Direction of Investment; Limitations Inapplicable to Tier 2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381070",
+      "number": "38.1070",
+      "heading": "Tier 2; Payment of Administrative Expenses.",
+      "text": "Tier 2; Payment of Administrative Expenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381071",
+      "number": "38.1071",
+      "heading": "Participation in Other Public Sector Retirement Benefits Plan.",
+      "text": "Participation in Other Public Sector Retirement Benefits Plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381072",
+      "number": "38.1072",
+      "heading": "Individual Becoming Legislator or Lieutenant Governor on or After March 31, 1997; Notice of Election.",
+      "text": "Individual Becoming Legislator or Lieutenant Governor on or After March 31, 1997; Notice of Election.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381073",
+      "number": "38.1073",
+      "heading": "Election to Terminate Membership in Tier 1; Crediting Tier 2 Account; Charging Tier 2 Account for Excess Transfers.",
+      "text": "Election to Terminate Membership in Tier 1; Crediting Tier 2 Account; Charging Tier 2 Account for Excess Transfers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381074",
+      "number": "38.1074",
+      "heading": "Section Subject to Vesting Requirements; Tier 2 Contributions by Employer and Qualified Participant; Limitations.",
+      "text": "Section Subject to Vesting Requirements; Tier 2 Contributions by Employer and Qualified Participant; Limitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381075",
+      "number": "38.1075",
+      "heading": "Tier 2; Vesting Requirements and Schedule; Health Care Coverage; Vesting Requirements.",
+      "text": "Tier 2; Vesting Requirements and Schedule; Health Care Coverage; Vesting Requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381076",
+      "number": "38.1076",
+      "heading": "Crediting Years of Accrued Service.",
+      "text": "Crediting Years of Accrued Service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381077",
+      "number": "38.1077",
+      "heading": "Refund Beneficiary; Nomination.",
+      "text": "Refund Beneficiary; Nomination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381078",
+      "number": "38.1078",
+      "heading": "Distribution of Accumulated Balance.",
+      "text": "Distribution of Accumulated Balance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381079",
+      "number": "38.1079",
+      "heading": "Health Insurance Coverage; Election; Eligibility.",
+      "text": "Health Insurance Coverage; Election; Eligibility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381080",
+      "number": "38.1080",
+      "heading": "Distributions; Exemption From Tax; Subject to Public Employee Retirement Benefit Protection Act; Right of Setoff to Recover Overpayment and Satisfy Claims; Correction of Errors in Records and Actions",
+      "text": "Distributions; Exemption From Tax; Subject to Public Employee Retirement Benefit Protection Act; Right of Setoff to Recover Overpayment and Satisfy Claims; Correction of Errors in Records and Actions.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

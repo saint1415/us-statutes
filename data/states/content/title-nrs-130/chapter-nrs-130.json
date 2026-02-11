@@ -1,0 +1,1006 @@
+{
+  "state": "nevada",
+  "path": "title-nrs-130/chapter-nrs-130",
+  "sections": [
+    {
+      "id": "section-130015",
+      "number": "130.015",
+      "heading": "Requests",
+      "text": "between states for assistance to enforce support order; maintenance of records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130025",
+      "number": "130.025",
+      "heading": "Jurisdiction",
+      "text": "by arrest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130045",
+      "number": "130.045",
+      "heading": "Responding",
+      "text": "tribunals of State: Prohibition against staying proceedings or refusing\n\nhearings under certain circumstances; duties and powers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1",
+      "number": "1",
+      "heading": "General Provisions",
+      "text": "General Provisions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1300902",
+      "number": "130.0902",
+      "heading": "Short",
+      "text": "title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1300904",
+      "number": "130.0904",
+      "heading": "Uniformity",
+      "text": "of application and construction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130101",
+      "number": "130.101",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010103",
+      "number": "130.10103",
+      "heading": "Child�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010107",
+      "number": "130.10107",
+      "heading": "Child-support",
+      "text": "order� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010109",
+      "number": "130.10109",
+      "heading": "Convention�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010111",
+      "number": "130.10111",
+      "heading": "Duty",
+      "text": "of support� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010115",
+      "number": "130.10115",
+      "heading": "Employer�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010116",
+      "number": "130.10116",
+      "heading": "Foreign",
+      "text": "country� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010117",
+      "number": "130.10117",
+      "heading": "Foreign",
+      "text": "support order� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010118",
+      "number": "130.10118",
+      "heading": "Foreign",
+      "text": "tribunal� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010119",
+      "number": "130.10119",
+      "heading": "Home",
+      "text": "state� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010123",
+      "number": "130.10123",
+      "heading": "Income�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010127",
+      "number": "130.10127",
+      "heading": "Income-withholding",
+      "text": "order� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010135",
+      "number": "130.10135",
+      "heading": "Initiating",
+      "text": "tribunal� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010137",
+      "number": "130.10137",
+      "heading": "Issuing",
+      "text": "foreign country� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010139",
+      "number": "130.10139",
+      "heading": "Issuing",
+      "text": "state� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010143",
+      "number": "130.10143",
+      "heading": "Issuing",
+      "text": "tribunal� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010147",
+      "number": "130.10147",
+      "heading": "Law�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010151",
+      "number": "130.10151",
+      "heading": "Obligee�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010155",
+      "number": "130.10155",
+      "heading": "Obligor�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130101555",
+      "number": "130.101555",
+      "heading": "Outside",
+      "text": "this State� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010156",
+      "number": "130.10156",
+      "heading": "Person�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010158",
+      "number": "130.10158",
+      "heading": "Record�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010159",
+      "number": "130.10159",
+      "heading": "Register�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010163",
+      "number": "130.10163",
+      "heading": "Registering",
+      "text": "tribunal� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010167",
+      "number": "130.10167",
+      "heading": "Responding",
+      "text": "state� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010171",
+      "number": "130.10171",
+      "heading": "Responding",
+      "text": "tribunal� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010175",
+      "number": "130.10175",
+      "heading": "Spousal-support",
+      "text": "order� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010179",
+      "number": "130.10179",
+      "heading": "State�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010183",
+      "number": "130.10183",
+      "heading": "Support-enforcement",
+      "text": "agency� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010187",
+      "number": "130.10187",
+      "heading": "Support",
+      "text": "order� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13010191",
+      "number": "130.10191",
+      "heading": "Tribunal�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130102",
+      "number": "130.102",
+      "heading": "Tribunals",
+      "text": "and support enforcement agencies of State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130103",
+      "number": "130.103",
+      "heading": "Remedies",
+      "text": "cumulative and not exclusive.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130105",
+      "number": "130.105",
+      "heading": "Applicability",
+      "text": "to support proceedings involving foreign orders, foreign tribunals or certain\n\npersons residing in foreign country; limitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2",
+      "number": "2",
+      "heading": "Jurisdiction",
+      "text": "Jurisdiction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130201",
+      "number": "130.201",
+      "heading": "Bases",
+      "text": "for jurisdiction over nonresident.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130202",
+      "number": "130.202",
+      "heading": "Continuation",
+      "text": "of personal jurisdiction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1302025",
+      "number": "130.2025",
+      "heading": "Procedure",
+      "text": "when exercising jurisdiction over nonresident in proceeding relating to foreign\n\nsupport order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130203",
+      "number": "130.203",
+      "heading": "Initiating",
+      "text": "and responding tribunal of State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130204",
+      "number": "130.204",
+      "heading": "Simultaneous",
+      "text": "proceedings in another state or foreign country.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130205",
+      "number": "130.205",
+      "heading": "Continuing,",
+      "text": "exclusive jurisdiction of tribunal that has issued child-support order;\n\nbecoming initiating tribunal to request modification of child-support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1302055",
+      "number": "130.2055",
+      "heading": "Continuing,",
+      "text": "exclusive jurisdiction over spousal-support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130206",
+      "number": "130.206",
+      "heading": "Enforcement",
+      "text": "and modification of child-support order by tribunal having continuing\n\njurisdiction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130207",
+      "number": "130.207",
+      "heading": "Recognition",
+      "text": "of controlling child-support order; determination of which order controls;\n\nrequest for determination; issuance of new controlling order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130208",
+      "number": "130.208",
+      "heading": "Multiple",
+      "text": "child-support orders for two or more obligees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130209",
+      "number": "130.209",
+      "heading": "Credit",
+      "text": "for payments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3",
+      "number": "3",
+      "heading": "Civil Provisions of General Application",
+      "text": "Civil Provisions of General Application",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130301",
+      "number": "130.301",
+      "heading": "Proceedings",
+      "text": "under act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130302",
+      "number": "130.302",
+      "heading": "Action",
+      "text": "by minor parent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130303",
+      "number": "130.303",
+      "heading": "Application",
+      "text": "of law of State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130304",
+      "number": "130.304",
+      "heading": "Duties",
+      "text": "of initiating tribunal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130305",
+      "number": "130.305",
+      "heading": "Duties",
+      "text": "and powers of responding tribunal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130306",
+      "number": "130.306",
+      "heading": "Inappropriate",
+      "text": "tribunal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130307",
+      "number": "130.307",
+      "heading": "Duties",
+      "text": "of support-enforcement agency.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130308",
+      "number": "130.308",
+      "heading": "Duties",
+      "text": "of Attorney General.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130309",
+      "number": "130.309",
+      "heading": "Private",
+      "text": "counsel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130310",
+      "number": "130.310",
+      "heading": "Duties",
+      "text": "of State Information Agency.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130311",
+      "number": "130.311",
+      "heading": "Pleadings",
+      "text": "and accompanying documents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130312",
+      "number": "130.312",
+      "heading": "Nondisclosure",
+      "text": "of information in exceptional circumstances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130313",
+      "number": "130.313",
+      "heading": "Costs",
+      "text": "and fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130314",
+      "number": "130.314",
+      "heading": "Limited",
+      "text": "immunity of petitioner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130315",
+      "number": "130.315",
+      "heading": "Nonparentage",
+      "text": "as defense.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130316",
+      "number": "130.316",
+      "heading": "Special",
+      "text": "rules of evidence and procedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130317",
+      "number": "130.317",
+      "heading": "Communication",
+      "text": "between tribunals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130318",
+      "number": "130.318",
+      "heading": "Assistance",
+      "text": "with discovery.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130319",
+      "number": "130.319",
+      "heading": "Receipt",
+      "text": "and disbursements of payments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4",
+      "number": "4",
+      "heading": "Establishment of Support Order and Determination of",
+      "text": "Parentage",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130401",
+      "number": "130.401",
+      "heading": "Issuance",
+      "text": "of support order by tribunal with personal jurisdiction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130402",
+      "number": "130.402",
+      "heading": "Becoming",
+      "text": "responding tribunal in proceeding to determine parentage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5",
+      "number": "5",
+      "heading": "Enforcement of Order of Another State Without",
+      "text": "Registration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130501",
+      "number": "130.501",
+      "heading": "Delivery",
+      "text": "of income-withholding order of another state to employer of obligor in this\n\nState.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130502",
+      "number": "130.502",
+      "heading": "Employer�s",
+      "text": "compliance with income-withholding order of another state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130503",
+      "number": "130.503",
+      "heading": "Employer�s",
+      "text": "compliance with multiple income-withholding orders.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130504",
+      "number": "130.504",
+      "heading": "Immunity",
+      "text": "from civil liability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130505",
+      "number": "130.505",
+      "heading": "Penalties",
+      "text": "for noncompliance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130506",
+      "number": "130.506",
+      "heading": "Contest",
+      "text": "by obligor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130507",
+      "number": "130.507",
+      "heading": "Administrative",
+      "text": "enforcement of orders.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6",
+      "number": "6",
+      "heading": "Enforcement and Modification of Support Order After",
+      "text": "Registration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130601",
+      "number": "130.601",
+      "heading": "Registration",
+      "text": "of orders issued in other jurisdictions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130602",
+      "number": "130.602",
+      "heading": "Procedure",
+      "text": "to register order for enforcement; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130603",
+      "number": "130.603",
+      "heading": "Effect",
+      "text": "of registration for enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130604",
+      "number": "130.604",
+      "heading": "Choice",
+      "text": "of law; statute of limitation; prospective application of law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130605",
+      "number": "130.605",
+      "heading": "Notice",
+      "text": "of registration of order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130606",
+      "number": "130.606",
+      "heading": "Procedure",
+      "text": "to contest validity or enforcement of registered order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130607",
+      "number": "130.607",
+      "heading": "Contest",
+      "text": "of registration or enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130608",
+      "number": "130.608",
+      "heading": "Confirmed",
+      "text": "order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130609",
+      "number": "130.609",
+      "heading": "Procedure",
+      "text": "to register child-support order of another state for modification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1306095",
+      "number": "130.6095",
+      "heading": "Registration",
+      "text": "of foreign child-support order not under the Convention for modification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130610",
+      "number": "130.610",
+      "heading": "Effect",
+      "text": "of registration for modification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130611",
+      "number": "130.611",
+      "heading": "Modification",
+      "text": "of child-support order of another state; modification of child-support order of\n\nthis State if one party resides outside this State and other party resides\n\noutside United States.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1306115",
+      "number": "130.6115",
+      "heading": "Modification",
+      "text": "of child-support order of foreign country.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130612",
+      "number": "130.612",
+      "heading": "Effect",
+      "text": "of order modified by tribunal of another state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130613",
+      "number": "130.613",
+      "heading": "Jurisdiction",
+      "text": "to modify child-support order of another state when individual parties reside\n\nin this State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130614",
+      "number": "130.614",
+      "heading": "Notice",
+      "text": "to issuing tribunal of modification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7",
+      "number": "7",
+      "heading": "Support Proceeding Under Convention",
+      "text": "Support Proceeding Under Convention",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1307011",
+      "number": "130.7011",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1307012",
+      "number": "130.7012",
+      "heading": "Application�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1307013",
+      "number": "130.7013",
+      "heading": "Central",
+      "text": "authority� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1307014",
+      "number": "130.7014",
+      "heading": "Convention",
+      "text": "support order� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1307015",
+      "number": "130.7015",
+      "heading": "Direct",
+      "text": "request� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1307016",
+      "number": "130.7016",
+      "heading": "Foreign",
+      "text": "central authority� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1307017",
+      "number": "130.7017",
+      "heading": "Foreign",
+      "text": "support agreement� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1307018",
+      "number": "130.7018",
+      "heading": "United",
+      "text": "States central authority� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130702",
+      "number": "130.702",
+      "heading": "Proceedings",
+      "text": "under Convention; limitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130703",
+      "number": "130.703",
+      "heading": "Division",
+      "text": "of Welfare and Supportive Services of Department of Health and Human Services\n\nto perform certain functions under Convention.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130704",
+      "number": "130.704",
+      "heading": "Initiation",
+      "text": "of support proceeding under Convention by Division of Welfare and Supportive\n\nServices of Department of Health and Human Services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130705",
+      "number": "130.705",
+      "heading": "Direct",
+      "text": "request.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130706",
+      "number": "130.706",
+      "heading": "Registration",
+      "text": "of Convention support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130707",
+      "number": "130.707",
+      "heading": "Contest",
+      "text": "of registered Convention support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130708",
+      "number": "130.708",
+      "heading": "Recognition",
+      "text": "and enforcement of registered Convention support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130709",
+      "number": "130.709",
+      "heading": "Partial",
+      "text": "enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130710",
+      "number": "130.710",
+      "heading": "Foreign",
+      "text": "support agreement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130711",
+      "number": "130.711",
+      "heading": "Modification",
+      "text": "of Convention child-support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130712",
+      "number": "130.712",
+      "heading": "Personal",
+      "text": "information; limit on use.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130713",
+      "number": "130.713",
+      "heading": "Record",
+      "text": "in original language; English translation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8",
+      "number": "8",
+      "heading": "Interstate Rendition",
+      "text": "Interstate Rendition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130801",
+      "number": "130.801",
+      "heading": "Grounds",
+      "text": "for rendition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130802",
+      "number": "130.802",
+      "heading": "Conditions",
+      "text": "of rendition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-16",
+      "number": "16",
+      "heading": "of Article 6",
+      "text": "of Article 6",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

@@ -1,0 +1,646 @@
+{
+  "state": "virginia",
+  "path": "title-title-242-elections/chapter-chapter-4-voter-registration",
+  "sections": [
+    {
+      "id": "section-1",
+      "number": "1.",
+      "heading": "Qualifications§ 24.2-400. Persons entitled to register and vote§ 24",
+      "text": "2-401. Persons moving from precinct§ 24.2-402. Persons moving from Commonwealth fewer than thirty days before presidential election§ 24.2-403. Persons under 18 years of age§ 24.2-403.1. Preregistration of persons 16 years of age or",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-400",
+      "number": "24.2-400.",
+      "heading": "Persons entitled to register and vote",
+      "text": "Persons entitled to register and vote",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-401",
+      "number": "24.2-401.",
+      "heading": "Persons moving from precinct",
+      "text": "Persons moving from precinct",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-402",
+      "number": "24.2-402.",
+      "heading": "Persons moving from Commonwealth fewer than thirty days before presidential election",
+      "text": "Persons moving from Commonwealth fewer than thirty days before presidential election",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-403",
+      "number": "24.2-403.",
+      "heading": "Persons under 18 years of age",
+      "text": "Persons under 18 years of age",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-4031",
+      "number": "24.2-403.1.",
+      "heading": "Preregistration of persons 16 years of age or older",
+      "text": "Preregistration of persons 16 years of age or older",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2",
+      "number": "2.",
+      "heading": "Virginia Voter Registration System",
+      "text": "Virginia Voter Registration System",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-404",
+      "number": "24.2-404.",
+      "heading": "Duties of Department of Elections",
+      "text": "Duties of Department of Elections",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-4041",
+      "number": "24.2-404.1.",
+      "heading": "Commissioner of Elections to serve as state coordinator for the administration of the National Voter Registration Act",
+      "text": "Commissioner of Elections to serve as state coordinator for the administration of the National Voter Registration Act",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-4042",
+      "number": "24.2-404.2.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-4043",
+      "number": "24.2-404.3.",
+      "heading": "Duty of Department of Elections; verification of registered voter lists",
+      "text": "Duty of Department of Elections; verification of registered voter lists",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-4044",
+      "number": "24.2-404.4.",
+      "heading": "Exchange of registered voter lists with other states",
+      "text": "Exchange of registered voter lists with other states",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-405",
+      "number": "24.2-405.",
+      "heading": "Lists of registered voters",
+      "text": "Lists of registered voters",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-406",
+      "number": "24.2-406.",
+      "heading": "Lists of persons voting at elections",
+      "text": "Lists of persons voting at elections",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-407",
+      "number": "24.2-407.",
+      "heading": "Statement for persons receiving lists of persons registered or voting; penalties",
+      "text": "Statement for persons receiving lists of persons registered or voting; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-4071",
+      "number": "24.2-407.1.",
+      "heading": "Prohibition on disclosure of social security numbers or parts thereof",
+      "text": "Prohibition on disclosure of social security numbers or parts thereof",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-408",
+      "number": "24.2-408.",
+      "heading": "State Registrar of Vital Records to transmit weekly lists of decedents to Department of Elections",
+      "text": "State Registrar of Vital Records to transmit weekly lists of decedents to Department of Elections",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-409",
+      "number": "24.2-409.",
+      "heading": "Central Criminal Records Exchange to transmit lists of felony convictions to Department of Elections",
+      "text": "Central Criminal Records Exchange to transmit lists of felony convictions to Department of Elections",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-4091",
+      "number": "24.2-409.1.",
+      "heading": "Department of Elections to transmit information pertaining to persons convicted of a felony in federal court",
+      "text": "Department of Elections to transmit information pertaining to persons convicted of a felony in federal court",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-410",
+      "number": "24.2-410.",
+      "heading": "Clerks of circuit courts to furnish lists of certain adjudications",
+      "text": "Clerks of circuit courts to furnish lists of certain adjudications",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-4101",
+      "number": "24.2-410.1.",
+      "heading": "Citizenship status; Department of Motor Vehicles to furnish lists of noncitizens",
+      "text": "Citizenship status; Department of Motor Vehicles to furnish lists of noncitizens",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-4102",
+      "number": "24.2-410.2.",
+      "heading": "Security of the Virginia voter registration system",
+      "text": "Security of the Virginia voter registration system",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3",
+      "number": "3.",
+      "heading": "Locations and Times for Registration",
+      "text": "Locations and Times for Registration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-411",
+      "number": "24.2-411.",
+      "heading": "Office of the general registrar",
+      "text": "Office of the general registrar",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-4111",
+      "number": "24.2-411.1.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-4112",
+      "number": "24.2-411.2.",
+      "heading": "State-designated voter registration agencies",
+      "text": "State-designated voter registration agencies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-4113",
+      "number": "24.2-411.3.",
+      "heading": "Registration of Department of Motor Vehicles customers",
+      "text": "Registration of Department of Motor Vehicles customers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-412",
+      "number": "24.2-412.",
+      "heading": "Other locations and times for voter registration",
+      "text": "Other locations and times for voter registration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-413",
+      "number": "24.2-413.",
+      "heading": "Accessible registration locations",
+      "text": "Accessible registration locations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-414",
+      "number": "24.2-414.",
+      "heading": "Final registration day",
+      "text": "Final registration day",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-4141",
+      "number": "24.2-414.1.",
+      "heading": "Closing time of registration sites on final day",
+      "text": "Closing time of registration sites on final day",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-415",
+      "number": "24.2-415.",
+      "heading": "Notice of times and locations for registration",
+      "text": "Notice of times and locations for registration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-4151",
+      "number": "24.2-415.1.",
+      "heading": "Persons authorized to receive voter registration applications",
+      "text": "Persons authorized to receive voter registration applications",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-416",
+      "number": "24.2-416.",
+      "heading": "Closing registration records before elections",
+      "text": "Closing registration records before elections",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31",
+      "number": "3.1.",
+      "heading": "Mail Registration",
+      "text": "Mail Registration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-4161",
+      "number": "24.2-416.1.",
+      "heading": "Voter registration by mail",
+      "text": "Voter registration by mail",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-4162",
+      "number": "24.2-416.2.",
+      "heading": "Mail voter registration application forms",
+      "text": "Mail voter registration application forms",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-4163",
+      "number": "24.2-416.3.",
+      "heading": "Distribution of mail voter registration application forms",
+      "text": "Distribution of mail voter registration application forms",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-4164",
+      "number": "24.2-416.4.",
+      "heading": "Return of mail voter registration applications",
+      "text": "Return of mail voter registration applications",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-4165",
+      "number": "24.2-416.5.",
+      "heading": "Social security number or parts thereof not to be disclosed",
+      "text": "Social security number or parts thereof not to be disclosed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-4166",
+      "number": "24.2-416.6.",
+      "heading": "Registration by and instructions for voter registration drives; compensation prohibitions",
+      "text": "Registration by and instructions for voter registration drives; compensation prohibitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32",
+      "number": "3.2.",
+      "heading": "Electronic Registration",
+      "text": "Electronic Registration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-4167",
+      "number": "24.2-416.7.",
+      "heading": "Application for voter registration by electronic means",
+      "text": "Application for voter registration by electronic means",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4",
+      "number": "4.",
+      "heading": "Registration of Voters",
+      "text": "Registration of Voters",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-417",
+      "number": "24.2-417.",
+      "heading": "Persons to be registered",
+      "text": "Persons to be registered",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-4171",
+      "number": "24.2-417.1.",
+      "heading": "Registration residence requirements; presumptions in certain cases",
+      "text": "Registration residence requirements; presumptions in certain cases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-418",
+      "number": "24.2-418.",
+      "heading": "Application for registration",
+      "text": "Application for registration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-4181",
+      "number": "24.2-418.1.",
+      "heading": "Receipt for voter registration applicants",
+      "text": "Receipt for voter registration applicants",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-419",
+      "number": "24.2-419.",
+      "heading": "Extended time for certain persons to register by mail",
+      "text": "Extended time for certain persons to register by mail",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-420",
+      "number": "24.2-420.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-4201",
+      "number": "24.2-420.1.",
+      "heading": "Extended time for persons to register in person",
+      "text": "Extended time for persons to register in person",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-421",
+      "number": "24.2-421.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-422",
+      "number": "24.2-422.",
+      "heading": "Appeal of person denied registration",
+      "text": "Appeal of person denied registration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-423",
+      "number": "24.2-423.",
+      "heading": "Notice of change of name of registered voter",
+      "text": "Notice of change of name of registered voter",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-424",
+      "number": "24.2-424.",
+      "heading": "Change of registered voter's address within the Commonwealth; pilot project",
+      "text": "Change of registered voter's address within the Commonwealth; pilot project",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-425",
+      "number": "24.2-425.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5",
+      "number": "5.",
+      "heading": "Cancellation of Registration",
+      "text": "Cancellation of Registration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-426",
+      "number": "24.2-426.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-427",
+      "number": "24.2-427.",
+      "heading": "Cancellation of registration by voter or for persons known to be deceased or disqualified to vote",
+      "text": "Cancellation of registration by voter or for persons known to be deceased or disqualified to vote",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-428",
+      "number": "24.2-428.",
+      "heading": "Regular periodic review of registration records; notice to voters identified as having moved; placement on inactive status for failure to respond to notice",
+      "text": "Regular periodic review of registration records; notice to voters identified as having moved; placement on inactive status for failure to respond to notice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-4281",
+      "number": "24.2-428.1.",
+      "heading": "Other procedures for assigning registered voters to inactive status",
+      "text": "Other procedures for assigning registered voters to inactive status",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-4282",
+      "number": "24.2-428.2.",
+      "heading": "Return of registered voter to active status",
+      "text": "Return of registered voter to active status",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-429",
+      "number": "24.2-429.",
+      "heading": "Maintenance of accurate registration records by general registrar; notice and hearing before cancellation",
+      "text": "Maintenance of accurate registration records by general registrar; notice and hearing before cancellation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-430",
+      "number": "24.2-430.",
+      "heading": "Appeal from decision of registrar",
+      "text": "Appeal from decision of registrar",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-431",
+      "number": "24.2-431.",
+      "heading": "Petition to court objecting to registration",
+      "text": "Petition to court objecting to registration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-432",
+      "number": "24.2-432.",
+      "heading": "Notice to person objected to and decision of court",
+      "text": "Notice to person objected to and decision of court",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-433",
+      "number": "24.2-433.",
+      "heading": "Appeal from decision of court",
+      "text": "Appeal from decision of court",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-434",
+      "number": "24.2-434.",
+      "heading": "Presumption if petition not brought within six months of registration",
+      "text": "Presumption if petition not brought within six months of registration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-435",
+      "number": "24.2-435.",
+      "heading": "Cancellation records to be retained for specified periods",
+      "text": "Cancellation records to be retained for specified periods",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6",
+      "number": "6.",
+      "heading": "Temporary Registration for Presidential Elections [Repealed]",
+      "text": "Temporary Registration for Presidential Elections [Repealed]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-436",
+      "number": "24.2-436.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7",
+      "number": "7.",
+      "heading": "Temporary Absentee Registration for Federal Elections [Repealed]",
+      "text": "Temporary Absentee Registration for Federal Elections [Repealed]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-440",
+      "number": "24.2-440.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-71",
+      "number": "7.1.",
+      "heading": "Temporary Registration for Certain Overseas Voters [Repealed]",
+      "text": "Temporary Registration for Certain Overseas Voters [Repealed]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-4431",
+      "number": "24.2-443.1.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8",
+      "number": "8.",
+      "heading": "Registration Records Generally",
+      "text": "Registration Records Generally",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-444",
+      "number": "24.2-444.",
+      "heading": "Duties of general registrars and Department of Elections as to voter registration records; public inspection; exceptions",
+      "text": "Duties of general registrars and Department of Elections as to voter registration records; public inspection; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-445",
+      "number": "24.2-445.",
+      "heading": "Registration records controlling in event of conflict",
+      "text": "Registration records controlling in event of conflict",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-446",
+      "number": "24.2-446.",
+      "heading": "Reconstruction of destroyed registration records",
+      "text": "Reconstruction of destroyed registration records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242-447",
+      "number": "24.2-447.",
+      "heading": "Persons registered prior to this title",
+      "text": "Persons registered prior to this title",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

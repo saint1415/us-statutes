@@ -1,0 +1,6310 @@
+{
+  "state": "louisiana",
+  "path": "title-code-of-civil-procedure/chapter-next",
+  "sections": [
+    {
+      "id": "section-1",
+      "number": "1.",
+      "heading": "Short title; citation of Code",
+      "text": "Short title; citation of Code",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2",
+      "number": "2.",
+      "heading": "Purpose and construction",
+      "text": "Purpose and construction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3",
+      "number": "3.",
+      "heading": "Procedures not otherwise specified",
+      "text": "Procedures not otherwise specified",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4",
+      "number": "4.",
+      "heading": "Number; gender",
+      "text": "Number; gender",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5",
+      "number": "5.",
+      "heading": "Mandatory and permissive language",
+      "text": "Mandatory and permissive language",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6",
+      "number": "6.",
+      "heading": "Conjunctive, disjunctive, or both",
+      "text": "Conjunctive, disjunctive, or both",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7",
+      "number": "7.",
+      "heading": "Municipal and parochial officers included",
+      "text": "Municipal and parochial officers included",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8",
+      "number": "8.",
+      "heading": "Assistants and deputies included",
+      "text": "Assistants and deputies included",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9",
+      "number": "9.",
+      "heading": "References to Code articles or statutory sections",
+      "text": "References to Code articles or statutory sections",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10",
+      "number": "10.",
+      "heading": "Article headings, source notes, and comments not part of law",
+      "text": "Article headings, source notes, and comments not part of law",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11",
+      "number": "11.",
+      "heading": "Clerical and typographical errors disregarded",
+      "text": "Clerical and typographical errors disregarded",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12",
+      "number": "12.",
+      "heading": "Pleading a statute",
+      "text": "Pleading a statute",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13",
+      "number": "13.",
+      "heading": "Computation of time",
+      "text": "Computation of time",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14",
+      "number": "14.",
+      "heading": "Oath or affirmation in criminal proceedings; witness",
+      "text": "Oath or affirmation in criminal proceedings; witness",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-141",
+      "number": "14.1.",
+      "heading": "Electronic filings",
+      "text": "Electronic filings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142",
+      "number": "14.2.",
+      "heading": "Facsimile filings",
+      "text": "Facsimile filings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15",
+      "number": "15.",
+      "heading": "Courts to which applicable; military not affected",
+      "text": "Courts to which applicable; military not affected",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-16",
+      "number": "16.",
+      "heading": "Jurisdiction and powers of courts",
+      "text": "Jurisdiction and powers of courts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-17",
+      "number": "17.",
+      "heading": "Inherent power and authority of courts",
+      "text": "Inherent power and authority of courts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-18",
+      "number": "18.",
+      "heading": "Adoption of local rules of court",
+      "text": "Adoption of local rules of court",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19",
+      "number": "19.",
+      "heading": "Special sessions of court",
+      "text": "Special sessions of court",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-20",
+      "number": "20.",
+      "heading": "Contempt of court; kinds of contempt",
+      "text": "Contempt of court; kinds of contempt",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-21",
+      "number": "21.",
+      "heading": "Direct contempt",
+      "text": "Direct contempt",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22",
+      "number": "22.",
+      "heading": "Procedure for punishing direct contempt",
+      "text": "Procedure for punishing direct contempt",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221",
+      "number": "22.1.",
+      "heading": "Direct contempt; fingerprinting and photographing; exceptions",
+      "text": "Direct contempt; fingerprinting and photographing; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-23",
+      "number": "23.",
+      "heading": "Constructive contempt",
+      "text": "Constructive contempt",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24",
+      "number": "24.",
+      "heading": "Procedure for punishing constructive contempt",
+      "text": "Procedure for punishing constructive contempt",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25",
+      "number": "25.",
+      "heading": "Penalties for contempt",
+      "text": "Penalties for contempt",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-251",
+      "number": "25.1.",
+      "heading": "Appointment of interpreter",
+      "text": "Appointment of interpreter",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26",
+      "number": "26.",
+      "heading": "Power to order peace bonds",
+      "text": "Power to order peace bonds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27",
+      "number": "27.",
+      "heading": "Application for peace bond; examination",
+      "text": "Application for peace bond; examination",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28",
+      "number": "28.",
+      "heading": "Issuance of summons or warrant of arrest",
+      "text": "Issuance of summons or warrant of arrest",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-29",
+      "number": "29.",
+      "heading": "Peace bond hearing; costs",
+      "text": "Peace bond hearing; costs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-30",
+      "number": "30.",
+      "heading": "The peace bond",
+      "text": "The peace bond",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31",
+      "number": "31.",
+      "heading": "Failure to give peace bond; effect",
+      "text": "Failure to give peace bond; effect",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32",
+      "number": "32.",
+      "heading": "Forfeiture of peace bond",
+      "text": "Forfeiture of peace bond",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33",
+      "number": "33.",
+      "heading": "Automatic discharge",
+      "text": "Automatic discharge",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-61",
+      "number": "61.",
+      "heading": "District attorney; powers and duties",
+      "text": "District attorney; powers and duties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62",
+      "number": "62.",
+      "heading": "Authority of attorney general; supervision of district attorney",
+      "text": "Authority of attorney general; supervision of district attorney",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63",
+      "number": "63.",
+      "heading": "District attorney; assistance of other counsel",
+      "text": "District attorney; assistance of other counsel",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-64",
+      "number": "64.",
+      "heading": "Relationship of district attorney with grand jury",
+      "text": "Relationship of district attorney with grand jury",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-65",
+      "number": "65.",
+      "heading": "Defense of prosecution unlawful",
+      "text": "Defense of prosecution unlawful",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-66",
+      "number": "66.",
+      "heading": "Subpoena of witness to appear before attorney general and district attorney",
+      "text": "Subpoena of witness to appear before attorney general and district attorney",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-67",
+      "number": "67.",
+      "heading": "Repealed by Acts 1999, No. 718, 1.",
+      "text": "Repealed by Acts 1999, No. 718, 1.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-101",
+      "number": "101.",
+      "heading": "Abolition of coroner's jury and inquest; investigation by coroner",
+      "text": "Abolition of coroner's jury and inquest; investigation by coroner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-102",
+      "number": "102.",
+      "heading": "Autopsy",
+      "text": "Autopsy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-103",
+      "number": "103.",
+      "heading": "Subpoena of witnesses; testimony; subpoena duces tecum; issuance",
+      "text": "Subpoena of witnesses; testimony; subpoena duces tecum; issuance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-104",
+      "number": "104.",
+      "heading": "Employment of expert assistants",
+      "text": "Employment of expert assistants",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-105",
+      "number": "105.",
+      "heading": "Coroner's report; admissibility in evidence",
+      "text": "Coroner's report; admissibility in evidence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-106",
+      "number": "106.",
+      "heading": "Arrest of criminal suspect",
+      "text": "Arrest of criminal suspect",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-131",
+      "number": "131.",
+      "heading": "Duties and powers",
+      "text": "Duties and powers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-161",
+      "number": "161.",
+      "heading": "Property subject to seizure",
+      "text": "Property subject to seizure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-162",
+      "number": "162.",
+      "heading": "Issuance of warrant; affidavit; description",
+      "text": "Issuance of warrant; affidavit; description",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1621",
+      "number": "162.1.",
+      "heading": "Warrant issued upon oral testimony",
+      "text": "Warrant issued upon oral testimony",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1622",
+      "number": "162.2.",
+      "heading": "Warrant issued upon electronic testimony",
+      "text": "Warrant issued upon electronic testimony",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1623",
+      "number": "162.3.",
+      "heading": "No-knock warrant",
+      "text": "No-knock warrant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1624",
+      "number": "162.4.",
+      "heading": "Search of a person's place of residence; odor of marijuana",
+      "text": "Search of a person's place of residence; odor of marijuana",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-163",
+      "number": "163.",
+      "heading": "Officer to whom directed; time for execution; electronic devices",
+      "text": "Officer to whom directed; time for execution; electronic devices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1631",
+      "number": "163.1.",
+      "heading": "Search of a person for bodily samples; warrants; execution",
+      "text": "Search of a person for bodily samples; warrants; execution",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1632",
+      "number": "163.2.",
+      "heading": "Search warrant for medical records",
+      "text": "Search warrant for medical records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-164",
+      "number": "164.",
+      "heading": "Means and force in executing warrant",
+      "text": "Means and force in executing warrant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-165",
+      "number": "165.",
+      "heading": "Authority of peace officer in executing a search warrant",
+      "text": "Authority of peace officer in executing a search warrant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-166",
+      "number": "166.",
+      "heading": "Receipt for seized property",
+      "text": "Receipt for seized property",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-167",
+      "number": "167.",
+      "heading": "Custody of seized property; disposition",
+      "text": "Custody of seized property; disposition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-201",
+      "number": "201.",
+      "heading": "Arrest defined",
+      "text": "Arrest defined",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-202",
+      "number": "202.",
+      "heading": "Warrant of arrest; issuance",
+      "text": "Warrant of arrest; issuance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-203",
+      "number": "203.",
+      "heading": "Form and contents of warrant",
+      "text": "Form and contents of warrant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204",
+      "number": "204.",
+      "heading": "Execution of warrant",
+      "text": "Execution of warrant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-205",
+      "number": "205.",
+      "heading": "Effective period",
+      "text": "Effective period",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-206",
+      "number": "206.",
+      "heading": "Procedure when warrant defective",
+      "text": "Procedure when warrant defective",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-207",
+      "number": "207.",
+      "heading": "Procedure when arrest made for offense triable in another parish",
+      "text": "Procedure when arrest made for offense triable in another parish",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-208",
+      "number": "208.",
+      "heading": "Summons; defined",
+      "text": "Summons; defined",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-209",
+      "number": "209.",
+      "heading": "When summons may be issued by magistrate",
+      "text": "When summons may be issued by magistrate",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-210",
+      "number": "210.",
+      "heading": "Service of summons",
+      "text": "Service of summons",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-211",
+      "number": "211.",
+      "heading": "Summons by officer instead of arrest and booking",
+      "text": "Summons by officer instead of arrest and booking",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2111",
+      "number": "211.1.",
+      "heading": "Persons with outstanding warrant; arrest or release of person",
+      "text": "Persons with outstanding warrant; arrest or release of person",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2112",
+      "number": "211.2.",
+      "heading": "Contempt; attachment of arrest for failing to appear; summons by peace officer instead of arrest",
+      "text": "Contempt; attachment of arrest for failing to appear; summons by peace officer instead of arrest",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2113",
+      "number": "211.3.",
+      "heading": "Summons by officer instead of arrest and booking; improper supervision of a minor by parent or legal guardian",
+      "text": "Summons by officer instead of arrest and booking; improper supervision of a minor by parent or legal guardian",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2114",
+      "number": "211.4.",
+      "heading": "Repealed by Acts 2011, No. 403, §2.",
+      "text": "Repealed by Acts 2011, No. 403, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2115",
+      "number": "211.5.",
+      "heading": "Repealed by Acts 2011, No. 403, §2.",
+      "text": "Repealed by Acts 2011, No. 403, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2116",
+      "number": "211.6.",
+      "heading": "Repealed by Acts 2011, No. 403, §2.",
+      "text": "Repealed by Acts 2011, No. 403, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-212",
+      "number": "212.",
+      "heading": "Securing jurisdiction over corporation, partnership, or other unincorporated association",
+      "text": "Securing jurisdiction over corporation, partnership, or other unincorporated association",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-213",
+      "number": "213.",
+      "heading": "Arrest by officer without warrant; when lawful",
+      "text": "Arrest by officer without warrant; when lawful",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-214",
+      "number": "214.",
+      "heading": "Arrest by private person; when lawful",
+      "text": "Arrest by private person; when lawful",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-215",
+      "number": "215.",
+      "heading": "Detention and arrest of shoplifters",
+      "text": "Detention and arrest of shoplifters",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2151",
+      "number": "215.1.",
+      "heading": "Temporary questioning of persons in public places; frisk and search for weapons",
+      "text": "Temporary questioning of persons in public places; frisk and search for weapons",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2152",
+      "number": "215.2.",
+      "heading": "Detaining of persons on premises of correctional institution for questioning about contraband; detention for arrest",
+      "text": "Detaining of persons on premises of correctional institution for questioning about contraband; detention for arrest",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-216",
+      "number": "216.",
+      "heading": "Time and place of making arrest",
+      "text": "Time and place of making arrest",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-217",
+      "number": "217.",
+      "heading": "Method of arrest by officer under warrant",
+      "text": "Method of arrest by officer under warrant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-218",
+      "number": "218.",
+      "heading": "Method of arrest without warrant",
+      "text": "Method of arrest without warrant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2181",
+      "number": "218.1.",
+      "heading": "Advice of reasons for arrest or detention and of rights",
+      "text": "Advice of reasons for arrest or detention and of rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-219",
+      "number": "219.",
+      "heading": "Officer may summon assistance",
+      "text": "Officer may summon assistance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-220",
+      "number": "220.",
+      "heading": "Submission to arrest; use of force",
+      "text": "Submission to arrest; use of force",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221",
+      "number": "221.",
+      "heading": "Blood and saliva testing",
+      "text": "Blood and saliva testing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-222",
+      "number": "222.",
+      "heading": "Blood and saliva testing; expedited, nonincriminating procedure",
+      "text": "Blood and saliva testing; expedited, nonincriminating procedure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-223",
+      "number": "223.",
+      "heading": "Identification of minor or dependent children upon arrest; required inquiry; guidelines",
+      "text": "Identification of minor or dependent children upon arrest; required inquiry; guidelines",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-224",
+      "number": "224.",
+      "heading": "Forcible entry in making arrest",
+      "text": "Forcible entry in making arrest",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-225",
+      "number": "225.",
+      "heading": "Duty of peace officer as to weapons and incriminating articles",
+      "text": "Duty of peace officer as to weapons and incriminating articles",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-226",
+      "number": "226.",
+      "heading": "Duty of private person after making arrest",
+      "text": "Duty of private person after making arrest",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-227",
+      "number": "227.",
+      "heading": "Rearrest after escape",
+      "text": "Rearrest after escape",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2271",
+      "number": "227.1.",
+      "heading": "Prevention of escape; use of force",
+      "text": "Prevention of escape; use of force",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-228",
+      "number": "228.",
+      "heading": "Booking of arrested person, submission of booking information summary",
+      "text": "Booking of arrested person, submission of booking information summary",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2281",
+      "number": "228.1.",
+      "heading": "Disposal of property of prisoners; Orleans Parish",
+      "text": "Disposal of property of prisoners; Orleans Parish",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2282",
+      "number": "228.2.",
+      "heading": "Disposal of property of prisoners; Orleans Parish excepted",
+      "text": "Disposal of property of prisoners; Orleans Parish excepted",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2283",
+      "number": "228.3.",
+      "heading": "Disposal of unclaimed property seized in any criminal investigation; Orleans Parish excepted",
+      "text": "Disposal of unclaimed property seized in any criminal investigation; Orleans Parish excepted",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2284",
+      "number": "228.4.",
+      "heading": "Disposal of noncontraband unclaimed property seized in criminal investigations",
+      "text": "Disposal of noncontraband unclaimed property seized in criminal investigations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-229",
+      "number": "229.",
+      "heading": "Duties of officer in charge",
+      "text": "Duties of officer in charge",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-230",
+      "number": "230.",
+      "heading": "Rights of person arrested",
+      "text": "Rights of person arrested",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2301",
+      "number": "230.1.",
+      "heading": "Maximum time for appearance before judge for the purpose of appointment of counsel; court discretion to fix bail at the appearance; extension of time limit for cause; effect of failure of appearance",
+      "text": "Maximum time for appearance before judge for the purpose of appointment of counsel; court discretion to fix bail at the appearance; extension of time limit for cause; effect of failure of appearance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2302",
+      "number": "230.2.",
+      "heading": "Probable cause determinations; persons arrested without a warrant and continued in custody; bail",
+      "text": "Probable cause determinations; persons arrested without a warrant and continued in custody; bail",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-231",
+      "number": "231.",
+      "heading": "Close pursuit of person from another state; authority to arrest",
+      "text": "Close pursuit of person from another state; authority to arrest",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-232",
+      "number": "232.",
+      "heading": "Same; arrested person taken before judge for hearing",
+      "text": "Same; arrested person taken before judge for hearing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-233",
+      "number": "233.",
+      "heading": "Electronic signature of offender; requirements",
+      "text": "Electronic signature of offender; requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-234",
+      "number": "234.",
+      "heading": "Booking photographs",
+      "text": "Booking photographs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-251",
+      "number": "251.",
+      "heading": "Legislative intent",
+      "text": "Legislative intent",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-252",
+      "number": "252.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-253",
+      "number": "253.",
+      "heading": "Eyewitness identification procedures",
+      "text": "Eyewitness identification procedures",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-261",
+      "number": "261.",
+      "heading": "Special definitions",
+      "text": "Special definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-262",
+      "number": "262.",
+      "heading": "Extradition of wanted criminals",
+      "text": "Extradition of wanted criminals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2621",
+      "number": "262.1.",
+      "heading": "Extradition of persons not physically present in demanding state at the time of commission of crime",
+      "text": "Extradition of persons not physically present in demanding state at the time of commission of crime",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-263",
+      "number": "263.",
+      "heading": "Form of demand for extradition; necessary papers",
+      "text": "Form of demand for extradition; necessary papers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-264",
+      "number": "264.",
+      "heading": "Investigation of demand by governor",
+      "text": "Investigation of demand by governor",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-265",
+      "number": "265.",
+      "heading": "Governor's warrant; issuance and recitals",
+      "text": "Governor's warrant; issuance and recitals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-266",
+      "number": "266.",
+      "heading": "Governor's warrant; execution and recall",
+      "text": "Governor's warrant; execution and recall",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-267",
+      "number": "267.",
+      "heading": "Rights of accused; extradition hearing",
+      "text": "Rights of accused; extradition hearing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-268",
+      "number": "268.",
+      "heading": "Issues at extradition hearing; resulting orders",
+      "text": "Issues at extradition hearing; resulting orders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-269",
+      "number": "269.",
+      "heading": "Arrest prior to demand for extradition; issuance of warrant",
+      "text": "Arrest prior to demand for extradition; issuance of warrant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-270",
+      "number": "270.",
+      "heading": "Commitment to await extradition",
+      "text": "Commitment to await extradition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-271",
+      "number": "271.",
+      "heading": "Bail in extradition cases",
+      "text": "Bail in extradition cases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-272",
+      "number": "272.",
+      "heading": "Persons under criminal prosecution or sentence in this state at time of requisition",
+      "text": "Persons under criminal prosecution or sentence in this state at time of requisition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-273",
+      "number": "273.",
+      "heading": "Waiver of extradition proceedings",
+      "text": "Waiver of extradition proceedings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-274",
+      "number": "274.",
+      "heading": "Application for issuance of requisition",
+      "text": "Application for issuance of requisition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-275",
+      "number": "275.",
+      "heading": "Application for return of wanted fugitive",
+      "text": "Application for return of wanted fugitive",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-276",
+      "number": "276.",
+      "heading": "Documents to be filed with application for requisition",
+      "text": "Documents to be filed with application for requisition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-277",
+      "number": "277.",
+      "heading": "Appointment of agents to receive prisoner",
+      "text": "Appointment of agents to receive prisoner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278",
+      "number": "278.",
+      "heading": "Re-extradition agreements",
+      "text": "Re-extradition agreements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-279",
+      "number": "279.",
+      "heading": "Extradition costs and expenses",
+      "text": "Extradition costs and expenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-280",
+      "number": "280.",
+      "heading": "Immunity of extradited person from service of process in civil actions",
+      "text": "Immunity of extradited person from service of process in civil actions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-281",
+      "number": "281.",
+      "heading": "No right of asylum or immunity from other criminal prosecutions",
+      "text": "No right of asylum or immunity from other criminal prosecutions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-291",
+      "number": "291.",
+      "heading": "Authority to conduct preliminary examinations",
+      "text": "Authority to conduct preliminary examinations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-292",
+      "number": "292.",
+      "heading": "Order for preliminary examination before and after indictment",
+      "text": "Order for preliminary examination before and after indictment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-293",
+      "number": "293.",
+      "heading": "Time for examination; procurement of counsel",
+      "text": "Time for examination; procurement of counsel",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-294",
+      "number": "294.",
+      "heading": "Examination of witnesses; transcript of testimony",
+      "text": "Examination of witnesses; transcript of testimony",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-295",
+      "number": "295.",
+      "heading": "Admissibility of transcripts in other proceedings",
+      "text": "Admissibility of transcripts in other proceedings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-296",
+      "number": "296.",
+      "heading": "Scope of preliminary examination before and after indictment",
+      "text": "Scope of preliminary examination before and after indictment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-297",
+      "number": "297.",
+      "heading": "Transmission of transcripts and other evidence",
+      "text": "Transmission of transcripts and other evidence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-298",
+      "number": "298.",
+      "heading": "Effect of informality in proceedings",
+      "text": "Effect of informality in proceedings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-311",
+      "number": "311.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-312",
+      "number": "312.",
+      "heading": "Right to bail before and after conviction",
+      "text": "Right to bail before and after conviction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-313",
+      "number": "313.",
+      "heading": "Gwen's Law; bail hearings; detention without bail",
+      "text": "Gwen's Law; bail hearings; detention without bail",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3131",
+      "number": "313.1.",
+      "heading": "Detention of noncitizen defendant pending bail hearing",
+      "text": "Detention of noncitizen defendant pending bail hearing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-314",
+      "number": "314.",
+      "heading": "Authority to fix bail; bail order",
+      "text": "Authority to fix bail; bail order",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-315",
+      "number": "315.",
+      "heading": "Schedules of bail",
+      "text": "Schedules of bail",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-316",
+      "number": "316.",
+      "heading": "Factors in fixing amount of bail",
+      "text": "Factors in fixing amount of bail",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-317",
+      "number": "317.",
+      "heading": "Organization performing or providing pretrial services",
+      "text": "Organization performing or providing pretrial services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-318",
+      "number": "318.",
+      "heading": "Juvenile records in fixing bail",
+      "text": "Juvenile records in fixing bail",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-319",
+      "number": "319.",
+      "heading": "Modifications of bail",
+      "text": "Modifications of bail",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-320",
+      "number": "320.",
+      "heading": "Conditions of bail undertaking",
+      "text": "Conditions of bail undertaking",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-321",
+      "number": "321.",
+      "heading": "Types of bail; restrictions",
+      "text": "Types of bail; restrictions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-322",
+      "number": "322.",
+      "heading": "Commercial surety",
+      "text": "Commercial surety",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-323",
+      "number": "323.",
+      "heading": "Secured personal surety",
+      "text": "Secured personal surety",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-324",
+      "number": "324.",
+      "heading": "Unsecured personal surety",
+      "text": "Unsecured personal surety",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-325",
+      "number": "325.",
+      "heading": "Bail without surety",
+      "text": "Bail without surety",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3251",
+      "number": "325.1.",
+      "heading": "Repealed by Acts 1983, No. 256, 1.",
+      "text": "Repealed by Acts 1983, No. 256, 1.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-326",
+      "number": "326.",
+      "heading": "Cash deposits",
+      "text": "Cash deposits",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-327",
+      "number": "327.",
+      "heading": "Those who may not be sureties",
+      "text": "Those who may not be sureties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3271",
+      "number": "327.1.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-328",
+      "number": "328.",
+      "heading": "Bail undertaking",
+      "text": "Bail undertaking",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-329",
+      "number": "329.",
+      "heading": "Declaration of residence; waiver of notice",
+      "text": "Declaration of residence; waiver of notice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-330",
+      "number": "330.",
+      "heading": "Notice of defendant's required appearance",
+      "text": "Notice of defendant's required appearance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3301",
+      "number": "330.1.",
+      "heading": "Posting bail when arrested outside of originating jurisdiction",
+      "text": "Posting bail when arrested outside of originating jurisdiction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3302",
+      "number": "330.2.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3303",
+      "number": "330.3.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-331",
+      "number": "331.",
+      "heading": "Discharge of bail obligation",
+      "text": "Discharge of bail obligation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-332",
+      "number": "332.",
+      "heading": "Court order for arrest of defendant",
+      "text": "Court order for arrest of defendant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-333",
+      "number": "333.",
+      "heading": "Failure to appear; issuance of arrest warrant",
+      "text": "Failure to appear; issuance of arrest warrant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-334",
+      "number": "334.",
+      "heading": "Notice of warrant of arrest",
+      "text": "Notice of warrant of arrest",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3341",
+      "number": "334.1.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3342",
+      "number": "334.2.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3343",
+      "number": "334.3.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3344",
+      "number": "334.4.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3345",
+      "number": "334.5.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3346",
+      "number": "334.6.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-335",
+      "number": "335.",
+      "heading": "Rule to show cause; bond forfeiture",
+      "text": "Rule to show cause; bond forfeiture",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3351",
+      "number": "335.1.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3352",
+      "number": "335.2.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-336",
+      "number": "336.",
+      "heading": "Proof necessary at bond forfeiture hearing",
+      "text": "Proof necessary at bond forfeiture hearing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3361",
+      "number": "336.1.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3362",
+      "number": "336.2.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-337",
+      "number": "337.",
+      "heading": "Interruption of the period for obtaining a bond forfeiture judgment",
+      "text": "Interruption of the period for obtaining a bond forfeiture judgment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-338",
+      "number": "338.",
+      "heading": "Cases of nonforfeiture",
+      "text": "Cases of nonforfeiture",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-339",
+      "number": "339.",
+      "heading": "Notice of judgment",
+      "text": "Notice of judgment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-340",
+      "number": "340.",
+      "heading": "Recordation of judgment",
+      "text": "Recordation of judgment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-341",
+      "number": "341.",
+      "heading": "Appeals",
+      "text": "Appeals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-342",
+      "number": "342.",
+      "heading": "Enforcement of judgment",
+      "text": "Enforcement of judgment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-343",
+      "number": "343.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-344",
+      "number": "344.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-345",
+      "number": "345.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-346",
+      "number": "346.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-347",
+      "number": "347.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-348",
+      "number": "348.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-349",
+      "number": "349.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3491",
+      "number": "349.1.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3492",
+      "number": "349.2.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3493",
+      "number": "349.3.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3494",
+      "number": "349.4.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3495",
+      "number": "349.5.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3496",
+      "number": "349.6.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3497",
+      "number": "349.7.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3498",
+      "number": "349.8.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3499",
+      "number": "349.9.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-351",
+      "number": "351.",
+      "heading": "Habeas corpus; definition",
+      "text": "Habeas corpus; definition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-352",
+      "number": "352.",
+      "heading": "Venue",
+      "text": "Venue",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-353",
+      "number": "353.",
+      "heading": "Application for writ; form and contents",
+      "text": "Application for writ; form and contents",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-354",
+      "number": "354.",
+      "heading": "Granting of writ; time and place for answer",
+      "text": "Granting of writ; time and place for answer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-355",
+      "number": "355.",
+      "heading": "Persons authorized to make service; proof of service",
+      "text": "Persons authorized to make service; proof of service",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-356",
+      "number": "356.",
+      "heading": "Method of service",
+      "text": "Method of service",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-357",
+      "number": "357.",
+      "heading": "Answer; production of person in custody",
+      "text": "Answer; production of person in custody",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-358",
+      "number": "358.",
+      "heading": "Transfer of custody; answer",
+      "text": "Transfer of custody; answer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-359",
+      "number": "359.",
+      "heading": "Nonproduction of person confined; justification",
+      "text": "Nonproduction of person confined; justification",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-360",
+      "number": "360.",
+      "heading": "Hearing",
+      "text": "Hearing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361",
+      "number": "361.",
+      "heading": "Custody without court order",
+      "text": "Custody without court order",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-362",
+      "number": "362.",
+      "heading": "Custody with court order",
+      "text": "Custody with court order",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-363",
+      "number": "363.",
+      "heading": "Effect of appeal",
+      "text": "Effect of appeal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-364",
+      "number": "364.",
+      "heading": "New warrant; when issued",
+      "text": "New warrant; when issued",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365",
+      "number": "365.",
+      "heading": "Burden of proof",
+      "text": "Burden of proof",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-366",
+      "number": "366.",
+      "heading": "Custody pendente lite",
+      "text": "Custody pendente lite",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-367",
+      "number": "367.",
+      "heading": "Rearrest after discharge",
+      "text": "Rearrest after discharge",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-368",
+      "number": "368.",
+      "heading": "Disobedience of writ or judgment; contempt",
+      "text": "Disobedience of writ or judgment; contempt",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-369",
+      "number": "369.",
+      "heading": "Appeal not permitted",
+      "text": "Appeal not permitted",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-370",
+      "number": "370.",
+      "heading": "Custody pending application for writs",
+      "text": "Custody pending application for writs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-381",
+      "number": "381.",
+      "heading": "Nature of criminal prosecution",
+      "text": "Nature of criminal prosecution",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-382",
+      "number": "382.",
+      "heading": "Methods of instituting criminal prosecutions",
+      "text": "Methods of instituting criminal prosecutions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383",
+      "number": "383.",
+      "heading": "Indictment",
+      "text": "Indictment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-384",
+      "number": "384.",
+      "heading": "Information",
+      "text": "Information",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-385",
+      "number": "385.",
+      "heading": "Affidavit",
+      "text": "Affidavit",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-386",
+      "number": "386.",
+      "heading": "Institution of prosecution after discharge at preliminary examination; after failure of grand jury to indict",
+      "text": "Institution of prosecution after discharge at preliminary examination; after failure of grand jury to indict",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-387",
+      "number": "387.",
+      "heading": "Additional information required when prosecuting certain offenses",
+      "text": "Additional information required when prosecuting certain offenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-388",
+      "number": "388.",
+      "heading": "Additional information provided when prosecuting offenses",
+      "text": "Additional information provided when prosecuting offenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-389",
+      "number": "389.",
+      "heading": "Information to be provided to supreme court; daily reports",
+      "text": "Information to be provided to supreme court; daily reports",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-390",
+      "number": "390.",
+      "heading": "Burden of proof; justification of self-defense raised; probable cause",
+      "text": "Burden of proof; justification of self-defense raised; probable cause",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-401",
+      "number": "401.",
+      "heading": "General qualifications of jurors",
+      "text": "General qualifications of jurors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4011",
+      "number": "401.1.",
+      "heading": "Court instructions for interpreter",
+      "text": "Court instructions for interpreter",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-402",
+      "number": "402.",
+      "heading": "Repealed by Acts 1974, Ex.Sess., No. 20, 1, eff. January 1, 1975",
+      "text": "Repealed by Acts 1974, Ex.Sess., No. 20, 1, eff. January 1, 1975",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-403",
+      "number": "403.",
+      "heading": "Exemption from jury service",
+      "text": "Exemption from jury service",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4031",
+      "number": "403.1.",
+      "heading": "Disqualification for undue hardship",
+      "text": "Disqualification for undue hardship",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-404",
+      "number": "404.",
+      "heading": "Appointment of jury commissions; term of office; oath; quorum; performance of functions of jury commissions in certain parishes",
+      "text": "Appointment of jury commissions; term of office; oath; quorum; performance of functions of jury commissions in certain parishes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4041",
+      "number": "404.1.",
+      "heading": "Powers, duties, and functions of the board of jury commissioners in Orleans Parish",
+      "text": "Powers, duties, and functions of the board of jury commissioners in Orleans Parish",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-405",
+      "number": "405.",
+      "heading": "Notice of jury commission meetings",
+      "text": "Notice of jury commission meetings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-406",
+      "number": "406.",
+      "heading": "Powers of jury commission; penalty for disobedience of commission process",
+      "text": "Powers of jury commission; penalty for disobedience of commission process",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-407",
+      "number": "407.",
+      "heading": "Administration of oath to witnesses",
+      "text": "Administration of oath to witnesses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-408",
+      "number": "408.",
+      "heading": "Selection of general venire in parishes other than Orleans",
+      "text": "Selection of general venire in parishes other than Orleans",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081",
+      "number": "408.1.",
+      "heading": "Initial selection of general venire; source",
+      "text": "Initial selection of general venire; source",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-409",
+      "number": "409.",
+      "heading": "Selection of general venire in Orleans Parish",
+      "text": "Selection of general venire in Orleans Parish",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4091",
+      "number": "409.1.",
+      "heading": "Orleans parish central jury pool",
+      "text": "Orleans parish central jury pool",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4092",
+      "number": "409.2.",
+      "heading": "Jefferson Parish central jury pool",
+      "text": "Jefferson Parish central jury pool",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4093",
+      "number": "409.3.",
+      "heading": "Central jury pools; local rules",
+      "text": "Central jury pools; local rules",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4094",
+      "number": "409.4.",
+      "heading": "Nineteenth Judicial District Court central jury pool",
+      "text": "Nineteenth Judicial District Court central jury pool",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4095",
+      "number": "409.5.",
+      "heading": "One day/one trial jury system",
+      "text": "One day/one trial jury system",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-410",
+      "number": "410.",
+      "heading": "Revising and supplementing the general venire",
+      "text": "Revising and supplementing the general venire",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-411",
+      "number": "411.",
+      "heading": "Drawing of grand jury venire; disposition of slips; jury box; subpoena of persons on grand jury venire",
+      "text": "Drawing of grand jury venire; disposition of slips; jury box; subpoena of persons on grand jury venire",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-412",
+      "number": "412.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-413",
+      "number": "413.",
+      "heading": "Method of impaneling of grand jury; selection of foreman",
+      "text": "Method of impaneling of grand jury; selection of foreman",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-414",
+      "number": "414.",
+      "heading": "Time for impaneling grand juries; period of service",
+      "text": "Time for impaneling grand juries; period of service",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-415",
+      "number": "415.",
+      "heading": "Method of filling vacancies on grand jury",
+      "text": "Method of filling vacancies on grand jury",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4151",
+      "number": "415.1.",
+      "heading": "Selection of additional grand juries",
+      "text": "Selection of additional grand juries",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4152",
+      "number": "415.2.",
+      "heading": "Duration of additional grand juries; extension of impanelment",
+      "text": "Duration of additional grand juries; extension of impanelment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-416",
+      "number": "416.",
+      "heading": "Drawing petit jury venire in parishes other than Orleans; term of service",
+      "text": "Drawing petit jury venire in parishes other than Orleans; term of service",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4161",
+      "number": "416.1.",
+      "heading": "One-step qualification/summoning",
+      "text": "One-step qualification/summoning",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-417",
+      "number": "417.",
+      "heading": "Proces verbal; summoning of petit jurors; parishes other than Orleans",
+      "text": "Proces verbal; summoning of petit jurors; parishes other than Orleans",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-418",
+      "number": "418.",
+      "heading": "Drawing petit jury venire in Orleans parish; number chosen; term of service; petit jury venire list",
+      "text": "Drawing petit jury venire in Orleans parish; number chosen; term of service; petit jury venire list",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-419",
+      "number": "419.",
+      "heading": "Challenge of venire not permitted except for fraud or irreparable injury or systematic exclusion based on race",
+      "text": "Challenge of venire not permitted except for fraud or irreparable injury or systematic exclusion based on race",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-800",
+      "number": "800.",
+      "heading": "Objection to ruling on challenge for cause",
+      "text": "Objection to ruling on challenge for cause",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-431",
+      "number": "431.",
+      "heading": "Oath of grand jury",
+      "text": "Oath of grand jury",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-432",
+      "number": "432.",
+      "heading": "Charge to grand jury",
+      "text": "Charge to grand jury",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-433",
+      "number": "433.",
+      "heading": "Persons present during grand jury sessions",
+      "text": "Persons present during grand jury sessions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-434",
+      "number": "434.",
+      "heading": "Secrecy of grand jury meetings; procedures for crimes in other parishes",
+      "text": "Secrecy of grand jury meetings; procedures for crimes in other parishes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4341",
+      "number": "434.1.",
+      "heading": "Exceptions to grand jury secrecy",
+      "text": "Exceptions to grand jury secrecy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-435",
+      "number": "435.",
+      "heading": "Meetings of grand jury",
+      "text": "Meetings of grand jury",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-436",
+      "number": "436.",
+      "heading": "The foreman; rules of procedure",
+      "text": "The foreman; rules of procedure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-437",
+      "number": "437.",
+      "heading": "Inquiry into offenses; authority and duties",
+      "text": "Inquiry into offenses; authority and duties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-438",
+      "number": "438.",
+      "heading": "Duty of grand juror having knowledge of offense; investigation",
+      "text": "Duty of grand juror having knowledge of offense; investigation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-439",
+      "number": "439.",
+      "heading": "Subpoena of witnesses to appear before the grand jury",
+      "text": "Subpoena of witnesses to appear before the grand jury",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4391",
+      "number": "439.1.",
+      "heading": "Witnesses; authority to compel testimony and evidence",
+      "text": "Witnesses; authority to compel testimony and evidence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-440",
+      "number": "440.",
+      "heading": "Administration of oath to witnesses",
+      "text": "Administration of oath to witnesses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441",
+      "number": "441.",
+      "heading": "Administration of oath to other persons",
+      "text": "Administration of oath to other persons",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-442",
+      "number": "442.",
+      "heading": "Evidence to be received by grand jury",
+      "text": "Evidence to be received by grand jury",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-443",
+      "number": "443.",
+      "heading": "When indictment to be found",
+      "text": "When indictment to be found",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-444",
+      "number": "444.",
+      "heading": "Action by grand jury",
+      "text": "Action by grand jury",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-461",
+      "number": "461.",
+      "heading": "Special definitions",
+      "text": "Special definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-462",
+      "number": "462.",
+      "heading": "Form of grand jury indictment",
+      "text": "Form of grand jury indictment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463",
+      "number": "463.",
+      "heading": "Form of information",
+      "text": "Form of information",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-464",
+      "number": "464.",
+      "heading": "Nature and contents of indictment",
+      "text": "Nature and contents of indictment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-465",
+      "number": "465.",
+      "heading": "Specific indictment forms",
+      "text": "Specific indictment forms",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-466",
+      "number": "466.",
+      "heading": "Name of defendant",
+      "text": "Name of defendant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-467",
+      "number": "467.",
+      "heading": "Naming corporation, partnership or other unincorporated association",
+      "text": "Naming corporation, partnership or other unincorporated association",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-468",
+      "number": "468.",
+      "heading": "Date and time",
+      "text": "Date and time",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-469",
+      "number": "469.",
+      "heading": "Venue and place",
+      "text": "Venue and place",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-470",
+      "number": "470.",
+      "heading": "Value, price, or damage",
+      "text": "Value, price, or damage",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-471",
+      "number": "471.",
+      "heading": "Ownership",
+      "text": "Ownership",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-472",
+      "number": "472.",
+      "heading": "General intent",
+      "text": "General intent",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-473",
+      "number": "473.",
+      "heading": "Identification of victim",
+      "text": "Identification of victim",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-474",
+      "number": "474.",
+      "heading": "Property described as money",
+      "text": "Property described as money",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-475",
+      "number": "475.",
+      "heading": "Description of written instruments and printed objects",
+      "text": "Description of written instruments and printed objects",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-476",
+      "number": "476.",
+      "heading": "Description of spoken or written matter",
+      "text": "Description of spoken or written matter",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-477",
+      "number": "477.",
+      "heading": "Meaning of words and phrases",
+      "text": "Meaning of words and phrases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-478",
+      "number": "478.",
+      "heading": "Judgments and other determinations",
+      "text": "Judgments and other determinations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-479",
+      "number": "479.",
+      "heading": "Exceptions",
+      "text": "Exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-480",
+      "number": "480.",
+      "heading": "Conjunctive charging",
+      "text": "Conjunctive charging",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-481",
+      "number": "481.",
+      "heading": "Theft",
+      "text": "Theft",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-482",
+      "number": "482.",
+      "heading": "Alternative offenses; special joinder rules",
+      "text": "Alternative offenses; special joinder rules",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-483",
+      "number": "483.",
+      "heading": "Allegations of prior convictions",
+      "text": "Allegations of prior convictions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-484",
+      "number": "484.",
+      "heading": "Bill of particulars",
+      "text": "Bill of particulars",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-485",
+      "number": "485.",
+      "heading": "Effect of inconsistent or limiting allegations of bill of particulars",
+      "text": "Effect of inconsistent or limiting allegations of bill of particulars",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-486",
+      "number": "486.",
+      "heading": "Repugnancy; surplusage",
+      "text": "Repugnancy; surplusage",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-487",
+      "number": "487.",
+      "heading": "Defective indictment; amendment",
+      "text": "Defective indictment; amendment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4871",
+      "number": "487.1.",
+      "heading": "Indictment for driving while intoxicated; amendment",
+      "text": "Indictment for driving while intoxicated; amendment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-488",
+      "number": "488.",
+      "heading": "Variances; amendment",
+      "text": "Variances; amendment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489",
+      "number": "489.",
+      "heading": "Continuance where amendment prejudicial",
+      "text": "Continuance where amendment prejudicial",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-490",
+      "number": "490.",
+      "heading": "Counts",
+      "text": "Counts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-491",
+      "number": "491.",
+      "heading": "Arts. 491, 492 Repealed by Acts 1975, No. 528, 1",
+      "text": "Arts. 491, 492 Repealed by Acts 1975, No. 528, 1",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-493",
+      "number": "493.",
+      "heading": "Joinder of offenses",
+      "text": "Joinder of offenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4931",
+      "number": "493.1.",
+      "heading": "Joinder of misdemeanors; penalties",
+      "text": "Joinder of misdemeanors; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4932",
+      "number": "493.2.",
+      "heading": "Joinder of felonies; mode of trial",
+      "text": "Joinder of felonies; mode of trial",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-494",
+      "number": "494.",
+      "heading": "Joinder of defendants",
+      "text": "Joinder of defendants",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-495",
+      "number": "495.",
+      "heading": "Objections to misjoinder",
+      "text": "Objections to misjoinder",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4951",
+      "number": "495.1.",
+      "heading": "Severance of offenses",
+      "text": "Severance of offenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-496",
+      "number": "496.",
+      "heading": "Warrant of arrest on indictment or information",
+      "text": "Warrant of arrest on indictment or information",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-497",
+      "number": "497.",
+      "heading": "Summons in misdemeanor cases",
+      "text": "Summons in misdemeanor cases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-498",
+      "number": "498.",
+      "heading": "Copy of indictment or information",
+      "text": "Copy of indictment or information",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-499",
+      "number": "499.",
+      "heading": "AIDS testing of the accused",
+      "text": "AIDS testing of the accused",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-511",
+      "number": "511.",
+      "heading": "Right to counsel",
+      "text": "Right to counsel",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-512",
+      "number": "512.",
+      "heading": "Assignment of counsel in capital cases",
+      "text": "Assignment of counsel in capital cases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-513",
+      "number": "513.",
+      "heading": "Assignment of counsel in other cases",
+      "text": "Assignment of counsel in other cases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-514",
+      "number": "514.",
+      "heading": "Minute entry regarding counsel",
+      "text": "Minute entry regarding counsel",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-515",
+      "number": "515.",
+      "heading": "Substitution of counsel",
+      "text": "Substitution of counsel",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-516",
+      "number": "516.",
+      "heading": "Belated pleas and motions; when authorized",
+      "text": "Belated pleas and motions; when authorized",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-517",
+      "number": "517.",
+      "heading": "Joint representation of co-defendants; duty of court",
+      "text": "Joint representation of co-defendants; duty of court",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-521",
+      "number": "521.",
+      "heading": "Time for filing of pretrial motions",
+      "text": "Time for filing of pretrial motions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-522",
+      "number": "522.",
+      "heading": "Hearings on motions; audio-visual appearance",
+      "text": "Hearings on motions; audio-visual appearance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-523",
+      "number": "523.",
+      "heading": "Notice for hearing of pretrial motions; dismissal",
+      "text": "Notice for hearing of pretrial motions; dismissal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-531",
+      "number": "531.",
+      "heading": "Motion to quash; nature of motion",
+      "text": "Motion to quash; nature of motion",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-532",
+      "number": "532.",
+      "heading": "General grounds for motion to quash",
+      "text": "General grounds for motion to quash",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-533",
+      "number": "533.",
+      "heading": "Special grounds for motion to quash grand jury indictment",
+      "text": "Special grounds for motion to quash grand jury indictment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-534",
+      "number": "534.",
+      "heading": "Special grounds for motion to quash information",
+      "text": "Special grounds for motion to quash information",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-535",
+      "number": "535.",
+      "heading": "Time to file motion to quash",
+      "text": "Time to file motion to quash",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-536",
+      "number": "536.",
+      "heading": "Form and contents of motion to quash; place to file",
+      "text": "Form and contents of motion to quash; place to file",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-537",
+      "number": "537.",
+      "heading": "Trial of issues arising on motion to quash",
+      "text": "Trial of issues arising on motion to quash",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-538",
+      "number": "538.",
+      "heading": "Effect of sustaining motion to quash",
+      "text": "Effect of sustaining motion to quash",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-551",
+      "number": "551.",
+      "heading": "Arraignment of defendant",
+      "text": "Arraignment of defendant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5511",
+      "number": "551.1.",
+      "heading": "Substitution of railroad defendant at arraignment",
+      "text": "Substitution of railroad defendant at arraignment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-552",
+      "number": "552.",
+      "heading": "Pleas at the arraignment",
+      "text": "Pleas at the arraignment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-553",
+      "number": "553.",
+      "heading": "Method of pleading",
+      "text": "Method of pleading",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-554",
+      "number": "554.",
+      "heading": "Effect of failure to plead",
+      "text": "Effect of failure to plead",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-555",
+      "number": "555.",
+      "heading": "Waivers",
+      "text": "Waivers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-556",
+      "number": "556.",
+      "heading": "Plea of guilty or nolo contendere in misdemeanor cases; duty of court",
+      "text": "Plea of guilty or nolo contendere in misdemeanor cases; duty of court",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5561",
+      "number": "556.1.",
+      "heading": "Plea of guilty or nolo contendere in felony cases; duties of the court and defense counsel",
+      "text": "Plea of guilty or nolo contendere in felony cases; duties of the court and defense counsel",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-557",
+      "number": "557.",
+      "heading": "Plea of guilty in capital cases",
+      "text": "Plea of guilty in capital cases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-558",
+      "number": "558.",
+      "heading": "Plea of guilty of lesser included offense",
+      "text": "Plea of guilty of lesser included offense",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5581",
+      "number": "558.1.",
+      "heading": "Adjudication of not guilty by reason of insanity",
+      "text": "Adjudication of not guilty by reason of insanity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-559",
+      "number": "559.",
+      "heading": "Withdrawal or setting aside of plea of guilty",
+      "text": "Withdrawal or setting aside of plea of guilty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-560",
+      "number": "560.",
+      "heading": "Change of plea of not guilty to guilty",
+      "text": "Change of plea of not guilty to guilty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-561",
+      "number": "561.",
+      "heading": "Change of plea of \"not guilty\" to \"not guilty and not guilty by reason of insanity\"",
+      "text": "Change of plea of \"not guilty\" to \"not guilty and not guilty by reason of insanity\"",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-562",
+      "number": "562.",
+      "heading": "Use of simultaneous audio-visual transmission for certain proceedings",
+      "text": "Use of simultaneous audio-visual transmission for certain proceedings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-571",
+      "number": "571.",
+      "heading": "Crimes for which there is no time limitation",
+      "text": "Crimes for which there is no time limitation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5711",
+      "number": "571.1.",
+      "heading": "Time limitation for certain sex offenses",
+      "text": "Time limitation for certain sex offenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-572",
+      "number": "572.",
+      "heading": "Limitation of prosecution of noncapital offenses",
+      "text": "Limitation of prosecution of noncapital offenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-573",
+      "number": "573.",
+      "heading": "Running of time limitations; exception",
+      "text": "Running of time limitations; exception",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5731",
+      "number": "573.1.",
+      "heading": "Running of time limitations; exception; persons with infirmities",
+      "text": "Running of time limitations; exception; persons with infirmities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5732",
+      "number": "573.2.",
+      "heading": "Running of time limitations; exception; video voyeurism",
+      "text": "Running of time limitations; exception; video voyeurism",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5733",
+      "number": "573.3.",
+      "heading": "Running of time limitations; exception; crimes against the Firefighters' Retirement System",
+      "text": "Running of time limitations; exception; crimes against the Firefighters' Retirement System",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5734",
+      "number": "573.4.",
+      "heading": "Running of time limitations; exception; third degree rape",
+      "text": "Running of time limitations; exception; third degree rape",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-574",
+      "number": "574.",
+      "heading": "Conviction and punishment for lesser offenses; limitations applicable",
+      "text": "Conviction and punishment for lesser offenses; limitations applicable",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-575",
+      "number": "575.",
+      "heading": "Interruption of time limitations",
+      "text": "Interruption of time limitations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5751",
+      "number": "575.1.",
+      "heading": "Suspension of time limitations; crimes against the Firefighters' Retirement System",
+      "text": "Suspension of time limitations; crimes against the Firefighters' Retirement System",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-576",
+      "number": "576.",
+      "heading": "Filing of new charges upon dismissal of prosecution",
+      "text": "Filing of new charges upon dismissal of prosecution",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-577",
+      "number": "577.",
+      "heading": "Pleading of limitation; burden of proof",
+      "text": "Pleading of limitation; burden of proof",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-578",
+      "number": "578.",
+      "heading": "General rule",
+      "text": "General rule",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-579",
+      "number": "579.",
+      "heading": "Interruption of time limitation",
+      "text": "Interruption of time limitation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-580",
+      "number": "580.",
+      "heading": "Suspension of time limitations",
+      "text": "Suspension of time limitations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-581",
+      "number": "581.",
+      "heading": "Expiration of limitations; motion to quash; effect",
+      "text": "Expiration of limitations; motion to quash; effect",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-582",
+      "number": "582.",
+      "heading": "Time limitations; effect of new trial",
+      "text": "Time limitations; effect of new trial",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583",
+      "number": "583.",
+      "heading": "Interruption of time limitation where new trial",
+      "text": "Interruption of time limitation where new trial",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-591",
+      "number": "591.",
+      "heading": "Double jeopardy; definition",
+      "text": "Double jeopardy; definition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-592",
+      "number": "592.",
+      "heading": "When jeopardy begins",
+      "text": "When jeopardy begins",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-593",
+      "number": "593.",
+      "heading": "Method of pleading",
+      "text": "Method of pleading",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-594",
+      "number": "594.",
+      "heading": "Method of trial; time for disposition",
+      "text": "Method of trial; time for disposition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-595",
+      "number": "595.",
+      "heading": "Double jeopardy; when not applicable",
+      "text": "Double jeopardy; when not applicable",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-596",
+      "number": "596.",
+      "heading": "Requirements for double jeopardy",
+      "text": "Requirements for double jeopardy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597",
+      "number": "597.",
+      "heading": "Prosecution in other jurisdiction",
+      "text": "Prosecution in other jurisdiction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-598",
+      "number": "598.",
+      "heading": "Effect of verdict",
+      "text": "Effect of verdict",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-611",
+      "number": "611.",
+      "heading": "Venue; trial where offense committed",
+      "text": "Venue; trial where offense committed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612",
+      "number": "612.",
+      "heading": "Offenses on railway trains, vessels, aircraft, or other vehicles",
+      "text": "Offenses on railway trains, vessels, aircraft, or other vehicles",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-613",
+      "number": "613.",
+      "heading": "Jurisdiction of court where body of water is parish boundary",
+      "text": "Jurisdiction of court where body of water is parish boundary",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-614",
+      "number": "614.",
+      "heading": "Venue where offense committed within one hundred feet of parish boundary",
+      "text": "Venue where offense committed within one hundred feet of parish boundary",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-615",
+      "number": "615.",
+      "heading": "Improper venue; pleading",
+      "text": "Improper venue; pleading",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-621",
+      "number": "621.",
+      "heading": "Motion; form; time for filing",
+      "text": "Motion; form; time for filing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-622",
+      "number": "622.",
+      "heading": "Grounds for change of venue",
+      "text": "Grounds for change of venue",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-623",
+      "number": "623.",
+      "heading": "Change granted; transfer",
+      "text": "Change granted; transfer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6231",
+      "number": "623.1.",
+      "heading": "Capital cases; transfer of jury",
+      "text": "Capital cases; transfer of jury",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-624",
+      "number": "624.",
+      "heading": "Grant of change of venue; procedure",
+      "text": "Grant of change of venue; procedure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-625",
+      "number": "625.",
+      "heading": "Transfer of defendant in custody",
+      "text": "Transfer of defendant in custody",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-626",
+      "number": "626.",
+      "heading": "Change of venue where defendant is on bail",
+      "text": "Change of venue where defendant is on bail",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-627",
+      "number": "627.",
+      "heading": "Appeals",
+      "text": "Appeals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-641",
+      "number": "641.",
+      "heading": "Mental incapacity to proceed defined",
+      "text": "Mental incapacity to proceed defined",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-642",
+      "number": "642.",
+      "heading": "How mental incapacity is raised; effect",
+      "text": "How mental incapacity is raised; effect",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-643",
+      "number": "643.",
+      "heading": "Order for mental examination",
+      "text": "Order for mental examination",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-644",
+      "number": "644.",
+      "heading": "Appointment of sanity commission; examination of defendant",
+      "text": "Appointment of sanity commission; examination of defendant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6441",
+      "number": "644.1.",
+      "heading": "Sanity proceedings for juvenile defendants transferred to criminal court",
+      "text": "Sanity proceedings for juvenile defendants transferred to criminal court",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-645",
+      "number": "645.",
+      "heading": "Report of sanity commission",
+      "text": "Report of sanity commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-646",
+      "number": "646.",
+      "heading": "Examination by physician retained by defense or district attorney",
+      "text": "Examination by physician retained by defense or district attorney",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-647",
+      "number": "647.",
+      "heading": "Determination of mental capacity to proceed",
+      "text": "Determination of mental capacity to proceed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-648",
+      "number": "648.",
+      "heading": "Procedure after determination of mental capacity or incapacity",
+      "text": "Procedure after determination of mental capacity or incapacity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6481",
+      "number": "648.1.",
+      "heading": "Information required prior to admission",
+      "text": "Information required prior to admission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-649",
+      "number": "649.",
+      "heading": "Procedure when capacity regained",
+      "text": "Procedure when capacity regained",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6491",
+      "number": "649.1.",
+      "heading": "Prescribed medication; administration",
+      "text": "Prescribed medication; administration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-650",
+      "number": "650.",
+      "heading": "Mental examination after plea of insanity",
+      "text": "Mental examination after plea of insanity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-651",
+      "number": "651.",
+      "heading": "When defense of insanity at time of offense is available; method of trial",
+      "text": "When defense of insanity at time of offense is available; method of trial",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-652",
+      "number": "652.",
+      "heading": "Burden of proof",
+      "text": "Burden of proof",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-653",
+      "number": "653.",
+      "heading": "Testimony of members of sanity commission",
+      "text": "Testimony of members of sanity commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-654",
+      "number": "654.",
+      "heading": "Legal effect of acquittal on ground of insanity; commitment",
+      "text": "Legal effect of acquittal on ground of insanity; commitment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6541",
+      "number": "654.1.",
+      "heading": "Information required prior to admission",
+      "text": "Information required prior to admission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-655",
+      "number": "655.",
+      "heading": "Application for discharge or release on probation; review panel",
+      "text": "Application for discharge or release on probation; review panel",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-656",
+      "number": "656.",
+      "heading": "Additional mental examinations",
+      "text": "Additional mental examinations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-657",
+      "number": "657.",
+      "heading": "Discharge or release; hearing",
+      "text": "Discharge or release; hearing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6571",
+      "number": "657.1.",
+      "heading": "Conditional release; criteria",
+      "text": "Conditional release; criteria",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6572",
+      "number": "657.2.",
+      "heading": "Conditional release; additional requirements",
+      "text": "Conditional release; additional requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6573",
+      "number": "657.3.",
+      "heading": "Active supervised release for dangerous but not mentally ill committed persons",
+      "text": "Active supervised release for dangerous but not mentally ill committed persons",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-658",
+      "number": "658.",
+      "heading": "Probation; conditional release; reporting",
+      "text": "Probation; conditional release; reporting",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-659",
+      "number": "659.",
+      "heading": "Costs of mental examinations prior to commitment",
+      "text": "Costs of mental examinations prior to commitment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-660",
+      "number": "660.",
+      "heading": "Institutional costs after commitment",
+      "text": "Institutional costs after commitment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-661",
+      "number": "661.",
+      "heading": "Progress reports; responsibility to furnish",
+      "text": "Progress reports; responsibility to furnish",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671",
+      "number": "671.",
+      "heading": "Grounds for recusal of judge",
+      "text": "Grounds for recusal of judge",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-672",
+      "number": "672.",
+      "heading": "Recusal on court's own motion",
+      "text": "Recusal on court's own motion",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-673",
+      "number": "673.",
+      "heading": "Judge may act until recused",
+      "text": "Judge may act until recused",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-674",
+      "number": "674.",
+      "heading": "Procedure for recusal of trial judge",
+      "text": "Procedure for recusal of trial judge",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-675",
+      "number": "675.",
+      "heading": "Selection of ad hoc judge to try motion to recuse",
+      "text": "Selection of ad hoc judge to try motion to recuse",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-676",
+      "number": "676.",
+      "heading": "Ad hoc judge to try cause when judge recused",
+      "text": "Ad hoc judge to try cause when judge recused",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-677",
+      "number": "677.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-678",
+      "number": "678.",
+      "heading": "Recusal of ad hoc judge",
+      "text": "Recusal of ad hoc judge",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-679",
+      "number": "679.",
+      "heading": "Recusal of an appellate judge and a supreme court justice",
+      "text": "Recusal of an appellate judge and a supreme court justice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-680",
+      "number": "680.",
+      "heading": "Grounds for recusation of district attorney",
+      "text": "Grounds for recusation of district attorney",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-681",
+      "number": "681.",
+      "heading": "Procedure for recusation of district attorney",
+      "text": "Procedure for recusation of district attorney",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-682",
+      "number": "682.",
+      "heading": "Appointment of substitute for a recused district attorney",
+      "text": "Appointment of substitute for a recused district attorney",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-683",
+      "number": "683.",
+      "heading": "Disability or absence of district attorney",
+      "text": "Disability or absence of district attorney",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6831",
+      "number": "683.1.",
+      "heading": "Costs of prosecution and investigation",
+      "text": "Costs of prosecution and investigation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-684",
+      "number": "684.",
+      "heading": "Review of recusal ruling",
+      "text": "Review of recusal ruling",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-691",
+      "number": "691.",
+      "heading": "Dismissal of prosecution by district attorney",
+      "text": "Dismissal of prosecution by district attorney",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-692",
+      "number": "692.",
+      "heading": "Dismissal of indictment after conviction",
+      "text": "Dismissal of indictment after conviction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-693",
+      "number": "693.",
+      "heading": "Effect of dismissal",
+      "text": "Effect of dismissal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-701",
+      "number": "701.",
+      "heading": "Right to a speedy trial",
+      "text": "Right to a speedy trial",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-702",
+      "number": "702.",
+      "heading": "Setting cases for trial",
+      "text": "Setting cases for trial",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-703",
+      "number": "703.",
+      "heading": "Motion to suppress evidence",
+      "text": "Motion to suppress evidence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-704",
+      "number": "704.",
+      "heading": "Severance",
+      "text": "Severance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-705",
+      "number": "705.",
+      "heading": "Effects of severance",
+      "text": "Effects of severance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-706",
+      "number": "706.",
+      "heading": "Consolidation for trial",
+      "text": "Consolidation for trial",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-707",
+      "number": "707.",
+      "heading": "Motion for continuance; time for filing",
+      "text": "Motion for continuance; time for filing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-708",
+      "number": "708.",
+      "heading": "Continuance and recess; definitions",
+      "text": "Continuance and recess; definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-709",
+      "number": "709.",
+      "heading": "Continuance based on absence of a witness",
+      "text": "Continuance based on absence of a witness",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-710",
+      "number": "710.",
+      "heading": "Prevention of continuance by admission of adverse party",
+      "text": "Prevention of continuance by admission of adverse party",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711",
+      "number": "711.",
+      "heading": "Trial of motion",
+      "text": "Trial of motion",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-712",
+      "number": "712.",
+      "heading": "Discretionary grounds",
+      "text": "Discretionary grounds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-713",
+      "number": "713.",
+      "heading": "Peremptory grounds",
+      "text": "Peremptory grounds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-714",
+      "number": "714.",
+      "heading": "Continuance to defendants jointly indicted",
+      "text": "Continuance to defendants jointly indicted",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-715",
+      "number": "715.",
+      "heading": "Continuance to definite date or indefinitely",
+      "text": "Continuance to definite date or indefinitely",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-716",
+      "number": "716.",
+      "heading": "Statements by the defendant, codefendants, and witnesses",
+      "text": "Statements by the defendant, codefendants, and witnesses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-717",
+      "number": "717.",
+      "heading": "Disclosure by the state; criminal records of defendant and witnesses; inducements to the state's witnesses",
+      "text": "Disclosure by the state; criminal records of defendant and witnesses; inducements to the state's witnesses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-718",
+      "number": "718.",
+      "heading": "Documents and tangible objects",
+      "text": "Documents and tangible objects",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7181",
+      "number": "718.1.",
+      "heading": "Evidence of obscenity, video voyeurism, child sexual abuse materials, or unlawful posting of criminal activity for notoriety and publicity; prohibition on reproduction of child sexual abuse materials",
+      "text": "Evidence of obscenity, video voyeurism, child sexual abuse materials, or unlawful posting of criminal activity for notoriety and publicity; prohibition on reproduction of child sexual abuse materials",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719",
+      "number": "719.",
+      "heading": "Reports of examinations and tests",
+      "text": "Reports of examinations and tests",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-720",
+      "number": "720.",
+      "heading": "Evidence of other crimes",
+      "text": "Evidence of other crimes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-721",
+      "number": "721.",
+      "heading": "Statements of coconspirators",
+      "text": "Statements of coconspirators",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-722",
+      "number": "722.",
+      "heading": "Confessions and statements of codefendants",
+      "text": "Confessions and statements of codefendants",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-723",
+      "number": "723.",
+      "heading": "State reports and other matters not subject to disclosure, favorable evidence",
+      "text": "State reports and other matters not subject to disclosure, favorable evidence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-724",
+      "number": "724.",
+      "heading": "Documents and tangible objects",
+      "text": "Documents and tangible objects",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-725",
+      "number": "725.",
+      "heading": "Reports of examinations and tests",
+      "text": "Reports of examinations and tests",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7251",
+      "number": "725.1.",
+      "heading": "Disclosure by the defendant; names of defense witnesses",
+      "text": "Disclosure by the defendant; names of defense witnesses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-726",
+      "number": "726.",
+      "heading": "Notice of defense based upon mental condition",
+      "text": "Notice of defense based upon mental condition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-727",
+      "number": "727.",
+      "heading": "Notice of alibi",
+      "text": "Notice of alibi",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-728",
+      "number": "728.",
+      "heading": "Defense information and other matters not subject to disclosure",
+      "text": "Defense information and other matters not subject to disclosure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-729",
+      "number": "729.",
+      "heading": "Time and scope of motion by defendant",
+      "text": "Time and scope of motion by defendant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7291",
+      "number": "729.1.",
+      "heading": "Court's disposition of motion for discovery; vacation or restriction of order",
+      "text": "Court's disposition of motion for discovery; vacation or restriction of order",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7292",
+      "number": "729.2.",
+      "heading": "Time, place and manner of discovery and inspection",
+      "text": "Time, place and manner of discovery and inspection",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7293",
+      "number": "729.3.",
+      "heading": "Continuing duty to disclose",
+      "text": "Continuing duty to disclose",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7294",
+      "number": "729.4.",
+      "heading": "Pretrial conferences",
+      "text": "Pretrial conferences",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7295",
+      "number": "729.5.",
+      "heading": "Failure to comply; sanctions",
+      "text": "Failure to comply; sanctions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7296",
+      "number": "729.6.",
+      "heading": "Applicability of discovery",
+      "text": "Applicability of discovery",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7297",
+      "number": "729.7.",
+      "heading": "Protection of witness identity",
+      "text": "Protection of witness identity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-731",
+      "number": "731.",
+      "heading": "Issuance of subpoenas",
+      "text": "Issuance of subpoenas",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-732",
+      "number": "732.",
+      "heading": "Subpoena duces tecum",
+      "text": "Subpoena duces tecum",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7321",
+      "number": "732.1.",
+      "heading": "Subpoena duces tecum regarding sex offenses against victims who are minors",
+      "text": "Subpoena duces tecum regarding sex offenses against victims who are minors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7322",
+      "number": "732.2.",
+      "heading": "Subpoena duces tecum regarding human trafficking offenses",
+      "text": "Subpoena duces tecum regarding human trafficking offenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-733",
+      "number": "733.",
+      "heading": "Form",
+      "text": "Form",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-734",
+      "number": "734.",
+      "heading": "Service of subpoena by sheriff; investigators",
+      "text": "Service of subpoena by sheriff; investigators",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-735",
+      "number": "735.",
+      "heading": "Types of service",
+      "text": "Types of service",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-736",
+      "number": "736.",
+      "heading": "Return of subpoena by sheriff",
+      "text": "Return of subpoena by sheriff",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-737",
+      "number": "737.",
+      "heading": "Contempt; attachment of witnesses failing to appear",
+      "text": "Contempt; attachment of witnesses failing to appear",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-738",
+      "number": "738.",
+      "heading": "Number of witnesses allowed",
+      "text": "Number of witnesses allowed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-739",
+      "number": "739.",
+      "heading": "Indigent defendant",
+      "text": "Indigent defendant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-740",
+      "number": "740.",
+      "heading": "Restrictions on subpoenas; members of the legislature and personnel",
+      "text": "Restrictions on subpoenas; members of the legislature and personnel",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-741",
+      "number": "741.",
+      "heading": "Method of obtaining a witness from another state",
+      "text": "Method of obtaining a witness from another state",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-742",
+      "number": "742.",
+      "heading": "Method of summoning a witness in this state to testify in another state",
+      "text": "Method of summoning a witness in this state to testify in another state",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-743",
+      "number": "743.",
+      "heading": "Exemption from arrest and service of process",
+      "text": "Exemption from arrest and service of process",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-744",
+      "number": "744.",
+      "heading": "Witness; state; defined",
+      "text": "Witness; state; defined",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-745",
+      "number": "745.",
+      "heading": "Uniformity of interpretation",
+      "text": "Uniformity of interpretation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-761",
+      "number": "761.",
+      "heading": "Commencement of trial",
+      "text": "Commencement of trial",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7611",
+      "number": "761.1.",
+      "heading": "Homicide victim's picture; possession by family member in courtroom",
+      "text": "Homicide victim's picture; possession by family member in courtroom",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-762",
+      "number": "762.",
+      "heading": "Place of sessions of court",
+      "text": "Place of sessions of court",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-763",
+      "number": "763.",
+      "heading": "Proceedings on holidays",
+      "text": "Proceedings on holidays",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-764",
+      "number": "764.",
+      "heading": "Exclusion of witnesses",
+      "text": "Exclusion of witnesses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-765",
+      "number": "765.",
+      "heading": "Normal order of trial",
+      "text": "Normal order of trial",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-766",
+      "number": "766.",
+      "heading": "Opening statement by state; scope",
+      "text": "Opening statement by state; scope",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-767",
+      "number": "767.",
+      "heading": "Same; prohibition against adverting to confessions",
+      "text": "Same; prohibition against adverting to confessions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-768",
+      "number": "768.",
+      "heading": "Same; use of confession or inculpatory statement; notice to defendant prior to opening statement",
+      "text": "Same; use of confession or inculpatory statement; notice to defendant prior to opening statement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-769",
+      "number": "769.",
+      "heading": "Same; effect on introduction of evidence",
+      "text": "Same; effect on introduction of evidence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-770",
+      "number": "770.",
+      "heading": "Prejudicial remarks; basis of mistrial",
+      "text": "Prejudicial remarks; basis of mistrial",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-771",
+      "number": "771.",
+      "heading": "Admonition",
+      "text": "Admonition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-772",
+      "number": "772.",
+      "heading": "Comment on facts by judge in jury's presence prohibited",
+      "text": "Comment on facts by judge in jury's presence prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-773",
+      "number": "773.",
+      "heading": "Order of evidence; foundation",
+      "text": "Order of evidence; foundation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-774",
+      "number": "774.",
+      "heading": "Argument; scope",
+      "text": "Argument; scope",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-775",
+      "number": "775.",
+      "heading": "Mistrial; grounds for",
+      "text": "Mistrial; grounds for",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7751",
+      "number": "775.1.",
+      "heading": "Automatic stay following order of mistrial",
+      "text": "Automatic stay following order of mistrial",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-776",
+      "number": "776.",
+      "heading": "Oath of witness",
+      "text": "Oath of witness",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-777",
+      "number": "777.",
+      "heading": "Recordation of proceedings",
+      "text": "Recordation of proceedings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-778",
+      "number": "778.",
+      "heading": "Motion for acquittal",
+      "text": "Motion for acquittal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-779",
+      "number": "779.",
+      "heading": "Trial of misdemeanors",
+      "text": "Trial of misdemeanors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-780",
+      "number": "780.",
+      "heading": "Right to waive trial by jury",
+      "text": "Right to waive trial by jury",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-781",
+      "number": "781.",
+      "heading": "Charges in cases tried without a jury",
+      "text": "Charges in cases tried without a jury",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-782",
+      "number": "782.",
+      "heading": "Number of jurors composing jury; number which must concur; waiver",
+      "text": "Number of jurors composing jury; number which must concur; waiver",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-783",
+      "number": "783.",
+      "heading": "Excusing, tendering, and attachment of members of the venire",
+      "text": "Excusing, tendering, and attachment of members of the venire",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-784",
+      "number": "784.",
+      "heading": "Method of selecting panel",
+      "text": "Method of selecting panel",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-785",
+      "number": "785.",
+      "heading": "Tales jurors",
+      "text": "Tales jurors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-786",
+      "number": "786.",
+      "heading": "Examination of jurors",
+      "text": "Examination of jurors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-787",
+      "number": "787.",
+      "heading": "Disqualification of petit jurors in particular cases",
+      "text": "Disqualification of petit jurors in particular cases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-788",
+      "number": "788.",
+      "heading": "Tendering jurors",
+      "text": "Tendering jurors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-789",
+      "number": "789.",
+      "heading": "Alternate jurors",
+      "text": "Alternate jurors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-790",
+      "number": "790.",
+      "heading": "Swearing of jurors",
+      "text": "Swearing of jurors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-791",
+      "number": "791.",
+      "heading": "Sequestration of jurors and jury",
+      "text": "Sequestration of jurors and jury",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-792",
+      "number": "792.",
+      "heading": "Selection of foreman",
+      "text": "Selection of foreman",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-793",
+      "number": "793.",
+      "heading": "Use of evidence in jury room; reading of recorded testimony; jurors' notes",
+      "text": "Use of evidence in jury room; reading of recorded testimony; jurors' notes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-794",
+      "number": "794.",
+      "heading": "Removal of jury",
+      "text": "Removal of jury",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-795",
+      "number": "795.",
+      "heading": "Time for challenges; method; peremptory challenges based on race or gender; restrictions",
+      "text": "Time for challenges; method; peremptory challenges based on race or gender; restrictions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-796",
+      "number": "796.",
+      "heading": "Removal of juror after swearing",
+      "text": "Removal of juror after swearing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-797",
+      "number": "797.",
+      "heading": "Challenge for cause",
+      "text": "Challenge for cause",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-798",
+      "number": "798.",
+      "heading": "Causes for challenge by the state",
+      "text": "Causes for challenge by the state",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-799",
+      "number": "799.",
+      "heading": "Number of peremptory challenges",
+      "text": "Number of peremptory challenges",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7991",
+      "number": "799.1.",
+      "heading": "Challenges; use of all available challenges",
+      "text": "Challenges; use of all available challenges",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-801",
+      "number": "801.",
+      "heading": "Time for charge; when written charge required",
+      "text": "Time for charge; when written charge required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-802",
+      "number": "802.",
+      "heading": "General charge; scope",
+      "text": "General charge; scope",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-803",
+      "number": "803.",
+      "heading": "Same; charge as to included minor offenses and plea of insanity",
+      "text": "Same; charge as to included minor offenses and plea of insanity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-804",
+      "number": "804.",
+      "heading": "Same; charge as to presumption of innocence, reasonable doubt, and several grades of offense",
+      "text": "Same; charge as to presumption of innocence, reasonable doubt, and several grades of offense",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-805",
+      "number": "805.",
+      "heading": "Same; charge as to verdict acquitting on account of insanity",
+      "text": "Same; charge as to verdict acquitting on account of insanity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-806",
+      "number": "806.",
+      "heading": "Prohibited charges",
+      "text": "Prohibited charges",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-807",
+      "number": "807.",
+      "heading": "Special written charges",
+      "text": "Special written charges",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-808",
+      "number": "808.",
+      "heading": "Manner of giving further charges after jury retires",
+      "text": "Manner of giving further charges after jury retires",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-809",
+      "number": "809.",
+      "heading": "Judge to give jury written list of responsive verdicts",
+      "text": "Judge to give jury written list of responsive verdicts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-810",
+      "number": "810.",
+      "heading": "Form of verdict; delivery of verdict",
+      "text": "Form of verdict; delivery of verdict",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-811",
+      "number": "811.",
+      "heading": "Receipt and recordation of verdict",
+      "text": "Receipt and recordation of verdict",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-812",
+      "number": "812.",
+      "heading": "Same; polling and disposition of jury",
+      "text": "Same; polling and disposition of jury",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-813",
+      "number": "813.",
+      "heading": "Improper verdict; procedure",
+      "text": "Improper verdict; procedure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-814",
+      "number": "814.",
+      "heading": "Responsive verdicts; in particular",
+      "text": "Responsive verdicts; in particular",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-815",
+      "number": "815.",
+      "heading": "Responsive verdicts; in general",
+      "text": "Responsive verdicts; in general",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-816",
+      "number": "816.",
+      "heading": "Verdict acquitting on account of insanity",
+      "text": "Verdict acquitting on account of insanity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-817",
+      "number": "817.",
+      "heading": "Qualifying verdicts",
+      "text": "Qualifying verdicts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-818",
+      "number": "818.",
+      "heading": "Separate verdict for each defendant",
+      "text": "Separate verdict for each defendant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-819",
+      "number": "819.",
+      "heading": "Separate verdict for each count",
+      "text": "Separate verdict for each count",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-820",
+      "number": "820.",
+      "heading": "Application of chapter to cases tried without a jury",
+      "text": "Application of chapter to cases tried without a jury",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-821",
+      "number": "821.",
+      "heading": "Motion for post verdict judgment of acquittal",
+      "text": "Motion for post verdict judgment of acquittal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-822",
+      "number": "822.",
+      "heading": "Motion for amending or modifying sentence",
+      "text": "Motion for amending or modifying sentence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-831",
+      "number": "831.",
+      "heading": "Presence of defendant when prosecution is for felony",
+      "text": "Presence of defendant when prosecution is for felony",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-832",
+      "number": "832.",
+      "heading": "Continued presence not required",
+      "text": "Continued presence not required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-833",
+      "number": "833.",
+      "heading": "Presence of defendant; misdemeanor prosecution",
+      "text": "Presence of defendant; misdemeanor prosecution",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-834",
+      "number": "834.",
+      "heading": "When presence of defendant not necessary",
+      "text": "When presence of defendant not necessary",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-835",
+      "number": "835.",
+      "heading": "Presence of defendant at pronouncement of sentence",
+      "text": "Presence of defendant at pronouncement of sentence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-836",
+      "number": "836.",
+      "heading": "Presence of corporation or association",
+      "text": "Presence of corporation or association",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-841",
+      "number": "841.",
+      "heading": "Bill of exceptions unnecessary; objections required",
+      "text": "Bill of exceptions unnecessary; objections required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-842",
+      "number": "842.",
+      "heading": "Codefendants; presumption as to objections",
+      "text": "Codefendants; presumption as to objections",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-843",
+      "number": "843.",
+      "heading": "Recording of proceedings",
+      "text": "Recording of proceedings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-844",
+      "number": "844.",
+      "heading": "Assignment of errors; sanctions for failure to file timely",
+      "text": "Assignment of errors; sanctions for failure to file timely",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-845",
+      "number": "845.",
+      "heading": "Repealed by Acts 1982, No. 143, 3",
+      "text": "Repealed by Acts 1982, No. 143, 3",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-851",
+      "number": "851.",
+      "heading": "Grounds for new trial",
+      "text": "Grounds for new trial",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-852",
+      "number": "852.",
+      "heading": "Form, content, and trial of motion for new trial",
+      "text": "Form, content, and trial of motion for new trial",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-853",
+      "number": "853.",
+      "heading": "Time for filing motion for new trial",
+      "text": "Time for filing motion for new trial",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-854",
+      "number": "854.",
+      "heading": "Newly discovered evidence; necessary allegations",
+      "text": "Newly discovered evidence; necessary allegations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-855",
+      "number": "855.",
+      "heading": "Errors discovered after verdict or judgment of guilty; necessary allegations",
+      "text": "Errors discovered after verdict or judgment of guilty; necessary allegations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8551",
+      "number": "855.1.",
+      "heading": "Conviction based on acts committed as a victim of trafficking",
+      "text": "Conviction based on acts committed as a victim of trafficking",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-856",
+      "number": "856.",
+      "heading": "Motion to urge all available grounds; exceptions",
+      "text": "Motion to urge all available grounds; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-857",
+      "number": "857.",
+      "heading": "Effect of granting new trial",
+      "text": "Effect of granting new trial",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-858",
+      "number": "858.",
+      "heading": "Review of ruling on motion for new trial",
+      "text": "Review of ruling on motion for new trial",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-859",
+      "number": "859.",
+      "heading": "Grounds for arrest of judgment",
+      "text": "Grounds for arrest of judgment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-860",
+      "number": "860.",
+      "heading": "Form, content, and trial of motion in arrest",
+      "text": "Form, content, and trial of motion in arrest",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-861",
+      "number": "861.",
+      "heading": "Time for filing motion in arrest",
+      "text": "Time for filing motion in arrest",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-862",
+      "number": "862.",
+      "heading": "Effect of sustaining motion in arrest of judgment",
+      "text": "Effect of sustaining motion in arrest of judgment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-871",
+      "number": "871.",
+      "heading": "Sentence defined; pronouncing and recording of sentence; certification of conviction",
+      "text": "Sentence defined; pronouncing and recording of sentence; certification of conviction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8711",
+      "number": "871.1.",
+      "heading": "Sentencing orders to be sent to Louisiana Protective Order Registry",
+      "text": "Sentencing orders to be sent to Louisiana Protective Order Registry",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8712",
+      "number": "871.2.",
+      "heading": "Presentence inquiry of veteran status",
+      "text": "Presentence inquiry of veteran status",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-872",
+      "number": "872.",
+      "heading": "Basis for valid sentence",
+      "text": "Basis for valid sentence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-873",
+      "number": "873.",
+      "heading": "Delay between conviction and sentence",
+      "text": "Delay between conviction and sentence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-874",
+      "number": "874.",
+      "heading": "Prompt sentence required; relief by writs",
+      "text": "Prompt sentence required; relief by writs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-875",
+      "number": "875.",
+      "heading": "Presentence investigation; juvenile records; drug screening; veterans",
+      "text": "Presentence investigation; juvenile records; drug screening; veterans",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8751",
+      "number": "875.1.",
+      "heading": "Determination of substantial financial hardship to the defendant",
+      "text": "Determination of substantial financial hardship to the defendant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-876",
+      "number": "876.",
+      "heading": "Sentence for crime committed as a child",
+      "text": "Sentence for crime committed as a child",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-877",
+      "number": "877.",
+      "heading": "Protection of investigation reports",
+      "text": "Protection of investigation reports",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-878",
+      "number": "878.",
+      "heading": "Cruel or unusual punishment",
+      "text": "Cruel or unusual punishment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8781",
+      "number": "878.1.",
+      "heading": "Sentencing hearing for juvenile offenders",
+      "text": "Sentencing hearing for juvenile offenders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-879",
+      "number": "879.",
+      "heading": "Determinate sentence required",
+      "text": "Determinate sentence required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-880",
+      "number": "880.",
+      "heading": "Credit for prior custody; limitations",
+      "text": "Credit for prior custody; limitations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-881",
+      "number": "881.",
+      "heading": "Amendment of sentence",
+      "text": "Amendment of sentence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8811",
+      "number": "881.1.",
+      "heading": "Motion to reconsider sentence",
+      "text": "Motion to reconsider sentence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8812",
+      "number": "881.2.",
+      "heading": "Review of sentence",
+      "text": "Review of sentence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8813",
+      "number": "881.3.",
+      "heading": "Record on review of sentence",
+      "text": "Record on review of sentence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8814",
+      "number": "881.4.",
+      "heading": "Action by appellate court",
+      "text": "Action by appellate court",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8815",
+      "number": "881.5.",
+      "heading": "Correction of illegal sentence by trial court",
+      "text": "Correction of illegal sentence by trial court",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8816",
+      "number": "881.6.",
+      "heading": "Reducing a sentence for substantial assistance",
+      "text": "Reducing a sentence for substantial assistance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8817",
+      "number": "881.7.",
+      "heading": "Memorandum of understanding; limits on reduction of sentence for substantial assistance by a defendant",
+      "text": "Memorandum of understanding; limits on reduction of sentence for substantial assistance by a defendant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-882",
+      "number": "882.",
+      "heading": "Correction of illegal sentence; review of illegal sentence",
+      "text": "Correction of illegal sentence; review of illegal sentence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-883",
+      "number": "883.",
+      "heading": "Concurrent and consecutive sentences",
+      "text": "Concurrent and consecutive sentences",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8831",
+      "number": "883.1.",
+      "heading": "Sentences concurrent with sentences of other jurisdictions",
+      "text": "Sentences concurrent with sentences of other jurisdictions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8832",
+      "number": "883.2.",
+      "heading": "Restitution to victim",
+      "text": "Restitution to victim",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-884",
+      "number": "884.",
+      "heading": "Sentence of fine with imprisonment for default",
+      "text": "Sentence of fine with imprisonment for default",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-885",
+      "number": "885.",
+      "heading": "Release on payment of fine and costs",
+      "text": "Release on payment of fine and costs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8851",
+      "number": "885.1.",
+      "heading": "Suspension of driving privileges; failure to pay criminal fines",
+      "text": "Suspension of driving privileges; failure to pay criminal fines",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-886",
+      "number": "886.",
+      "heading": "Enforcement of fine by civil process; offset of tax refund",
+      "text": "Enforcement of fine by civil process; offset of tax refund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8861",
+      "number": "886.1.",
+      "heading": "Judgment for fines and costs declared executory; required notice",
+      "text": "Judgment for fines and costs declared executory; required notice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-887",
+      "number": "887.",
+      "heading": "Defendant's liability for costs; suspension of costs; no advance costs",
+      "text": "Defendant's liability for costs; suspension of costs; no advance costs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-888",
+      "number": "888.",
+      "heading": "Costs and fines; payment",
+      "text": "Costs and fines; payment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-889",
+      "number": "889.",
+      "heading": "Collection and disposition of fines, costs, and forfeitures",
+      "text": "Collection and disposition of fines, costs, and forfeitures",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-890",
+      "number": "890.",
+      "heading": "Method of service of sentence of imprisonment; labor and confinement; workday release program",
+      "text": "Method of service of sentence of imprisonment; labor and confinement; workday release program",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8901",
+      "number": "890.1.",
+      "heading": "Waiver of minimum mandatory sentences; procedure; exceptions",
+      "text": "Waiver of minimum mandatory sentences; procedure; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8902",
+      "number": "890.2.",
+      "heading": "Fines for individual defendants",
+      "text": "Fines for individual defendants",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8903",
+      "number": "890.3.",
+      "heading": "Sentencing for crimes of violence",
+      "text": "Sentencing for crimes of violence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-891",
+      "number": "891.",
+      "heading": "Forfeiture of weapons",
+      "text": "Forfeiture of weapons",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-892",
+      "number": "892.",
+      "heading": "Post-sentence statement by sheriff; accompanying documents",
+      "text": "Post-sentence statement by sheriff; accompanying documents",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8921",
+      "number": "892.1.",
+      "heading": "Driver improvement programs",
+      "text": "Driver improvement programs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8922",
+      "number": "892.2.",
+      "heading": "Notice of controlled dangerous substance conviction; licensing authority",
+      "text": "Notice of controlled dangerous substance conviction; licensing authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8923",
+      "number": "892.3.",
+      "heading": "Transfer of foreign nationals or citizens; treaty",
+      "text": "Transfer of foreign nationals or citizens; treaty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-893",
+      "number": "893.",
+      "heading": "Suspension and deferral of sentence and probation in felony cases",
+      "text": "Suspension and deferral of sentence and probation in felony cases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8931",
+      "number": "893.1.",
+      "heading": "Motion to invoke firearm sentencing provision",
+      "text": "Motion to invoke firearm sentencing provision",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8932",
+      "number": "893.2.",
+      "heading": "Discharge, use, or possession of firearm in commission of a felony or a specifically enumerated misdemeanor; submission to jury",
+      "text": "Discharge, use, or possession of firearm in commission of a felony or a specifically enumerated misdemeanor; submission to jury",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8933",
+      "number": "893.3.",
+      "heading": "Sentence imposed on felony or specifically enumerated misdemeanor in which firearm was possessed, used, or discharged",
+      "text": "Sentence imposed on felony or specifically enumerated misdemeanor in which firearm was possessed, used, or discharged",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8934",
+      "number": "893.4.",
+      "heading": "Inapplicability to unintentional felonies",
+      "text": "Inapplicability to unintentional felonies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8935",
+      "number": "893.5.",
+      "heading": "Community service in lieu of imprisonment",
+      "text": "Community service in lieu of imprisonment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-894",
+      "number": "894.",
+      "heading": "Suspension and deferral of sentence; probation in misdemeanor cases",
+      "text": "Suspension and deferral of sentence; probation in misdemeanor cases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8941",
+      "number": "894.1.",
+      "heading": "Sentencing guidelines; generally",
+      "text": "Sentencing guidelines; generally",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8942",
+      "number": "894.2.",
+      "heading": "Home incarceration; requirements",
+      "text": "Home incarceration; requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8943",
+      "number": "894.3.",
+      "heading": "Notice to victim for sentencing",
+      "text": "Notice to victim for sentencing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8944",
+      "number": "894.4.",
+      "heading": "Probation; extension",
+      "text": "Probation; extension",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8945",
+      "number": "894.5.",
+      "heading": "Submission of DWI - Code of Criminal Procedure Article 894 Plea Records to office of motor vehicles; forms to be used and completed by the clerk of court",
+      "text": "Submission of DWI - Code of Criminal Procedure Article 894 Plea Records to office of motor vehicles; forms to be used and completed by the clerk of court",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-895",
+      "number": "895.",
+      "heading": "Conditions of probation",
+      "text": "Conditions of probation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8951",
+      "number": "895.1.",
+      "heading": "Probation; restitution; judgment for restitution; fees",
+      "text": "Probation; restitution; judgment for restitution; fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8952",
+      "number": "895.2.",
+      "heading": "Probation; restitution for values of wildlife",
+      "text": "Probation; restitution for values of wildlife",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8953",
+      "number": "895.3.",
+      "heading": "Probationer transferred between states; fees",
+      "text": "Probationer transferred between states; fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8954",
+      "number": "895.4.",
+      "heading": "Probation; fees; certified crime stoppers organizations",
+      "text": "Probation; fees; certified crime stoppers organizations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8955",
+      "number": "895.5.",
+      "heading": "Restitution recovery division; district attorneys; establishment",
+      "text": "Restitution recovery division; district attorneys; establishment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8956",
+      "number": "895.6.",
+      "heading": "Repealed by Acts 2024, 2nd Ex. Sess., No. 7, §2.",
+      "text": "Repealed by Acts 2024, 2nd Ex. Sess., No. 7, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-896",
+      "number": "896.",
+      "heading": "Modifying or changing conditions of probation",
+      "text": "Modifying or changing conditions of probation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-897",
+      "number": "897.",
+      "heading": "Termination of probation or suspended sentence; discharge of defendant",
+      "text": "Termination of probation or suspended sentence; discharge of defendant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-898",
+      "number": "898.",
+      "heading": "Satisfaction of suspended sentence and probation",
+      "text": "Satisfaction of suspended sentence and probation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-899",
+      "number": "899.",
+      "heading": "Arrest or summons for violation of probation",
+      "text": "Arrest or summons for violation of probation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8991",
+      "number": "899.1.",
+      "heading": "Administrative sanctions for technical violations",
+      "text": "Administrative sanctions for technical violations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8992",
+      "number": "899.2.",
+      "heading": "Repealed by Acts 2024, 2nd Ex. Sess., No. 8, §3.",
+      "text": "Repealed by Acts 2024, 2nd Ex. Sess., No. 8, §3.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-900",
+      "number": "900.",
+      "heading": "Violation hearing; sanctions",
+      "text": "Violation hearing; sanctions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-901",
+      "number": "901.",
+      "heading": "Revocation for commission of another offense",
+      "text": "Revocation for commission of another offense",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9011",
+      "number": "901.1.",
+      "heading": "Additional sanctions for probation revocation",
+      "text": "Additional sanctions for probation revocation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-902",
+      "number": "902.",
+      "heading": "Drug addict; pre-sentence investigation; voluntary treatment; conditions of probation",
+      "text": "Drug addict; pre-sentence investigation; voluntary treatment; conditions of probation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-903",
+      "number": "903.",
+      "heading": "Substance abuse probation program; authorization",
+      "text": "Substance abuse probation program; authorization",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9031",
+      "number": "903.1.",
+      "heading": "Substance abuse probation program; eligibility",
+      "text": "Substance abuse probation program; eligibility",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9032",
+      "number": "903.2.",
+      "heading": "Substance abuse probation; sentencing",
+      "text": "Substance abuse probation; sentencing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9033",
+      "number": "903.3.",
+      "heading": "Substance abuse treatment program; cost",
+      "text": "Substance abuse treatment program; cost",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-904",
+      "number": "904.",
+      "heading": "Mandatory assessment; suitability of defendant for drug or specialty court program",
+      "text": "Mandatory assessment; suitability of defendant for drug or specialty court program",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-905",
+      "number": "905.",
+      "heading": "Capital cases; sentencing hearing required; delay; waiver",
+      "text": "Capital cases; sentencing hearing required; delay; waiver",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9051",
+      "number": "905.1.",
+      "heading": "Sentencing hearing jury; commencement",
+      "text": "Sentencing hearing jury; commencement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9052",
+      "number": "905.2.",
+      "heading": "Sentencing hearing; procedure and evidence; jury instructions",
+      "text": "Sentencing hearing; procedure and evidence; jury instructions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9053",
+      "number": "905.3.",
+      "heading": "Sentence of death; jury findings",
+      "text": "Sentence of death; jury findings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9054",
+      "number": "905.4.",
+      "heading": "Aggravating circumstances",
+      "text": "Aggravating circumstances",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9055",
+      "number": "905.5.",
+      "heading": "Mitigating circumstances",
+      "text": "Mitigating circumstances",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90551",
+      "number": "905.5.1.",
+      "heading": "Intellectual disability",
+      "text": "Intellectual disability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9056",
+      "number": "905.6.",
+      "heading": "Jury; unanimous determination",
+      "text": "Jury; unanimous determination",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9057",
+      "number": "905.7.",
+      "heading": "Form of determination",
+      "text": "Form of determination",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9058",
+      "number": "905.8.",
+      "heading": "Imposition of sentence",
+      "text": "Imposition of sentence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9059",
+      "number": "905.9.",
+      "heading": "Review on appeal",
+      "text": "Review on appeal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-911",
+      "number": "911.",
+      "heading": "Right to appeal from judgment",
+      "text": "Right to appeal from judgment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-912",
+      "number": "912.",
+      "heading": "Judgments or rulings appealable",
+      "text": "Judgments or rulings appealable",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9121",
+      "number": "912.1.",
+      "heading": "Right of appeal and application for review; defendant",
+      "text": "Right of appeal and application for review; defendant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-913",
+      "number": "913.",
+      "heading": "Effect of appeal",
+      "text": "Effect of appeal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-914",
+      "number": "914.",
+      "heading": "Method and time of appeal",
+      "text": "Method and time of appeal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9141",
+      "number": "914.1.",
+      "heading": "Designation of record; payment of costs; sanction",
+      "text": "Designation of record; payment of costs; sanction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-915",
+      "number": "915.",
+      "heading": "Action on a motion for appeal; return; notice",
+      "text": "Action on a motion for appeal; return; notice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9151",
+      "number": "915.1.",
+      "heading": "Appeals; extension of return date; notice",
+      "text": "Appeals; extension of return date; notice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-916",
+      "number": "916.",
+      "heading": "Divesting of jurisdiction of trial court",
+      "text": "Divesting of jurisdiction of trial court",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-917",
+      "number": "917.",
+      "heading": "Record on appeal; preparation",
+      "text": "Record on appeal; preparation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-918",
+      "number": "918.",
+      "heading": "Record on appeal; certified and dated",
+      "text": "Record on appeal; certified and dated",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-919",
+      "number": "919.",
+      "heading": "Record on appeal; preparation and delivery of transcripts",
+      "text": "Record on appeal; preparation and delivery of transcripts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9191",
+      "number": "919.1.",
+      "heading": "Record on appeal; contempt",
+      "text": "Record on appeal; contempt",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-920",
+      "number": "920.",
+      "heading": "Scope of appellate review",
+      "text": "Scope of appellate review",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-921",
+      "number": "921.",
+      "heading": "Matters not grounds for reversal",
+      "text": "Matters not grounds for reversal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9211",
+      "number": "921.1.",
+      "heading": "Notice of decision in criminal appeals",
+      "text": "Notice of decision in criminal appeals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-922",
+      "number": "922.",
+      "heading": "Finality of judgment on appeal",
+      "text": "Finality of judgment on appeal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-923",
+      "number": "923.",
+      "heading": "Duty of clerk as to final decisions in appellate court",
+      "text": "Duty of clerk as to final decisions in appellate court",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-924",
+      "number": "924.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9241",
+      "number": "924.1.",
+      "heading": "Effect of appeal",
+      "text": "Effect of appeal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-925",
+      "number": "925.",
+      "heading": "Venue",
+      "text": "Venue",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-926",
+      "number": "926.",
+      "heading": "Petition",
+      "text": "Petition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9261",
+      "number": "926.1.",
+      "heading": "Application for DNA testing",
+      "text": "Application for DNA testing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9262",
+      "number": "926.2.",
+      "heading": "Factual innocence",
+      "text": "Factual innocence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9263",
+      "number": "926.3.",
+      "heading": "Motion for testing of evidence",
+      "text": "Motion for testing of evidence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9264",
+      "number": "926.4.",
+      "heading": "Privilege waiver",
+      "text": "Privilege waiver",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-927",
+      "number": "927.",
+      "heading": "Action required after filing of application; procedural objections; answer",
+      "text": "Action required after filing of application; procedural objections; answer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9271",
+      "number": "927.1.",
+      "heading": "Abandonment of application",
+      "text": "Abandonment of application",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-928",
+      "number": "928.",
+      "heading": "Repealed by Acts 2025, No. 393, §3.",
+      "text": "Repealed by Acts 2025, No. 393, §3.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-929",
+      "number": "929.",
+      "heading": "Summary disposition",
+      "text": "Summary disposition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-930",
+      "number": "930.",
+      "heading": "Evidentiary hearing",
+      "text": "Evidentiary hearing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9301",
+      "number": "930.1.",
+      "heading": "Judgment granting or denying relief under Articles 928, 929, and 930",
+      "text": "Judgment granting or denying relief under Articles 928, 929, and 930",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9302",
+      "number": "930.2.",
+      "heading": "Burden of proof",
+      "text": "Burden of proof",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9303",
+      "number": "930.3.",
+      "heading": "Grounds",
+      "text": "Grounds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9304",
+      "number": "930.4.",
+      "heading": "Jurisdictional bars to relief; repetitive applications",
+      "text": "Jurisdictional bars to relief; repetitive applications",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9305",
+      "number": "930.5.",
+      "heading": "Custody pending retrial; bail",
+      "text": "Custody pending retrial; bail",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9306",
+      "number": "930.6.",
+      "heading": "Review of trial court judgments",
+      "text": "Review of trial court judgments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9307",
+      "number": "930.7.",
+      "heading": "Right to counsel",
+      "text": "Right to counsel",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9308",
+      "number": "930.8.",
+      "heading": "Time limitations; exceptions; prejudicial delay",
+      "text": "Time limitations; exceptions; prejudicial delay",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9309",
+      "number": "930.9.",
+      "heading": "Attendance by the petitioner",
+      "text": "Attendance by the petitioner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-93010",
+      "number": "930.10.",
+      "heading": "Repealed by Acts 2025, No. 393, §3.",
+      "text": "Repealed by Acts 2025, No. 393, §3.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-93011",
+      "number": "930.11.",
+      "heading": "Time delays applicable to this Title; writ of mandamus",
+      "text": "Time delays applicable to this Title; writ of mandamus",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-931",
+      "number": "931.",
+      "heading": "Courts, judges, and magistrates",
+      "text": "Courts, judges, and magistrates",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-932",
+      "number": "932.",
+      "heading": "Jurors, juries, and jury venires",
+      "text": "Jurors, juries, and jury venires",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-933",
+      "number": "933.",
+      "heading": "Offenses",
+      "text": "Offenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-934",
+      "number": "934.",
+      "heading": "Miscellaneous definitions",
+      "text": "Miscellaneous definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-941",
+      "number": "941.",
+      "heading": "Legislative findings",
+      "text": "Legislative findings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-942",
+      "number": "942.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-943",
+      "number": "943.",
+      "heading": "Preemption of conflicting provisions",
+      "text": "Preemption of conflicting provisions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-944",
+      "number": "944.",
+      "heading": "Emergency sessions of court; criteria",
+      "text": "Emergency sessions of court; criteria",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-945",
+      "number": "945.",
+      "heading": "Venue; affected court; emergency sessions; habeas corpus",
+      "text": "Venue; affected court; emergency sessions; habeas corpus",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-946",
+      "number": "946.",
+      "heading": "Jurisdiction of affected court conducting emergency sessions",
+      "text": "Jurisdiction of affected court conducting emergency sessions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-947",
+      "number": "947.",
+      "heading": "Affected court conducting emergency sessions; authority and powers",
+      "text": "Affected court conducting emergency sessions; authority and powers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-948",
+      "number": "948.",
+      "heading": "Emergency sessions; length; recision; continuation; extensions",
+      "text": "Emergency sessions; length; recision; continuation; extensions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-949",
+      "number": "949.",
+      "heading": "Court costs and fees",
+      "text": "Court costs and fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-950",
+      "number": "950.",
+      "heading": "Authority of district attorney in emergency sessions of court",
+      "text": "Authority of district attorney in emergency sessions of court",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-951",
+      "number": "951.",
+      "heading": "Sheriff; law enforcement officer",
+      "text": "Sheriff; law enforcement officer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-952",
+      "number": "952.",
+      "heading": "Clerk of affected court",
+      "text": "Clerk of affected court",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-953",
+      "number": "953.",
+      "heading": "Authority of indigent defender board in emergency sessions of court",
+      "text": "Authority of indigent defender board in emergency sessions of court",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-954",
+      "number": "954.",
+      "heading": "Jury pool; emergency sessions",
+      "text": "Jury pool; emergency sessions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-955",
+      "number": "955.",
+      "heading": "Suspension of time limitations in affected courts; ninety days; recision; extensions; exceptions",
+      "text": "Suspension of time limitations in affected courts; ninety days; recision; extensions; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-956",
+      "number": "956.",
+      "heading": "Appeals; application for supervisory writs",
+      "text": "Appeals; application for supervisory writs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-957",
+      "number": "957.",
+      "heading": "Bail during emergency sessions of court; selected offenses",
+      "text": "Bail during emergency sessions of court; selected offenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-958",
+      "number": "958.",
+      "heading": "Suspension of time limitations in declared disaster, emergency, or public health emergency",
+      "text": "Suspension of time limitations in declared disaster, emergency, or public health emergency",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-971",
+      "number": "971.",
+      "heading": "Legislative findings",
+      "text": "Legislative findings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-972",
+      "number": "972.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9721",
+      "number": "972.1.",
+      "heading": "Expungement of records; local courts",
+      "text": "Expungement of records; local courts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-973",
+      "number": "973.",
+      "heading": "Effect of expunged record of arrest or conviction",
+      "text": "Effect of expunged record of arrest or conviction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-974",
+      "number": "974.",
+      "heading": "Dissemination of expunged records by third parties; court order",
+      "text": "Dissemination of expunged records by third parties; court order",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-975",
+      "number": "975.",
+      "heading": "Individuals incarcerated; ineligible to file motion to expunge records",
+      "text": "Individuals incarcerated; ineligible to file motion to expunge records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-976",
+      "number": "976.",
+      "heading": "Motion to expunge record of arrest that did not result in a conviction",
+      "text": "Motion to expunge record of arrest that did not result in a conviction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-977",
+      "number": "977.",
+      "heading": "Motion to expunge a record of arrest and conviction of a misdemeanor offense",
+      "text": "Motion to expunge a record of arrest and conviction of a misdemeanor offense",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-978",
+      "number": "978.",
+      "heading": "Motion to expunge record of arrest and conviction of a felony offense",
+      "text": "Motion to expunge record of arrest and conviction of a felony offense",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-979",
+      "number": "979.",
+      "heading": "Service of motion to expunge a record",
+      "text": "Service of motion to expunge a record",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-980",
+      "number": "980.",
+      "heading": "Contradictory hearing",
+      "text": "Contradictory hearing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-981",
+      "number": "981.",
+      "heading": "Judgment granting motion to expunge a record of arrest or conviction; execution",
+      "text": "Judgment granting motion to expunge a record of arrest or conviction; execution",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-982",
+      "number": "982.",
+      "heading": "Service of order and judgment of expungement",
+      "text": "Service of order and judgment of expungement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-983",
+      "number": "983.",
+      "heading": "Costs of expungement of a record; fees; collection; exemptions; disbursements",
+      "text": "Costs of expungement of a record; fees; collection; exemptions; disbursements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-984",
+      "number": "984.",
+      "heading": "Additional requirements for the expungement of records involving the operation of a vehicle while intoxicated; additional fee",
+      "text": "Additional requirements for the expungement of records involving the operation of a vehicle while intoxicated; additional fee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-985",
+      "number": "985.",
+      "heading": "Expungement by redaction of records with references to multiple individuals",
+      "text": "Expungement by redaction of records with references to multiple individuals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9851",
+      "number": "985.1.",
+      "heading": "Interim motion to expunge a felony arrest from criminal history in certain cases resulting in a misdemeanor conviction",
+      "text": "Interim motion to expunge a felony arrest from criminal history in certain cases resulting in a misdemeanor conviction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9852",
+      "number": "985.2.",
+      "heading": "Automated expungement of qualifying records",
+      "text": "Automated expungement of qualifying records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9853",
+      "number": "985.3.",
+      "heading": "Immediate expungement; judicial discretion",
+      "text": "Immediate expungement; judicial discretion",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-986",
+      "number": "986.",
+      "heading": "Forms for the expungement of records",
+      "text": "Forms for the expungement of records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-987",
+      "number": "987.",
+      "heading": "Motion to set aside conviction and dismiss prosecution; rule to show cause; order of dismissal forms to be used",
+      "text": "Motion to set aside conviction and dismiss prosecution; rule to show cause; order of dismissal forms to be used",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-988",
+      "number": "988.",
+      "heading": "Motion for fee exemption form to be used",
+      "text": "Motion for fee exemption form to be used",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-989",
+      "number": "989.",
+      "heading": "Motion for expungement forms to be used",
+      "text": "Motion for expungement forms to be used",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-990",
+      "number": "990.",
+      "heading": "Affidavit of response form to be used",
+      "text": "Affidavit of response form to be used",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-991",
+      "number": "991.",
+      "heading": "Order form to be used",
+      "text": "Order form to be used",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-992",
+      "number": "992.",
+      "heading": "Order of expungement form to be used",
+      "text": "Order of expungement form to be used",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-993",
+      "number": "993.",
+      "heading": "Supplemental forms to be used",
+      "text": "Supplemental forms to be used",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-994",
+      "number": "994.",
+      "heading": "Motion for interim expungement form to be used",
+      "text": "Motion for interim expungement form to be used",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-995",
+      "number": "995.",
+      "heading": "Order of interim expungement form to be used",
+      "text": "Order of interim expungement form to be used",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-996",
+      "number": "996.",
+      "heading": "Submission of expungement records to office of motor vehicles; forms to be used and completed by the clerk of court",
+      "text": "Submission of expungement records to office of motor vehicles; forms to be used and completed by the clerk of court",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-997",
+      "number": "997.",
+      "heading": "Certification of human trafficking victim status",
+      "text": "Certification of human trafficking victim status",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-998",
+      "number": "998.",
+      "heading": "Motion for expungement form to be used for certain misdemeanor convictions",
+      "text": "Motion for expungement form to be used for certain misdemeanor convictions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-999",
+      "number": "999.",
+      "heading": "Expungement of arrest records for certain individuals",
+      "text": "Expungement of arrest records for certain individuals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9991",
+      "number": "999.1.",
+      "heading": "Order form to be used; expedited expungement",
+      "text": "Order form to be used; expedited expungement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1001",
+      "number": "1001.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10011",
+      "number": "1001.1.",
+      "heading": "Duties of the sheriff; other law enforcement agencies",
+      "text": "Duties of the sheriff; other law enforcement agencies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1002",
+      "number": "1002.",
+      "heading": "Transfer of firearms",
+      "text": "Transfer of firearms",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10021",
+      "number": "1002.1.",
+      "heading": "Designation of crime of violence against family member, household member, or dating partner",
+      "text": "Designation of crime of violence against family member, household member, or dating partner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1003",
+      "number": "1003.",
+      "heading": "Transfer or storage of transferred firearms",
+      "text": "Transfer or storage of transferred firearms",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10031",
+      "number": "1003.1.",
+      "heading": "Public records; exception",
+      "text": "Public records; exception",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1004",
+      "number": "1004.",
+      "heading": "Implementation",
+      "text": "Implementation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1005",
+      "number": "1005.",
+      "heading": "Transfer of firearms; aggregate data collection and reporting",
+      "text": "Transfer of firearms; aggregate data collection and reporting",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1021",
+      "number": "1021",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

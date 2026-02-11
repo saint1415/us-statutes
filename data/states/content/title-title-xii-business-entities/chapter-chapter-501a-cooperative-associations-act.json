@@ -1,0 +1,814 @@
+{
+  "state": "iowa",
+  "path": "title-title-xii-business-entities/chapter-chapter-501a-cooperative-associations-act",
+  "sections": [
+    {
+      "id": "section-501a101",
+      "number": "501A.101",
+      "heading": "Short title.Section 501A.102 - Definitions",
+      "text": "Section 501A.103 - Requirements for signatures on documents.Section 501A.201 - General filing requirements.Section 501A.201A - Secretary of state — extra services — surcharge.Section 501A.202 - Filing duty of secretary of state.Section 501A.203 - Effective",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a102",
+      "number": "501A.102",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a103",
+      "number": "501A.103",
+      "heading": "Requirements for signatures on documents.",
+      "text": "Requirements for signatures on documents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a201",
+      "number": "501A.201",
+      "heading": "General filing requirements.",
+      "text": "General filing requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a201a",
+      "number": "501A.201A",
+      "heading": "Secretary of state — extra services — surcharge.",
+      "text": "Secretary of state — extra services — surcharge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a202",
+      "number": "501A.202",
+      "heading": "Filing duty of secretary of state.",
+      "text": "Filing duty of secretary of state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a203",
+      "number": "501A.203",
+      "heading": "Effective time and date of documents.",
+      "text": "Effective time and date of documents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a204",
+      "number": "501A.204",
+      "heading": "Correcting filed documents.",
+      "text": "Correcting filed documents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a205",
+      "number": "501A.205",
+      "heading": "Fees.",
+      "text": "Fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a206",
+      "number": "501A.206",
+      "heading": "Forms.",
+      "text": "Forms.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a207",
+      "number": "501A.207",
+      "heading": "Appeal from secretary of state’s refusal to file document.",
+      "text": "Appeal from secretary of state’s refusal to file document.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a208",
+      "number": "501A.208",
+      "heading": "Evidentiary effect of copy of filed document.",
+      "text": "Evidentiary effect of copy of filed document.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a209",
+      "number": "501A.209",
+      "heading": "Certificate of existence.",
+      "text": "Certificate of existence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a210",
+      "number": "501A.210",
+      "heading": "Penalty for signing false document.",
+      "text": "Penalty for signing false document.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a211",
+      "number": "501A.211",
+      "heading": "Secretary of state — powers.",
+      "text": "Secretary of state — powers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a221",
+      "number": "501A.221",
+      "heading": "Certificate of authority.",
+      "text": "Certificate of authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a222",
+      "number": "501A.222",
+      "heading": "Cancellation of certificate of authority.",
+      "text": "Cancellation of certificate of authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a231",
+      "number": "501A.231",
+      "heading": "Biennial report for secretary of state.",
+      "text": "Biennial report for secretary of state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a301",
+      "number": "501A.301",
+      "heading": "Name.",
+      "text": "Name.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a302",
+      "number": "501A.302",
+      "heading": "Reserved name.",
+      "text": "Reserved name.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a401",
+      "number": "501A.401",
+      "heading": "Registered office and registered agent.",
+      "text": "Registered office and registered agent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a402",
+      "number": "501A.402",
+      "heading": "Change of registered office or registered agent.",
+      "text": "Change of registered office or registered agent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a403",
+      "number": "501A.403",
+      "heading": "Resignation of registered agent — discontinuance of registered office — statement.",
+      "text": "Resignation of registered agent — discontinuance of registered office — statement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a404",
+      "number": "501A.404",
+      "heading": "Service on domestic cooperatives.",
+      "text": "Service on domestic cooperatives.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a405",
+      "number": "501A.405",
+      "heading": "Service on foreign cooperative.",
+      "text": "Service on foreign cooperative.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a501",
+      "number": "501A.501",
+      "heading": "Organizational purpose.",
+      "text": "Organizational purpose.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a502",
+      "number": "501A.502",
+      "heading": "Organizers.",
+      "text": "Organizers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a503",
+      "number": "501A.503",
+      "heading": "Articles of organization.",
+      "text": "Articles of organization.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a504",
+      "number": "501A.504",
+      "heading": "Amendment of articles.",
+      "text": "Amendment of articles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a505",
+      "number": "501A.505",
+      "heading": "Existence.",
+      "text": "Existence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a506",
+      "number": "501A.506",
+      "heading": "Bylaws.",
+      "text": "Bylaws.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a507",
+      "number": "501A.507",
+      "heading": "Cooperative records.",
+      "text": "Cooperative records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a601",
+      "number": "501A.601",
+      "heading": "Powers.",
+      "text": "Powers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a602",
+      "number": "501A.602",
+      "heading": "Emergency powers.",
+      "text": "Emergency powers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a603",
+      "number": "501A.603",
+      "heading": "Agricultural commodities and products — marketing contracts.",
+      "text": "Agricultural commodities and products — marketing contracts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a701",
+      "number": "501A.701",
+      "heading": "Board governs cooperative.",
+      "text": "Board governs cooperative.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a702",
+      "number": "501A.702",
+      "heading": "Number of directors.",
+      "text": "Number of directors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a703",
+      "number": "501A.703",
+      "heading": "Election of directors.",
+      "text": "Election of directors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a704",
+      "number": "501A.704",
+      "heading": "Filling vacancies.",
+      "text": "Filling vacancies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a705",
+      "number": "501A.705",
+      "heading": "Removal of directors.",
+      "text": "Removal of directors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a706",
+      "number": "501A.706",
+      "heading": "Board of directors’ meetings.",
+      "text": "Board of directors’ meetings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a707",
+      "number": "501A.707",
+      "heading": "Quorum.",
+      "text": "Quorum.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a708",
+      "number": "501A.708",
+      "heading": "Action of board of directors.",
+      "text": "Action of board of directors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a709",
+      "number": "501A.709",
+      "heading": "Action without a meeting.",
+      "text": "Action without a meeting.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a710",
+      "number": "501A.710",
+      "heading": "Audit committee.",
+      "text": "Audit committee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a711",
+      "number": "501A.711",
+      "heading": "Committees.",
+      "text": "Committees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a712",
+      "number": "501A.712",
+      "heading": "Standard of conduct.",
+      "text": "Standard of conduct.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a713",
+      "number": "501A.713",
+      "heading": "Director conflicts of interest.",
+      "text": "Director conflicts of interest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a714",
+      "number": "501A.714",
+      "heading": "Limitation of liability of directors, officers, employees, members, and volunteers.",
+      "text": "Limitation of liability of directors, officers, employees, members, and volunteers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a715",
+      "number": "501A.715",
+      "heading": "Indemnification.",
+      "text": "Indemnification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a716",
+      "number": "501A.716",
+      "heading": "Officers.",
+      "text": "Officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a801",
+      "number": "501A.801",
+      "heading": "Members.",
+      "text": "Members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a802",
+      "number": "501A.802",
+      "heading": "Member liability.",
+      "text": "Member liability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a803",
+      "number": "501A.803",
+      "heading": "Regular members’ meetings.",
+      "text": "Regular members’ meetings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a804",
+      "number": "501A.804",
+      "heading": "Special members’ meetings.",
+      "text": "Special members’ meetings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a805",
+      "number": "501A.805",
+      "heading": "Certification of meeting notice.",
+      "text": "Certification of meeting notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a806",
+      "number": "501A.806",
+      "heading": "Quorum.",
+      "text": "Quorum.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a807",
+      "number": "501A.807",
+      "heading": "Remote communications for members’ meetings.",
+      "text": "Remote communications for members’ meetings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a808",
+      "number": "501A.808",
+      "heading": "Action of members.",
+      "text": "Action of members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a809",
+      "number": "501A.809",
+      "heading": "Action without a meeting.",
+      "text": "Action without a meeting.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a810",
+      "number": "501A.810",
+      "heading": "Member voting rights.",
+      "text": "Member voting rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a811",
+      "number": "501A.811",
+      "heading": "Patron member voting based on patronage.",
+      "text": "Patron member voting based on patronage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a812",
+      "number": "501A.812",
+      "heading": "Voting rights.",
+      "text": "Voting rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a813",
+      "number": "501A.813",
+      "heading": "Voting by organizations and legal representatives.",
+      "text": "Voting by organizations and legal representatives.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a814",
+      "number": "501A.814",
+      "heading": "Proxies.",
+      "text": "Proxies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a815",
+      "number": "501A.815",
+      "heading": "Sale of property and assets.",
+      "text": "Sale of property and assets.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a816",
+      "number": "501A.816",
+      "heading": "Vote of ownership interests held by cooperative.",
+      "text": "Vote of ownership interests held by cooperative.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a901",
+      "number": "501A.901",
+      "heading": "Membership interests.",
+      "text": "Membership interests.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a902",
+      "number": "501A.902",
+      "heading": "Assignment of financial rights.",
+      "text": "Assignment of financial rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a903",
+      "number": "501A.903",
+      "heading": "Nature of a membership interest and statement of interest owned.",
+      "text": "Nature of a membership interest and statement of interest owned.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a904",
+      "number": "501A.904",
+      "heading": "Certificated and uncertificated membership interests.",
+      "text": "Certificated and uncertificated membership interests.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a905",
+      "number": "501A.905",
+      "heading": "Lost certificates — replacement.",
+      "text": "Lost certificates — replacement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a906",
+      "number": "501A.906",
+      "heading": "Restriction on transfer or registration of membership interests.",
+      "text": "Restriction on transfer or registration of membership interests.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1001",
+      "number": "501A.1001",
+      "heading": "Authorization, form, and acceptance of contributions.",
+      "text": "Authorization, form, and acceptance of contributions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1002",
+      "number": "501A.1002",
+      "heading": "Restatement of value of previous contributions.",
+      "text": "Restatement of value of previous contributions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1003",
+      "number": "501A.1003",
+      "heading": "Contribution agreements.",
+      "text": "Contribution agreements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1004",
+      "number": "501A.1004",
+      "heading": "Contribution rights agreements.",
+      "text": "Contribution rights agreements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1005",
+      "number": "501A.1005",
+      "heading": "Allocations and distributions — profits, losses, cash, or other assets.",
+      "text": "Allocations and distributions — profits, losses, cash, or other assets.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1006",
+      "number": "501A.1006",
+      "heading": "Allocations and distributions — net income.",
+      "text": "Allocations and distributions — net income.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1007",
+      "number": "501A.1007",
+      "heading": "Member control agreements.",
+      "text": "Member control agreements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1008",
+      "number": "501A.1008",
+      "heading": "Reversion of disbursements.",
+      "text": "Reversion of disbursements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1101",
+      "number": "501A.1101",
+      "heading": "Merger and consolidation.",
+      "text": "Merger and consolidation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1102",
+      "number": "501A.1102",
+      "heading": "Merger of subsidiary.",
+      "text": "Merger of subsidiary.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1103",
+      "number": "501A.1103",
+      "heading": "Abandonment.",
+      "text": "Abandonment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1104",
+      "number": "501A.1104",
+      "heading": "Conversion — amendment of organizational documents to be governed by this chapter.",
+      "text": "Conversion — amendment of organizational documents to be governed by this chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1201",
+      "number": "501A.1201",
+      "heading": "Methods of dissolution.",
+      "text": "Methods of dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1202",
+      "number": "501A.1202",
+      "heading": "Winding up.",
+      "text": "Winding up.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1203",
+      "number": "501A.1203",
+      "heading": "Revocation of dissolution proceedings.",
+      "text": "Revocation of dissolution proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1204",
+      "number": "501A.1204",
+      "heading": "Statute of limitations.",
+      "text": "Statute of limitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1205",
+      "number": "501A.1205",
+      "heading": "Articles of dissolution.",
+      "text": "Articles of dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1206",
+      "number": "501A.1206",
+      "heading": "Application for court-supervised voluntary dissolution.",
+      "text": "Application for court-supervised voluntary dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1207",
+      "number": "501A.1207",
+      "heading": "Court-ordered remedies for dissolution.",
+      "text": "Court-ordered remedies for dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1208",
+      "number": "501A.1208",
+      "heading": "Procedure in involuntary or court-supervised voluntary dissolution.",
+      "text": "Procedure in involuntary or court-supervised voluntary dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1209",
+      "number": "501A.1209",
+      "heading": "Receiver qualifications and powers.",
+      "text": "Receiver qualifications and powers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1210",
+      "number": "501A.1210",
+      "heading": "Dissolution action by attorney general — administrative dissolution.",
+      "text": "Dissolution action by attorney general — administrative dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1211",
+      "number": "501A.1211",
+      "heading": "Filing claims in court-supervised dissolution proceedings.",
+      "text": "Filing claims in court-supervised dissolution proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1212",
+      "number": "501A.1212",
+      "heading": "Discontinuance of court-supervised dissolution proceedings.",
+      "text": "Discontinuance of court-supervised dissolution proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1213",
+      "number": "501A.1213",
+      "heading": "Court-supervised dissolution order.",
+      "text": "Court-supervised dissolution order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1214",
+      "number": "501A.1214",
+      "heading": "Filing court’s dissolution order.",
+      "text": "Filing court’s dissolution order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1215",
+      "number": "501A.1215",
+      "heading": "Barring of claims.",
+      "text": "Barring of claims.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501a1216",
+      "number": "501A.1216",
+      "heading": "Right to sue or defend after dissolution.",
+      "text": "Right to sue or defend after dissolution.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

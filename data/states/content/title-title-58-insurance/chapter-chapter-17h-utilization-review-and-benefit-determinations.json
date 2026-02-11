@@ -1,0 +1,454 @@
+{
+  "state": "south-dakota",
+  "path": "title-title-58-insurance/chapter-chapter-17h-utilization-review-and-benefit-determinations",
+  "sections": [
+    {
+      "id": "section-58-17h-1",
+      "number": "58-17H-1",
+      "heading": "Definitions.Section 58-17H-2 - Health benefit plan defined",
+      "text": "Section 58-17H-3 - Urgent care request defined.Section 58-17H-4 - Applicability of chapter.Section 58-17H-5 - Health carrier to provide emergency services coverage without requiring prior authorization--Standards for coverage of emergency se",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-2",
+      "number": "58-17H-2",
+      "heading": "Health benefit plan defined.",
+      "text": "Health benefit plan defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-3",
+      "number": "58-17H-3",
+      "heading": "Urgent care request defined.",
+      "text": "Urgent care request defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-4",
+      "number": "58-17H-4",
+      "heading": "Applicability of chapter.",
+      "text": "Applicability of chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-5",
+      "number": "58-17H-5",
+      "heading": "Health carrier to provide emergency services coverage without requiring prior authorization--Standards for coverage of emergency services.",
+      "text": "Health carrier to provide emergency services coverage without requiring prior authorization--Standards for coverage of emergency services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-6",
+      "number": "58-17H-6",
+      "heading": "In-network emergency services.",
+      "text": "In-network emergency services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-7",
+      "number": "58-17H-7",
+      "heading": "Cost-sharing requirements for out-of-network emergency services.",
+      "text": "Cost-sharing requirements for out-of-network emergency services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-8",
+      "number": "58-17H-8",
+      "heading": "Cost-sharing requirements for covered persons--Payments to out-of-network providers.",
+      "text": "Cost-sharing requirements for covered persons--Payments to out-of-network providers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-9",
+      "number": "58-17H-9",
+      "heading": "Exceptions for payments by capitated and other plans without negotiated fees.",
+      "text": "Exceptions for payments by capitated and other plans without negotiated fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-10",
+      "number": "58-17H-10",
+      "heading": "Negotiated amounts for in-network providers for a particular emergency service.",
+      "text": "Negotiated amounts for in-network providers for a particular emergency service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-11",
+      "number": "58-17H-11",
+      "heading": "General cost-sharing requirements allowed.",
+      "text": "General cost-sharing requirements allowed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-12",
+      "number": "58-17H-12",
+      "heading": "Access to representative for post-evaluation or post-stabilization services.",
+      "text": "Access to representative for post-evaluation or post-stabilization services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-13",
+      "number": "58-17H-13",
+      "heading": "Health carrier may be deemed to meet emergency medical coverage requirements if met by private accrediting body.",
+      "text": "Health carrier may be deemed to meet emergency medical coverage requirements if met by private accrediting body.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-14",
+      "number": "58-17H-14",
+      "heading": "Health carrier responsibility for utilization review activities.",
+      "text": "Health carrier responsibility for utilization review activities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-15",
+      "number": "58-17H-15",
+      "heading": "Director to hold health carrier responsible for utilization review performance of contractor.",
+      "text": "Director to hold health carrier responsible for utilization review performance of contractor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-16",
+      "number": "58-17H-16",
+      "heading": "Written utilization review program required--Contents of program document.",
+      "text": "Written utilization review program required--Contents of program document.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-17",
+      "number": "58-17H-17",
+      "heading": "Utilization review program to use documented clinical review criteria--Criteria to be available to authorized agencies upon request.",
+      "text": "Utilization review program to use documented clinical review criteria--Criteria to be available to authorized agencies upon request.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-18",
+      "number": "58-17H-18",
+      "heading": "Program to be administered by qualified licensed health care professionals.",
+      "text": "Program to be administered by qualified licensed health care professionals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-19",
+      "number": "58-17H-19",
+      "heading": "Determinations to be issued in timely manner--Process to ensure consistency.",
+      "text": "Determinations to be issued in timely manner--Process to ensure consistency.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-20",
+      "number": "58-17H-20",
+      "heading": "Effectiveness and efficiency of program to be routinely reviewed.",
+      "text": "Effectiveness and efficiency of program to be routinely reviewed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-21",
+      "number": "58-17H-21",
+      "heading": "Data systems to support program activities and generate management reports.",
+      "text": "Data systems to support program activities and generate management reports.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-22",
+      "number": "58-17H-22",
+      "heading": "Health carrier oversight of delegated activities--Requirements.",
+      "text": "Health carrier oversight of delegated activities--Requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-23",
+      "number": "58-17H-23",
+      "heading": "Utilization review to be coordinated with other medical management activity of health carrier.",
+      "text": "Utilization review to be coordinated with other medical management activity of health carrier.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-24",
+      "number": "58-17H-24",
+      "heading": "Health carrier to provide free access to review staff.",
+      "text": "Health carrier to provide free access to review staff.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-25",
+      "number": "58-17H-25",
+      "heading": "Only information necessary for review or determination to be collected.",
+      "text": "Only information necessary for review or determination to be collected.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-26",
+      "number": "58-17H-26",
+      "heading": "Independence and impartiality required for utilization review.",
+      "text": "Independence and impartiality required for utilization review.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-27",
+      "number": "58-17H-27",
+      "heading": "Written procedures required for making determinations--Notification.",
+      "text": "Written procedures required for making determinations--Notification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-28",
+      "number": "58-17H-28",
+      "heading": "Prospective review determinations--Timing--Notification of requirements--Extension of time.",
+      "text": "Prospective review determinations--Timing--Notification of requirements--Extension of time.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-29",
+      "number": "58-17H-29",
+      "heading": "Concurrent review determinations--Timing--Notification requirements.",
+      "text": "Concurrent review determinations--Timing--Notification requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-30",
+      "number": "58-17H-30",
+      "heading": "Retrospective review determinations--Timing--Notification requirements.",
+      "text": "Retrospective review determinations--Timing--Notification requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-31",
+      "number": "58-17H-31",
+      "heading": "Calculation of time period for determination for prospective and retrospective reviews.",
+      "text": "Calculation of time period for determination for prospective and retrospective reviews.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-32",
+      "number": "58-17H-32",
+      "heading": "Notification of adverse determination--Contents.",
+      "text": "Notification of adverse determination--Contents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-33",
+      "number": "58-17H-33",
+      "heading": "Information required to be provided to covered persons and prospective covered persons.",
+      "text": "Information required to be provided to covered persons and prospective covered persons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-34",
+      "number": "58-17H-34",
+      "heading": "Health carrier may be deemed to meet utilization review requirements if met by private accrediting body.",
+      "text": "Health carrier may be deemed to meet utilization review requirements if met by private accrediting body.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-35",
+      "number": "58-17H-35",
+      "heading": "Registration of utilization review organizations--Required information.",
+      "text": "Registration of utilization review organizations--Required information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-36",
+      "number": "58-17H-36",
+      "heading": "Filing changes in registration information.",
+      "text": "Filing changes in registration information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-37",
+      "number": "58-17H-37",
+      "heading": "Requests for information from utilization review organizations.",
+      "text": "Requests for information from utilization review organizations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-38",
+      "number": "58-17H-38",
+      "heading": "Activities of nonregistered utilization review organizations prohibited.",
+      "text": "Activities of nonregistered utilization review organizations prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-39",
+      "number": "58-17H-39",
+      "heading": "Registration fee for utilization review organizations.",
+      "text": "Registration fee for utilization review organizations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-40",
+      "number": "58-17H-40",
+      "heading": "Urgent care requests--Written procedures required for receipt and determination of requests.",
+      "text": "Urgent care requests--Written procedures required for receipt and determination of requests.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-41",
+      "number": "58-17H-41",
+      "heading": "Insufficient information for determination--Notice and statement of necessary information.",
+      "text": "Insufficient information for determination--Notice and statement of necessary information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-42",
+      "number": "58-17H-42",
+      "heading": "Insufficient information for determination of prospective urgent care requests.",
+      "text": "Insufficient information for determination of prospective urgent care requests.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-43",
+      "number": "58-17H-43",
+      "heading": "Urgent care requests--Timely notification of determination.",
+      "text": "Urgent care requests--Timely notification of determination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-44",
+      "number": "58-17H-44",
+      "heading": "Time within which to submit necessary information.",
+      "text": "Time within which to submit necessary information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-45",
+      "number": "58-17H-45",
+      "heading": "Urgent care requests--Notice of determination--Failure to submit necessary information as grounds for denial of certification.",
+      "text": "Urgent care requests--Notice of determination--Failure to submit necessary information as grounds for denial of certification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-46",
+      "number": "58-17H-46",
+      "heading": "Concurrent review urgent care requests--Extended care requests--Time for determination and notice.",
+      "text": "Concurrent review urgent care requests--Extended care requests--Time for determination and notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-47",
+      "number": "58-17H-47",
+      "heading": "Calculation of time periods for determination.",
+      "text": "Calculation of time periods for determination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-48",
+      "number": "58-17H-48",
+      "heading": "Notification of adverse determination--Requirements.",
+      "text": "Notification of adverse determination--Requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-49",
+      "number": "58-17H-49",
+      "heading": "Promulgation of rules.",
+      "text": "Promulgation of rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-50",
+      "number": "58-17H-50",
+      "heading": "Coverage for cancer treatment medication.",
+      "text": "Coverage for cancer treatment medication.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-51",
+      "number": "58-17H-51",
+      "heading": "Reclassification of benefits with respect to cancer treatment medications.",
+      "text": "Reclassification of benefits with respect to cancer treatment medications.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-52",
+      "number": "58-17H-52",
+      "heading": "Medical management practices complying with chapter.",
+      "text": "Medical management practices complying with chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-53",
+      "number": "58-17H-53",
+      "heading": "Step therapy protocols.",
+      "text": "Step therapy protocols.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-54",
+      "number": "58-17H-54",
+      "heading": "Step therapy protocols--Process--Transparency.",
+      "text": "Step therapy protocols--Process--Transparency.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-55",
+      "number": "58-17H-55",
+      "heading": "Step therapy override exceptions.",
+      "text": "Step therapy override exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58-17h-56",
+      "number": "58-17H-56",
+      "heading": "Limitations.",
+      "text": "Limitations.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

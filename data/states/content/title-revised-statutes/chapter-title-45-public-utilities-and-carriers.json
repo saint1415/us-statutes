@@ -1,0 +1,4438 @@
+{
+  "state": "louisiana",
+  "path": "title-revised-statutes/chapter-title-45-public-utilities-and-carriers",
+  "sections": [
+    {
+      "id": "section-451",
+      "number": "45:1.",
+      "heading": "Persons affected",
+      "text": "Persons affected",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452",
+      "number": "45:2.",
+      "heading": "Bond required",
+      "text": "Bond required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-453",
+      "number": "45:3.",
+      "heading": "Form of bond; beneficiaries",
+      "text": "Form of bond; beneficiaries",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-454",
+      "number": "45:4.",
+      "heading": "Principal and surety bound in solido",
+      "text": "Principal and surety bound in solido",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-455",
+      "number": "45:5.",
+      "heading": "Amount of bond",
+      "text": "Amount of bond",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-456",
+      "number": "45:6.",
+      "heading": "Recordation",
+      "text": "Recordation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-457",
+      "number": "45:7.",
+      "heading": "Construction of bond",
+      "text": "Construction of bond",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-458",
+      "number": "45:8.",
+      "heading": "Carriage in violation of law",
+      "text": "Carriage in violation of law",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-459",
+      "number": "45:9.",
+      "heading": "Permitting or assisting violation",
+      "text": "Permitting or assisting violation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4510",
+      "number": "45:10.",
+      "heading": "Unlawful piloting; penalty",
+      "text": "Unlawful piloting; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4561",
+      "number": "45:61.",
+      "heading": "Acquisition of land for gravity irrigation; expropriation",
+      "text": "Acquisition of land for gravity irrigation; expropriation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4562",
+      "number": "45:62.",
+      "heading": "Navigable waters, right to utilize",
+      "text": "Navigable waters, right to utilize",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4563",
+      "number": "45:63.",
+      "heading": "Public service corporations, status as",
+      "text": "Public service corporations, status as",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4564",
+      "number": "45:64.",
+      "heading": "Expropriation for other canals, power of",
+      "text": "Expropriation for other canals, power of",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4565",
+      "number": "45:65.",
+      "heading": "Expropriation; proceedings",
+      "text": "Expropriation; proceedings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4566",
+      "number": "45:66.",
+      "heading": "Public lands; right of way",
+      "text": "Public lands; right of way",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4567",
+      "number": "45:67.",
+      "heading": "Streams and waters, crossing",
+      "text": "Streams and waters, crossing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4568",
+      "number": "45:68.",
+      "heading": "Highways, crossing or utilizing",
+      "text": "Highways, crossing or utilizing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4569",
+      "number": "45:69.",
+      "heading": "Telephone, telegraph and electric lines",
+      "text": "Telephone, telegraph and electric lines",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4570",
+      "number": "45:70.",
+      "heading": "Consent to become a public utility",
+      "text": "Consent to become a public utility",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4571",
+      "number": "45:71.",
+      "heading": "Corporations organized after passage of law",
+      "text": "Corporations organized after passage of law",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45121",
+      "number": "45:121.",
+      "heading": "Electric public utility defined",
+      "text": "Electric public utility defined",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45122",
+      "number": "45:122.",
+      "heading": "Extensions of services and facilities, requirement of",
+      "text": "Extensions of services and facilities, requirement of",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45123",
+      "number": "45:123.",
+      "heading": "Stabilizing service by electric public utilities; extension and construction of facilities, regulation thereof; limitations on municipally-owned or operated utilities",
+      "text": "Stabilizing service by electric public utilities; extension and construction of facilities, regulation thereof; limitations on municipally-owned or operated utilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45124",
+      "number": "45:124.",
+      "heading": "Mortgages, power to make; property covered",
+      "text": "Mortgages, power to make; property covered",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45125",
+      "number": "45:125.",
+      "heading": "Mortgages; recordation; re-inscription",
+      "text": "Mortgages; recordation; re-inscription",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45141",
+      "number": "45:141.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45142",
+      "number": "45:142.",
+      "heading": "Ten-foot restriction; prohibited functions or activities",
+      "text": "Ten-foot restriction; prohibited functions or activities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45143",
+      "number": "45:143.",
+      "heading": "Required conditions for commencing work within ten feet of high voltage overhead lines",
+      "text": "Required conditions for commencing work within ten feet of high voltage overhead lines",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45144",
+      "number": "45:144.",
+      "heading": "Liability for damages",
+      "text": "Liability for damages",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45145",
+      "number": "45:145.",
+      "heading": "Operations and activities exempt",
+      "text": "Operations and activities exempt",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45146",
+      "number": "45:146.",
+      "heading": "Rules and regulations",
+      "text": "Rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45161",
+      "number": "45:161.",
+      "heading": "Declaration of policy",
+      "text": "Declaration of policy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45162",
+      "number": "45:162.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45163",
+      "number": "45:163.",
+      "heading": "Powers of commission; rates; insurance policies or bonds",
+      "text": "Powers of commission; rates; insurance policies or bonds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451631",
+      "number": "45:163.1.",
+      "heading": "Repealed by Acts 2008, No. 724, §3, eff. July 6, 2008.",
+      "text": "Repealed by Acts 2008, No. 724, §3, eff. July 6, 2008.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45164",
+      "number": "45:164.",
+      "heading": "Common carrier's certificate; contract carrier's permit",
+      "text": "Common carrier's certificate; contract carrier's permit",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451641",
+      "number": "45:164.1.",
+      "heading": "Attorney general; powers, duties; commercial and trade practices of motor carriers; investigations; legal proceedings",
+      "text": "Attorney general; powers, duties; commercial and trade practices of motor carriers; investigations; legal proceedings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45165",
+      "number": "45:165.",
+      "heading": "Holding of both certificate and permit prohibited",
+      "text": "Holding of both certificate and permit prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45166",
+      "number": "45:166.",
+      "heading": "Amendment, suspension, revocation or transfer of certificate or permit",
+      "text": "Amendment, suspension, revocation or transfer of certificate or permit",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45167",
+      "number": "45:167.",
+      "heading": "Name and address of operator and certificate or permit number to be displayed",
+      "text": "Name and address of operator and certificate or permit number to be displayed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45168",
+      "number": "45:168.",
+      "heading": "Consideration to shipper prohibited; rebates; deviation from rate prescribed by commission; penalties",
+      "text": "Consideration to shipper prohibited; rebates; deviation from rate prescribed by commission; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45169",
+      "number": "45:169.",
+      "heading": "Fees; disposition; refunds; credits; prescription",
+      "text": "Fees; disposition; refunds; credits; prescription",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451691",
+      "number": "45:169.1.",
+      "heading": "Motor Carrier Regulation Dedicated Fund Account",
+      "text": "Motor Carrier Regulation Dedicated Fund Account",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45170",
+      "number": "45:170.",
+      "heading": "Impoundment of vehicles",
+      "text": "Impoundment of vehicles",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45171",
+      "number": "45:171.",
+      "heading": "Violations; definitions; penalty; report",
+      "text": "Violations; definitions; penalty; report",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45172",
+      "number": "45:172.",
+      "heading": "Exemptions",
+      "text": "Exemptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45173",
+      "number": "45:173.",
+      "heading": "Contract carriers; liability policy or bond required",
+      "text": "Contract carriers; liability policy or bond required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45174",
+      "number": "45:174.",
+      "heading": "Cancellation of bond or policy",
+      "text": "Cancellation of bond or policy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45175",
+      "number": "45:175.",
+      "heading": "Certificate or receipt to be displayed",
+      "text": "Certificate or receipt to be displayed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45176",
+      "number": "45:176.",
+      "heading": "Violation of bond requirements",
+      "text": "Violation of bond requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45177",
+      "number": "45:177.",
+      "heading": "Exemptions; policy or bond",
+      "text": "Exemptions; policy or bond",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45178",
+      "number": "45:178.",
+      "heading": "License for carrier's vehicle; certificate from public service commission required",
+      "text": "License for carrier's vehicle; certificate from public service commission required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45179",
+      "number": "45:179.",
+      "heading": "Unlawful purchase or use of registration certificate or license plate",
+      "text": "Unlawful purchase or use of registration certificate or license plate",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45180",
+      "number": "45:180.",
+      "heading": "Penalty for unlawful issuance or purchase of license",
+      "text": "Penalty for unlawful issuance or purchase of license",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451801",
+      "number": "45:180.1.",
+      "heading": "Wreckers and towing services",
+      "text": "Wreckers and towing services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451802",
+      "number": "45:180.2.",
+      "heading": "Classification of wreckers; license exemptions",
+      "text": "Classification of wreckers; license exemptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45181",
+      "number": "45:181.",
+      "heading": "Chauffeur's or driver's license, and \"for hire\" license plates required",
+      "text": "Chauffeur's or driver's license, and \"for hire\" license plates required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45182",
+      "number": "45:182.",
+      "heading": "Duty to determine whether license laws complied with",
+      "text": "Duty to determine whether license laws complied with",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45183",
+      "number": "45:183.",
+      "heading": "Penalties; license requirement",
+      "text": "Penalties; license requirement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45184",
+      "number": "45:184.",
+      "heading": "Service car defined",
+      "text": "Service car defined",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45185",
+      "number": "45:185.",
+      "heading": "Operators' certificates",
+      "text": "Operators' certificates",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45186",
+      "number": "45:186.",
+      "heading": "Issuance of permit or certificate",
+      "text": "Issuance of permit or certificate",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45187",
+      "number": "45:187.",
+      "heading": "Number of passengers",
+      "text": "Number of passengers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45188",
+      "number": "45:188.",
+      "heading": "Indemnity bond; service cars",
+      "text": "Indemnity bond; service cars",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45189",
+      "number": "45:189.",
+      "heading": "Speedometer required; unlawful speed prima facie evidence of negligence",
+      "text": "Speedometer required; unlawful speed prima facie evidence of negligence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45190",
+      "number": "45:190.",
+      "heading": "\"Service car\" to be displayed on windshield",
+      "text": "\"Service car\" to be displayed on windshield",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45191",
+      "number": "45:191.",
+      "heading": "Penalty; unlawful operation of service car",
+      "text": "Penalty; unlawful operation of service car",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45192",
+      "number": "45:192.",
+      "heading": "Imitating another carrier's name, etc.; prima facie evidence of violation; penalty",
+      "text": "Imitating another carrier's name, etc.; prima facie evidence of violation; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45193",
+      "number": "45:193.",
+      "heading": "Revocation of permit or license",
+      "text": "Revocation of permit or license",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45194",
+      "number": "45:194.",
+      "heading": "Repealed by Acts 2008, No. 724, §3, eff. July 6, 2008.",
+      "text": "Repealed by Acts 2008, No. 724, §3, eff. July 6, 2008.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45195",
+      "number": "45:195.",
+      "heading": "§§195, 196 Repealed by Acts 1958, No. 261, §1",
+      "text": "§§195, 196 Repealed by Acts 1958, No. 261, §1",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45197",
+      "number": "45:197.",
+      "heading": "Taxicab drivers to show charges on meter; penalty",
+      "text": "Taxicab drivers to show charges on meter; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45198",
+      "number": "45:198.",
+      "heading": "Repealed by Acts 1972, No. 263, §1",
+      "text": "Repealed by Acts 1972, No. 263, §1",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452001",
+      "number": "45:200.1.",
+      "heading": "Findings and declaration of policy",
+      "text": "Findings and declaration of policy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452002",
+      "number": "45:200.2.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452003",
+      "number": "45:200.3.",
+      "heading": "Necessity of municipal or parochial consent for operation of public carrier vehicles",
+      "text": "Necessity of municipal or parochial consent for operation of public carrier vehicles",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452004",
+      "number": "45:200.4.",
+      "heading": "Insurance of each public carrier vehicle",
+      "text": "Insurance of each public carrier vehicle",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452005",
+      "number": "45:200.5.",
+      "heading": "Blanket insurance policy",
+      "text": "Blanket insurance policy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452006",
+      "number": "45:200.6.",
+      "heading": "Self-insurance",
+      "text": "Self-insurance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452007",
+      "number": "45:200.7.",
+      "heading": "Effectiveness of certificate",
+      "text": "Effectiveness of certificate",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452008",
+      "number": "45:200.8.",
+      "heading": "Appointment of secretary of state as agent to receive service of process",
+      "text": "Appointment of secretary of state as agent to receive service of process",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452009",
+      "number": "45:200.9.",
+      "heading": "Certificate of compliance; contents; filing and posting",
+      "text": "Certificate of compliance; contents; filing and posting",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4520010",
+      "number": "45:200.10.",
+      "heading": "Operation in more than one municipality or parish, filing of insurance policy, statement and copies of certificate",
+      "text": "Operation in more than one municipality or parish, filing of insurance policy, statement and copies of certificate",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4520011",
+      "number": "45:200.11.",
+      "heading": "Other automobile laws applicable",
+      "text": "Other automobile laws applicable",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4520012",
+      "number": "45:200.12.",
+      "heading": "Name of owner and number of certificate to be painted on vehicle",
+      "text": "Name of owner and number of certificate to be painted on vehicle",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4520013",
+      "number": "45:200.13.",
+      "heading": "Effect on certificates previously issued; new certificates required",
+      "text": "Effect on certificates previously issued; new certificates required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4520014",
+      "number": "45:200.14.",
+      "heading": "Enforcement",
+      "text": "Enforcement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4520015",
+      "number": "45:200.15.",
+      "heading": "Violations",
+      "text": "Violations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4520016",
+      "number": "45:200.16.",
+      "heading": "Construction",
+      "text": "Construction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4520017",
+      "number": "45:200.17.",
+      "heading": "Short title",
+      "text": "Short title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452011",
+      "number": "45:201.1.",
+      "heading": "Short title",
+      "text": "Short title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452012",
+      "number": "45:201.2.",
+      "heading": "Findings and declaration of policy",
+      "text": "Findings and declaration of policy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452013",
+      "number": "45:201.3.",
+      "heading": "Applicability",
+      "text": "Applicability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452014",
+      "number": "45:201.4.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452015",
+      "number": "45:201.5.",
+      "heading": "Agreements; mandatory disclosures; prohibited provision; choice of law and forum",
+      "text": "Agreements; mandatory disclosures; prohibited provision; choice of law and forum",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452016",
+      "number": "45:201.6.",
+      "heading": "Requirements for insurance",
+      "text": "Requirements for insurance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452017",
+      "number": "45:201.7.",
+      "heading": "Automobile insurance provisions",
+      "text": "Automobile insurance provisions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452018",
+      "number": "45:201.8.",
+      "heading": "Cooperation with investigation",
+      "text": "Cooperation with investigation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-452019",
+      "number": "45:201.9.",
+      "heading": "Proof of insurance",
+      "text": "Proof of insurance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4520110",
+      "number": "45:201.10.",
+      "heading": "Enforcement",
+      "text": "Enforcement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4520111",
+      "number": "45:201.11.",
+      "heading": "Violations",
+      "text": "Violations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4520112",
+      "number": "45:201.12.",
+      "heading": "Construction",
+      "text": "Construction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4520113",
+      "number": "45:201.13.",
+      "heading": "Appointment of secretary of state as agent to receive service of process",
+      "text": "Appointment of secretary of state as agent to receive service of process",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45251",
+      "number": "45:251.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45252",
+      "number": "45:252.",
+      "heading": "Pipe lines declared common carriers; control by public service commission",
+      "text": "Pipe lines declared common carriers; control by public service commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45253",
+      "number": "45:253.",
+      "heading": "Power of commission",
+      "text": "Power of commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45254",
+      "number": "45:254.",
+      "heading": "Expropriation; telegraph and telephone lines; utilizing streams, highways, etc.",
+      "text": "Expropriation; telegraph and telephone lines; utilizing streams, highways, etc.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45255",
+      "number": "45:255.",
+      "heading": "Regulations of commission; petition, notice, and hearing; reparations",
+      "text": "Regulations of commission; petition, notice, and hearing; reparations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45256",
+      "number": "45:256.",
+      "heading": "Connections with other carriers; facilities for receipt and delivery of petroleum; duty to receive",
+      "text": "Connections with other carriers; facilities for receipt and delivery of petroleum; duty to receive",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45257",
+      "number": "45:257.",
+      "heading": "Finality of commission's decision; injunction",
+      "text": "Finality of commission's decision; injunction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45258",
+      "number": "45:258.",
+      "heading": "Tariffs; reports to commission; investigations; complaints; summoning witnesses; suits; process",
+      "text": "Tariffs; reports to commission; investigations; complaints; summoning witnesses; suits; process",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45259",
+      "number": "45:259.",
+      "heading": "Discrimination; limit of petroleum carrier required to receive in one day; expert to be employed to aid commission",
+      "text": "Discrimination; limit of petroleum carrier required to receive in one day; expert to be employed to aid commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45260",
+      "number": "45:260.",
+      "heading": "Rules and regulations, general or applicable to particular fields",
+      "text": "Rules and regulations, general or applicable to particular fields",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45261",
+      "number": "45:261.",
+      "heading": "Delivery of identical petroleum or delivery from common stock at destination",
+      "text": "Delivery of identical petroleum or delivery from common stock at destination",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45262",
+      "number": "45:262.",
+      "heading": "Suits to set aside commission's orders",
+      "text": "Suits to set aside commission's orders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45263",
+      "number": "45:263.",
+      "heading": "Procedure before commission and on review to be that used in similar cases",
+      "text": "Procedure before commission and on review to be that used in similar cases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45264",
+      "number": "45:264.",
+      "heading": "Violation of law by carrier; penalty recoverable by state or person discriminated against",
+      "text": "Violation of law by carrier; penalty recoverable by state or person discriminated against",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45265",
+      "number": "45:265.",
+      "heading": "Violation of law by carrier's owners, officers, etc.",
+      "text": "Violation of law by carrier's owners, officers, etc.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45301",
+      "number": "45:301.",
+      "heading": "Pipe lines; gas; affected with a public interest",
+      "text": "Pipe lines; gas; affected with a public interest",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45302",
+      "number": "45:302.",
+      "heading": "Powers of the commission; scope",
+      "text": "Powers of the commission; scope",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-453021",
+      "number": "45:302.1.",
+      "heading": "Powers of the commission; abandonment of certain pipelines",
+      "text": "Powers of the commission; abandonment of certain pipelines",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45303",
+      "number": "45:303.",
+      "heading": "Powers of the commission; limitations",
+      "text": "Powers of the commission; limitations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45307",
+      "number": "45:307.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45308",
+      "number": "45:308.",
+      "heading": "Safety standards and practices",
+      "text": "Safety standards and practices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45309",
+      "number": "45:309.",
+      "heading": "Inspections",
+      "text": "Inspections",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45310",
+      "number": "45:310.",
+      "heading": "Penalties",
+      "text": "Penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45311",
+      "number": "45:311.",
+      "heading": "Enforcement",
+      "text": "Enforcement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45312",
+      "number": "45:312.",
+      "heading": "Compacts, agreements or contracts",
+      "text": "Compacts, agreements or contracts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45313",
+      "number": "45:313.",
+      "heading": "Uniform standards not applicable to existing facilities; exceptions",
+      "text": "Uniform standards not applicable to existing facilities; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45314",
+      "number": "45:314.",
+      "heading": "Waiver of standards",
+      "text": "Waiver of standards",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45315",
+      "number": "45:315.",
+      "heading": "Construction",
+      "text": "Construction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45321",
+      "number": "45:321.",
+      "heading": "Stations; naming",
+      "text": "Stations; naming",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45322",
+      "number": "45:322.",
+      "heading": "Copies of railroad's books and records as evidence",
+      "text": "Copies of railroad's books and records as evidence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45323",
+      "number": "45:323.",
+      "heading": "Streets; pavement and repair of",
+      "text": "Streets; pavement and repair of",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45324",
+      "number": "45:324.",
+      "heading": "Railroads, tramroads, dirt or plank roads not to obstruct highways or impede drainage or navigation",
+      "text": "Railroads, tramroads, dirt or plank roads not to obstruct highways or impede drainage or navigation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45351",
+      "number": "45:351.",
+      "heading": "Right of way over state land",
+      "text": "Right of way over state land",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45352",
+      "number": "45:352.",
+      "heading": "Foreign corporations' power to operate in state",
+      "text": "Foreign corporations' power to operate in state",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45353",
+      "number": "45:353.",
+      "heading": "Foreign corporations; expropriation",
+      "text": "Foreign corporations; expropriation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45354",
+      "number": "45:354.",
+      "heading": "Foreign corporations operating in state to be subject to its jurisdiction",
+      "text": "Foreign corporations operating in state to be subject to its jurisdiction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45355",
+      "number": "45:355.",
+      "heading": "Repair of cars in state; penalty",
+      "text": "Repair of cars in state; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45356",
+      "number": "45:356.",
+      "heading": "Crossing other railroads with industrial switch or spur track; expropriation",
+      "text": "Crossing other railroads with industrial switch or spur track; expropriation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45357",
+      "number": "45:357.",
+      "heading": "Public service commission's power to order construction of industrial switch or spur tracks",
+      "text": "Public service commission's power to order construction of industrial switch or spur tracks",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45358",
+      "number": "45:358.",
+      "heading": "Cities of over 100,000 population not affected",
+      "text": "Cities of over 100,000 population not affected",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45381",
+      "number": "45:381.",
+      "heading": "Mortgages; power of company generally; property covered",
+      "text": "Mortgages; power of company generally; property covered",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45382",
+      "number": "45:382.",
+      "heading": "Mortgages to secure own bonds",
+      "text": "Mortgages to secure own bonds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45383",
+      "number": "45:383.",
+      "heading": "Mortgages to secure another railroad's bonds",
+      "text": "Mortgages to secure another railroad's bonds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45384",
+      "number": "45:384.",
+      "heading": "Record of mortgages generally",
+      "text": "Record of mortgages generally",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45385",
+      "number": "45:385.",
+      "heading": "Conversion of principal due on bonds into stock",
+      "text": "Conversion of principal due on bonds into stock",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45386",
+      "number": "45:386.",
+      "heading": "Foreclosure of mortgages; powers and rights of purchasers",
+      "text": "Foreclosure of mortgages; powers and rights of purchasers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45387",
+      "number": "45:387.",
+      "heading": "Foreclosure of mortgages; new corporation, power to organize",
+      "text": "Foreclosure of mortgages; new corporation, power to organize",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45388",
+      "number": "45:388.",
+      "heading": "Foreclosure of mortgages; certificate of organization of new corporation; powers of new corporation",
+      "text": "Foreclosure of mortgages; certificate of organization of new corporation; powers of new corporation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45389",
+      "number": "45:389.",
+      "heading": "Foreclosure of mortgages; principal office of new corporation",
+      "text": "Foreclosure of mortgages; principal office of new corporation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45390",
+      "number": "45:390.",
+      "heading": "Foreclosure of mortgages; prior liens; restrictions on purchasers",
+      "text": "Foreclosure of mortgages; prior liens; restrictions on purchasers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45451",
+      "number": "45:451.",
+      "heading": "Duty to relieve obstruction to natural drainage",
+      "text": "Duty to relieve obstruction to natural drainage",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45452",
+      "number": "45:452.",
+      "heading": "Failure to relieve obstruction; landowner's right to do necessary work; committee to determine what work necessary",
+      "text": "Failure to relieve obstruction; landowner's right to do necessary work; committee to determine what work necessary",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45453",
+      "number": "45:453.",
+      "heading": "Account of work done; payment",
+      "text": "Account of work done; payment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45454",
+      "number": "45:454.",
+      "heading": "Action for cost of work; attorney's fee; damages",
+      "text": "Action for cost of work; attorney's fee; damages",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45455",
+      "number": "45:455.",
+      "heading": "Railroad company's failure to furnish representative as member of committee",
+      "text": "Railroad company's failure to furnish representative as member of committee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45456",
+      "number": "45:456.",
+      "heading": "Violation of law; exceptions",
+      "text": "Violation of law; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45457",
+      "number": "45:457.",
+      "heading": "Railroad company required to provide drainage in municipalities and parishes",
+      "text": "Railroad company required to provide drainage in municipalities and parishes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45458",
+      "number": "45:458.",
+      "heading": "Additional remedies",
+      "text": "Additional remedies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45481",
+      "number": "45:481.",
+      "heading": "Animals, water for in stock yards or pens; application of Section",
+      "text": "Animals, water for in stock yards or pens; application of Section",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45482",
+      "number": "45:482.",
+      "heading": "Cleanliness of stock yards, pens, etc.",
+      "text": "Cleanliness of stock yards, pens, etc.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45483",
+      "number": "45:483.",
+      "heading": "Violations; penalty",
+      "text": "Violations; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45501",
+      "number": "45:501.",
+      "heading": "Livestock, killing or injuring",
+      "text": "Livestock, killing or injuring",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45502",
+      "number": "45:502.",
+      "heading": "Notice of killing or injury of livestock; arbitration",
+      "text": "Notice of killing or injury of livestock; arbitration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45503",
+      "number": "45:503.",
+      "heading": "Payment of arbitration award; failure of arbitration; remedy cumulative; proper fencing a defense",
+      "text": "Payment of arbitration award; failure of arbitration; remedy cumulative; proper fencing a defense",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45504",
+      "number": "45:504.",
+      "heading": "Burden of disproving negligence in killing or injuring livestock",
+      "text": "Burden of disproving negligence in killing or injuring livestock",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45521",
+      "number": "45:521.",
+      "heading": "§§521 TO 534 Repealed by Acts 1972, No. 262, §1",
+      "text": "§§521 TO 534 Repealed by Acts 1972, No. 262, §1",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45561",
+      "number": "45:561.",
+      "heading": "Implementation of Federal Railroad Safety Act of 1970",
+      "text": "Implementation of Federal Railroad Safety Act of 1970",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45562",
+      "number": "45:562.",
+      "heading": "Authority to inspect railroad facility",
+      "text": "Authority to inspect railroad facility",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45563",
+      "number": "45:563.",
+      "heading": "§§563 to 565. Repealed by Acts 1982, No. 669, §3.",
+      "text": "§§563 to 565. Repealed by Acts 1982, No. 669, §3.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45566",
+      "number": "45:566.",
+      "heading": "Bridges, ropes to warn employees of approach to",
+      "text": "Bridges, ropes to warn employees of approach to",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45567",
+      "number": "45:567.",
+      "heading": "Time for compliance with law",
+      "text": "Time for compliance with law",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45568",
+      "number": "45:568.",
+      "heading": "Violation of law; discontinuance of business",
+      "text": "Violation of law; discontinuance of business",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45569",
+      "number": "45:569.",
+      "heading": "Angles in frogs and crossings to be adjusted, filled or blocked; penalty",
+      "text": "Angles in frogs and crossings to be adjusted, filled or blocked; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45611",
+      "number": "45:611.",
+      "heading": "Conditional sales of tank cars lawful",
+      "text": "Conditional sales of tank cars lawful",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45612",
+      "number": "45:612.",
+      "heading": "Retaking of conditionally sold tank cars",
+      "text": "Retaking of conditionally sold tank cars",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45613",
+      "number": "45:613.",
+      "heading": "Sale or lease of railroad to connecting railroad, power to make",
+      "text": "Sale or lease of railroad to connecting railroad, power to make",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45614",
+      "number": "45:614.",
+      "heading": "Sale, pledge or hypothecation of bonds, stock, earnings, etc., power to make",
+      "text": "Sale, pledge or hypothecation of bonds, stock, earnings, etc., power to make",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45615",
+      "number": "45:615.",
+      "heading": "Purchase or lease of railroad; connecting railroad's power",
+      "text": "Purchase or lease of railroad; connecting railroad's power",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45616",
+      "number": "45:616.",
+      "heading": "Stockholders' approval of sale",
+      "text": "Stockholders' approval of sale",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45617",
+      "number": "45:617.",
+      "heading": "Guaranty of bonds or contract of another railroad",
+      "text": "Guaranty of bonds or contract of another railroad",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45618",
+      "number": "45:618.",
+      "heading": "Expropriation incident to purchase, lease, etc., of another railroad",
+      "text": "Expropriation incident to purchase, lease, etc., of another railroad",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45619",
+      "number": "45:619.",
+      "heading": "Binding date of purchase at judicial sale",
+      "text": "Binding date of purchase at judicial sale",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45620",
+      "number": "45:620.",
+      "heading": "Laws and regulations applicable",
+      "text": "Laws and regulations applicable",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45621",
+      "number": "45:621.",
+      "heading": "Street railroads, etc., not affected",
+      "text": "Street railroads, etc., not affected",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45671",
+      "number": "45:671.",
+      "heading": "Acquisition of railroad property by street railway company",
+      "text": "Acquisition of railroad property by street railway company",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45672",
+      "number": "45:672.",
+      "heading": "Acquisition of railroad property; street railway company's authority",
+      "text": "Acquisition of railroad property; street railway company's authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45673",
+      "number": "45:673.",
+      "heading": "Acquisition of railroad property; stockholder's approval",
+      "text": "Acquisition of railroad property; stockholder's approval",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45674",
+      "number": "45:674.",
+      "heading": "Acquisition of railroad property; assumption of bonds",
+      "text": "Acquisition of railroad property; assumption of bonds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45675",
+      "number": "45:675.",
+      "heading": "Streets, pavement and repair of",
+      "text": "Streets, pavement and repair of",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45691",
+      "number": "45:691.",
+      "heading": "Fenders, requirement",
+      "text": "Fenders, requirement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45692",
+      "number": "45:692.",
+      "heading": "Fenders; violation of law",
+      "text": "Fenders; violation of law",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45693",
+      "number": "45:693.",
+      "heading": "Sandboxes; requirement",
+      "text": "Sandboxes; requirement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45694",
+      "number": "45:694.",
+      "heading": "Sandboxes; violation of law",
+      "text": "Sandboxes; violation of law",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45695",
+      "number": "45:695.",
+      "heading": "Seats for motormen and conductors; penalty",
+      "text": "Seats for motormen and conductors; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45696",
+      "number": "45:696.",
+      "heading": "Vestibule; requirement; penalty",
+      "text": "Vestibule; requirement; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45711",
+      "number": "45:711.",
+      "heading": "Motormen and conductors; instruction; qualification in certain cities",
+      "text": "Motormen and conductors; instruction; qualification in certain cities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45712",
+      "number": "45:712.",
+      "heading": "Competent instructors defined",
+      "text": "Competent instructors defined",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45713",
+      "number": "45:713.",
+      "heading": "Certificate of fitness",
+      "text": "Certificate of fitness",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45714",
+      "number": "45:714.",
+      "heading": "Certification by employers",
+      "text": "Certification by employers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45715",
+      "number": "45:715.",
+      "heading": "Violation of law; law inapplicable during strikes",
+      "text": "Violation of law; law inapplicable during strikes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45716",
+      "number": "45:716.",
+      "heading": "Maximum working hours during 24 hour period; exceptions; penalty",
+      "text": "Maximum working hours during 24 hour period; exceptions; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45731",
+      "number": "45:731.",
+      "heading": "§§731 TO 733 Repealed by Acts 1958, No. 262, §1",
+      "text": "§§731 TO 733 Repealed by Acts 1958, No. 262, §1",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45734",
+      "number": "45:734.",
+      "heading": "School children; reduced fare provision in franchise",
+      "text": "School children; reduced fare provision in franchise",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45735",
+      "number": "45:735.",
+      "heading": "School children; amendment of franchise",
+      "text": "School children; amendment of franchise",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45736",
+      "number": "45:736.",
+      "heading": "School children; violation of law",
+      "text": "School children; violation of law",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45781",
+      "number": "45:781.",
+      "heading": "Lines; right to use public property; railroad property; waters; roads and streets; private property; expropriation; excluding lines of competitors; franchising of cable television by parishes",
+      "text": "Lines; right to use public property; railroad property; waters; roads and streets; private property; expropriation; excluding lines of competitors; franchising of cable television by parishes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-457811",
+      "number": "45:781.1.",
+      "heading": "Removal of abandoned lines; liability",
+      "text": "Removal of abandoned lines; liability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45782",
+      "number": "45:782.",
+      "heading": "Duty to transmit messages",
+      "text": "Duty to transmit messages",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45783",
+      "number": "45:783.",
+      "heading": "Unlawful to delay, refuse to receive, transmit or deliver message; penalty",
+      "text": "Unlawful to delay, refuse to receive, transmit or deliver message; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45784",
+      "number": "45:784.",
+      "heading": "Unlawful to reveal or make use of contents of message; penalty",
+      "text": "Unlawful to reveal or make use of contents of message; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45785",
+      "number": "45:785.",
+      "heading": "Liability for error, delay or failure to deliver message; venue",
+      "text": "Liability for error, delay or failure to deliver message; venue",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45786",
+      "number": "45:786.",
+      "heading": "Suit for error, delay or failure to deliver message; prescription; notice of claim",
+      "text": "Suit for error, delay or failure to deliver message; prescription; notice of claim",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45787",
+      "number": "45:787.",
+      "heading": "Stipulations for shorter prescription or notice to be void",
+      "text": "Stipulations for shorter prescription or notice to be void",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45788",
+      "number": "45:788.",
+      "heading": "Telegrams to show time of filing and of receipt; penalty",
+      "text": "Telegrams to show time of filing and of receipt; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45789",
+      "number": "45:789.",
+      "heading": "Immediate dispatch of messages of public officers; penalty",
+      "text": "Immediate dispatch of messages of public officers; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45790",
+      "number": "45:790.",
+      "heading": "Messages preventing apprehension of fugitives or assisting escape; penalty",
+      "text": "Messages preventing apprehension of fugitives or assisting escape; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45791",
+      "number": "45:791.",
+      "heading": "Statement of purpose",
+      "text": "Statement of purpose",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45792",
+      "number": "45:792.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45793",
+      "number": "45:793.",
+      "heading": "Establishment of systems",
+      "text": "Establishment of systems",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45794",
+      "number": "45:794.",
+      "heading": "Services of system",
+      "text": "Services of system",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45795",
+      "number": "45:795.",
+      "heading": "Primary emergency telephone number; 911",
+      "text": "Primary emergency telephone number; 911",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45796",
+      "number": "45:796.",
+      "heading": "Design of systems",
+      "text": "Design of systems",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45797",
+      "number": "45:797.",
+      "heading": "Planning and coordinating systems; department of public safety",
+      "text": "Planning and coordinating systems; department of public safety",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45798",
+      "number": "45:798.",
+      "heading": "Standards established by department of public safety",
+      "text": "Standards established by department of public safety",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45799",
+      "number": "45:799.",
+      "heading": "Submission of plans",
+      "text": "Submission of plans",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45800",
+      "number": "45:800.",
+      "heading": "Enforcement",
+      "text": "Enforcement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45801",
+      "number": "45:801.",
+      "heading": "Cooperative agreements; mandatory",
+      "text": "Cooperative agreements; mandatory",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45802",
+      "number": "45:802.",
+      "heading": "Report to legislature",
+      "text": "Report to legislature",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45803",
+      "number": "45:803.",
+      "heading": "Repealed by Acts 1999, No. 1164, §6.",
+      "text": "Repealed by Acts 1999, No. 1164, §6.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45804",
+      "number": "45:804.",
+      "heading": "Appropriation of funds by legislature; implementation of systems",
+      "text": "Appropriation of funds by legislature; implementation of systems",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45810",
+      "number": "45:810.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45811",
+      "number": "45:811.",
+      "heading": "Prohibited practices",
+      "text": "Prohibited practices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45812",
+      "number": "45:812.",
+      "heading": "Agreement of consent to receive calls",
+      "text": "Agreement of consent to receive calls",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45813",
+      "number": "45:813.",
+      "heading": "Registration with the commission; bond",
+      "text": "Registration with the commission; bond",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45814",
+      "number": "45:814.",
+      "heading": "Use of access lines prohibited",
+      "text": "Use of access lines prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45815",
+      "number": "45:815.",
+      "heading": "Regulation of access lines by the commission",
+      "text": "Regulation of access lines by the commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45816",
+      "number": "45:816.",
+      "heading": "Exceptions to use",
+      "text": "Exceptions to use",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45817",
+      "number": "45:817.",
+      "heading": "Violations; penalties; civil remedies",
+      "text": "Violations; penalties; civil remedies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45821",
+      "number": "45:821.",
+      "heading": "Legislative findings and intent",
+      "text": "Legislative findings and intent",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45822",
+      "number": "45:822.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45823",
+      "number": "45:823.",
+      "heading": "Registration procedures",
+      "text": "Registration procedures",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45824",
+      "number": "45:824.",
+      "heading": "Filing; information required to be filed",
+      "text": "Filing; information required to be filed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45825",
+      "number": "45:825.",
+      "heading": "Reference to compliance with this Chapter",
+      "text": "Reference to compliance with this Chapter",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45826",
+      "number": "45:826.",
+      "heading": "Soliciting prospective purchasers on behalf of unregistered telephonic seller prohibited; violations",
+      "text": "Soliciting prospective purchasers on behalf of unregistered telephonic seller prohibited; violations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45827",
+      "number": "45:827.",
+      "heading": "Penalties",
+      "text": "Penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45828",
+      "number": "45:828.",
+      "heading": "Remedies; nonexclusive",
+      "text": "Remedies; nonexclusive",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45829",
+      "number": "45:829.",
+      "heading": "Bond requirement",
+      "text": "Bond requirement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45830",
+      "number": "45:830.",
+      "heading": "Monies collected; use",
+      "text": "Monies collected; use",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45831",
+      "number": "45:831.",
+      "heading": "Written contract required; cancellation",
+      "text": "Written contract required; cancellation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45832",
+      "number": "45:832.",
+      "heading": "Refund, credit, or replacement",
+      "text": "Refund, credit, or replacement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45833",
+      "number": "45:833.",
+      "heading": "Rights of purchasers",
+      "text": "Rights of purchasers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45835",
+      "number": "45:835.",
+      "heading": "Repealed by Acts 2001, No. 1137, §1.",
+      "text": "Repealed by Acts 2001, No. 1137, §1.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45836",
+      "number": "45:836.",
+      "heading": "Repealed by Acts 2001, No. 1137, §1.",
+      "text": "Repealed by Acts 2001, No. 1137, §1.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45837",
+      "number": "45:837.",
+      "heading": "Repealed by Acts 2001, No. 1137, §1.",
+      "text": "Repealed by Acts 2001, No. 1137, §1.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45838",
+      "number": "45:838.",
+      "heading": "Repealed by Acts 2001, No. 1137, §1.",
+      "text": "Repealed by Acts 2001, No. 1137, §1.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45840",
+      "number": "45:840.",
+      "heading": "Statement of purpose",
+      "text": "Statement of purpose",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45841",
+      "number": "45:841.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45842",
+      "number": "45:842.",
+      "heading": "Provision of emergency alert services",
+      "text": "Provision of emergency alert services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45843",
+      "number": "45:843.",
+      "heading": "Records required",
+      "text": "Records required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45844",
+      "number": "45:844.",
+      "heading": "Confidentiality",
+      "text": "Confidentiality",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-458441",
+      "number": "45:844.1.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-458442",
+      "number": "45:844.2.",
+      "heading": "Identification codes; prohibited acts",
+      "text": "Identification codes; prohibited acts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-458443",
+      "number": "45:844.3.",
+      "heading": "Violations; penalties",
+      "text": "Violations; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-458445",
+      "number": "45:844.5.",
+      "heading": "Required information",
+      "text": "Required information",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-458446",
+      "number": "45:844.6.",
+      "heading": "Renewal clause; continuation of services",
+      "text": "Renewal clause; continuation of services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-458447",
+      "number": "45:844.7.",
+      "heading": "Prohibited contracts void",
+      "text": "Prohibited contracts void",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-458448",
+      "number": "45:844.8.",
+      "heading": "Wireless telephonic solicitation; rules and regulations",
+      "text": "Wireless telephonic solicitation; rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-458449",
+      "number": "45:844.9.",
+      "heading": "Commercial mobile service device location disclosure to law enforcement agencies; emergency situations",
+      "text": "Commercial mobile service device location disclosure to law enforcement agencies; emergency situations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584410",
+      "number": "45:844.10.",
+      "heading": "Immunity for providers of commercial mobile services",
+      "text": "Immunity for providers of commercial mobile services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584411",
+      "number": "45:844.11.",
+      "heading": "Legislative findings",
+      "text": "Legislative findings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584412",
+      "number": "45:844.12.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584413",
+      "number": "45:844.13.",
+      "heading": "Duties of the commission",
+      "text": "Duties of the commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584414",
+      "number": "45:844.14.",
+      "heading": "Listing procedures; prohibited acts; Telephonic Solicitation Relief Dedicated Fund Account",
+      "text": "Listing procedures; prohibited acts; Telephonic Solicitation Relief Dedicated Fund Account",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584415",
+      "number": "45:844.15.",
+      "heading": "Violations; penalties",
+      "text": "Violations; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584416",
+      "number": "45:844.16.",
+      "heading": "Registration fees and \"do not call\" list fees",
+      "text": "Registration fees and \"do not call\" list fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584417",
+      "number": "45:844.17.",
+      "heading": "Safe harbor",
+      "text": "Safe harbor",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584421",
+      "number": "45:844.21.",
+      "heading": "Repealed by Acts 2006, No. 713, §4, eff. July 1, 2006.",
+      "text": "Repealed by Acts 2006, No. 713, §4, eff. July 1, 2006.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584422",
+      "number": "45:844.22.",
+      "heading": "Repealed by Acts 2006, No. 713, §4, eff. July 1, 2006.",
+      "text": "Repealed by Acts 2006, No. 713, §4, eff. July 1, 2006.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584423",
+      "number": "45:844.23.",
+      "heading": "Repealed by Acts 2006, No. 713, §4, eff. July 1, 2006.",
+      "text": "Repealed by Acts 2006, No. 713, §4, eff. July 1, 2006.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584424",
+      "number": "45:844.24.",
+      "heading": "Repealed by Acts 2006, No. 713, §4, eff. July 1, 2006.",
+      "text": "Repealed by Acts 2006, No. 713, §4, eff. July 1, 2006.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584425",
+      "number": "45:844.25.",
+      "heading": "Repealed by Acts 2006, No. 713, §4, eff. July 1, 2006.",
+      "text": "Repealed by Acts 2006, No. 713, §4, eff. July 1, 2006.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584431",
+      "number": "45:844.31.",
+      "heading": "Telemarketing activities; prohibitions; exceptions",
+      "text": "Telemarketing activities; prohibitions; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584432",
+      "number": "45:844.32.",
+      "heading": "Duties of the commission",
+      "text": "Duties of the commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584433",
+      "number": "45:844.33.",
+      "heading": "Violations; penalties",
+      "text": "Violations; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584441",
+      "number": "45:844.41.",
+      "heading": "Short title",
+      "text": "Short title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584442",
+      "number": "45:844.42.",
+      "heading": "Legislative findings and declarations of intent",
+      "text": "Legislative findings and declarations of intent",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584443",
+      "number": "45:844.43.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584444",
+      "number": "45:844.44.",
+      "heading": "Antitrust immunity",
+      "text": "Antitrust immunity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584445",
+      "number": "45:844.45.",
+      "heading": "Scope of Chapter",
+      "text": "Scope of Chapter",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584446",
+      "number": "45:844.46.",
+      "heading": "Severability",
+      "text": "Severability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584447",
+      "number": "45:844.47.",
+      "heading": "Limitations on providing cable television and telecommunications and advanced services",
+      "text": "Limitations on providing cable television and telecommunications and advanced services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584448",
+      "number": "45:844.48.",
+      "heading": "Requirements prior to local governmental entity providing cable television or telecommunications or advanced services",
+      "text": "Requirements prior to local governmental entity providing cable television or telecommunications or advanced services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584449",
+      "number": "45:844.49.",
+      "heading": "Feasibility study; public hearings",
+      "text": "Feasibility study; public hearings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584450",
+      "number": "45:844.50.",
+      "heading": "Referendum",
+      "text": "Referendum",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584451",
+      "number": "45:844.51.",
+      "heading": "Enterprise funds for cable television or telecommunications or advanced services",
+      "text": "Enterprise funds for cable television or telecommunications or advanced services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584452",
+      "number": "45:844.52.",
+      "heading": "Bonding authority",
+      "text": "Bonding authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584453",
+      "number": "45:844.53.",
+      "heading": "General operating limitations",
+      "text": "General operating limitations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584454",
+      "number": "45:844.54.",
+      "heading": "Eminent domain",
+      "text": "Eminent domain",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584455",
+      "number": "45:844.55.",
+      "heading": "Enforcement and appeal",
+      "text": "Enforcement and appeal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584456",
+      "number": "45:844.56.",
+      "heading": "Impact of local government providing covered service, cable television or telecommunications or advanced services",
+      "text": "Impact of local government providing covered service, cable television or telecommunications or advanced services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584474",
+      "number": "45:844.74.",
+      "heading": "Legislative findings",
+      "text": "Legislative findings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584475",
+      "number": "45:844.75.",
+      "heading": "Prohibited hotspot blocking",
+      "text": "Prohibited hotspot blocking",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4584481",
+      "number": "45:844.81.",
+      "heading": "Internet access; public airports",
+      "text": "Internet access; public airports",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45845",
+      "number": "45:845.",
+      "heading": "Meters; furnishing",
+      "text": "Meters; furnishing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45846",
+      "number": "45:846.",
+      "heading": "Charges governed by meters; estimated bills",
+      "text": "Charges governed by meters; estimated bills",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45847",
+      "number": "45:847.",
+      "heading": "Meters; false measurement",
+      "text": "Meters; false measurement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45848",
+      "number": "45:848.",
+      "heading": "Deposits by consumers; interest; return",
+      "text": "Deposits by consumers; interest; return",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45849",
+      "number": "45:849.",
+      "heading": "Meters; inspection",
+      "text": "Meters; inspection",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45850",
+      "number": "45:850.",
+      "heading": "Meters and deposits; law inapplicable to public-owned utilities",
+      "text": "Meters and deposits; law inapplicable to public-owned utilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45851",
+      "number": "45:851.",
+      "heading": "Meters and deposits; penalty",
+      "text": "Meters and deposits; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45852",
+      "number": "45:852.",
+      "heading": "Bonds of employees; utility not to designate surety; penalty",
+      "text": "Bonds of employees; utility not to designate surety; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45853",
+      "number": "45:853.",
+      "heading": "Proper notice and explanation of franchise fees",
+      "text": "Proper notice and explanation of franchise fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45856",
+      "number": "45:856.",
+      "heading": "Special counsel for state in rate and transportation cases",
+      "text": "Special counsel for state in rate and transportation cases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45857",
+      "number": "45:857.",
+      "heading": "Bills of lading not to be issued unless goods or warehouse receipt therefor actually delivered",
+      "text": "Bills of lading not to be issued unless goods or warehouse receipt therefor actually delivered",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45858",
+      "number": "45:858.",
+      "heading": "Transportation of goods, products, and commodities",
+      "text": "Transportation of goods, products, and commodities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45859",
+      "number": "45:859.",
+      "heading": "Public purpose; restoration and rebuilding of certain utilities",
+      "text": "Public purpose; restoration and rebuilding of certain utilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45901",
+      "number": "45:901.",
+      "heading": "§§901 to 955 Repealed by Acts 1978, No. 164, §5, eff. Jan. 1, 1979",
+      "text": "§§901 to 955 Repealed by Acts 1978, No. 164, §5, eff. Jan. 1, 1979",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451091",
+      "number": "45:1091.",
+      "heading": "Disclosure or solicitation of information as to shipments; penalty",
+      "text": "Disclosure or solicitation of information as to shipments; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451092",
+      "number": "45:1092.",
+      "heading": "Disclosure or solicitation as to shipments; exceptions",
+      "text": "Disclosure or solicitation as to shipments; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451093",
+      "number": "45:1093.",
+      "heading": "Joint rates; freight",
+      "text": "Joint rates; freight",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451094",
+      "number": "45:1094.",
+      "heading": "Joint rates; express matter and messages",
+      "text": "Joint rates; express matter and messages",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451095",
+      "number": "45:1095.",
+      "heading": "Joint rates; commission's duty",
+      "text": "Joint rates; commission's duty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451096",
+      "number": "45:1096.",
+      "heading": "Joint rates; division of proceeds",
+      "text": "Joint rates; division of proceeds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451097",
+      "number": "45:1097.",
+      "heading": "Freight loss or damage; time for adjustment; amount of liability",
+      "text": "Freight loss or damage; time for adjustment; amount of liability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4510971",
+      "number": "45:1097.1.",
+      "heading": "Freight loss or damage; time for settlement",
+      "text": "Freight loss or damage; time for settlement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4510972",
+      "number": "45:1097.2.",
+      "heading": "Motor carriers defined; exceptions",
+      "text": "Motor carriers defined; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4510973",
+      "number": "45:1097.3.",
+      "heading": "Freight loss or damages; computing value; settlement",
+      "text": "Freight loss or damages; computing value; settlement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4510974",
+      "number": "45:1097.4.",
+      "heading": "Freight loss or damage; attorneys' fees and court costs",
+      "text": "Freight loss or damage; attorneys' fees and court costs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4510975",
+      "number": "45:1097.5.",
+      "heading": "Freight loss or damage; awards cumulative",
+      "text": "Freight loss or damage; awards cumulative",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451098",
+      "number": "45:1098.",
+      "heading": "Freight loss or damage; damages for failure to adjust and pay",
+      "text": "Freight loss or damage; damages for failure to adjust and pay",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451099",
+      "number": "45:1099.",
+      "heading": "Freight loss or damage; suits; venue",
+      "text": "Freight loss or damage; suits; venue",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451100",
+      "number": "45:1100.",
+      "heading": "Prescription on actions against carriers for freight overcharge and damage to shipments",
+      "text": "Prescription on actions against carriers for freight overcharge and damage to shipments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451101",
+      "number": "45:1101.",
+      "heading": "Unclaimed freight; sale",
+      "text": "Unclaimed freight; sale",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451102",
+      "number": "45:1102.",
+      "heading": "Unclaimed freight; special procedure if perishable",
+      "text": "Unclaimed freight; special procedure if perishable",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451103",
+      "number": "45:1103.",
+      "heading": "Unclaimed freight; proceeds of sale",
+      "text": "Unclaimed freight; proceeds of sale",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451131",
+      "number": "45:1131.",
+      "heading": "Subdivisions and districts authorized to own utilities and issue bonds",
+      "text": "Subdivisions and districts authorized to own utilities and issue bonds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451132",
+      "number": "45:1132.",
+      "heading": "Bonds; by whom authorized",
+      "text": "Bonds; by whom authorized",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451133",
+      "number": "45:1133.",
+      "heading": "Form of bond",
+      "text": "Form of bond",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451134",
+      "number": "45:1134.",
+      "heading": "Denomination, interest and maturity of bond",
+      "text": "Denomination, interest and maturity of bond",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451135",
+      "number": "45:1135.",
+      "heading": "Signature on bond",
+      "text": "Signature on bond",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451136",
+      "number": "45:1136.",
+      "heading": "Sale of bond",
+      "text": "Sale of bond",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451137",
+      "number": "45:1137.",
+      "heading": "Bonds; mortgage and pledge",
+      "text": "Bonds; mortgage and pledge",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451138",
+      "number": "45:1138.",
+      "heading": "Foreclosure",
+      "text": "Foreclosure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451139",
+      "number": "45:1139.",
+      "heading": "Rights of holder of bond",
+      "text": "Rights of holder of bond",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451140",
+      "number": "45:1140.",
+      "heading": "Title of purchaser",
+      "text": "Title of purchaser",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451141",
+      "number": "45:1141.",
+      "heading": "Priority among series",
+      "text": "Priority among series",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451142",
+      "number": "45:1142.",
+      "heading": "Bonds; negotiability",
+      "text": "Bonds; negotiability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451143",
+      "number": "45:1143.",
+      "heading": "Bonds; sinking fund; covenants",
+      "text": "Bonds; sinking fund; covenants",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451144",
+      "number": "45:1144.",
+      "heading": "Bonds; fees and charges, amounts and rates",
+      "text": "Bonds; fees and charges, amounts and rates",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451145",
+      "number": "45:1145.",
+      "heading": "Bonds payable from two or more utilities; power to issue",
+      "text": "Bonds payable from two or more utilities; power to issue",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451146",
+      "number": "45:1146.",
+      "heading": "Bonds; submission to voters",
+      "text": "Bonds; submission to voters",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451147",
+      "number": "45:1147.",
+      "heading": "Bonds; refunding",
+      "text": "Bonds; refunding",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451148",
+      "number": "45:1148.",
+      "heading": "Bonds; notice; contest",
+      "text": "Bonds; notice; contest",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451149",
+      "number": "45:1149.",
+      "heading": "Full authority given to own utilities and issue bonds; further proceedings unnecessary",
+      "text": "Full authority given to own utilities and issue bonds; further proceedings unnecessary",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451161",
+      "number": "45:1161.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4511611",
+      "number": "45:1161.1.",
+      "heading": "Creation; composition; age; residence; domicile; qualifications; election; terms",
+      "text": "Creation; composition; age; residence; domicile; qualifications; election; terms",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4511612",
+      "number": "45:1161.2.",
+      "heading": "Domicile; quorum; officers",
+      "text": "Domicile; quorum; officers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4511613",
+      "number": "45:1161.3.",
+      "heading": "District staffing",
+      "text": "District staffing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4511614",
+      "number": "45:1161.4.",
+      "heading": "Public Service Commission districts",
+      "text": "Public Service Commission districts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4511615",
+      "number": "45:1161.5.",
+      "heading": "Repealed by Acts 2022, 1st Ex. Sess., No. 2, §2, eff. Jan. 1, 2023.",
+      "text": "Repealed by Acts 2022, 1st Ex. Sess., No. 2, §2, eff. Jan. 1, 2023.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451162",
+      "number": "45:1162.",
+      "heading": "Salaries of members",
+      "text": "Salaries of members",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451163",
+      "number": "45:1163.",
+      "heading": "Power to regulate rates and service; exceptions",
+      "text": "Power to regulate rates and service; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4511631",
+      "number": "45:1163.1.",
+      "heading": "Common carrier or public utility rate increases under protective bond or security; definitions, procedure for filing bonds; refunds",
+      "text": "Common carrier or public utility rate increases under protective bond or security; definitions, procedure for filing bonds; refunds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4511632",
+      "number": "45:1163.2.",
+      "heading": "Establishment of rates",
+      "text": "Establishment of rates",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4511633",
+      "number": "45:1163.3.",
+      "heading": "Economics and rate analysis division and hearing examiners division",
+      "text": "Economics and rate analysis division and hearing examiners division",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451164",
+      "number": "45:1164.",
+      "heading": "Extent of power as to service; exception",
+      "text": "Extent of power as to service; exception",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4511641",
+      "number": "45:1164.1.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4511642",
+      "number": "45:1164.2.",
+      "heading": "Petition for election",
+      "text": "Petition for election",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4511643",
+      "number": "45:1164.3.",
+      "heading": "Form of petition for election",
+      "text": "Form of petition for election",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4511644",
+      "number": "45:1164.4.",
+      "heading": "Filing of petition with registrar of voters; publication",
+      "text": "Filing of petition with registrar of voters; publication",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4511645",
+      "number": "45:1164.5.",
+      "heading": "Verification of petition by registrar; filing with governing authority",
+      "text": "Verification of petition by registrar; filing with governing authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4511646",
+      "number": "45:1164.6.",
+      "heading": "Ordering of election after thirty days; removal of names within that time; date of election",
+      "text": "Ordering of election after thirty days; removal of names within that time; date of election",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4511647",
+      "number": "45:1164.7.",
+      "heading": "Ballot; majority determination of issues",
+      "text": "Ballot; majority determination of issues",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4511648",
+      "number": "45:1164.8.",
+      "heading": "Conduct of election; voting machines or ballot boxes",
+      "text": "Conduct of election; voting machines or ballot boxes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4511649",
+      "number": "45:1164.9.",
+      "heading": "Violation of standards for petition or election; nullity of election",
+      "text": "Violation of standards for petition or election; nullity of election",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45116410",
+      "number": "45:1164.10.",
+      "heading": "Recount of ballots or contest of elections",
+      "text": "Recount of ballots or contest of elections",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45116411",
+      "number": "45:1164.11.",
+      "heading": "Parish board of supervisors to supervise elections; fees of board",
+      "text": "Parish board of supervisors to supervise elections; fees of board",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45116412",
+      "number": "45:1164.12.",
+      "heading": "Commissioners and clerks for elections",
+      "text": "Commissioners and clerks for elections",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-45116413",
+      "number": "45:1164.13.",
+      "heading": "Promulgation of elections results",
+      "text": "Promulgation of elections results",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451165",
+      "number": "45:1165.",
+      "heading": "Railroads; powers of commission",
+      "text": "Railroads; powers of commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451166",
+      "number": "45:1166.",
+      "heading": "Telegraphs and telephones; service; power of commission; indecent telephone calls; emergency cutting, rerouting or diverting of telephone lines; solicitation calls, request not to receive; long distance services",
+      "text": "Telegraphs and telephones; service; power of commission; indecent telephone calls; emergency cutting, rerouting or diverting of telephone lines; solicitation calls, request not to receive; long distance services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4511661",
+      "number": "45:1166.1.",
+      "heading": "Transfer of long distance services; suits for damages",
+      "text": "Transfer of long distance services; suits for damages",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4511662",
+      "number": "45:1166.2.",
+      "heading": "Cramming",
+      "text": "Cramming",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4511663",
+      "number": "45:1166.3.",
+      "heading": "Collect calls from penal institutions",
+      "text": "Collect calls from penal institutions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451167",
+      "number": "45:1167.",
+      "heading": "Express; service, powers of commission",
+      "text": "Express; service, powers of commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451168",
+      "number": "45:1168.",
+      "heading": "Security issues and assumptions of liability; commission's authorization necessary",
+      "text": "Security issues and assumptions of liability; commission's authorization necessary",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451169",
+      "number": "45:1169.",
+      "heading": "Security issues; application to commission; preference on docket",
+      "text": "Security issues; application to commission; preference on docket",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451170",
+      "number": "45:1170.",
+      "heading": "Security issues; supplemental orders of commission",
+      "text": "Security issues; supplemental orders of commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451171",
+      "number": "45:1171.",
+      "heading": "Security issues; issue or assumption for necessary purpose",
+      "text": "Security issues; issue or assumption for necessary purpose",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451172",
+      "number": "45:1172.",
+      "heading": "Security issues; commission's order to be followed",
+      "text": "Security issues; commission's order to be followed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451173",
+      "number": "45:1173.",
+      "heading": "Security issues; evidence of compliance",
+      "text": "Security issues; evidence of compliance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451174",
+      "number": "45:1174.",
+      "heading": "Security issues; no guarantee on part of state",
+      "text": "Security issues; no guarantee on part of state",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451175",
+      "number": "45:1175.",
+      "heading": "Security issues; exceptions",
+      "text": "Security issues; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451176",
+      "number": "45:1176.",
+      "heading": "Investigations as to reasonableness of rates; operating expenses",
+      "text": "Investigations as to reasonableness of rates; operating expenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451177",
+      "number": "45:1177.",
+      "heading": "Inspection and supervision fees; Utility and Carrier Inspection and Supervision Dedicated Fund Account",
+      "text": "Inspection and supervision fees; Utility and Carrier Inspection and Supervision Dedicated Fund Account",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4511771",
+      "number": "45:1177.1.",
+      "heading": "Repealed by Acts 2007, No. 234, §2.",
+      "text": "Repealed by Acts 2007, No. 234, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451178",
+      "number": "45:1178.",
+      "heading": "Repealed by Acts 2007, No. 234, §2.",
+      "text": "Repealed by Acts 2007, No. 234, §2.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451179",
+      "number": "45:1179.",
+      "heading": "Inspection and supervision fee; collection; computation",
+      "text": "Inspection and supervision fee; collection; computation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451180",
+      "number": "45:1180.",
+      "heading": "Expenses incurred to assist in investigations to be paid by carrier or utility",
+      "text": "Expenses incurred to assist in investigations to be paid by carrier or utility",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451181",
+      "number": "45:1181.",
+      "heading": "Expenses of investigation by attorneys and consultants employed to assist the commission; items; amount; certification; payment; contest",
+      "text": "Expenses of investigation by attorneys and consultants employed to assist the commission; items; amount; certification; payment; contest",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451182",
+      "number": "45:1182.",
+      "heading": "Expenses of investigation; failure to pay; revocation of certificate of authority to do business",
+      "text": "Expenses of investigation; failure to pay; revocation of certificate of authority to do business",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451183",
+      "number": "45:1183.",
+      "heading": "Expenses of investigation; utilities affected",
+      "text": "Expenses of investigation; utilities affected",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451184",
+      "number": "45:1184.",
+      "heading": "Witnesses before commission; summons",
+      "text": "Witnesses before commission; summons",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451185",
+      "number": "45:1185.",
+      "heading": "Process of commission; form; execution",
+      "text": "Process of commission; form; execution",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451186",
+      "number": "45:1186.",
+      "heading": "Contempt of commission",
+      "text": "Contempt of commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451187",
+      "number": "45:1187.",
+      "heading": "Process of commission; sheriff's refusal to serve or execute",
+      "text": "Process of commission; sheriff's refusal to serve or execute",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451188",
+      "number": "45:1188.",
+      "heading": "Process of commission; sheriff's liability for refusal to serve or execute",
+      "text": "Process of commission; sheriff's liability for refusal to serve or execute",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451189",
+      "number": "45:1189.",
+      "heading": "Process of commission; sheriff's compensation",
+      "text": "Process of commission; sheriff's compensation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451190",
+      "number": "45:1190.",
+      "heading": "Appearance before Interstate Commerce Commission",
+      "text": "Appearance before Interstate Commerce Commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451191",
+      "number": "45:1191.",
+      "heading": "Commission's orders; effective date",
+      "text": "Commission's orders; effective date",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451192",
+      "number": "45:1192.",
+      "heading": "Commission's orders; judicial review; limitation; proceedings",
+      "text": "Commission's orders; judicial review; limitation; proceedings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451193",
+      "number": "45:1193.",
+      "heading": "Contest of acts of commission; filing of transcript",
+      "text": "Contest of acts of commission; filing of transcript",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451194",
+      "number": "45:1194.",
+      "heading": "Contest of acts of commission; evidence not offered before commission; remand to the commission",
+      "text": "Contest of acts of commission; evidence not offered before commission; remand to the commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451195",
+      "number": "45:1195.",
+      "heading": "Contest of acts of commission; effect of rescission or alteration of order",
+      "text": "Contest of acts of commission; effect of rescission or alteration of order",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451196",
+      "number": "45:1196.",
+      "heading": "Violation of commission's order; petition; notice; investigation",
+      "text": "Violation of commission's order; petition; notice; investigation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451197",
+      "number": "45:1197.",
+      "heading": "Violation of commission's order; award of damages",
+      "text": "Violation of commission's order; award of damages",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451198",
+      "number": "45:1198.",
+      "heading": "Violation of commission's order; suits for damages",
+      "text": "Violation of commission's order; suits for damages",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4511981",
+      "number": "45:1198.1.",
+      "heading": "Suits for enforcement of commission orders; venue; judicial recognition of commission orders; attorney fees; costs; interest",
+      "text": "Suits for enforcement of commission orders; venue; judicial recognition of commission orders; attorney fees; costs; interest",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451199",
+      "number": "45:1199.",
+      "heading": "Violation of commission's order; joinder of parties",
+      "text": "Violation of commission's order; joinder of parties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451200",
+      "number": "45:1200.",
+      "heading": "Violation of commission's order; penalty",
+      "text": "Violation of commission's order; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451201",
+      "number": "45:1201.",
+      "heading": "Violation of commission's order; law to be posted",
+      "text": "Violation of commission's order; law to be posted",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451202",
+      "number": "45:1202.",
+      "heading": "Violation of commission's order; exception",
+      "text": "Violation of commission's order; exception",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451203",
+      "number": "45:1203.",
+      "heading": "Sewerage disposal companies; regulation",
+      "text": "Sewerage disposal companies; regulation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451204",
+      "number": "45:1204.",
+      "heading": "East Baton Rouge Parish; water regulation",
+      "text": "East Baton Rouge Parish; water regulation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451205",
+      "number": "45:1205.",
+      "heading": "Livingston Parish; water regulation",
+      "text": "Livingston Parish; water regulation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451206",
+      "number": "45:1206.",
+      "heading": "Water and wastewater companies; receivership; bond; dissolution",
+      "text": "Water and wastewater companies; receivership; bond; dissolution",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451221",
+      "number": "45:1221.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451222",
+      "number": "45:1222.",
+      "heading": "Rules and regulations; deferred billing program; discontinuance of service",
+      "text": "Rules and regulations; deferred billing program; discontinuance of service",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451223",
+      "number": "45:1223.",
+      "heading": "Violations; penalties",
+      "text": "Violations; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451226",
+      "number": "45:1226.",
+      "heading": "Short title; purpose",
+      "text": "Short title; purpose",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451227",
+      "number": "45:1227.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451228",
+      "number": "45:1228.",
+      "heading": "Financing orders",
+      "text": "Financing orders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451229",
+      "number": "45:1229.",
+      "heading": "Storm recovery property",
+      "text": "Storm recovery property",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451230",
+      "number": "45:1230.",
+      "heading": "Sale",
+      "text": "Sale",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451231",
+      "number": "45:1231.",
+      "heading": "Security interests",
+      "text": "Security interests",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451232",
+      "number": "45:1232.",
+      "heading": "Choice of law; conflicts",
+      "text": "Choice of law; conflicts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451233",
+      "number": "45:1233.",
+      "heading": "Storm recovery bonds not public debt",
+      "text": "Storm recovery bonds not public debt",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451234",
+      "number": "45:1234.",
+      "heading": "State pledge",
+      "text": "State pledge",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451235",
+      "number": "45:1235.",
+      "heading": "Not an electric utility",
+      "text": "Not an electric utility",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451236",
+      "number": "45:1236.",
+      "heading": "No impairment of commission jurisdiction",
+      "text": "No impairment of commission jurisdiction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451237",
+      "number": "45:1237.",
+      "heading": "Additional assignee; powers and duties of the corporation; expenditures; perfection of security interest on storm recovery property; limitations on bankruptcy",
+      "text": "Additional assignee; powers and duties of the corporation; expenditures; perfection of security interest on storm recovery property; limitations on bankruptcy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451238",
+      "number": "45:1238.",
+      "heading": "Financing orders including the Louisiana Utilities Restoration Corporation",
+      "text": "Financing orders including the Louisiana Utilities Restoration Corporation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451239",
+      "number": "45:1239.",
+      "heading": "Alternative issuers; additional powers and duties for the corporation; limitations; approval of storm recovery bonds by the State Bond Commission; financing order requirements",
+      "text": "Alternative issuers; additional powers and duties for the corporation; limitations; approval of storm recovery bonds by the State Bond Commission; financing order requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451240",
+      "number": "45:1240.",
+      "heading": "Additional authority",
+      "text": "Additional authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451241",
+      "number": "45:1241.",
+      "heading": "Conditional sale of railroad or street railroad equipment or rolling stock",
+      "text": "Conditional sale of railroad or street railroad equipment or rolling stock",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451242",
+      "number": "45:1242.",
+      "heading": "Conditional sale; validity",
+      "text": "Conditional sale; validity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451243",
+      "number": "45:1243.",
+      "heading": "Conditional sale; retaking of property",
+      "text": "Conditional sale; retaking of property",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451244",
+      "number": "45:1244.",
+      "heading": "Conditional sale; record of payment",
+      "text": "Conditional sale; record of payment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451251",
+      "number": "45:1251.",
+      "heading": "Short title; purpose",
+      "text": "Short title; purpose",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451252",
+      "number": "45:1252.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451253",
+      "number": "45:1253.",
+      "heading": "Financing orders",
+      "text": "Financing orders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451254",
+      "number": "45:1254.",
+      "heading": "Investment recovery property",
+      "text": "Investment recovery property",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451255",
+      "number": "45:1255.",
+      "heading": "Sale",
+      "text": "Sale",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451256",
+      "number": "45:1256.",
+      "heading": "Security interests",
+      "text": "Security interests",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451257",
+      "number": "45:1257.",
+      "heading": "Choice of law; conflicts",
+      "text": "Choice of law; conflicts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451258",
+      "number": "45:1258.",
+      "heading": "Investment recovery bonds",
+      "text": "Investment recovery bonds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451259",
+      "number": "45:1259.",
+      "heading": "State pledge",
+      "text": "State pledge",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451260",
+      "number": "45:1260.",
+      "heading": "Electric utility applicability",
+      "text": "Electric utility applicability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451261",
+      "number": "45:1261.",
+      "heading": "No impairment of commission jurisdiction",
+      "text": "No impairment of commission jurisdiction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451271",
+      "number": "45:1271.",
+      "heading": "Short title; purpose",
+      "text": "Short title; purpose",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451272",
+      "number": "45:1272.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451273",
+      "number": "45:1273.",
+      "heading": "Financing orders",
+      "text": "Financing orders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451274",
+      "number": "45:1274.",
+      "heading": "Energy transition property",
+      "text": "Energy transition property",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451275",
+      "number": "45:1275.",
+      "heading": "Sale",
+      "text": "Sale",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451276",
+      "number": "45:1276.",
+      "heading": "Security interests",
+      "text": "Security interests",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451277",
+      "number": "45:1277.",
+      "heading": "Choice of law; conflicts",
+      "text": "Choice of law; conflicts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451278",
+      "number": "45:1278.",
+      "heading": "Energy transition bonds",
+      "text": "Energy transition bonds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451279",
+      "number": "45:1279.",
+      "heading": "State pledge",
+      "text": "State pledge",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451280",
+      "number": "45:1280.",
+      "heading": "Electric utility applicability",
+      "text": "Electric utility applicability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451281",
+      "number": "45:1281.",
+      "heading": "No impairment of commission jurisdiction",
+      "text": "No impairment of commission jurisdiction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451301",
+      "number": "45:1301.",
+      "heading": "§§1301 to 1305 Repealed by Acts 1972, No. 266, §1",
+      "text": "§§1301 to 1305 Repealed by Acts 1972, No. 266, §1",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451311",
+      "number": "45:1311.",
+      "heading": "Short title; purpose",
+      "text": "Short title; purpose",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451312",
+      "number": "45:1312.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451313",
+      "number": "45:1313.",
+      "heading": "Creation of the Louisiana Utilities Restoration Corporation",
+      "text": "Creation of the Louisiana Utilities Restoration Corporation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451314",
+      "number": "45:1314.",
+      "heading": "Board of directors of the corporation",
+      "text": "Board of directors of the corporation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451315",
+      "number": "45:1315.",
+      "heading": "Law applicable to board",
+      "text": "Law applicable to board",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451316",
+      "number": "45:1316.",
+      "heading": "Powers and duties of the corporation",
+      "text": "Powers and duties of the corporation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451317",
+      "number": "45:1317.",
+      "heading": "Regulation by the Public Service Commission",
+      "text": "Regulation by the Public Service Commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451318",
+      "number": "45:1318.",
+      "heading": "Financing orders",
+      "text": "Financing orders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451319",
+      "number": "45:1319.",
+      "heading": "System restoration property",
+      "text": "System restoration property",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451320",
+      "number": "45:1320.",
+      "heading": "Sale of property",
+      "text": "Sale of property",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451321",
+      "number": "45:1321.",
+      "heading": "Bonds",
+      "text": "Bonds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451322",
+      "number": "45:1322.",
+      "heading": "Corporation funds",
+      "text": "Corporation funds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451323",
+      "number": "45:1323.",
+      "heading": "State pledge; corporation pledge",
+      "text": "State pledge; corporation pledge",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451324",
+      "number": "45:1324.",
+      "heading": "Limitation on bankruptcy",
+      "text": "Limitation on bankruptcy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451325",
+      "number": "45:1325.",
+      "heading": "Corporation status; tax exempt",
+      "text": "Corporation status; tax exempt",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451326",
+      "number": "45:1326.",
+      "heading": "Full authority",
+      "text": "Full authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451327",
+      "number": "45:1327.",
+      "heading": "Status of corporation",
+      "text": "Status of corporation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451328",
+      "number": "45:1328.",
+      "heading": "Commission jurisdiction",
+      "text": "Commission jurisdiction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451331",
+      "number": "45:1331.",
+      "heading": "Legislative findings and purpose",
+      "text": "Legislative findings and purpose",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451332",
+      "number": "45:1332.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451333",
+      "number": "45:1333.",
+      "heading": "Additional powers of the corporation and the commission",
+      "text": "Additional powers of the corporation and the commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451334",
+      "number": "45:1334.",
+      "heading": "Special public trusts authorized; powers and duties for the special public trust; expenditures; limitations of the special public trust; public records law; domicile; subject to legislative audit; liability protection for beneficiaries",
+      "text": "Special public trusts authorized; powers and duties for the special public trust; expenditures; limitations of the special public trust; public records law; domicile; subject to legislative audit; liability protection for beneficiaries",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451335",
+      "number": "45:1335.",
+      "heading": "Mode of creation; acceptance of beneficial interests; amendments",
+      "text": "Mode of creation; acceptance of beneficial interests; amendments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451336",
+      "number": "45:1336.",
+      "heading": "Regulation by the commission",
+      "text": "Regulation by the commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451337",
+      "number": "45:1337.",
+      "heading": "Permitted use of funds",
+      "text": "Permitted use of funds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451338",
+      "number": "45:1338.",
+      "heading": "Trustee requirements; duties and powers; compensation; liability protection",
+      "text": "Trustee requirements; duties and powers; compensation; liability protection",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451339",
+      "number": "45:1339.",
+      "heading": "Corporation additional pledge to financing parties",
+      "text": "Corporation additional pledge to financing parties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451340",
+      "number": "45:1340.",
+      "heading": "Limitation on bankruptcy",
+      "text": "Limitation on bankruptcy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451341",
+      "number": "45:1341.",
+      "heading": "Transfers by beneficiaries",
+      "text": "Transfers by beneficiaries",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451342",
+      "number": "45:1342.",
+      "heading": "Construction and effect",
+      "text": "Construction and effect",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451343",
+      "number": "45:1343.",
+      "heading": "Corporation participation",
+      "text": "Corporation participation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451351",
+      "number": "45:1351.",
+      "heading": "Civil liability of station owner, licensee or operator for defamation",
+      "text": "Civil liability of station owner, licensee or operator for defamation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451352",
+      "number": "45:1352.",
+      "heading": "Defamatory statements by or on behalf of, or in opposition to, candidate for public office",
+      "text": "Defamatory statements by or on behalf of, or in opposition to, candidate for public office",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451353",
+      "number": "45:1353.",
+      "heading": "Damages recoverable for defamatory statements",
+      "text": "Damages recoverable for defamatory statements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451354",
+      "number": "45:1354.",
+      "heading": "Responsibility of persons making defamatory statements",
+      "text": "Responsibility of persons making defamatory statements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451355",
+      "number": "45:1355.",
+      "heading": "Disasters; deaf and hard of hearing persons informed",
+      "text": "Disasters; deaf and hard of hearing persons informed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451361",
+      "number": "45:1361.",
+      "heading": "Short title",
+      "text": "Short title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451362",
+      "number": "45:1362.",
+      "heading": "Legislative findings",
+      "text": "Legislative findings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451363",
+      "number": "45:1363.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451364",
+      "number": "45:1364.",
+      "heading": "Certificate issued by the state; eligibility",
+      "text": "Certificate issued by the state; eligibility",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4513641",
+      "number": "45:1364.1.",
+      "heading": "Filing Methods",
+      "text": "Filing Methods",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451365",
+      "number": "45:1365.",
+      "heading": "State franchise; effect on existing local franchise agreement",
+      "text": "State franchise; effect on existing local franchise agreement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451366",
+      "number": "45:1366.",
+      "heading": "Franchise fee",
+      "text": "Franchise fee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451367",
+      "number": "45:1367.",
+      "heading": "Franchise fee audits and dispute resolution",
+      "text": "Franchise fee audits and dispute resolution",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451368",
+      "number": "45:1368.",
+      "heading": "Prohibition against build-out requirements",
+      "text": "Prohibition against build-out requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451369",
+      "number": "45:1369.",
+      "heading": "Public, educational, and governmental access programming streams or channels",
+      "text": "Public, educational, and governmental access programming streams or channels",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451370",
+      "number": "45:1370.",
+      "heading": "In-kind contributions; PEG access support",
+      "text": "In-kind contributions; PEG access support",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451371",
+      "number": "45:1371.",
+      "heading": "Customer service standards",
+      "text": "Customer service standards",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451372",
+      "number": "45:1372.",
+      "heading": "Emergency alert services",
+      "text": "Emergency alert services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451373",
+      "number": "45:1373.",
+      "heading": "Indemnification",
+      "text": "Indemnification",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451374",
+      "number": "45:1374.",
+      "heading": "Local governmental authority",
+      "text": "Local governmental authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451375",
+      "number": "45:1375.",
+      "heading": "Discrimination prohibited",
+      "text": "Discrimination prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451376",
+      "number": "45:1376.",
+      "heading": "Compliance",
+      "text": "Compliance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451377",
+      "number": "45:1377.",
+      "heading": "Applicability of other laws",
+      "text": "Applicability of other laws",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451378",
+      "number": "45:1378.",
+      "heading": "Conforming amendments",
+      "text": "Conforming amendments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451451",
+      "number": "45:1451.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451452",
+      "number": "45:1452.",
+      "heading": "Conditional privilege from compulsory disclosure of informant or source",
+      "text": "Conditional privilege from compulsory disclosure of informant or source",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451453",
+      "number": "45:1453.",
+      "heading": "Revocation of privilege; procedure",
+      "text": "Revocation of privilege; procedure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451454",
+      "number": "45:1454.",
+      "heading": "Defamation; burden of proof",
+      "text": "Defamation; burden of proof",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451455",
+      "number": "45:1455.",
+      "heading": "Substitution of affidavit for appearance and return; effect",
+      "text": "Substitution of affidavit for appearance and return; effect",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451456",
+      "number": "45:1456.",
+      "heading": "Service of subpoenas; motion to quash or obtain additional time; award of costs",
+      "text": "Service of subpoenas; motion to quash or obtain additional time; award of costs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451457",
+      "number": "45:1457.",
+      "heading": "Payment of cost of compliance; deposit into registry of court",
+      "text": "Payment of cost of compliance; deposit into registry of court",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451458",
+      "number": "45:1458.",
+      "heading": "Application to other proceedings and discovery",
+      "text": "Application to other proceedings and discovery",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451459",
+      "number": "45:1459.",
+      "heading": "Qualified protection for nonconfidential news",
+      "text": "Qualified protection for nonconfidential news",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451500",
+      "number": "45:1500.",
+      "heading": "Regulation of radio common carriers",
+      "text": "Regulation of radio common carriers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451501",
+      "number": "45:1501.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451502",
+      "number": "45:1502.",
+      "heading": "Rates; service; rules and regulations",
+      "text": "Rates; service; rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451503",
+      "number": "45:1503.",
+      "heading": "Certificate of public convenience and necessity; exceptions",
+      "text": "Certificate of public convenience and necessity; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451504",
+      "number": "45:1504.",
+      "heading": "Interconnection with telephone facilities",
+      "text": "Interconnection with telephone facilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451601",
+      "number": "45:1601.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451602",
+      "number": "45:1602.",
+      "heading": "Water cooperative rate change; regulation",
+      "text": "Water cooperative rate change; regulation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451603",
+      "number": "45:1603.",
+      "heading": "Applicability",
+      "text": "Applicability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451604",
+      "number": "45:1604.",
+      "heading": "Requirement to provide service",
+      "text": "Requirement to provide service",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451611",
+      "number": "45:1611.",
+      "heading": "Emergency service plan; cable service providers and video service providers",
+      "text": "Emergency service plan; cable service providers and video service providers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451612",
+      "number": "45:1612.",
+      "heading": "Emergency service plan; cable service providers and video service providers; public service commission",
+      "text": "Emergency service plan; cable service providers and video service providers; public service commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451613",
+      "number": "45:1613.",
+      "heading": "Violations; penalties",
+      "text": "Violations; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451621",
+      "number": "45:1621.",
+      "heading": "Short title",
+      "text": "Short title",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451622",
+      "number": "45:1622.",
+      "heading": "Purpose; legislative intent",
+      "text": "Purpose; legislative intent",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-451623",
+      "number": "45:1623.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

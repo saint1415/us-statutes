@@ -1,0 +1,734 @@
+{
+  "state": "iowa",
+  "path": "title-title-vi-human-services/chapter-chapter-222-persons-with-an-intellectual-disability",
+  "sections": [
+    {
+      "id": "section-2221",
+      "number": "222.1",
+      "heading": "Purpose of chapter — state resource centers — special unit at state mental health institute",
+      "text": "Section 222.2 - Definitions.Section 222.3 - Superintendents.Section 222.4 - Duties of superintendents.Section 222.5 - Preadmission diagnostic evaluation.Section 222.6 - State districts.Section 222.7 - Transfe",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2222",
+      "number": "222.2",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2223",
+      "number": "222.3",
+      "heading": "Superintendents.",
+      "text": "Superintendents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2224",
+      "number": "222.4",
+      "heading": "Duties of superintendents.",
+      "text": "Duties of superintendents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2225",
+      "number": "222.5",
+      "heading": "Preadmission diagnostic evaluation.",
+      "text": "Preadmission diagnostic evaluation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2226",
+      "number": "222.6",
+      "heading": "State districts.",
+      "text": "State districts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2227",
+      "number": "222.7",
+      "heading": "Transfers.",
+      "text": "Transfers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2228",
+      "number": "222.8",
+      "heading": "Communications by patients.",
+      "text": "Communications by patients.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2229",
+      "number": "222.9",
+      "heading": "Unauthorized departures.",
+      "text": "Unauthorized departures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22210",
+      "number": "222.10",
+      "heading": "Duty of peace officer.",
+      "text": "Duty of peace officer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22211",
+      "number": "222.11",
+      "heading": "Expense.",
+      "text": "Expense.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22212",
+      "number": "222.12",
+      "heading": "Deaths investigated.",
+      "text": "Deaths investigated.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22213",
+      "number": "222.13",
+      "heading": "Voluntary admissions.",
+      "text": "Voluntary admissions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22213a",
+      "number": "222.13A",
+      "heading": "Voluntary admissions — minors.",
+      "text": "Voluntary admissions — minors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22214",
+      "number": "222.14",
+      "heading": "Care by region pending admission.",
+      "text": "Care by region pending admission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22215",
+      "number": "222.15",
+      "heading": "Discharge of patients admitted voluntarily.",
+      "text": "Discharge of patients admitted voluntarily.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22216",
+      "number": "222.16",
+      "heading": "Petition for adjudication of intellectual disability.",
+      "text": "Petition for adjudication of intellectual disability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22216a",
+      "number": "222.16A",
+      "heading": "Judicial proceedings.",
+      "text": "Judicial proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22217",
+      "number": "222.17",
+      "heading": "Allegations verified.",
+      "text": "Allegations verified.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22218",
+      "number": "222.18",
+      "heading": "County attorney to appear.",
+      "text": "County attorney to appear.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22219",
+      "number": "222.19",
+      "heading": "Party respondents.",
+      "text": "Party respondents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22220",
+      "number": "222.20",
+      "heading": "Notice served.",
+      "text": "Notice served.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22221",
+      "number": "222.21",
+      "heading": "Order requiring attendance.",
+      "text": "Order requiring attendance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22222",
+      "number": "222.22",
+      "heading": "Time of appearance.",
+      "text": "Time of appearance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22223",
+      "number": "222.23",
+      "heading": "Persons to be present.",
+      "text": "Persons to be present.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22224",
+      "number": "222.24",
+      "heading": "When held.",
+      "text": "When held.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22225",
+      "number": "222.25",
+      "heading": "Custody pending hearing.",
+      "text": "Custody pending hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22226",
+      "number": "222.26",
+      "heading": "Hearing in equity.",
+      "text": "Hearing in equity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22227",
+      "number": "222.27",
+      "heading": "Hearing in public.",
+      "text": "Hearing in public.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22228",
+      "number": "222.28",
+      "heading": "Commission to examine.",
+      "text": "Commission to examine.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22229",
+      "number": "222.29",
+      "heading": "Report.",
+      "text": "Report.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22230",
+      "number": "222.30",
+      "heading": "Ruling on report.",
+      "text": "Ruling on report.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22231",
+      "number": "222.31",
+      "heading": "Commitment — liability for charges.",
+      "text": "Commitment — liability for charges.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22232",
+      "number": "222.32",
+      "heading": "Committed person under jurisdiction of court.",
+      "text": "Committed person under jurisdiction of court.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-222",
+      "number": "222",
+      "heading": "33",
+      "text": "33",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22234",
+      "number": "222.34",
+      "heading": "Guardianship proceedings.",
+      "text": "Guardianship proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22236",
+      "number": "222.36",
+      "heading": "Custody pending admission.",
+      "text": "Custody pending admission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22237",
+      "number": "222.37",
+      "heading": "Order to deliver committed person.",
+      "text": "Order to deliver committed person.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22238",
+      "number": "222.38",
+      "heading": "Delivery of person to institution, resource center, or special unit.",
+      "text": "Delivery of person to institution, resource center, or special unit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22239",
+      "number": "222.39",
+      "heading": "Receipt acknowledged by superintendent.",
+      "text": "Receipt acknowledged by superintendent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22240",
+      "number": "222.40",
+      "heading": "Filing order with clerk.",
+      "text": "Filing order with clerk.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22241",
+      "number": "222.41",
+      "heading": "Exclusive method of discharge.",
+      "text": "Exclusive method of discharge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22242",
+      "number": "222.42",
+      "heading": "Petition for discharge.",
+      "text": "Petition for discharge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22243",
+      "number": "222.43",
+      "heading": "Grounds.",
+      "text": "Grounds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22244",
+      "number": "222.44",
+      "heading": "Notice to superintendent.",
+      "text": "Notice to superintendent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22245",
+      "number": "222.45",
+      "heading": "Power of court.",
+      "text": "Power of court.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22246",
+      "number": "222.46",
+      "heading": "No bar to future petitions.",
+      "text": "No bar to future petitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22247",
+      "number": "222.47",
+      "heading": "Penalty for false petition of commitment.",
+      "text": "Penalty for false petition of commitment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22248",
+      "number": "222.48",
+      "heading": "Fees for witnesses.",
+      "text": "Fees for witnesses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22249",
+      "number": "222.49",
+      "heading": "Costs paid.",
+      "text": "Costs paid.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22250",
+      "number": "222.50",
+      "heading": "County of residence or state to pay.",
+      "text": "County of residence or state to pay.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22251",
+      "number": "222.51",
+      "heading": "Costs collected.",
+      "text": "Costs collected.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22252",
+      "number": "222.52",
+      "heading": "Proceedings against delinquent — hearing on intellectual disability.",
+      "text": "Proceedings against delinquent — hearing on intellectual disability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22253",
+      "number": "222.53",
+      "heading": "Conviction — suspension.",
+      "text": "Conviction — suspension.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22254",
+      "number": "222.54",
+      "heading": "Procedure after hearing.",
+      "text": "Procedure after hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22255",
+      "number": "222.55",
+      "heading": "Procedure regarding a person with mental illness.",
+      "text": "Procedure regarding a person with mental illness.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22256",
+      "number": "222.56",
+      "heading": "Transfer to institution for persons with an intellectual disability.",
+      "text": "Transfer to institution for persons with an intellectual disability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22257",
+      "number": "222.57",
+      "heading": "Court records.",
+      "text": "Court records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22258",
+      "number": "222.58",
+      "heading": "Administrator to keep record.",
+      "text": "Administrator to keep record.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22259",
+      "number": "222.59",
+      "heading": "Alternative to state resource center placement.",
+      "text": "Alternative to state resource center placement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22260",
+      "number": "222.60",
+      "heading": "Costs paid by county or state — diagnosis and evaluation.",
+      "text": "Costs paid by county or state — diagnosis and evaluation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22260a",
+      "number": "222.60A",
+      "heading": "Cost of assessment.",
+      "text": "Cost of assessment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22261",
+      "number": "222.61",
+      "heading": "Residency determined.",
+      "text": "Residency determined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22262",
+      "number": "222.62",
+      "heading": "Residency in another county.",
+      "text": "Residency in another county.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22263",
+      "number": "222.63",
+      "heading": "Finding of residency — objection.",
+      "text": "Finding of residency — objection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22264",
+      "number": "222.64",
+      "heading": "Foreign state or country or unknown residency.",
+      "text": "Foreign state or country or unknown residency.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22265",
+      "number": "222.65",
+      "heading": "Investigation.",
+      "text": "Investigation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22266",
+      "number": "222.66",
+      "heading": "Transfers — no residency in state or residency unknown — expenses.",
+      "text": "Transfers — no residency in state or residency unknown — expenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22267",
+      "number": "222.67",
+      "heading": "Charge on finding of residency.",
+      "text": "Charge on finding of residency.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22268",
+      "number": "222.68",
+      "heading": "Costs paid in first instance.",
+      "text": "Costs paid in first instance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22269",
+      "number": "222.69",
+      "heading": "Payment by state.",
+      "text": "Payment by state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22270",
+      "number": "222.70",
+      "heading": "Residency disputes.",
+      "text": "Residency disputes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22273",
+      "number": "222.73",
+      "heading": "Billing of patient charges — computation of actual costs — cost settlement.",
+      "text": "Billing of patient charges — computation of actual costs — cost settlement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22274",
+      "number": "222.74",
+      "heading": "Duplicate to county.",
+      "text": "Duplicate to county.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22275",
+      "number": "222.75",
+      "heading": "Delinquent payments — penalty.",
+      "text": "Delinquent payments — penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22277",
+      "number": "222.77",
+      "heading": "Patients on leave.",
+      "text": "Patients on leave.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22278",
+      "number": "222.78",
+      "heading": "Parents and others liable for support.",
+      "text": "Parents and others liable for support.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22279",
+      "number": "222.79",
+      "heading": "Certification statement presumed correct.",
+      "text": "Certification statement presumed correct.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22280",
+      "number": "222.80",
+      "heading": "Liability to county or state.",
+      "text": "Liability to county or state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22281",
+      "number": "222.81",
+      "heading": "Claim against estate.",
+      "text": "Claim against estate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22282",
+      "number": "222.82",
+      "heading": "Collection of liabilities and claims.",
+      "text": "Collection of liabilities and claims.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22283",
+      "number": "222.83",
+      "heading": "Nonresident patients.",
+      "text": "Nonresident patients.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22284",
+      "number": "222.84",
+      "heading": "Patients’ personal deposit fund.",
+      "text": "Patients’ personal deposit fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22285",
+      "number": "222.85",
+      "heading": "Deposit of moneys — exception to guardians.",
+      "text": "Deposit of moneys — exception to guardians.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22286",
+      "number": "222.86",
+      "heading": "Payment for care from fund.",
+      "text": "Payment for care from fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22287",
+      "number": "222.87",
+      "heading": "Deposit in bank.",
+      "text": "Deposit in bank.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22288",
+      "number": "222.88",
+      "heading": "Special intellectual disability unit.",
+      "text": "Special intellectual disability unit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22289",
+      "number": "222.89",
+      "heading": "Location — staff and personnel.",
+      "text": "Location — staff and personnel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22290",
+      "number": "222.90",
+      "heading": "Superintendent.",
+      "text": "Superintendent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22291",
+      "number": "222.91",
+      "heading": "Direct referral to special unit.",
+      "text": "Direct referral to special unit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22292",
+      "number": "222.92",
+      "heading": "Net general fund appropriation — state resource centers.",
+      "text": "Net general fund appropriation — state resource centers.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

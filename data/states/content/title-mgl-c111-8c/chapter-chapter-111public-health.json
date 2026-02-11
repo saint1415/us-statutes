@@ -1,0 +1,3846 @@
+{
+  "state": "massachusetts",
+  "path": "title-mgl-c111-8c/chapter-chapter-111public-health",
+  "sections": [
+    {
+      "id": "section-number",
+      "number": "Number",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-tion",
+      "number": "tion",
+      "heading": "1Definitions",
+      "text": "1Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2duties",
+      "number": "2Duties",
+      "heading": "of commissioner of public health",
+      "text": "of commissioner of public health",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2aco-operation",
+      "number": "2ACo-operation",
+      "heading": "with Massachusetts rehabilitation commission",
+      "text": "with Massachusetts rehabilitation commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2bair",
+      "number": "2BAir",
+      "heading": "pollution emergencies",
+      "text": "pollution emergencies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2cpollution",
+      "number": "2CPollution",
+      "heading": "violations; orders of department of environmental protection",
+      "text": "violations; orders of department of environmental protection",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2dmassachusetts",
+      "number": "2DMassachusetts",
+      "heading": "State Health HIV and Hepatitis fund; definitions",
+      "text": "State Health HIV and Hepatitis fund; definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2emassachusetts",
+      "number": "2EMassachusetts",
+      "heading": "State Public Health and Hepatitis Fund; expenditures",
+      "text": "State Public Health and Hepatitis Fund; expenditures",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2fmassachusetts",
+      "number": "2FMassachusetts",
+      "heading": "AIDS advisory board; membership",
+      "text": "AIDS advisory board; membership",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2gprevention",
+      "number": "2GPrevention",
+      "heading": "and Wellness Trust Fund",
+      "text": "and Wellness Trust Fund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2hprevention",
+      "number": "2HPrevention",
+      "heading": "and Wellness Advisory Board",
+      "text": "and Wellness Advisory Board",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2isubstance",
+      "number": "2ISubstance",
+      "heading": "Abuse Services Fund",
+      "text": "Abuse Services Fund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2jpublic",
+      "number": "2JPublic",
+      "heading": "Health Grant Trust Fund",
+      "text": "Health Grant Trust Fund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3public",
+      "number": "3Public",
+      "heading": "health council;  hearings, intervention",
+      "text": "health council; hearings, intervention",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3aboard",
+      "number": "3ABoard",
+      "heading": "of trustees of Massachusetts hospital school; appointment",
+      "text": "of trustees of Massachusetts hospital school; appointment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4health",
+      "number": "4Health",
+      "heading": "districts; district health officers; enforcement of laws in districts",
+      "text": "districts; district health officers; enforcement of laws in districts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4a",
+      "number": "4A",
+      "heading": "to 4DRepealed, 1971, 1076, Sec. 3",
+      "text": "to 4DRepealed, 1971, 1076, Sec. 3",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4eprogram",
+      "number": "4EProgram",
+      "heading": "to combat intellectual disabilities in children",
+      "text": "to combat intellectual disabilities in children",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4fadvisory",
+      "number": "4FAdvisory",
+      "heading": "council on radiation protection",
+      "text": "council on radiation protection",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4hchronic",
+      "number": "4HChronic",
+      "heading": "renal diseases; care and treatment; agreements",
+      "text": "renal diseases; care and treatment; agreements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4ierythroblastosis",
+      "number": "4IErythroblastosis",
+      "heading": "fetalis; prevention; rules and regulations",
+      "text": "fetalis; prevention; rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4ladvisory",
+      "number": "4LAdvisory",
+      "heading": "board for diethylstilbestrol program",
+      "text": "board for diethylstilbestrol program",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4mhepatitis",
+      "number": "4MHepatitis",
+      "heading": "B and hepatitis C; needs assessment; prevention, education, outreach and surveillance programs; annual report",
+      "text": "B and hepatitis C; needs assessment; prevention, education, outreach and surveillance programs; annual report",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4m",
+      "number": "4M",
+      "heading": "1/2Hepatitis C screening test or Hepatitis C diagnostic test for persons born between 1945 and 1965",
+      "text": "1/2Hepatitis C screening test or Hepatitis C diagnostic test for persons born between 1945 and 1965",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4nprescription",
+      "number": "4NPrescription",
+      "heading": "drugs outreach and education program for physicians, pharmacists and other health care professionals",
+      "text": "drugs outreach and education program for physicians, pharmacists and other health care professionals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4oappointment",
+      "number": "4OAppointment",
+      "heading": "of dental director;  office of oral health;  responsibilities",
+      "text": "of dental director; office of oral health; responsibilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5powers",
+      "number": "5Powers",
+      "heading": "and duties of department",
+      "text": "and duties of department",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5apreparation",
+      "number": "5APreparation",
+      "heading": "and distribution of antitoxins, serums, vaccines and products applicable to prevention and cure of diseases",
+      "text": "and distribution of antitoxins, serums, vaccines and products applicable to prevention and cure of diseases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5a",
+      "number": "5A",
+      "heading": "1/2Emergency Stockpile Trust Fund",
+      "text": "1/2Emergency Stockpile Trust Fund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5dplastic",
+      "number": "5DPlastic",
+      "heading": "bags and film; rules and regulations",
+      "text": "bags and film; rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5eapplication",
+      "number": "5EApplication",
+      "heading": "of chemicals to control aquatic nuisances; licenses; rules and regulations; violations; penalties; applicability of section",
+      "text": "of chemicals to control aquatic nuisances; licenses; rules and regulations; violations; penalties; applicability of section",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5faquatic",
+      "number": "5FAquatic",
+      "heading": "nuisances; control; cost sharing programs",
+      "text": "nuisances; control; cost sharing programs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5gwater",
+      "number": "5GWater",
+      "heading": "supply; treatment facilities",
+      "text": "supply; treatment facilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5ilaser",
+      "number": "5ILaser",
+      "heading": "equipment; rules and regulations; penalties for violation",
+      "text": "equipment; rules and regulations; penalties for violation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5jradiation",
+      "number": "5JRadiation",
+      "heading": "treatment; clinical precautions",
+      "text": "treatment; clinical precautions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5knuclear",
+      "number": "5KNuclear",
+      "heading": "reactors; monitoring and surveillance; charges and assessments",
+      "text": "reactors; monitoring and surveillance; charges and assessments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5lradiologic",
+      "number": "5LRadiologic",
+      "heading": "technologists; advisory commission; licenses",
+      "text": "technologists; advisory commission; licenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5mdefinitions",
+      "number": "5MDefinitions",
+      "heading": "applicable to Secs. 5M to 5P",
+      "text": "applicable to Secs. 5M to 5P",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5nstate",
+      "number": "5NState",
+      "heading": "radiation control agency; radioactive hazards of sources emitting ionizing and nonionizing radiation",
+      "text": "radiation control agency; radioactive hazards of sources emitting ionizing and nonionizing radiation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5onotices",
+      "number": "5ONotices",
+      "heading": "of violation and orders; hearing; civil penalties",
+      "text": "of violation and orders; hearing; civil penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5qmammography",
+      "number": "5QMammography",
+      "heading": "facilities; rules and regulations; licensing; inspections",
+      "text": "facilities; rules and regulations; licensing; inspections",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5spublic",
+      "number": "5SPublic",
+      "heading": "bathing waters; minimum sanitation standards; testing, monitoring and analysis; regulations",
+      "text": "bathing waters; minimum sanitation standards; testing, monitoring and analysis; regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6power",
+      "number": "6Power",
+      "heading": "to define diseases deemed dangerous to public health; control and prevention",
+      "text": "to define diseases deemed dangerous to public health; control and prevention",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6bhemophilia",
+      "number": "6BHemophilia",
+      "heading": "advisory committee",
+      "text": "advisory committee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6chemophilia",
+      "number": "6CHemophilia",
+      "heading": "program; powers and duties of department",
+      "text": "program; powers and duties of department",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6dadvisory",
+      "number": "6DAdvisory",
+      "heading": "committee for genetically handicapped persons; investigation and study; rules and regulations",
+      "text": "committee for genetically handicapped persons; investigation and study; rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6ecollection",
+      "number": "6ECollection",
+      "heading": "and report of data on law enforcement-related injuries and deaths",
+      "text": "and report of data on law enforcement-related injuries and deaths",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7investigation",
+      "number": "7Investigation",
+      "heading": "of contagious or infectious diseases; notice",
+      "text": "of contagious or infectious diseases; notice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8use",
+      "number": "8Use",
+      "heading": "of common drinking cup or towel; rules and regulations",
+      "text": "of common drinking cup or towel; rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8apoisonous",
+      "number": "8APoisonous",
+      "heading": "or corrosive substances; disposal or closures of containers",
+      "text": "or corrosive substances; disposal or closures of containers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8cfluoridation",
+      "number": "8CFluoridation",
+      "heading": "of public water supplies by local boards; advice of commissioner; election; discontinuance",
+      "text": "of public water supplies by local boards; advice of commissioner; election; discontinuance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11",
+      "number": "11",
+      "heading": "to 13Repealed, 2012, 139, Sec. 107",
+      "text": "to 13Repealed, 2012, 139, Sec. 107",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14arheumatic",
+      "number": "14ARheumatic",
+      "heading": "fever; treatment of patients",
+      "text": "fever; treatment of patients",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15services",
+      "number": "15Services",
+      "heading": "for division of animal health",
+      "text": "for division of animal health",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-16unsanitary",
+      "number": "16Unsanitary",
+      "heading": "condition of barns, stables or enclosures in which cattle are kept; report",
+      "text": "condition of barns, stables or enclosures in which cattle are kept; report",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-17disposal",
+      "number": "17Disposal",
+      "heading": "of sewage; consultation, advice or experiments; hearing; improvements; definition",
+      "text": "of sewage; consultation, advice or experiments; hearing; improvements; definition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-18powers",
+      "number": "18Powers",
+      "heading": "and duties of district health officer",
+      "text": "and duties of district health officer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19annual",
+      "number": "19Annual",
+      "heading": "report of district health officer",
+      "text": "report of district health officer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-20inspection",
+      "number": "20Inspection",
+      "heading": "of correctional institutions and lockups; findings and recommendations; report",
+      "text": "of correctional institutions and lockups; findings and recommendations; report",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-21rules",
+      "number": "21Rules",
+      "heading": "for living conditions of detainees; enforcement",
+      "text": "for living conditions of detainees; enforcement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22approval",
+      "number": "22Approval",
+      "heading": "of plans for police station houses, houses of detention or lockups; enforcement",
+      "text": "of plans for police station houses, houses of detention or lockups; enforcement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-23annual",
+      "number": "23Annual",
+      "heading": "report of commissioner of environmental protection; recommendations",
+      "text": "report of commissioner of environmental protection; recommendations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24publication",
+      "number": "24Publication",
+      "heading": "of parts of annual report; manual of laws",
+      "text": "of parts of annual report; manual of laws",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24areduction",
+      "number": "24AReduction",
+      "heading": "of morbidity and mortality; establishment of program; information and reports",
+      "text": "of morbidity and mortality; establishment of program; information and reports",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24bbirth",
+      "number": "24BBirth",
+      "heading": "information; statistical purposes",
+      "text": "information; statistical purposes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24ecomprehensive",
+      "number": "24EComprehensive",
+      "heading": "family planning services; program establishment",
+      "text": "family planning services; program establishment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24hmanaged",
+      "number": "24HManaged",
+      "heading": "care program within community health centers",
+      "text": "care program within community health centers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24iuniversal",
+      "number": "24IUniversal",
+      "heading": "immunization program",
+      "text": "immunization program",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24jmedical",
+      "number": "24JMedical",
+      "heading": "respite services program",
+      "text": "respite services program",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24kpediatric",
+      "number": "24KPediatric",
+      "heading": "palliative care program; eligibility; services",
+      "text": "palliative care program; eligibility; services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24lshaken",
+      "number": "24LShaken",
+      "heading": "baby syndrome prevention initiative",
+      "text": "baby syndrome prevention initiative",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24mcomputerized",
+      "number": "24MComputerized",
+      "heading": "immunization registry",
+      "text": "immunization registry",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24nchildhood",
+      "number": "24NChildhood",
+      "heading": "vaccine program; Vaccine Purchase Trust Fund;  vaccine program advisory council;  surcharge",
+      "text": "vaccine program; Vaccine Purchase Trust Fund; vaccine program advisory council; surcharge",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24omaternal",
+      "number": "24OMaternal",
+      "heading": "mortality and morbidity review committee;  duties;  confidentiality of information, documents and records;  committee membership",
+      "text": "mortality and morbidity review committee; duties; confidentiality of information, documents and records; committee membership",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24pin-depth",
+      "number": "24PIn-depth",
+      "heading": "fetal and infant mortality review of each individual fetal or infant death",
+      "text": "fetal and infant mortality review of each individual fetal or infant death",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25publication",
+      "number": "25Publication",
+      "heading": "of certificate of examination or results of analyses",
+      "text": "of certificate of examination or results of analyses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25ainventory",
+      "number": "25AInventory",
+      "heading": "of health care resources and related information;  status as public record;  reporting regulations;  inter-agency cooperation;  contracts authorized",
+      "text": "of health care resources and related information; status as public record; reporting regulations; inter-agency cooperation; contracts authorized",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25bdefinitions",
+      "number": "25BDefinitions",
+      "heading": "applicable to Secs. 25B to 25G",
+      "text": "applicable to Secs. 25B to 25G",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25b",
+      "number": "25B",
+      "heading": "1/2Expenditure minimums; annual adjustments",
+      "text": "1/2Expenditure minimums; annual adjustments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25cdetermination",
+      "number": "25CDetermination",
+      "heading": "of need for construction of health care facility or change in service of facility",
+      "text": "of need for construction of health care facility or change in service of facility",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25c",
+      "number": "25C",
+      "heading": "1/2Exemption from determination of need of projects related to inpatient services",
+      "text": "1/2Exemption from determination of need of projects related to inpatient services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25dfinancing",
+      "number": "25DFinancing",
+      "heading": "for construction of health care facility or change in services of facility; notice of intent; necessity of application for determination of need; acceptance of gifts; governmental bodies as applicant; report",
+      "text": "for construction of health care facility or change in services of facility; notice of intent; necessity of application for determination of need; acceptance of gifts; governmental bodies as applicant; report",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25eadministrative",
+      "number": "25EAdministrative",
+      "heading": "appeal to health facilities appeals board; hearing; decision; judicial review",
+      "text": "appeal to health facilities appeals board; hearing; decision; judicial review",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25frules",
+      "number": "25FRules",
+      "heading": "and regulations;  effective date",
+      "text": "and regulations; effective date",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25genforcement",
+      "number": "25GEnforcement",
+      "heading": "of Secs. 25C to 25G",
+      "text": "of Secs. 25C to 25G",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25hseverability",
+      "number": "25HSeverability",
+      "heading": "of Secs. 25C to 25G; voidability of provisions in violation of federal law",
+      "text": "of Secs. 25C to 25G; voidability of provisions in violation of federal law",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25iguidelines",
+      "number": "25IGuidelines",
+      "heading": "for the reduction of medication waste in licensed facilities",
+      "text": "for the reduction of medication waste in licensed facilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25jcompetent",
+      "number": "25JCompetent",
+      "heading": "interpreter services in acute-care hospitals",
+      "text": "interpreter services in acute-care hospitals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25j",
+      "number": "25J",
+      "heading": "1/2Intervention prior to discharge from acute-care hospital or satellite emergency facility to reduce risk of subsequent harm and fatality following opioid-related overdose",
+      "text": "1/2Intervention prior to discharge from acute-care hospital or satellite emergency facility to reduce risk of subsequent harm and fatality following opioid-related overdose",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25keducational",
+      "number": "25KEducational",
+      "heading": "insert accompanying sale of hypodermic syringes and needles",
+      "text": "insert accompanying sale of hypodermic syringes and needles",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25lhealth",
+      "number": "25LHealth",
+      "heading": "care workforce center",
+      "text": "care workforce center",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25mhealthcare",
+      "number": "25MHealthcare",
+      "heading": "workforce advisory council",
+      "text": "workforce advisory council",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25nhealth",
+      "number": "25NHealth",
+      "heading": "care workforce loan repayment program",
+      "text": "care workforce loan repayment program",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25n",
+      "number": "25N",
+      "heading": "1/2Primary care residency grant program",
+      "text": "1/2Primary care residency grant program",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25oprograms",
+      "number": "25OPrograms",
+      "heading": "to protect safety of victims of violence; guidelines; dissemination to and training of health care providers",
+      "text": "to protect safety of victims of violence; guidelines; dissemination to and training of health care providers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26boards",
+      "number": "26Boards",
+      "heading": "of health in cities; membership; appointment; removal; compensation",
+      "text": "of health in cities; membership; appointment; removal; compensation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26ahealth",
+      "number": "26AHealth",
+      "heading": "departments in cities; commissioners",
+      "text": "departments in cities; commissioners",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26bcommissioner",
+      "number": "26BCommissioner",
+      "heading": "of health in cities; appointment; removal; qualifications",
+      "text": "of health in cities; appointment; removal; qualifications",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26cadvisory",
+      "number": "26CAdvisory",
+      "heading": "council of health in cities; members; qualifications; appointment; terms; removal; compensation; meetings; function",
+      "text": "council of health in cities; members; qualifications; appointment; terms; removal; compensation; meetings; function",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26dabolition",
+      "number": "26DAbolition",
+      "heading": "of boards of health in cities and towns upon qualification of commissioner",
+      "text": "of boards of health in cities and towns upon qualification of commissioner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26erules",
+      "number": "26ERules",
+      "heading": "and regulations for departments of health; assistants and clerks",
+      "text": "and regulations for departments of health; assistants and clerks",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26flist",
+      "number": "26FList",
+      "heading": "of hazardous chemicals in water supply; effects",
+      "text": "of hazardous chemicals in water supply; effects",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26gseptic",
+      "number": "26GSeptic",
+      "heading": "system installers; inspections",
+      "text": "system installers; inspections",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27organization",
+      "number": "27Organization",
+      "heading": "of boards; appointment of physician and clerk; compensation",
+      "text": "of boards; appointment of physician and clerk; compensation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27aappointment",
+      "number": "27AAppointment",
+      "heading": "of health officer by two or more towns; duties; compensation; joint committee",
+      "text": "of health officer by two or more towns; duties; compensation; joint committee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27bregional",
+      "number": "27BRegional",
+      "heading": "health districts; regional board of health; powers and duties; administration; organization; management; accounts; rules and regulations",
+      "text": "health districts; regional board of health; powers and duties; administration; organization; management; accounts; rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27creimbursement",
+      "number": "27CReimbursement",
+      "heading": "of regional health districts; qualification; formula for allocation of state funds for operating expenses",
+      "text": "of regional health districts; qualification; formula for allocation of state funds for operating expenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27dpublic",
+      "number": "27DPublic",
+      "heading": "health excellence program;  definitions;  purpose;  grant program;  duties",
+      "text": "health excellence program; definitions; purpose; grant program; duties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27eregistration",
+      "number": "27ERegistration",
+      "heading": "of sanitarians",
+      "text": "of sanitarians",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27fcertification",
+      "number": "27FCertification",
+      "heading": "of health officers",
+      "text": "of health officers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28annual",
+      "number": "28Annual",
+      "heading": "reports of boards of health",
+      "text": "reports of boards of health",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-29weekly",
+      "number": "29Weekly",
+      "heading": "reports of deaths from diseases dangerous to public health",
+      "text": "reports of deaths from diseases dangerous to public health",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31health",
+      "number": "31Health",
+      "heading": "regulations; summary publication; hearings; impact on farming or agriculture; filing sanitary codes and related rules, etc.",
+      "text": "regulations; summary publication; hearings; impact on farming or agriculture; filing sanitary codes and related rules, etc.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31apermit",
+      "number": "31APermit",
+      "heading": "for removal or transportation of garbage; application; exemptions",
+      "text": "for removal or transportation of garbage; application; exemptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31brules",
+      "number": "31BRules",
+      "heading": "and regulations for removal of garbage; penalty",
+      "text": "and regulations for removal of garbage; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31catmospheric",
+      "number": "31CAtmospheric",
+      "heading": "pollution; regulation and control; publication; hearings; penalties; enforcement; jurisdiction; injunction",
+      "text": "pollution; regulation and control; publication; hearings; penalties; enforcement; jurisdiction; injunction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31eindividual",
+      "number": "31EIndividual",
+      "heading": "sewage disposal systems; action on applications",
+      "text": "sewage disposal systems; action on applications",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32retention",
+      "number": "32Retention",
+      "heading": "of cases by board of health",
+      "text": "of cases by board of health",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33construction",
+      "number": "33Construction",
+      "heading": "and maintenance of sanitary stations",
+      "text": "and maintenance of sanitary stations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-34",
+      "number": "34",
+      "heading": "to 43Repealed, 1937, 362, Sec. 6",
+      "text": "to 43Repealed, 1937, 362, Sec. 6",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46",
+      "number": "46",
+      "heading": "to 49Repealed, 1937, 362, Sec. 6",
+      "text": "to 49Repealed, 1937, 362, Sec. 6",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-50establishment",
+      "number": "50Establishment",
+      "heading": "and maintenance of dental, medical and health clinics; appropriations",
+      "text": "and maintenance of dental, medical and health clinics; appropriations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51",
+      "number": "51",
+      "heading": "1/2Substance use disorder evaluation and treatment for acute-care hospital or satellite emergency facility patient experiencing opioid-related overdose",
+      "text": "1/2Substance use disorder evaluation and treatment for acute-care hospital or satellite emergency facility patient experiencing opioid-related overdose",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51aout-of-hospital",
+      "number": "51AOut-of-hospital",
+      "heading": "dialysis units; licensing",
+      "text": "dialysis units; licensing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51bpregnancy",
+      "number": "51BPregnancy",
+      "heading": "clinics",
+      "text": "clinics",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51capplications",
+      "number": "51CApplications",
+      "heading": "for staff membership or clinical privileges; discrimination",
+      "text": "for staff membership or clinical privileges; discrimination",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51ddiscrimination",
+      "number": "51DDiscrimination",
+      "heading": "by acute hospitals against medicare beneficiaries; discharge planning",
+      "text": "by acute hospitals against medicare beneficiaries; discharge planning",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51eapplications",
+      "number": "51EApplications",
+      "heading": "by clinical specialists in psychiatric and mental health nursing for staff membership or clinical privileges; discrimination",
+      "text": "by clinical specialists in psychiatric and mental health nursing for staff membership or clinical privileges; discrimination",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51fapplications",
+      "number": "51FApplications",
+      "heading": "by licensed independent clinical social workers for staff membership or clinical privileges; discrimination",
+      "text": "by licensed independent clinical social workers for staff membership or clinical privileges; discrimination",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51gacute-care",
+      "number": "51GAcute-care",
+      "heading": "hospitals;  original licensure process;  determination of suitability and responsibility;  factors;  notice of closure or discontinuance of essential health care service",
+      "text": "hospitals; original licensure process; determination of suitability and responsibility; factors; notice of closure or discontinuance of essential health care service",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51hreporting",
+      "number": "51HReporting",
+      "heading": "about healthcare-associated infections and serious reportable events, serious adverse drug events, and operational impairment events;  charges or reimbursement for resulting services prohibited",
+      "text": "about healthcare-associated infections and serious reportable events, serious adverse drug events, and operational impairment events; charges or reimbursement for resulting services prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51ichecklists",
+      "number": "51IChecklists",
+      "heading": "of care",
+      "text": "of care",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51jlimited",
+      "number": "51JLimited",
+      "heading": "services clinics",
+      "text": "services clinics",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51khome",
+      "number": "51KHome",
+      "heading": "health agency licensure",
+      "text": "health agency licensure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51lreview",
+      "number": "51LReview",
+      "heading": "of stroke patient pre-hospital care protocols and point-of-entry plans; creation of stroke advisory taskforce",
+      "text": "of stroke patient pre-hospital care protocols and point-of-entry plans; creation of stroke advisory taskforce",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51mpromulgation",
+      "number": "51MPromulgation",
+      "heading": "of regulations relative to the operation and maintenance of birth centers licensed as clinics pursuant to section 51",
+      "text": "of regulations relative to the operation and maintenance of birth centers licensed as clinics pursuant to section 51",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51nlicensing",
+      "number": "51NLicensing",
+      "heading": "of office-based surgical centers",
+      "text": "of office-based surgical centers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-51olicensing",
+      "number": "51OLicensing",
+      "heading": "of urgent care centers",
+      "text": "of urgent care centers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-52definitions",
+      "number": "52Definitions",
+      "heading": "applicable to Secs. 51 to 56",
+      "text": "applicable to Secs. 51 to 56",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53classification",
+      "number": "53Classification",
+      "heading": "of hospitals;  rules and regulations;  dialysis units;  inspections",
+      "text": "of hospitals; rules and regulations; dialysis units; inspections",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53ahospitals",
+      "number": "53AHospitals",
+      "heading": "and in-patient clinics to offer and perform ''Pap tests''",
+      "text": "and in-patient clinics to offer and perform ''Pap tests''",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53bphysician",
+      "number": "53BPhysician",
+      "heading": "staff privileges; report of denial, restriction, revocation or failure to renew; liability of informant; annual disciplinary summary; penalty",
+      "text": "staff privileges; report of denial, restriction, revocation or failure to renew; liability of informant; annual disciplinary summary; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53cnon-reusable",
+      "number": "53CNon-reusable",
+      "heading": "syringes; regulation advisory committee",
+      "text": "syringes; regulation advisory committee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53ddevises",
+      "number": "53DDevises",
+      "heading": "minimizing risk of injury to health care workers from hypodermic syringes or needles; regulations",
+      "text": "minimizing risk of injury to health care workers from hypodermic syringes or needles; regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53epatient",
+      "number": "53EPatient",
+      "heading": "and family advisory councils; establishment",
+      "text": "and family advisory councils; establishment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53frequests",
+      "number": "53FRequests",
+      "heading": "for additional assistance for deteriorating patients",
+      "text": "for additional assistance for deteriorating patients",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53gentity",
+      "number": "53GEntity",
+      "heading": "certified as ambulatory surgical center for participation in Medicaid program deemed a clinic for purposes of licensure under Sec. 51.",
+      "text": "certified as ambulatory surgical center for participation in Medicaid program deemed a clinic for purposes of licensure under Sec. 51.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53hcontracts",
+      "number": "53HContracts",
+      "heading": "with physicians affecting ability to testify in administrative or judicial hearings",
+      "text": "with physicians affecting ability to testify in administrative or judicial hearings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-54audit",
+      "number": "54Audit",
+      "heading": "of medical records",
+      "text": "of medical records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-55advisory",
+      "number": "55Advisory",
+      "heading": "council on the licensing of hospitals, hospital surveys and construction planning",
+      "text": "council on the licensing of hospitals, hospital surveys and construction planning",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57establishment",
+      "number": "57Establishment",
+      "heading": "and maintenance of tuberculosis dispensaries; rules and regulations; inspection",
+      "text": "and maintenance of tuberculosis dispensaries; rules and regulations; inspection",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57aestablishment",
+      "number": "57AEstablishment",
+      "heading": "and maintenance of cancer clinics",
+      "text": "and maintenance of cancer clinics",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57bestablishment",
+      "number": "57BEstablishment",
+      "heading": "and maintenance of muscular dystrophy clinics",
+      "text": "and maintenance of muscular dystrophy clinics",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57cestablishment",
+      "number": "57CEstablishment",
+      "heading": "and maintenance of clinics for the aging",
+      "text": "and maintenance of clinics for the aging",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-57dhospice",
+      "number": "57DHospice",
+      "heading": "programs; licensure; limitations",
+      "text": "programs; licensure; limitations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-58",
+      "number": "58",
+      "heading": "to 62Repealed, 1972, 785, Sec. 4",
+      "text": "to 62Repealed, 1972, 785, Sec. 4",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62aestablishment",
+      "number": "62AEstablishment",
+      "heading": "of children's health camps in cities and towns",
+      "text": "of children's health camps in cities and towns",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62bcommission",
+      "number": "62BCommission",
+      "heading": "on children's health camps; membership; appointment",
+      "text": "on children's health camps; membership; appointment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62cpowers",
+      "number": "62CPowers",
+      "heading": "and duties of commission",
+      "text": "and duties of commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62dinvestment",
+      "number": "62DInvestment",
+      "heading": "by city or town treasurer of money and securities received from commission; bond",
+      "text": "by city or town treasurer of money and securities received from commission; bond",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62fformation",
+      "number": "62FFormation",
+      "heading": "of union children's health camp district by two or more cities or towns; management; commission; membership",
+      "text": "of union children's health camp district by two or more cities or towns; management; commission; membership",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62glocation",
+      "number": "62GLocation",
+      "heading": "and construction plans for health camp; approval; inspection",
+      "text": "and construction plans for health camp; approval; inspection",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62hcontracts",
+      "number": "62HContracts",
+      "heading": "for care and treatment of children as compliance with Secs. 62A to 62G",
+      "text": "for care and treatment of children as compliance with Secs. 62A to 62G",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62ihospital",
+      "number": "62IHospital",
+      "heading": "school and hospital for state minor wards; general supervision",
+      "text": "school and hospital for state minor wards; general supervision",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62jpurpose",
+      "number": "62JPurpose",
+      "heading": "of school; children from other states; inpatient or outpatient services",
+      "text": "of school; children from other states; inpatient or outpatient services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62ladministration",
+      "number": "62LAdministration",
+      "heading": "of school; appointment of personnel; expenses",
+      "text": "of school; appointment of personnel; expenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62ninspection",
+      "number": "62NInspection",
+      "heading": "of schools; report; audit",
+      "text": "of schools; report; audit",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62oaccounts",
+      "number": "62OAccounts",
+      "heading": "and books of treasurer; inspection by trustees",
+      "text": "and books of treasurer; inspection by trustees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62pconstruction",
+      "number": "62PConstruction",
+      "heading": "and maintenance of hospital for state minor wards",
+      "text": "and maintenance of hospital for state minor wards",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62qpowers",
+      "number": "62QPowers",
+      "heading": "and duties of trustees; management; admissions; approval",
+      "text": "and duties of trustees; management; admissions; approval",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62ruse",
+      "number": "62RUse",
+      "heading": "of land, buildings and farm products by hospital school and hospital for state minor wards",
+      "text": "of land, buildings and farm products by hospital school and hospital for state minor wards",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62sassignment",
+      "number": "62SAssignment",
+      "heading": "of state minor wards to hospital; approval",
+      "text": "of state minor wards to hospital; approval",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63supervision",
+      "number": "63Supervision",
+      "heading": "and control by commissioner",
+      "text": "and control by commissioner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63aadmissions",
+      "number": "63AAdmissions",
+      "heading": "to hospital",
+      "text": "to hospital",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63bmedicare",
+      "number": "63BMedicare",
+      "heading": "program billings; commissioner's report",
+      "text": "program billings; commissioner's report",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-64annual",
+      "number": "64Annual",
+      "heading": "inventory; report; audit",
+      "text": "inventory; report; audit",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-64acushing",
+      "number": "64ACushing",
+      "heading": "hospital; general supervision by department",
+      "text": "hospital; general supervision by department",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-64bchronic",
+      "number": "64BChronic",
+      "heading": "care hospital;  services provided;  research on aging",
+      "text": "care hospital; services provided; research on aging",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-64cboard",
+      "number": "64CBoard",
+      "heading": "of trustees",
+      "text": "of trustees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-64eadministration",
+      "number": "64EAdministration",
+      "heading": "of hospital; general trust fund",
+      "text": "of hospital; general trust fund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-64fprojected",
+      "number": "64FProjected",
+      "heading": "revenue and disbursement schedule of general trust fund",
+      "text": "revenue and disbursement schedule of general trust fund",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-64gestablishment",
+      "number": "64GEstablishment",
+      "heading": "of other trust funds; assent to federal laws; contracts and agreements",
+      "text": "of other trust funds; assent to federal laws; contracts and agreements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-64hrules",
+      "number": "64HRules",
+      "heading": "and regulations",
+      "text": "and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-64istaff",
+      "number": "64IStaff",
+      "heading": "members employees of commonwealth",
+      "text": "members employees of commonwealth",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-64jdelegation",
+      "number": "64JDelegation",
+      "heading": "of authority by trustees",
+      "text": "of authority by trustees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-64kdeposit",
+      "number": "64KDeposit",
+      "heading": "of patient or resident funds; disposition of unclaimed deposits or personal property; registration and regulation of fiduciaries",
+      "text": "of patient or resident funds; disposition of unclaimed deposits or personal property; registration and regulation of fiduciaries",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-64mcare",
+      "number": "64MCare",
+      "heading": "center",
+      "text": "center",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-65aadmission",
+      "number": "65AAdmission",
+      "heading": "to Lakeville hospital",
+      "text": "to Lakeville hospital",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-67gifts",
+      "number": "67Gifts",
+      "heading": "or bequests",
+      "text": "or bequests",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-67anotice",
+      "number": "67ANotice",
+      "heading": "of birth of infant weighing 2500 grams or less or with high risk problem; annual reporting on status of premature and high risk infants",
+      "text": "of birth of infant weighing 2500 grams or less or with high risk problem; annual reporting on status of premature and high risk infants",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-67cprograms",
+      "number": "67CPrograms",
+      "heading": "and payment of expenses for care of premature and other high risk infants; procedures for hospital discharge and follow up care; reporting on causes and incidence of re-hospitalizations",
+      "text": "and payment of expenses for care of premature and other high risk infants; procedures for hospital discharge and follow up care; reporting on causes and incidence of re-hospitalizations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-67echildren",
+      "number": "67EChildren",
+      "heading": "born with congenital anomaly, birth defect, birth injury or an intellectual disability; reports",
+      "text": "born with congenital anomaly, birth defect, birth injury or an intellectual disability; reports",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-67fnewborn",
+      "number": "67FNewborn",
+      "heading": "hearing screening tests",
+      "text": "hearing screening tests",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-67gaudiometric",
+      "number": "67GAudiometric",
+      "heading": "testing of children; costs",
+      "text": "testing of children; costs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-67hliterature",
+      "number": "67HLiterature",
+      "heading": "on hearing impairments",
+      "text": "on hearing impairments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69a",
+      "number": "69A",
+      "heading": "to 69DRepealed, 1957, 459, Sec. 1",
+      "text": "to 69DRepealed, 1957, 459, Sec. 1",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69einpatient",
+      "number": "69EInpatient",
+      "heading": "and outpatient services; diagnostic evaluation and treatment center; admissions policy",
+      "text": "and outpatient services; diagnostic evaluation and treatment center; admissions policy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69fnotice",
+      "number": "69FNotice",
+      "heading": "of admission of needy person",
+      "text": "of admission of needy person",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69geffect",
+      "number": "69GEffect",
+      "heading": "of notice of admission of needy person",
+      "text": "of notice of admission of needy person",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69hcharges",
+      "number": "69HCharges",
+      "heading": "for support; rate",
+      "text": "for support; rate",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69iliability",
+      "number": "69ILiability",
+      "heading": "for charges for support; assessment; proceedings; written statements",
+      "text": "for charges for support; assessment; proceedings; written statements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69joperation",
+      "number": "69JOperation",
+      "heading": "of concessions",
+      "text": "of concessions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-69kpatients",
+      "number": "69KPatients",
+      "heading": "eligible for federal veterans' benefits",
+      "text": "eligible for federal veterans' benefits",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70records",
+      "number": "70Records",
+      "heading": "of hospitals or clinics; custody; inspection; copies; fees",
+      "text": "of hospitals or clinics; custody; inspection; copies; fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70ahospital",
+      "number": "70AHospital",
+      "heading": "lien; creation; priority; application",
+      "text": "lien; creation; priority; application",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70bnotice",
+      "number": "70BNotice",
+      "heading": "of lien",
+      "text": "of lien",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70csettlement",
+      "number": "70CSettlement",
+      "heading": "disregarding hospital lien; effect; limitation of action",
+      "text": "disregarding hospital lien; effect; limitation of action",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70ditemized",
+      "number": "70DItemized",
+      "heading": "statement of charges; effect of failure to furnish",
+      "text": "statement of charges; effect of failure to furnish",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70fhiv",
+      "number": "70FHIV",
+      "heading": "test; informed consent; disclosure of results or identity of subject of test",
+      "text": "test; informed consent; disclosure of results or identity of subject of test",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70ggenetic",
+      "number": "70GGenetic",
+      "heading": "information and reports protected as private information; prior written consent for genetic testing",
+      "text": "information and reports protected as private information; prior written consent for genetic testing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-70hdown",
+      "number": "70HDown",
+      "heading": "Syndrome; information provided to parents upon positive prenatal test result or postnatal diagnosis",
+      "text": "Syndrome; information provided to parents upon positive prenatal test result or postnatal diagnosis",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-71licensing",
+      "number": "71Licensing",
+      "heading": "of convalescent and nursing homes, infirmaries, etc.",
+      "text": "of convalescent and nursing homes, infirmaries, etc.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-71a",
+      "number": "71A",
+      "heading": "1/2Deposit of inpatient or resident funds",
+      "text": "1/2Deposit of inpatient or resident funds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-71cminimum",
+      "number": "71CMinimum",
+      "heading": "safety and quality of services standards for dementia special care units; compliance by providers of specialized services or programming licensed under Sec",
+      "text": "71; training",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72classification",
+      "number": "72Classification",
+      "heading": "of convalescent and nursing homes, infirmaries, etc.;  rules and regulations;  inspections;  records of violations;  jurisdiction",
+      "text": "of convalescent and nursing homes, infirmaries, etc.; rules and regulations; inspections; records of violations; jurisdiction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72cconvalescent",
+      "number": "72CConvalescent",
+      "heading": "or nursing homes; lighting and ventilation",
+      "text": "or nursing homes; lighting and ventilation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72dnursing",
+      "number": "72DNursing",
+      "heading": "homes, etc.; telephone access",
+      "text": "homes, etc.; telephone access",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72econvalescent",
+      "number": "72EConvalescent",
+      "heading": "and nursing homes;  notice of violations;  plan of correction;  penalties;  enforcement",
+      "text": "and nursing homes; notice of violations; plan of correction; penalties; enforcement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72fdefinitions",
+      "number": "72FDefinitions",
+      "heading": "applicable to Secs. 72F to 72L",
+      "text": "applicable to Secs. 72F to 72L",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72greports",
+      "number": "72GReports",
+      "heading": "of abuse of patients",
+      "text": "of abuse of patients",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72hduties",
+      "number": "72HDuties",
+      "heading": "of department",
+      "text": "of department",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72ifiling",
+      "number": "72IFiling",
+      "heading": "of reports; confidentiality",
+      "text": "of reports; confidentiality",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72labuse",
+      "number": "72LAbuse",
+      "heading": "by licensed or registered professional; any necessary disciplinary action including suspension or revocation of license",
+      "text": "by licensed or registered professional; any necessary disciplinary action including suspension or revocation of license",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72l",
+      "number": "72L",
+      "heading": "1/2Immunity from liability as result of compliance with Secs. 72F to 72L",
+      "text": "1/2Immunity from liability as result of compliance with Secs. 72F to 72L",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72mappointment",
+      "number": "72MAppointment",
+      "heading": "of receiver; emergency; definition",
+      "text": "of receiver; emergency; definition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72naction",
+      "number": "72NAction",
+      "heading": "to appoint receiver;  hearing;  list of persons;  purpose of receivership;  stay of actions",
+      "text": "to appoint receiver; hearing; list of persons; purpose of receivership; stay of actions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72oauthority",
+      "number": "72OAuthority",
+      "heading": "of receiver; duties; closure of facility; repairs; financial assistance",
+      "text": "of receiver; duties; closure of facility; repairs; financial assistance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72qcompensation",
+      "number": "72QCompensation",
+      "heading": "of receiver; bond; lien; recoupment of commonwealth expenditures",
+      "text": "of receiver; bond; lien; recoupment of commonwealth expenditures",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72rtermination",
+      "number": "72RTermination",
+      "heading": "of receivership",
+      "text": "of receivership",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72sactions",
+      "number": "72SActions",
+      "heading": "against receiver; liability",
+      "text": "against receiver; liability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72teffect",
+      "number": "72TEffect",
+      "heading": "of appointment; violation of regulations",
+      "text": "of appointment; violation of regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72urules",
+      "number": "72URules",
+      "heading": "and regulations",
+      "text": "and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72vnursing",
+      "number": "72VNursing",
+      "heading": "homes, etc.; storage space for residents",
+      "text": "homes, etc.; storage space for residents",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72xnursing",
+      "number": "72XNursing",
+      "heading": "homes; no smoking areas; use of tobacco products prohibited",
+      "text": "homes; no smoking areas; use of tobacco products prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72ynursing",
+      "number": "72YNursing",
+      "heading": "pool registrations",
+      "text": "pool registrations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72zlicensed",
+      "number": "72ZLicensed",
+      "heading": "skilled nursing facilities; intermediate care facilities; family councils",
+      "text": "skilled nursing facilities; intermediate care facilities; family councils",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72aainformational",
+      "number": "72AAInformational",
+      "heading": "document containing laws and regulations; distribution by long-term care facilities",
+      "text": "document containing laws and regulations; distribution by long-term care facilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72bbadministering",
+      "number": "72BBAdministering",
+      "heading": "of psychotropic medication by nursing home, rest home or other long-term care facility; informed consent",
+      "text": "of psychotropic medication by nursing home, rest home or other long-term care facility; informed consent",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72ccoutbreak",
+      "number": "72CCOutbreak",
+      "heading": "response plans for long-term care facilities",
+      "text": "response plans for long-term care facilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72ddtraining",
+      "number": "72DDTraining",
+      "heading": "and education program for staff of long-term care facilities",
+      "text": "and education program for staff of long-term care facilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72eeregulations",
+      "number": "72EERegulations",
+      "heading": "to promote communication, religious and recreational activities for residents of long-term care facilities;  access to funds",
+      "text": "to promote communication, religious and recreational activities for residents of long-term care facilities; access to funds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72ffcost",
+      "number": "72FFCost",
+      "heading": "trends and financial performance among skilled nursing facilities;  annual examination and report",
+      "text": "trends and financial performance among skilled nursing facilities; annual examination and report",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72ggprohibition",
+      "number": "72GGProhibition",
+      "heading": "on discrimination based on sexual orientation, gender identity, gender expression, intersex status or HIV status in long-term care facilities;  notice requirements;  resident records;  privacy in direct care and physical examinations;  access to transgender medical care;  LBGTQI-related programming;",
+      "text": "on discrimination based on sexual orientation, gender identity, gender expression, intersex status or HIV status in long-term care facilities; notice requirements; resident records; privacy in direct care and physical examinations; access to transgender medical care; LBGTQI-related programming; violations; staff training",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-73afacilities",
+      "number": "73AFacilities",
+      "heading": "operated by and for persons who rely exclusively upon treatment by spiritual means through prayer for healing",
+      "text": "operated by and for persons who rely exclusively upon treatment by spiritual means through prayer for healing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-73bfacilities",
+      "number": "73BFacilities",
+      "heading": "operated by Roman Catholic Church",
+      "text": "operated by Roman Catholic Church",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-74appropriation",
+      "number": "74Appropriation",
+      "heading": "of money for maintenance of free bed in hospital",
+      "text": "of money for maintenance of free bed in hospital",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-75unlawful",
+      "number": "75Unlawful",
+      "heading": "use of buildings for hospitals",
+      "text": "use of buildings for hospitals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-78utilization",
+      "number": "78Utilization",
+      "heading": "of county institutions; contracts; notice of discontinuance; payments; regulations",
+      "text": "of county institutions; contracts; notice of discontinuance; payments; regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-78ahospital",
+      "number": "78AHospital",
+      "heading": "care of persons suffering from chronic diseases; admission; cost",
+      "text": "care of persons suffering from chronic diseases; admission; cost",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-80payments",
+      "number": "80Payments",
+      "heading": "for care by cities, towns or able patients; definitions; classifications; appeals",
+      "text": "for care by cities, towns or able patients; definitions; classifications; appeals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-81programs",
+      "number": "81Programs",
+      "heading": "of control and eradication of tuberculosis; responsibility",
+      "text": "of control and eradication of tuberculosis; responsibility",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-81ause",
+      "number": "81AUse",
+      "heading": "of intradermal tuberculin tests to show freedom from tuberculosis",
+      "text": "of intradermal tuberculin tests to show freedom from tuberculosis",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-82operation",
+      "number": "82Operation",
+      "heading": "of hospitals by county commissioners or trustees",
+      "text": "of hospitals by county commissioners or trustees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-83county",
+      "number": "83County",
+      "heading": "or municipal tuberculosis institutions; conveyance to commonwealth",
+      "text": "or municipal tuberculosis institutions; conveyance to commonwealth",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-83aindemnity",
+      "number": "83AIndemnity",
+      "heading": "insurance for officers and employees of hospital",
+      "text": "insurance for officers and employees of hospital",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-83bauthority",
+      "number": "83BAuthority",
+      "heading": "to raise and expend money for tuberculosis hospital; borrowing; notes; apportionment of costs",
+      "text": "to raise and expend money for tuberculosis hospital; borrowing; notes; apportionment of costs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-85maintenance",
+      "number": "85Maintenance",
+      "heading": "of county tuberculosis hospitals; apportionment of costs and expenses",
+      "text": "of county tuberculosis hospitals; apportionment of costs and expenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-86acquisition",
+      "number": "86Acquisition",
+      "heading": "of land",
+      "text": "of land",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-87county",
+      "number": "87County",
+      "heading": "commissioners as trustees of institutions",
+      "text": "commissioners as trustees of institutions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-88conversion",
+      "number": "88Conversion",
+      "heading": "of hospitals into chronic disease hospitals or homes for the aged",
+      "text": "of hospitals into chronic disease hospitals or homes for the aged",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-88b",
+      "number": "88B",
+      "heading": "to 90Repealed, 1961, 608, Sec. 1",
+      "text": "to 90Repealed, 1961, 608, Sec. 1",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-91cdiseases",
+      "number": "91CDiseases",
+      "heading": "of chest; use of facilities for treatment; rules and regulations",
+      "text": "of chest; use of facilities for treatment; rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-92construction",
+      "number": "92Construction",
+      "heading": "and maintenance of isolation hospitals; approval",
+      "text": "and maintenance of isolation hospitals; approval",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-93regulation",
+      "number": "93Regulation",
+      "heading": "of persons approaching isolation hospital",
+      "text": "of persons approaching isolation hospital",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-94receiving",
+      "number": "94Receiving",
+      "heading": "persons from adjoining towns",
+      "text": "persons from adjoining towns",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-94acertification",
+      "number": "94ACertification",
+      "heading": "of non-hospitalized persons afflicted with active tuberculosis; examination; transportation; release",
+      "text": "of non-hospitalized persons afflicted with active tuberculosis; examination; transportation; release",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-94bdetention",
+      "number": "94BDetention",
+      "heading": "of patient at sanatorium; petition; transfer to tuberculosis treatment center; release",
+      "text": "of patient at sanatorium; petition; transfer to tuberculosis treatment center; release",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-94ccourt",
+      "number": "94CCourt",
+      "heading": "commitment to tuberculosis treatment center; procedure; notice; hearing",
+      "text": "commitment to tuberculosis treatment center; procedure; notice; hearing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-94dtuberculosis",
+      "number": "94DTuberculosis",
+      "heading": "treatment center; establishment; supervision",
+      "text": "treatment center; establishment; supervision",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-94efinancial",
+      "number": "94EFinancial",
+      "heading": "responsibility for treatment of patients; residence",
+      "text": "responsibility for treatment of patients; residence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-94fdischarge",
+      "number": "94FDischarge",
+      "heading": "from treatment center; declassification; transfer",
+      "text": "from treatment center; declassification; transfer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-94gpetition",
+      "number": "94GPetition",
+      "heading": "for release; order of release",
+      "text": "for release; order of release",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-94hregulations",
+      "number": "94HRegulations",
+      "heading": "concerning content of certification; minimum standards",
+      "text": "concerning content of certification; minimum standards",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-95powers",
+      "number": "95Powers",
+      "heading": "and duties of boards in cases of infectious diseases",
+      "text": "and duties of boards in cases of infectious diseases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-96warrants",
+      "number": "96Warrants",
+      "heading": "to remove persons infected with dangerous disease",
+      "text": "to remove persons infected with dangerous disease",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-96atransportation",
+      "number": "96ATransportation",
+      "heading": "of person infected with dangerous disease to another town",
+      "text": "of person infected with dangerous disease to another town",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-97removal",
+      "number": "97Removal",
+      "heading": "of patient from home where patient cannot be isolated",
+      "text": "of patient from home where patient cannot be isolated",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-98permits",
+      "number": "98Permits",
+      "heading": "for removal of infected articles or sick persons",
+      "text": "for removal of infected articles or sick persons",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-99warrant",
+      "number": "99Warrant",
+      "heading": "to secure infected articles; application",
+      "text": "to secure infected articles; application",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100warrant",
+      "number": "100Warrant",
+      "heading": "to take houses for safe keeping of infected articles",
+      "text": "to take houses for safe keeping of infected articles",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-101execution",
+      "number": "101Execution",
+      "heading": "of warrant; breaking open houses",
+      "text": "of warrant; breaking open houses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-102payment",
+      "number": "102Payment",
+      "heading": "of expenses in purifying infected articles",
+      "text": "of expenses in purifying infected articles",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-103compensation",
+      "number": "103Compensation",
+      "heading": "for houses and stores impressed",
+      "text": "for houses and stores impressed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-104prevention",
+      "number": "104Prevention",
+      "heading": "of spread of infection; public notice; removal",
+      "text": "of spread of infection; public notice; removal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-105violation",
+      "number": "105Violation",
+      "heading": "of regulations",
+      "text": "of regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-106travelers",
+      "number": "106Travelers",
+      "heading": "from infected places outside commonwealth; license",
+      "text": "from infected places outside commonwealth; license",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-107transportation",
+      "number": "107Transportation",
+      "heading": "of infected dead bodies; rules and regulations",
+      "text": "of infected dead bodies; rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-108removal",
+      "number": "108Removal",
+      "heading": "of sick prisoners",
+      "text": "of sick prisoners",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-109notice",
+      "number": "109Notice",
+      "heading": "of householder that person in family or house is infected with dangerous disease",
+      "text": "of householder that person in family or house is infected with dangerous disease",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-109atreatment",
+      "number": "109ATreatment",
+      "heading": "of infants' eyes at time of birth",
+      "text": "of infants' eyes at time of birth",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110report",
+      "number": "110Report",
+      "heading": "of diseases of the eyes of infants",
+      "text": "of diseases of the eyes of infants",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110atests",
+      "number": "110ATests",
+      "heading": "of newborn children for treatable disorders or diseases",
+      "text": "of newborn children for treatable disorders or diseases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110breyes",
+      "number": "110BReyes",
+      "heading": "syndrome treatment or examination; reports",
+      "text": "syndrome treatment or examination; reports",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110ccongenital",
+      "number": "110CCongenital",
+      "heading": "heart defects screenings for newborns through pulse oximetry testing or other testing; regulations; development of protocols",
+      "text": "heart defects screenings for newborns through pulse oximetry testing or other testing; regulations; development of protocols",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110ddata",
+      "number": "110DData",
+      "heading": "collected and provided to the department of children and families on all births of infants affected by prenatal substance exposure;  annual report",
+      "text": "collected and provided to the department of children and families on all births of infants affected by prenatal substance exposure; annual report",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110epromulgation",
+      "number": "110EPromulgation",
+      "heading": "of regulations on the requirements of health care providers involved in the delivery or care of infants identified as being affected by prenatal substance exposure or fetal alcohol spectrum disorder",
+      "text": "of regulations on the requirements of health care providers involved in the delivery or care of infants identified as being affected by prenatal substance exposure or fetal alcohol spectrum disorder",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-111notice",
+      "number": "111Notice",
+      "heading": "to board of health that persons infected with dangerous diseases; application of section",
+      "text": "to board of health that persons infected with dangerous diseases; application of section",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-111acerebral",
+      "number": "111ACerebral",
+      "heading": "palsy; reports",
+      "text": "palsy; reports",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-111bmalignant",
+      "number": "111BMalignant",
+      "heading": "disease and benign brain-related tumor registry; reports",
+      "text": "disease and benign brain-related tumor registry; reports",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-111cunprotected",
+      "number": "111CUnprotected",
+      "heading": "exposure capable of transmitting infectious disease; standardized trip form",
+      "text": "exposure capable of transmitting infectious disease; standardized trip form",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-112notice",
+      "number": "112Notice",
+      "heading": "by local board to department",
+      "text": "by local board to department",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-113records",
+      "number": "113Records",
+      "heading": "of reports of dangerous diseases; notice",
+      "text": "of reports of dangerous diseases; notice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-114forfeiture",
+      "number": "114Forfeiture",
+      "heading": "of claim",
+      "text": "of claim",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-115recovery",
+      "number": "115Recovery",
+      "heading": "of expenses",
+      "text": "of expenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116payment",
+      "number": "116Payment",
+      "heading": "of reasonable expenses; chronically nonresident person defined",
+      "text": "of reasonable expenses; chronically nonresident person defined",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116ahospitalization",
+      "number": "116AHospitalization",
+      "heading": "of persons suffering from chronic rheumatism; rules and regulations",
+      "text": "of persons suffering from chronic rheumatism; rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-117establishment",
+      "number": "117Establishment",
+      "heading": "and maintenance of clinics for prevention of HIV or treatment of venereal diseases; examinations; minors",
+      "text": "and maintenance of clinics for prevention of HIV or treatment of venereal diseases; examinations; minors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-118discrimination",
+      "number": "118Discrimination",
+      "heading": "against treatment of venereal diseases",
+      "text": "against treatment of venereal diseases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-119records",
+      "number": "119Records",
+      "heading": "pertaining to venereal diseases",
+      "text": "pertaining to venereal diseases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-121treatment",
+      "number": "121Treatment",
+      "heading": "of venereal diseases or pulmonary tuberculosis in public charitable or penal institutions; expenses",
+      "text": "of venereal diseases or pulmonary tuberculosis in public charitable or penal institutions; expenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-121aserological",
+      "number": "121ASerological",
+      "heading": "test for syphilis of pregnant women",
+      "text": "test for syphilis of pregnant women",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-121bprescription",
+      "number": "121BPrescription",
+      "heading": "and distribution of drugs to treat Chlamydia in unexamined sexual partners of patients",
+      "text": "and distribution of drugs to treat Chlamydia in unexamined sexual partners of patients",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-122regulations",
+      "number": "122Regulations",
+      "heading": "relative to nuisances; examinations",
+      "text": "relative to nuisances; examinations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-122aregulation",
+      "number": "122ARegulation",
+      "heading": "of domestic water supply; powers of board of health; penalties",
+      "text": "of domestic water supply; powers of board of health; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-123abatement",
+      "number": "123Abatement",
+      "heading": "of nuisance by owner; penalty",
+      "text": "of nuisance by owner; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-124service",
+      "number": "124Service",
+      "heading": "of order for abatement",
+      "text": "of order for abatement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-125removal",
+      "number": "125Removal",
+      "heading": "of nuisance by board",
+      "text": "of nuisance by board",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-125areview",
+      "number": "125AReview",
+      "heading": "of order adjudging the operation of a farm to be a nuisance",
+      "text": "of order adjudging the operation of a farm to be a nuisance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-126location",
+      "number": "126Location",
+      "heading": "of privy vaults",
+      "text": "of privy vaults",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-127regulations",
+      "number": "127Regulations",
+      "heading": "relative to house drainage",
+      "text": "relative to house drainage",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-127astate",
+      "number": "127AState",
+      "heading": "sanitary code; adoption; enforcement; jurisdiction; speedy trial",
+      "text": "sanitary code; adoption; enforcement; jurisdiction; speedy trial",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-127a",
+      "number": "127A",
+      "heading": "1/2Requirement of personal flotation devices for municipal and recreational programs and camps for minor children; determination of swimming ability",
+      "text": "1/2Requirement of personal flotation devices for municipal and recreational programs and camps for minor children; determination of swimming ability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-127bdwellings",
+      "number": "127BDwellings",
+      "heading": "unfit for human habitation; order to vacate or to abate nuisance; removal of occupants; demolition expense, lien; inspection reports; code violations; notices; enforcement proceedings, jurisdiction; appeal",
+      "text": "unfit for human habitation; order to vacate or to abate nuisance; removal of occupants; demolition expense, lien; inspection reports; code violations; notices; enforcement proceedings, jurisdiction; appeal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-127b",
+      "number": "127B",
+      "heading": "1/2Petition for agreement to remove underground fuel storage tank, media contaminated by home heating oil or lead paint, or to provide proper service by a septic system; costs; authority to evict",
+      "text": "1/2Petition for agreement to remove underground fuel storage tank, media contaminated by home heating oil or lead paint, or to provide proper service by a septic system; costs; authority to evict",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-127cpetition",
+      "number": "127CPetition",
+      "heading": "for violation of sanitary code; requisites",
+      "text": "for violation of sanitary code; requisites",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-127dentry",
+      "number": "127DEntry",
+      "heading": "fee; notice upon offending owner",
+      "text": "fee; notice upon offending owner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-127ecopy",
+      "number": "127ECopy",
+      "heading": "of report of investigation; admissibility in evidence",
+      "text": "of report of investigation; admissibility in evidence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-127fcourt",
+      "number": "127FCourt",
+      "heading": "order regarding rental payments; disbursement of funds; receiver",
+      "text": "order regarding rental payments; disbursement of funds; receiver",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-127gremoval",
+      "number": "127GRemoval",
+      "heading": "from district to superior or housing court; transmittal of rents and removal fees",
+      "text": "from district to superior or housing court; transmittal of rents and removal fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-127ienforcement",
+      "number": "127IEnforcement",
+      "heading": "of sanitary code;  remedies;  receiver",
+      "text": "of sanitary code; remedies; receiver",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-127jpetition",
+      "number": "127JPetition",
+      "heading": "by receiver to apply for financial assistance; notice and hearing; financial assistance; lien",
+      "text": "by receiver to apply for financial assistance; notice and hearing; financial assistance; lien",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-127kagreement",
+      "number": "127KAgreement",
+      "heading": "to waive enforcement of sanitary code; validity",
+      "text": "to waive enforcement of sanitary code; validity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-127lrepairs",
+      "number": "127LRepairs",
+      "heading": "by tenants of residential premises to cure violations; reimbursement for cost",
+      "text": "by tenants of residential premises to cure violations; reimbursement for cost",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-127nactions",
+      "number": "127NActions",
+      "heading": "by tenants against owners of residential premises; joinder of certain other persons as parties; liability; exception",
+      "text": "by tenants against owners of residential premises; joinder of certain other persons as parties; liability; exception",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-127oconveyance",
+      "number": "127OConveyance",
+      "heading": "of real estate with intent to evade nuisance provisions; penalty",
+      "text": "of real estate with intent to evade nuisance provisions; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-127pland",
+      "number": "127PLand",
+      "heading": "covered by subdivision plan; application of state environmental code",
+      "text": "covered by subdivision plan; application of state environmental code",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-128afilling",
+      "number": "128AFilling",
+      "heading": "of sites of demolished or removed buildings",
+      "text": "of sites of demolished or removed buildings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-128b",
+      "number": "128B",
+      "heading": "to 128FRepealed, 1963, 390, Sec. 2",
+      "text": "to 128FRepealed, 1963, 390, Sec. 2",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-128gfarm",
+      "number": "128GFarm",
+      "heading": "labor camps; inspection; certificate; complaints",
+      "text": "labor camps; inspection; certificate; complaints",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-128hmigrant",
+      "number": "128HMigrant",
+      "heading": "workers; educational and recreational opportunities; locomotion; visitation rights; regulations; injunctive relief",
+      "text": "workers; educational and recreational opportunities; locomotion; visitation rights; regulations; injunctive relief",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-129removal",
+      "number": "129Removal",
+      "heading": "or destruction of nuisance on conviction of owner",
+      "text": "or destruction of nuisance on conviction of owner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-130enjoining",
+      "number": "130Enjoining",
+      "heading": "nuisance",
+      "text": "nuisance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-131compulsory",
+      "number": "131Compulsory",
+      "heading": "examination of premises; complaint; warrant",
+      "text": "examination of premises; complaint; warrant",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-132",
+      "number": "132",
+      "heading": "to 142Repealed, 1982, 95",
+      "text": "to 142Repealed, 1982, 95",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142apollution",
+      "number": "142APollution",
+      "heading": "or contamination of atmosphere; prevention; regulations; violation; enforcement",
+      "text": "or contamination of atmosphere; prevention; regulations; violation; enforcement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142bmetropolitan",
+      "number": "142BMetropolitan",
+      "heading": "air pollution control district; establishment; composition; powers of department of environmental protection",
+      "text": "air pollution control district; establishment; composition; powers of department of environmental protection",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142cother",
+      "number": "142COther",
+      "heading": "air pollution control districts; formation",
+      "text": "air pollution control districts; formation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142dair",
+      "number": "142DAir",
+      "heading": "pollution control districts; standards and plans for implementation; establishment; periodic review; amendment; compliance with minimum federal standards",
+      "text": "pollution control districts; standards and plans for implementation; establishment; periodic review; amendment; compliance with minimum federal standards",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142eair",
+      "number": "142EAir",
+      "heading": "pollution; preventing and controlling by departments, agencies, commissions, authorities and political subdivisions",
+      "text": "pollution; preventing and controlling by departments, agencies, commissions, authorities and political subdivisions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142fdischarging",
+      "number": "142FDischarging",
+      "heading": "excess fuel from aircraft into atmosphere; penalty; definitions",
+      "text": "excess fuel from aircraft into atmosphere; penalty; definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142gburning",
+      "number": "142GBurning",
+      "heading": "of Christmas trees restricted",
+      "text": "of Christmas trees restricted",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142hceremonial",
+      "number": "142HCeremonial",
+      "heading": "bonfires restricted; permits",
+      "text": "bonfires restricted; permits",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142ibonfires",
+      "number": "142IBonfires",
+      "heading": "from July 2 to July 6 authorized",
+      "text": "from July 2 to July 6 authorized",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142kmotor",
+      "number": "142KMotor",
+      "heading": "vehicle emissions standards; late models",
+      "text": "vehicle emissions standards; late models",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142lagricultural",
+      "number": "142LAgricultural",
+      "heading": "burning",
+      "text": "burning",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142mmotor",
+      "number": "142MMotor",
+      "heading": "vehicle emissions inspection and repair; definitions; rules and regulations; inspection facilities; waivers; quality assurance program; violations",
+      "text": "vehicle emissions inspection and repair; definitions; rules and regulations; inspection facilities; waivers; quality assurance program; violations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142nfossil",
+      "number": "142NFossil",
+      "heading": "fuel-fired electric generation facilities; uniform performance standards",
+      "text": "fuel-fired electric generation facilities; uniform performance standards",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-142omotor",
+      "number": "142OMotor",
+      "heading": "vehicle fuel dispensing facilities; stage II vapor recovery systems; operation and standards",
+      "text": "vehicle fuel dispensing facilities; stage II vapor recovery systems; operation and standards",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-143trade",
+      "number": "143Trade",
+      "heading": "or employment attended with noisome and injurious odors; assignment of places; prohibition; appeal",
+      "text": "or employment attended with noisome and injurious odors; assignment of places; prohibition; appeal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-144revocation",
+      "number": "144Revocation",
+      "heading": "of location assignment; removal of nuisance",
+      "text": "of location assignment; removal of nuisance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-146orders",
+      "number": "146Orders",
+      "heading": "of prohibition; service",
+      "text": "of prohibition; service",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-147appeal",
+      "number": "147Appeal",
+      "heading": "from order; notice; trial",
+      "text": "from order; notice; trial",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-148exercise",
+      "number": "148Exercise",
+      "heading": "of trade or employment during pendency of proceedings",
+      "text": "of trade or employment during pendency of proceedings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150damages",
+      "number": "150Damages",
+      "heading": "and costs",
+      "text": "and costs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150asolid",
+      "number": "150ASolid",
+      "heading": "waste disposal facilities; maintenance and operation; applications for site assignment",
+      "text": "waste disposal facilities; maintenance and operation; applications for site assignment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150a",
+      "number": "150A",
+      "heading": "1/2Standards and criteria for siting of facilities; rules and regulations",
+      "text": "1/2Standards and criteria for siting of facilities; rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150bestablishment",
+      "number": "150BEstablishment",
+      "heading": "of facility site",
+      "text": "of facility site",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-151slaughter",
+      "number": "151Slaughter",
+      "heading": "houses; regulation; public hearing; application of section",
+      "text": "houses; regulation; public hearing; application of section",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-152use",
+      "number": "152Use",
+      "heading": "or occupation of buildings or premises for carrying on offensive trades or occupations",
+      "text": "or occupation of buildings or premises for carrying on offensive trades or occupations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-153restraint",
+      "number": "153Restraint",
+      "heading": "of unauthorized occupancy, use or extension of building or premises occupied or used for offensive trades or occupations",
+      "text": "of unauthorized occupancy, use or extension of building or premises occupied or used for offensive trades or occupations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-154killing",
+      "number": "154Killing",
+      "heading": "or rendering of horses; licenses; application; notice to director of animal health; fees",
+      "text": "or rendering of horses; licenses; application; notice to director of animal health; fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-155licensing",
+      "number": "155Licensing",
+      "heading": "of stables in cities and large towns; fees",
+      "text": "of stables in cities and large towns; fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-156stables",
+      "number": "156Stables",
+      "heading": "in vicinity of churches",
+      "text": "in vicinity of churches",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-157penalty",
+      "number": "157Penalty",
+      "heading": "for violation of Secs. 155 and 156",
+      "text": "for violation of Secs. 155 and 156",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-158licensing",
+      "number": "158Licensing",
+      "heading": "of stables in small towns; fees; restraint of erection, occupancy or use of stables",
+      "text": "of stables in small towns; fees; restraint of erection, occupancy or use of stables",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-159supervision",
+      "number": "159Supervision",
+      "heading": "of inland waters",
+      "text": "of inland waters",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-160examination",
+      "number": "160Examination",
+      "heading": "of water supply; assistance to cities, towns and districts for groundwater aquifers and recharge areas",
+      "text": "of water supply; assistance to cities, towns and districts for groundwater aquifers and recharge areas",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-160across",
+      "number": "160ACross",
+      "heading": "connections between distribution system of public water supply and distribution system of unapproved water supply; certification for inspection and testing of backflow prevention devices",
+      "text": "connections between distribution system of public water supply and distribution system of unapproved water supply; certification for inspection and testing of backflow prevention devices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-160bwater",
+      "number": "160BWater",
+      "heading": "quality violations; orders of department of environmental quality engineering; enforcement",
+      "text": "quality violations; orders of department of environmental quality engineering; enforcement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-160chome",
+      "number": "160CHome",
+      "heading": "water treatment devices; definitions applicable to Secs. 160B to 160G",
+      "text": "water treatment devices; definitions applicable to Secs. 160B to 160G",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-160danalysis",
+      "number": "160DAnalysis",
+      "heading": "of drinking water; disclosure form",
+      "text": "of drinking water; disclosure form",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-160eanalysis",
+      "number": "160EAnalysis",
+      "heading": "of drinking water by uncertified person; penalty",
+      "text": "of drinking water by uncertified person; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-160genforcement",
+      "number": "160GEnforcement",
+      "heading": "of Secs. 160C to 160F",
+      "text": "of Secs. 160C to 160F",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-162removal",
+      "number": "162Removal",
+      "heading": "of causes of pollution; petition; hearing; notice; damages; violation of order",
+      "text": "of causes of pollution; petition; hearing; notice; damages; violation of order",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-164enforcement",
+      "number": "164Enforcement",
+      "heading": "of orders, rules and regulations",
+      "text": "of orders, rules and regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-165entry",
+      "number": "165Entry",
+      "heading": "on premises; compensation of agents; apportionment",
+      "text": "on premises; compensation of agents; apportionment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-167protection",
+      "number": "167Protection",
+      "heading": "of sources of water supply",
+      "text": "of sources of water supply",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-168prescriptive",
+      "number": "168Prescriptive",
+      "heading": "rights of drainage; application of Sec. 167",
+      "text": "rights of drainage; application of Sec. 167",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169injunction",
+      "number": "169Injunction",
+      "heading": "against pollution of water supply",
+      "text": "against pollution of water supply",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-170willful",
+      "number": "170Willful",
+      "heading": "defilement or corruption of spring or source of water",
+      "text": "defilement or corruption of spring or source of water",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-171wilful",
+      "number": "171Wilful",
+      "heading": "deposit of excrement or foul matter into water supply; bathing in water supply",
+      "text": "deposit of excrement or foul matter into water supply; bathing in water supply",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-173apolice",
+      "number": "173APolice",
+      "heading": "employed to protect water supply; powers and duties",
+      "text": "employed to protect water supply; powers and duties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-173bentry",
+      "number": "173BEntry",
+      "heading": "upon premises within water shed of source of water supply",
+      "text": "upon premises within water shed of source of water supply",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-174driving",
+      "number": "174Driving",
+      "heading": "animal on ice of pond or stream used for domestic water supply",
+      "text": "animal on ice of pond or stream used for domestic water supply",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-174aprevention",
+      "number": "174APrevention",
+      "heading": "of defilement of domestic water supply by gulls or terns",
+      "text": "of defilement of domestic water supply by gulls or terns",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-175protection",
+      "number": "175Protection",
+      "heading": "of Charles river from pollution",
+      "text": "of Charles river from pollution",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-176",
+      "number": "176",
+      "heading": "to 180Repealed, 1938, 265, Sec. 17",
+      "text": "to 180Repealed, 1938, 265, Sec. 17",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-181enforcement",
+      "number": "181Enforcement",
+      "heading": "of vaccination of inhabitants of towns",
+      "text": "of vaccination of inhabitants of towns",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-182vaccination",
+      "number": "182Vaccination",
+      "heading": "of inmates of institutions supported by aid of commonwealth",
+      "text": "of inmates of institutions supported by aid of commonwealth",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-183exemptions",
+      "number": "183Exemptions",
+      "heading": "from vaccination requirement",
+      "text": "from vaccination requirement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-184establishment",
+      "number": "184Establishment",
+      "heading": "and maintenance of bacteriological laboratories",
+      "text": "and maintenance of bacteriological laboratories",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-184acertificates",
+      "number": "184ACertificates",
+      "heading": "of approval relative to bacteriological laboratories; rules and regulations; renewals; fees",
+      "text": "of approval relative to bacteriological laboratories; rules and regulations; renewals; fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-184bblood",
+      "number": "184BBlood",
+      "heading": "banks",
+      "text": "banks",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-184cdonation",
+      "number": "184CDonation",
+      "heading": "of blood by minors",
+      "text": "of blood by minors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-185disinfecting",
+      "number": "185Disinfecting",
+      "heading": "public mutoscopes and other apparatus",
+      "text": "public mutoscopes and other apparatus",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-185arules",
+      "number": "185ARules",
+      "heading": "of instruction, test cards and other appliances",
+      "text": "of instruction, test cards and other appliances",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-186public",
+      "number": "186Public",
+      "heading": "use of machines requiring application of lips",
+      "text": "use of machines requiring application of lips",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-186ashoe-fitting",
+      "number": "186AShoe-fitting",
+      "heading": "machines; restrictions on use; penalty",
+      "text": "machines; restrictions on use; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-186bsale",
+      "number": "186BSale",
+      "heading": "of ''flammable'' fabric or related material to be used for children's sleepwear; penalties",
+      "text": "of ''flammable'' fabric or related material to be used for children's sleepwear; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-187enforcement",
+      "number": "187Enforcement",
+      "heading": "of chapter",
+      "text": "of chapter",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-188disposition",
+      "number": "188Disposition",
+      "heading": "of fines and forfeitures",
+      "text": "of fines and forfeitures",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-189application",
+      "number": "189Application",
+      "heading": "of chapter to cities",
+      "text": "of chapter to cities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-189adefinitions",
+      "number": "189ADefinitions",
+      "heading": "applicable to Secs. 189A to 199B",
+      "text": "applicable to Secs. 189A to 199B",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-190program",
+      "number": "190Program",
+      "heading": "for the prevention, screening, diagnosis and treatment of lead poisoning; lead poisoning control director; advisory committee",
+      "text": "for the prevention, screening, diagnosis and treatment of lead poisoning; lead poisoning control director; advisory committee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-191reports",
+      "number": "191Reports",
+      "heading": "of lead poisoning; notifications to agencies; records",
+      "text": "of lead poisoning; notifications to agencies; records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-192lead",
+      "number": "192Lead",
+      "heading": "poisoning educational and publicity program",
+      "text": "poisoning educational and publicity program",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-192afield",
+      "number": "192AField",
+      "heading": "testing and approval of new methods of removing paint and other materials containing lead",
+      "text": "testing and approval of new methods of removing paint and other materials containing lead",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-192bpreparation",
+      "number": "192BPreparation",
+      "heading": "of educational materials",
+      "text": "of educational materials",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193lead",
+      "number": "193Lead",
+      "heading": "poisoning early identification program; examination and reports",
+      "text": "poisoning early identification program; examination and reports",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-194detection",
+      "number": "194Detection",
+      "heading": "of sources of lead poisoning; inspection; search warrant; notice; examination of children; reports; records",
+      "text": "of sources of lead poisoning; inspection; search warrant; notice; examination of children; reports; records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-195state",
+      "number": "195State",
+      "heading": "laboratory for lead and lead poisoning detection; specimen analysis; fee; report as prima facie evidence",
+      "text": "laboratory for lead and lead poisoning detection; specimen analysis; fee; report as prima facie evidence",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-196prohibited",
+      "number": "196Prohibited",
+      "heading": "acts relating to lead-based paint, glaze or other substance; punishment; embargo of personal property",
+      "text": "acts relating to lead-based paint, glaze or other substance; punishment; embargo of personal property",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-197duty",
+      "number": "197Duty",
+      "heading": "of residential premises owners; interim control measures; abatement or containment of paint, plaster or other accessible structural material containing lead",
+      "text": "of residential premises owners; interim control measures; abatement or containment of paint, plaster or other accessible structural material containing lead",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-197anotice",
+      "number": "197ANotice",
+      "heading": "to prospective purchasers of premises of hazards of lead in premises; forms; letter of compliance; civil penalty",
+      "text": "to prospective purchasers of premises of hazards of lead in premises; forms; letter of compliance; civil penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-197blead",
+      "number": "197BLead",
+      "heading": "paint inspectors; deleaders; licensure",
+      "text": "paint inspectors; deleaders; licensure",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-197cchild",
+      "number": "197CChild",
+      "heading": "exhibiting dangerous blood lead level after issuance of letters of compliance or interim control; liability",
+      "text": "exhibiting dangerous blood lead level after issuance of letters of compliance or interim control; liability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-197dsecured",
+      "number": "197DSecured",
+      "heading": "lenders; liability",
+      "text": "lenders; liability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-ured",
+      "number": "ured",
+      "heading": "lenders; liability",
+      "text": "lenders; liability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-197elead",
+      "number": "197ELead",
+      "heading": "abatement loan program",
+      "text": "abatement loan program",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-198violations",
+      "number": "198Violations",
+      "heading": "of state sanitary code; enforcement",
+      "text": "of state sanitary code; enforcement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-199liability",
+      "number": "199Liability",
+      "heading": "of owner of premises; punitive damages",
+      "text": "of owner of premises; punitive damages",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-199aunlawful",
+      "number": "199AUnlawful",
+      "heading": "practices in selling, renting, or leasing premises containing lead in paint, plaster or materials",
+      "text": "practices in selling, renting, or leasing premises containing lead in paint, plaster or materials",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-199bexemptions",
+      "number": "199BExemptions",
+      "heading": "from Secs. 189A to 199A",
+      "text": "from Secs. 189A to 199A",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-201first",
+      "number": "201First",
+      "heading": "aid training of emergency personnel, including cardiopulmonary resuscitation; standards; refresher course; coordination by department; personnel excepted",
+      "text": "aid training of emergency personnel, including cardiopulmonary resuscitation; standards; refresher course; coordination by department; personnel excepted",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-202fetal",
+      "number": "202Fetal",
+      "heading": "deaths;  reports;  confidentiality;  disposition of remains;  violations;  forms",
+      "text": "deaths; reports; confidentiality; disposition of remains; violations; forms",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-203health",
+      "number": "203Health",
+      "heading": "care provider misconduct; medical peer review",
+      "text": "care provider misconduct; medical peer review",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204confidentiality",
+      "number": "204Confidentiality",
+      "heading": "of medical peer review committee proceedings, reports and records; exceptions; immunity",
+      "text": "of medical peer review committee proceedings, reports and records; exceptions; immunity",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-205information",
+      "number": "205Information",
+      "heading": "and records necessary to comply with risk management and quality assurance programs; confidentiality; definitions",
+      "text": "and records necessary to comply with risk management and quality assurance programs; confidentiality; definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-206program",
+      "number": "206Program",
+      "heading": "to reduce incidence of mortality and morbidity from accidents and diseases; risk factors; wellness programs",
+      "text": "to reduce incidence of mortality and morbidity from accidents and diseases; risk factors; wellness programs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-206aseal",
+      "number": "206ASeal",
+      "heading": "of approval for wellness programs implemented by businesses",
+      "text": "of approval for wellness programs implemented by businesses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-207definitions",
+      "number": "207Definitions",
+      "heading": "applicable to Secs. 208 to 214",
+      "text": "applicable to Secs. 208 to 214",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-208tanning",
+      "number": "208Tanning",
+      "heading": "facilities; licenses; necessity; expiration; fees; inspection of tanning facilities; violations; revocation; appeals",
+      "text": "facilities; licenses; necessity; expiration; fees; inspection of tanning facilities; violations; revocation; appeals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-209tanning",
+      "number": "209Tanning",
+      "heading": "facilities; statement of warning and notice; posting; form; acknowledgment by customer",
+      "text": "facilities; statement of warning and notice; posting; form; acknowledgment by customer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-210tanning",
+      "number": "210Tanning",
+      "heading": "facilities; presence of operators; protective eyewear required; limitation of exposure and temperature",
+      "text": "facilities; presence of operators; protective eyewear required; limitation of exposure and temperature",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-211use",
+      "number": "211Use",
+      "heading": "of tanning device by minors",
+      "text": "of tanning device by minors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-212tanning",
+      "number": "212Tanning",
+      "heading": "facilities; promotional material; liability not affected by warnings; report of injuries",
+      "text": "facilities; promotional material; liability not affected by warnings; report of injuries",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-213access",
+      "number": "213Access",
+      "heading": "to tanning facilities for inspections; rules and regulations; phototherapy devices excluded",
+      "text": "to tanning facilities for inspections; rules and regulations; phototherapy devices excluded",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-215needle",
+      "number": "215Needle",
+      "heading": "exchange programs; approval; report",
+      "text": "exchange programs; approval; report",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-216fragrance",
+      "number": "216Fragrance",
+      "heading": "advertising inserts; microencapsulated fragrance; penalty",
+      "text": "advertising inserts; microencapsulated fragrance; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-218guidelines",
+      "number": "218Guidelines",
+      "heading": "for human leukocyte or histocompatibility locus antigen testing",
+      "text": "for human leukocyte or histocompatibility locus antigen testing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-219meningitis",
+      "number": "219Meningitis",
+      "heading": "immunization awareness",
+      "text": "immunization awareness",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-220multidisciplinary",
+      "number": "220Multidisciplinary",
+      "heading": "advisory board; training and examination of sexual assault nurse examiners",
+      "text": "advisory board; training and examination of sexual assault nurse examiners",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-220aprevention",
+      "number": "220APrevention",
+      "heading": "of the practice of female genital mutilation",
+      "text": "of the practice of female genital mutilation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221breastfeeding",
+      "number": "221Breastfeeding",
+      "heading": "in a public place",
+      "text": "in a public place",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-222interscholastic",
+      "number": "222Interscholastic",
+      "heading": "athletic head injury safety training program; written authorization required for participation in extracurricular athletic activity following unconsciousness or diagnosis of concussion; maintenance of records showing compliance with section; liability",
+      "text": "athletic head injury safety training program; written authorization required for participation in extracurricular athletic activity following unconsciousness or diagnosis of concussion; maintenance of records showing compliance with section; liability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-223nutritional",
+      "number": "223Nutritional",
+      "heading": "standards for sale or provision of foods or beverages in public schools; school wellness advisory committees; food safety inspections at public schools",
+      "text": "standards for sale or provision of foods or beverages in public schools; school wellness advisory committees; food safety inspections at public schools",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-224commission",
+      "number": "224Commission",
+      "heading": "on falls prevention;  members;  duties",
+      "text": "on falls prevention; members; duties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-225presenting",
+      "number": "225Presenting",
+      "heading": "claim for payment for anatomic pathology services",
+      "text": "claim for payment for anatomic pathology services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-226mandatory",
+      "number": "226Mandatory",
+      "heading": "overtime for nurses prohibited; exception for emergency situations",
+      "text": "overtime for nurses prohibited; exception for emergency situations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-227palliative",
+      "number": "227Palliative",
+      "heading": "care and end-of-life options; distribution of information regarding availability",
+      "text": "care and end-of-life options; distribution of information regarding availability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-228allowed",
+      "number": "228Allowed",
+      "heading": "amount; advance disclosure of allowed amount or charge for admission, procedure or service; referrals; nonparticipation in plan; penalties",
+      "text": "amount; advance disclosure of allowed amount or charge for admission, procedure or service; referrals; nonparticipation in plan; penalties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-229distribution",
+      "number": "229Distribution",
+      "heading": "of information regarding benefits of annual immunization against influenza for children",
+      "text": "of information regarding benefits of annual immunization against influenza for children",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-230folic",
+      "number": "230Folic",
+      "heading": "acid awareness initiative",
+      "text": "acid awareness initiative",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-231limitation",
+      "number": "231Limitation",
+      "heading": "on patient assignments per nurse in intensive care units; development and certification of acuity tool",
+      "text": "on patient assignments per nurse in intensive care units; development and certification of acuity tool",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-233palliative",
+      "number": "233Palliative",
+      "heading": "care and quality of life interdisciplinary advisory council",
+      "text": "care and quality of life interdisciplinary advisory council",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-234palliative",
+      "number": "234Palliative",
+      "heading": "care consumer and professional information and education program",
+      "text": "care consumer and professional information and education program",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-235surgical",
+      "number": "235Surgical",
+      "heading": "technologists; standards and requisites for employment; waiver",
+      "text": "technologists; standards and requisites for employment; waiver",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-236nondiscrimination",
+      "number": "236Nondiscrimination",
+      "heading": "in access to organ transplantation",
+      "text": "in access to organ transplantation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237analysis",
+      "number": "237Analysis",
+      "heading": "of population health trends; opiate overdoses",
+      "text": "of population health trends; opiate overdoses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-238promoting",
+      "number": "238Promoting",
+      "heading": "awareness of reproductive health care facilities in the commonwealth",
+      "text": "awareness of reproductive health care facilities in the commonwealth",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-239promulgation",
+      "number": "239Promulgation",
+      "heading": "of regulations regarding the advertisement and sale of tobacco products and electronic nicotine delivery systems",
+      "text": "of regulations regarding the advertisement and sale of tobacco products and electronic nicotine delivery systems",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-240reimbursement",
+      "number": "240Reimbursement",
+      "heading": "for travel and ancillary costs for cancer clinical trials",
+      "text": "for travel and ancillary costs for cancer clinical trials",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-241rare",
+      "number": "241Rare",
+      "heading": "disease advisory council; membership; duties; funding; reports",
+      "text": "disease advisory council; membership; duties; funding; reports",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-242advisory",
+      "number": "242Advisory",
+      "heading": "council on pediatric autoimmune neuropsychiatric disorder; membership and terms; annual report; cooperation from state agencies; funding",
+      "text": "council on pediatric autoimmune neuropsychiatric disorder; membership and terms; annual report; cooperation from state agencies; funding",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-244open",
+      "number": "244Open",
+      "heading": "burn pits or other airborne hazards in overseas military deployments;  educational materials;  duties of the commissioner",
+      "text": "burn pits or other airborne hazards in overseas military deployments; educational materials; duties of the commissioner",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-245initiative",
+      "number": "245Initiative",
+      "heading": "to increase public awareness of availability of extreme risk protection order process to remove firearm from individual posing risk to self or others",
+      "text": "to increase public awareness of availability of extreme risk protection order process to remove firearm from individual posing risk to self or others",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-246development",
+      "number": "246Development",
+      "heading": "and maintenance of comprehensive digital resource center on perinatal mood and anxiety disorders",
+      "text": "and maintenance of comprehensive digital resource center on perinatal mood and anxiety disorders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-247screening",
+      "number": "247Screening",
+      "heading": "for postpartum depression or major depressive disorder;  treatment",
+      "text": "for postpartum depression or major depressive disorder; treatment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-248statewide",
+      "number": "248Statewide",
+      "heading": "system of programs providing universal postpartum home visiting services",
+      "text": "system of programs providing universal postpartum home visiting services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-retary",
+      "number": "retary",
+      "heading": "of the Commonwealthlink to an external site",
+      "text": "of the Commonwealthlink to an external site",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

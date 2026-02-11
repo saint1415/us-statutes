@@ -1,0 +1,630 @@
+{
+  "state": "new-mexico",
+  "path": "title-chapter-60-business-licenses/chapter-next",
+  "sections": [
+    {
+      "id": "section-1",
+      "number": "1",
+      "heading": "Uniform LicensingArticle 2 - OptometryArticle 3 - NursingArticle 3A - Safe Harbor for NursesArticle 3B - Lactation Care ProviderArticle 4 - ChiropracticArticle 5 - Dentistry (Repealed",
+      "text": ")Article 5A - Dental Health CareArticle 5B - Impaired Dentists and Dental HygienistsArticle 5C - Dental Amalgam Wast",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2",
+      "number": "2",
+      "heading": "Optometry",
+      "text": "Optometry",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3",
+      "number": "3",
+      "heading": "Nursing",
+      "text": "Nursing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3a",
+      "number": "3A",
+      "heading": "Safe Harbor for Nurses",
+      "text": "Safe Harbor for Nurses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3b",
+      "number": "3B",
+      "heading": "Lactation Care Provider",
+      "text": "Lactation Care Provider",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4",
+      "number": "4",
+      "heading": "Chiropractic",
+      "text": "Chiropractic",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5",
+      "number": "5",
+      "heading": "Dentistry (Repealed.)",
+      "text": "Dentistry (Repealed.)",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5a",
+      "number": "5A",
+      "heading": "Dental Health Care",
+      "text": "Dental Health Care",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5b",
+      "number": "5B",
+      "heading": "Impaired Dentists and Dental Hygienists",
+      "text": "Impaired Dentists and Dental Hygienists",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5c",
+      "number": "5C",
+      "heading": "Dental Amalgam Waste Reduction",
+      "text": "Dental Amalgam Waste Reduction",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6",
+      "number": "6",
+      "heading": "Medicine and Surgery",
+      "text": "Medicine and Surgery",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6a",
+      "number": "6A",
+      "heading": "Genetic Counseling Act",
+      "text": "Genetic Counseling Act",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6b",
+      "number": "6B",
+      "heading": "Polysomnography Practice Act",
+      "text": "Polysomnography Practice Act",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6c",
+      "number": "6C",
+      "heading": "Physician Assistants",
+      "text": "Physician Assistants",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6d",
+      "number": "6D",
+      "heading": "Anesthesiologist Assistants",
+      "text": "Anesthesiologist Assistants",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7",
+      "number": "7",
+      "heading": "Impaired Health Care Provider",
+      "text": "Impaired Health Care Provider",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7a",
+      "number": "7A",
+      "heading": "Nutrition and Dietetics Practices",
+      "text": "Nutrition and Dietetics Practices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8",
+      "number": "8",
+      "heading": "Podiatry",
+      "text": "Podiatry",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9",
+      "number": "9",
+      "heading": "Psychologists",
+      "text": "Psychologists",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9a",
+      "number": "9A",
+      "heading": "Counseling and Therapy",
+      "text": "Counseling and Therapy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10",
+      "number": "10",
+      "heading": "Osteopathic Medicine (Repealed.)",
+      "text": "Osteopathic Medicine (Repealed.)",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10a",
+      "number": "10A",
+      "heading": "Osteopathic Physicians' Assistants (Repealed.)",
+      "text": "Osteopathic Physicians' Assistants (Repealed.)",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11",
+      "number": "11",
+      "heading": "Pharmacy",
+      "text": "Pharmacy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11a",
+      "number": "11A",
+      "heading": "Impaired Pharmacists",
+      "text": "Impaired Pharmacists",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11b",
+      "number": "11B",
+      "heading": "Pharmacist Prescription Authority",
+      "text": "Pharmacist Prescription Authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12",
+      "number": "12",
+      "heading": "Physical Therapy (Repealed.)",
+      "text": "Physical Therapy (Repealed.)",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12a",
+      "number": "12A",
+      "heading": "Occupational Therapy",
+      "text": "Occupational Therapy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12b",
+      "number": "12B",
+      "heading": "Respiratory Care",
+      "text": "Respiratory Care",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12c",
+      "number": "12C",
+      "heading": "Massage Therapy Practice",
+      "text": "Massage Therapy Practice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12d",
+      "number": "12D",
+      "heading": "Physical Therapy",
+      "text": "Physical Therapy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12e",
+      "number": "12E",
+      "heading": "Naprapathic Practice (Repealed.)",
+      "text": "Naprapathic Practice (Repealed.)",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12f",
+      "number": "12F",
+      "heading": "Naprapathic Practice",
+      "text": "Naprapathic Practice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12g",
+      "number": "12G",
+      "heading": "Naturopathic Doctors' Practice",
+      "text": "Naturopathic Doctors' Practice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-13",
+      "number": "13",
+      "heading": "Nursing Home Administrators",
+      "text": "Nursing Home Administrators",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14",
+      "number": "14",
+      "heading": "Veterinary Medicine",
+      "text": "Veterinary Medicine",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14a",
+      "number": "14A",
+      "heading": "Acupuncture and Oriental Medicine Practice",
+      "text": "Acupuncture and Oriental Medicine Practice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14b",
+      "number": "14B",
+      "heading": "Speech-Language Pathology, Audiology and Hearing Aid Dispensing Practices",
+      "text": "Speech-Language Pathology, Audiology and Hearing Aid Dispensing Practices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14c",
+      "number": "14C",
+      "heading": "Medical Assistants",
+      "text": "Medical Assistants",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14d",
+      "number": "14D",
+      "heading": "Athletic Trainer Practice",
+      "text": "Athletic Trainer Practice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14e",
+      "number": "14E",
+      "heading": "Medical Imaging and Radiation Therapy",
+      "text": "Medical Imaging and Radiation Therapy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-14f",
+      "number": "14F",
+      "heading": "Uniform Athlete Agents",
+      "text": "Uniform Athlete Agents",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-15",
+      "number": "15",
+      "heading": "Architects",
+      "text": "Architects",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-16",
+      "number": "16",
+      "heading": "Auctions",
+      "text": "Auctions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-17",
+      "number": "17",
+      "heading": "Barbers (Repealed.)",
+      "text": "Barbers (Repealed.)",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-17a",
+      "number": "17A",
+      "heading": "Barbers and Cosmetologists",
+      "text": "Barbers and Cosmetologists",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-17b",
+      "number": "17B",
+      "heading": "Body Art Safe Practices Act",
+      "text": "Body Art Safe Practices Act",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-18",
+      "number": "18",
+      "heading": "Collection Agencies (Repealed.)",
+      "text": "Collection Agencies (Repealed.)",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-18a",
+      "number": "18A",
+      "heading": "Collection Agencies",
+      "text": "Collection Agencies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19",
+      "number": "19",
+      "heading": "Cosmetology (Repealed.)",
+      "text": "Cosmetology (Repealed.)",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-19a",
+      "number": "19A",
+      "heading": "Cosmetology (Repealed.)",
+      "text": "Cosmetology (Repealed.)",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-20",
+      "number": "20",
+      "heading": "Dry Cleaning Industry (Repealed.)",
+      "text": "Dry Cleaning Industry (Repealed.)",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-21",
+      "number": "21",
+      "heading": "Embalmers and Funeral Directors (Repealed.)",
+      "text": "Embalmers and Funeral Directors (Repealed.)",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-22",
+      "number": "22",
+      "heading": "Employment Agencies (Repealed.)",
+      "text": "Employment Agencies (Repealed.)",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-23",
+      "number": "23",
+      "heading": "Engineering and Surveying",
+      "text": "Engineering and Surveying",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24",
+      "number": "24",
+      "heading": "Hearing Aid Dealers and Fitters (Repealed.)",
+      "text": "Hearing Aid Dealers and Fitters (Repealed.)",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24a",
+      "number": "24A",
+      "heading": "Hearing Aid Dispensers (Repealed.)",
+      "text": "Hearing Aid Dispensers (Repealed.)",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24b",
+      "number": "24B",
+      "heading": "Landscape Architects",
+      "text": "Landscape Architects",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24c",
+      "number": "24C",
+      "heading": "Interior Designers",
+      "text": "Interior Designers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-24d",
+      "number": "24D",
+      "heading": "Home Inspector Licensing",
+      "text": "Home Inspector Licensing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25",
+      "number": "25",
+      "heading": "Massage Practitioners (Repealed.)",
+      "text": "Massage Practitioners (Repealed.)",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-26",
+      "number": "26",
+      "heading": "Polygraphers (Repealed.)",
+      "text": "Polygraphers (Repealed.)",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27",
+      "number": "27",
+      "heading": "Private Investigators (Repealed.)",
+      "text": "Private Investigators (Repealed.)",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27a",
+      "number": "27A",
+      "heading": "Private Investigators and Polygraphers (Repealed, Recompiled.)",
+      "text": "Private Investigators and Polygraphers (Repealed, Recompiled.)",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27b",
+      "number": "27B",
+      "heading": "Private Investigations",
+      "text": "Private Investigations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28",
+      "number": "28",
+      "heading": "Public Accountants (Repealed.)",
+      "text": "Public Accountants (Repealed.)",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28a",
+      "number": "28A",
+      "heading": "Public Accountancy (Repealed.)",
+      "text": "Public Accountancy (Repealed.)",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-28b",
+      "number": "28B",
+      "heading": "1999 Public Accountancy Act",
+      "text": "1999 Public Accountancy Act",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-29",
+      "number": "29",
+      "heading": "Real Estate Brokers and Salesmen",
+      "text": "Real Estate Brokers and Salesmen",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-29a",
+      "number": "29A",
+      "heading": "Thanatopractice (Recompiled.)",
+      "text": "Thanatopractice (Recompiled.)",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-30",
+      "number": "30",
+      "heading": "Real Estate Appraisers",
+      "text": "Real Estate Appraisers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31",
+      "number": "31",
+      "heading": "Social Work Practice",
+      "text": "Social Work Practice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-32",
+      "number": "32",
+      "heading": "Funeral Services",
+      "text": "Funeral Services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-33",
+      "number": "33",
+      "heading": "Utility Operators",
+      "text": "Utility Operators",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-34",
+      "number": "34",
+      "heading": "Signed Language Interpreting Practices",
+      "text": "Signed Language Interpreting Practices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-35",
+      "number": "35",
+      "heading": "Unlicensed Health Care Practice",
+      "text": "Unlicensed Health Care Practice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36",
+      "number": "36",
+      "heading": "Lactation Consultant Practice",
+      "text": "Lactation Consultant Practice",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-37",
+      "number": "37",
+      "heading": "Tobacco Products",
+      "text": "Tobacco Products",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-38",
+      "number": "38",
+      "heading": "Elevator Safety (Recompiled)",
+      "text": "Elevator Safety (Recompiled)",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

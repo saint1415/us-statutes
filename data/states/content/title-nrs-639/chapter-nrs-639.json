@@ -1,0 +1,2062 @@
+{
+  "state": "nevada",
+  "path": "title-nrs-639/chapter-nrs-639",
+  "sections": [
+    {
+      "id": "section-639001",
+      "number": "639.001",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390015",
+      "number": "639.0015",
+      "heading": "Advanced",
+      "text": "practice registered nurse� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390017",
+      "number": "639.0017",
+      "heading": "Biological",
+      "text": "product� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639002",
+      "number": "639.002",
+      "heading": "Board�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639003",
+      "number": "639.003",
+      "heading": "Certificate�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639004",
+      "number": "639.004",
+      "heading": "Chart",
+      "text": "order� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639005",
+      "number": "639.005",
+      "heading": "Chemical�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390051",
+      "number": "639.0051",
+      "heading": "Collaborative",
+      "text": "drug therapy management� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390052",
+      "number": "639.0052",
+      "heading": "Collaborative",
+      "text": "practice agreement� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63900525",
+      "number": "639.00525",
+      "heading": "Collaborative",
+      "text": "practice of pharmacy� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390053",
+      "number": "639.0053",
+      "heading": "Compound�",
+      "text": "and �compounding� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639006",
+      "number": "639.006",
+      "heading": "Conviction�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390061",
+      "number": "639.0061",
+      "heading": "Course",
+      "text": "of treatment� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390065",
+      "number": "639.0065",
+      "heading": "Dispense�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639007",
+      "number": "639.007",
+      "heading": "Drug�",
+      "text": "and �medicine� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390071",
+      "number": "639.0071",
+      "heading": "Drug",
+      "text": "sample� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390073",
+      "number": "639.0073",
+      "heading": "Fill�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390074",
+      "number": "639.0074",
+      "heading": "Hospital�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639008",
+      "number": "639.008",
+      "heading": "Hypodermics�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390082",
+      "number": "639.0082",
+      "heading": "Initial",
+      "text": "prescription� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390085",
+      "number": "639.0085",
+      "heading": "Institutional",
+      "text": "pharmacy� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63900855",
+      "number": "639.00855",
+      "heading": "Interchangeable",
+      "text": "biological product� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390086",
+      "number": "639.0086",
+      "heading": "Intern",
+      "text": "pharmacist� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63900865",
+      "number": "639.00865",
+      "heading": "Internet",
+      "text": "pharmacy� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390087",
+      "number": "639.0087",
+      "heading": "Managing",
+      "text": "pharmacist� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639009",
+      "number": "639.009",
+      "heading": "Manufacturer�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390095",
+      "number": "639.0095",
+      "heading": "Nuclear",
+      "text": "pharmacist� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390097",
+      "number": "639.0097",
+      "heading": "Nuclear",
+      "text": "pharmacy� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390105",
+      "number": "639.0105",
+      "heading": "Parenteral",
+      "text": "solutions� and �parenterals� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390113",
+      "number": "639.0113",
+      "heading": "Pharmaceutical",
+      "text": "technician� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390115",
+      "number": "639.0115",
+      "heading": "Pharmaceutical",
+      "text": "technician in training� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639012",
+      "number": "639.012",
+      "heading": "Pharmacy�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390123",
+      "number": "639.0123",
+      "heading": "Pharmacy",
+      "text": "in a correctional institution� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390124",
+      "number": "639.0124",
+      "heading": "Practice",
+      "text": "of pharmacy� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390125",
+      "number": "639.0125",
+      "heading": "Practitioner�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639013",
+      "number": "639.013",
+      "heading": "Prescription�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390143",
+      "number": "639.0143",
+      "heading": "Radiopharmaceutical�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390144",
+      "number": "639.0144",
+      "heading": "Recovery",
+      "text": "center� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390145",
+      "number": "639.0145",
+      "heading": "Refill�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639015",
+      "number": "639.015",
+      "heading": "Registered",
+      "text": "pharmacist� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390151",
+      "number": "639.0151",
+      "heading": "Remote",
+      "text": "site� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390153",
+      "number": "639.0153",
+      "heading": "Satellite",
+      "text": "consultation site� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63901531",
+      "number": "639.01531",
+      "heading": "Self-administered",
+      "text": "hormonal contraceptive� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63901535",
+      "number": "639.01535",
+      "heading": "Telehealth�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390154",
+      "number": "639.0154",
+      "heading": "Telepharmacy�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390155",
+      "number": "639.0155",
+      "heading": "Wholesale",
+      "text": "distribution� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639016",
+      "number": "639.016",
+      "heading": "Wholesaler�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639018",
+      "number": "639.018",
+      "heading": "Inapplicability",
+      "text": "of chapter to certain veterinary biologic products and pharmaceutical\n\ntechnicians of Armed Forces or Federal Government in discharge of official\n\nduties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639020",
+      "number": "639.020",
+      "heading": "Creation;",
+      "text": "number and appointment of members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639030",
+      "number": "639.030",
+      "heading": "Qualification",
+      "text": "and terms of members; oath; vacancies; grounds for removal from office.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639040",
+      "number": "639.040",
+      "heading": "Election",
+      "text": "of President and Treasurer; qualifications, employment, duties and compensation\n\nof Executive Secretary.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639050",
+      "number": "639.050",
+      "heading": "Meetings;",
+      "text": "quorum; salary of members; per diem allowance and travel expenses of members\n\nand employees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639060",
+      "number": "639.060",
+      "heading": "Biennial",
+      "text": "report to Governor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639063",
+      "number": "639.063",
+      "heading": "Annual",
+      "text": "report concerning drugs returned or transferred to pharmacies from certain\n\nfacilities and institutions and reissued to fill other prescriptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639065",
+      "number": "639.065",
+      "heading": "Annual",
+      "text": "report concerning immunizations administered by pharmacists.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639067",
+      "number": "639.067",
+      "heading": "Posting",
+      "text": "of information relating to pharmaceutical manufacturers on website.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639070",
+      "number": "639.070",
+      "heading": "General",
+      "text": "powers; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639071",
+      "number": "639.071",
+      "heading": "Regulations:",
+      "text": "Institutional pharmacies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639072",
+      "number": "639.072",
+      "heading": "Regulations:",
+      "text": "Pharmacies in correctional institutions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390725",
+      "number": "639.0725",
+      "heading": "Regulations:",
+      "text": "Internet pharmacies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390727",
+      "number": "639.0727",
+      "heading": "Regulations:",
+      "text": "Remote sites, satellite consultation sites and telepharmacies; dispensing\n\npractitioners and dispensing technicians; practicing electronically,\n\ntelephonically or by fiber optics.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639073",
+      "number": "639.073",
+      "heading": "Regulations:",
+      "text": "Restricting sale of drugs except under supervision of registered pharmacist.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639074",
+      "number": "639.074",
+      "heading": "Regulations:",
+      "text": "Registered nurses who participate in certain public health programs or provide\n\ncertain mental health services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390745",
+      "number": "639.0745",
+      "heading": "Regulations:",
+      "text": "Transfer, security and exchange of information relating to prescriptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6390747",
+      "number": "639.0747",
+      "heading": "Regulations:",
+      "text": "Registered pharmacists collecting specimens.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639075",
+      "number": "639.075",
+      "heading": "Fiscal",
+      "text": "year.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639081",
+      "number": "639.081",
+      "heading": "Deposit",
+      "text": "and use of money received by Board; delegation of authority to take\n\ndisciplinary action; deposit of fines; claims for attorney�s fees and costs of\n\ninvestigation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639090",
+      "number": "639.090",
+      "heading": "Enforcement",
+      "text": "of chapter; inspections.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639093",
+      "number": "639.093",
+      "heading": "Communication",
+      "text": "with other public agencies; immunity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639097",
+      "number": "639.097",
+      "heading": "Injunctive",
+      "text": "relief.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639100",
+      "number": "639.100",
+      "heading": "Unlawful",
+      "text": "to manufacture, engage in wholesale distribution, compound, sell or dispense\n\ndrug, poison, medicine or chemical; exceptions; penalties; application for and\n\nissuance of license; Board prohibited from taking certain action regarding\n\npharmacists located outside State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639120",
+      "number": "639.120",
+      "heading": "Qualifications",
+      "text": "of applicants to become registered pharmacists.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639127",
+      "number": "639.127",
+      "heading": "Application",
+      "text": "for registration as pharmacist; payment of fee; submission of fingerprints;\n\nissuance of provisional registration; proof of qualifications; period of\n\nvalidity of application; issuance of certificate of registration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639129",
+      "number": "639.129",
+      "heading": "Payment",
+      "text": "of child support: Submission of certain information by applicant; grounds for\n\ndenial of certificate or license; duty of Board. [Effective until the date of\n\nthe repeal of 42 U.S.C. � 666, the federal law requiring each state to\n\nestablish procedures for withholding, suspending and restricting the\n\nprofessional, occupational and recreational licenses for child support\n\narrearages and for noncompliance with certain processes relating to paternity\n\nor child support proceedings.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639130",
+      "number": "639.130",
+      "heading": "Reexamination.",
+      "text": "Reexamination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639132",
+      "number": "639.132",
+      "heading": "Board",
+      "text": "prohibited from approving application for registration or renewal of\n\nregistration as pharmacist or intern pharmacist unless applicant attests to knowledge\n\nof and compliance with certain guidelines related to safe and appropriate\n\ninjection practices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639134",
+      "number": "639.134",
+      "heading": "Registration",
+      "text": "of pharmacist without examination; reciprocity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639136",
+      "number": "639.136",
+      "heading": "Expedited",
+      "text": "certificate by endorsement as registered pharmacist: Requirements; procedure\n\nfor issuance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6391365",
+      "number": "639.1365",
+      "heading": "Expedited",
+      "text": "certificate by endorsement as registered pharmacist for active member of Armed\n\nForces, member�s spouse, veteran or veteran�s surviving spouse: Requirements;\n\nprocedure for issuance; provisional certificate pending action on application.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639137",
+      "number": "639.137",
+      "heading": "Registration",
+      "text": "of intern pharmacists: Qualifications; application; issuance of certificate of\n\nregistration; period of validity of certificate; authorized activities;\n\ndisplay; grounds for suspension, termination or revocation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6391371",
+      "number": "639.1371",
+      "heading": "Pharmaceutical",
+      "text": "technicians: Number permitted per pharmacist; qualifications, registration,\n\nsupervision and authorized services; submission of fingerprints; issuance of\n\nprovisional registration; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6391373",
+      "number": "639.1373",
+      "heading": "Physician",
+      "text": "assistant: Authority regarding possession, administration, prescription and\n\ndispensing of controlled substances, poisons, dangerous drugs and devices;\n\nregistration; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6391374",
+      "number": "639.1374",
+      "heading": "Dental",
+      "text": "hygienist: Authority regarding possession, prescription and dispensing of\n\ndangerous drugs and devices; certification; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6391375",
+      "number": "639.1375",
+      "heading": "Advanced",
+      "text": "practice registered nurses: Authority to dispense controlled substances,\n\npoisons, dangerous drugs and devices; registration; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639138",
+      "number": "639.138",
+      "heading": "Denial",
+      "text": "of application: Notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639139",
+      "number": "639.139",
+      "heading": "Denial",
+      "text": "of application: Procedure for reconsideration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639150",
+      "number": "639.150",
+      "heading": "Display",
+      "text": "of certificates, licenses and permits; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639160",
+      "number": "639.160",
+      "heading": "Notice",
+      "text": "of new place of practice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639170",
+      "number": "639.170",
+      "heading": "Fees;",
+      "text": "costs of special meetings; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639180",
+      "number": "639.180",
+      "heading": "Expiration",
+      "text": "of certificates, licenses and permits; procedure for renewal; grounds for\n\nrefusal to renew; automatic forfeiture for failure to comply with procedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639183",
+      "number": "639.183",
+      "heading": "Renewal",
+      "text": "of registration: Duty of Board to make data request concerning demographic and\n\npractice information available to applicants for voluntary completion and\n\nelectronic submission; confidentiality of information provided.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639190",
+      "number": "639.190",
+      "heading": "Issuance",
+      "text": "of certificate of registration as pharmacist after forfeiture.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639200",
+      "number": "639.200",
+      "heading": "Issuance",
+      "text": "of duplicate certificates and receipts for renewal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639210",
+      "number": "639.210",
+      "heading": "Grounds",
+      "text": "for suspension or revocation of certificate, license, registration or permit or\n\ndenial of application.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392107",
+      "number": "639.2107",
+      "heading": "Surrender,",
+      "text": "revocation or suspension by licensing board or Drug Enforcement Administration:\n\nImmediate suspension of certificate, license, registration or permit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639211",
+      "number": "639.211",
+      "heading": "Mental",
+      "text": "illness: Immediate suspension of right to practice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639212",
+      "number": "639.212",
+      "heading": "Mental",
+      "text": "illness: Reinstatement of suspended certificate, license, registration or\n\npermit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392121",
+      "number": "639.2121",
+      "heading": "Conviction",
+      "text": "of certain felonies: Immediate suspension of certificate, license, registration\n\nor permit; reinstatement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392122",
+      "number": "639.2122",
+      "heading": "Corporations:",
+      "text": "Denial, suspension and revocation of certificates, licenses, permits or\n\nregistrations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639213",
+      "number": "639.213",
+      "heading": "Legislative",
+      "text": "declaration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639215",
+      "number": "639.215",
+      "heading": "Rules.",
+      "text": "Rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392171",
+      "number": "639.2171",
+      "heading": "Legislative",
+      "text": "findings and declaration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392172",
+      "number": "639.2172",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392174",
+      "number": "639.2174",
+      "heading": "Completion",
+      "text": "of program prerequisite to renewal of certificate of registered pharmacist.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392176",
+      "number": "639.2176",
+      "heading": "Regulations.",
+      "text": "Regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392177",
+      "number": "639.2177",
+      "heading": "License;",
+      "text": "regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639220",
+      "number": "639.220",
+      "heading": "Management",
+      "text": "by registered pharmacist; exceptions; requirements for managing pharmacists;\n\nnotice of change in managing pharmacist.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639230",
+      "number": "639.230",
+      "heading": "Licenses:",
+      "text": "Operation using certain words without license prohibited; exception regarding\n\nuse of letters �Rx� or �RX�; conditions and limitations on issuance of license;\n\nduties upon change of partners or corporate officers; additional requirement\n\nfor renewal; grounds for suspension or revocation; certain Canadian pharmacies\n\nnot prohibited from dispensing prescriptions to patients located in Nevada;\n\nregistered pharmacists and practitioners not prohibited from collaborating in\n\ncollaborative practice agreement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639231",
+      "number": "639.231",
+      "heading": "Application",
+      "text": "for and issuance of license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392315",
+      "number": "639.2315",
+      "heading": "Expedited",
+      "text": "license by endorsement to conduct pharmacy: Requirements; procedure for\n\nissuance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392316",
+      "number": "639.2316",
+      "heading": "Expedited",
+      "text": "license by endorsement to conduct pharmacy for active member of Armed Forces,\n\nmember�s spouse, veteran or veteran�s surviving spouse: Requirements; procedure\n\nfor issuance; provisional license pending action on application.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639232",
+      "number": "639.232",
+      "heading": "Limitations",
+      "text": "on issuance of licenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392321",
+      "number": "639.2321",
+      "heading": "Nuclear",
+      "text": "pharmacy: Direct supervision of preparation and distribution of\n\nradiopharmaceuticals required; qualifications of managing pharmacist; nuclear\n\npharmacist required on premises.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392322",
+      "number": "639.2322",
+      "heading": "Nuclear",
+      "text": "pharmacy: Oral orders; prohibition on refill of prescription for\n\nradiopharmaceutical.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392324",
+      "number": "639.2324",
+      "heading": "Institutional",
+      "text": "pharmacies: Requirements for operation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392326",
+      "number": "639.2326",
+      "heading": "Pharmacies",
+      "text": "in correctional institutions: Supervision by prescribing practitioner or\n\nlicensed pharmacy; security; records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392327",
+      "number": "639.2327",
+      "heading": "Maintenance",
+      "text": "of stocks of drugs by certain facilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63923275",
+      "number": "639.23275",
+      "heading": "Delivery",
+      "text": "of controlled substance or dangerous drug to hospital, recovery center,\n\nfacility for intermediate care or facility for skilled nursing which does not\n\nhave pharmacy on premises.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63923277",
+      "number": "639.23277",
+      "heading": "Remote",
+      "text": "sites and satellite consultation sites: Location; operation; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63923279",
+      "number": "639.23279",
+      "heading": "Pharmacy",
+      "text": "located outside Nevada that dispenses prescriptions to patients located in\n\nNevada: Definition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392328",
+      "number": "639.2328",
+      "heading": "Pharmacy",
+      "text": "located outside Nevada that dispenses prescriptions to patients located in\n\nNevada: Licensing; requirements; notice of licensing of such Canadian\n\npharmacies; recommendation that such licensed Canadian pharmacy be included on\n\nwebsite.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63923282",
+      "number": "639.23282",
+      "heading": "Pharmacy",
+      "text": "located outside Nevada that dispenses prescriptions to patients located in\n\nNevada: Considerations required by Board before issuing license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63923284",
+      "number": "639.23284",
+      "heading": "Pharmacy",
+      "text": "located outside Nevada that dispenses prescriptions to patients located in\n\nNevada: Requirements to dispense prescriptions to patients; restrictions on\n\nsuch Canadian pharmacies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63923286",
+      "number": "639.23286",
+      "heading": "Pharmacy",
+      "text": "located outside Nevada that dispenses prescriptions to patients located in\n\nNevada: Substitution of drug; toll-free telephone service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63923288",
+      "number": "639.23288",
+      "heading": "Internet",
+      "text": "pharmacy: Certification required; regulations; Board required to post on\n\nInternet site list of certified Internet pharmacies and related information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639233",
+      "number": "639.233",
+      "heading": "License",
+      "text": "required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639234",
+      "number": "639.234",
+      "heading": "Records:",
+      "text": "Consent to inspection; copying and removal; duty to furnish copies upon demand;\n\ndesignation of out-of-state representative of Board; administrative penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392345",
+      "number": "639.2345",
+      "heading": "Sale",
+      "text": "of veterinary drugs: Permit required; regulations; exemption.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639235",
+      "number": "639.235",
+      "heading": "Persons",
+      "text": "authorized to prescribe and write prescriptions; procedure for filling certain\n\nprescriptions written by persons not licensed in this State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63923505",
+      "number": "639.23505",
+      "heading": "Conditions",
+      "text": "and limitations on practitioner dispensing controlled substances or dangerous\n\ndrugs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63923507",
+      "number": "639.23507",
+      "heading": "Patient",
+      "text": "utilization report required before initiating prescription and periodically thereafter\n\nfor controlled substance in certain circumstances; exceptions; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392351",
+      "number": "639.2351",
+      "heading": "Advanced",
+      "text": "practice registered nurse: Authority to prescribe controlled substances,\n\npoisons, dangerous drugs and devices; registration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392352",
+      "number": "639.2352",
+      "heading": "Inclusion",
+      "text": "of information regarding symptom or purpose of prescription on label attached\n\nto container; practitioners required to post notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392353",
+      "number": "639.2353",
+      "heading": "Transmission",
+      "text": "of prescriptions other than prescriptions for controlled substances to\n\npharmacist: Authorized methods; contents of and requirements for written\n\nprescription; authentication of prescription given by electronic transmission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63923535",
+      "number": "639.23535",
+      "heading": "Electronic",
+      "text": "transmission of prescriptions for controlled substances to pharmacy required;\n\nexceptions; exemptions; alternative methods if excepted or exempted;\n\nconstruction of section; regulations; penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392355",
+      "number": "639.2355",
+      "heading": "Practitioner",
+      "text": "liable for prescription orally transmitted by agent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392357",
+      "number": "639.2357",
+      "heading": "Transfer",
+      "text": "of prescription or order to obtain and maintain auto-injectable epinephrine or\n\nan opioid antagonist to another pharmacist upon request of patient, school or\n\nauthorized entity; immunity from liability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639236",
+      "number": "639.236",
+      "heading": "Numbering,",
+      "text": "filing and retention of prescriptions; inspection of files; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639238",
+      "number": "639.238",
+      "heading": "Prescriptions",
+      "text": "not public records; pharmacists not to divulge contents; exceptions; procedure\n\nfor providing copy of prescription to authorized persons and other pharmacists.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639239",
+      "number": "639.239",
+      "heading": "Use",
+      "text": "of prescription as evidence in criminal, civil or administrative action or\n\nproceeding: Request for copy; removal of original prescription from file and\n\nsubstitution of copy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392391",
+      "number": "639.2391",
+      "heading": "Required",
+      "text": "documentation for prescription of certain controlled substances for treatment\n\nof pain; prohibition on issuing initial prescription for certain controlled\n\nsubstances in certain quantities and amounts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63923911",
+      "number": "639.23911",
+      "heading": "Initial",
+      "text": "prescription for certain controlled substances for treatment of pain:\n\nRequirements for issuance; condition on issuing additional prescriptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63923912",
+      "number": "639.23912",
+      "heading": "Initial",
+      "text": "prescription for certain controlled substances for treatment of pain:\n\nRequirements for evaluation and risk assessment of patient; contents and\n\ndocumentation of informed consent of patient.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63923913",
+      "number": "639.23913",
+      "heading": "Requirements",
+      "text": "for prescribing certain controlled substances to patients who have used\n\ncontrolled substance for 90 consecutive days; revised treatment plan required\n\nfor such prescription.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63923914",
+      "number": "639.23914",
+      "heading": "Prescription",
+      "text": "medication agreement required for prescriptions for certain controlled\n\nsubstances issued for more than 30 days; contents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639239145",
+      "number": "639.239145",
+      "heading": "Prescriptions",
+      "text": "for certain controlled substances for treatment of pain of patients diagnosed\n\nwith cancer or sickle cell disease or receiving hospice care or palliative\n\ncare.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63923916",
+      "number": "639.23916",
+      "heading": "Regulations;",
+      "text": "explanation or technical advisory bulletin for certain professional licensing\n\nboards regarding relevant law; effect of violation of certain provisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392392",
+      "number": "639.2392",
+      "heading": "Controlled",
+      "text": "substance or dangerous drug: Records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392393",
+      "number": "639.2393",
+      "heading": "Controlled",
+      "text": "substance or dangerous drug: Limitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392394",
+      "number": "639.2394",
+      "heading": "Controlled",
+      "text": "substance or dangerous drug: Exercise of judgment by pharmacist.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392395",
+      "number": "639.2395",
+      "heading": "Early",
+      "text": "refills for topical ophthalmic products authorized under certain circumstances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392396",
+      "number": "639.2396",
+      "heading": "Specific",
+      "text": "authorization; limitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63923965",
+      "number": "639.23965",
+      "heading": "Dispensing",
+      "text": "of certain prescription drugs to patients who reside in area for which declared\n\ndisaster or state of emergency is in effect: Conditions; requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392397",
+      "number": "639.2397",
+      "heading": "Rescission",
+      "text": "of authorization.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639241",
+      "number": "639.241",
+      "heading": "Accusation:",
+      "text": "Form, contents and signature.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639242",
+      "number": "639.242",
+      "heading": "Service",
+      "text": "on respondent of copies of accusation, statement and forms for Notice of\n\nDefense.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639243",
+      "number": "639.243",
+      "heading": "Statement",
+      "text": "to Respondent: Contents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639244",
+      "number": "639.244",
+      "heading": "Notice",
+      "text": "of Defense: Form; effect of failure to file.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392445",
+      "number": "639.2445",
+      "heading": "Physical",
+      "text": "or mental examination of holder of certificate believed to be incompetent;\n\ncompetency hearing; probation for use of alcohol or drugs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639245",
+      "number": "639.245",
+      "heading": "Notice",
+      "text": "of hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639246",
+      "number": "639.246",
+      "heading": "Subpoenas;",
+      "text": "payment of witness fees and expenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639247",
+      "number": "639.247",
+      "heading": "Hearing:",
+      "text": "Procedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639248",
+      "number": "639.248",
+      "heading": "Hearing:",
+      "text": "Use of hearsay evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392485",
+      "number": "639.2485",
+      "heading": "Certain",
+      "text": "records relating to investigation deemed confidential; certain records relating\n\nto disciplinary action deemed public records; disclosure of certain information\n\nrelating to dangerous drugs and controlled substances; duties of Board upon\n\nrequest or subpoena for records or information; retention of complaints.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639249",
+      "number": "639.249",
+      "heading": "Contempt.",
+      "text": "Contempt.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639251",
+      "number": "639.251",
+      "heading": "Decision;",
+      "text": "order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639252",
+      "number": "639.252",
+      "heading": "Rehearing.",
+      "text": "Rehearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639253",
+      "number": "639.253",
+      "heading": "Order",
+      "text": "following rehearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392535",
+      "number": "639.2535",
+      "heading": "Judicial",
+      "text": "review.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639255",
+      "number": "639.255",
+      "heading": "Authorized",
+      "text": "disciplinary action; judicial review of such action; fines; private reprimands\n\nprohibited; orders imposing discipline deemed public records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392555",
+      "number": "639.2555",
+      "heading": "Suspension",
+      "text": "of certificate or license for failure to pay child support or comply with\n\ncertain subpoenas or warrants; reinstatement of certificate or license. [Effective\n\nuntil 2 years after the date of the repeal of 42 U.S.C. � 666, the federal law\n\nrequiring each state to establish procedures for withholding, suspending and\n\nrestricting the professional, occupational and recreational licenses for child\n\nsupport arrearages and for noncompliance with certain processes relating to\n\npaternity or child support proceedings.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639256",
+      "number": "639.256",
+      "heading": "Automatic",
+      "text": "restoration of certificate, license or permit suspended for a specified period.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392565",
+      "number": "639.2565",
+      "heading": "Reinstatement",
+      "text": "of suspended certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639257",
+      "number": "639.257",
+      "heading": "Reinstatement",
+      "text": "of revoked certificate, license or permit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392575",
+      "number": "639.2575",
+      "heading": "Disciplinary",
+      "text": "action by hearing officer or panel: Procedural requirements; powers and duties\n\nof officer or panel; appeals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392576",
+      "number": "639.2576",
+      "heading": "Immunity",
+      "text": "from civil action for assisting administrative proceeding.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639258",
+      "number": "639.258",
+      "heading": "Filing",
+      "text": "of complaint.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392583",
+      "number": "639.2583",
+      "heading": "General",
+      "text": "requirements governing substitution; procedure; limitations; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392587",
+      "number": "639.2587",
+      "heading": "Name",
+      "text": "of manufacturer, packer or distributor of generic drug or interchangeable\n\nbiological product required to be noted on prescription; indication of\n\nsubstitution on label; exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392588",
+      "number": "639.2588",
+      "heading": "Manufacturer�s",
+      "text": "product identification code to be on certain dispensed tablets and capsules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392589",
+      "number": "639.2589",
+      "heading": "Form",
+      "text": "for prescription required to contain line for practitioner�s signature;\n\nsubstitutions in filling prescriptions in certain facilities; substitutions in\n\nfilling prescriptions ordered on patient�s chart in hospital.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639259",
+      "number": "639.259",
+      "heading": "Employer",
+      "text": "of pharmacist prohibited from requiring pharmacist to dispense specific generic\n\ndrug or interchangeable biological product in certain circumstances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392592",
+      "number": "639.2592",
+      "heading": "Dispensing",
+      "text": "pharmacist required to make record of dispensed biological product; recordation\n\noptions; record deemed notice to prescriber; alternative types of notice;\n\nexceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392595",
+      "number": "639.2595",
+      "heading": "Liability",
+      "text": "of pharmacist or practitioner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392596",
+      "number": "639.2596",
+      "heading": "Board",
+      "text": "required to maintain link on Internet website to certain list of licensed\n\nbiological products.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392597",
+      "number": "639.2597",
+      "heading": "Use",
+      "text": "of list of biologically equivalent drugs or interchangeable biological\n\nproducts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392623",
+      "number": "639.2623",
+      "heading": "Authority;",
+      "text": "requirements to enter into collaborative practice agreement; duties of\n\npharmacist; patient consent required; conditions and limitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392627",
+      "number": "639.2627",
+      "heading": "Requirements",
+      "text": "for contents of and submission of collaborative practice agreement; expiration\n\nand renewal of agreement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392629",
+      "number": "639.2629",
+      "heading": "Written",
+      "text": "guidelines and protocols authorizing collaborative drug therapy management:\n\nRequired provisions; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639263",
+      "number": "639.263",
+      "heading": "False",
+      "text": "or misleading advertising.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639264",
+      "number": "639.264",
+      "heading": "Prohibition",
+      "text": "against unearned rebate, refund or other consideration for referrals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639265",
+      "number": "639.265",
+      "heading": "Pharmacists",
+      "text": "may trade or exchange drugs if necessary for business.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392655",
+      "number": "639.2655",
+      "heading": "Use",
+      "text": "of computerized mechanical equipment to perform act required to be performed by\n\npharmacist.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639266",
+      "number": "639.266",
+      "heading": "Communication",
+      "text": "of information to patient or person caring for patient.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392665",
+      "number": "639.2665",
+      "heading": "Required",
+      "text": "posting or provision of written instructions relating to safe disposal of\n\nunused drugs by retail community pharmacy; penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639267",
+      "number": "639.267",
+      "heading": "Return,",
+      "text": "reissuance or transfer of unused drugs: Drugs packaged in unit doses generally;\n\nregulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392675",
+      "number": "639.2675",
+      "heading": "Return,",
+      "text": "reissuance or transfer of unused drugs: Drugs dispensed by pharmacy to offender\n\nin correctional institution; written procedures for returning; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392676",
+      "number": "639.2676",
+      "heading": "Unused",
+      "text": "drugs transferred to nonprofit pharmacy: Authority to reissue; immunity from\n\ncivil and criminal liability and disciplinary action; written procedures for\n\naccepting and reissuing; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639268",
+      "number": "639.268",
+      "heading": "Purchase",
+      "text": "of controlled substances, poisons, dangerous drugs and devices by practitioner;\n\nacquisition of controlled substances and dangerous drugs directly from\n\noutsourcing facility; sale of controlled substances or dangerous drugs to\n\npersons or agencies which provide emergency care; records; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639270",
+      "number": "639.270",
+      "heading": "Sales",
+      "text": "of unrestricted drugs, medicines, remedies, poisons or chemicals by grocers and\n\ndealers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639275",
+      "number": "639.275",
+      "heading": "Computer",
+      "text": "or other electronic device provided to practitioner by pharmacy or insurer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392801",
+      "number": "639.2801",
+      "heading": "Requirements",
+      "text": "for labeling containers for prescribed drugs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63928013",
+      "number": "639.28013",
+      "heading": "Duty",
+      "text": "to provide certain information for prescribed drugs in English and certain\n\nother languages upon request; exception; posting of rights and list of\n\nlanguages; regulations; civil liability related to contracts for translation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63928015",
+      "number": "639.28015",
+      "heading": "Retail",
+      "text": "community pharmacy required to provide notice of availability of prescription\n\nreader; provision of prescription reader; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392802",
+      "number": "639.2802",
+      "heading": "Availability",
+      "text": "of information concerning prices of prescriptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63928025",
+      "number": "639.28025",
+      "heading": "Notice",
+      "text": "of availability of list of prices for drugs and professional services to be\n\nposted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392803",
+      "number": "639.2803",
+      "heading": "Dispensing",
+      "text": "specific drugs when choice of drugs available.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392804",
+      "number": "639.2804",
+      "heading": "Filling",
+      "text": "prescriptions for amygdalin and procaine hydrochloride.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392805",
+      "number": "639.2805",
+      "heading": "Substances",
+      "text": "licensed for manufacture in Nevada: Filling prescriptions; labeling of\n\ncontainers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392806",
+      "number": "639.2806",
+      "heading": "Parenteral",
+      "text": "solutions: Limitation on sale and dispensing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392807",
+      "number": "639.2807",
+      "heading": "Parenteral",
+      "text": "solutions: Compounding, packaging and labeling; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63928075",
+      "number": "639.28075",
+      "heading": "Requirements",
+      "text": "for filling prescription for drug used for contraception; refills; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63928077",
+      "number": "639.28077",
+      "heading": "Self-administered",
+      "text": "hormonal contraceptive: Establishment of protocol for dispensing; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63928078",
+      "number": "639.28078",
+      "heading": "Self-administered",
+      "text": "hormonal contraceptive: Conditions and requirements for dispensing;\n\nnotification to Board; posting by Board of names of notifying pharmacies on\n\nInternet website.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63928079",
+      "number": "639.28079",
+      "heading": "Medication-assisted",
+      "text": "treatment of opioid use disorder: Conditions under which pharmacist registered\n\nwith Board is authorized to assess and counsel patient and prescribe and\n\ndispense drug; regulations regarding registration and establishment of\n\nprotocol.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392808",
+      "number": "639.2808",
+      "heading": "Performance",
+      "text": "of blood glucose test by registered pharmacist or registered intern pharmacist.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63928085",
+      "number": "639.28085",
+      "heading": "Certain",
+      "text": "drugs for preventing acquisition of human immunodeficiency virus: Ordering and\n\nperforming necessary laboratory tests for therapy; prescribing, dispensing and\n\nadministering; coverage by liability insurance; protocol; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-63928095",
+      "number": "639.28095",
+      "heading": "Pharmacist",
+      "text": "employed by off-site pharmaceutical service provider to provide remote chart\n\norder processing services to hospital or correctional institution required to\n\nbe registered with Board; duty of off-site pharmaceutical service provider to\n\nensure compliance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639281",
+      "number": "639.281",
+      "heading": "False",
+      "text": "representations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392813",
+      "number": "639.2813",
+      "heading": "False",
+      "text": "representation as practitioner or agent; penalties; unauthorized transmission\n\nof order for prescription by agent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392815",
+      "number": "639.2815",
+      "heading": "Fraudulent",
+      "text": "or excessive charge or claim under program of public assistance; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639282",
+      "number": "639.282",
+      "heading": "Unlawful",
+      "text": "possession or sale of certain pharmaceutical preparations, drugs or chemicals;\n\ndestruction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392825",
+      "number": "639.2825",
+      "heading": "Unlawful",
+      "text": "to sell, furnish or fit contact lens; exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639283",
+      "number": "639.283",
+      "heading": "Use",
+      "text": "of intoxicating liquor, depressant drug or controlled substance while on duty\n\nprohibited; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639284",
+      "number": "639.284",
+      "heading": "Unlawful",
+      "text": "dispensing and sales; penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392845",
+      "number": "639.2845",
+      "heading": "Selling",
+      "text": "or dispensing of procaine hydrochloride.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639285",
+      "number": "639.285",
+      "heading": "Unlawful",
+      "text": "sales by unlicensed persons; penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639286",
+      "number": "639.286",
+      "heading": "Violation",
+      "text": "of Board�s regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639287",
+      "number": "639.287",
+      "heading": "Requirement",
+      "text": "to furnish information concerning owners, partners, officers and employees;\n\npenalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639288",
+      "number": "639.288",
+      "heading": "Unlawful",
+      "text": "sales by wholesalers and manufacturers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639289",
+      "number": "639.289",
+      "heading": "Inspection",
+      "text": "of premises by Board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392893",
+      "number": "639.2893",
+      "heading": "Practicing",
+      "text": "or offering to practice without license: Reporting requirements of Board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6392895",
+      "number": "639.2895",
+      "heading": "Practicing",
+      "text": "or offering to practice without license: Penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639300",
+      "number": "639.300",
+      "heading": "Recovery",
+      "text": "of penalties; conduct of actions and prosecutions by district attorney.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639310",
+      "number": "639.310",
+      "heading": "Criminal",
+      "text": "penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639400",
+      "number": "639.400",
+      "heading": "Product",
+      "text": "that is a precursor to methamphetamine� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639410",
+      "number": "639.410",
+      "heading": "Sales",
+      "text": "of products that are precursors to methamphetamine.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639420",
+      "number": "639.420",
+      "heading": "Report",
+      "text": "of unusual or excessive loss or disappearance of products that are precursors\n\nto methamphetamine by pharmacy: Requirement; exception; contents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639430",
+      "number": "639.430",
+      "heading": "Real-time,",
+      "text": "stop sale system: Conditions for approval; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639440",
+      "number": "639.440",
+      "heading": "Real-time,",
+      "text": "stop sale system: Notification of pharmacies; duties of pharmacy; civil\n\nimmunity; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639450",
+      "number": "639.450",
+      "heading": "Real-time,",
+      "text": "stop sale system: Immunity of Board from liability for unauthorized access or\n\nmisuse of information collected by or derived from system.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639500",
+      "number": "639.500",
+      "heading": "Submission",
+      "text": "of fingerprints and information concerning certain persons associated with\n\nwholesaler; issuance of provisional license; prohibitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639505",
+      "number": "639.505",
+      "heading": "Submission",
+      "text": "of updated information concerning certain persons associated with wholesaler;\n\nsubmission of additional fingerprints; prohibitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639510",
+      "number": "639.510",
+      "heading": "Protection",
+      "text": "of certain information obtained by Board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639515",
+      "number": "639.515",
+      "heading": "Bond",
+      "text": "or other form of security required; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639535",
+      "number": "639.535",
+      "heading": "Statement",
+      "text": "of prior sales� or �statement� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639540",
+      "number": "639.540",
+      "heading": "Duties",
+      "text": "of Board; requirements concerning use, form and contents of statement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639545",
+      "number": "639.545",
+      "heading": "Prohibited",
+      "text": "transactions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639550",
+      "number": "639.550",
+      "heading": "Unlawful",
+      "text": "acts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639555",
+      "number": "639.555",
+      "heading": "Additional",
+      "text": "unlawful acts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639570",
+      "number": "639.570",
+      "heading": "Duty",
+      "text": "of wholesalers or manufacturers who employ person to sell or market drug,\n\nmedicine, chemical, device or appliance; submission of information annually to\n\nBoard; Board to report certain information to Governor and Legislature; duties\n\nof Board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639573",
+      "number": "639.573",
+      "heading": "Conditions",
+      "text": "under which manufacturer or wholesaler is authorized to dispense dialysate drug\n\nor deliver device necessary to administer dialysis at residence; authority for\n\nuse of third-party logistics provider for delivery.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639575",
+      "number": "639.575",
+      "heading": "Information",
+      "text": "regarding other wholesalers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639580",
+      "number": "639.580",
+      "heading": "Evidence",
+      "text": "regarding due diligence; prohibited business relationships.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639585",
+      "number": "639.585",
+      "heading": "On-site",
+      "text": "inspections; agreements with other wholesalers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639590",
+      "number": "639.590",
+      "heading": "Certification",
+      "text": "regarding other wholesalers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-639595",
+      "number": "639.595",
+      "heading": "Transactions",
+      "text": "involving prescription drugs.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

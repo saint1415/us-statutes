@@ -1,0 +1,790 @@
+{
+  "state": "nevada",
+  "path": "title-nrs-671/chapter-nrs-671",
+  "sections": [
+    {
+      "id": "section-671004",
+      "number": "671.004",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6710045",
+      "number": "671.0045",
+      "heading": "Authorized",
+      "text": "delegate� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671005",
+      "number": "671.005",
+      "heading": "Average",
+      "text": "daily money transmission liability� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6710055",
+      "number": "671.0055",
+      "heading": "Bank",
+      "text": "Secrecy Act� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671006",
+      "number": "671.006",
+      "heading": "Calendar",
+      "text": "quarter� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6710065",
+      "number": "671.0065",
+      "heading": "Closed",
+      "text": "loop stored value� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671007",
+      "number": "671.007",
+      "heading": "Control�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6710075",
+      "number": "671.0075",
+      "heading": "Eligible",
+      "text": "rating� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671008",
+      "number": "671.008",
+      "heading": "Eligible",
+      "text": "rating service� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6710085",
+      "number": "671.0085",
+      "heading": "Federally",
+      "text": "insured depository financial institution� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671009",
+      "number": "671.009",
+      "heading": "Key",
+      "text": "individual� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6710095",
+      "number": "671.0095",
+      "heading": "Licensee�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671010",
+      "number": "671.010",
+      "heading": "Definitions.",
+      "text": "[Repealed.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6710105",
+      "number": "671.0105",
+      "heading": "Material",
+      "text": "litigation� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671011",
+      "number": "671.011",
+      "heading": "Monetary",
+      "text": "value� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6710115",
+      "number": "671.0115",
+      "heading": "Money�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671012",
+      "number": "671.012",
+      "heading": "Money",
+      "text": "or credits received for transmission� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6710125",
+      "number": "671.0125",
+      "heading": "Money",
+      "text": "services business accredited state� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671013",
+      "number": "671.013",
+      "heading": "Money",
+      "text": "transmission� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6710135",
+      "number": "671.0135",
+      "heading": "Multistate",
+      "text": "licensing process� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671014",
+      "number": "671.014",
+      "heading": "Nationwide",
+      "text": "Multistate Licensing System and Registry� or �Registry� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6710145",
+      "number": "671.0145",
+      "heading": "Outstanding",
+      "text": "money transmission obligation� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671015",
+      "number": "671.015",
+      "heading": "Passive",
+      "text": "investor� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6710155",
+      "number": "671.0155",
+      "heading": "Payment",
+      "text": "instrument� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671016",
+      "number": "671.016",
+      "heading": "Payroll",
+      "text": "processing services� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6710165",
+      "number": "671.0165",
+      "heading": "Person�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671017",
+      "number": "671.017",
+      "heading": "Privately",
+      "text": "insured depository financial institution� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6710175",
+      "number": "671.0175",
+      "heading": "Receiving",
+      "text": "money or credits for transmission� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671018",
+      "number": "671.018",
+      "heading": "Stored",
+      "text": "value� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6710185",
+      "number": "671.0185",
+      "heading": "Tangible",
+      "text": "net worth� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671019",
+      "number": "671.019",
+      "heading": "USA",
+      "text": "Patriot Act� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6710195",
+      "number": "671.0195",
+      "heading": "Application",
+      "text": "and construction of chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671020",
+      "number": "671.020",
+      "heading": "Applicability",
+      "text": "of chapter: Generally. [Effective through December 31, 2029.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6710205",
+      "number": "671.0205",
+      "heading": "Applicability",
+      "text": "of chapter: Authority of Commissioner to exempt additional persons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671021",
+      "number": "671.021",
+      "heading": "Applicability",
+      "text": "of chapter: Authority of Commissioner to require demonstration of qualification\n\nfor exemption.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671030",
+      "number": "671.030",
+      "heading": "Regulations.",
+      "text": "[Replaced in revision byNRS 671.355.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671040",
+      "number": "671.040",
+      "heading": "Prohibition",
+      "text": "against engaging in business of money transmission without being licensed or\n\nauthorized delegate and regardless of location or method used.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671050",
+      "number": "671.050",
+      "heading": "Application",
+      "text": "for license: Form and medium; contents; bond or securities; financial\n\nstatement; fees and expenses; regulations; withdrawal of application.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671055",
+      "number": "671.055",
+      "heading": "Application",
+      "text": "for license: Additional requirements. [Repealed.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671060",
+      "number": "671.060",
+      "heading": "Completion",
+      "text": "of application for license; conduct and cost of investigation of applicant;\n\nissuance of license; denial of application; appeal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671070",
+      "number": "671.070",
+      "heading": "Expiration",
+      "text": "and renewal of license; fees; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671080",
+      "number": "671.080",
+      "heading": "License",
+      "text": "not transferable or assignable; business must be conducted at location\n\nspecified in application or operated by authorized delegate; changes in\n\nlocation, name or operation of business.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671090",
+      "number": "671.090",
+      "heading": "Agents",
+      "text": "of licensees: When license required; application; fees; regulations; withdrawal\n\nof application. [Repealed.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671092",
+      "number": "671.092",
+      "heading": "Authority",
+      "text": "of Commissioner to take certain action to establish consistent licensing\n\nbetween states; authority of Commissioner to participate in Nationwide\n\nMultistate Licensing System and Registry; use of Registry for implementation of\n\nrequirements of chapter; charges for use of Registry; regulations; provisions\n\ndo not replace or affect authority of Commissioner regarding licensing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671094",
+      "number": "671.094",
+      "heading": "Authority",
+      "text": "of Commissioner to require submission of fingerprints; use of Nationwide\n\nMultistate Licensing System and Registry for submission and processing of\n\nfingerprints.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671096",
+      "number": "671.096",
+      "heading": "Nationwide",
+      "text": "Multistate Licensing System and Registry: Commissioner required to report\n\ncertain information or material; confidentiality of information or material\n\nprovided; Commissioner authorized to enter into certain agreements and\n\narrangements. [Replaced in revision byNRS\n\n671.405.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671098",
+      "number": "671.098",
+      "heading": "Additional",
+      "text": "materials required to be submitted to Commissioner by certain persons through\n\nNationwide Multistate Licensing System and Registry.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671099",
+      "number": "671.099",
+      "heading": "Licensee",
+      "text": "required to register and maintain unique identifier with Nationwide Multistate\n\nLicensing System and Registry; Commissioner authorized to issue license through\n\nRegistry; references to Commissioner deemed references to Registry.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6710995",
+      "number": "671.0995",
+      "heading": "Suspension",
+      "text": "or revocation of license for failure to meet qualifications or satisfy\n\nrequirements applicable to applicant; applicant required to demonstrate\n\ncompliance with certain requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671100",
+      "number": "671.100",
+      "heading": "Bond:",
+      "text": "Amounts; form; notice to Commissioner of action or judgment; replenishment;\n\nliability of surety; increase in amount; cancellation or alteration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671110",
+      "number": "671.110",
+      "heading": "Deposits",
+      "text": "in lieu of bond.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671115",
+      "number": "671.115",
+      "heading": "Tangible",
+      "text": "net worth: Amount required to be maintained.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671120",
+      "number": "671.120",
+      "heading": "Examination",
+      "text": "of licensee by Commissioner; entry upon premises and access to documents; fee;\n\naudit in lieu of examination. [Replaced in revision byNRS 671.375.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671125",
+      "number": "671.125",
+      "heading": "Permissible",
+      "text": "investments: Duty of licensee to maintain; amount; establishment and\n\ntermination of statutory trust; powers and duties of Commissioner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671135",
+      "number": "671.135",
+      "heading": "Permissible",
+      "text": "investments: Types; limitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671140",
+      "number": "671.140",
+      "heading": "Schedule",
+      "text": "of rates: Posting; excess fees prohibited. [Repealed.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671145",
+      "number": "671.145",
+      "heading": "Permissible",
+      "text": "investments: Letter of credit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671150",
+      "number": "671.150",
+      "heading": "Deposit",
+      "text": "of receipts; commingling prohibited; deposit if license suspended or\n\nterminated; assets must cover liabilities. [Repealed.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671155",
+      "number": "671.155",
+      "heading": "Acquisition",
+      "text": "of control of licensee: Approval of Commissioner required; application;\n\ninvestigation; conditions for approval; authority of Commissioner if applicant\n\nis subject to multistate licensing process; denial; appeal; applicability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671160",
+      "number": "671.160",
+      "heading": "Discontinuance",
+      "text": "of licensee�s business: Notice; surrender of license; order of Commissioner;\n\npossession of business and property by Commissioner; appointment of receiver.\n\n[Replaced in revision byNRS 671.425.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671165",
+      "number": "671.165",
+      "heading": "Acquisition",
+      "text": "of control of licensee: Request for determination of whether person will be\n\nconsidered person in control upon consummation of proposed transaction;\n\nauthority of Commissioner if requester is subject to multistate licensing\n\nprocess.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671170",
+      "number": "671.170",
+      "heading": "Investigations",
+      "text": "and hearings; fee; required reports; confidential communications. [Replaced in\n\nrevision byNRS 671.415.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671175",
+      "number": "671.175",
+      "heading": "Acquisition",
+      "text": "of control of licensee: Exceptions from requirements for approval.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671180",
+      "number": "671.180",
+      "heading": "Suspension,",
+      "text": "revocation or denial of renewal of license: Notice; hearing; order; grounds;\n\njudicial review. [Replaced in revision byNRS\n\n671.435.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671183",
+      "number": "671.183",
+      "heading": "Failure",
+      "text": "to submit required report; fees; regulations. [Replaced in revision byNRS 671.475.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671185",
+      "number": "671.185",
+      "heading": "Administrative",
+      "text": "fines. [Replaced in revision byNRS 671.485.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671190",
+      "number": "671.190",
+      "heading": "Unlawful",
+      "text": "acts; penalty; other remedies. [Replaced in revision byNRS 671.495.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671195",
+      "number": "671.195",
+      "heading": "Addition",
+      "text": "or replacement of key individual: Notice and information required to be\n\nprovided to Commissioner; notice of disapproval; appeal; authority of\n\nCommissioner if licensee is subject to multistate licensing process.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671205",
+      "number": "671.205",
+      "heading": "Required",
+      "text": "actions of licensee before engaging in money transmission through or allowing\n\nperson to act as authorized delegate; authorized delegate to operate in\n\ncompliance with chapter; required contract between licensee and authorized\n\ndelegate; procedures upon suspension, revocation, surrender or expiration of\n\nlicense of licensee; money held in trust; use of subdelegate prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671215",
+      "number": "671.215",
+      "heading": "Engaging",
+      "text": "in money transmission on behalf of unlicensed or nonexempt person prohibited;\n\nliability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671225",
+      "number": "671.225",
+      "heading": "Failure",
+      "text": "to remit money as required: Relief authorized in action by licensee against\n\nauthorized delegate; notification by licensee required upon issuance of order\n\nprohibiting person from acting as authorized delegate; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671235",
+      "number": "671.235",
+      "heading": "Circumstances",
+      "text": "under which transaction involving money transmission is deemed to take place in\n\nthis State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671245",
+      "number": "671.245",
+      "heading": "Money",
+      "text": "or credit received for transmission required to be forwarded in accordance with\n\nagreement between licensee and sender; licensee required to respond to\n\ninquiries upon failure to forward; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671255",
+      "number": "671.255",
+      "heading": "Refund",
+      "text": "required upon written request; exceptions; applicability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671265",
+      "number": "671.265",
+      "heading": "Receipt",
+      "text": "required for all money or credits received for transmission; exceptions;\n\nrequirements for receipt.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671275",
+      "number": "671.275",
+      "heading": "Duties",
+      "text": "of licensee providing payroll processing services; exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671285",
+      "number": "671.285",
+      "heading": "Annual",
+      "text": "filing of financial statement and other information with Commissioner;\n\nrequirements for financial statement; order to remove qualification in\n\nfinancial statement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671295",
+      "number": "671.295",
+      "heading": "Filing",
+      "text": "of reports required by Bank Secrecy Act and other laws pertaining to money\n\nlaundering.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671305",
+      "number": "671.305",
+      "heading": "Quarterly",
+      "text": "report of condition: Submission; contents; authority of Commissioner to waive,\n\nmodify or alter requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671315",
+      "number": "671.315",
+      "heading": "Quarterly",
+      "text": "report concerning authorized delegates: Submission; contents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671325",
+      "number": "671.325",
+      "heading": "Filing",
+      "text": "of report upon occurrence of certain events.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671335",
+      "number": "671.335",
+      "heading": "Records:",
+      "text": "Maintenance; open to inspection by Commissioner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671345",
+      "number": "671.345",
+      "heading": "Administration,",
+      "text": "interpretation and enforcement of chapter: Powers and duties of Commissioner;\n\nregulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671355",
+      "number": "671.355",
+      "heading": "Regulations.",
+      "text": "Regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671365",
+      "number": "671.365",
+      "heading": "Confidentiality",
+      "text": "of certain information and documents; authority of Commissioner to disclose\n\nconfidential information to certain persons; information that is not\n\nconfidential authorized to be made available on Internet website of Division of\n\nFinancial Institutions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671375",
+      "number": "671.375",
+      "heading": "Examination",
+      "text": "of licensee or authorized delegate by Commissioner; authorized actions to\n\nadminister and enforce chapter; authorized actions to conduct examination;\n\nprovision of records required; use of multistate standards and procedures;\n\nfees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671385",
+      "number": "671.385",
+      "heading": "Authority",
+      "text": "of Commissioner to participate in multistate supervisory processes; authority\n\nto conduct examination or investigation or otherwise take action not waived;\n\nfees not waived.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671395",
+      "number": "671.395",
+      "heading": "Inconsistencies",
+      "text": "between provisions of chapter and federal law governed by federal law;\n\nauthority of Commissioner to provide interpretive guidance concerning\n\ninconsistencies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671405",
+      "number": "671.405",
+      "heading": "Duty",
+      "text": "of Commissioner to report certain information and material to Nationwide Multistate\n\nLicensing System and Registry; confidentiality of information or material\n\nprovided; authority of Commissioner to enter into certain agreements and\n\narrangements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671415",
+      "number": "671.415",
+      "heading": "Investigations",
+      "text": "and hearings; fee; confidential communications.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671425",
+      "number": "671.425",
+      "heading": "Discontinuance",
+      "text": "of licensee�s business: Notice; surrender of license; order of Commissioner;\n\npossession of business and property by Commissioner; appointment of receiver.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671435",
+      "number": "671.435",
+      "heading": "Suspension,",
+      "text": "revocation or denial of renewal of license: Notice; hearing; order; grounds;\n\nconsiderations in determining whether practice is unsafe or unsound; judicial\n\nreview.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671445",
+      "number": "671.445",
+      "heading": "Suspension",
+      "text": "or revocation of designation of authorized delegate: Grounds; considerations in\n\ndetermining whether practice is unsafe or unsound; relief.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671455",
+      "number": "671.455",
+      "heading": "Order",
+      "text": "to cease and desist violation: Issuance; hearing; petition to set aside, limit\n\nor suspend.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671465",
+      "number": "671.465",
+      "heading": "Consent",
+      "text": "order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671475",
+      "number": "671.475",
+      "heading": "Failure",
+      "text": "to submit required report; fees; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671485",
+      "number": "671.485",
+      "heading": "Administrative",
+      "text": "fines.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-671495",
+      "number": "671.495",
+      "heading": "Unlawful",
+      "text": "acts; penalty; other remedies.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

@@ -1,0 +1,630 @@
+{
+  "state": "south-dakota",
+  "path": "title-title-25-domestic-relations/chapter-chapter-09c-uniform-interstate-family-support-act-2008",
+  "sections": [
+    {
+      "id": "section-25-9c-101",
+      "number": "25-9C-101",
+      "heading": "Short title.Section 25-9C-102 - Definitions",
+      "text": "Section 25-9C-103 - State tribunals and support enforcement agency.Section 25-9C-104 - Remedies cumulative.Section 25-9C-105 - Application to resident of foreign country and foreign support proceeding.Section 25-9C-201 - Bases for jurisdiction over nonresi",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-102",
+      "number": "25-9C-102",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-103",
+      "number": "25-9C-103",
+      "heading": "State tribunals and support enforcement agency.",
+      "text": "State tribunals and support enforcement agency.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-104",
+      "number": "25-9C-104",
+      "heading": "Remedies cumulative.",
+      "text": "Remedies cumulative.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-105",
+      "number": "25-9C-105",
+      "heading": "Application to resident of foreign country and foreign support proceeding.",
+      "text": "Application to resident of foreign country and foreign support proceeding.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-201",
+      "number": "25-9C-201",
+      "heading": "Bases for jurisdiction over nonresident.",
+      "text": "Bases for jurisdiction over nonresident.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-202",
+      "number": "25-9C-202",
+      "heading": "Duration of personal jurisdiction.",
+      "text": "Duration of personal jurisdiction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-203",
+      "number": "25-9C-203",
+      "heading": "Initiating and responding tribunal of state.",
+      "text": "Initiating and responding tribunal of state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-204",
+      "number": "25-9C-204",
+      "heading": "Simultaneous proceedings.",
+      "text": "Simultaneous proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-205",
+      "number": "25-9C-205",
+      "heading": "Continuing, exclusive jurisdiction to modify child support order.",
+      "text": "Continuing, exclusive jurisdiction to modify child support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-206",
+      "number": "25-9C-206",
+      "heading": "Continuing jurisdiction to enforce child support order.",
+      "text": "Continuing jurisdiction to enforce child support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-207",
+      "number": "25-9C-207",
+      "heading": "Determination of controlling child support order.",
+      "text": "Determination of controlling child support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-208",
+      "number": "25-9C-208",
+      "heading": "Child support order for two or more obligees.",
+      "text": "Child support order for two or more obligees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-209",
+      "number": "25-9C-209",
+      "heading": "Credit for payments.",
+      "text": "Credit for payments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-210",
+      "number": "25-9C-210",
+      "heading": "Application to nonresident subject to personal jurisdiction.",
+      "text": "Application to nonresident subject to personal jurisdiction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-211",
+      "number": "25-9C-211",
+      "heading": "Continuing, exclusive jurisdiction to modify spousal support order.",
+      "text": "Continuing, exclusive jurisdiction to modify spousal support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-301",
+      "number": "25-9C-301",
+      "heading": "Proceedings under this chapter.",
+      "text": "Proceedings under this chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-302",
+      "number": "25-9C-302",
+      "heading": "Proceeding by minor parent.",
+      "text": "Proceeding by minor parent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-303",
+      "number": "25-9C-303",
+      "heading": "Application of law of state.",
+      "text": "Application of law of state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-304",
+      "number": "25-9C-304",
+      "heading": "Duties of initiating tribunal.",
+      "text": "Duties of initiating tribunal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-305",
+      "number": "25-9C-305",
+      "heading": "Duties and powers of responding tribunal.",
+      "text": "Duties and powers of responding tribunal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-306",
+      "number": "25-9C-306",
+      "heading": "Inappropriate tribunal.",
+      "text": "Inappropriate tribunal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-307",
+      "number": "25-9C-307",
+      "heading": "Duties of support enforcement agency.",
+      "text": "Duties of support enforcement agency.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-308",
+      "number": "25-9C-308",
+      "heading": "Duty of attorney general.",
+      "text": "Duty of attorney general.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-309",
+      "number": "25-9C-309",
+      "heading": "Private counsel.",
+      "text": "Private counsel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-310",
+      "number": "25-9C-310",
+      "heading": "Duties of state information agency.",
+      "text": "Duties of state information agency.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-311",
+      "number": "25-9C-311",
+      "heading": "Pleading and accompanying documents.",
+      "text": "Pleading and accompanying documents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-312",
+      "number": "25-9C-312",
+      "heading": "Nondisclosure of information in exceptional circumstances.",
+      "text": "Nondisclosure of information in exceptional circumstances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-313",
+      "number": "25-9C-313",
+      "heading": "Costs and fees.",
+      "text": "Costs and fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-314",
+      "number": "25-9C-314",
+      "heading": "Limited immunity of petitioner.",
+      "text": "Limited immunity of petitioner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-315",
+      "number": "25-9C-315",
+      "heading": "Nonparentage as defense.",
+      "text": "Nonparentage as defense.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-316",
+      "number": "25-9C-316",
+      "heading": "Special rules of evidence and procedure.",
+      "text": "Special rules of evidence and procedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-317",
+      "number": "25-9C-317",
+      "heading": "Communications between tribunals.",
+      "text": "Communications between tribunals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-318",
+      "number": "25-9C-318",
+      "heading": "Assistance with discovery.",
+      "text": "Assistance with discovery.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-319",
+      "number": "25-9C-319",
+      "heading": "Receipt and disbursement of payments.",
+      "text": "Receipt and disbursement of payments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-401",
+      "number": "25-9C-401",
+      "heading": "Establishment of support order.",
+      "text": "Establishment of support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-402",
+      "number": "25-9C-402",
+      "heading": "Proceeding to determine parentage.",
+      "text": "Proceeding to determine parentage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-501",
+      "number": "25-9C-501",
+      "heading": "Employer's receipt of income withholding order of another state.",
+      "text": "Employer's receipt of income withholding order of another state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-502",
+      "number": "25-9C-502",
+      "heading": "Employer's compliance with income withholding order of another state.",
+      "text": "Employer's compliance with income withholding order of another state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-503",
+      "number": "25-9C-503",
+      "heading": "Employer's compliance with two or more income withholding orders.",
+      "text": "Employer's compliance with two or more income withholding orders.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-504",
+      "number": "25-9C-504",
+      "heading": "Immunity from civil liability.",
+      "text": "Immunity from civil liability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-505",
+      "number": "25-9C-505",
+      "heading": "Penalties for noncompliance.",
+      "text": "Penalties for noncompliance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-506",
+      "number": "25-9C-506",
+      "heading": "Contest by obligor.",
+      "text": "Contest by obligor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-507",
+      "number": "25-9C-507",
+      "heading": "Administrative enforcement of orders.",
+      "text": "Administrative enforcement of orders.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-601",
+      "number": "25-9C-601",
+      "heading": "Registration of order for enforcement.",
+      "text": "Registration of order for enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-602",
+      "number": "25-9C-602",
+      "heading": "Procedure to register order for enforcement.",
+      "text": "Procedure to register order for enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-603",
+      "number": "25-9C-603",
+      "heading": "Effect of registration for enforcement.",
+      "text": "Effect of registration for enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-604",
+      "number": "25-9C-604",
+      "heading": "Choice of law.",
+      "text": "Choice of law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-605",
+      "number": "25-9C-605",
+      "heading": "Notice of registration of order.",
+      "text": "Notice of registration of order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-606",
+      "number": "25-9C-606",
+      "heading": "Procedure to contest validity or enforcement of registered support order.",
+      "text": "Procedure to contest validity or enforcement of registered support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-607",
+      "number": "25-9C-607",
+      "heading": "Contest of registration or enforcement.",
+      "text": "Contest of registration or enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-608",
+      "number": "25-9C-608",
+      "heading": "Confirmed order.",
+      "text": "Confirmed order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-609",
+      "number": "25-9C-609",
+      "heading": "Procedure to register child support order of another state for modification.",
+      "text": "Procedure to register child support order of another state for modification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-610",
+      "number": "25-9C-610",
+      "heading": "Effect of registration for modification.",
+      "text": "Effect of registration for modification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-611",
+      "number": "25-9C-611",
+      "heading": "Modification of child support order of another state.",
+      "text": "Modification of child support order of another state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-612",
+      "number": "25-9C-612",
+      "heading": "Recognition of order modified in another state.",
+      "text": "Recognition of order modified in another state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-613",
+      "number": "25-9C-613",
+      "heading": "Jurisdiction to modify child support order of another state when individual parties reside in this state.",
+      "text": "Jurisdiction to modify child support order of another state when individual parties reside in this state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-614",
+      "number": "25-9C-614",
+      "heading": "Notice to issuing tribunal of modification.",
+      "text": "Notice to issuing tribunal of modification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-615",
+      "number": "25-9C-615",
+      "heading": "Jurisdiction to modify child support order of foreign country.",
+      "text": "Jurisdiction to modify child support order of foreign country.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-616",
+      "number": "25-9C-616",
+      "heading": "Procedure to register child support order of foreign country for modification.",
+      "text": "Procedure to register child support order of foreign country for modification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-701",
+      "number": "25-9C-701",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-702",
+      "number": "25-9C-702",
+      "heading": "Applicability.",
+      "text": "Applicability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-703",
+      "number": "25-9C-703",
+      "heading": "Relationship of department to United States central authority.",
+      "text": "Relationship of department to United States central authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-704",
+      "number": "25-9C-704",
+      "heading": "Initiation by department of support proceeding under Convention.",
+      "text": "Initiation by department of support proceeding under Convention.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-705",
+      "number": "25-9C-705",
+      "heading": "Direct request.",
+      "text": "Direct request.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-706",
+      "number": "25-9C-706",
+      "heading": "Registration of Convention support order.",
+      "text": "Registration of Convention support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-707",
+      "number": "25-9C-707",
+      "heading": "Contest of registered Convention support order.",
+      "text": "Contest of registered Convention support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-708",
+      "number": "25-9C-708",
+      "heading": "Recognition and enforcement of registered Convention support order.",
+      "text": "Recognition and enforcement of registered Convention support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-709",
+      "number": "25-9C-709",
+      "heading": "Partial enforcement.",
+      "text": "Partial enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-710",
+      "number": "25-9C-710",
+      "heading": "Foreign support agreement.",
+      "text": "Foreign support agreement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-711",
+      "number": "25-9C-711",
+      "heading": "Modification of Convention child support order.",
+      "text": "Modification of Convention child support order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-712",
+      "number": "25-9C-712",
+      "heading": "Personal information--Limit on use.",
+      "text": "Personal information--Limit on use.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-713",
+      "number": "25-9C-713",
+      "heading": "Record in original language--English translation.",
+      "text": "Record in original language--English translation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-801",
+      "number": "25-9C-801",
+      "heading": "Grounds for rendition.",
+      "text": "Grounds for rendition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-802",
+      "number": "25-9C-802",
+      "heading": "Conditions for rendition.",
+      "text": "Conditions for rendition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-901",
+      "number": "25-9C-901",
+      "heading": "Uniformity of application and construction.",
+      "text": "Uniformity of application and construction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-902",
+      "number": "25-9C-902",
+      "heading": "Transitional provision.",
+      "text": "Transitional provision.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-25-9c-903",
+      "number": "25-9C-903",
+      "heading": "Severability.",
+      "text": "Severability.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

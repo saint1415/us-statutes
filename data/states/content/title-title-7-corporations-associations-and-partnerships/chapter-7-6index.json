@@ -1,0 +1,934 @@
+{
+  "state": "rhode-island",
+  "path": "title-title-7-corporations-associations-and-partnerships/chapter-7-6index",
+  "sections": [
+    {
+      "id": "section-7-6-1",
+      "number": "7-6-1.",
+      "heading": "Short title.",
+      "text": "Short title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-2",
+      "number": "7-6-2.",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-3",
+      "number": "7-6-3.",
+      "heading": "Corporations to which this chapter applies.",
+      "text": "Corporations to which this chapter applies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-4",
+      "number": "7-6-4.",
+      "heading": "Purposes.",
+      "text": "Purposes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-5",
+      "number": "7-6-5.",
+      "heading": "General powers.",
+      "text": "General powers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-6",
+      "number": "7-6-6.",
+      "heading": "Indemnification.",
+      "text": "Indemnification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-7",
+      "number": "7-6-7.",
+      "heading": "Guarantee authorized by members.",
+      "text": "Guarantee authorized by members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-8",
+      "number": "7-6-8.",
+      "heading": "Limiting powers of certain corporations.",
+      "text": "Limiting powers of certain corporations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-9",
+      "number": "7-6-9.",
+      "heading": "Exemption from liability.",
+      "text": "Exemption from liability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-10",
+      "number": "7-6-10.",
+      "heading": "Defense of ultra vires.",
+      "text": "Defense of ultra vires.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-11",
+      "number": "7-6-11.",
+      "heading": "Corporate name.",
+      "text": "Corporate name.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-111",
+      "number": "7-6-11.1.",
+      "heading": "Reservation of name — Transfer of reserved name.",
+      "text": "Reservation of name — Transfer of reserved name.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-12",
+      "number": "7-6-12.",
+      "heading": "Registered office and registered agent.",
+      "text": "Registered office and registered agent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-13",
+      "number": "7-6-13.",
+      "heading": "Change of registered office or registered agent.",
+      "text": "Change of registered office or registered agent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-14",
+      "number": "7-6-14.",
+      "heading": "Service of process on corporation.",
+      "text": "Service of process on corporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-15",
+      "number": "7-6-15.",
+      "heading": "Members.",
+      "text": "Members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-16",
+      "number": "7-6-16.",
+      "heading": "Bylaws.",
+      "text": "Bylaws.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-17",
+      "number": "7-6-17.",
+      "heading": "Bylaws and other powers in emergency.",
+      "text": "Bylaws and other powers in emergency.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-18",
+      "number": "7-6-18.",
+      "heading": "Meetings of members.",
+      "text": "Meetings of members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-19",
+      "number": "7-6-19.",
+      "heading": "Notice of members’ meetings.",
+      "text": "Notice of members’ meetings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-20",
+      "number": "7-6-20.",
+      "heading": "Voting.",
+      "text": "Voting.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-21",
+      "number": "7-6-21.",
+      "heading": "Quorum.",
+      "text": "Quorum.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-22",
+      "number": "7-6-22.",
+      "heading": "Board of directors.",
+      "text": "Board of directors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-23",
+      "number": "7-6-23.",
+      "heading": "Number and election of directors.",
+      "text": "Number and election of directors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-24",
+      "number": "7-6-24.",
+      "heading": "Vacancies on board of directors.",
+      "text": "Vacancies on board of directors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-25",
+      "number": "7-6-25.",
+      "heading": "Quorum of directors.",
+      "text": "Quorum of directors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-26",
+      "number": "7-6-26.",
+      "heading": "Committees.",
+      "text": "Committees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-261",
+      "number": "7-6-26.1.",
+      "heading": "Director conflicts of interest.",
+      "text": "Director conflicts of interest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-27",
+      "number": "7-6-27.",
+      "heading": "Place and notice of directors’ meetings.",
+      "text": "Place and notice of directors’ meetings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-28",
+      "number": "7-6-28.",
+      "heading": "Officers.",
+      "text": "Officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-29",
+      "number": "7-6-29.",
+      "heading": "Removal of officers.",
+      "text": "Removal of officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-30",
+      "number": "7-6-30.",
+      "heading": "Books and records.",
+      "text": "Books and records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-31",
+      "number": "7-6-31.",
+      "heading": "Dividends prohibited.",
+      "text": "Dividends prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-32",
+      "number": "7-6-32.",
+      "heading": "Loans to directors prohibited.",
+      "text": "Loans to directors prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-33",
+      "number": "7-6-33.",
+      "heading": "Incorporators.",
+      "text": "Incorporators.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-34",
+      "number": "7-6-34.",
+      "heading": "Articles of incorporation.",
+      "text": "Articles of incorporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-35",
+      "number": "7-6-35.",
+      "heading": "Filing of articles of incorporation.",
+      "text": "Filing of articles of incorporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-36",
+      "number": "7-6-36.",
+      "heading": "Effect of issuance of certificate of incorporation.",
+      "text": "Effect of issuance of certificate of incorporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-37",
+      "number": "7-6-37.",
+      "heading": "Organization meetings.",
+      "text": "Organization meetings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-38",
+      "number": "7-6-38.",
+      "heading": "Right to amend articles of incorporation.",
+      "text": "Right to amend articles of incorporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-39",
+      "number": "7-6-39.",
+      "heading": "Procedure to amend articles of incorporation.",
+      "text": "Procedure to amend articles of incorporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-40",
+      "number": "7-6-40.",
+      "heading": "Articles of amendment.",
+      "text": "Articles of amendment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-41",
+      "number": "7-6-41.",
+      "heading": "Effectiveness of amendment.",
+      "text": "Effectiveness of amendment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-411",
+      "number": "7-6-41.1.",
+      "heading": "Certificate of correction.",
+      "text": "Certificate of correction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-42",
+      "number": "7-6-42.",
+      "heading": "Restated articles of incorporation.",
+      "text": "Restated articles of incorporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-43",
+      "number": "7-6-43.",
+      "heading": "Procedure for merger.",
+      "text": "Procedure for merger.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-44",
+      "number": "7-6-44.",
+      "heading": "Procedure for consolidation.",
+      "text": "Procedure for consolidation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-45",
+      "number": "7-6-45.",
+      "heading": "Approval of merger or consolidation.",
+      "text": "Approval of merger or consolidation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-46",
+      "number": "7-6-46.",
+      "heading": "Articles of merger or consolidation.",
+      "text": "Articles of merger or consolidation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-47",
+      "number": "7-6-47.",
+      "heading": "Effect of merger or consolidation.",
+      "text": "Effect of merger or consolidation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-48",
+      "number": "7-6-48.",
+      "heading": "Merger or consolidation of domestic and foreign corporations.",
+      "text": "Merger or consolidation of domestic and foreign corporations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-481",
+      "number": "7-6-48.1.",
+      "heading": "Conversion of other entities to a domestic nonprofit corporation.",
+      "text": "Conversion of other entities to a domestic nonprofit corporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-482",
+      "number": "7-6-48.2.",
+      "heading": "Filing of certificate of conversion to corporation (nonprofit).",
+      "text": "Filing of certificate of conversion to corporation (nonprofit).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-483",
+      "number": "7-6-48.3.",
+      "heading": "Conversion of a domestic nonprofit corporation to other entities.",
+      "text": "Conversion of a domestic nonprofit corporation to other entities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-484",
+      "number": "7-6-48.4.",
+      "heading": "Filing of certificate of conversion to corporation (nonprofit).",
+      "text": "Filing of certificate of conversion to corporation (nonprofit).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-49",
+      "number": "7-6-49.",
+      "heading": "Sale, lease, exchange, or mortgage of assets.",
+      "text": "Sale, lease, exchange, or mortgage of assets.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-50",
+      "number": "7-6-50.",
+      "heading": "Voluntary dissolution.",
+      "text": "Voluntary dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-51",
+      "number": "7-6-51.",
+      "heading": "Distribution of assets.",
+      "text": "Distribution of assets.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-52",
+      "number": "7-6-52.",
+      "heading": "Plan of distribution.",
+      "text": "Plan of distribution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-53",
+      "number": "7-6-53.",
+      "heading": "Revocation of voluntary dissolution proceedings.",
+      "text": "Revocation of voluntary dissolution proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-54",
+      "number": "7-6-54.",
+      "heading": "Articles of dissolution.",
+      "text": "Articles of dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-55",
+      "number": "7-6-55.",
+      "heading": "Filing of articles of dissolution.",
+      "text": "Filing of articles of dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-56",
+      "number": "7-6-56.",
+      "heading": "Revocation of certificate of incorporation.",
+      "text": "Revocation of certificate of incorporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-57",
+      "number": "7-6-57.",
+      "heading": "Issuance of certificate of revocation.",
+      "text": "Issuance of certificate of revocation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-58",
+      "number": "7-6-58.",
+      "heading": "Withdrawal of certificate of revocation.",
+      "text": "Withdrawal of certificate of revocation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-59",
+      "number": "7-6-59.",
+      "heading": "Appeal from revocation of articles of incorporation.",
+      "text": "Appeal from revocation of articles of incorporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-60",
+      "number": "7-6-60.",
+      "heading": "Jurisdiction of court to liquidate assets and affairs of the corporation.",
+      "text": "Jurisdiction of court to liquidate assets and affairs of the corporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-61",
+      "number": "7-6-61.",
+      "heading": "Procedure in liquidation of corporation by court.",
+      "text": "Procedure in liquidation of corporation by court.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-62",
+      "number": "7-6-62.",
+      "heading": "Qualification of receivers.",
+      "text": "Qualification of receivers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-63",
+      "number": "7-6-63.",
+      "heading": "Filing of claims in liquidation proceedings.",
+      "text": "Filing of claims in liquidation proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-64",
+      "number": "7-6-64.",
+      "heading": "Discontinuance of liquidation proceedings.",
+      "text": "Discontinuance of liquidation proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-65",
+      "number": "7-6-65.",
+      "heading": "Decree of involuntary dissolution.",
+      "text": "Decree of involuntary dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-66",
+      "number": "7-6-66.",
+      "heading": "Filing of decree of dissolution.",
+      "text": "Filing of decree of dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-67",
+      "number": "7-6-67.",
+      "heading": "Deposits with general treasurer.",
+      "text": "Deposits with general treasurer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-68",
+      "number": "7-6-68.",
+      "heading": "Survival of remedy after dissolution.",
+      "text": "Survival of remedy after dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-69",
+      "number": "7-6-69.",
+      "heading": "Continuation of certain corporate powers.",
+      "text": "Continuation of certain corporate powers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-70",
+      "number": "7-6-70.",
+      "heading": "Admission of foreign corporation.",
+      "text": "Admission of foreign corporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-71",
+      "number": "7-6-71.",
+      "heading": "Powers of foreign corporation.",
+      "text": "Powers of foreign corporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-72",
+      "number": "7-6-72.",
+      "heading": "Corporate name of foreign corporation.",
+      "text": "Corporate name of foreign corporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-73",
+      "number": "7-6-73.",
+      "heading": "Change of name by foreign corporation.",
+      "text": "Change of name by foreign corporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-74",
+      "number": "7-6-74.",
+      "heading": "Application by foreign corporation for certificate of authority.",
+      "text": "Application by foreign corporation for certificate of authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-75",
+      "number": "7-6-75.",
+      "heading": "Filing of application by foreign corporation for certificate of authority.",
+      "text": "Filing of application by foreign corporation for certificate of authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-76",
+      "number": "7-6-76.",
+      "heading": "Effect of certificate of authority by foreign corporation.",
+      "text": "Effect of certificate of authority by foreign corporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-77",
+      "number": "7-6-77.",
+      "heading": "Registered office and registered agent of foreign corporation.",
+      "text": "Registered office and registered agent of foreign corporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-78",
+      "number": "7-6-78.",
+      "heading": "Change of registered office or registered agent of foreign corporation.",
+      "text": "Change of registered office or registered agent of foreign corporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-79",
+      "number": "7-6-79.",
+      "heading": "Service of process on foreign corporation.",
+      "text": "Service of process on foreign corporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-80",
+      "number": "7-6-80.",
+      "heading": "Amendment to articles of incorporation of foreign corporation.",
+      "text": "Amendment to articles of incorporation of foreign corporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-801",
+      "number": "7-6-80.1.",
+      "heading": "Foreign application for transfer of authority.",
+      "text": "Foreign application for transfer of authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-81",
+      "number": "7-6-81.",
+      "heading": "Merger of foreign corporation authorized to conduct affairs in this state.",
+      "text": "Merger of foreign corporation authorized to conduct affairs in this state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-82",
+      "number": "7-6-82.",
+      "heading": "Amended certificate of authority.",
+      "text": "Amended certificate of authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-83",
+      "number": "7-6-83.",
+      "heading": "Withdrawal of foreign corporation.",
+      "text": "Withdrawal of foreign corporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-84",
+      "number": "7-6-84.",
+      "heading": "Filing of application for withdrawal.",
+      "text": "Filing of application for withdrawal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-85",
+      "number": "7-6-85.",
+      "heading": "Revocation of certificate of authority.",
+      "text": "Revocation of certificate of authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-86",
+      "number": "7-6-86.",
+      "heading": "Issuance of certificate of revocation.",
+      "text": "Issuance of certificate of revocation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-87",
+      "number": "7-6-87.",
+      "heading": "Withdrawal of certificates of revocation.",
+      "text": "Withdrawal of certificates of revocation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-88",
+      "number": "7-6-88.",
+      "heading": "Appeal from revocation of certificate of authority.",
+      "text": "Appeal from revocation of certificate of authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-89",
+      "number": "7-6-89.",
+      "heading": "Conducting affairs without certificate of authority.",
+      "text": "Conducting affairs without certificate of authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-90",
+      "number": "7-6-90.",
+      "heading": "Annual report of domestic and foreign corporations.",
+      "text": "Annual report of domestic and foreign corporations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-91",
+      "number": "7-6-91.",
+      "heading": "Filing of annual report of domestic and foreign corporations.",
+      "text": "Filing of annual report of domestic and foreign corporations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-92",
+      "number": "7-6-92.",
+      "heading": "Fees for filing documents and issuing certificates.",
+      "text": "Fees for filing documents and issuing certificates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-93",
+      "number": "7-6-93.",
+      "heading": "Miscellaneous charges.",
+      "text": "Miscellaneous charges.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-94",
+      "number": "7-6-94.",
+      "heading": "Penalties imposed upon corporation.",
+      "text": "Penalties imposed upon corporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-95",
+      "number": "7-6-95.",
+      "heading": "Penalties imposed upon directors and officers.",
+      "text": "Penalties imposed upon directors and officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-96",
+      "number": "7-6-96.",
+      "heading": "Interrogatories by secretary of state.",
+      "text": "Interrogatories by secretary of state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-97",
+      "number": "7-6-97.",
+      "heading": "Information disclosed by interrogatories.",
+      "text": "Information disclosed by interrogatories.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-98",
+      "number": "7-6-98.",
+      "heading": "Powers of secretary of state.",
+      "text": "Powers of secretary of state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-99",
+      "number": "7-6-99.",
+      "heading": "Appeal from secretary of state.",
+      "text": "Appeal from secretary of state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-100",
+      "number": "7-6-100.",
+      "heading": "Certificates and certified copies to be received in evidence.",
+      "text": "Certificates and certified copies to be received in evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-101",
+      "number": "7-6-101.",
+      "heading": "Forms to be furnished by secretary of state.",
+      "text": "Forms to be furnished by secretary of state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-102",
+      "number": "7-6-102.",
+      "heading": "Greater voting requirements.",
+      "text": "Greater voting requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-103",
+      "number": "7-6-103.",
+      "heading": "Waiver of notice.",
+      "text": "Waiver of notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-104",
+      "number": "7-6-104.",
+      "heading": "Action by incorporators, members, or directors without a meeting.",
+      "text": "Action by incorporators, members, or directors without a meeting.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-105",
+      "number": "7-6-105.",
+      "heading": "Unauthorized assumption of corporate powers.",
+      "text": "Unauthorized assumption of corporate powers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-106",
+      "number": "7-6-106.",
+      "heading": "Reservation of power.",
+      "text": "Reservation of power.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-107",
+      "number": "7-6-107.",
+      "heading": "Effect of repeal of prior chapters.",
+      "text": "Effect of repeal of prior chapters.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7-6-108",
+      "number": "7-6-108.",
+      "heading": "Effect of invalidity of part of this chapter.",
+      "text": "Effect of invalidity of part of this chapter.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

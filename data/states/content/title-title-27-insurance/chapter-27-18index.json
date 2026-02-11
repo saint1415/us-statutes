@@ -1,0 +1,942 @@
+{
+  "state": "rhode-island",
+  "path": "title-title-27-insurance/chapter-27-18index",
+  "sections": [
+    {
+      "id": "section-27-18-1",
+      "number": "27-18-1.",
+      "heading": "“Policy of accident and sickness insurance” construed.",
+      "text": "“Policy of accident and sickness insurance” construed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-11",
+      "number": "27-18-1.1.",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-2",
+      "number": "27-18-2.",
+      "heading": "Form of policy.",
+      "text": "Form of policy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-21",
+      "number": "27-18-2.1.",
+      "heading": "Uniform explanation of benefits and coverage.",
+      "text": "Uniform explanation of benefits and coverage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-3",
+      "number": "27-18-3.",
+      "heading": "Required provisions.",
+      "text": "Required provisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-31",
+      "number": "27-18-3.1.",
+      "heading": "Alternative coverage by employer.",
+      "text": "Alternative coverage by employer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-32",
+      "number": "27-18-3.2.",
+      "heading": "Rules and regulations.",
+      "text": "Rules and regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-33",
+      "number": "27-18-3.3.",
+      "heading": "Penalties.",
+      "text": "Penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-34",
+      "number": "27-18-3.4.",
+      "heading": "Judicial review.",
+      "text": "Judicial review.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-35",
+      "number": "27-18-3.5.",
+      "heading": "Non-applicability.",
+      "text": "Non-applicability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-4",
+      "number": "27-18-4.",
+      "heading": "Optional provisions.",
+      "text": "Optional provisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-5",
+      "number": "27-18-5.",
+      "heading": "Inapplicable or inconsistent provisions.",
+      "text": "Inapplicable or inconsistent provisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-6",
+      "number": "27-18-6.",
+      "heading": "Sequence of provisions.",
+      "text": "Sequence of provisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-7",
+      "number": "27-18-7.",
+      "heading": "Third-party ownership.",
+      "text": "Third-party ownership.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-8",
+      "number": "27-18-8.",
+      "heading": "Filing of accident and sickness insurance policy forms.",
+      "text": "Filing of accident and sickness insurance policy forms.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-81",
+      "number": "27-18-8.1.",
+      "heading": "Waiting period — Effective date of filings.",
+      "text": "Waiting period — Effective date of filings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-82",
+      "number": "27-18-8.2.",
+      "heading": "Notice of disapproval.",
+      "text": "Notice of disapproval.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-83",
+      "number": "27-18-8.3.",
+      "heading": "Withdrawal of approval.",
+      "text": "Withdrawal of approval.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-84",
+      "number": "27-18-8.4.",
+      "heading": "Rules as to filing.",
+      "text": "Rules as to filing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-9",
+      "number": "27-18-9.",
+      "heading": "Policies of foreign insurers.",
+      "text": "Policies of foreign insurers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-10",
+      "number": "27-18-10.",
+      "heading": "Compliance by domestic insurer with laws of other states.",
+      "text": "Compliance by domestic insurer with laws of other states.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-11",
+      "number": "27-18-11.",
+      "heading": "Application of provisions to policy issued to nonresident.",
+      "text": "Application of provisions to policy issued to nonresident.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-12",
+      "number": "27-18-12.",
+      "heading": "Less favorable provisions prohibited.",
+      "text": "Less favorable provisions prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-13",
+      "number": "27-18-13.",
+      "heading": "Effect of policies inconsistent with chapter.",
+      "text": "Effect of policies inconsistent with chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-14",
+      "number": "27-18-14.",
+      "heading": "Copies of applications.",
+      "text": "Copies of applications.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-15",
+      "number": "27-18-15.",
+      "heading": "Alteration of application.",
+      "text": "Alteration of application.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-16",
+      "number": "27-18-16.",
+      "heading": "False statements in application.",
+      "text": "False statements in application.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-17",
+      "number": "27-18-17.",
+      "heading": "Acts not constituting waiver of insurer’s defenses.",
+      "text": "Acts not constituting waiver of insurer’s defenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-18",
+      "number": "27-18-18.",
+      "heading": "Acceptance of premiums after effective period of policy.",
+      "text": "Acceptance of premiums after effective period of policy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-19",
+      "number": "27-18-19.",
+      "heading": "Insurance exempt from chapter.",
+      "text": "Insurance exempt from chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-20",
+      "number": "27-18-20.",
+      "heading": "Penalties for violations.",
+      "text": "Penalties for violations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-21",
+      "number": "27-18-21.",
+      "heading": "Appeals from commissioner.",
+      "text": "Appeals from commissioner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-22",
+      "number": "27-18-22.",
+      "heading": "Effect on other law.",
+      "text": "Effect on other law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-23",
+      "number": "27-18-23.",
+      "heading": "Severability.",
+      "text": "Severability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-24",
+      "number": "27-18-24.",
+      "heading": "Immunity of benefits from process.",
+      "text": "Immunity of benefits from process.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-25",
+      "number": "27-18-25.",
+      "heading": "Unfair discrimination prohibited.",
+      "text": "Unfair discrimination prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-26",
+      "number": "27-18-26.",
+      "heading": "Physical examinations by insurance company.",
+      "text": "Physical examinations by insurance company.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-27",
+      "number": "27-18-27.",
+      "heading": "Adoptive children.",
+      "text": "Adoptive children.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-28",
+      "number": "27-18-28.",
+      "heading": "[Repealed.]",
+      "text": "[Repealed.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-29",
+      "number": "27-18-29.",
+      "heading": "Changing coverage.",
+      "text": "Changing coverage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-30",
+      "number": "27-18-30.",
+      "heading": "Health insurance contracts — Infertility.",
+      "text": "Health insurance contracts — Infertility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-31",
+      "number": "27-18-31.",
+      "heading": "Insurance coverage for services of licensed midwives.",
+      "text": "Insurance coverage for services of licensed midwives.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-32",
+      "number": "27-18-32.",
+      "heading": "Discontinuance of coverage — Chronic disabilities.",
+      "text": "Discontinuance of coverage — Chronic disabilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-33",
+      "number": "27-18-33.",
+      "heading": "Drug coverage.",
+      "text": "Drug coverage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-331",
+      "number": "27-18-33.1.",
+      "heading": "Insurance coverage for postpartum hospital stays.",
+      "text": "Insurance coverage for postpartum hospital stays.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-332",
+      "number": "27-18-33.2.",
+      "heading": "Pharmacy benefit manager requirements with respect to multi-source generic pricing",
+      "text": "updates to pharmacies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-333",
+      "number": "27-18-33.3.",
+      "heading": "Patient choice in dispensing of clinician-administered drugs.",
+      "text": "Patient choice in dispensing of clinician-administered drugs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-34",
+      "number": "27-18-34.",
+      "heading": "Health insurance contracts — Certified registered nurse practitioners and psychiatric",
+      "text": "and mental health nurse clinical specialists.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-35",
+      "number": "27-18-35.",
+      "heading": "Certified counselors in mental health and therapists in marriage and family practice.",
+      "text": "Certified counselors in mental health and therapists in marriage and family practice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-36",
+      "number": "27-18-36.",
+      "heading": "[Repealed.]",
+      "text": "[Repealed.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-361",
+      "number": "27-18-36.1.",
+      "heading": "[Repealed.]",
+      "text": "[Repealed.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-362",
+      "number": "27-18-36.2.",
+      "heading": "[Repealed.]",
+      "text": "[Repealed.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-363",
+      "number": "27-18-36.3.",
+      "heading": "[Repealed.]",
+      "text": "[Repealed.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-37",
+      "number": "27-18-37.",
+      "heading": "[Repealed.]",
+      "text": "[Repealed.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-38",
+      "number": "27-18-38.",
+      "heading": "Diabetes treatment.",
+      "text": "Diabetes treatment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-39",
+      "number": "27-18-39.",
+      "heading": "Mastectomy treatment.",
+      "text": "Mastectomy treatment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-40",
+      "number": "27-18-40.",
+      "heading": "Insurance coverage for mastectomy hospital stays.",
+      "text": "Insurance coverage for mastectomy hospital stays.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-41",
+      "number": "27-18-41.",
+      "heading": "Mammograms and pap smears — Coverage mandated.",
+      "text": "Mammograms and pap smears — Coverage mandated.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-42",
+      "number": "27-18-42.",
+      "heading": "Mammograms — Quality assurance standards.",
+      "text": "Mammograms — Quality assurance standards.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-43",
+      "number": "27-18-43.",
+      "heading": "Pap smears — Quality assurance standards.",
+      "text": "Pap smears — Quality assurance standards.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-44",
+      "number": "27-18-44.",
+      "heading": "Primary and preventive obstetric and gynecological care.",
+      "text": "Primary and preventive obstetric and gynecological care.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-441",
+      "number": "27-18-44.1.",
+      "heading": "Hysterectomy or myomectomy treatment.",
+      "text": "Hysterectomy or myomectomy treatment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-45",
+      "number": "27-18-45.",
+      "heading": "Whistleblowers protection.",
+      "text": "Whistleblowers protection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-46",
+      "number": "27-18-46.",
+      "heading": "Penalties and remedies.",
+      "text": "Penalties and remedies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-47",
+      "number": "27-18-47.",
+      "heading": "Additional relief and damages — Reinstatement.",
+      "text": "Additional relief and damages — Reinstatement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-48",
+      "number": "27-18-48.",
+      "heading": "Third-party reimbursement for services of certain healthcare workers.",
+      "text": "Third-party reimbursement for services of certain healthcare workers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-481",
+      "number": "27-18-48.1.",
+      "heading": "Third-party reimbursement for services of registered nurse first assistants.",
+      "text": "Third-party reimbursement for services of registered nurse first assistants.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-49",
+      "number": "27-18-49.",
+      "heading": "Human leukocyte antigen testing.",
+      "text": "Human leukocyte antigen testing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-50",
+      "number": "27-18-50.",
+      "heading": "Drug coverage.",
+      "text": "Drug coverage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-501",
+      "number": "27-18-50.1.",
+      "heading": "Medication synchronization.",
+      "text": "Medication synchronization.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-502",
+      "number": "27-18-50.2.",
+      "heading": "Specialty drugs.",
+      "text": "Specialty drugs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-51",
+      "number": "27-18-51.",
+      "heading": "Restricted annual rate payments prohibited.",
+      "text": "Restricted annual rate payments prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-52",
+      "number": "27-18-52.",
+      "heading": "Genetic testing.",
+      "text": "Genetic testing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-521",
+      "number": "27-18-52.1.",
+      "heading": "Genetic information.",
+      "text": "Genetic information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-53",
+      "number": "27-18-53.",
+      "heading": "Magnetic resonance imaging — Quality assurance standards.",
+      "text": "Magnetic resonance imaging — Quality assurance standards.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-54",
+      "number": "27-18-54.",
+      "heading": "Health insurance rates.",
+      "text": "Health insurance rates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-55",
+      "number": "27-18-55.",
+      "heading": "Acupuncture services.",
+      "text": "Acupuncture services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-56",
+      "number": "27-18-56.",
+      "heading": "Prohibition against dentists being required to indemnify provider.",
+      "text": "Prohibition against dentists being required to indemnify provider.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-57",
+      "number": "27-18-57.",
+      "heading": "FDA approved prescription contraceptive drugs and devices.",
+      "text": "FDA approved prescription contraceptive drugs and devices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-58",
+      "number": "27-18-58.",
+      "heading": "Prostate and colorectal examinations — Coverage mandated — The Maryellen Goodwin Colorectal",
+      "text": "Cancer Screening Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-59",
+      "number": "27-18-59.",
+      "heading": "Eligibility for children’s benefits.",
+      "text": "Eligibility for children’s benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-60",
+      "number": "27-18-60.",
+      "heading": "Hearing aids.",
+      "text": "Hearing aids.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-61",
+      "number": "27-18-61.",
+      "heading": "Prompt processing of claims.",
+      "text": "Prompt processing of claims.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-62",
+      "number": "27-18-62.",
+      "heading": "Mandatory coverage for certain lyme disease treatments.",
+      "text": "Mandatory coverage for certain lyme disease treatments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-63",
+      "number": "27-18-63.",
+      "heading": "Dental insurance assignment of benefits.",
+      "text": "Dental insurance assignment of benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-64",
+      "number": "27-18-64.",
+      "heading": "Coverage for early intervention services.",
+      "text": "Coverage for early intervention services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-65",
+      "number": "27-18-65.",
+      "heading": "Post-payment audits.",
+      "text": "Post-payment audits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-66",
+      "number": "27-18-66.",
+      "heading": "Tobacco cessation programs.",
+      "text": "Tobacco cessation programs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-67",
+      "number": "27-18-67.",
+      "heading": "Reimbursement for orthotic and prosthetic services.",
+      "text": "Reimbursement for orthotic and prosthetic services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-68",
+      "number": "27-18-68.",
+      "heading": "Mandatory coverage for scalp hair prosthesis.",
+      "text": "Mandatory coverage for scalp hair prosthesis.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-69",
+      "number": "27-18-69.",
+      "heading": "Licensed ambulance service.",
+      "text": "Licensed ambulance service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-70",
+      "number": "27-18-70.",
+      "heading": "Enteral nutrition products.",
+      "text": "Enteral nutrition products.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-71",
+      "number": "27-18-71.",
+      "heading": "Prohibition on preexisting condition exclusions.",
+      "text": "Prohibition on preexisting condition exclusions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-72",
+      "number": "27-18-72.",
+      "heading": "Prohibition on rescission of coverage.",
+      "text": "Prohibition on rescission of coverage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-73",
+      "number": "27-18-73.",
+      "heading": "Prohibition on annual and lifetime limits.",
+      "text": "Prohibition on annual and lifetime limits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-74",
+      "number": "27-18-74.",
+      "heading": "Coverage for individuals participating in approved clinical trials.",
+      "text": "Coverage for individuals participating in approved clinical trials.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-75",
+      "number": "27-18-75.",
+      "heading": "Medical loss ratio reporting and rebates.",
+      "text": "Medical loss ratio reporting and rebates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-76",
+      "number": "27-18-76.",
+      "heading": "Emergency services.",
+      "text": "Emergency services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-77",
+      "number": "27-18-77.",
+      "heading": "Internal and external appeal of adverse benefit determinations.",
+      "text": "Internal and external appeal of adverse benefit determinations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-78",
+      "number": "27-18-78.",
+      "heading": "Primary care provider designation requirement.",
+      "text": "Primary care provider designation requirement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-79",
+      "number": "27-18-79.",
+      "heading": "Discretionary clauses.",
+      "text": "Discretionary clauses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-80",
+      "number": "27-18-80.",
+      "heading": "Orally administered anticancer medication — Cost-sharing requirement.",
+      "text": "Orally administered anticancer medication — Cost-sharing requirement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-81",
+      "number": "27-18-81.",
+      "heading": "Consumer notification.",
+      "text": "Consumer notification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-82",
+      "number": "27-18-82.",
+      "heading": "Opioid antagonists.",
+      "text": "Opioid antagonists.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-83",
+      "number": "27-18-83.",
+      "heading": "Healthcare provider credentialing.",
+      "text": "Healthcare provider credentialing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-84",
+      "number": "27-18-84.",
+      "heading": "Health insurance contracts — Full year coverage for contraception.",
+      "text": "Health insurance contracts — Full year coverage for contraception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-85",
+      "number": "27-18-85.",
+      "heading": "Prohibition on discrimination in organ transplants.",
+      "text": "Prohibition on discrimination in organ transplants.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-86",
+      "number": "27-18-86.",
+      "heading": "Health insurance contracts — Copayments exemption for COVID-19 related services.",
+      "text": "Health insurance contracts — Copayments exemption for COVID-19 related services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-87",
+      "number": "27-18-87.",
+      "heading": "Perinatal doulas.",
+      "text": "Perinatal doulas.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-88",
+      "number": "27-18-88.",
+      "heading": "Gender rating.",
+      "text": "Gender rating.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-89",
+      "number": "27-18-89.",
+      "heading": "Coverage for biomarker testing.",
+      "text": "Coverage for biomarker testing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-90",
+      "number": "27-18-90.",
+      "heading": "Mandatory coverage for treatment of pediatric autoimmune neuropsychiatric disorders",
+      "text": "associated with streptococcal infections and pediatric acute onset neuropsychiatric\nsyndrome.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-91",
+      "number": "27-18-91.",
+      "heading": "Coverage for treatment of pre-exposure prophylaxis (PrEP) for the prevention of HIV",
+      "text": "and post-exposure prophylaxis (PEP) to prevent HIV infection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-92",
+      "number": "27-18-92.",
+      "heading": "[Repealed.]",
+      "text": "[Repealed.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-93",
+      "number": "27-18-93.",
+      "heading": "Dispensing and administration of HIV PrEP or PEP drugs.",
+      "text": "Dispensing and administration of HIV PrEP or PEP drugs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-94",
+      "number": "27-18-94.",
+      "heading": "Epinephrine injectors.",
+      "text": "Epinephrine injectors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27-18-95",
+      "number": "27-18-95.",
+      "heading": "Acute mental health crisis mobile response and stabilization services. [Effective",
+      "text": "January 1, 2026.]",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

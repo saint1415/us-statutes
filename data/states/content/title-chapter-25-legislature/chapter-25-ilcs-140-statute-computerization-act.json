@@ -1,0 +1,38 @@
+{
+  "state": "illinois",
+  "path": "title-chapter-25-legislature/chapter-25-ilcs-140-statute-computerization-act",
+  "sections": [
+    {
+      "id": "section-001",
+      "number": "0.01.",
+      "heading": "Short title.",
+      "text": "This Act may be cited as the\nStatute Computerization Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1",
+      "number": "1.",
+      "heading": "The Executive Director of the Legislative Reference Bureau is",
+      "text": "authorized, subject to the provisions of the Legislative Commission Reorganization\nAct of 1984, to contract for the acquisition of an electronic data processing\ncomputer memory system containing the Illinois Revised Statutes and for the\nprogramming of a computer for the use thereof to obtain data therefrom and\nfor the periodic revision of such memory system to keep it current with\nchanges in the statutes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2",
+      "number": "2.",
+      "heading": "The memory system shall be under the control of the Legislative",
+      "text": "Reference Bureau and may be used for the Legislative Reference Bureau,\nmembers and agencies of the General Assembly, and the Attorney General.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4",
+      "number": "4.",
+      "heading": "\"The Illinois Purchasing Act\" is inapplicable to contracts under",
+      "text": "this Act. The Executive Director of the Legislative Reference Bureau\nmay, in the performance of his functions under Section 1, contract with\nany organization having experience in preparing such electronic data\nprocessing computer memory systems in other states.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

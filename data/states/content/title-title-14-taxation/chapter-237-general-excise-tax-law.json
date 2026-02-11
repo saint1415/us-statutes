@@ -1,0 +1,702 @@
+{
+  "state": "hawaii",
+  "path": "title-title-14-taxation/chapter-237-general-excise-tax-law",
+  "sections": [
+    {
+      "id": "section-237-1",
+      "number": "237-1",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-2",
+      "number": "237-2",
+      "heading": "\"Business\", \"engaging\" in business, defined.",
+      "text": "\"Business\", \"engaging\" in business, defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-25",
+      "number": "237-2.5",
+      "heading": "Engaging in business in the State.",
+      "text": "Engaging in business in the State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-3",
+      "number": "237-3",
+      "heading": "\"Gross income\", \"gross proceeds of sale\", defined.",
+      "text": "\"Gross income\", \"gross proceeds of sale\", defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-4",
+      "number": "237-4",
+      "heading": "\"Wholesaler\", \"jobber\", defined.",
+      "text": "\"Wholesaler\", \"jobber\", defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-45",
+      "number": "237-4.5",
+      "heading": "Marketplace facilitators.",
+      "text": "Marketplace facilitators.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-5",
+      "number": "237-5",
+      "heading": "\"Producer\" defined.",
+      "text": "\"Producer\" defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-6",
+      "number": "237-6",
+      "heading": "\"Contractor\", \"contracting\", \"federal cost-plus contractor\", defined.",
+      "text": "\"Contractor\", \"contracting\", \"federal cost-plus contractor\", defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-7",
+      "number": "237-7",
+      "heading": "\"Service business or calling\", defined.",
+      "text": "\"Service business or calling\", defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-8",
+      "number": "237-8",
+      "heading": "Administration and enforcement by department.",
+      "text": "Administration and enforcement by department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-85",
+      "number": "237-8.5",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-86",
+      "number": "237-8.6",
+      "heading": "County surcharge on state tax; administration",
+      "text": "[Section repealed December 31, 2030. L Sp 2017, c 1, §6.] (a) The county surcharge on state tax, upon the adoption of county ordinances and in accordance with the requirements of section 46-16.8, shall be levied, assessed, and collected as provided in t",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-9",
+      "number": "237-9",
+      "heading": "Licenses; penalty.",
+      "text": "Licenses; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-93",
+      "number": "237-9.3",
+      "heading": "General excise tax benefits; denial of tax benefits for failure to properly claim.",
+      "text": "General excise tax benefits; denial of tax benefits for failure to properly claim.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-95",
+      "number": "237-9.5",
+      "heading": "No separate licensing, filing, or liability for certain revocable trusts.",
+      "text": "No separate licensing, filing, or liability for certain revocable trusts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-10",
+      "number": "237-10",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-105",
+      "number": "237-10.5",
+      "heading": "Reporting requirement for contractors on federal construction projects.",
+      "text": "Reporting requirement for contractors on federal construction projects.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-11",
+      "number": "237-11",
+      "heading": "Tax year.",
+      "text": "Tax year.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-12",
+      "number": "237-12",
+      "heading": "Tax cumulative; extent of license.",
+      "text": "Tax cumulative; extent of license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-13",
+      "number": "237-13",
+      "heading": "Imposition of tax.",
+      "text": "Imposition of tax.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-133",
+      "number": "237-13.3",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-135",
+      "number": "237-13.5",
+      "heading": "Assessment on generated electricity.",
+      "text": "Assessment on generated electricity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-138",
+      "number": "237-13.8",
+      "heading": "Sales of telecommunications services through prepaid telephone calling service.",
+      "text": "Sales of telecommunications services through prepaid telephone calling service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-14",
+      "number": "237-14",
+      "heading": "Segregation of gross income, etc., on records and in returns.",
+      "text": "Segregation of gross income, etc., on records and in returns.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-145",
+      "number": "237-14.5",
+      "heading": "Segregation of gross income, etc., on records and in returns of telecommunications businesses.",
+      "text": "Segregation of gross income, etc., on records and in returns of telecommunications businesses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-15",
+      "number": "237-15",
+      "heading": "Technicians.",
+      "text": "Technicians.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-16",
+      "number": "237-16",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-165",
+      "number": "237-16.5",
+      "heading": "Tax on written real property leases; deduction allowed.",
+      "text": "Tax on written real property leases; deduction allowed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-168",
+      "number": "237-16.8",
+      "heading": "Exemption of certain convention, conference, and trade show fees.",
+      "text": "Exemption of certain convention, conference, and trade show fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-17",
+      "number": "237-17",
+      "heading": "Persons with impaired sight, hearing, or who are totally disabled.",
+      "text": "Persons with impaired sight, hearing, or who are totally disabled.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-18",
+      "number": "237-18",
+      "heading": "Further provisions as to application of tax.",
+      "text": "Further provisions as to application of tax.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-19",
+      "number": "237-19",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-20",
+      "number": "237-20",
+      "heading": "Principles applicable in certain situations.",
+      "text": "Principles applicable in certain situations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-21",
+      "number": "237-21",
+      "heading": "Apportionment.",
+      "text": "Apportionment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-22",
+      "number": "237-22",
+      "heading": "Conformity to Constitution, etc.",
+      "text": "Conformity to Constitution, etc.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-23",
+      "number": "237-23",
+      "heading": "Exemptions, persons exempt, applications for exemption.",
+      "text": "Exemptions, persons exempt, applications for exemption.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-235",
+      "number": "237-23.5",
+      "heading": "Related entities; common paymaster; certain exempt transactions",
+      "text": "(a) This chapter shall not apply to amounts received, charged, or attributable to services furnished by one related entity to another related entity or to imputed or stated interest attributable to loans, advances, or use of capital be",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-24",
+      "number": "237-24",
+      "heading": "Amounts not taxable.",
+      "text": "Amounts not taxable.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-243",
+      "number": "237-24.3",
+      "heading": "Additional amounts not taxable.",
+      "text": "Additional amounts not taxable.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-245",
+      "number": "237-24.5",
+      "heading": "Additional exemptions.",
+      "text": "Additional exemptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-247",
+      "number": "237-24.7",
+      "heading": "Additional amounts not taxable.",
+      "text": "Additional amounts not taxable.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-2475",
+      "number": "237-24.75",
+      "heading": "Additional exemptions.",
+      "text": "Additional exemptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-248",
+      "number": "237-24.8",
+      "heading": "Amounts not taxable for financial institutions.",
+      "text": "Amounts not taxable for financial institutions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-249",
+      "number": "237-24.9",
+      "heading": "Aircraft service and maintenance facility.",
+      "text": "Aircraft service and maintenance facility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-25",
+      "number": "237-25",
+      "heading": "Exemptions of sales and gross proceeds of sales to federal government, and credit unions.",
+      "text": "Exemptions of sales and gross proceeds of sales to federal government, and credit unions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-26",
+      "number": "237-26",
+      "heading": "Exemption of certain scientific contracts with the United States.",
+      "text": "Exemption of certain scientific contracts with the United States.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-27",
+      "number": "237-27",
+      "heading": "Exemption of certain petroleum refiners.",
+      "text": "Exemption of certain petroleum refiners.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-271",
+      "number": "237-27.1",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-275",
+      "number": "237-27.5",
+      "heading": "Air pollution control facility.",
+      "text": "Air pollution control facility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-276",
+      "number": "237-27.6",
+      "heading": "Solid waste processing, disposal, and electric generating facility; certain amounts exempt.",
+      "text": "Solid waste processing, disposal, and electric generating facility; certain amounts exempt.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-28",
+      "number": "237-28",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-281",
+      "number": "237-28.1",
+      "heading": "Exemption of certain shipbuilding and ship repair business.",
+      "text": "Exemption of certain shipbuilding and ship repair business.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-282",
+      "number": "237-28.2",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-29",
+      "number": "237-29",
+      "heading": "Exemptions for certified or approved housing projects.",
+      "text": "Exemptions for certified or approved housing projects.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-295",
+      "number": "237-29.5",
+      "heading": "Exemption for sales of tangible personal property shipped out of the State.",
+      "text": "Exemption for sales of tangible personal property shipped out of the State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-2953",
+      "number": "237-29.53",
+      "heading": "Exemption for contracting or services exported out of State.",
+      "text": "Exemption for contracting or services exported out of State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-2955",
+      "number": "237-29.55",
+      "heading": "Exemption for sale of tangible personal property for resale at wholesale",
+      "text": "(a) There shall be exempted from, and excluded from the measure of, the taxes imposed by this chapter all of the gross proceeds or gross income arising from the sale of tangible personal property imported to Hawaii from a fore",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-2957",
+      "number": "237-29.57",
+      "heading": "Exemption for intangible property used outside the State.",
+      "text": "Exemption for intangible property used outside the State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-296",
+      "number": "237-29.6",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-2965",
+      "number": "237-29.65",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-297",
+      "number": "237-29.7",
+      "heading": "Exemption of insurance companies.",
+      "text": "Exemption of insurance companies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-2975",
+      "number": "237-29.75",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-298",
+      "number": "237-29.8",
+      "heading": "Call centers; exemption; engaging in business; definitions.",
+      "text": "Call centers; exemption; engaging in business; definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-30",
+      "number": "237-30",
+      "heading": "Monthly, quarterly, or semiannual return, computation of tax, payment.",
+      "text": "Monthly, quarterly, or semiannual return, computation of tax, payment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-305",
+      "number": "237-30.5",
+      "heading": "Collection of rental by third party; filing with department; statement required",
+      "text": "\"HAWAII GENERAL EXCISE TAXES MUST BE PAID ON THE GROSS RENTS COLLECTED BY ANY PERSON RENTING REAL PROPERTY IN THE STATE OF HAWAII. A COPY OF THE FIRST PAGE OF THIS AGREEMENT, OR OF FEDERAL INTERNAL REVENUE FORM 1099 STA",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-307",
+      "number": "237-30.7",
+      "heading": "Withholding of tax by persons claiming the motion picture, digital media, and film production income tax credit.",
+      "text": "Withholding of tax by persons claiming the motion picture, digital media, and film production income tax credit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-31",
+      "number": "237-31",
+      "heading": "Remittances.",
+      "text": "Remittances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-32",
+      "number": "237-32",
+      "heading": "Penalties.",
+      "text": "Penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-33",
+      "number": "237-33",
+      "heading": "Annual return, payment of tax.",
+      "text": "Annual return, payment of tax.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-335",
+      "number": "237-33.5",
+      "heading": "Federal assessments; adjustments of gross income or gross proceeds of sale; report to the department",
+      "text": "(a) Any person required to report to the department by section 235-101(b), also shall report to the department any change, correction, adjustment, or recomputation of gross income or gross proceeds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-34",
+      "number": "237-34",
+      "heading": "Filing of returns; disclosure of returns unlawful, penalty; destruction of returns.",
+      "text": "Filing of returns; disclosure of returns unlawful, penalty; destruction of returns.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-35",
+      "number": "237-35",
+      "heading": "Consolidated reports; interrelated business.",
+      "text": "Consolidated reports; interrelated business.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-36",
+      "number": "237-36",
+      "heading": "Erroneous returns, disallowance of exemption, payment.",
+      "text": "Erroneous returns, disallowance of exemption, payment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-37",
+      "number": "237-37",
+      "heading": "Refunds and credits.",
+      "text": "Refunds and credits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-38",
+      "number": "237-38",
+      "heading": "Failure to make return.",
+      "text": "Failure to make return.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-39",
+      "number": "237-39",
+      "heading": "Audits; procedure, penalties.",
+      "text": "Audits; procedure, penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-40",
+      "number": "237-40",
+      "heading": "Limitation period.",
+      "text": "Limitation period.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-41",
+      "number": "237-41",
+      "heading": "Records to be kept; examination.",
+      "text": "Records to be kept; examination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-415",
+      "number": "237-41.5",
+      "heading": "Certain amounts held in trust; liability of key individuals.",
+      "text": "Certain amounts held in trust; liability of key individuals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-42",
+      "number": "237-42",
+      "heading": "Appeals.",
+      "text": "Appeals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-43",
+      "number": "237-43",
+      "heading": "Bulk sales; transfers; penalties.",
+      "text": "Bulk sales; transfers; penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-44",
+      "number": "237-44",
+      "heading": "Entertainment business.",
+      "text": "Entertainment business.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-45",
+      "number": "237-45",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-46",
+      "number": "237-46",
+      "heading": "Collection by suit; injunction.",
+      "text": "Collection by suit; injunction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-47",
+      "number": "237-47",
+      "heading": "District judges; concurrent civil jurisdiction in tax collections.",
+      "text": "District judges; concurrent civil jurisdiction in tax collections.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-48",
+      "number": "237-48",
+      "heading": "REPEALED.",
+      "text": "REPEALED.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-237-49",
+      "number": "237-49",
+      "heading": "Unfair competition; penalty.",
+      "text": "Unfair competition; penalty.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

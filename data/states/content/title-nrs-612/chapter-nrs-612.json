@@ -1,0 +1,1734 @@
+{
+  "state": "nevada",
+  "path": "title-nrs-612/chapter-nrs-612",
+  "sections": [
+    {
+      "id": "section-612010",
+      "number": "612.010",
+      "heading": "Short",
+      "text": "title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612015",
+      "number": "612.015",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612016",
+      "number": "612.016",
+      "heading": "Administrator�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612017",
+      "number": "612.017",
+      "heading": "American",
+      "text": "employing unit� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612025",
+      "number": "612.025",
+      "heading": "Base",
+      "text": "period� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612030",
+      "number": "612.030",
+      "heading": "Benefit",
+      "text": "year� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612035",
+      "number": "612.035",
+      "heading": "Benefits�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612040",
+      "number": "612.040",
+      "heading": "Calendar",
+      "text": "quarter� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612045",
+      "number": "612.045",
+      "heading": "Contributions�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612049",
+      "number": "612.049",
+      "heading": "Division�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612055",
+      "number": "612.055",
+      "heading": "Employer�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612057",
+      "number": "612.057",
+      "heading": "Employer�:",
+      "text": "Crew leaders who furnish persons to perform agricultural labor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612060",
+      "number": "612.060",
+      "heading": "Employing",
+      "text": "unit� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612065",
+      "number": "612.065",
+      "heading": "Employment�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612070",
+      "number": "612.070",
+      "heading": "Employment�:",
+      "text": "Services included.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612075",
+      "number": "612.075",
+      "heading": "Employment�:",
+      "text": "Services performed entirely outside State by resident; election; approval by\n\nAdministrator.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612080",
+      "number": "612.080",
+      "heading": "Employment�:",
+      "text": "Services deemed localized within State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612085",
+      "number": "612.085",
+      "heading": "Employment�:",
+      "text": "Services deemed employment unless specific facts shown.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612090",
+      "number": "612.090",
+      "heading": "Employment�:",
+      "text": "Certain agricultural labor included.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612095",
+      "number": "612.095",
+      "heading": "Employment�:",
+      "text": "Domestic service in private home excluded; exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612100",
+      "number": "612.100",
+      "heading": "Employment�:",
+      "text": "Service on foreign vessel or aircraft outside United States excluded.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612105",
+      "number": "612.105",
+      "heading": "Employment�:",
+      "text": "Service performed in employ of relative excluded.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612110",
+      "number": "612.110",
+      "heading": "Employment�:",
+      "text": "Service for United States, another state or political subdivision excluded;\n\nexception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612115",
+      "number": "612.115",
+      "heading": "Employment�:",
+      "text": "Service performed in employ of State or agency included; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612117",
+      "number": "612.117",
+      "heading": "Employment�:",
+      "text": "Service performed by patient in employ of hospital excluded.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612118",
+      "number": "612.118",
+      "heading": "Employment�:",
+      "text": "Service performed by student in program for work experience excluded.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612119",
+      "number": "612.119",
+      "heading": "Employment�:",
+      "text": "Service performed by student or spouse under school program for financial\n\nassistance to student excluded.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612120",
+      "number": "612.120",
+      "heading": "Employment�:",
+      "text": "Service performed in employ of corporation or foundation organized and operated\n\nfor religious, charitable, educational or scientific purposes or for prevention\n\nof cruelty to children or animals excluded.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612121",
+      "number": "612.121",
+      "heading": "Employment�:",
+      "text": "Service performed in employ of charitable, religious or other nonprofit\n\norganization.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612123",
+      "number": "612.123",
+      "heading": "Employment�:",
+      "text": "Service performed in employ of Indian tribe included; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612125",
+      "number": "612.125",
+      "heading": "Employment�:",
+      "text": "Service performed in employment covered by federal system for compensation of\n\nunemployed persons excluded; reciprocal agreements by Administrator.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612130",
+      "number": "612.130",
+      "heading": "Employment�:",
+      "text": "Service by minor in delivery of newspapers excluded.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612133",
+      "number": "612.133",
+      "heading": "Employment�:",
+      "text": "Service by licensed real estate salesperson or broker excluded.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612135",
+      "number": "612.135",
+      "heading": "Employment�:",
+      "text": "Service by lessees engaged in mining excluded.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612140",
+      "number": "612.140",
+      "heading": "Employment�:",
+      "text": "Domestic service in employ of college fraternity or sorority excluded;\n\nexception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612142",
+      "number": "612.142",
+      "heading": "Employment�:",
+      "text": "Services as agent-driver, commission-driver or solicitor of orders included;\n\nexceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612144",
+      "number": "612.144",
+      "heading": "Employment�:",
+      "text": "Services performed by person selling or soliciting the sale of products in\n\ncertain circumstances excluded.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612145",
+      "number": "612.145",
+      "heading": "Employment�:",
+      "text": "Service performed during half or more of pay period determined by nature of\n\nentire service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612155",
+      "number": "612.155",
+      "heading": "Employment",
+      "text": "office� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612165",
+      "number": "612.165",
+      "heading": "Fund�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612167",
+      "number": "612.167",
+      "heading": "Hospital�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612168",
+      "number": "612.168",
+      "heading": "Indian",
+      "text": "tribe� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612169",
+      "number": "612.169",
+      "heading": "Institution",
+      "text": "of higher education� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612170",
+      "number": "612.170",
+      "heading": "Insured",
+      "text": "worker� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612175",
+      "number": "612.175",
+      "heading": "Signature�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612180",
+      "number": "612.180",
+      "heading": "State�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612185",
+      "number": "612.185",
+      "heading": "Unemployed�",
+      "text": "defined; regulations by Administrator; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612190",
+      "number": "612.190",
+      "heading": "Wages�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612195",
+      "number": "612.195",
+      "heading": "Week�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612200",
+      "number": "612.200",
+      "heading": "Weekly",
+      "text": "benefit amount� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612215",
+      "number": "612.215",
+      "heading": "Administrator:",
+      "text": "Appointment; classification; administrative authority; other employment\n\nprohibited; exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612220",
+      "number": "612.220",
+      "heading": "General",
+      "text": "powers and duties of Administrator.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612225",
+      "number": "612.225",
+      "heading": "Official",
+      "text": "seal of Administrator; judicial notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612227",
+      "number": "612.227",
+      "heading": "Lease-purchase",
+      "text": "agreements for purchase of office buildings and land; assurances by State of\n\nNevada.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612230",
+      "number": "612.230",
+      "heading": "Personnel",
+      "text": "of Division: Selection; classification; compensation; duties; stipends for\n\neducational leave.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612237",
+      "number": "612.237",
+      "heading": "Quarterly",
+      "text": "report of Administrator.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612240",
+      "number": "612.240",
+      "heading": "Regulations",
+      "text": "for internal management.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612242",
+      "number": "612.242",
+      "heading": "Emergency",
+      "text": "regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612245",
+      "number": "612.245",
+      "heading": "Administrative",
+      "text": "determinations: Whether employing unit constitutes employer; whether service\n\nconstitutes employment; whether substantially common ownership, management or\n\ncontrol exists; appeal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612250",
+      "number": "612.250",
+      "heading": "Administrative",
+      "text": "determinations: Establishment of rates of contribution based upon experience;\n\nappeal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612253",
+      "number": "612.253",
+      "heading": "Provision",
+      "text": "of certain documents or communications by electronic mail or other electronic\n\ncommunication.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612260",
+      "number": "612.260",
+      "heading": "Records",
+      "text": "and reports of employing units: Inspection; destruction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612265",
+      "number": "612.265",
+      "heading": "Disclosure",
+      "text": "of information by Employment Security Division and Administrator; duty of\n\nDivision of Industrial Relations of Department of Business and Industry to\n\nprovide certain information to Administrator; penalty for improper use or\n\ndissemination of certain information; confidential communications.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612270",
+      "number": "612.270",
+      "heading": "Depositions;",
+      "text": "subpoenas; payment of witnesses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612275",
+      "number": "612.275",
+      "heading": "Order",
+      "text": "to appear and testify; penalty for failure to obey court order or subpoena of\n\nAdministrator or Board of Review.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612280",
+      "number": "612.280",
+      "heading": "Protection",
+      "text": "against self-incrimination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612285",
+      "number": "612.285",
+      "heading": "Cooperation",
+      "text": "with Department of Labor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612290",
+      "number": "612.290",
+      "heading": "Advance",
+      "text": "to Unemployment Compensation Fund; application.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612295",
+      "number": "612.295",
+      "heading": "Reciprocal",
+      "text": "arrangements with state and federal agencies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612300",
+      "number": "612.300",
+      "heading": "Reimbursements",
+      "text": "in accordance with reciprocal arrangements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612305",
+      "number": "612.305",
+      "heading": "Employment",
+      "text": "Security Council: Creation; membership; compensation of members; meetings;\n\nSecretary; Board of Review.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612310",
+      "number": "612.310",
+      "heading": "Employment",
+      "text": "Security Council: Duties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612330",
+      "number": "612.330",
+      "heading": "Acceptance",
+      "text": "of Wagner-Peyser Act; establishment and maintenance of free public employment\n\noffices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612335",
+      "number": "612.335",
+      "heading": "Payment.",
+      "text": "Payment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612340",
+      "number": "612.340",
+      "heading": "Amount",
+      "text": "of weekly benefit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612344",
+      "number": "612.344",
+      "heading": "Election",
+      "text": "of base period following period of temporary disability or rehabilitation;\n\nestablishment of new benefit year.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612350",
+      "number": "612.350",
+      "heading": "Weekly",
+      "text": "benefit for unemployment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612355",
+      "number": "612.355",
+      "heading": "Duration",
+      "text": "of benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612357",
+      "number": "612.357",
+      "heading": "Deduction",
+      "text": "and withholding of federal individual income tax.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612360",
+      "number": "612.360",
+      "heading": "Benefits",
+      "text": "due deceased or incapacitated person.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612365",
+      "number": "612.365",
+      "heading": "Overpayments",
+      "text": "and recovery.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612371",
+      "number": "612.371",
+      "heading": "Reimbursement",
+      "text": "of benefits paid if back pay awarded for same period.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612375",
+      "number": "612.375",
+      "heading": "General",
+      "text": "conditions; reductions in benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6123755",
+      "number": "612.3755",
+      "heading": "Prohibition",
+      "text": "on denial of benefits for unemployment related to domestic violence or sexual\n\nassault; request for evidence to support claim.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612376",
+      "number": "612.376",
+      "heading": "Person",
+      "text": "employed by private employer while incarcerated not eligible for certain\n\nbenefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612377",
+      "number": "612.377",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6123772",
+      "number": "612.3772",
+      "heading": "Other",
+      "text": "provisions of chapter applicable to extended benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6123774",
+      "number": "612.3774",
+      "heading": "Conditions",
+      "text": "of eligibility: Findings by Administrator.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6123776",
+      "number": "612.3776",
+      "heading": "Amount",
+      "text": "of weekly extended benefit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6123778",
+      "number": "612.3778",
+      "heading": "Benefit",
+      "text": "amount for partial period.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612378",
+      "number": "612.378",
+      "heading": "Maximum",
+      "text": "amount of extended benefit payable during year.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6123782",
+      "number": "612.3782",
+      "heading": "Amended",
+      "text": "determination of entitlement based on increase of regular compensation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6123784",
+      "number": "612.3784",
+      "heading": "Notice",
+      "text": "of commencement or termination of extended benefit period.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6123786",
+      "number": "612.3786",
+      "heading": "Extended",
+      "text": "benefit payments not chargeable against experience rating of base-period\n\nemployer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612380",
+      "number": "612.380",
+      "heading": "Leaving",
+      "text": "last or next to last employment without good cause or to seek other employment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612383",
+      "number": "612.383",
+      "heading": "Discharge",
+      "text": "for crimes in connection with employment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612385",
+      "number": "612.385",
+      "heading": "Discharge",
+      "text": "for misconduct.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612390",
+      "number": "612.390",
+      "heading": "Failure",
+      "text": "to apply for available or suitable work or to accept suitable work when offered.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612392",
+      "number": "612.392",
+      "heading": "Failure",
+      "text": "to accept suitable work or engage in effort to obtain work: Effect on extended\n\nbenefits. [Each provision of this section expires by limitation on date it is\n\nno longer required by federal law to be in effect.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612395",
+      "number": "612.395",
+      "heading": "Unemployment",
+      "text": "as result of labor dispute.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612400",
+      "number": "612.400",
+      "heading": "Receipt",
+      "text": "of benefits under another unemployment compensation law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612405",
+      "number": "612.405",
+      "heading": "Extended",
+      "text": "benefits payable under Interstate Benefit Payment Plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612420",
+      "number": "612.420",
+      "heading": "Receipt",
+      "text": "of wages in lieu of notice; severance pay; waiver or modification of period of\n\ndisqualification under certain circumstances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612425",
+      "number": "612.425",
+      "heading": "Paid",
+      "text": "vacation; waiver or modification of period of disqualification under certain\n\ncircumstances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612430",
+      "number": "612.430",
+      "heading": "Receipt",
+      "text": "of pay for vacation on termination of employment; waiver or modification of\n\nperiod of disqualification under certain circumstances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612432",
+      "number": "612.432",
+      "heading": "Vacation",
+      "text": "or recess for holiday; services performed in more than one capacity for\n\neducational institution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612434",
+      "number": "612.434",
+      "heading": "Period",
+      "text": "between academic years or terms; paid sabbatical leave; services performed in\n\nmore than one capacity for educational institution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612436",
+      "number": "612.436",
+      "heading": "Sports",
+      "text": "or athletic events.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612445",
+      "number": "612.445",
+      "heading": "Repayment",
+      "text": "of benefits received as result of false statement or failure to disclose\n\nmaterial fact; penalty for unemployment insurance fraud; disqualification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612448",
+      "number": "612.448",
+      "heading": "Alien",
+      "text": "status.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612450",
+      "number": "612.450",
+      "heading": "Procedure.",
+      "text": "Procedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612455",
+      "number": "612.455",
+      "heading": "Regulations",
+      "text": "of Administrator; employer to provide unemployed person with statements and\n\nmaterials.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612457",
+      "number": "612.457",
+      "heading": "Withholding",
+      "text": "of benefits for obligation for support of child.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612460",
+      "number": "612.460",
+      "heading": "Unemployed",
+      "text": "person may request determination of status; written determination by\n\nAdministrator; notice to employers during base period.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612465",
+      "number": "612.465",
+      "heading": "Effective",
+      "text": "period of initial determination; payment of benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612470",
+      "number": "612.470",
+      "heading": "Notice",
+      "text": "to insured worker.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612475",
+      "number": "612.475",
+      "heading": "Notice",
+      "text": "to employers of new or additional claim; employer�s duties and rights upon\n\nreceipt of notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612480",
+      "number": "612.480",
+      "heading": "Redeterminations.",
+      "text": "Redeterminations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612485",
+      "number": "612.485",
+      "heading": "Finality",
+      "text": "of determination or redetermination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612490",
+      "number": "612.490",
+      "heading": "Appeal",
+      "text": "Tribunals: Appointment; alternate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612495",
+      "number": "612.495",
+      "heading": "Appeal",
+      "text": "to Appeal Tribunal: Initiation of appeal from determination or redetermination;\n\nintervention of employing unit; withdrawal of appeal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612500",
+      "number": "612.500",
+      "heading": "Hearing",
+      "text": "on appeal: Procedure; evidence; record; witnesses; trial de novo in certain\n\ncircumstances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612505",
+      "number": "612.505",
+      "heading": "Consolidated",
+      "text": "appeals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612510",
+      "number": "612.510",
+      "heading": "Notice",
+      "text": "of decision of Appeal Tribunal; time for further appeal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612515",
+      "number": "612.515",
+      "heading": "Appeal",
+      "text": "to Board of Review.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612520",
+      "number": "612.520",
+      "heading": "Removal",
+      "text": "or transfer of appeals from one Appeal Tribunal to another Appeal Tribunal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612525",
+      "number": "612.525",
+      "heading": "Appeal",
+      "text": "to courts: Time for appeal; exhaustion of administrative remedies; appeal by Administrator.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612530",
+      "number": "612.530",
+      "heading": "Judicial",
+      "text": "review of decision of Board of Review: Commencement of action in district\n\ncourt; parties; service of petition; answer; summary hearings; appeals to\n\nappellate court.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612533",
+      "number": "612.533",
+      "heading": "Introduction",
+      "text": "of certain evidence concerning claims for benefits prohibited in separate or\n\nsubsequent proceeding.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612535",
+      "number": "612.535",
+      "heading": "Payment;",
+      "text": "registration of employer with Division.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612540",
+      "number": "612.540",
+      "heading": "Rate.",
+      "text": "Rate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612545",
+      "number": "612.545",
+      "heading": "Base.",
+      "text": "Base.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612550",
+      "number": "612.550",
+      "heading": "Rates",
+      "text": "for employers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612551",
+      "number": "612.551",
+      "heading": "Charging",
+      "text": "of benefits to account of employer; grounds for removal of charges on account\n\nof employer; appeal of certain determinations of Administrator; effect of\n\ncertain determinations on claimant.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612553",
+      "number": "612.553",
+      "heading": "Nonprofit",
+      "text": "organizations, political subdivisions and Indian tribes: Payment of\n\ncontributions or reimbursement in lieu of contributions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612555",
+      "number": "612.555",
+      "heading": "Employing",
+      "text": "unit becoming employer within calendar quarter subject to chapter from\n\nbeginning of quarter; exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612560",
+      "number": "612.560",
+      "heading": "When",
+      "text": "employing unit ceases to be employer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612565",
+      "number": "612.565",
+      "heading": "Employing",
+      "text": "unit not subject to chapter may elect to become employer subject to chapter;\n\nconditions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612570",
+      "number": "612.570",
+      "heading": "Employing",
+      "text": "unit may elect that services not covered by chapter shall be deemed to\n\nconstitute employment; conditions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612580",
+      "number": "612.580",
+      "heading": "Termination",
+      "text": "of employer�s election by Administrator.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612583",
+      "number": "612.583",
+      "heading": "Benefits�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612585",
+      "number": "612.585",
+      "heading": "Establishment",
+      "text": "and control.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612590",
+      "number": "612.590",
+      "heading": "Accounts;",
+      "text": "deposits; refunds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612595",
+      "number": "612.595",
+      "heading": "Withdrawals.",
+      "text": "Withdrawals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612600",
+      "number": "612.600",
+      "heading": "Management",
+      "text": "of money upon discontinuance of Unemployment Trust Fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612605",
+      "number": "612.605",
+      "heading": "Creation;",
+      "text": "receipt and use of money.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612606",
+      "number": "612.606",
+      "heading": "Additional",
+      "text": "contributions by employer required for support of program for employment and\n\ntraining of unemployed persons and persons employed in this State; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612607",
+      "number": "612.607",
+      "heading": "Deposit,",
+      "text": "transfer and expenditure of payments for program for employment and training of\n\nunemployed persons and persons employed in this State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612608",
+      "number": "612.608",
+      "heading": "Accrual",
+      "text": "and submission of payments for program for employment and training of\n\nunemployed persons and persons employed in this State; disregard of fractions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612609",
+      "number": "612.609",
+      "heading": "Disbursement",
+      "text": "of delinquent payments by employers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612610",
+      "number": "612.610",
+      "heading": "Reimbursement.",
+      "text": "Reimbursement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6126102",
+      "number": "612.6102",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6126104",
+      "number": "612.6104",
+      "heading": "Benefits�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6126106",
+      "number": "612.6106",
+      "heading": "Bond�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6126108",
+      "number": "612.6108",
+      "heading": "Bond",
+      "text": "administrative expense� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612611",
+      "number": "612.611",
+      "heading": "Bond",
+      "text": "obligation� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6126112",
+      "number": "612.6112",
+      "heading": "Credit",
+      "text": "agreement� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6126114",
+      "number": "612.6114",
+      "heading": "Federal",
+      "text": "advance� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6126116",
+      "number": "612.6116",
+      "heading": "Special",
+      "text": "bond contributions� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6126118",
+      "number": "612.6118",
+      "heading": "Unemployment",
+      "text": "Compensation Bond Fund� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612612",
+      "number": "612.612",
+      "heading": "Legislative",
+      "text": "findings and declarations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6126122",
+      "number": "612.6122",
+      "heading": "State",
+      "text": "Board of Finance authorized to issue bonds to repay loans from Federal\n\nGovernment for payment of unemployment compensation and to establish adequate\n\nbalances in Unemployment Trust Fund; contents of bond.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6126124",
+      "number": "612.6124",
+      "heading": "Security",
+      "text": "for bonds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6126128",
+      "number": "612.6128",
+      "heading": "Procedure",
+      "text": "for payment of bond-related obligations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612613",
+      "number": "612.613",
+      "heading": "Creation;",
+      "text": "sources; uses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6126132",
+      "number": "612.6132",
+      "heading": "Payment",
+      "text": "of special bond contributions; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6126134",
+      "number": "612.6134",
+      "heading": "Faith",
+      "text": "of State pledged not to impair bonds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612615",
+      "number": "612.615",
+      "heading": "Creation;",
+      "text": "source and use of money.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612617",
+      "number": "612.617",
+      "heading": "Requisition",
+      "text": "and use of money credited to Nevada account.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6126175",
+      "number": "612.6175",
+      "heading": "Creation;",
+      "text": "sources; uses; duties of Administrator; assessment to be paid by employers;\n\nexceptions; management of money upon discontinuance of Fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612618",
+      "number": "612.618",
+      "heading": "Payment",
+      "text": "that is returned or dishonored does not constitute timely payment; additional\n\nfee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612620",
+      "number": "612.620",
+      "heading": "Interest",
+      "text": "on unpaid contributions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612625",
+      "number": "612.625",
+      "heading": "Civil",
+      "text": "action: Notice; attachment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612630",
+      "number": "612.630",
+      "heading": "Summary",
+      "text": "judgment: Filing certificate; where to be filed; contents; entry of judgment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612635",
+      "number": "612.635",
+      "heading": "Judgments:",
+      "text": "Recording of abstract or copy; liens; priorities; execution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612640",
+      "number": "612.640",
+      "heading": "Appeals",
+      "text": "to appellate court.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612642",
+      "number": "612.642",
+      "heading": "Required",
+      "text": "notice to State Contractors� Board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612645",
+      "number": "612.645",
+      "heading": "Division",
+      "text": "authorized to act on behalf of State; filing fees, costs or bonds not required\n\nof State; additional fee for recording, copying or certifying documents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612650",
+      "number": "612.650",
+      "heading": "Priorities",
+      "text": "under legal dissolutions or distributions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612655",
+      "number": "612.655",
+      "heading": "Refunds",
+      "text": "and adjustments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612660",
+      "number": "612.660",
+      "heading": "Arbitrary",
+      "text": "assessments upon failure of employer to file report or upon filing of incorrect\n\nor insufficient report.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612665",
+      "number": "612.665",
+      "heading": "Notice",
+      "text": "of arbitrary assessment: Contents; finality of assessment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612670",
+      "number": "612.670",
+      "heading": "Readjustment",
+      "text": "or modification of assessment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612675",
+      "number": "612.675",
+      "heading": "Jeopardized",
+      "text": "collections: Assessment; stay of collection of assessment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612680",
+      "number": "612.680",
+      "heading": "Liens:",
+      "text": "Creation; notice; foreclosure; release; compromise and satisfaction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612685",
+      "number": "612.685",
+      "heading": "Creditors",
+      "text": "and debtors of employer: Notice of delinquency of payment owed by employer;\n\npower of State to satisfy debt owed to it.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612686",
+      "number": "612.686",
+      "heading": "Creditors",
+      "text": "and debtors of employer: Duties; certain transfers of property prohibited;\n\ndemand to transmit certain property to Administrator.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612687",
+      "number": "612.687",
+      "heading": "Liability",
+      "text": "of contractor to assure payment of amounts due from subcontractors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612690",
+      "number": "612.690",
+      "heading": "Liability",
+      "text": "of assignee, receiver, trustee and others selling property of employing unit:\n\nNotice to Division.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612695",
+      "number": "612.695",
+      "heading": "Liability",
+      "text": "of employer and purchaser or transferee upon sale or transfer of assets and\n\nquitting business.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612700",
+      "number": "612.700",
+      "heading": "Waiver",
+      "text": "of rights void.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612705",
+      "number": "612.705",
+      "heading": "Limitation",
+      "text": "of fees; unlawful solicitation; attorney�s fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612710",
+      "number": "612.710",
+      "heading": "Assignment",
+      "text": "of benefits void; exemption from execution and attachment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6127102",
+      "number": "612.7102",
+      "heading": "Administrator",
+      "text": "authorized to require employer to withhold income to satisfy judgment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6127104",
+      "number": "612.7104",
+      "heading": "Notice",
+      "text": "to person who is subject to withholding.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6127106",
+      "number": "612.7106",
+      "heading": "Notice",
+      "text": "to employer to withhold income; contents; notice may be issued electronically.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6127108",
+      "number": "612.7108",
+      "heading": "Duties",
+      "text": "of employer upon receipt of notice to withhold.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612711",
+      "number": "612.711",
+      "heading": "Notice",
+      "text": "to withhold binding upon employer; employer may deduct amount for reimbursement\n\nof costs; electronic transfer of payments by employer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6127112",
+      "number": "612.7112",
+      "heading": "Unlawful",
+      "text": "to use withholding as basis for refusing to hire, discharging or taking\n\ndisciplinary action against employee; liability; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6127114",
+      "number": "612.7114",
+      "heading": "Enforcement",
+      "text": "proceedings against employer for refusal to withhold or misrepresentation of\n\nemployee income; remedies and penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6127116",
+      "number": "612.7116",
+      "heading": "Employer",
+      "text": "and Administrator immunity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612715",
+      "number": "612.715",
+      "heading": "False",
+      "text": "statement or failure to disclose material fact to obtain or increase benefit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612717",
+      "number": "612.717",
+      "heading": "False",
+      "text": "statement or failure to disclose material fact concerning termination of\n\nemployment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612720",
+      "number": "612.720",
+      "heading": "Conspiracy",
+      "text": "to obtain or increase benefit; series of false statements to obtain or increase\n\nbenefit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612725",
+      "number": "612.725",
+      "heading": "False",
+      "text": "statement or failure to disclose material fact to obtain or increase benefit\n\nunder federal law or law of another state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612730",
+      "number": "612.730",
+      "heading": "False",
+      "text": "statement or failure to disclose material facts by employer to prevent or\n\nreduce payment of benefits; willful failure or refusal to pay contributions or\n\nmake reports; plan or scheme to avoid application of or reduce payment required\n\nby chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612732",
+      "number": "612.732",
+      "heading": "Transfer",
+      "text": "or acquisition of business to obtain lower contribution rate; activity of\n\nemployer to obtain more favorable contribution rate; advising another person to\n\nviolate provisions of chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612735",
+      "number": "612.735",
+      "heading": "Violations",
+      "text": "of chapter, rules, regulations and orders.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612740",
+      "number": "612.740",
+      "heading": "Forfeits",
+      "text": "and interest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612745",
+      "number": "612.745",
+      "heading": "Representation",
+      "text": "in court.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612750",
+      "number": "612.750",
+      "heading": "Reciprocal",
+      "text": "arrangements by Administrator.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612755",
+      "number": "612.755",
+      "heading": "Power",
+      "text": "of Legislature to amend or repeal chapter reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-612760",
+      "number": "612.760",
+      "heading": "Conditions",
+      "text": "under which chapter becomes inoperative; refund of unobligated money.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4",
+      "number": "4",
+      "heading": "of Article 6",
+      "text": "of Article 6",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3",
+      "number": "3",
+      "heading": "of Article 9",
+      "text": "of Article 9",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-urity",
+      "number": "urity",
+      "heading": "for bonds.",
+      "text": "for bonds.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

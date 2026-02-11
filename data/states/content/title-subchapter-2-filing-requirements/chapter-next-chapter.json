@@ -1,0 +1,46 @@
+{
+  "state": "kentucky",
+  "path": "title-subchapter-2-filing-requirements/chapter-next-chapter",
+  "sections": [
+    {
+      "id": "section-3-010",
+      "number": "3-010",
+      "heading": "Entity name..3-020  Reserved name..3-030  Registered name..3-040  Name of foreign entity..3-050  Assumed name.",
+      "text": "Entity name..3-020 Reserved name..3-030 Registered name..3-040 Name of foreign entity..3-050 Assumed name.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3-020",
+      "number": "3-020",
+      "heading": "Reserved name.",
+      "text": "Reserved name.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3-030",
+      "number": "3-030",
+      "heading": "Registered name.",
+      "text": "Registered name.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3-040",
+      "number": "3-040",
+      "heading": "Name of foreign entity.",
+      "text": "Name of foreign entity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3-050",
+      "number": "3-050",
+      "heading": "Assumed name.",
+      "text": "Assumed name.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

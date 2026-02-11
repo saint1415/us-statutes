@@ -1,0 +1,1782 @@
+{
+  "state": "nevada",
+  "path": "title-nrs-597/chapter-nrs-597",
+  "sections": [
+    {
+      "id": "section-597010",
+      "number": "597.010",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597020",
+      "number": "597.020",
+      "heading": "Applicability",
+      "text": "of laws.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597030",
+      "number": "597.030",
+      "heading": "Lease",
+      "text": "agreement: Disclosures required; exception to requirement; provision of copy to\n\ncustomer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597040",
+      "number": "597.040",
+      "heading": "Required",
+      "text": "disclosures: Manner of making; transactions with multiple lessors; effect of\n\ninaccuracy caused by customer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597050",
+      "number": "597.050",
+      "heading": "Lease",
+      "text": "agreement: Disclosures required upon renegotiation but not upon extension; when\n\ndeemed to be renegotiated.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597060",
+      "number": "597.060",
+      "heading": "Lease",
+      "text": "agreement: Prohibited provisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597070",
+      "number": "597.070",
+      "heading": "Lease",
+      "text": "agreement: Reinstatement after customer fails to make timely payment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597080",
+      "number": "597.080",
+      "heading": "Receipt",
+      "text": "required for certain payments by customer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597090",
+      "number": "597.090",
+      "heading": "Advertisement",
+      "text": "for lease agreement that refers to payment or right to acquire ownership:\n\nRequirements; exception; liability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597100",
+      "number": "597.100",
+      "heading": "Criminal",
+      "text": "penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597110",
+      "number": "597.110",
+      "heading": "Civil",
+      "text": "penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597112",
+      "number": "597.112",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5971123",
+      "number": "597.1123",
+      "heading": "Dealer�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5971127",
+      "number": "597.1127",
+      "heading": "Dealer",
+      "text": "agreement� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597113",
+      "number": "597.113",
+      "heading": "Inventory�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5971133",
+      "number": "597.1133",
+      "heading": "Net",
+      "text": "price� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5971137",
+      "number": "597.1137",
+      "heading": "Superseded",
+      "text": "part� and �superseded repair part� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597114",
+      "number": "597.114",
+      "heading": "Supplier�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5971143",
+      "number": "597.1143",
+      "heading": "Dealer",
+      "text": "agreement: Termination, failure to renew or substantial change of terms for\n\ngood cause.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5971147",
+      "number": "597.1147",
+      "heading": "Return",
+      "text": "of surplus parts to supplier; credit for returned parts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597115",
+      "number": "597.115",
+      "heading": "Limitations",
+      "text": "on requirements imposed by supplier upon dealer; prohibition against certain\n\nchanges to dealer agreement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5971153",
+      "number": "597.1153",
+      "heading": "Repurchase",
+      "text": "of inventory and equipment by supplier upon termination of dealer agreement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5971157",
+      "number": "597.1157",
+      "heading": "Requirements",
+      "text": "regarding dealer�s reserve account for recourse after termination of dealer\n\nagreement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597116",
+      "number": "597.116",
+      "heading": "Limitations",
+      "text": "on requirements for supplier to repurchase inventory.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5971163",
+      "number": "597.1163",
+      "heading": "Failure",
+      "text": "of supplier to repurchase inventory.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5971167",
+      "number": "597.1167",
+      "heading": "Death",
+      "text": "of dealer or majority shareholder of dealer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597117",
+      "number": "597.117",
+      "heading": "Security",
+      "text": "interest of supplier in inventory; inspection of inventory before shipment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5971173",
+      "number": "597.1173",
+      "heading": "Enforcement",
+      "text": "by dealer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5971177",
+      "number": "597.1177",
+      "heading": "Warranty",
+      "text": "work performed by dealer; payment of warranty claim by supplier; audit of\n\nclaim.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597118",
+      "number": "597.118",
+      "heading": "Right,",
+      "text": "obligation or liability may not be waived.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597120",
+      "number": "597.120",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597125",
+      "number": "597.125",
+      "heading": "Alcoholic",
+      "text": "beverage� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597130",
+      "number": "597.130",
+      "heading": "Franchise�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597133",
+      "number": "597.133",
+      "heading": "Good",
+      "text": "cause� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597136",
+      "number": "597.136",
+      "heading": "Marketing",
+      "text": "area� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597140",
+      "number": "597.140",
+      "heading": "Supplier�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597150",
+      "number": "597.150",
+      "heading": "Wholesaler�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597155",
+      "number": "597.155",
+      "heading": "Termination",
+      "text": "of franchise by supplier: Notice; effective date.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597157",
+      "number": "597.157",
+      "heading": "Transfer",
+      "text": "of stock or assets or change in ownership or control of wholesaler: Supplier to\n\napprove within 60 days if person to be substituted meets certain requirements;\n\nsupplier shall not unreasonably withhold or delay approval of certain\n\ntransactions; liability of supplier.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597160",
+      "number": "597.160",
+      "heading": "Prohibited",
+      "text": "acts by supplier; exceptions; correction by wholesaler of alleged failure to\n\ncomply with franchise.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597162",
+      "number": "597.162",
+      "heading": "Additional",
+      "text": "prohibited acts by supplier.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597165",
+      "number": "597.165",
+      "heading": "Requiring",
+      "text": "wholesaler to increase payment for product prohibited after delivery by\n\nsupplier.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597170",
+      "number": "597.170",
+      "heading": "Remedies",
+      "text": "of wholesaler.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597175",
+      "number": "597.175",
+      "heading": "Term",
+      "text": "of contract or agreement that alters or waives provisions void and\n\nunenforceable.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597180",
+      "number": "597.180",
+      "heading": "Action",
+      "text": "by wholesaler: Defense by supplier.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597190",
+      "number": "597.190",
+      "heading": "Statement",
+      "text": "of legislative policy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597200",
+      "number": "597.200",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597210",
+      "number": "597.210",
+      "heading": "Limitations",
+      "text": "on engaging in business of importing, wholesaling or retailing alcoholic\n\nbeverages.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597220",
+      "number": "597.220",
+      "heading": "Importer",
+      "text": "or wholesaler prohibited from engaging in business of retailing alcoholic\n\nbeverages or operating or locating business on premises or property of\n\nsupplier; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597225",
+      "number": "597.225",
+      "heading": "Requirements",
+      "text": "to serve samples of alcoholic beverages on premises of grocery store; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597230",
+      "number": "597.230",
+      "heading": "Operation",
+      "text": "of brew pub.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597235",
+      "number": "597.235",
+      "heading": "Operation",
+      "text": "of craft distillery.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597237",
+      "number": "597.237",
+      "heading": "Operation",
+      "text": "of estate distillery. [Effective through September 30, 2025.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597240",
+      "number": "597.240",
+      "heading": "Operation",
+      "text": "of winery; regulations. [Effective through September 30, 2025.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597245",
+      "number": "597.245",
+      "heading": "Operation",
+      "text": "of instructional wine-making facility; prohibited activities; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597250",
+      "number": "597.250",
+      "heading": "Violations:",
+      "text": "Suspension or revocation of license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597255",
+      "number": "597.255",
+      "heading": "Violations:",
+      "text": "Civil penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597260",
+      "number": "597.260",
+      "heading": "Penalty;",
+      "text": "civil liability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597262",
+      "number": "597.262",
+      "heading": "Enforcement",
+      "text": "by Attorney General and district attorneys; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597264",
+      "number": "597.264",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5972643",
+      "number": "597.2643",
+      "heading": "Assistive",
+      "text": "device� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5972645",
+      "number": "597.2645",
+      "heading": "Consumer�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5972647",
+      "number": "597.2647",
+      "heading": "Dealer�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597265",
+      "number": "597.265",
+      "heading": "Manufacturer�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5972653",
+      "number": "597.2653",
+      "heading": "Manufacturer",
+      "text": "to provide express warranty for new assistive device; effective period of\n\nwarranty; failure to provide warranty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5972655",
+      "number": "597.2655",
+      "heading": "Repair",
+      "text": "of assistive device not in conformance with express warranty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5972657",
+      "number": "597.2657",
+      "heading": "Inability",
+      "text": "of manufacturer or dealer to conform assistive device to express warranty after\n\nreasonable number of repairs: Replacement or refund; presumptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597266",
+      "number": "597.266",
+      "heading": "Manufacturer",
+      "text": "to reimburse consumer for rental of assistive device in certain circumstances;\n\naction against dealer for failure to deliver assistive device for repair in\n\ntimely manner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5972663",
+      "number": "597.2663",
+      "heading": "Sale",
+      "text": "or lease of returned assistive device prohibited unless reason for return\n\ndisclosed to prospective consumer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5972665",
+      "number": "597.2665",
+      "heading": "Action",
+      "text": "for damages and equitable relief; costs and attorney�s fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5972667",
+      "number": "597.2667",
+      "heading": "Rights",
+      "text": "and remedies not exclusive; waiver of rights void.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597270",
+      "number": "597.270",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597280",
+      "number": "597.280",
+      "heading": "Affiliate�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597290",
+      "number": "597.290",
+      "heading": "Control�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597300",
+      "number": "597.300",
+      "heading": "Franchise�",
+      "text": "and �franchise agreement� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597305",
+      "number": "597.305",
+      "heading": "Lessee",
+      "text": "dealer� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597310",
+      "number": "597.310",
+      "heading": "Marketing",
+      "text": "area� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597320",
+      "number": "597.320",
+      "heading": "Motor",
+      "text": "vehicle fuel� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597330",
+      "number": "597.330",
+      "heading": "Price�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597340",
+      "number": "597.340",
+      "heading": "Refiner�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597350",
+      "number": "597.350",
+      "heading": "Refinery�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597360",
+      "number": "597.360",
+      "heading": "Retailer�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597370",
+      "number": "597.370",
+      "heading": "Service",
+      "text": "station� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597380",
+      "number": "597.380",
+      "heading": "Wholesale",
+      "text": "purchaser� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597390",
+      "number": "597.390",
+      "heading": "Prohibited",
+      "text": "practices of refiners.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597400",
+      "number": "597.400",
+      "heading": "Circumstances",
+      "text": "under which fair compensation is required on failure of refiner to renew\n\nfranchise.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597410",
+      "number": "597.410",
+      "heading": "Required",
+      "text": "notice of termination, cancellation or failure to renew franchise or contract.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597420",
+      "number": "597.420",
+      "heading": "Effect",
+      "text": "of failure to serve notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597430",
+      "number": "597.430",
+      "heading": "Manner",
+      "text": "of giving notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597440",
+      "number": "597.440",
+      "heading": "Restrictions",
+      "text": "on refiner�s operation of service stations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597450",
+      "number": "597.450",
+      "heading": "Temporary",
+      "text": "operation of service station by refiner; limitations on temporary operation;\n\nprice of motor vehicle fuel sold to other retailers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597460",
+      "number": "597.460",
+      "heading": "Refiner�s",
+      "text": "failure to act in good faith or use of undue influence prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597470",
+      "number": "597.470",
+      "heading": "Judicial",
+      "text": "relief; costs and attorney�s fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597600",
+      "number": "597.600",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597610",
+      "number": "597.610",
+      "heading": "Report",
+      "text": "of defect in motor vehicle; duty of manufacturer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597620",
+      "number": "597.620",
+      "heading": "Submission",
+      "text": "of claim to manufacturer for replacement or refund according to designated\n\nprocedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597630",
+      "number": "597.630",
+      "heading": "Duties",
+      "text": "of manufacturer if motor vehicle cannot be conformed to express warranties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597640",
+      "number": "597.640",
+      "heading": "Tolling",
+      "text": "of period for express warranties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597650",
+      "number": "597.650",
+      "heading": "Commencement",
+      "text": "of action by buyer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597660",
+      "number": "597.660",
+      "heading": "Waiver",
+      "text": "of rights by buyer prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597670",
+      "number": "597.670",
+      "heading": "Effect",
+      "text": "on other rights and remedies of buyer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597675",
+      "number": "597.675",
+      "heading": "Notification",
+      "text": "of manufacturer regarding change in residential address.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597680",
+      "number": "597.680",
+      "heading": "Reimbursement",
+      "text": "by manufacturer for cost of repairs to conform vehicle to express warranties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597682",
+      "number": "597.682",
+      "heading": "Lemon",
+      "text": "Law Buyback: General duties regarding retitling, notice and disclosures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597684",
+      "number": "597.684",
+      "heading": "Lemon",
+      "text": "Law Buyback: Form of notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597686",
+      "number": "597.686",
+      "heading": "Lemon",
+      "text": "Law Buyback: Prohibition against certain nondisclosure agreements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597688",
+      "number": "597.688",
+      "heading": "Lemon",
+      "text": "Law Buyback: Civil action.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597690",
+      "number": "597.690",
+      "heading": "Manufacturer",
+      "text": "required to remedy defects in vehicle related to safety without charge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597710",
+      "number": "597.710",
+      "heading": "Unlawful",
+      "text": "to place certain transparent material upon windshield or side or rear window of\n\nmotor vehicle for compensation; exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597711",
+      "number": "597.711",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977112",
+      "number": "597.7112",
+      "heading": "Children�s",
+      "text": "product� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977114",
+      "number": "597.7114",
+      "heading": "Retailer�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977116",
+      "number": "597.7116",
+      "heading": "Warning�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977118",
+      "number": "597.7118",
+      "heading": "Sale",
+      "text": "of children�s products subject to recall or warning prohibited; duties of\n\nretailer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597712",
+      "number": "597.712",
+      "heading": "Short",
+      "text": "title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977121",
+      "number": "597.7121",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977122",
+      "number": "597.7122",
+      "heading": "Commercial",
+      "text": "user� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977123",
+      "number": "597.7123",
+      "heading": "Crib�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977124",
+      "number": "597.7124",
+      "heading": "Infant�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977125",
+      "number": "597.7125",
+      "heading": "Sale",
+      "text": "of unsafe crib prohibited; standards for crib safety.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977126",
+      "number": "597.7126",
+      "heading": "Penalty.",
+      "text": "Penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977127",
+      "number": "597.7127",
+      "heading": "Exception",
+      "text": "for antique or vintage crib.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977128",
+      "number": "597.7128",
+      "heading": "Civil",
+      "text": "remedies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977131",
+      "number": "597.7131",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977132",
+      "number": "597.7132",
+      "heading": "Business",
+      "text": "textile� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977133",
+      "number": "597.7133",
+      "heading": "Child�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977134",
+      "number": "597.7134",
+      "heading": "Children�s",
+      "text": "product� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977135",
+      "number": "597.7135",
+      "heading": "Mattress�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977136",
+      "number": "597.7136",
+      "heading": "Organohalogenated",
+      "text": "chemical� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977137",
+      "number": "597.7137",
+      "heading": "Residential",
+      "text": "textile� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977138",
+      "number": "597.7138",
+      "heading": "Upholstered",
+      "text": "residential furniture� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977139",
+      "number": "597.7139",
+      "heading": "Manufacture,",
+      "text": "sale, offer for sale or distribution of certain products containing\n\nflame-retardant organohalogenated chemicals prohibited; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597714",
+      "number": "597.714",
+      "heading": "Manufacturer",
+      "text": "prohibited from replacing flame-retardant organohalogenated chemical with\n\ncertain other chemicals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977141",
+      "number": "597.7141",
+      "heading": "Civil",
+      "text": "penalty for violation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597717",
+      "number": "597.717",
+      "heading": "Legislative",
+      "text": "findings and declarations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977171",
+      "number": "597.7171",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977172",
+      "number": "597.7172",
+      "heading": "Commencement",
+      "text": "date� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977173",
+      "number": "597.7173",
+      "heading": "Commission�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977174",
+      "number": "597.7174",
+      "heading": "Foil",
+      "text": "balloon� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977175",
+      "number": "597.7175",
+      "heading": "P2845",
+      "text": "Standard� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977176",
+      "number": "597.7176",
+      "heading": "Required",
+      "text": "mark; prohibited acts by seller or distributor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977177",
+      "number": "597.7177",
+      "heading": "Sale",
+      "text": "or manufacture of foil balloon prohibited unless balloon tested and meets\n\nperformance standards; tolling.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977178",
+      "number": "597.7178",
+      "heading": "Adoption",
+      "text": "of standards for testing and evaluating dielectric performance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977179",
+      "number": "597.7179",
+      "heading": "Civil",
+      "text": "penalty for violation; action for recovery of penalty; deposit of penalty\n\ncollected; considerations in determining whether to impose penalty; injunction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597720",
+      "number": "597.720",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597730",
+      "number": "597.730",
+      "heading": "Right",
+      "text": "to claim or disclaim authorship.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597740",
+      "number": "597.740",
+      "heading": "Restrictions",
+      "text": "on publication and public display; civil remedy; defacement, mutilation or\n\nalteration of work.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597750",
+      "number": "597.750",
+      "heading": "Waiver",
+      "text": "of rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597760",
+      "number": "597.760",
+      "heading": "Transfer",
+      "text": "of ownership or right of reproduction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597761",
+      "number": "597.761",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977612",
+      "number": "597.7612",
+      "heading": "Operator�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977613",
+      "number": "597.7613",
+      "heading": "Owner�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977614",
+      "number": "597.7614",
+      "heading": "Phototherapy",
+      "text": "device� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977615",
+      "number": "597.7615",
+      "heading": "Tanning",
+      "text": "equipment� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977616",
+      "number": "597.7616",
+      "heading": "Tanning",
+      "text": "establishment� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977617",
+      "number": "597.7617",
+      "heading": "Owner",
+      "text": "or operator: Prohibited acts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977618",
+      "number": "597.7618",
+      "heading": "Owner",
+      "text": "or operator: Duty to post notice in tanning establishment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977619",
+      "number": "597.7619",
+      "heading": "Owner",
+      "text": "or operator: Duty to post warning sign in tanning establishment; civil penalty\n\nfor violation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597762",
+      "number": "597.762",
+      "heading": "Owner",
+      "text": "or operator: Additional duties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977621",
+      "number": "597.7621",
+      "heading": "Action",
+      "text": "by parent or guardian of minor against owner or operator for certain\n\nviolations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977622",
+      "number": "597.7622",
+      "heading": "Exceptions.",
+      "text": "Exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977625",
+      "number": "597.7625",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977626",
+      "number": "597.7626",
+      "heading": "Commission�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977627",
+      "number": "597.7627",
+      "heading": "Food",
+      "text": "delivery service platform� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977628",
+      "number": "597.7628",
+      "heading": "Food",
+      "text": "delivery service platform provider� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977629",
+      "number": "597.7629",
+      "heading": "Food",
+      "text": "dispensing establishment� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597763",
+      "number": "597.763",
+      "heading": "Food",
+      "text": "purchase price� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977631",
+      "number": "597.7631",
+      "heading": "Likeness�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977632",
+      "number": "597.7632",
+      "heading": "Online",
+      "text": "food order� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977633",
+      "number": "597.7633",
+      "heading": "Total",
+      "text": "online food order price� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977634",
+      "number": "597.7634",
+      "heading": "User�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977635",
+      "number": "597.7635",
+      "heading": "Facilitation",
+      "text": "of online food order without written agreement with food dispensing\n\nestablishment prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977636",
+      "number": "597.7636",
+      "heading": "Request",
+      "text": "of food dispensing establishment for removal from food delivery service\n\nplatform; duty of food delivery service platform provider that receives\n\nrequest; civil penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977637",
+      "number": "597.7637",
+      "heading": "Use",
+      "text": "of likeness, registered trademark or intellectual property of food dispensing\n\nestablishment without written consent prohibited; civil penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977638",
+      "number": "597.7638",
+      "heading": "Action",
+      "text": "for damages for unlawful use of likeness, registered trademark or intellectual\n\nproperty of food dispensing establishment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977639",
+      "number": "597.7639",
+      "heading": "Duty",
+      "text": "of food delivery service platform provider to disclose to user certain\n\ninformation associated with online food order; manner of disclosure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597764",
+      "number": "597.764",
+      "heading": "Food",
+      "text": "delivery service platform provider may request to disclose required information\n\nin alternative manner; submission of request to Commissioner of Consumer\n\nAffairs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977641",
+      "number": "597.7641",
+      "heading": "Limitation",
+      "text": "on commission for online food order during certain periods in which declaration\n\nof emergency is in effect; provisions do not supersede or preempt certain\n\nordinances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5977642",
+      "number": "597.7642",
+      "heading": "Knowing",
+      "text": "violation deemed deceptive trade practice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597770",
+      "number": "597.770",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597780",
+      "number": "597.780",
+      "heading": "Scope.",
+      "text": "Scope.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597790",
+      "number": "597.790",
+      "heading": "Existence",
+      "text": "and term of right; written consent required for commercial use; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597800",
+      "number": "597.800",
+      "heading": "Transferability",
+      "text": "of right; commercial use upon death; rights of successors in interest;\n\nregistration of claim; fee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597810",
+      "number": "597.810",
+      "heading": "Remedies",
+      "text": "for unauthorized commercial use; liability of owner or employee of medium used\n\nfor advertising.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597812",
+      "number": "597.812",
+      "heading": "Device",
+      "text": "for automatic dialing and announcing� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597814",
+      "number": "597.814",
+      "heading": "Use",
+      "text": "prohibited; exceptions; restrictions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597816",
+      "number": "597.816",
+      "heading": "Additional",
+      "text": "exceptions to prohibition of use.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597818",
+      "number": "597.818",
+      "heading": "Penalty.",
+      "text": "Penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5978191",
+      "number": "597.8191",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5978192",
+      "number": "597.8192",
+      "heading": "Service",
+      "text": "member� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5978193",
+      "number": "597.8193",
+      "heading": "Written",
+      "text": "notice� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5978194",
+      "number": "597.8194",
+      "heading": "Termination",
+      "text": "or suspension of contracts upon deployment or permanent change of station\n\nauthorized; proof; effective date.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5978195",
+      "number": "597.8195",
+      "heading": "Reinstatement",
+      "text": "of service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5978196",
+      "number": "597.8196",
+      "heading": "Charges",
+      "text": "solely for termination, suspension or reinstatement prohibited; period of\n\nnonliability for payment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5978197",
+      "number": "597.8197",
+      "heading": "Action",
+      "text": "for recovery of damages or for declaratory or equitable relief; attorney�s fees\n\nand costs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5978198",
+      "number": "597.8198",
+      "heading": "Enforcement",
+      "text": "by Attorney General; remedies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597820",
+      "number": "597.820",
+      "heading": "Profiteering",
+      "text": "in articles on which there is sales tax; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597830",
+      "number": "597.830",
+      "heading": "Unlawful",
+      "text": "additions to entertainment or amusement tax; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597840",
+      "number": "597.840",
+      "heading": "Unlawful",
+      "text": "retention of deposit for longer than agreed time; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597850",
+      "number": "597.850",
+      "heading": "Shoplifting:",
+      "text": "Merchant may request person on premises to keep merchandise in full view;\n\ndetention of suspect; immunity of merchant from liability; display of notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597860",
+      "number": "597.860",
+      "heading": "Shoplifting:",
+      "text": "Civil liability of adult who steals merchandise from or damages property on\n\nmerchant�s premises.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597870",
+      "number": "597.870",
+      "heading": "Shoplifting:",
+      "text": "Civil liability of parent or guardian of minor who steals merchandise from or\n\ndamages property on merchant�s premises.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597880",
+      "number": "597.880",
+      "heading": "Sale",
+      "text": "and advertising of master keys for motor vehicles limited; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597890",
+      "number": "597.890",
+      "heading": "Advertising",
+      "text": "that climate of facility for storage of personal property is controlled:\n\nRequirements; penalty; civil liability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597900",
+      "number": "597.900",
+      "heading": "Sale",
+      "text": "of imitation Indian arts and crafts not clearly labeled as imitation\n\nprohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597905",
+      "number": "597.905",
+      "heading": "Purchase",
+      "text": "or sale of or possession with intent to sell items made of part or byproduct of\n\ncertain animals: Prohibition; exceptions; penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597915",
+      "number": "597.915",
+      "heading": "Informal",
+      "text": "merchants: Prohibited acts; penalty; evidence of legal acquisition of new\n\nproduct.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597935",
+      "number": "597.935",
+      "heading": "Acceptance",
+      "text": "of permanent resident card to identify customer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597937",
+      "number": "597.937",
+      "heading": "Acceptance",
+      "text": "of tribal identification card to identify customer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597940",
+      "number": "597.940",
+      "heading": "Restrictions",
+      "text": "on recording of account number of credit card as condition to accepting check\n\nor draft; restrictions on recording of telephone number as condition to\n\naccepting credit card.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597945",
+      "number": "597.945",
+      "heading": "Restrictions",
+      "text": "on printing expiration date or account number of credit card or debit card on\n\nreceipt: Restrictions applicable to businesses which accept credit cards or\n\ndebit cards; penalties; enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597947",
+      "number": "597.947",
+      "heading": "Restrictions",
+      "text": "on printing expiration date or account number of credit card or debit card on\n\nreceipt: Restrictions applicable to manufacturer or supplier of device;\n\npenalty; enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597950",
+      "number": "597.950",
+      "heading": "Unsolicited",
+      "text": "merchandise deemed unconditional gift to recipient; liability of sender;\n\nexceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597960",
+      "number": "597.960",
+      "heading": "Collection",
+      "text": "of fee for dishonored check accepted as payment for goods or services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597980",
+      "number": "597.980",
+      "heading": "Sale",
+      "text": "of novelty lighter prohibited; applicability; penalty; enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597985",
+      "number": "597.985",
+      "heading": "Knowing",
+      "text": "manufacture, sale or distribution of certain products containing Bisphenol A\n\nprohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597990",
+      "number": "597.990",
+      "heading": "Knowing",
+      "text": "manufacture, sale or distribution of baby food or infant formula in container\n\ncontaining Bisphenol A prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597995",
+      "number": "597.995",
+      "heading": "Limitations",
+      "text": "on agreements which include provision requiring arbitration of disputes arising\n\nbetween parties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597996",
+      "number": "597.996",
+      "heading": "Prohibited",
+      "text": "provisions relating to review, comment or statement by consumer in form\n\ncontract for purchase, lease or rental of consumer goods or services; penalties;\n\nenforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597997",
+      "number": "597.997",
+      "heading": "Prohibition",
+      "text": "on certain offers to lease living animal or goods intended for personal, family\n\nor household use; federal Truth in Lending Act applicable to retail installment\n\ncontract for sale of living animal or goods intended for personal, family or\n\nhousehold use; failure to comply constitutes deceptive trade practice;\n\nviolation constitutes consumer fraud.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-597998",
+      "number": "597.998",
+      "heading": "Prohibited",
+      "text": "acts relating to sale, preparation, distribution or advertisement of kratom\n\nproducts or products containing kratom.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-urity",
+      "number": "urity",
+      "heading": "interest of supplier in inventory; inspection of",
+      "text": "inventory before shipment.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

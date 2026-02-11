@@ -1,0 +1,1206 @@
+{
+  "state": "nevada",
+  "path": "title-nrs-489/chapter-nrs-489",
+  "sections": [
+    {
+      "id": "section-489021",
+      "number": "489.021",
+      "heading": "Legislative",
+      "text": "findings and declaration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489031",
+      "number": "489.031",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489034",
+      "number": "489.034",
+      "heading": "Account�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489036",
+      "number": "489.036",
+      "heading": "Administrator�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489043",
+      "number": "489.043",
+      "heading": "Brokerage",
+      "text": "agreement� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489051",
+      "number": "489.051",
+      "heading": "Certificate",
+      "text": "of compliance� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489056",
+      "number": "489.056",
+      "heading": "Client�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489062",
+      "number": "489.062",
+      "heading": "Commercial",
+      "text": "coach� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489076",
+      "number": "489.076",
+      "heading": "Dealer�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489081",
+      "number": "489.081",
+      "heading": "Distributor�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489091",
+      "number": "489.091",
+      "heading": "Division�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489092",
+      "number": "489.092",
+      "heading": "Dwelling�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489095",
+      "number": "489.095",
+      "heading": "Established",
+      "text": "place of business� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489097",
+      "number": "489.097",
+      "heading": "Factory-built",
+      "text": "housing� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489100",
+      "number": "489.100",
+      "heading": "Firm�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489101",
+      "number": "489.101",
+      "heading": "Franchise�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4891013",
+      "number": "489.1013",
+      "heading": "Franchisee�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4891017",
+      "number": "489.1017",
+      "heading": "Franchisor�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489102",
+      "number": "489.102",
+      "heading": "General",
+      "text": "serviceperson� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489104",
+      "number": "489.104",
+      "heading": "Installation�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489110",
+      "number": "489.110",
+      "heading": "Label",
+      "text": "of compliance� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489112",
+      "number": "489.112",
+      "heading": "Manufactured",
+      "text": "building� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489113",
+      "number": "489.113",
+      "heading": "Manufactured",
+      "text": "home� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489115",
+      "number": "489.115",
+      "heading": "Manufacturer�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489120",
+      "number": "489.120",
+      "heading": "Mobile",
+      "text": "home� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489121",
+      "number": "489.121",
+      "heading": "Modular",
+      "text": "component� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489122",
+      "number": "489.122",
+      "heading": "Movement�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489125",
+      "number": "489.125",
+      "heading": "New",
+      "text": "manufactured home,� �new mobile home,� �new travel trailer,� �new manufactured\n\nbuilding,� �new commercial coach� and �new factory-built housing� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489133",
+      "number": "489.133",
+      "heading": "Portable",
+      "text": "building� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4891351",
+      "number": "489.1351",
+      "heading": "Recreational",
+      "text": "park trailer� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4891353",
+      "number": "489.1353",
+      "heading": "Responsible",
+      "text": "managing employee� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489137",
+      "number": "489.137",
+      "heading": "Salesperson�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489147",
+      "number": "489.147",
+      "heading": "Specialty",
+      "text": "serviceperson� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489150",
+      "number": "489.150",
+      "heading": "Travel",
+      "text": "trailer� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489155",
+      "number": "489.155",
+      "heading": "Used",
+      "text": "manufactured home,� �used mobile home,� �used travel trailer,� �used\n\nmanufactured building,� �used commercial coach� and �used factory-built\n\nhousing� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489201",
+      "number": "489.201",
+      "heading": "Administration",
+      "text": "of chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489221",
+      "number": "489.221",
+      "heading": "Employees",
+      "text": "of Division: Conflicts of interest prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489231",
+      "number": "489.231",
+      "heading": "Administrator:",
+      "text": "Powers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489233",
+      "number": "489.233",
+      "heading": "Deposit",
+      "text": "of fees and administrative fines; appointment of hearing officers or panels by\n\nAdministrator.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489235",
+      "number": "489.235",
+      "heading": "Administrator:",
+      "text": "Regulation of structures built in compliance with requirements ofchapter 461of NRS.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489241",
+      "number": "489.241",
+      "heading": "Regulations:",
+      "text": "Federal and national standards; issuance of certificates and labels of\n\ncompliance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489251",
+      "number": "489.251",
+      "heading": "Regulations",
+      "text": "pertaining to safety standards and inspection; certificate of installation and\n\nlabel of installation prerequisite to connecting utilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489261",
+      "number": "489.261",
+      "heading": "Regulations",
+      "text": "pertaining to accessory structures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489262",
+      "number": "489.262",
+      "heading": "Regulations",
+      "text": "pertaining to portable buildings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489263",
+      "number": "489.263",
+      "heading": "Regulations",
+      "text": "establishing system for issuance of permits for installation, design, approval,\n\nrepair or modification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489265",
+      "number": "489.265",
+      "heading": "Trust",
+      "text": "account for deposit of advance fees for payment of services of Division;\n\nregulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489272",
+      "number": "489.272",
+      "heading": "Regulations",
+      "text": "concerning certain sales or transfers of title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489281",
+      "number": "489.281",
+      "heading": "Regulations",
+      "text": "concerning issuance and renewal of limited dealer�s license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489285",
+      "number": "489.285",
+      "heading": "Regulations",
+      "text": "concerning continuing education requirements for dealers, distributors, general\n\nservicepersons, specialty servicepersons, responsible managing employees and\n\nsalespersons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489287",
+      "number": "489.287",
+      "heading": "Enforcement",
+      "text": "of regulations; inspections.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489288",
+      "number": "489.288",
+      "heading": "Adoption",
+      "text": "of ordinances and regulations by local governing body; preemption of more\n\nstringent ordinances and regulations; exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489289",
+      "number": "489.289",
+      "heading": "Variances",
+      "text": "for local governing bodies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489291",
+      "number": "489.291",
+      "heading": "Enforcement",
+      "text": "of statutes and regulations: Notice of violation; penalty; liability for costs\n\nof enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489293",
+      "number": "489.293",
+      "heading": "Enforcement",
+      "text": "of subpoenas issued by Administrator.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489295",
+      "number": "489.295",
+      "heading": "Order",
+      "text": "to vacate used manufactured home, used mobile home or used commercial coach.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489297",
+      "number": "489.297",
+      "heading": "Order",
+      "text": "to stop work.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489298",
+      "number": "489.298",
+      "heading": "Division",
+      "text": "to develop and implement process for determining whether person�s criminal\n\nhistory will disqualify person from obtaining a license pursuant to chapter;\n\nfee; quarterly reports.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489301",
+      "number": "489.301",
+      "heading": "License",
+      "text": "for manufacturing plant: Requirements; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489305",
+      "number": "489.305",
+      "heading": "License",
+      "text": "for branch office of dealer, distributor, general serviceperson or specialty\n\nserviceperson.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489311",
+      "number": "489.311",
+      "heading": "License",
+      "text": "to engage in business of dealer, distributor, manufacturer, general\n\nserviceperson or specialty serviceperson: Requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489321",
+      "number": "489.321",
+      "heading": "License",
+      "text": "to engage in business of manufacturer, dealer, distributor, general serviceperson\n\nor specialty serviceperson: Application; issuance; provisional license;\n\nexpiration and renewal. [Effective until the date of the repeal of 42 U.S.C. �\n\n666, the federal law requiring each state to establish procedures for\n\nwithholding, suspending and restricting the professional, occupational and\n\nrecreational licenses for child support arrearages and for noncompliance with\n\ncertain processes relating to paternity or child support proceedings.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489323",
+      "number": "489.323",
+      "heading": "Proof",
+      "text": "of completion of continuing education required for renewal of license of\n\ndealer, distributor, general serviceperson, specialty serviceperson,\n\nresponsible managing employee or salesperson; waiver.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489325",
+      "number": "489.325",
+      "heading": "Regulations",
+      "text": "providing for licensing of specialty servicepersons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489331",
+      "number": "489.331",
+      "heading": "Authority",
+      "text": "to sell used manufactured and mobile homes in connection with sale of real\n\nproperty without license issued pursuant to this chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489336",
+      "number": "489.336",
+      "heading": "Limited",
+      "text": "lien resale licenses and permits authorizing landlord or manager of mobile home\n\npark to sell used mobile home: Regulations; authorized use.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489341",
+      "number": "489.341",
+      "heading": "License",
+      "text": "for salesperson or responsible managing employee: Requirements; issuance;\n\nprovisional license; expiration; limitations; transfer. [Effective until the\n\ndate of the repeal of 42 U.S.C. � 666, the federal law requiring each state to\n\nestablish procedures for withholding, suspending and restricting the\n\nprofessional, occupational and recreational licenses for child support\n\narrearages and for noncompliance with certain processes relating to paternity\n\nor child support proceedings.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489342",
+      "number": "489.342",
+      "heading": "Payment",
+      "text": "of child support: Statement by applicant for license; grounds for denial of\n\nlicense; duty of Division. [Effective until the date of the repeal of 42 U.S.C.\n\n� 666, the federal law requiring each state to establish procedures for\n\nwithholding, suspending and restricting the professional, occupational and\n\nrecreational licenses for child support arrearages and for noncompliance with\n\ncertain processes relating to paternity or child support proceedings.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489343",
+      "number": "489.343",
+      "heading": "Partnership,",
+      "text": "limited partnership, limited-liability partnership, limited-liability limited\n\npartnership, limited-liability company or corporation doing business as\n\nmanufacturer, dealer, distributor, general serviceperson or specialty\n\nserviceperson.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489344",
+      "number": "489.344",
+      "heading": "Member",
+      "text": "or officer of partnership, limited partnership, limited-liability partnership,\n\nlimited-liability limited partnership or limited-liability company or\n\ncorporation who performs specified acts to obtain separate applicable license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489351",
+      "number": "489.351",
+      "heading": "Examination",
+      "text": "of applicant for license; waiver for specialty serviceperson in certain\n\ncircumstances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489357",
+      "number": "489.357",
+      "heading": "License",
+      "text": "not to be used by person other than to whom issued; disciplinary action.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489381",
+      "number": "489.381",
+      "heading": "Disciplinary",
+      "text": "action against licensees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489391",
+      "number": "489.391",
+      "heading": "Grounds",
+      "text": "for disciplinary action: Failure to establish place of business; conducting\n\nbusiness from unauthorized location; insolvency; furnishing false information;\n\nfailure to prove employment or good character; other conduct; obtaining\n\ncontents of examination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489401",
+      "number": "489.401",
+      "heading": "Grounds",
+      "text": "for disciplinary action: Deceptive advertising; misrepresentation; failure to\n\ndisclose; failure to provide copy of certificate of installation; inducing\n\nfalsification of credit application; failure to obtain acknowledgment of\n\nnotice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489411",
+      "number": "489.411",
+      "heading": "Grounds",
+      "text": "for disciplinary action: Compensation from certain exclusive agreements;\n\nconflicts of interest; paying unlicensed person; commingling; allowing\n\nunlicensed person to engage in acts requiring licensure; failure to account for\n\nor remit money or to discharge final judgment; acting as agent and undisclosed\n\nprincipal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489416",
+      "number": "489.416",
+      "heading": "Grounds",
+      "text": "for disciplinary action: Substandard or unsafe workmanship; failure to honor\n\nwarranty or other guarantee; performing act requiring licensure in grossly\n\nnegligent or incompetent manner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489421",
+      "number": "489.421",
+      "heading": "Grounds",
+      "text": "for disciplinary action: Revocation or denial of license; failure to maintain\n\nlicense or to respond to notice; failure to take corrective action or permit\n\naccess; violation of order, agreement or law; convictions and certain pleas;\n\nfraudulent dealing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489423",
+      "number": "489.423",
+      "heading": "Disciplinary",
+      "text": "action against licensed dealer or distributor for knowledge of unlawful act of\n\nemployee or associate or failure to maintain adequate supervision; disciplinary\n\naction against general serviceperson or specialty serviceperson for knowledge\n\nof unlawful act of employee or associate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489425",
+      "number": "489.425",
+      "heading": "Suspension",
+      "text": "of license for failure to pay child support or comply with certain subpoenas or\n\nwarrants; reinstatement of license. [Effective until the date of the repeal of\n\n42 U.S.C. � 666, the federal law requiring each state to establish procedures\n\nfor withholding, suspending and restricting the professional, occupational and\n\nrecreational licenses for child support arrearages and for noncompliance with\n\ncertain processes relating to paternity or child support proceedings.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489426",
+      "number": "489.426",
+      "heading": "Advance",
+      "text": "fees: Persons authorized to accept; accounting of use; regulations;\n\ndisciplinary action.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489431",
+      "number": "489.431",
+      "heading": "Investigation",
+      "text": "by Administrator; disciplinary action.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489436",
+      "number": "489.436",
+      "heading": "Bidding,",
+      "text": "contracting or otherwise acting in capacity of licensee without having license:\n\nCease and desist order; injunction; fine.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489441",
+      "number": "489.441",
+      "heading": "Hearings",
+      "text": "before Administrator.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489451",
+      "number": "489.451",
+      "heading": "Commercial",
+      "text": "coach to bear certificate and label of compliance; limitation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489461",
+      "number": "489.461",
+      "heading": "Compliance",
+      "text": "with local building codes and ordinances not required if certificate and label\n\nissued; exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489481",
+      "number": "489.481",
+      "heading": "Regulations",
+      "text": "providing fees for certificates, labels, licenses and other services provided\n\nby Division.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4894971",
+      "number": "489.4971",
+      "heading": "Persons",
+      "text": "who may file claim against licensee; satisfaction of claim; fees for licensure\n\nand renewal; payments; service of copy of complaint upon commencement of\n\naction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4894975",
+      "number": "489.4975",
+      "heading": "Recovery",
+      "text": "from Account: Procedure; hearing; limitation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4894977",
+      "number": "489.4977",
+      "heading": "Administrator",
+      "text": "may answer petition; compromise of claims.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4894979",
+      "number": "489.4979",
+      "heading": "Court",
+      "text": "order requiring payment from Account.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4894981",
+      "number": "489.4981",
+      "heading": "Automatic",
+      "text": "suspension of license upon court order requiring payment; conditions for\n\nreinstatement of license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4894983",
+      "number": "489.4983",
+      "heading": "Distribution",
+      "text": "of payment if claims exceed Account�s maximum liability; satisfaction of unpaid\n\nclaims when balance becomes sufficient.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4894985",
+      "number": "489.4985",
+      "heading": "Administrator�s",
+      "text": "right to subrogation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4894987",
+      "number": "489.4987",
+      "heading": "Waiver",
+      "text": "of rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4894989",
+      "number": "489.4989",
+      "heading": "Disciplinary",
+      "text": "action against licensee not restricted for violation of law or regulation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489501",
+      "number": "489.501",
+      "heading": "Dealer",
+      "text": "to complete report of sale when new manufactured home, new mobile home, new\n\nmanufactured building or new commercial coach or new factory-built housing is\n\nsold; buyer to sign acknowledgment of taxes; distribution of report of sale.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489511",
+      "number": "489.511",
+      "heading": "Dealer",
+      "text": "to complete dealer�s report of sale when used or rebuilt manufactured home,\n\nmobile home, manufactured building or commercial coach or used or rebuilt\n\nfactory-built housing is sold; distribution of dealer�s report of sale; buyer\n\nto sign acknowledgment of taxes; submission of information to Division when\n\ntitle does not pass immediately to buyer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489521",
+      "number": "489.521",
+      "heading": "Sale",
+      "text": "of used or rebuilt manufactured home, mobile home, manufactured building or\n\ncommercial coach or used or rebuilt factory-built housing by person who is not\n\ndealer: Information to be submitted to Division and county assessor;\n\nregulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489531",
+      "number": "489.531",
+      "heading": "Verification",
+      "text": "of payment of property taxes on used manufactured home or used mobile home\n\nprerequisite to issuance of certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489541",
+      "number": "489.541",
+      "heading": "Issuance",
+      "text": "of certificate of title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489551",
+      "number": "489.551",
+      "heading": "Endorsement",
+      "text": "of certificate upon transfer. [Repealed.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489561",
+      "number": "489.561",
+      "heading": "Issuance",
+      "text": "of certificate when transferee unable to present previously issued certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489562",
+      "number": "489.562",
+      "heading": "Application",
+      "text": "for new certificate of title under certain circumstances; filing, form and\n\namount of bond; recovery on bond; right of action does not exist.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489564",
+      "number": "489.564",
+      "heading": "Certificate",
+      "text": "of title in beneficiary form: Request; application; fee; restriction upon\n\nissuance; contents; signatures and transactions; duties of Division.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489571",
+      "number": "489.571",
+      "heading": "Issuance",
+      "text": "of certificate to secured parties; delivery of certificate following\n\nperformance of contract or security agreement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489581",
+      "number": "489.581",
+      "heading": "Rights",
+      "text": "and duties of debtor and secured party; perfection and release of security\n\ninterest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489585",
+      "number": "489.585",
+      "heading": "Regulations.",
+      "text": "Regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489591",
+      "number": "489.591",
+      "heading": "Division",
+      "text": "required to adopt regulations concerning issuance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489593",
+      "number": "489.593",
+      "heading": "Certificates",
+      "text": "of installation: Contents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489595",
+      "number": "489.595",
+      "heading": "Certificates",
+      "text": "of installation: Dealer required to provide copy to purchaser of new\n\nmanufactured home; sample copies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489596",
+      "number": "489.596",
+      "heading": "Training",
+      "text": "regarding inspections necessary for issuance of certificates of installation\n\nand labels of installation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4895965",
+      "number": "489.5965",
+      "heading": "Issuance",
+      "text": "of certificate of installation or label of installation without completing\n\ntraining program prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489597",
+      "number": "489.597",
+      "heading": "Administrator",
+      "text": "required to adopt regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489611",
+      "number": "489.611",
+      "heading": "Permit",
+      "text": "required for movement upon highways or roads; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489621",
+      "number": "489.621",
+      "heading": "Application;",
+      "text": "fee and required proof; expiration; use.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489631",
+      "number": "489.631",
+      "heading": "Contents",
+      "text": "of application; duties of county assessor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489641",
+      "number": "489.641",
+      "heading": "Size,",
+      "text": "shape, form and display of permit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489651",
+      "number": "489.651",
+      "heading": "Supplies",
+      "text": "of forms; disposition of fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489661",
+      "number": "489.661",
+      "heading": "Violations;",
+      "text": "penalty; seizure of manufactured home, mobile home or commercial coach.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489701",
+      "number": "489.701",
+      "heading": "Smoke",
+      "text": "detectors required for mobile homes, commercial coaches, travel trailers and\n\nmanufactured homes sold or used for residential purposes in State;\n\ninterconnectivity devices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489706",
+      "number": "489.706",
+      "heading": "Newly",
+      "text": "constructed mobile and manufactured homes: Minimal standards for plumbing\n\nfixtures and certain landscaping fixtures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489711",
+      "number": "489.711",
+      "heading": "Dealer",
+      "text": "exempt from property tax on inventory.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489715",
+      "number": "489.715",
+      "heading": "Disclosure",
+      "text": "of terms and conditions of offer to be contained in signed document; submission\n\nof signed offer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4897152",
+      "number": "489.7152",
+      "heading": "Form",
+      "text": "of contracts to be used by dealer for sale and listing of manufactured home, mobile\n\nhome or commercial coach; disciplinary action for failure to use forms.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4897154",
+      "number": "489.7154",
+      "heading": "Contract",
+      "text": "for sale or exchange of interest in mobile home, manufactured home,\n\nmanufactured building or commercial coach or factory-built housing: Essential\n\nprovisions required before buyer may sign; dealer authorized to insert certain\n\ninformation after contract signed by buyer; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4897156",
+      "number": "489.7156",
+      "heading": "Requirements",
+      "text": "for enforceability of brokerage agreement granting dealer exclusive right to\n\nassist, solicit or negotiate sale or exchange of interest in manufactured home,\n\nmobile home, manufactured building or commercial coach or factory-built housing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4897158",
+      "number": "489.7158",
+      "heading": "Brokerage",
+      "text": "agreements: Duties of dealer; dealer prohibited from entering unless dealer\n\ndetermines client able to deliver good title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489716",
+      "number": "489.716",
+      "heading": "Work",
+      "text": "pertinent to sale, installation and occupancy of manufactured home: Authority\n\nof certain dealers to enter into written agreements with providers of service;\n\nbuyer not to be required to obtain services from specific provider of services;\n\nwritten disclosure; provider of services required under certain circumstances\n\nto enter into written agreement with person for whom services will be\n\nperformed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489717",
+      "number": "489.717",
+      "heading": "Dealer",
+      "text": "prohibited from requiring purchaser to obtain loan or financing from specific\n\nperson; disclosure of prohibition to purchaser; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489721",
+      "number": "489.721",
+      "heading": "Deposit",
+      "text": "of receipts from sale of commercial coach in fiduciary account.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489723",
+      "number": "489.723",
+      "heading": "Money",
+      "text": "received by dealer concerning sale or exchange of interest in manufactured\n\nhome, mobile home, manufactured building or commercial coach or factory-built\n\nhousing: Duties of dealer; distribution of money; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4897235",
+      "number": "489.7235",
+      "heading": "Authority",
+      "text": "of Division to investigate and audit financial account related to business of\n\ndealer or distributor; regulations governing scope of audit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489724",
+      "number": "489.724",
+      "heading": "Money",
+      "text": "received by dealer on behalf of principal or another: Deposit in escrow account\n\nor separate trust account; maintenance of records and other requirements of\n\ndealer concerning separate trust account; responsibility and liability of\n\ndealer for money; certain information to be provided to Division concerning\n\nseparate trust account.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489727",
+      "number": "489.727",
+      "heading": "Dealer",
+      "text": "prohibited from commingling money or other property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489729",
+      "number": "489.729",
+      "heading": "Dealer",
+      "text": "required to satisfy outstanding security interest in mobile home, manufactured\n\nhome, manufactured building or commercial coach or factory-built housing taken\n\nin trade.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489731",
+      "number": "489.731",
+      "heading": "Restrictions",
+      "text": "on leasing of vacant lots.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489741",
+      "number": "489.741",
+      "heading": "Limitation",
+      "text": "of actions against Division and its employees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489751",
+      "number": "489.751",
+      "heading": "Implied",
+      "text": "warranty by dealer of working order of essential systems.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489756",
+      "number": "489.756",
+      "heading": "Established",
+      "text": "place of business to display sign; contents; conformance to regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489770",
+      "number": "489.770",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489772",
+      "number": "489.772",
+      "heading": "Transferee�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489774",
+      "number": "489.774",
+      "heading": "Transferor�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489776",
+      "number": "489.776",
+      "heading": "Duties",
+      "text": "of transferor or agent; when disclosure not required; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489778",
+      "number": "489.778",
+      "heading": "Potential",
+      "text": "liability of transferor and agent to transferee; options of transferee upon\n\ndisclosure; rights and remedies additional.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489780",
+      "number": "489.780",
+      "heading": "Grounds",
+      "text": "for disciplinary action against licensed dealer or salesperson.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489801",
+      "number": "489.801",
+      "heading": "Manufacture",
+      "text": "or sale of noncomplying unit; sale without certificate or label of compliance;\n\nfalse certification; notification of defects; failure to permit access;\n\ndisclosure of contents of examination; use of unsafe unit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489806",
+      "number": "489.806",
+      "heading": "Bidding,",
+      "text": "contracting or otherwise acting in capacity of licensee without having license:\n\nProhibition; prosecution; payment of costs and damages; violative bids and\n\ncontracts deemed void.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489811",
+      "number": "489.811",
+      "heading": "Civil",
+      "text": "penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489814",
+      "number": "489.814",
+      "heading": "Administrative",
+      "text": "fines for certain violations related to licensing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-489821",
+      "number": "489.821",
+      "heading": "Criminal",
+      "text": "penalties for certain actions and violations.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}
