@@ -1,0 +1,926 @@
+{
+  "state": "virginia",
+  "path": "title-title-62-financial-institutions-and-services/chapter-chapter-11-savings-institutions",
+  "sections": [
+    {
+      "id": "section-1",
+      "number": "1.",
+      "heading": "General Provisions§ 6.2-1100. Definitions§ 6",
+      "text": "2-1101. Construction and application of chapter§ 6.2-1102. Associations operating share accumulation loan plans; continued operation§ 6.2-1103. Prohibitions on conduct of savings institution business; exceptions; penalty§ 6.2-1104. False statements and si",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1100",
+      "number": "6.2-1100.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1101",
+      "number": "6.2-1101.",
+      "heading": "Construction and application of chapter",
+      "text": "Construction and application of chapter",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1102",
+      "number": "6.2-1102.",
+      "heading": "Associations operating share accumulation loan plans; continued operation",
+      "text": "Associations operating share accumulation loan plans; continued operation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1103",
+      "number": "6.2-1103.",
+      "heading": "Prohibitions on conduct of savings institution business; exceptions; penalty",
+      "text": "Prohibitions on conduct of savings institution business; exceptions; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1104",
+      "number": "6.2-1104.",
+      "heading": "False statements and similar actions prohibited; penalty",
+      "text": "False statements and similar actions prohibited; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1105",
+      "number": "6.2-1105.",
+      "heading": "Use of savings institution name, logo, or symbol for marketing purposes; penalty",
+      "text": "Use of savings institution name, logo, or symbol for marketing purposes; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1106",
+      "number": "6.2-1106.",
+      "heading": "Prohibitions on the use of certain terms; exceptions; penalty",
+      "text": "Prohibitions on the use of certain terms; exceptions; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1107",
+      "number": "6.2-1107.",
+      "heading": "Defamation of savings institutions and certain federal agencies prohibited; penalty",
+      "text": "Defamation of savings institutions and certain federal agencies prohibited; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1108",
+      "number": "6.2-1108.",
+      "heading": "Membership in Federal Home Loan Bank and Federal Deposit Insurance Corporation authorized; insurance required as a condition to receiving deposits; representations that accounts are insured; misleading advertisements",
+      "text": "Membership in Federal Home Loan Bank and Federal Deposit Insurance Corporation authorized; insurance required as a condition to receiving deposits; representations that accounts are insured; misleading advertisements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1109",
+      "number": "6.2-1109.",
+      "heading": "Representations that accounts are insured; misleading advertisements",
+      "text": "Representations that accounts are insured; misleading advertisements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1110",
+      "number": "6.2-1110.",
+      "heading": "Membership in facilitating organizations or instrumentalities",
+      "text": "Membership in facilitating organizations or instrumentalities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1111",
+      "number": "6.2-1111.",
+      "heading": "Authority to purchase, convey or manage property in which state savings institution has a security interest; time limitation",
+      "text": "Authority to purchase, convey or manage property in which state savings institution has a security interest; time limitation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1112",
+      "number": "6.2-1112.",
+      "heading": "Applicability of Virginia Uniform Commercial Code to commercial paper and depository activities of savings institutions",
+      "text": "Applicability of Virginia Uniform Commercial Code to commercial paper and depository activities of savings institutions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1113",
+      "number": "6.2-1113.",
+      "heading": "Discoverability or admissibility of compliance review committee documents",
+      "text": "Discoverability or admissibility of compliance review committee documents",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2",
+      "number": "2.",
+      "heading": "Incorporation; Certificate of Authority; Corporate Administration",
+      "text": "Incorporation; Certificate of Authority; Corporate Administration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1114",
+      "number": "6.2-1114.",
+      "heading": "Application of Virginia Stock Corporation Act and Virginia Nonstock Corporation Act",
+      "text": "Application of Virginia Stock Corporation Act and Virginia Nonstock Corporation Act",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1115",
+      "number": "6.2-1115.",
+      "heading": "Formation of state savings institutions",
+      "text": "Formation of state savings institutions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1116",
+      "number": "6.2-1116.",
+      "heading": "Corporation name",
+      "text": "Corporation name",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1117",
+      "number": "6.2-1117.",
+      "heading": "Par value of shares; payment of shares; reacquisitions of shares or acceptance thereof as security; how subscriptions to stock to be paid; disposition of money received before institution opens; stock option plans",
+      "text": "Par value of shares; payment of shares; reacquisitions of shares or acceptance thereof as security; how subscriptions to stock to be paid; disposition of money received before institution opens; stock option plans",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1118",
+      "number": "6.2-1118.",
+      "heading": "Certificate of authority to do business",
+      "text": "Certificate of authority to do business",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1119",
+      "number": "6.2-1119.",
+      "heading": "Commissions and other fees for sale of stock not permitted",
+      "text": "Commissions and other fees for sale of stock not permitted",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1120",
+      "number": "6.2-1120.",
+      "heading": "Minimum capital requirement",
+      "text": "Minimum capital requirement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1121",
+      "number": "6.2-1121.",
+      "heading": "Board of directors",
+      "text": "Board of directors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1122",
+      "number": "6.2-1122.",
+      "heading": "Meetings of board of directors",
+      "text": "Meetings of board of directors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1123",
+      "number": "6.2-1123.",
+      "heading": "Notice of meetings of members; determining members entitled to notice or to vote",
+      "text": "Notice of meetings of members; determining members entitled to notice or to vote",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1124",
+      "number": "6.2-1124.",
+      "heading": "Voting rights; proxies",
+      "text": "Voting rights; proxies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1125",
+      "number": "6.2-1125.",
+      "heading": "Access to books and records; communication with members",
+      "text": "Access to books and records; communication with members",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1126",
+      "number": "6.2-1126.",
+      "heading": "Audit of savings institution; report",
+      "text": "Audit of savings institution; report",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1127",
+      "number": "6.2-1127.",
+      "heading": "Bonds of officers and employees",
+      "text": "Bonds of officers and employees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1128",
+      "number": "6.2-1128.",
+      "heading": "Loans to executive officers or directors",
+      "text": "Loans to executive officers or directors",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1129",
+      "number": "6.2-1129.",
+      "heading": "Overdrafts by savings institution officers, directors or employees",
+      "text": "Overdrafts by savings institution officers, directors or employees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1130",
+      "number": "6.2-1130.",
+      "heading": "Reserves; surplus and undivided profits",
+      "text": "Reserves; surplus and undivided profits",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1131",
+      "number": "6.2-1131.",
+      "heading": "Liability of members of mutual savings institutions",
+      "text": "Liability of members of mutual savings institutions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1132",
+      "number": "6.2-1132.",
+      "heading": "Mutual capital certificates",
+      "text": "Mutual capital certificates",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3",
+      "number": "3.",
+      "heading": "Offices, Branches, and Facilities",
+      "text": "Offices, Branches, and Facilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1133",
+      "number": "6.2-1133.",
+      "heading": "Offices and other facilities of state and foreign savings institutions; approval of branch offices required",
+      "text": "Offices and other facilities of state and foreign savings institutions; approval of branch offices required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1134",
+      "number": "6.2-1134.",
+      "heading": "Facilities associated with branch office",
+      "text": "Facilities associated with branch office",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1135",
+      "number": "6.2-1135.",
+      "heading": "Change of branch office location",
+      "text": "Change of branch office location",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1136",
+      "number": "6.2-1136.",
+      "heading": "Remote service units",
+      "text": "Remote service units",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1137",
+      "number": "6.2-1137.",
+      "heading": "Off premises financial services",
+      "text": "Off premises financial services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1138",
+      "number": "6.2-1138.",
+      "heading": "Suspension of business during actual or threatened emergency",
+      "text": "Suspension of business during actual or threatened emergency",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4",
+      "number": "4.",
+      "heading": "Conversions, Reorganizations, Mergers, and Acquisitions",
+      "text": "Conversions, Reorganizations, Mergers, and Acquisitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1139",
+      "number": "6.2-1139.",
+      "heading": "Conversion from mutual savings institution to stock institution",
+      "text": "Conversion from mutual savings institution to stock institution",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1140",
+      "number": "6.2-1140.",
+      "heading": "Reorganization of mutual association into mutual holding company; approval by Commissioner; powers; issuance of stock",
+      "text": "Reorganization of mutual association into mutual holding company; approval by Commissioner; powers; issuance of stock",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1141",
+      "number": "6.2-1141.",
+      "heading": "Conversion of state savings institution into federal financial institution",
+      "text": "Conversion of state savings institution into federal financial institution",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1142",
+      "number": "6.2-1142.",
+      "heading": "Conversion of federal financial institution into state savings institution or state bank",
+      "text": "Conversion of federal financial institution into state savings institution or state bank",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1143",
+      "number": "6.2-1143.",
+      "heading": "Conversion from state savings bank to state association; conversion from state association to state savings bank",
+      "text": "Conversion from state savings bank to state association; conversion from state association to state savings bank",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1144",
+      "number": "6.2-1144.",
+      "heading": "Conversion from stock savings institution to bank",
+      "text": "Conversion from stock savings institution to bank",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1145",
+      "number": "6.2-1145.",
+      "heading": "Merger or consolidation of savings institutions",
+      "text": "Merger or consolidation of savings institutions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1146",
+      "number": "6.2-1146.",
+      "heading": "State association or association holding company acquiring bank; association acquired by bank or bank holding company; merger or consolidation of association and bank",
+      "text": "State association or association holding company acquiring bank; association acquired by bank or bank holding company; merger or consolidation of association and bank",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1147",
+      "number": "6.2-1147.",
+      "heading": "Acquisition of control of state stock institution requires Commission approval",
+      "text": "Acquisition of control of state stock institution requires Commission approval",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5",
+      "number": "5.",
+      "heading": "Foreign Savings Institutions; Acquisitions by Out-of-State Savings Institutions or Out-of-State Savings Institution Holding Companies",
+      "text": "Foreign Savings Institutions; Acquisitions by Out-of-State Savings Institutions or Out-of-State Savings Institution Holding Companies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1148",
+      "number": "6.2-1148.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1149",
+      "number": "6.2-1149.",
+      "heading": "Foreign savings institutions; certificate of authority",
+      "text": "Foreign savings institutions; certificate of authority",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1150",
+      "number": "6.2-1150.",
+      "heading": "When operation of foreign savings institution in the Commonwealth is prohibited",
+      "text": "When operation of foreign savings institution in the Commonwealth is prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1151",
+      "number": "6.2-1151.",
+      "heading": "Applicability of Virginia Stock and Nonstock Corporation Acts",
+      "text": "Applicability of Virginia Stock and Nonstock Corporation Acts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1152",
+      "number": "6.2-1152.",
+      "heading": "Law applicable to contracts of foreign savings institutions",
+      "text": "Law applicable to contracts of foreign savings institutions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1153",
+      "number": "6.2-1153.",
+      "heading": "Examination and supervision of foreign savings institutions",
+      "text": "Examination and supervision of foreign savings institutions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1154",
+      "number": "6.2-1154.",
+      "heading": "Revocation of certificate of authority of foreign savings institution",
+      "text": "Revocation of certificate of authority of foreign savings institution",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1155",
+      "number": "6.2-1155.",
+      "heading": "Unapproved foreign savings institutions",
+      "text": "Unapproved foreign savings institutions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1156",
+      "number": "6.2-1156.",
+      "heading": "Activities that are not considered \"doing business.\"",
+      "text": "Activities that are not considered \"doing business.\"",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1157",
+      "number": "6.2-1157.",
+      "heading": "Acquisitions by out-of-state savings institution holding company",
+      "text": "Acquisitions by out-of-state savings institution holding company",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1158",
+      "number": "6.2-1158.",
+      "heading": "Acquisitions by out-of-state savings institution",
+      "text": "Acquisitions by out-of-state savings institution",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1159",
+      "number": "6.2-1159.",
+      "heading": "Investigation of application; prescribed investigation period; shortening, lengthening or waiving of period; hearing; appeals",
+      "text": "Investigation of application; prescribed investigation period; shortening, lengthening or waiving of period; hearing; appeals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1160",
+      "number": "6.2-1160.",
+      "heading": "Notice of intent to acquire out-of-state savings institution",
+      "text": "Notice of intent to acquire out-of-state savings institution",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1161",
+      "number": "6.2-1161.",
+      "heading": "Applicable laws and regulations; enforcement by Commission",
+      "text": "Applicable laws and regulations; enforcement by Commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1162",
+      "number": "6.2-1162.",
+      "heading": "Periodic reports; interstate agreements",
+      "text": "Periodic reports; interstate agreements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1163",
+      "number": "6.2-1163.",
+      "heading": "Application of article to bank or bank holding company",
+      "text": "Application of article to bank or bank holding company",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1164",
+      "number": "6.2-1164.",
+      "heading": "Acquisitions of state savings bank or holding companies by out-of-state financial institutions",
+      "text": "Acquisitions of state savings bank or holding companies by out-of-state financial institutions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1165",
+      "number": "6.2-1165.",
+      "heading": "Nonseverability",
+      "text": "Nonseverability",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6",
+      "number": "6.",
+      "heading": "Accounts",
+      "text": "Accounts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1166",
+      "number": "6.2-1166.",
+      "heading": "Accounts of state savings institutions",
+      "text": "Accounts of state savings institutions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1167",
+      "number": "6.2-1167.",
+      "heading": "Rules governing withdrawal",
+      "text": "Rules governing withdrawal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1168",
+      "number": "6.2-1168.",
+      "heading": "Redemption",
+      "text": "Redemption",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1169",
+      "number": "6.2-1169.",
+      "heading": "Accounts of savings institutions as legal investments and as security",
+      "text": "Accounts of savings institutions as legal investments and as security",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1170",
+      "number": "6.2-1170.",
+      "heading": "Deposits of federal taxes and U.S. Treasury tax and loan accounts",
+      "text": "Deposits of federal taxes and U.S. Treasury tax and loan accounts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1171",
+      "number": "6.2-1171.",
+      "heading": "Accounts under federal Self-Employed Individuals Tax Retirement Act and federal Employee Retirement Income Security Act of 1974 (P",
+      "text": "L. 93-406, 88 Stat. 829)",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1172",
+      "number": "6.2-1172.",
+      "heading": "Accounts issued in name of minor",
+      "text": "Accounts issued in name of minor",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1173",
+      "number": "6.2-1173.",
+      "heading": "Powers of attorney on accounts",
+      "text": "Powers of attorney on accounts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1174",
+      "number": "6.2-1174.",
+      "heading": "Accounts of deceased or incompetent persons",
+      "text": "Accounts of deceased or incompetent persons",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1175",
+      "number": "6.2-1175.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1176",
+      "number": "6.2-1176.",
+      "heading": "Accounts of fiduciaries",
+      "text": "Accounts of fiduciaries",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1177",
+      "number": "6.2-1177.",
+      "heading": "Savings institution need not inquire as to fiduciary funds deposited in fiduciary's personal account",
+      "text": "Savings institution need not inquire as to fiduciary funds deposited in fiduciary's personal account",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1178",
+      "number": "6.2-1178.",
+      "heading": "Accounts held by various trustees for same beneficiary",
+      "text": "Accounts held by various trustees for same beneficiary",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7",
+      "number": "7.",
+      "heading": "Real Estate Loans",
+      "text": "Real Estate Loans",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1179",
+      "number": "6.2-1179.",
+      "heading": "Real estate loans; required investment",
+      "text": "Real estate loans; required investment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1180",
+      "number": "6.2-1180.",
+      "heading": "Appraisals; loan-to-value ratios",
+      "text": "Appraisals; loan-to-value ratios",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1181",
+      "number": "6.2-1181.",
+      "heading": "Initial repayments on real estate loans",
+      "text": "Initial repayments on real estate loans",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1182",
+      "number": "6.2-1182.",
+      "heading": "Adjustable real estate loans",
+      "text": "Adjustable real estate loans",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1183",
+      "number": "6.2-1183.",
+      "heading": "Special provisions for home loans",
+      "text": "Special provisions for home loans",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1184",
+      "number": "6.2-1184.",
+      "heading": "Dealing with successors in interest",
+      "text": "Dealing with successors in interest",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1185",
+      "number": "6.2-1185.",
+      "heading": "Trustees on loans secured by deed of trust",
+      "text": "Trustees on loans secured by deed of trust",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8",
+      "number": "8.",
+      "heading": "Other Loans and Investments",
+      "text": "Other Loans and Investments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1186",
+      "number": "6.2-1186.",
+      "heading": "General investment authority of state savings institutions",
+      "text": "General investment authority of state savings institutions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1187",
+      "number": "6.2-1187.",
+      "heading": "Investment authority of state savings banks",
+      "text": "Investment authority of state savings banks",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1188",
+      "number": "6.2-1188.",
+      "heading": "Effect of repeal or amendment of statute or regulation on existing loan or investment",
+      "text": "Effect of repeal or amendment of statute or regulation on existing loan or investment",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1189",
+      "number": "6.2-1189.",
+      "heading": "Limitation on liability of savings institutions making loans for certain purposes",
+      "text": "Limitation on liability of savings institutions making loans for certain purposes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1190",
+      "number": "6.2-1190.",
+      "heading": "Perfection of certain security interests",
+      "text": "Perfection of certain security interests",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9",
+      "number": "9.",
+      "heading": "Supervision",
+      "text": "Supervision",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1191",
+      "number": "6.2-1191.",
+      "heading": "General supervisory powers of Commission",
+      "text": "General supervisory powers of Commission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1192",
+      "number": "6.2-1192.",
+      "heading": "Regulations",
+      "text": "Regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1193",
+      "number": "6.2-1193.",
+      "heading": "Statements to be furnished by Commission to directors of savings institutions",
+      "text": "Statements to be furnished by Commission to directors of savings institutions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1194",
+      "number": "6.2-1194.",
+      "heading": "State savings institutions to furnish financial statements and reports",
+      "text": "State savings institutions to furnish financial statements and reports",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1195",
+      "number": "6.2-1195.",
+      "heading": "Examination of state savings institutions and affiliates by Commissioner; report of examination",
+      "text": "Examination of state savings institutions and affiliates by Commissioner; report of examination",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1196",
+      "number": "6.2-1196.",
+      "heading": "Access to books and evidence of debt; examination of directors, officers, and employees under oath",
+      "text": "Access to books and evidence of debt; examination of directors, officers, and employees under oath",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1197",
+      "number": "6.2-1197.",
+      "heading": "False statements; penalty",
+      "text": "False statements; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1198",
+      "number": "6.2-1198.",
+      "heading": "Audits",
+      "text": "Audits",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1199",
+      "number": "6.2-1199.",
+      "heading": "Powers of Commission in case of nonobservance of law, noncompliance with orders, insufficient reserves or insolvency; appointment of Federal Deposit Insurance Corporation as receiver",
+      "text": "Powers of Commission in case of nonobservance of law, noncompliance with orders, insufficient reserves or insolvency; appointment of Federal Deposit Insurance Corporation as receiver",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1200",
+      "number": "6.2-1200.",
+      "heading": "Removal of director or officer; appeal; penalty for acting after removal",
+      "text": "Removal of director or officer; appeal; penalty for acting after removal",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1201",
+      "number": "6.2-1201.",
+      "heading": "Special examinations",
+      "text": "Special examinations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1202",
+      "number": "6.2-1202.",
+      "heading": "Fees for supervision and regulation; investigations",
+      "text": "Fees for supervision and regulation; investigations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1203",
+      "number": "6.2-1203.",
+      "heading": "Examination of persons believed to be doing business without authority; doing business without authority; penalty",
+      "text": "Examination of persons believed to be doing business without authority; doing business without authority; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1204",
+      "number": "6.2-1204.",
+      "heading": "Compliance by savings institution holding companies with federal regulations constitutes compliance with Commission regulations",
+      "text": "Compliance by savings institution holding companies with federal regulations constitutes compliance with Commission regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62-1205",
+      "number": "6.2-1205.",
+      "heading": "Merger, consolidation or transfer of assets of insolvent or financially unstable savings institution; notice and hearing; final order; priorities; examinations of resulting institutions",
+      "text": "Merger, consolidation or transfer of assets of insolvent or financially unstable savings institution; notice and hearing; final order; priorities; examinations of resulting institutions",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

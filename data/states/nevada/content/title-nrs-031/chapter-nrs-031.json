@@ -1,0 +1,910 @@
+{
+  "state": "nevada",
+  "path": "title-nrs-031/chapter-nrs-031",
+  "sections": [
+    {
+      "id": "section-31010",
+      "number": "31.010",
+      "heading": "Application",
+      "text": "to court for writ of attachment: Timing; requirements when Department of\n\nTaxation has taken over management of local government.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31013",
+      "number": "31.013",
+      "heading": "Issuance",
+      "text": "of writ of attachment after notice and hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31017",
+      "number": "31.017",
+      "heading": "Issuance",
+      "text": "of writ of attachment without notice and hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31020",
+      "number": "31.020",
+      "heading": "Affidavit",
+      "text": "for attachment: Contents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31022",
+      "number": "31.022",
+      "heading": "Procedure",
+      "text": "when notice and hearing not required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31024",
+      "number": "31.024",
+      "heading": "Procedure",
+      "text": "when notice and hearing required: Order to show cause.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31026",
+      "number": "31.026",
+      "heading": "Procedure",
+      "text": "when notice and hearing required: Hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31028",
+      "number": "31.028",
+      "heading": "Contents",
+      "text": "of order for attachment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31030",
+      "number": "31.030",
+      "heading": "Written",
+      "text": "undertaking on attachment; additional bond; exception to sufficiency of\n\nsureties; vacation of writ.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31040",
+      "number": "31.040",
+      "heading": "Sheriff",
+      "text": "to attach and keep property; undertaking by defendant.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31045",
+      "number": "31.045",
+      "heading": "Notice",
+      "text": "of execution on writ of attachment: Service required; form; contents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31050",
+      "number": "31.050",
+      "heading": "Attachment",
+      "text": "of shares of stock, debts due defendant and other property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31060",
+      "number": "31.060",
+      "heading": "Execution",
+      "text": "of writ of attachment: Manner in which property is to be attached.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31065",
+      "number": "31.065",
+      "heading": "Deposits",
+      "text": "by plaintiff of money with sheriff to pay expenses of taking, transporting and\n\nkeeping certain personal property; liability of sheriff.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31070",
+      "number": "31.070",
+      "heading": "Third-party",
+      "text": "claims in property levied on; undertaking by plaintiff; liability of sheriff;\n\nexception to sufficiency of sureties; hearing to determine title to property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31100",
+      "number": "31.100",
+      "heading": "Examination",
+      "text": "of person served with copy of writ and defendant; delivery and memoranda of\n\npersonal property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31110",
+      "number": "31.110",
+      "heading": "Sheriff�s",
+      "text": "return of writ; certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31120",
+      "number": "31.120",
+      "heading": "Sale",
+      "text": "of attached perishable property; sheriff to retain proceeds and attached\n\nproperty to answer judgment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31130",
+      "number": "31.130",
+      "heading": "Sale",
+      "text": "of attached property; proceeds to be deposited in court.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31140",
+      "number": "31.140",
+      "heading": "Satisfaction",
+      "text": "of judgment by sales of attached property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31150",
+      "number": "31.150",
+      "heading": "Deficiency",
+      "text": "after sale of attached property; sheriff to collect balance as upon an\n\nexecution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31160",
+      "number": "31.160",
+      "heading": "Plaintiff",
+      "text": "may prosecute undertaking if execution returned unsatisfied.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31170",
+      "number": "31.170",
+      "heading": "Discharge",
+      "text": "of attachment after judgment for defendant or dismissal of action; stay of\n\nrelease pending appeal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31180",
+      "number": "31.180",
+      "heading": "Defendant,",
+      "text": "having appeared in action, may move for discharge of attachment upon giving\n\nundertaking; stipulations for release of attachments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31190",
+      "number": "31.190",
+      "heading": "Undertaking",
+      "text": "of defendant; determination of disputed value of property; justification by\n\nsureties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31200",
+      "number": "31.200",
+      "heading": "Grounds",
+      "text": "for discharge of attachment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31210",
+      "number": "31.210",
+      "heading": "When",
+      "text": "motion to discharge attachment made on affidavits, plaintiff may oppose by\n\naffidavits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31220",
+      "number": "31.220",
+      "heading": "Improperly,",
+      "text": "improvidently or irregularly issued writ must be discharged; issuance of new\n\nwrit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31235",
+      "number": "31.235",
+      "heading": "Constables",
+      "text": "have powers and duties of sheriff with respect to writ of attachment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31240",
+      "number": "31.240",
+      "heading": "Writ",
+      "text": "of garnishment may issue at time of issuance of writ of attachment or later.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31249",
+      "number": "31.249",
+      "heading": "Application",
+      "text": "to court for writ of garnishment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31260",
+      "number": "31.260",
+      "heading": "Issuance",
+      "text": "and contents of writ of garnishment; notice of execution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31270",
+      "number": "31.270",
+      "heading": "Service",
+      "text": "of writ; tender of garnishee�s fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31280",
+      "number": "31.280",
+      "heading": "Service",
+      "text": "and return of writ give court jurisdiction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31290",
+      "number": "31.290",
+      "heading": "Form",
+      "text": "of interrogatories to garnishee; garnishee to answer in writing under oath.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31291",
+      "number": "31.291",
+      "heading": "Garnishment",
+      "text": "of certain financial institutions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31292",
+      "number": "31.292",
+      "heading": "Garnishment",
+      "text": "of court clerks, sheriffs, justices of the peace, peace officers, other public\n\nofficers, executors and administrators.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31293",
+      "number": "31.293",
+      "heading": "Unpaid",
+      "text": "subscription to corporate stock subject to garnishment by creditor of\n\ncorporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31294",
+      "number": "31.294",
+      "heading": "Procedure",
+      "text": "for garnishment when another action pending.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-312945",
+      "number": "31.2945",
+      "heading": "Garnishment",
+      "text": "under foreign judgment: Liability for failure to comply with Uniform\n\nEnforcement of Foreign Judgments Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31295",
+      "number": "31.295",
+      "heading": "Garnishment",
+      "text": "of earnings: Limitations on amount.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-312955",
+      "number": "31.2955",
+      "heading": "Garnishment",
+      "text": "of earnings: Calculations for determining gross weekly salary or wage of\n\nemployee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31296",
+      "number": "31.296",
+      "heading": "Garnishment",
+      "text": "of earnings: Period of garnishment; fee for withholding; termination of\n\nemployment; periodic report by judgment creditor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31297",
+      "number": "31.297",
+      "heading": "Garnishment",
+      "text": "of earnings: Liability of employer for refusal to withhold or for\n\nmisrepresentation of earnings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31298",
+      "number": "31.298",
+      "heading": "Garnishment",
+      "text": "of earnings: Unlawful to discharge or discipline employee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31300",
+      "number": "31.300",
+      "heading": "Property",
+      "text": "to be delivered to sheriff; sale; judgment against garnishee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31310",
+      "number": "31.310",
+      "heading": "Property",
+      "text": "to be retained by garnishee or delivered to officer; effect of delivery;\n\ncertificate of receipt of property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31320",
+      "number": "31.320",
+      "heading": "Judgment",
+      "text": "against garnishee on failure to answer; relief from judgment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31330",
+      "number": "31.330",
+      "heading": "Answer",
+      "text": "of garnishee; reply of plaintiff by affidavit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31340",
+      "number": "31.340",
+      "heading": "New",
+      "text": "matter in plaintiff�s reply deemed denied; trial; judgment; costs; attorney�s\n\nfees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31350",
+      "number": "31.350",
+      "heading": "Third",
+      "text": "person may be interpleaded as defendant; notice; proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31360",
+      "number": "31.360",
+      "heading": "Garnishee",
+      "text": "may retain or deduct amounts due to garnishee by either party; record of\n\njudgment to show any counterclaims allowed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31370",
+      "number": "31.370",
+      "heading": "Judgment",
+      "text": "acquits garnishee for amounts paid.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31380",
+      "number": "31.380",
+      "heading": "Discharge",
+      "text": "of garnishee does not bar action by defendant; exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31390",
+      "number": "31.390",
+      "heading": "Judgment",
+      "text": "against garnishee for debt not due; execution deferred until debt due.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31400",
+      "number": "31.400",
+      "heading": "Property",
+      "text": "in hands of garnishee subject to security interest to be delivered to sheriff\n\non payment or tender by plaintiff.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31410",
+      "number": "31.410",
+      "heading": "Property",
+      "text": "held by garnishee to secure performance to be delivered to sheriff upon\n\nperformance or tender by plaintiff.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31420",
+      "number": "31.420",
+      "heading": "Disposal",
+      "text": "of property received by sheriff; reimbursement of plaintiff.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31450",
+      "number": "31.450",
+      "heading": "Issuance",
+      "text": "of writ of garnishment after judgment; procedure; liberal construction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31460",
+      "number": "31.460",
+      "heading": "New",
+      "text": "trials and appeals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31470",
+      "number": "31.470",
+      "heading": "Arrest",
+      "text": "in civil cases.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31480",
+      "number": "31.480",
+      "heading": "Cases",
+      "text": "in which defendant may be arrested.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31490",
+      "number": "31.490",
+      "heading": "Order",
+      "text": "for arrest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31500",
+      "number": "31.500",
+      "heading": "Order",
+      "text": "for arrest made when plaintiff�s affidavit shows a sufficient cause; requisites\n\nand filing of affidavit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31510",
+      "number": "31.510",
+      "heading": "Undertaking",
+      "text": "from plaintiff.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31520",
+      "number": "31.520",
+      "heading": "Order",
+      "text": "and arrest; return of order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31530",
+      "number": "31.530",
+      "heading": "Delivery",
+      "text": "of affidavit and order to sheriff and defendant.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31540",
+      "number": "31.540",
+      "heading": "Arrest",
+      "text": "of defendant.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31550",
+      "number": "31.550",
+      "heading": "Defendant",
+      "text": "to be discharged on bail or deposit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31560",
+      "number": "31.560",
+      "heading": "Defendant",
+      "text": "may give bail.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31570",
+      "number": "31.570",
+      "heading": "Bail",
+      "text": "may surrender defendant.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31580",
+      "number": "31.580",
+      "heading": "Arrest,",
+      "text": "delivery and surrender of defendant by bail; exoneration of bail.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31590",
+      "number": "31.590",
+      "heading": "Action",
+      "text": "against bail.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31600",
+      "number": "31.600",
+      "heading": "Bail",
+      "text": "exonerated by death, imprisonment or discharge of defendant.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31610",
+      "number": "31.610",
+      "heading": "Return",
+      "text": "of order; plaintiff may except to bail.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31620",
+      "number": "31.620",
+      "heading": "Notice",
+      "text": "of justification of bail.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31630",
+      "number": "31.630",
+      "heading": "Qualifications",
+      "text": "of bail.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31640",
+      "number": "31.640",
+      "heading": "Examination",
+      "text": "of bail.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31650",
+      "number": "31.650",
+      "heading": "Allowance",
+      "text": "of bail exonerates sheriff.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31660",
+      "number": "31.660",
+      "heading": "Deposit",
+      "text": "by defendant in lieu of bail.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31670",
+      "number": "31.670",
+      "heading": "Sheriff",
+      "text": "must pay deposit into court.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31680",
+      "number": "31.680",
+      "heading": "Undertaking",
+      "text": "may be substituted for deposit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31690",
+      "number": "31.690",
+      "heading": "Disposition",
+      "text": "of deposit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31700",
+      "number": "31.700",
+      "heading": "Liability",
+      "text": "of sheriff for escape or rescue.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31710",
+      "number": "31.710",
+      "heading": "Recovery",
+      "text": "on official bond of sheriff.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31720",
+      "number": "31.720",
+      "heading": "Defendant",
+      "text": "may move to vacate arrest or reduce bail; hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31730",
+      "number": "31.730",
+      "heading": "Vacation",
+      "text": "of order of arrest and reduction of bail.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31740",
+      "number": "31.740",
+      "heading": "Persons",
+      "text": "confined on execution issued on judgment may be discharged.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31750",
+      "number": "31.750",
+      "heading": "Notice",
+      "text": "of application for discharge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31760",
+      "number": "31.760",
+      "heading": "Service",
+      "text": "of notice of application.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31770",
+      "number": "31.770",
+      "heading": "Hearing",
+      "text": "on application.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31780",
+      "number": "31.780",
+      "heading": "Oath",
+      "text": "of defendant on discharge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31790",
+      "number": "31.790",
+      "heading": "Order",
+      "text": "of discharge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31800",
+      "number": "31.800",
+      "heading": "Renewal",
+      "text": "of application for discharge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31810",
+      "number": "31.810",
+      "heading": "Effect",
+      "text": "of discharge; judgment remains in force.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31820",
+      "number": "31.820",
+      "heading": "Plaintiff",
+      "text": "may order discharge of prisoner; effect of discharge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31830",
+      "number": "31.830",
+      "heading": "Creditor",
+      "text": "to advance money to jailer for support of prisoner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31840",
+      "number": "31.840",
+      "heading": "Delivery",
+      "text": "may be claimed before answer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31850",
+      "number": "31.850",
+      "heading": "Requisites",
+      "text": "of affidavit by plaintiff.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31853",
+      "number": "31.853",
+      "heading": "Order",
+      "text": "to show cause; contents; service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31856",
+      "number": "31.856",
+      "heading": "Issuance",
+      "text": "of writ of possession without hearing; order shortening time for hearing;\n\nundertaking by plaintiff.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31859",
+      "number": "31.859",
+      "heading": "Temporary",
+      "text": "restraining order in lieu of immediate issue of writ of possession.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31863",
+      "number": "31.863",
+      "heading": "Hearing",
+      "text": "on order to show cause; undertaking by plaintiff.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31866",
+      "number": "31.866",
+      "heading": "Writ",
+      "text": "of possession.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31870",
+      "number": "31.870",
+      "heading": "Sheriff",
+      "text": "to take property described in writ; service of writ and undertaking on\n\ndefendant.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31880",
+      "number": "31.880",
+      "heading": "Defendant",
+      "text": "may except to sufficiency of sureties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31890",
+      "number": "31.890",
+      "heading": "Return",
+      "text": "of property to defendant upon giving written undertaking.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31900",
+      "number": "31.900",
+      "heading": "Justification",
+      "text": "of defendant�s sureties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31910",
+      "number": "31.910",
+      "heading": "Qualifications",
+      "text": "of sureties and manner of justification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31920",
+      "number": "31.920",
+      "heading": "Sheriff",
+      "text": "may take concealed property by force after demand.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31930",
+      "number": "31.930",
+      "heading": "Sheriff",
+      "text": "to keep property in secure place; to deliver upon receipt of fees and expenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31940",
+      "number": "31.940",
+      "heading": "Claim",
+      "text": "by third party; undertaking by plaintiff; determination of title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-31950",
+      "number": "31.950",
+      "heading": "Sheriff",
+      "text": "to make return within 20 days after taking property.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

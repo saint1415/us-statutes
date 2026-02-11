@@ -1,0 +1,478 @@
+{
+  "state": "washington",
+  "path": "title-title-10/chapter-title-10",
+  "sections": [
+    {
+      "id": "section-title-10",
+      "number": "Title 10",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-show-dispositions",
+      "number": "Show Dispositions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1001",
+      "number": "10.01",
+      "heading": "General provisions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1004",
+      "number": "10.04",
+      "heading": "District court procedure—Generally.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1005",
+      "number": "10.05",
+      "heading": "Deferred prosecution—Courts of limited jurisdiction.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1010",
+      "number": "10.10",
+      "heading": "Criminal appeals from district courts.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1016",
+      "number": "10.16",
+      "heading": "Preliminary hearings.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1019",
+      "number": "10.19",
+      "heading": "Bail and appearance bonds.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1021",
+      "number": "10.21",
+      "heading": "Bail determinations under Article I, section 20—Conditions of release.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1022",
+      "number": "10.22",
+      "heading": "Compromise of misdemeanors.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1025",
+      "number": "10.25",
+      "heading": "Jurisdiction and venue.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1027",
+      "number": "10.27",
+      "heading": "Grand juries—Criminal investigations.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1029",
+      "number": "10.29",
+      "heading": "Statewide special inquiry judge act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1031",
+      "number": "10.31",
+      "heading": "Warrants and arrests.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1032",
+      "number": "10.32",
+      "heading": "Tribal warrants.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1034",
+      "number": "10.34",
+      "heading": "Fugitives of this state.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1037",
+      "number": "10.37",
+      "heading": "Accusations and their requisites.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1040",
+      "number": "10.40",
+      "heading": "Arraignment.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1043",
+      "number": "10.43",
+      "heading": "Former acquittal or conviction.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1046",
+      "number": "10.46",
+      "heading": "Superior court trial.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1052",
+      "number": "10.52",
+      "heading": "Witnesses—Generally.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1055",
+      "number": "10.55",
+      "heading": "Witnesses outside the state (uniform act).",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1056",
+      "number": "10.56",
+      "heading": "Witnesses—Eyewitnesses and informants.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1058",
+      "number": "10.58",
+      "heading": "Evidence.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1061",
+      "number": "10.61",
+      "heading": "Verdicts.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1064",
+      "number": "10.64",
+      "heading": "Judgments and sentences.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1066",
+      "number": "10.66",
+      "heading": "Drug traffickers—Off-limits orders.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1070",
+      "number": "10.70",
+      "heading": "Commitments.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1073",
+      "number": "10.73",
+      "heading": "Criminal appeals.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1077",
+      "number": "10.77",
+      "heading": "Criminally insane—Procedures.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1079",
+      "number": "10.79",
+      "heading": "Searches and seizures.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1082",
+      "number": "10.82",
+      "heading": "Collection and disposition of fines and costs.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1085",
+      "number": "10.85",
+      "heading": "Rewards.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1088",
+      "number": "10.88",
+      "heading": "Uniform criminal extradition act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1089",
+      "number": "10.89",
+      "heading": "Uniform act on fresh pursuit.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1091",
+      "number": "10.91",
+      "heading": "Uniform rendition of accused persons act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1092",
+      "number": "10.92",
+      "heading": "Tribal police officers.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1093",
+      "number": "10.93",
+      "heading": "Washington mutual aid peace officers powers act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1095",
+      "number": "10.95",
+      "heading": "Aggravated first degree murder.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1096",
+      "number": "10.96",
+      "heading": "Criminal process records.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1097",
+      "number": "10.97",
+      "heading": "Washington state criminal records privacy act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1098",
+      "number": "10.98",
+      "heading": "Criminal justice information act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1099",
+      "number": "10.99",
+      "heading": "Domestic violence—Official response.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10101",
+      "number": "10.101",
+      "heading": "Indigent defense services.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10105",
+      "number": "10.105",
+      "heading": "Property involved in a felony.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10108",
+      "number": "10.108",
+      "heading": "Blue alert system.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10109",
+      "number": "10.109",
+      "heading": "Use of body worn cameras.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10110",
+      "number": "10.110",
+      "heading": "Individuals in custody—Health care services.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10112",
+      "number": "10.112",
+      "heading": "Sexual exploitation of children.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10114",
+      "number": "10.114",
+      "heading": "Use of deadly force by peace officer.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10116",
+      "number": "10.116",
+      "heading": "Peace officers—Tactics and equipment.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10118",
+      "number": "10.118",
+      "heading": "Law enforcement—Use of force—Data collection.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10120",
+      "number": "10.120",
+      "heading": "Law enforcement and correctional officers—Permissible uses of force.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10122",
+      "number": "10.122",
+      "heading": "Uniform electronic recordation of custodial interrogations act.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-43101",
+      "number": "43.101",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7102",
+      "number": "71.02",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4663",
+      "number": "46.63",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4664",
+      "number": "46.64",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-768",
+      "number": "7.68",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

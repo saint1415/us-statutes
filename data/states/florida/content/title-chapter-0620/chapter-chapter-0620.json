@@ -1,0 +1,1566 @@
+{
+  "state": "florida",
+  "path": "title-chapter-0620/chapter-chapter-0620",
+  "sections": [
+    {
+      "id": "section-6201101popular",
+      "number": "620.1101Popular",
+      "heading": "name.620.1102Definitions.620.1103Knowledge and notice",
+      "text": "620.1104Nature, purpose, and duration of entity.620.1105Powers.620.1106Governing law.620.1107Supplemental principles of law; rate of interest.620.1108Name.620.11085Reserved name.620.1109Department of State; fees.620.1110Effect of partnership agre",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201102definitions",
+      "number": "620.1102Definitions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201103knowledge",
+      "number": "620.1103Knowledge",
+      "heading": "and notice.",
+      "text": "and notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201105powers",
+      "number": "620.1105Powers",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201106governing",
+      "number": "620.1106Governing",
+      "heading": "law.",
+      "text": "law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201107supplemental",
+      "number": "620.1107Supplemental",
+      "heading": "principles of law; rate of interest.",
+      "text": "principles of law; rate of interest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201108name",
+      "number": "620.1108Name",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62011085reserved",
+      "number": "620.11085Reserved",
+      "heading": "name.",
+      "text": "name.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201109department",
+      "number": "620.1109Department",
+      "heading": "of State; fees.",
+      "text": "of State; fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201110effect",
+      "number": "620.1110Effect",
+      "heading": "of partnership agreement; nonwaivable provisions.",
+      "text": "of partnership agreement; nonwaivable provisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201111required",
+      "number": "620.1111Required",
+      "heading": "information.",
+      "text": "information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201112business",
+      "number": "620.1112Business",
+      "heading": "transactions of partner with partnership.",
+      "text": "transactions of partner with partnership.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201113dual",
+      "number": "620.1113Dual",
+      "heading": "capacity.",
+      "text": "capacity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201114designated",
+      "number": "620.1114Designated",
+      "heading": "office, registered office, and registered agent.",
+      "text": "office, registered office, and registered agent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201115change",
+      "number": "620.1115Change",
+      "heading": "of registered agent or registered office.",
+      "text": "of registered agent or registered office.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201116resignation",
+      "number": "620.1116Resignation",
+      "heading": "of registered agent.",
+      "text": "of registered agent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201117serving",
+      "number": "620.1117Serving",
+      "heading": "process, giving notice, or making a demand on a limited partnership or a foreign limited partnership.",
+      "text": "process, giving notice, or making a demand on a limited partnership or a foreign limited partnership.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201118consent",
+      "number": "620.1118Consent",
+      "heading": "and proxies of partners.",
+      "text": "and proxies of partners.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201201formation",
+      "number": "620.1201Formation",
+      "heading": "of limited partnership; certificate of limited partnership.",
+      "text": "of limited partnership; certificate of limited partnership.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201202amendment",
+      "number": "620.1202Amendment",
+      "heading": "or restatement of certificate.",
+      "text": "or restatement of certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201203certificate",
+      "number": "620.1203Certificate",
+      "heading": "of dissolution; statement of termination.",
+      "text": "of dissolution; statement of termination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201204signing",
+      "number": "620.1204Signing",
+      "heading": "of records.",
+      "text": "of records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201205signing",
+      "number": "620.1205Signing",
+      "heading": "and filing pursuant to judicial order.",
+      "text": "and filing pursuant to judicial order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201206delivery",
+      "number": "620.1206Delivery",
+      "heading": "to and filing of records by Department of State; effective time and date; notice.",
+      "text": "to and filing of records by Department of State; effective time and date; notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201207correcting",
+      "number": "620.1207Correcting",
+      "heading": "filed record.",
+      "text": "filed record.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201208liability",
+      "number": "620.1208Liability",
+      "heading": "for false information in filed record.",
+      "text": "for false information in filed record.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201209certificate",
+      "number": "620.1209Certificate",
+      "heading": "of status.",
+      "text": "of status.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201210annual",
+      "number": "620.1210Annual",
+      "heading": "report for Department of State.",
+      "text": "report for Department of State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201301becoming",
+      "number": "620.1301Becoming",
+      "heading": "limited partner.",
+      "text": "limited partner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201302no",
+      "number": "620.1302No",
+      "heading": "right or power as limited partner to bind limited partnership; certain approval rights.",
+      "text": "right or power as limited partner to bind limited partnership; certain approval rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201303no",
+      "number": "620.1303No",
+      "heading": "liability as limited partner for limited partnership obligations.",
+      "text": "liability as limited partner for limited partnership obligations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201304right",
+      "number": "620.1304Right",
+      "heading": "of limited partner and former limited partner to information.",
+      "text": "of limited partner and former limited partner to information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201305limited",
+      "number": "620.1305Limited",
+      "heading": "duties of limited partners.",
+      "text": "duties of limited partners.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201306person",
+      "number": "620.1306Person",
+      "heading": "erroneously believing self to be limited partner.",
+      "text": "erroneously believing self to be limited partner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201401becoming",
+      "number": "620.1401Becoming",
+      "heading": "general partner.",
+      "text": "general partner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201402general",
+      "number": "620.1402General",
+      "heading": "partner agent of limited partnership.",
+      "text": "partner agent of limited partnership.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201403limited",
+      "number": "620.1403Limited",
+      "heading": "partnership liable for general partner’s actionable conduct.",
+      "text": "partnership liable for general partner’s actionable conduct.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201404general",
+      "number": "620.1404General",
+      "heading": "partner’s liability.",
+      "text": "partner’s liability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201405actions",
+      "number": "620.1405Actions",
+      "heading": "by and against partnership and partners.",
+      "text": "by and against partnership and partners.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201406management",
+      "number": "620.1406Management",
+      "heading": "rights of general partner; approval rights of other partners.",
+      "text": "rights of general partner; approval rights of other partners.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201407right",
+      "number": "620.1407Right",
+      "heading": "of general partner and former general partner to information.",
+      "text": "of general partner and former general partner to information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201408general",
+      "number": "620.1408General",
+      "heading": "standards of conduct for general partner.",
+      "text": "standards of conduct for general partner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201501form",
+      "number": "620.1501Form",
+      "heading": "of contribution.",
+      "text": "of contribution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201502liability",
+      "number": "620.1502Liability",
+      "heading": "for contribution.",
+      "text": "for contribution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201503sharing",
+      "number": "620.1503Sharing",
+      "heading": "of profits, losses, and distributions.",
+      "text": "of profits, losses, and distributions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201504interim",
+      "number": "620.1504Interim",
+      "heading": "distributions.",
+      "text": "distributions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201505no",
+      "number": "620.1505No",
+      "heading": "distribution on account of dissociation.",
+      "text": "distribution on account of dissociation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201506distribution",
+      "number": "620.1506Distribution",
+      "heading": "in kind.",
+      "text": "in kind.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201507right",
+      "number": "620.1507Right",
+      "heading": "to distribution.",
+      "text": "to distribution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201508limitations",
+      "number": "620.1508Limitations",
+      "heading": "on distribution.",
+      "text": "on distribution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201509liability",
+      "number": "620.1509Liability",
+      "heading": "for improper distributions.",
+      "text": "for improper distributions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201601dissociation",
+      "number": "620.1601Dissociation",
+      "heading": "as limited partner.",
+      "text": "as limited partner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201602effect",
+      "number": "620.1602Effect",
+      "heading": "of dissociation as limited partner.",
+      "text": "of dissociation as limited partner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201603dissociation",
+      "number": "620.1603Dissociation",
+      "heading": "as general partner.",
+      "text": "as general partner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201605effect",
+      "number": "620.1605Effect",
+      "heading": "of dissociation as general partner.",
+      "text": "of dissociation as general partner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201606power",
+      "number": "620.1606Power",
+      "heading": "to bind and liability to limited partnership before dissolution of partnership of person dissociated as general partner.",
+      "text": "to bind and liability to limited partnership before dissolution of partnership of person dissociated as general partner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201607liability",
+      "number": "620.1607Liability",
+      "heading": "to other persons of person dissociated as general partner.",
+      "text": "to other persons of person dissociated as general partner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201702transfer",
+      "number": "620.1702Transfer",
+      "heading": "of partner’s transferable interest.",
+      "text": "of partner’s transferable interest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201703rights",
+      "number": "620.1703Rights",
+      "heading": "of creditor of partner or transferee.",
+      "text": "of creditor of partner or transferee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201704power",
+      "number": "620.1704Power",
+      "heading": "of estate of deceased partner.",
+      "text": "of estate of deceased partner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201801nonjudicial",
+      "number": "620.1801Nonjudicial",
+      "heading": "dissolution.",
+      "text": "dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201802judicial",
+      "number": "620.1802Judicial",
+      "heading": "dissolution.",
+      "text": "dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201803winding",
+      "number": "620.1803Winding",
+      "heading": "up.",
+      "text": "up.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201804power",
+      "number": "620.1804Power",
+      "heading": "of general partner and person dissociated as general partner to bind partnership after dissolution.",
+      "text": "of general partner and person dissociated as general partner to bind partnership after dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201805liability",
+      "number": "620.1805Liability",
+      "heading": "after dissolution of general partner and person dissociated as general partner to limited partnership, other general partners, and persons dissociated as general partner",
+      "text": "after dissolution of general partner and person dissociated as general partner to limited partnership, other general partners, and persons dissociated as general partner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201806known",
+      "number": "620.1806Known",
+      "heading": "claims against dissolved limited partnership.",
+      "text": "claims against dissolved limited partnership.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201807unknown",
+      "number": "620.1807Unknown",
+      "heading": "claims against dissolved limited partnership.",
+      "text": "claims against dissolved limited partnership.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201808liability",
+      "number": "620.1808Liability",
+      "heading": "of general partner and person dissociated as general partner when claim against limited partnership barred.",
+      "text": "of general partner and person dissociated as general partner when claim against limited partnership barred.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201809administrative",
+      "number": "620.1809Administrative",
+      "heading": "dissolution.",
+      "text": "dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201810reinstatement",
+      "number": "620.1810Reinstatement",
+      "heading": "following administrative dissolution.",
+      "text": "following administrative dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201811appeal",
+      "number": "620.1811Appeal",
+      "heading": "from denial of reinstatement.",
+      "text": "from denial of reinstatement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201812revocation",
+      "number": "620.1812Revocation",
+      "heading": "of dissolution.",
+      "text": "of dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201813disposition",
+      "number": "620.1813Disposition",
+      "heading": "of assets; when contributions required.",
+      "text": "of assets; when contributions required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201901governing",
+      "number": "620.1901Governing",
+      "heading": "law regarding foreign limited partnerships.",
+      "text": "law regarding foreign limited partnerships.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201902application",
+      "number": "620.1902Application",
+      "heading": "for certificate of authority.",
+      "text": "for certificate of authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201903activities",
+      "number": "620.1903Activities",
+      "heading": "not constituting transacting business.",
+      "text": "not constituting transacting business.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201904filing",
+      "number": "620.1904Filing",
+      "heading": "of certificate of authority.",
+      "text": "of certificate of authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201905noncomplying",
+      "number": "620.1905Noncomplying",
+      "heading": "name of foreign limited partnership.",
+      "text": "name of foreign limited partnership.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201906revocation",
+      "number": "620.1906Revocation",
+      "heading": "of certificate of authority.",
+      "text": "of certificate of authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201907cancellation",
+      "number": "620.1907Cancellation",
+      "heading": "of certificate of authority; effect of failure to have certificate.",
+      "text": "of certificate of authority; effect of failure to have certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201908action",
+      "number": "620.1908Action",
+      "heading": "by Attorney General.",
+      "text": "by Attorney General.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201909reinstatement",
+      "number": "620.1909Reinstatement",
+      "heading": "following administrative revocation.",
+      "text": "following administrative revocation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201910amending",
+      "number": "620.1910Amending",
+      "heading": "certificate of authority.",
+      "text": "certificate of authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202001direct",
+      "number": "620.2001Direct",
+      "heading": "action by partner.",
+      "text": "action by partner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202002derivative",
+      "number": "620.2002Derivative",
+      "heading": "action.",
+      "text": "action.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202003proper",
+      "number": "620.2003Proper",
+      "heading": "plaintiff.",
+      "text": "plaintiff.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202004pleading",
+      "number": "620.2004Pleading",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202005proceeds",
+      "number": "620.2005Proceeds",
+      "heading": "and expenses.",
+      "text": "and expenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202101definitions",
+      "number": "620.2101Definitions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202102conversion",
+      "number": "620.2102Conversion",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202103action",
+      "number": "620.2103Action",
+      "heading": "on plan of conversion by converting limited partnership.",
+      "text": "on plan of conversion by converting limited partnership.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202104filings",
+      "number": "620.2104Filings",
+      "heading": "required for conversion; effective date.",
+      "text": "required for conversion; effective date.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202105effect",
+      "number": "620.2105Effect",
+      "heading": "of conversion.",
+      "text": "of conversion.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202106merger",
+      "number": "620.2106Merger",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202107action",
+      "number": "620.2107Action",
+      "heading": "on plan of merger by constituent limited partnership.",
+      "text": "on plan of merger by constituent limited partnership.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202108filings",
+      "number": "620.2108Filings",
+      "heading": "required for merger; effective date.",
+      "text": "required for merger; effective date.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202109effect",
+      "number": "620.2109Effect",
+      "heading": "of merger.",
+      "text": "of merger.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202110restrictions",
+      "number": "620.2110Restrictions",
+      "heading": "on approval of conversions and mergers and on relinquishing limited liability limited partnership status.",
+      "text": "on approval of conversions and mergers and on relinquishing limited liability limited partnership status.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202111liability",
+      "number": "620.2111Liability",
+      "heading": "of general partner after conversion or merger.",
+      "text": "of general partner after conversion or merger.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202112power",
+      "number": "620.2112Power",
+      "heading": "of general partners and persons dissociated as general partners to bind organization after conversion or merger.",
+      "text": "of general partners and persons dissociated as general partners to bind organization after conversion or merger.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202113appraisal",
+      "number": "620.2113Appraisal",
+      "heading": "rights; definitions.",
+      "text": "rights; definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202114right",
+      "number": "620.2114Right",
+      "heading": "of limited partners to appraisal.",
+      "text": "of limited partners to appraisal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202115assertion",
+      "number": "620.2115Assertion",
+      "heading": "of rights by nominees and beneficial owners.",
+      "text": "of rights by nominees and beneficial owners.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202116notice",
+      "number": "620.2116Notice",
+      "heading": "of appraisal rights.",
+      "text": "of appraisal rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202117notice",
+      "number": "620.2117Notice",
+      "heading": "of intent to demand payment.",
+      "text": "of intent to demand payment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202118appraisal",
+      "number": "620.2118Appraisal",
+      "heading": "notice and form.",
+      "text": "notice and form.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202119perfection",
+      "number": "620.2119Perfection",
+      "heading": "of rights; right to withdraw.",
+      "text": "of rights; right to withdraw.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202120limited",
+      "number": "620.2120Limited",
+      "heading": "partner’s acceptance of limited partnership’s offer.",
+      "text": "partner’s acceptance of limited partnership’s offer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202121procedure",
+      "number": "620.2121Procedure",
+      "heading": "if limited partner is dissatisfied with offer.",
+      "text": "if limited partner is dissatisfied with offer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202122court",
+      "number": "620.2122Court",
+      "heading": "action.",
+      "text": "action.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202123court",
+      "number": "620.2123Court",
+      "heading": "costs and counsel fees.",
+      "text": "costs and counsel fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202124limitation",
+      "number": "620.2124Limitation",
+      "heading": "on limited partnership payment.",
+      "text": "on limited partnership payment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202125application",
+      "number": "620.2125Application",
+      "heading": "of other laws to provisions governing conversions and mergers.",
+      "text": "of other laws to provisions governing conversions and mergers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202201uniformity",
+      "number": "620.2201Uniformity",
+      "heading": "of application and construction.",
+      "text": "of application and construction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202202severability",
+      "number": "620.2202Severability",
+      "heading": "clause.",
+      "text": "clause.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202203relation",
+      "number": "620.2203Relation",
+      "heading": "to Electronic Signatures in Global and National Commerce Act.",
+      "text": "to Electronic Signatures in Global and National Commerce Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202204application",
+      "number": "620.2204Application",
+      "heading": "to existing relationships.",
+      "text": "to existing relationships.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202205savings",
+      "number": "620.2205Savings",
+      "heading": "clause.",
+      "text": "clause.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201102definitions",
+      "number": "620.1102Definitions.",
+      "heading": "As used in this act:(1)“Act” means the Florida Revised Uniform Limited Partnership Act of 2005, as amended",
+      "text": "(2)“Certificate of limited partnership” means the certificate required by s. 620.1201. The term includes the certificate as amended or restated.(3)“Contribution,” except in the phrase “right of",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201105powers",
+      "number": "620.1105Powers.",
+      "heading": "A limited partnership has the powers to do all things necessary or convenient to carry on its activities, including the power to sue, be sued, and defend in its own name and to maintain an action against a partner for harm caused to the limited partnership by a breach of the partnership agreement or",
+      "text": "A limited partnership has the powers to do all things necessary or convenient to carry on its activities, including the power to sue, be sued, and defend in its own name and to maintain an action against a partner for harm caused to the limited partnership by a breach of the partnership agreement or violation of a duty to the partnership.History.—s. 17, ch. 2005-267.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6201108name",
+      "number": "620.1108Name.",
+      "heading": "(1)The name of a limited partnership may contain the name of any partner",
+      "text": "(2)The name of a limited partnership that is not a limited liability limited partnership must contain the phrase “limited partnership” or “limited” or the abbreviation “L.P.” or “Ltd.” or the designation “LP,” and may not conta",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-uring",
+      "number": "uring",
+      "heading": "or collecting debts or enforcing mortgages or other security interests in property securing the debts, and holding, protecting, and maintaining property so acquired",
+      "text": "or collecting debts or enforcing mortgages or other security interests in property securing the debts, and holding, protecting, and maintaining property so acquired.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202004pleading",
+      "number": "620.2004Pleading.",
+      "heading": "In a derivative action, the complaint must state with particularity:(1)The date and content of plaintiff’s demand and the general partners’ response to the demand; or(2)Why demand should be excused as futile",
+      "text": "History.—s. 17, ch. 2005-267.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202101definitions",
+      "number": "620.2101Definitions.",
+      "heading": "As used in this section and ss",
+      "text": "620.2102-620.2124:(1)“Constituent limited partnership” means a constituent organization that is a limited partnership.(2)“Constituent organization” means an organization that is party to a merger.(3)“Converted organization” means the organization into which a converti",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202102conversion",
+      "number": "620.2102Conversion.",
+      "heading": "(1)An organization other than a limited partnership may convert to a limited partnership, and a limited partnership may convert to another organization, other than an organization which is also a domestic limited partnership governed by this act, pursuant to this section and ss",
+      "text": "620.2103-620.2105 an",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6202106merger",
+      "number": "620.2106Merger.",
+      "heading": "(1)A limited partnership may merge with one or more other constituent organizations pursuant to this section and ss",
+      "text": "620.2107-620.2109 and a plan of merger, if:(a)The governing law of each of the other organizations authorizes the merger.(b)The merger is permitted by the law of a jurisdiction that e",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62081001uniformity",
+      "number": "620.81001Uniformity",
+      "heading": "of application and construction",
+      "text": "620.81002Short title.620.8101Definitions.620.8102Knowledge and notice.620.8103Effect of partnership agreement; nonwaivable provisions.620.8104Supplemental principles of law.620.8105Execution, filing, and recording of partnership registration and other statements.620.8",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62081002short",
+      "number": "620.81002Short",
+      "heading": "title.",
+      "text": "title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208101definitions",
+      "number": "620.8101Definitions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208102knowledge",
+      "number": "620.8102Knowledge",
+      "heading": "and notice.",
+      "text": "and notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208103effect",
+      "number": "620.8103Effect",
+      "heading": "of partnership agreement; nonwaivable provisions.",
+      "text": "of partnership agreement; nonwaivable provisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208104supplemental",
+      "number": "620.8104Supplemental",
+      "heading": "principles of law.",
+      "text": "principles of law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62081054correcting",
+      "number": "620.81054Correcting",
+      "heading": "a filed record.",
+      "text": "a filed record.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-62081055fees",
+      "number": "620.81055Fees",
+      "heading": "for filing documents and issuing certificates; powers of the Department of State.",
+      "text": "for filing documents and issuing certificates; powers of the Department of State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208106governing",
+      "number": "620.8106Governing",
+      "heading": "law.",
+      "text": "law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208107partnership",
+      "number": "620.8107Partnership",
+      "heading": "subject to amendment or repeal of act.",
+      "text": "subject to amendment or repeal of act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208201partnership",
+      "number": "620.8201Partnership",
+      "heading": "as entity.",
+      "text": "as entity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208202formation",
+      "number": "620.8202Formation",
+      "heading": "of partnership.",
+      "text": "of partnership.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208203partnership",
+      "number": "620.8203Partnership",
+      "heading": "property.",
+      "text": "property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208204when",
+      "number": "620.8204When",
+      "heading": "property is partnership property.",
+      "text": "property is partnership property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208301partner",
+      "number": "620.8301Partner",
+      "heading": "agent of partnership.",
+      "text": "agent of partnership.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208302transfer",
+      "number": "620.8302Transfer",
+      "heading": "of partnership property.",
+      "text": "of partnership property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208303statement",
+      "number": "620.8303Statement",
+      "heading": "of partnership authority.",
+      "text": "of partnership authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208304statement",
+      "number": "620.8304Statement",
+      "heading": "of denial.",
+      "text": "of denial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208305partnership",
+      "number": "620.8305Partnership",
+      "heading": "liable for partner’s actionable conduct.",
+      "text": "liable for partner’s actionable conduct.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208307actions",
+      "number": "620.8307Actions",
+      "heading": "by and against partnership and partners.",
+      "text": "by and against partnership and partners.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208308liability",
+      "number": "620.8308Liability",
+      "heading": "of purported partner.",
+      "text": "of purported partner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208402distributions",
+      "number": "620.8402Distributions",
+      "heading": "in kind.",
+      "text": "in kind.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208404general",
+      "number": "620.8404General",
+      "heading": "standards of partner’s conduct.",
+      "text": "standards of partner’s conduct.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208405actions",
+      "number": "620.8405Actions",
+      "heading": "by partnership and partners.",
+      "text": "by partnership and partners.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208406continuation",
+      "number": "620.8406Continuation",
+      "heading": "of partnership beyond definite term or particular undertaking.",
+      "text": "of partnership beyond definite term or particular undertaking.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208501partner",
+      "number": "620.8501Partner",
+      "heading": "not co-owner of partnership property.",
+      "text": "not co-owner of partnership property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208503transfer",
+      "number": "620.8503Transfer",
+      "heading": "of partner’s transferable interest.",
+      "text": "of partner’s transferable interest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208601events",
+      "number": "620.8601Events",
+      "heading": "causing partner’s dissociation.",
+      "text": "causing partner’s dissociation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208603effect",
+      "number": "620.8603Effect",
+      "heading": "of partner’s dissociation.",
+      "text": "of partner’s dissociation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208701purchase",
+      "number": "620.8701Purchase",
+      "heading": "of dissociated partner’s interest.",
+      "text": "of dissociated partner’s interest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208702dissociated",
+      "number": "620.8702Dissociated",
+      "heading": "partner’s power to bind and liability to partnership.",
+      "text": "partner’s power to bind and liability to partnership.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208703dissociated",
+      "number": "620.8703Dissociated",
+      "heading": "partner’s liability to other persons.",
+      "text": "partner’s liability to other persons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208704statement",
+      "number": "620.8704Statement",
+      "heading": "of dissociation.",
+      "text": "of dissociation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208705continued",
+      "number": "620.8705Continued",
+      "heading": "use of partnership name.",
+      "text": "use of partnership name.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208801events",
+      "number": "620.8801Events",
+      "heading": "causing dissolution and winding up of partnership business.",
+      "text": "causing dissolution and winding up of partnership business.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208802partnership",
+      "number": "620.8802Partnership",
+      "heading": "continues after dissolution.",
+      "text": "continues after dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208803right",
+      "number": "620.8803Right",
+      "heading": "to wind up partnership business.",
+      "text": "to wind up partnership business.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208805statement",
+      "number": "620.8805Statement",
+      "heading": "of dissolution.",
+      "text": "of dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208807settlement",
+      "number": "620.8807Settlement",
+      "heading": "of accounts and contributions among partners.",
+      "text": "of accounts and contributions among partners.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208911definitions",
+      "number": "620.8911Definitions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208912conversion",
+      "number": "620.8912Conversion",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208913action",
+      "number": "620.8913Action",
+      "heading": "on plan of conversion by converting partnership.",
+      "text": "on plan of conversion by converting partnership.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208914filings",
+      "number": "620.8914Filings",
+      "heading": "required for conversion; effective date.",
+      "text": "required for conversion; effective date.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208915effect",
+      "number": "620.8915Effect",
+      "heading": "of conversion.",
+      "text": "of conversion.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208916merger",
+      "number": "620.8916Merger",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208917action",
+      "number": "620.8917Action",
+      "heading": "on plan of merger by constituent partnership.",
+      "text": "on plan of merger by constituent partnership.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208918filings",
+      "number": "620.8918Filings",
+      "heading": "required for merger; effective date.",
+      "text": "required for merger; effective date.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208919effect",
+      "number": "620.8919Effect",
+      "heading": "of merger.",
+      "text": "of merger.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208920restrictions",
+      "number": "620.8920Restrictions",
+      "heading": "on approval of conversions and mergers and on relinquishing limited liability partnership status.",
+      "text": "on approval of conversions and mergers and on relinquishing limited liability partnership status.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208921liability",
+      "number": "620.8921Liability",
+      "heading": "of a partner after conversion or merger.",
+      "text": "of a partner after conversion or merger.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208922power",
+      "number": "620.8922Power",
+      "heading": "of partners and persons dissociated as partners to bind organization after conversion or merger.",
+      "text": "of partners and persons dissociated as partners to bind organization after conversion or merger.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208923application",
+      "number": "620.8923Application",
+      "heading": "of other laws to provisions governing conversions and mergers.",
+      "text": "of other laws to provisions governing conversions and mergers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6209001statement",
+      "number": "620.9001Statement",
+      "heading": "of qualification.",
+      "text": "of qualification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6209002name",
+      "number": "620.9002Name",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6209003annual",
+      "number": "620.9003Annual",
+      "heading": "report.",
+      "text": "report.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6209101law",
+      "number": "620.9101Law",
+      "heading": "governing foreign limited liability partnership.",
+      "text": "governing foreign limited liability partnership.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6209102statement",
+      "number": "620.9102Statement",
+      "heading": "of foreign qualification.",
+      "text": "of foreign qualification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6209103effect",
+      "number": "620.9103Effect",
+      "heading": "of failure to qualify.",
+      "text": "of failure to qualify.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6209104activities",
+      "number": "620.9104Activities",
+      "heading": "not constituting transacting business.",
+      "text": "not constituting transacting business.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6209105action",
+      "number": "620.9105Action",
+      "heading": "by Attorney General.",
+      "text": "by Attorney General.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6209901applicability",
+      "number": "620.9901Applicability",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6209902saving",
+      "number": "620.9902Saving",
+      "heading": "clause.",
+      "text": "clause.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208101definitions",
+      "number": "620.8101Definitions.",
+      "heading": "As used in this act, the term:(1)“Act” means the Revised Uniform Partnership Act of 1995, consisting of ss",
+      "text": "620.81001-620.9902.(2)“Business” means any trade, occupation, profession, or investment activity.(3)“Debtor in bankruptcy” means a person who is the subject of:(a)An order for relief under Tit",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-s",
+      "number": "s",
+      "heading": "of correction are effective as of the effective date of the document they correct except as to persons relying on the uncorrected document who are adversely affected by the correction",
+      "text": "As to those persons, articles of correction are effective when filed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208911definitions",
+      "number": "620.8911Definitions.",
+      "heading": "As used in this section and ss",
+      "text": "620.8912-620.8923:(1)“Constituent partnership” means a constituent organization that is a partnership governed by this act.(2)“Constituent organization” means an organization that is party to a merger.(3)“Converted organization” means the organization into which a con",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208912conversion",
+      "number": "620.8912Conversion.",
+      "heading": "(1)An organization other than a partnership may convert to a partnership, and a partnership may convert to another organization pursuant to this section and ss",
+      "text": "620.8913-620.8915 and a plan of conversion, if:(a)The other organization’s governing law authorizes the conversion.(b)The conversion is per",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6208916merger",
+      "number": "620.8916Merger.",
+      "heading": "(1)A partnership may merge with one or more other constituent organizations pursuant to this section and ss",
+      "text": "620.8917-620.8919 and a plan of merger, if:(a)The governing law of each of the other organizations authorizes the merger.(b)The merger is permitted by the law of each jurisdiction that enacte",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6209002name",
+      "number": "620.9002Name.",
+      "heading": "The name of a limited liability partnership must end with “Registered Limited Liability Partnership,” “Limited Liability Partnership,” “R",
+      "text": "L.L.P.,” “L.L.P.,” “RLLP,” or “LLP.”History.—s. 24, ch. 99-285.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6209901applicability",
+      "number": "620.9901Applicability.",
+      "heading": "Effective January 1, 1998, the Revised Uniform Partnership Act of 1995 governs all partnerships",
+      "text": "History.—s. 14, ch. 95-242; s. 34, ch. 99-285; s. 43, ch. 2001-63; s. 115, ch. 2005-2.Note.—Former s. 620.90.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

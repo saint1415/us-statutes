@@ -1,0 +1,646 @@
+{
+  "state": "nevada",
+  "path": "title-nrs-711/chapter-nrs-711",
+  "sections": [
+    {
+      "id": "section-711020",
+      "number": "711.020",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711021",
+      "number": "711.021",
+      "heading": "Affiliate�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711022",
+      "number": "711.022",
+      "heading": "Agreement�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711024",
+      "number": "711.024",
+      "heading": "Cable",
+      "text": "operator� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711025",
+      "number": "711.025",
+      "heading": "Cable",
+      "text": "service� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711026",
+      "number": "711.026",
+      "heading": "Cable",
+      "text": "system� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711027",
+      "number": "711.027",
+      "heading": "Certificate",
+      "text": "of authority� and �certificate� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711028",
+      "number": "711.028",
+      "heading": "Commercial",
+      "text": "mobile service provider� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711030",
+      "number": "711.030",
+      "heading": "Community",
+      "text": "antenna television company� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711040",
+      "number": "711.040",
+      "heading": "Community",
+      "text": "antenna television system� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711060",
+      "number": "711.060",
+      "heading": "Facility�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711061",
+      "number": "711.061",
+      "heading": "Franchise�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711062",
+      "number": "711.062",
+      "heading": "Franchise",
+      "text": "fee� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711064",
+      "number": "711.064",
+      "heading": "Governing",
+      "text": "body� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711066",
+      "number": "711.066",
+      "heading": "Gross",
+      "text": "revenue� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711070",
+      "number": "711.070",
+      "heading": "Highway�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711071",
+      "number": "711.071",
+      "heading": "Holder",
+      "text": "of a certificate� and �holder� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711072",
+      "number": "711.072",
+      "heading": "Incumbent",
+      "text": "cable operator� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7110723",
+      "number": "711.0723",
+      "heading": "Information",
+      "text": "service� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7110726",
+      "number": "711.0726",
+      "heading": "Interactive",
+      "text": "computer service� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711073",
+      "number": "711.073",
+      "heading": "Jurisdiction",
+      "text": "of a local government� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7110737",
+      "number": "711.0737",
+      "heading": "Local",
+      "text": "franchise� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711074",
+      "number": "711.074",
+      "heading": "Local",
+      "text": "government� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711085",
+      "number": "711.085",
+      "heading": "Local",
+      "text": "law� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711094",
+      "number": "711.094",
+      "heading": "Micro",
+      "text": "wireless facility� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711096",
+      "number": "711.096",
+      "heading": "Multichannel",
+      "text": "video programming distributor� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711105",
+      "number": "711.105",
+      "heading": "Service",
+      "text": "area� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711115",
+      "number": "711.115",
+      "heading": "Subscriber�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711125",
+      "number": "711.125",
+      "heading": "Telecommunication�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711131",
+      "number": "711.131",
+      "heading": "Telecommunication",
+      "text": "provider� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711135",
+      "number": "711.135",
+      "heading": "Telecommunication",
+      "text": "service� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711141",
+      "number": "711.141",
+      "heading": "Video",
+      "text": "service� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711145",
+      "number": "711.145",
+      "heading": "Video",
+      "text": "service network� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711151",
+      "number": "711.151",
+      "heading": "Video",
+      "text": "service provider� and �provider� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711175",
+      "number": "711.175",
+      "heading": "Certain",
+      "text": "local governments prohibited from selling video service to general public;\n\nexceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711178",
+      "number": "711.178",
+      "heading": "Requirements",
+      "text": "for certain local governments to sell video service to general public in\n\ncertain areas.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711240",
+      "number": "711.240",
+      "heading": "Unfair",
+      "text": "trade practices prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711255",
+      "number": "711.255",
+      "heading": "Video",
+      "text": "service provided to tenants: Prohibited conduct by landlord; responsibilities\n\nof provider; payment of compensation for access; rights and duties regarding\n\nconstruction, installation, repair and purchase of facilities; certain\n\ndiscounts prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711265",
+      "number": "711.265",
+      "heading": "Destruction",
+      "text": "of or interference with certain facilities or transmissions of video service\n\nprovider prohibited; penalty; civil damages.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711270",
+      "number": "711.270",
+      "heading": "Unauthorized",
+      "text": "interception or receipt of program, service or signal of video service provider\n\nprohibited; penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711280",
+      "number": "711.280",
+      "heading": "Civil",
+      "text": "damages and attorney�s fees for violation ofNRS\n\n711.270; presumption of defendant�s action; injunction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711285",
+      "number": "711.285",
+      "heading": "Recovery",
+      "text": "by local government of civil penalty from person convicted pursuant to certain\n\nprovisions ofNRS 711.270.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711290",
+      "number": "711.290",
+      "heading": "Limitation",
+      "text": "of actions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711400",
+      "number": "711.400",
+      "heading": "Preemption",
+      "text": "of certain local regulation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711410",
+      "number": "711.410",
+      "heading": "Duties",
+      "text": "and powers of Secretary of State; regulations; limitations on power of local\n\ngovernments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711420",
+      "number": "711.420",
+      "heading": "Fees.",
+      "text": "Fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711430",
+      "number": "711.430",
+      "heading": "Application",
+      "text": "and interpretation of chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711470",
+      "number": "711.470",
+      "heading": "Certificate",
+      "text": "required; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711480",
+      "number": "711.480",
+      "heading": "Incumbent",
+      "text": "cable operator: Election to operate under or terminate local franchise;\n\nprocedure to terminate local franchise and obtain certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711490",
+      "number": "711.490",
+      "heading": "Incumbent",
+      "text": "cable operator: Procedure to operate under local franchise in lieu of obtaining\n\ncertificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711500",
+      "number": "711.500",
+      "heading": "Application",
+      "text": "for certificate; requirements; fees; form and content; provision of information\n\nto local governments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711510",
+      "number": "711.510",
+      "heading": "Issuance",
+      "text": "of certificate; authority granted by certificate; certain conditions and\n\nlimitations on certificate prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711520",
+      "number": "711.520",
+      "heading": "Addition",
+      "text": "of new service area: Application for amendment of certificate; procedure; fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711530",
+      "number": "711.530",
+      "heading": "Modification",
+      "text": "of boundaries of service area: Filing of notice; fees; effective date.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711540",
+      "number": "711.540",
+      "heading": "Termination",
+      "text": "of service to service area: Filing of notice; fees; effective date.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711550",
+      "number": "711.550",
+      "heading": "Transfer",
+      "text": "of certificate: Authority; filing of notice; fees; conditions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711560",
+      "number": "711.560",
+      "heading": "Holder",
+      "text": "of certificate: Provision of video service within certain period; revocation of\n\ncertificate for noncompliance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711570",
+      "number": "711.570",
+      "heading": "Holder",
+      "text": "of certificate: Provision of video service in accordance with certifications\n\nmade in application.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711600",
+      "number": "711.600",
+      "heading": "Reports",
+      "text": "regarding construction of facilities and service locations; confidentiality of\n\nreports.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711610",
+      "number": "711.610",
+      "heading": "Provision",
+      "text": "of video service in nondiscriminatory manner; compliance with certain standards\n\nand federal requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711620",
+      "number": "711.620",
+      "heading": "Customer",
+      "text": "service: Compliance with certain federal requirements; duties of video service\n\nproviders and local governments; procedure regarding subscriber complaints.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711630",
+      "number": "711.630",
+      "heading": "Authority",
+      "text": "to provide telecommunication service; requirements; limitations on power of\n\nlocal governments regarding telecommunication and interactive computer service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711640",
+      "number": "711.640",
+      "heading": "Placement",
+      "text": "of facilities and use of public right-of-way or highway; management by local\n\ngovernments; limitations; permits or licenses; fees; emergency situations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711645",
+      "number": "711.645",
+      "heading": "Construction,",
+      "text": "installation, placement, maintenance, operation, repair or replacement of micro\n\nwireless facility on video service network of provider; requirements; effect of\n\nprovisions on authority of local government.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711670",
+      "number": "711.670",
+      "heading": "Imposition",
+      "text": "by local governments; requirements, conditions and limitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711680",
+      "number": "711.680",
+      "heading": "Review",
+      "text": "and audit of video service providers; action to recover underpayment or\n\noverpayment; period of limitation; payment of costs and attorney�s fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711700",
+      "number": "711.700",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711710",
+      "number": "711.710",
+      "heading": "Hub",
+      "text": "office� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711720",
+      "number": "711.720",
+      "heading": "Locally",
+      "text": "produced video programming� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711730",
+      "number": "711.730",
+      "heading": "Nonrepeat",
+      "text": "locally produced video programming� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711740",
+      "number": "711.740",
+      "heading": "PEG",
+      "text": "access channel� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711750",
+      "number": "711.750",
+      "heading": "PEG",
+      "text": "access programming� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711760",
+      "number": "711.760",
+      "heading": "Circumstances",
+      "text": "under which PEG access channel deemed �substantially utilized.�",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711770",
+      "number": "711.770",
+      "heading": "Applicability;",
+      "text": "requirements for changing channel number assigned to PEG access channel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711780",
+      "number": "711.780",
+      "heading": "Holder",
+      "text": "of certificate not required to provide certain capacity, services, programming,\n\nfunds, facilities, staffing or equipment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711790",
+      "number": "711.790",
+      "heading": "Incumbent",
+      "text": "cable operator authorized to cease providing certain capacity and services\n\nunder certain circumstances; reclamation of channels.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711800",
+      "number": "711.800",
+      "heading": "Request",
+      "text": "for capacity for PEG access programming by local governments; requirements and\n\nprocedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711810",
+      "number": "711.810",
+      "heading": "Designation",
+      "text": "of PEG access channels; requirements and procedure; reclamation of channels;\n\napplicability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711820",
+      "number": "711.820",
+      "heading": "Responsibilities",
+      "text": "of local governments receiving PEG access channels; requirements regarding\n\ninterconnection of video service networks for exchange of PEG access\n\nprogramming.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-711850",
+      "number": "711.850",
+      "heading": "Filing",
+      "text": "of complaint alleging violation of chapter; action for enforcement; remedies\n\nand penalties; award of attorney�s fees and costs; applicability.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "state": "wisconsin",
+  "path": "title-chapter-108/chapter-chapter-108",
+  "sections": [
+    {
+      "id": "section-10801public",
+      "number": "108.01Public",
+      "heading": "policy declaration.",
+      "text": "policy declaration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-108015construction",
+      "number": "108.015Construction",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10802definitions",
+      "number": "108.02Definitions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-108025coverage",
+      "number": "108.025Coverage",
+      "heading": "of certain corporate officers and limited liability company members.",
+      "text": "of certain corporate officers and limited liability company members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10803payment",
+      "number": "108.03Payment",
+      "heading": "of benefits.",
+      "text": "of benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10804eligibility",
+      "number": "108.04Eligibility",
+      "heading": "for benefits.",
+      "text": "for benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10805amount",
+      "number": "108.05Amount",
+      "heading": "of benefits.",
+      "text": "of benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10806benefit",
+      "number": "108.06Benefit",
+      "heading": "entitlement.",
+      "text": "entitlement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-108062work-share",
+      "number": "108.062Work-share",
+      "heading": "programs; benefit payments.",
+      "text": "programs; benefit payments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-108065determination",
+      "number": "108.065Determination",
+      "heading": "of employer.",
+      "text": "of employer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-108066seasonal",
+      "number": "108.066Seasonal",
+      "heading": "employers and seasons.",
+      "text": "employers and seasons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-108067professional",
+      "number": "108.067Professional",
+      "heading": "employer organizations and leasing agreements.",
+      "text": "employer organizations and leasing agreements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-108068treatment",
+      "number": "108.068Treatment",
+      "heading": "of limited liability companies and members.",
+      "text": "of limited liability companies and members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10807liability",
+      "number": "108.07Liability",
+      "heading": "of employers.",
+      "text": "of employers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10808notification",
+      "number": "108.08Notification",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10809settlement",
+      "number": "108.09Settlement",
+      "heading": "of benefit claims.",
+      "text": "of benefit claims.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-108095false",
+      "number": "108.095False",
+      "heading": "statements or representations to obtain benefits payable to other persons.",
+      "text": "statements or representations to obtain benefits payable to other persons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10810settlement",
+      "number": "108.10Settlement",
+      "heading": "of issues other than benefit claims.",
+      "text": "of issues other than benefit claims.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-108101effect",
+      "number": "108.101Effect",
+      "heading": "of finding, determination, decision or judgment.",
+      "text": "of finding, determination, decision or judgment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-108105suspension",
+      "number": "108.105Suspension",
+      "heading": "of agents.",
+      "text": "of agents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10811agreement",
+      "number": "108.11Agreement",
+      "heading": "to contribute by employees void.",
+      "text": "to contribute by employees void.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10812waiver",
+      "number": "108.12Waiver",
+      "heading": "of benefit void.",
+      "text": "of benefit void.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10813deductions",
+      "number": "108.13Deductions",
+      "heading": "from benefit payments.",
+      "text": "from benefit payments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-108133testing",
+      "number": "108.133Testing",
+      "heading": "for controlled substances.",
+      "text": "for controlled substances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-108135income",
+      "number": "108.135Income",
+      "heading": "tax withholding.",
+      "text": "tax withholding.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10814administration",
+      "number": "108.14Administration",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-108141extended",
+      "number": "108.141Extended",
+      "heading": "benefits.",
+      "text": "benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-108142wisconsin",
+      "number": "108.142Wisconsin",
+      "heading": "supplemental benefits.",
+      "text": "supplemental benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-108145disaster",
+      "number": "108.145Disaster",
+      "heading": "unemployment assistance.",
+      "text": "unemployment assistance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10815benefits",
+      "number": "108.15Benefits",
+      "heading": "for public employees.",
+      "text": "for public employees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-108151financing",
+      "number": "108.151Financing",
+      "heading": "benefits for employees of nonprofit organizations.",
+      "text": "benefits for employees of nonprofit organizations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-108152financing",
+      "number": "108.152Financing",
+      "heading": "benefits for employees of Indian tribes.",
+      "text": "benefits for employees of Indian tribes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-108155liability",
+      "number": "108.155Liability",
+      "heading": "of reimbursable employers for identity theft.",
+      "text": "of reimbursable employers for identity theft.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10816unemployment",
+      "number": "108.16Unemployment",
+      "heading": "reserve fund.",
+      "text": "reserve fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-108161federal",
+      "number": "108.161Federal",
+      "heading": "administrative financing account.",
+      "text": "administrative financing account.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-108162employment",
+      "number": "108.162Employment",
+      "heading": "security buildings and equipment.",
+      "text": "security buildings and equipment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10817payment",
+      "number": "108.17Payment",
+      "heading": "of contributions.",
+      "text": "of contributions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10818contributions",
+      "number": "108.18Contributions",
+      "heading": "to the fund.",
+      "text": "to the fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10819contributions",
+      "number": "108.19Contributions",
+      "heading": "to the administrative account and unemployment interest payment and program integrity funds.",
+      "text": "to the administrative account and unemployment interest payment and program integrity funds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10820administrative",
+      "number": "108.20Administrative",
+      "heading": "account.",
+      "text": "account.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-108205quarterly",
+      "number": "108.205Quarterly",
+      "heading": "wage reports.",
+      "text": "wage reports.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10821record",
+      "number": "108.21Record",
+      "heading": "and audit of payrolls.",
+      "text": "and audit of payrolls.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10822timely",
+      "number": "108.22Timely",
+      "heading": "reports, notices and payments.",
+      "text": "reports, notices and payments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-108223financial",
+      "number": "108.223Financial",
+      "heading": "record matching program.",
+      "text": "record matching program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-108225levy",
+      "number": "108.225Levy",
+      "heading": "for delinquent contributions or benefit overpayments.",
+      "text": "for delinquent contributions or benefit overpayments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-108227license",
+      "number": "108.227License",
+      "heading": "denial, nonrenewal, discontinuation, suspension and revocation based on delinquent unemployment insurance contributions.",
+      "text": "denial, nonrenewal, discontinuation, suspension and revocation based on delinquent unemployment insurance contributions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10823preference",
+      "number": "108.23Preference",
+      "heading": "of required payments.",
+      "text": "of required payments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10824penalties",
+      "number": "108.24Penalties",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-108245recovery",
+      "number": "108.245Recovery",
+      "heading": "of erroneous payments from fund.",
+      "text": "of erroneous payments from fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10826saving",
+      "number": "108.26Saving",
+      "heading": "clause.",
+      "text": "clause.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1080110801public",
+      "number": "108.01108.01Public",
+      "heading": "policy declaration.Without intending that this section shall supersede, alter or modify the specific provisions hereinafter contained in this chapter, the public policy of this state is declared as follows:",
+      "text": "policy declaration.Without intending that this section shall supersede, alter or modify the specific provisions hereinafter contained in this chapter, the public policy of this state is declared as follows:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2023-24",
+      "number": "2023-24",
+      "heading": "Wisconsin Statutes updatedthrough 2025 Wis",
+      "text": "Act 82 and through all Supreme Court Orders and Controlled Substances Board Orders filed before and in effect on January 30, 2026.Published andcertifiedunder s. 35.18. Changes effective after January 30, 2026, are designated by NOTES.(Published 1-30-26)",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

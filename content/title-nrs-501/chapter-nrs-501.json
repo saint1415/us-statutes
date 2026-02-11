@@ -1,0 +1,798 @@
+{
+  "state": "nevada",
+  "path": "title-nrs-501/chapter-nrs-501",
+  "sections": [
+    {
+      "id": "section-501001",
+      "number": "501.001",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501003",
+      "number": "501.003",
+      "heading": "Alternative",
+      "text": "livestock� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501005",
+      "number": "501.005",
+      "heading": "Big",
+      "text": "game mammal� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501010",
+      "number": "501.010",
+      "heading": "Board�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501013",
+      "number": "501.013",
+      "heading": "Chumming�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501015",
+      "number": "501.015",
+      "heading": "Closed",
+      "text": "season� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501020",
+      "number": "501.020",
+      "heading": "Commission�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501023",
+      "number": "501.023",
+      "heading": "County�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501024",
+      "number": "501.024",
+      "heading": "Department�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501026",
+      "number": "501.026",
+      "heading": "Director�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501030",
+      "number": "501.030",
+      "heading": "Fishes,�",
+      "text": "�fishing,� �fished� and �to fish� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501035",
+      "number": "501.035",
+      "heading": "Fur-bearing",
+      "text": "mammal� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501037",
+      "number": "501.037",
+      "heading": "Game",
+      "text": "amphibian� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501045",
+      "number": "501.045",
+      "heading": "Game",
+      "text": "fish� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501046",
+      "number": "501.046",
+      "heading": "Game",
+      "text": "mammal� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501047",
+      "number": "501.047",
+      "heading": "Game",
+      "text": "warden� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501050",
+      "number": "501.050",
+      "heading": "Hunting,�",
+      "text": "�hunted� and �to hunt� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501055",
+      "number": "501.055",
+      "heading": "Migratory",
+      "text": "game birds� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501065",
+      "number": "501.065",
+      "heading": "Open",
+      "text": "season� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501088",
+      "number": "501.088",
+      "heading": "Took,�",
+      "text": "�taken,� �taking� and �to take� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501089",
+      "number": "501.089",
+      "heading": "Trap�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501090",
+      "number": "501.090",
+      "heading": "Trapping,�",
+      "text": "�trapped� and �to trap� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501095",
+      "number": "501.095",
+      "heading": "Upland",
+      "text": "game birds� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501096",
+      "number": "501.096",
+      "heading": "Vessel�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501097",
+      "number": "501.097",
+      "heading": "Wildlife�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501100",
+      "number": "501.100",
+      "heading": "Legislative",
+      "text": "declaration regarding wildlife.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501102",
+      "number": "501.102",
+      "heading": "Legislative",
+      "text": "declaration regarding hunting.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501105",
+      "number": "501.105",
+      "heading": "Commission",
+      "text": "to establish policies and adopt regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501110",
+      "number": "501.110",
+      "heading": "Classification",
+      "text": "of wildlife.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501115",
+      "number": "501.115",
+      "heading": "Acceptance",
+      "text": "of federal aid in projects for restoration of wildlife pursuant to the\n\nPittman-Robertson Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501117",
+      "number": "501.117",
+      "heading": "Acceptance",
+      "text": "of federal aid in projects for restoration and management of fish pursuant to\n\nthe Dingell-Johnson Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501118",
+      "number": "501.118",
+      "heading": "Manner",
+      "text": "of publication of order or regulation regarding seasons, bag limits or hours.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501119",
+      "number": "501.119",
+      "heading": "Collection",
+      "text": "of data from hunters, trappers and anglers; penalty for failure to comply;\n\nimmunity from prosecution on basis of information supplied.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501121",
+      "number": "501.121",
+      "heading": "Contact",
+      "text": "information to be posted on guzzler.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501167",
+      "number": "501.167",
+      "heading": "Creation;",
+      "text": "number and appointment of members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501171",
+      "number": "501.171",
+      "heading": "Appointment",
+      "text": "and qualifications of members; officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501172",
+      "number": "501.172",
+      "heading": "Removal",
+      "text": "of member from office.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501177",
+      "number": "501.177",
+      "heading": "Meetings;",
+      "text": "quorum.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501179",
+      "number": "501.179",
+      "heading": "Compensation",
+      "text": "of members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501181",
+      "number": "501.181",
+      "heading": "Duties;",
+      "text": "regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5011812",
+      "number": "501.1812",
+      "heading": "System",
+      "text": "of assessing demerit points for wildlife convictions: Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5011814",
+      "number": "501.1814",
+      "heading": "System",
+      "text": "of assessing demerit points for wildlife convictions: Establishment and\n\nadministration of system; assessment and deletion of points.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5011816",
+      "number": "501.1816",
+      "heading": "System",
+      "text": "of assessing demerit points for wildlife convictions: Reduction of accumulated\n\npoints; suspension or revocation of licenses, permits or privileges.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5011817",
+      "number": "501.1817",
+      "heading": "System",
+      "text": "of assessing demerit points for wildlife convictions: Judicial review of\n\nsuspension or revocation of license, permit or privilege.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5011818",
+      "number": "501.1818",
+      "heading": "System",
+      "text": "of assessing demerit points for wildlife convictions: Regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501182",
+      "number": "501.182",
+      "heading": "Cooperative",
+      "text": "agreements with adjoining states.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501243",
+      "number": "501.243",
+      "heading": "Enforcement",
+      "text": "ofchapter 488of NRS; regulations;\n\ncooperative agreements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501260",
+      "number": "501.260",
+      "heading": "Creation;",
+      "text": "number of members; officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501265",
+      "number": "501.265",
+      "heading": "Appointment",
+      "text": "of members; vacancies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501270",
+      "number": "501.270",
+      "heading": "Qualifications",
+      "text": "of members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501275",
+      "number": "501.275",
+      "heading": "Appointment",
+      "text": "and terms of members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501285",
+      "number": "501.285",
+      "heading": "Compensation",
+      "text": "of members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501290",
+      "number": "501.290",
+      "heading": "Meetings.",
+      "text": "Meetings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501293",
+      "number": "501.293",
+      "heading": "Removal",
+      "text": "of member.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501297",
+      "number": "501.297",
+      "heading": "Duties:",
+      "text": "Evaluating local opinion and advising Commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501303",
+      "number": "501.303",
+      "heading": "Duties:",
+      "text": "Submission of recommendations; attendance of chair or other members at meetings\n\nof Commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501310",
+      "number": "501.310",
+      "heading": "Fund",
+      "text": "for advisory board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501320",
+      "number": "501.320",
+      "heading": "Budgets.",
+      "text": "Budgets.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501325",
+      "number": "501.325",
+      "heading": "Duties",
+      "text": "of county auditor and county treasurer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501331",
+      "number": "501.331",
+      "heading": "Creation;",
+      "text": "administration of laws.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501333",
+      "number": "501.333",
+      "heading": "Director:",
+      "text": "Appointment; qualifications; classification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501337",
+      "number": "501.337",
+      "heading": "Director:",
+      "text": "Duties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501339",
+      "number": "501.339",
+      "heading": "Director:",
+      "text": "Exercise of powers of Commission in emergency; designation of deputies and game\n\nwardens.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501341",
+      "number": "501.341",
+      "heading": "Offices.",
+      "text": "Offices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501343",
+      "number": "501.343",
+      "heading": "Collection",
+      "text": "and dissemination of certain information; publications.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501344",
+      "number": "501.344",
+      "heading": "Confidentiality",
+      "text": "of information obtained by Department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501346",
+      "number": "501.346",
+      "heading": "Fees",
+      "text": "for advertising in printed materials or on website of Department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501349",
+      "number": "501.349",
+      "heading": "Game",
+      "text": "wardens.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501351",
+      "number": "501.351",
+      "heading": "Cooperative",
+      "text": "and reciprocal agreements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501352",
+      "number": "501.352",
+      "heading": "Reporting",
+      "text": "of suspected communicable diseases in wildlife.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5013525",
+      "number": "501.3525",
+      "heading": "Taking",
+      "text": "of wildlife by employee of Department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5013535",
+      "number": "501.3535",
+      "heading": "Fences",
+      "text": "constructed by Department: Requirements concerning construction and\n\nmaintenance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501354",
+      "number": "501.354",
+      "heading": "Receipt,",
+      "text": "deposit and expenditure of money.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501356",
+      "number": "501.356",
+      "heading": "Wildlife",
+      "text": "Account.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5013575",
+      "number": "501.3575",
+      "heading": "Wildlife",
+      "text": "Heritage Account.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5013585",
+      "number": "501.3585",
+      "heading": "Wildlife",
+      "text": "Trust Fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501359",
+      "number": "501.359",
+      "heading": "Wildlife",
+      "text": "Imprest Account.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501361",
+      "number": "501.361",
+      "heading": "Petty",
+      "text": "Cash Account.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501363",
+      "number": "501.363",
+      "heading": "Change",
+      "text": "Account.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501375",
+      "number": "501.375",
+      "heading": "Powers",
+      "text": "and duties of game wardens, sheriffs and other peace officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501376",
+      "number": "501.376",
+      "heading": "Unlawful",
+      "text": "killing or possession of bighorn sheep, mountain goat, elk, deer, moose,\n\npronghorn antelope, mountain lion or black bear; exceptions; criminal\n\npenalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5013765",
+      "number": "501.3765",
+      "heading": "Unlawful",
+      "text": "activities concerning traps, snares or similar devices owned by another person;\n\ncriminal penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501377",
+      "number": "501.377",
+      "heading": "Unlawful",
+      "text": "to remove, tamper with or alter tag placed on wildlife or equipment seized as\n\nevidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501379",
+      "number": "501.379",
+      "heading": "Unlawful",
+      "text": "sales of wildlife or importation of game mammals, game birds or game\n\namphibians; exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501381",
+      "number": "501.381",
+      "heading": "Unlawful",
+      "text": "sale of game fish.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501382",
+      "number": "501.382",
+      "heading": "Unlawful",
+      "text": "feeding of big game mammal; penalties; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501383",
+      "number": "501.383",
+      "heading": "Unlawful",
+      "text": "vandalism of sign or notice erected by Department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501384",
+      "number": "501.384",
+      "heading": "Unlawful",
+      "text": "possession of certain wildlife from another state or country.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5013845",
+      "number": "501.3845",
+      "heading": "Unlawful",
+      "text": "to bring into this State or possess carcasses or any part of carcasses of\n\ncertain animals susceptible to chronic wasting disease from another state,\n\nterritory or country; exceptions; destruction or removal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501385",
+      "number": "501.385",
+      "heading": "Unlawful",
+      "text": "acts; criminal penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5013855",
+      "number": "501.3855",
+      "heading": "Civil",
+      "text": "penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5013857",
+      "number": "501.3857",
+      "heading": "Forfeitures.",
+      "text": "Forfeitures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501386",
+      "number": "501.386",
+      "heading": "Citation",
+      "text": "of violators.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5013865",
+      "number": "501.3865",
+      "heading": "Failure",
+      "text": "to appear by holder of license, tag or permit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5013867",
+      "number": "501.3867",
+      "heading": "Failure",
+      "text": "to appear by person who does not hold license, tag or permit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501387",
+      "number": "501.387",
+      "heading": "Penalties",
+      "text": "concerning licenses; confiscation and disposal of wildlife.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501388",
+      "number": "501.388",
+      "heading": "Revocation",
+      "text": "of license and of privilege to apply for big game tag on conviction of certain\n\nviolations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501389",
+      "number": "501.389",
+      "heading": "Sale,",
+      "text": "donation or retention of equipment seized as evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-501395",
+      "number": "501.395",
+      "heading": "Rewards.",
+      "text": "Rewards.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

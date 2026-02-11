@@ -1,0 +1,614 @@
+{
+  "state": "new-hampshire",
+  "path": "title-title-x-public-health/chapter-chapter-135-c-new-hampshire-mental-health-services-system",
+  "sections": [
+    {
+      "id": "section-135-c1",
+      "number": "135-C:1",
+      "heading": "Purpose and Policy.",
+      "text": "Purpose and Policy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c2",
+      "number": "135-C:2",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c3",
+      "number": "135-C:3",
+      "heading": "State Services System Established.",
+      "text": "State Services System Established.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c4",
+      "number": "135-C:4",
+      "heading": "State Facilities Other Than New Hampshire Hospital;  Rules.",
+      "text": "State Facilities Other Than New Hampshire Hospital; Rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c5",
+      "number": "135-C:5",
+      "heading": "Regulation of State Services;  Site Visits.",
+      "text": "Regulation of State Services; Site Visits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c6",
+      "number": "135-C:6",
+      "heading": "Bureaus Established;  Staffing.",
+      "text": "Bureaus Established; Staffing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c7",
+      "number": "135-C:7",
+      "heading": "Community Mental Health Programs.",
+      "text": "Community Mental Health Programs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c8",
+      "number": "135-C:8",
+      "heading": "Establishment of Programs by Municipality.",
+      "text": "Establishment of Programs by Municipality.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c9",
+      "number": "135-C:9",
+      "heading": "Municipal Contributions.",
+      "text": "Municipal Contributions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c10",
+      "number": "135-C:10",
+      "heading": "Eligibility of Programs;  Monitoring.",
+      "text": "Eligibility of Programs; Monitoring.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c11",
+      "number": "135-C:11",
+      "heading": "Federal Funds.",
+      "text": "Federal Funds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c12",
+      "number": "135-C:12",
+      "heading": "Application for Services.",
+      "text": "Application for Services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c13",
+      "number": "135-C:13",
+      "heading": "Discrimination Prohibited;  Eligibility for Services.",
+      "text": "Discrimination Prohibited; Eligibility for Services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c14",
+      "number": "135-C:14",
+      "heading": "Optional Services.",
+      "text": "Optional Services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c15",
+      "number": "135-C:15",
+      "heading": "Placement Criteria.",
+      "text": "Placement Criteria.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c16",
+      "number": "135-C:16",
+      "heading": "Withdrawal From Services;  Rules.",
+      "text": "Withdrawal From Services; Rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c17",
+      "number": "135-C:17",
+      "heading": "Restriction on Withdrawal.",
+      "text": "Restriction on Withdrawal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c18",
+      "number": "135-C:18",
+      "heading": "Termination of Services;  Rules.",
+      "text": "Termination of Services; Rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c19",
+      "number": "135-C:19",
+      "heading": "Individual Service Plan;  Rules.",
+      "text": "Individual Service Plan; Rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c19-a",
+      "number": "135-C:19-a",
+      "heading": "Disclosure of Certain Information.",
+      "text": "Disclosure of Certain Information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c20",
+      "number": "135-C:20",
+      "heading": "Jurisdiction.",
+      "text": "Jurisdiction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c21",
+      "number": "135-C:21",
+      "heading": "Representation by Attorney General.",
+      "text": "Representation by Attorney General.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c22",
+      "number": "135-C:22",
+      "heading": "Right to Legal Counsel.",
+      "text": "Right to Legal Counsel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c23",
+      "number": "135-C:23",
+      "heading": "Legal Services;  Payment;  Appointment.",
+      "text": "Legal Services; Payment; Appointment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c24",
+      "number": "135-C:24",
+      "heading": "Notice.",
+      "text": "Notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c25",
+      "number": "135-C:25",
+      "heading": "Appeals From Probate Court.",
+      "text": "Appeals From Probate Court.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c26",
+      "number": "135-C:26",
+      "heading": "Receiving Facility;  Rules.",
+      "text": "Receiving Facility; Rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c27",
+      "number": "135-C:27",
+      "heading": "Involuntary Emergency Admission;  Criteria.",
+      "text": "Involuntary Emergency Admission; Criteria.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c28",
+      "number": "135-C:28",
+      "heading": "Involuntary Emergency Admission Examination.",
+      "text": "Involuntary Emergency Admission Examination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c29",
+      "number": "135-C:29",
+      "heading": "Delivery to Receiving Facility.",
+      "text": "Delivery to Receiving Facility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c29-a",
+      "number": "135-C:29-a",
+      "heading": "Rescission of Involuntary Admission.",
+      "text": "Rescission of Involuntary Admission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c30",
+      "number": "135-C:30",
+      "heading": "Notice.",
+      "text": "Notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c31",
+      "number": "135-C:31",
+      "heading": "Involuntary Emergency Admission Hearing;  Rules.",
+      "text": "Involuntary Emergency Admission Hearing; Rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c31-a",
+      "number": "135-C:31-a",
+      "heading": "Annulment of Certain Records.",
+      "text": "Annulment of Certain Records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c32",
+      "number": "135-C:32",
+      "heading": "Ten-Day Limitation;  Petition for Involuntary Admission.",
+      "text": "Ten-Day Limitation; Petition for Involuntary Admission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c33",
+      "number": "135-C:33",
+      "heading": "Discharge.",
+      "text": "Discharge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c34",
+      "number": "135-C:34",
+      "heading": "Involuntary Treatment Standard.",
+      "text": "Involuntary Treatment Standard.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c35",
+      "number": "135-C:35",
+      "heading": "Petition of Responsible Person.",
+      "text": "Petition of Responsible Person.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c36",
+      "number": "135-C:36",
+      "heading": "Petition.",
+      "text": "Petition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c37",
+      "number": "135-C:37",
+      "heading": "Hearing Date.",
+      "text": "Hearing Date.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c38",
+      "number": "135-C:38",
+      "heading": "Copies of Petition.",
+      "text": "Copies of Petition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c39",
+      "number": "135-C:39",
+      "heading": "Custody Prior to Hearing.",
+      "text": "Custody Prior to Hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c40",
+      "number": "135-C:40",
+      "heading": "Examination by Psychiatrist.",
+      "text": "Examination by Psychiatrist.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c41",
+      "number": "135-C:41",
+      "heading": "Recommendations;  Copy to Person.",
+      "text": "Recommendations; Copy to Person.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c42",
+      "number": "135-C:42",
+      "heading": "Continuance.",
+      "text": "Continuance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c43",
+      "number": "135-C:43",
+      "heading": "Conduct of Hearing.",
+      "text": "Conduct of Hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c44",
+      "number": "135-C:44",
+      "heading": "Change of Venue.",
+      "text": "Change of Venue.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c45",
+      "number": "135-C:45",
+      "heading": "Order of Court.",
+      "text": "Order of Court.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c45-a",
+      "number": "135-C:45-a",
+      "heading": "Appointment of Limited Guardian.",
+      "text": "Appointment of Limited Guardian.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c46",
+      "number": "135-C:46",
+      "heading": "Limitation of Order.",
+      "text": "Limitation of Order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c47",
+      "number": "135-C:47",
+      "heading": "Amended Orders.",
+      "text": "Amended Orders.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c48",
+      "number": "135-C:48",
+      "heading": "Transfers;  Rules.",
+      "text": "Transfers; Rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c49",
+      "number": "135-C:49",
+      "heading": "Discharge by Administrator.",
+      "text": "Discharge by Administrator.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c50",
+      "number": "135-C:50",
+      "heading": "Conditions of Conditional Discharge.",
+      "text": "Conditions of Conditional Discharge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c51",
+      "number": "135-C:51",
+      "heading": "Revocation of Conditional Discharge.",
+      "text": "Revocation of Conditional Discharge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c52",
+      "number": "135-C:52",
+      "heading": "Appeal.",
+      "text": "Appeal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c53",
+      "number": "135-C:53",
+      "heading": "Action for Discharge.",
+      "text": "Action for Discharge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c54",
+      "number": "135-C:54",
+      "heading": "Habeas Corpus.",
+      "text": "Habeas Corpus.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c55",
+      "number": "135-C:55",
+      "heading": "Scope.",
+      "text": "Scope.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c56",
+      "number": "135-C:56",
+      "heading": "Fundamental Rights.",
+      "text": "Fundamental Rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c57",
+      "number": "135-C:57",
+      "heading": "Treatment Rights;  Rules.",
+      "text": "Treatment Rights; Rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c58",
+      "number": "135-C:58",
+      "heading": "Communication Rights for Persons in Receiving Facilities;  Rules.",
+      "text": "Communication Rights for Persons in Receiving Facilities; Rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c59",
+      "number": "135-C:59",
+      "heading": "Notification of Individual Rights.",
+      "text": "Notification of Individual Rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c60",
+      "number": "135-C:60",
+      "heading": "Guardianship.",
+      "text": "Guardianship.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c61",
+      "number": "135-C:61",
+      "heading": "Rulemaking.",
+      "text": "Rulemaking.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c62",
+      "number": "135-C:62",
+      "heading": "Custody and Transportation.",
+      "text": "Custody and Transportation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c63",
+      "number": "135-C:63",
+      "heading": "Duty to Transport.",
+      "text": "Duty to Transport.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c63-a",
+      "number": "135-C:63-a",
+      "heading": "Proceedings of Quality Assurance Program;  Confidentiality.",
+      "text": "Proceedings of Quality Assurance Program; Confidentiality.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c63-b",
+      "number": "135-C:63-b",
+      "heading": "Repealed by 2014, 253:3, I, eff. Nov. 1, 2016.",
+      "text": "Repealed by 2014, 253:3, I, eff. Nov. 1, 2016.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c63-c",
+      "number": "135-C:63-c",
+      "heading": "Repealed by 2017, 162:2, eff. Nov. 1, 2018.",
+      "text": "Repealed by 2017, 162:2, eff. Nov. 1, 2018.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c64",
+      "number": "135-C:64",
+      "heading": "Child Inpatient Psychiatric Treatment Facility;  Purpose.",
+      "text": "Child Inpatient Psychiatric Treatment Facility; Purpose.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c65",
+      "number": "135-C:65",
+      "heading": "Admission Limitation.",
+      "text": "Admission Limitation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c66",
+      "number": "135-C:66",
+      "heading": "Access of Records.",
+      "text": "Access of Records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c67",
+      "number": "135-C:67",
+      "heading": "Admission and Discharge.",
+      "text": "Admission and Discharge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c68",
+      "number": "135-C:68",
+      "heading": "Repealed by 2023, 240:6, eff. Nov. 1, 2024.",
+      "text": "Repealed by 2023, 240:6, eff. Nov. 1, 2024.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-135-c69",
+      "number": "135-C:69",
+      "heading": "Commission Established.",
+      "text": "Commission Established.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

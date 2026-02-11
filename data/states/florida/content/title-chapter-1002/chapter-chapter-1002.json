@@ -1,0 +1,710 @@
+{
+  "state": "florida",
+  "path": "title-chapter-1002/chapter-chapter-1002",
+  "sections": [
+    {
+      "id": "section-100201definitions",
+      "number": "1002.01Definitions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100201definitions",
+      "number": "1002.01Definitions.",
+      "heading": "(1)A “home education program” means the sequentially progressive instruction of a student directed by his or her parent to satisfy the attendance requirements of ss",
+      "text": "1002.41, 1003.01(16), and 1003.21(1).(2)A “personalized education program” means the sequentially progressive instruction of a student",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100220k-12",
+      "number": "1002.20K-12",
+      "heading": "student and parent rights.1002",
+      "text": "205Guidelines on religious expression; distribution.1002.206Religious expression in public schools.1002.21Postsecondary student and parent rights.1002.22Education records and reports of K-12 students; rights of parents and students; notification; penalty.1002.221K-12 e",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1002205guidelines",
+      "number": "1002.205Guidelines",
+      "heading": "on religious expression; distribution.",
+      "text": "on religious expression; distribution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1002206religious",
+      "number": "1002.206Religious",
+      "heading": "expression in public schools.",
+      "text": "expression in public schools.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100221postsecondary",
+      "number": "1002.21Postsecondary",
+      "heading": "student and parent rights.",
+      "text": "student and parent rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100222education",
+      "number": "1002.22Education",
+      "heading": "records and reports of K-12 students; rights of parents and students; notification; penalty.",
+      "text": "records and reports of K-12 students; rights of parents and students; notification; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1002221k-12",
+      "number": "1002.221K-12",
+      "heading": "education records; public records exemption.",
+      "text": "education records; public records exemption.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1002222limitations",
+      "number": "1002.222Limitations",
+      "heading": "on collection of information and disclosure of confidential and exempt student records.",
+      "text": "on collection of information and disclosure of confidential and exempt student records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1002225education",
+      "number": "1002.225Education",
+      "heading": "records of students in public postsecondary educational institutions; penalty.",
+      "text": "records of students in public postsecondary educational institutions; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100223family",
+      "number": "1002.23Family",
+      "heading": "and School Partnership for Student Achievement Act.",
+      "text": "and School Partnership for Student Achievement Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100231controlled",
+      "number": "1002.31Controlled",
+      "heading": "open enrollment; public school parental choice",
+      "text": "1002.3105Academically Challenging Curriculum to Enhance Learning (ACCEL) options.1002.32Developmental research (laboratory) schools.1002.321Digital learning.1002.33Charter schools.1002.3301Charter School Review Commission.1002.3305College-Preparatory Bo",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10023105academically",
+      "number": "1002.3105Academically",
+      "heading": "Challenging Curriculum to Enhance Learning (ACCEL) options.",
+      "text": "Challenging Curriculum to Enhance Learning (ACCEL) options.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100232developmental",
+      "number": "1002.32Developmental",
+      "heading": "research (laboratory) schools.",
+      "text": "research (laboratory) schools.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1002321digital",
+      "number": "1002.321Digital",
+      "heading": "learning.",
+      "text": "learning.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100233charter",
+      "number": "1002.33Charter",
+      "heading": "schools.",
+      "text": "schools.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10023301charter",
+      "number": "1002.3301Charter",
+      "heading": "School Review Commission.",
+      "text": "School Review Commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10023305college-preparatory",
+      "number": "1002.3305College-Preparatory",
+      "heading": "Boarding Academy Pilot Program for at-risk students.",
+      "text": "Boarding Academy Pilot Program for at-risk students.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1002331high-performing",
+      "number": "1002.331High-performing",
+      "heading": "charter schools.",
+      "text": "charter schools.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1002332high-performing",
+      "number": "1002.332High-performing",
+      "heading": "charter school system.",
+      "text": "charter school system.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1002333persistently",
+      "number": "1002.333Persistently",
+      "heading": "low-performing schools.",
+      "text": "low-performing schools.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100234charter",
+      "number": "1002.34Charter",
+      "heading": "technical career centers.",
+      "text": "technical career centers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1002345determination",
+      "number": "1002.345Determination",
+      "heading": "of deteriorating financial conditions and financial emergencies for charter schools and charter technical career centers.",
+      "text": "of deteriorating financial conditions and financial emergencies for charter schools and charter technical career centers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100235new",
+      "number": "1002.35New",
+      "heading": "World School of the Arts.",
+      "text": "World School of the Arts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100236florida",
+      "number": "1002.36Florida",
+      "heading": "School for the Deaf and the Blind.",
+      "text": "School for the Deaf and the Blind.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100237the",
+      "number": "1002.37The",
+      "heading": "Florida Virtual School.",
+      "text": "Florida Virtual School.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100238opportunity",
+      "number": "1002.38Opportunity",
+      "heading": "Scholarship Program.",
+      "text": "Scholarship Program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1002391auditory-oral",
+      "number": "1002.391Auditory-oral",
+      "heading": "education programs; Bridge to Speech Program.",
+      "text": "education programs; Bridge to Speech Program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1002394the",
+      "number": "1002.394The",
+      "heading": "Family Empowerment Scholarship Program.",
+      "text": "Family Empowerment Scholarship Program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1002395florida",
+      "number": "1002.395Florida",
+      "heading": "Tax Credit Scholarship Program.",
+      "text": "Tax Credit Scholarship Program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100240the",
+      "number": "1002.40The",
+      "heading": "Hope Scholarship Program.",
+      "text": "Hope Scholarship Program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-286",
+      "number": "286",
+      "heading": "011, relating to public meetings and records, public inspection, and criminal and civil penalties.",
+      "text": "011, relating to public meetings and records, public inspection, and criminal and civil penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1003",
+      "number": "1003",
+      "heading": "03, relating to the maximum class size, except that the calculation for compliance pursuant to s. 1003.03 shall be the average at the school level.",
+      "text": "03, relating to the maximum class size, except that the calculation for compliance pursuant to s. 1003.03 shall be the average at the school level.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1012",
+      "number": "1012",
+      "heading": "22(1)(c), relating to compensation and salary schedules.",
+      "text": "22(1)(c), relating to compensation and salary schedules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1006",
+      "number": "1006",
+      "heading": "12, relating to safe-school officers.",
+      "text": "12, relating to safe-school officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-943",
+      "number": "943",
+      "heading": "082(4)(b), relating to the mobile suspicious activity reporting tool.",
+      "text": "082(4)(b), relating to the mobile suspicious activity reporting tool.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1001",
+      "number": "1001",
+      "heading": "42(4)(f)2., relating to middle school and high school start times, unless the governing board has submitted a report to the department pursuant to s",
+      "text": "1001.42(4)(f)3. A charter school-in-the-workplace is exempt from this requirement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1002",
+      "number": "1002",
+      "heading": "20(4)(c), relating to school corporal punishment.",
+      "text": "20(4)(c), relating to school corporal punishment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-ure",
+      "number": "ure",
+      "heading": "public liability insurance.",
+      "text": "public liability insurance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-409",
+      "number": "409",
+      "heading": "920, relating to Medicaid provider fraud.",
+      "text": "920, relating to Medicaid provider fraud.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-741",
+      "number": "741",
+      "heading": "28, relating to domestic violence.",
+      "text": "28, relating to domestic violence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-817",
+      "number": "817",
+      "heading": "034, relating to fraudulent acts through mail, wire, radio, electromagnetic, photoelectronic, or photooptical systems.",
+      "text": "034, relating to fraudulent acts through mail, wire, radio, electromagnetic, photoelectronic, or photooptical systems.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-831",
+      "number": "831",
+      "heading": "01, relating to forgery.",
+      "text": "01, relating to forgery.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-tion",
+      "number": "tion",
+      "heading": "91, ch. 2025-208, amended paragraph (2)(f), effective July 1, 2027, to read:",
+      "text": "91, ch. 2025-208, amended paragraph (2)(f), effective July 1, 2027, to read:",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100241home",
+      "number": "1002.41Home",
+      "heading": "education programs.1002.411New Worlds Scholarship Accounts",
+      "text": "1002.42Private schools.1002.421State school choice scholarship program accountability and oversight.1002.43Private tutoring programs.1002.44Part-time public school enrollment.1002.45Virtual instruction programs.1002.451District innovation sc",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1002411new",
+      "number": "1002.411New",
+      "heading": "Worlds Scholarship Accounts.",
+      "text": "Worlds Scholarship Accounts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100242private",
+      "number": "1002.42Private",
+      "heading": "schools.",
+      "text": "schools.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1002421state",
+      "number": "1002.421State",
+      "heading": "school choice scholarship program accountability and oversight.",
+      "text": "school choice scholarship program accountability and oversight.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100243private",
+      "number": "1002.43Private",
+      "heading": "tutoring programs.",
+      "text": "tutoring programs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100244part-time",
+      "number": "1002.44Part-time",
+      "heading": "public school enrollment.",
+      "text": "public school enrollment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100245virtual",
+      "number": "1002.45Virtual",
+      "heading": "instruction programs.",
+      "text": "instruction programs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1002451district",
+      "number": "1002.451District",
+      "heading": "innovation school of technology program.",
+      "text": "innovation school of technology program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1002455student",
+      "number": "1002.455Student",
+      "heading": "eligibility for K-12 virtual instruction.",
+      "text": "eligibility for K-12 virtual instruction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-s",
+      "number": "s",
+      "heading": "1012.22(1)(c) and 1012.27(2), relating to compensation and salary schedules.",
+      "text": "1012.22(1)(c) and 1012.27(2), relating to compensation and salary schedules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100251definitions",
+      "number": "1002.51Definitions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100253voluntary",
+      "number": "1002.53Voluntary",
+      "heading": "Prekindergarten Education Program; eligibility and enrollment.",
+      "text": "Prekindergarten Education Program; eligibility and enrollment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100255school-year",
+      "number": "1002.55School-year",
+      "heading": "prekindergarten program delivered by private prekindergarten providers.",
+      "text": "prekindergarten program delivered by private prekindergarten providers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100257prekindergarten",
+      "number": "1002.57Prekindergarten",
+      "heading": "director credential.",
+      "text": "director credential.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100259emergent",
+      "number": "1002.59Emergent",
+      "heading": "literacy and performance standards training courses.",
+      "text": "literacy and performance standards training courses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100261summer",
+      "number": "1002.61Summer",
+      "heading": "prekindergarten program delivered by public schools and private prekindergarten providers.",
+      "text": "prekindergarten program delivered by public schools and private prekindergarten providers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100263school-year",
+      "number": "1002.63School-year",
+      "heading": "prekindergarten program delivered by public schools.",
+      "text": "prekindergarten program delivered by public schools.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100266specialized",
+      "number": "1002.66Specialized",
+      "heading": "instructional services for children with disabilities.",
+      "text": "instructional services for children with disabilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100267performance",
+      "number": "1002.67Performance",
+      "heading": "standards and curricula.",
+      "text": "standards and curricula.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100268voluntary",
+      "number": "1002.68Voluntary",
+      "heading": "Prekindergarten Education Program accountability.",
+      "text": "Prekindergarten Education Program accountability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100272records",
+      "number": "1002.72Records",
+      "heading": "of children in the Voluntary Prekindergarten Education Program.",
+      "text": "of children in the Voluntary Prekindergarten Education Program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100273department",
+      "number": "1002.73Department",
+      "heading": "of Education; powers and duties; accountability requirements.",
+      "text": "of Education; powers and duties; accountability requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100279rulemaking",
+      "number": "1002.79Rulemaking",
+      "heading": "authority.",
+      "text": "authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100251definitions",
+      "number": "1002.51Definitions.",
+      "heading": "As used in this part, the term:(1)“Department” means the Department of Education",
+      "text": "(2)“Disability” means any disability listed in the definition of exceptional student in s. 1003.01.(3)“Specialized instructional services provider” means a provider delivering specialized instructional services under s.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100281definitions",
+      "number": "1002.81Definitions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100282department",
+      "number": "1002.82Department",
+      "heading": "of Education; powers and duties.",
+      "text": "of Education; powers and duties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100283early",
+      "number": "1002.83Early",
+      "heading": "learning coalitions.",
+      "text": "learning coalitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100284early",
+      "number": "1002.84Early",
+      "heading": "learning coalitions; school readiness powers and duties.",
+      "text": "learning coalitions; school readiness powers and duties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100285early",
+      "number": "1002.85Early",
+      "heading": "learning coalition plans.",
+      "text": "learning coalition plans.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100286school",
+      "number": "1002.86School",
+      "heading": "readiness program; education component.",
+      "text": "readiness program; education component.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100287school",
+      "number": "1002.87School",
+      "heading": "readiness program; eligibility and enrollment.",
+      "text": "readiness program; eligibility and enrollment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100288school",
+      "number": "1002.88School",
+      "heading": "readiness program provider standards; eligibility to deliver the school readiness program.",
+      "text": "readiness program provider standards; eligibility to deliver the school readiness program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100289school",
+      "number": "1002.89School",
+      "heading": "readiness program; funding.",
+      "text": "readiness program; funding.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1002895market",
+      "number": "1002.895Market",
+      "heading": "rate schedule.",
+      "text": "rate schedule.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100291investigations",
+      "number": "1002.91Investigations",
+      "heading": "of fraud or overpayment; penalties.",
+      "text": "of fraud or overpayment; penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100292child",
+      "number": "1002.92Child",
+      "heading": "care and early childhood resource and referral.",
+      "text": "care and early childhood resource and referral.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100293school",
+      "number": "1002.93School",
+      "heading": "readiness program transportation services.",
+      "text": "readiness program transportation services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1002935school",
+      "number": "1002.935School",
+      "heading": "Readiness Plus Program.",
+      "text": "Readiness Plus Program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1002945gold",
+      "number": "1002.945Gold",
+      "heading": "Seal Quality Care Program.",
+      "text": "Seal Quality Care Program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100295teacher",
+      "number": "1002.95Teacher",
+      "heading": "Education and Compensation Helps (TEACH) Scholarship Program.",
+      "text": "Education and Compensation Helps (TEACH) Scholarship Program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100296early",
+      "number": "1002.96Early",
+      "heading": "Head Start collaboration grants.",
+      "text": "Head Start collaboration grants.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100297records",
+      "number": "1002.97Records",
+      "heading": "of children in the school readiness program.",
+      "text": "of children in the school readiness program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1002995early",
+      "number": "1002.995Early",
+      "heading": "learning professional learning standards and career pathways.",
+      "text": "learning professional learning standards and career pathways.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-100281definitions",
+      "number": "1002.81Definitions.",
+      "heading": "Consistent with the requirements of 45 C",
+      "text": "F.R. parts 98 and 99 and as used in this part, the term:(1)“At-risk child” means:(a)A child from a family under investigation by the Department of Children and Families or a designated sheriff’s office for child abuse, neglect, abandonment, or exploitation.(b",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

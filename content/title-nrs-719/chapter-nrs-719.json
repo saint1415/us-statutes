@@ -1,0 +1,334 @@
+{
+  "state": "nevada",
+  "path": "title-nrs-719/chapter-nrs-719",
+  "sections": [
+    {
+      "id": "section-719010",
+      "number": "719.010",
+      "heading": "Short",
+      "text": "title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719020",
+      "number": "719.020",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719030",
+      "number": "719.030",
+      "heading": "Agreement�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719040",
+      "number": "719.040",
+      "heading": "Automated",
+      "text": "transaction� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719045",
+      "number": "719.045",
+      "heading": "Blockchain�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719050",
+      "number": "719.050",
+      "heading": "Computer",
+      "text": "program� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719060",
+      "number": "719.060",
+      "heading": "Contract�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719070",
+      "number": "719.070",
+      "heading": "Electronic�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719080",
+      "number": "719.080",
+      "heading": "Electronic",
+      "text": "agent� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719090",
+      "number": "719.090",
+      "heading": "Electronic",
+      "text": "record� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719100",
+      "number": "719.100",
+      "heading": "Electronic",
+      "text": "signature� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719110",
+      "number": "719.110",
+      "heading": "Governmental",
+      "text": "agency� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719120",
+      "number": "719.120",
+      "heading": "Information�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719130",
+      "number": "719.130",
+      "heading": "Information",
+      "text": "processing system� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719140",
+      "number": "719.140",
+      "heading": "Person�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719145",
+      "number": "719.145",
+      "heading": "Public",
+      "text": "blockchain� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719150",
+      "number": "719.150",
+      "heading": "Record�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719160",
+      "number": "719.160",
+      "heading": "Security",
+      "text": "procedure� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719170",
+      "number": "719.170",
+      "heading": "State�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719175",
+      "number": "719.175",
+      "heading": "State",
+      "text": "of the public blockchain� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719180",
+      "number": "719.180",
+      "heading": "Transaction�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719185",
+      "number": "719.185",
+      "heading": "Unaffiliated",
+      "text": "computers or machines� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719200",
+      "number": "719.200",
+      "heading": "Scope.",
+      "text": "Scope.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719210",
+      "number": "719.210",
+      "heading": "Prospective",
+      "text": "application; application of Electronic Signatures in Global and National\n\nCommerce Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719220",
+      "number": "719.220",
+      "heading": "Use",
+      "text": "of electronic records and electronic signatures; variation by agreement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719230",
+      "number": "719.230",
+      "heading": "Application",
+      "text": "and construction: Promotion of uniformity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719240",
+      "number": "719.240",
+      "heading": "Legal",
+      "text": "recognition of electronic records, electronic signatures and electronic\n\ncontracts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719245",
+      "number": "719.245",
+      "heading": "Use",
+      "text": "of public blockchain to secure information does not affect right to ownership\n\nor use of information; exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719250",
+      "number": "719.250",
+      "heading": "Provision",
+      "text": "of information in writing; presentation of records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719260",
+      "number": "719.260",
+      "heading": "Attribution",
+      "text": "and effect of electronic record and electronic signature.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719270",
+      "number": "719.270",
+      "heading": "Effect",
+      "text": "of change or error.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719280",
+      "number": "719.280",
+      "heading": "Notarization",
+      "text": "and acknowledgment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719290",
+      "number": "719.290",
+      "heading": "Retention",
+      "text": "of electronic records; originals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719300",
+      "number": "719.300",
+      "heading": "Admissibility",
+      "text": "in evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719310",
+      "number": "719.310",
+      "heading": "Automated",
+      "text": "transaction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719320",
+      "number": "719.320",
+      "heading": "Time",
+      "text": "and place of sending and receipt.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719330",
+      "number": "719.330",
+      "heading": "Transferable",
+      "text": "records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719340",
+      "number": "719.340",
+      "heading": "Creation",
+      "text": "and retention of electronic records and conversion of written records by\n\ngovernmental agencies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719345",
+      "number": "719.345",
+      "heading": "Governmental",
+      "text": "agency may be required to have certain electronic capabilities as condition of\n\nparticipation in state business portal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719350",
+      "number": "719.350",
+      "heading": "Acceptance",
+      "text": "and distribution of electronic records by governmental agencies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-719360",
+      "number": "719.360",
+      "heading": "Governmental",
+      "text": "agencies and political subdivisions to consider use of equipment and software\n\nto enable use of electronic records and signatures; acceptance of certified\n\ncopies in electronic form; fees.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

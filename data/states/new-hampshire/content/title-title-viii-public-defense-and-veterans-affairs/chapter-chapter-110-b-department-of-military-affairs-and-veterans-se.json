@@ -1,0 +1,926 @@
+{
+  "state": "new-hampshire",
+  "path": "title-title-viii-public-defense-and-veterans-affairs/chapter-chapter-110-b-department-of-military-affairs-and-veterans-se",
+  "sections": [
+    {
+      "id": "section-110-b1",
+      "number": "110-B:1",
+      "heading": "Department of Military Affairs and Veterans Services.",
+      "text": "Department of Military Affairs and Veterans Services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b1-a",
+      "number": "110-B:1-a",
+      "heading": "Composition of the Militia.",
+      "text": "Composition of the Militia.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b2",
+      "number": "110-B:2",
+      "heading": "Commander-in-Chief;  Regulations.",
+      "text": "Commander-in-Chief; Regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b3",
+      "number": "110-B:3",
+      "heading": "Registration and Draft of Unorganized Militia.",
+      "text": "Registration and Draft of Unorganized Militia.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b4",
+      "number": "110-B:4",
+      "heading": "Notice of Draft;  Order.",
+      "text": "Notice of Draft; Order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b5",
+      "number": "110-B:5",
+      "heading": "Militia Call by the United States.",
+      "text": "Militia Call by the United States.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b6",
+      "number": "110-B:6",
+      "heading": "Ordering National Guard Into Active State Service.",
+      "text": "Ordering National Guard Into Active State Service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b6-a",
+      "number": "110-B:6-a",
+      "heading": "Active State Service;  Required Health Coverage.",
+      "text": "Active State Service; Required Health Coverage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b7",
+      "number": "110-B:7",
+      "heading": "Military Staff of the Governor.",
+      "text": "Military Staff of the Governor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b8",
+      "number": "110-B:8",
+      "heading": "The Adjutant General.",
+      "text": "The Adjutant General.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b8-a",
+      "number": "110-B:8-a",
+      "heading": "Rulemaking.",
+      "text": "Rulemaking.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b8-b",
+      "number": "110-B:8-b",
+      "heading": "Deputy Adjutant General.",
+      "text": "Deputy Adjutant General.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b9",
+      "number": "110-B:9",
+      "heading": "Staff for the National Guard.",
+      "text": "Staff for the National Guard.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b10",
+      "number": "110-B:10",
+      "heading": "Emergency Purchases for the National Guard.",
+      "text": "Emergency Purchases for the National Guard.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b11",
+      "number": "110-B:11",
+      "heading": "State Retired List.",
+      "text": "State Retired List.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b12",
+      "number": "110-B:12",
+      "heading": "Service Without the State.",
+      "text": "Service Without the State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b13",
+      "number": "110-B:13",
+      "heading": "Army National Guard.",
+      "text": "Army National Guard.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b14",
+      "number": "110-B:14",
+      "heading": "Air National Guard.",
+      "text": "Air National Guard.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b15",
+      "number": "110-B:15",
+      "heading": "Organization and Training.",
+      "text": "Organization and Training.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b16",
+      "number": "110-B:16",
+      "heading": "Assemblies, Annual Training and Other Duty.",
+      "text": "Assemblies, Annual Training and Other Duty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b17",
+      "number": "110-B:17",
+      "heading": "Organization of Units.",
+      "text": "Organization of Units.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b18",
+      "number": "110-B:18",
+      "heading": "Inactive National Guard.",
+      "text": "Inactive National Guard.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b19",
+      "number": "110-B:19",
+      "heading": "Credit for Active Federal Service.",
+      "text": "Credit for Active Federal Service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b19-a",
+      "number": "110-B:19-a",
+      "heading": "National Guard and Staff Judge Advocate;  Access to Criminal History Records.",
+      "text": "National Guard and Staff Judge Advocate; Access to Criminal History Records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b20",
+      "number": "110-B:20",
+      "heading": "Qualifications of Officers, Warrant Officers and Enlisted Personnel.",
+      "text": "Qualifications of Officers, Warrant Officers and Enlisted Personnel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b21",
+      "number": "110-B:21",
+      "heading": "Examining Boards.",
+      "text": "Examining Boards.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b22",
+      "number": "110-B:22",
+      "heading": "Powers and Procedure.",
+      "text": "Powers and Procedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b23",
+      "number": "110-B:23",
+      "heading": "Loss of Commission, Dismissal.",
+      "text": "Loss of Commission, Dismissal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b24",
+      "number": "110-B:24",
+      "heading": "Resignation.",
+      "text": "Resignation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b25",
+      "number": "110-B:25",
+      "heading": "Enlistment in the National Guard.",
+      "text": "Enlistment in the National Guard.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b26",
+      "number": "110-B:26",
+      "heading": "Non-Commissioned Officer.",
+      "text": "Non-Commissioned Officer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b27",
+      "number": "110-B:27",
+      "heading": "Discharge of Enlisted Persons.",
+      "text": "Discharge of Enlisted Persons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b28",
+      "number": "110-B:28",
+      "heading": "National Guard Facilities.",
+      "text": "National Guard Facilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b28-a",
+      "number": "110-B:28-a",
+      "heading": "Rules for the Use of Force.",
+      "text": "Rules for the Use of Force.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b29",
+      "number": "110-B:29",
+      "heading": "Use of Armories or Other National Guard Facilities.",
+      "text": "Use of Armories or Other National Guard Facilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b30",
+      "number": "110-B:30",
+      "heading": "Repealed by 2002, 248:12, I, eff. May 17, 2002.",
+      "text": "Repealed by 2002, 248:12, I, eff. May 17, 2002.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b31",
+      "number": "110-B:31",
+      "heading": "Repealed by 2002, 248:12, II, eff. May 17, 2002.",
+      "text": "Repealed by 2002, 248:12, II, eff. May 17, 2002.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b32",
+      "number": "110-B:32",
+      "heading": "Repealed by 2002, 248:12, III, eff. May 17, 2002.",
+      "text": "Repealed by 2002, 248:12, III, eff. May 17, 2002.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b32-a",
+      "number": "110-B:32-a",
+      "heading": "New Hampshire National Guard Training Center Funds.",
+      "text": "New Hampshire National Guard Training Center Funds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b32-b",
+      "number": "110-B:32-b",
+      "heading": "New Hampshire Armories or Other National Guard Facilities Fund.",
+      "text": "New Hampshire Armories or Other National Guard Facilities Fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b33",
+      "number": "110-B:33",
+      "heading": "Issue of Military Property.",
+      "text": "Issue of Military Property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b34",
+      "number": "110-B:34",
+      "heading": "Storage and Accountability for Property.",
+      "text": "Storage and Accountability for Property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b35",
+      "number": "110-B:35",
+      "heading": "Responsibility for Public Property.",
+      "text": "Responsibility for Public Property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b36",
+      "number": "110-B:36",
+      "heading": "Insurance.",
+      "text": "Insurance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b37",
+      "number": "110-B:37",
+      "heading": "Pay and Allowances.",
+      "text": "Pay and Allowances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b37-a",
+      "number": "110-B:37-a",
+      "heading": "State Active Duty Death Benefit.",
+      "text": "State Active Duty Death Benefit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b38",
+      "number": "110-B:38",
+      "heading": "Uniform Allowance for Officers.",
+      "text": "Uniform Allowance for Officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b39",
+      "number": "110-B:39",
+      "heading": "Military Discipline.",
+      "text": "Military Discipline.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b40",
+      "number": "110-B:40",
+      "heading": "Nonjudicial Punishment.",
+      "text": "Nonjudicial Punishment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b41",
+      "number": "110-B:41",
+      "heading": "Military Offenses.",
+      "text": "Military Offenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b42",
+      "number": "110-B:42",
+      "heading": "Preferral of Charges.",
+      "text": "Preferral of Charges.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b43",
+      "number": "110-B:43",
+      "heading": "Apprehension.",
+      "text": "Apprehension.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b44",
+      "number": "110-B:44",
+      "heading": "Arrest and Confinement.",
+      "text": "Arrest and Confinement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b45",
+      "number": "110-B:45",
+      "heading": "Order into Arrest.",
+      "text": "Order into Arrest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b46",
+      "number": "110-B:46",
+      "heading": "Commitment.",
+      "text": "Commitment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b47",
+      "number": "110-B:47",
+      "heading": "Military Court.",
+      "text": "Military Court.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b48",
+      "number": "110-B:48",
+      "heading": "Courts of Inquiry.",
+      "text": "Courts of Inquiry.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b49",
+      "number": "110-B:49",
+      "heading": "General Courts-Martial.",
+      "text": "General Courts-Martial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b50",
+      "number": "110-B:50",
+      "heading": "Special Courts-Martial.",
+      "text": "Special Courts-Martial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b51",
+      "number": "110-B:51",
+      "heading": "Summary Courts-Martial.",
+      "text": "Summary Courts-Martial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b52",
+      "number": "110-B:52",
+      "heading": "Confinement in Lieu of Fine.",
+      "text": "Confinement in Lieu of Fine.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b53",
+      "number": "110-B:53",
+      "heading": "Review.",
+      "text": "Review.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b54",
+      "number": "110-B:54",
+      "heading": "Powers of Officers.",
+      "text": "Powers of Officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b55",
+      "number": "110-B:55",
+      "heading": "Execution of Sentences.",
+      "text": "Execution of Sentences.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b56",
+      "number": "110-B:56",
+      "heading": "Witnesses.",
+      "text": "Witnesses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b57",
+      "number": "110-B:57",
+      "heading": "Stenographer.",
+      "text": "Stenographer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b58",
+      "number": "110-B:58",
+      "heading": "Jurisdiction;  Exemption.",
+      "text": "Jurisdiction; Exemption.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b59",
+      "number": "110-B:59",
+      "heading": "Short Title.",
+      "text": "Short Title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b60",
+      "number": "110-B:60",
+      "heading": "New Hampshire National Guard Enlistment and Reenlistment Incentive Program Established.",
+      "text": "New Hampshire National Guard Enlistment and Reenlistment Incentive Program Established.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b61",
+      "number": "110-B:61",
+      "heading": "Revenue for Enlistment Incentive Program.",
+      "text": "Revenue for Enlistment Incentive Program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b62",
+      "number": "110-B:62",
+      "heading": "Oversight and Administration.",
+      "text": "Oversight and Administration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b63",
+      "number": "110-B:63",
+      "heading": "Repealed by 2021, 91:370, eff. July 1, 2021;  207:2, Pt. VII, Sec. 6, eff. July 1, 2021.",
+      "text": "Repealed by 2021, 91:370, eff. July 1, 2021; 207:2, Pt. VII, Sec. 6, eff. July 1, 2021.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b63-a",
+      "number": "110-B:63-a",
+      "heading": "Title.",
+      "text": "Title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b63-b",
+      "number": "110-B:63-b",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b63-c",
+      "number": "110-B:63-c",
+      "heading": "Educational Assistance Authorized;  Minimum Requirements.",
+      "text": "Educational Assistance Authorized; Minimum Requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b63-d",
+      "number": "110-B:63-d",
+      "heading": "Eligibility Determinations.",
+      "text": "Eligibility Determinations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b63-e",
+      "number": "110-B:63-e",
+      "heading": "Termination of Educational Assistance.",
+      "text": "Termination of Educational Assistance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b63-f",
+      "number": "110-B:63-f",
+      "heading": "In-State Tuition for New Hampshire National Guard Nonresidents.",
+      "text": "In-State Tuition for New Hampshire National Guard Nonresidents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b63-g",
+      "number": "110-B:63-g",
+      "heading": "Report.",
+      "text": "Report.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b64",
+      "number": "110-B:64",
+      "heading": "Administration of Oaths and Notarial Acts.",
+      "text": "Administration of Oaths and Notarial Acts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b65",
+      "number": "110-B:65",
+      "heading": "Discrimination Forbidden.",
+      "text": "Discrimination Forbidden.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b66",
+      "number": "110-B:66",
+      "heading": "Compensation for Injuries and Illness.",
+      "text": "Compensation for Injuries and Illness.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b67",
+      "number": "110-B:67",
+      "heading": "Right-of-Way.",
+      "text": "Right-of-Way.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b68",
+      "number": "110-B:68",
+      "heading": "Trespassers and Disturbers;  Camp Regulations.",
+      "text": "Trespassers and Disturbers; Camp Regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b69",
+      "number": "110-B:69",
+      "heading": "Medals and Decorations.",
+      "text": "Medals and Decorations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b70",
+      "number": "110-B:70",
+      "heading": "Motor Vehicles of the National Guard.",
+      "text": "Motor Vehicles of the National Guard.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b71",
+      "number": "110-B:71",
+      "heading": "Relief, Privileges and Immunities.",
+      "text": "Relief, Privileges and Immunities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b72",
+      "number": "110-B:72",
+      "heading": "Unauthorized Wearing of Official Uniforms.",
+      "text": "Unauthorized Wearing of Official Uniforms.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b73",
+      "number": "110-B:73",
+      "heading": "Payment of Claims.",
+      "text": "Payment of Claims.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b73-a",
+      "number": "110-B:73-a",
+      "heading": "Military Skills Test Waiver Program.",
+      "text": "Military Skills Test Waiver Program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b73-b",
+      "number": "110-B:73-b",
+      "heading": "Acceptance of Military Training and Experience in Professional Licensing;  Report.",
+      "text": "Acceptance of Military Training and Experience in Professional Licensing; Report.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b73-c",
+      "number": "110-B:73-c",
+      "heading": "End Veterans Homelessness Program.",
+      "text": "End Veterans Homelessness Program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b73-d",
+      "number": "110-B:73-d",
+      "heading": "Support for Veterans Mental Health and Social Isolation.",
+      "text": "Support for Veterans Mental Health and Social Isolation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b73-e",
+      "number": "110-B:73-e",
+      "heading": "Repealed by 2022, 293:2, eff. Nov. 1, 2022.",
+      "text": "Repealed by 2022, 293:2, eff. Nov. 1, 2022.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b74",
+      "number": "110-B:74",
+      "heading": "Operation and Maintenance.",
+      "text": "Operation and Maintenance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b75",
+      "number": "110-B:75",
+      "heading": "Acceptance of Gifts.",
+      "text": "Acceptance of Gifts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b76",
+      "number": "110-B:76",
+      "heading": "Cemetery Director.",
+      "text": "Cemetery Director.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b77",
+      "number": "110-B:77",
+      "heading": "Cemetery Operations.",
+      "text": "Cemetery Operations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b78",
+      "number": "110-B:78",
+      "heading": "Regulations.",
+      "text": "Regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b79",
+      "number": "110-B:79",
+      "heading": "Annual Report.",
+      "text": "Annual Report.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b79-a",
+      "number": "110-B:79-a",
+      "heading": "Repealed by 2018, 32:2, eff. Nov. 1, 2018.",
+      "text": "Repealed by 2018, 32:2, eff. Nov. 1, 2018.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b80",
+      "number": "110-B:80",
+      "heading": "Repealed by 2006, 244:3, I, eff. July 1, 2010.",
+      "text": "Repealed by 2006, 244:3, I, eff. July 1, 2010.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b81",
+      "number": "110-B:81",
+      "heading": "New Hampshire Medal of Honor.",
+      "text": "New Hampshire Medal of Honor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b81-a",
+      "number": "110-B:81-a",
+      "heading": "Gifts, Grants, and Donations.",
+      "text": "Gifts, Grants, and Donations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b81-b",
+      "number": "110-B:81-b",
+      "heading": "New Hampshire Medal of Honor Fund.",
+      "text": "New Hampshire Medal of Honor Fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b82",
+      "number": "110-B:82",
+      "heading": "Prisoner of War and Missing in Action Designations.",
+      "text": "Prisoner of War and Missing in Action Designations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b83",
+      "number": "110-B:83",
+      "heading": "Composition of Veterans Services.",
+      "text": "Composition of Veterans Services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b84",
+      "number": "110-B:84",
+      "heading": "Division of Veterans Services.",
+      "text": "Division of Veterans Services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b85",
+      "number": "110-B:85",
+      "heading": "Director of the Division of Veterans Services.",
+      "text": "Director of the Division of Veterans Services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b86",
+      "number": "110-B:86",
+      "heading": "Copies of Public Records.",
+      "text": "Copies of Public Records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b87",
+      "number": "110-B:87",
+      "heading": "Donations and Bequests.",
+      "text": "Donations and Bequests.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b88",
+      "number": "110-B:88",
+      "heading": "Division of Community Based Military Programs.",
+      "text": "Division of Community Based Military Programs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b89",
+      "number": "110-B:89",
+      "heading": "Council Established.",
+      "text": "Council Established.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b90",
+      "number": "110-B:90",
+      "heading": "Military Leadership Team.",
+      "text": "Military Leadership Team.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-110-b91",
+      "number": "110-B:91",
+      "heading": "Veterans Licensing Acceleration Program.",
+      "text": "Veterans Licensing Acceleration Program.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

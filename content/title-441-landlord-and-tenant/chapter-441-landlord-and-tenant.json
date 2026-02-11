@@ -1,0 +1,582 @@
+{
+  "state": "missouri",
+  "path": "title-441-landlord-and-tenant/chapter-441-landlord-and-tenant",
+  "sections": [
+    {
+      "id": "section-441005",
+      "number": "441.005",
+      "heading": "Definitions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441010",
+      "number": "441.010",
+      "heading": "Covenant or contract of tenant to repair — effect of.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441020",
+      "number": "441.020",
+      "heading": "Illegal use of premises renders lease void.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441030",
+      "number": "441.030",
+      "heading": "Tenant not to assign without consent — nor violate conditions — nor commit ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441040",
+      "number": "441.040",
+      "heading": "Landlord may take possession, when — landlord liable, when, burden of proof.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441043",
+      "number": "441.043",
+      "heading": "Prohibited ordinances and resolutions, exceptions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441050",
+      "number": "441.050",
+      "heading": "Tenancy from year to year, how terminated.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441060",
+      "number": "441.060",
+      "heading": "Tenancy at will, sufferance, month to month, how terminated — judgment of ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441065",
+      "number": "441.065",
+      "heading": "Abandonment of rental premises, when, procedure.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441070",
+      "number": "441.070",
+      "heading": "No notice necessary, when.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441080",
+      "number": "441.080",
+      "heading": "Liability of tenants after termination of term.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441090",
+      "number": "441.090",
+      "heading": "Recovery action — tenant served with summons — notice — penalty.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441100",
+      "number": "441.100",
+      "heading": "Tenant giving notice to quit, and failing to do so, liable.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441110",
+      "number": "441.110",
+      "heading": "Such rent, how recovered.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441120",
+      "number": "441.120",
+      "heading": "Oral evidence not to show renewal of lease or change — notice to quit.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441130",
+      "number": "441.130",
+      "heading": "Alienee or assignee may recover rent.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441140",
+      "number": "441.140",
+      "heading": "Grants of rents good without attornment of tenants.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441150",
+      "number": "441.150",
+      "heading": "Attornment to stranger void — exceptions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441160",
+      "number": "441.160",
+      "heading": "Executor or administrator of tenant for life may recover rents.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441170",
+      "number": "441.170",
+      "heading": "Remedy of executor or administrator.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441180",
+      "number": "441.180",
+      "heading": "Rents dependent on life of another, how recovered when unpaid.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441190",
+      "number": "441.190",
+      "heading": "Rent due on lease for life, how recovered.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441200",
+      "number": "441.200",
+      "heading": "Landlord may recover for use and occupation.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441210",
+      "number": "441.210",
+      "heading": "If parol demise appear on trial, shall be evidence of what.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441220",
+      "number": "441.220",
+      "heading": "Rent may be recovered of whom, and how.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441230",
+      "number": "441.230",
+      "heading": "If tenant sublet, landlord may join sublessees in same actions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441233",
+      "number": "441.233",
+      "heading": "Landlord's unlawful removal or exclusion of tenant, liability — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441234",
+      "number": "441.234",
+      "heading": "Tenant may deduct cost of repair of rental premises from rent, when — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441236",
+      "number": "441.236",
+      "heading": "Disclosures required for transfer of property where methamphetamine ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441240",
+      "number": "441.240",
+      "heading": "Attachment for rent.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441250",
+      "number": "441.250",
+      "heading": "Proceedings to be same as in suits by attachment.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441260",
+      "number": "441.260",
+      "heading": "Who may recover rent.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441270",
+      "number": "441.270",
+      "heading": "What property exempt from attachment for rent.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441280",
+      "number": "441.280",
+      "heading": "Landlord's lien on crops for rent.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441290",
+      "number": "441.290",
+      "heading": "Landlord's lien for money or supplies furnished tenant.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441300",
+      "number": "441.300",
+      "heading": "Lien, how enforced.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441500",
+      "number": "441.500",
+      "heading": "Definitions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441510",
+      "number": "441.510",
+      "heading": "Civil action, how maintained — procedure.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441520",
+      "number": "441.520",
+      "heading": "Parties to action — designation of registered agent required, when.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441530",
+      "number": "441.530",
+      "heading": "Application, contents.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441540",
+      "number": "441.540",
+      "heading": "No jury trial.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441550",
+      "number": "441.550",
+      "heading": "Notice of application filed with recorder of deeds.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441560",
+      "number": "441.560",
+      "heading": "Denial of entry a defense.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441570",
+      "number": "441.570",
+      "heading": "Action of court upon finding a nuisance exists.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441580",
+      "number": "441.580",
+      "heading": "Payment of rent, effect of.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441590",
+      "number": "441.590",
+      "heading": "Court orders, provisions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441600",
+      "number": "441.600",
+      "heading": "Receiver discharged, when.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441610",
+      "number": "441.610",
+      "heading": "Waiver of provisions of sections 441.500 to 441.640 void.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441630",
+      "number": "441.630",
+      "heading": "Duties of occupant.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441641",
+      "number": "441.641",
+      "heading": "Court appoints receiver to abate nuisance — holder of title does not act to ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441643",
+      "number": "441.643",
+      "heading": "Frivolous suit, attorney's fees.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441645",
+      "number": "441.645",
+      "heading": "Act of God, tenant not liable for rent.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441650",
+      "number": "441.650",
+      "heading": "Master-metered multitenant dwelling, defined — heat-related utility ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441710",
+      "number": "441.710",
+      "heading": "Certain parties have standing to initiate expedited eviction proceedings.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441720",
+      "number": "441.720",
+      "heading": "Expedited eviction actions, where filed, when continued or stayed.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441730",
+      "number": "441.730",
+      "heading": "Failure to prosecute claim, court may substitute other interested party.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441740",
+      "number": "441.740",
+      "heading": "Immediate eviction ordered, when — immediate removal ordered, when.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441750",
+      "number": "441.750",
+      "heading": "Immediate eviction, not granted when — tenant's burden of proof.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441760",
+      "number": "441.760",
+      "heading": "Immediate removal of parties other than tenant, when — immediate removal of ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441770",
+      "number": "441.770",
+      "heading": "Court-ordered eviction, when — court-ordered removal of third party from ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441780",
+      "number": "441.780",
+      "heading": "Notice not required in certain eviction actions, when.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441790",
+      "number": "441.790",
+      "heading": "Certain evidence admissible in certain eviction-related actions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441800",
+      "number": "441.800",
+      "heading": "Criminal prosecution unnecessary for certain eviction proceedings to begin ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441810",
+      "number": "441.810",
+      "heading": "Discovery in certain eviction proceedings.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441820",
+      "number": "441.820",
+      "heading": "Protection orders for witnesses in certain eviction proceedings.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441830",
+      "number": "441.830",
+      "heading": "Court authorized to grant preliminary relief to parties in certain eviction ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441840",
+      "number": "441.840",
+      "heading": "Rent to continue accruing during certain eviction proceedings.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441850",
+      "number": "441.850",
+      "heading": "Certain parties entitled to attorney's fees in certain eviction ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441860",
+      "number": "441.860",
+      "heading": "Remedies cumulative.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441870",
+      "number": "441.870",
+      "heading": "Immunity from civil liability in certain eviction proceedings, granted when.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441880",
+      "number": "441.880",
+      "heading": "Stay of execution of eviction order, when — notification of interested ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-441920",
+      "number": "441.920",
+      "heading": "Victims of domestic violence, sexual assault, or stalking — no ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

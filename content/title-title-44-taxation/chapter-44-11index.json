@@ -1,0 +1,478 @@
+{
+  "state": "rhode-island",
+  "path": "title-title-44-taxation/chapter-44-11index",
+  "sections": [
+    {
+      "id": "section-44-11-1",
+      "number": "44-11-1.",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-2",
+      "number": "44-11-2.",
+      "heading": "Imposition of tax.",
+      "text": "Imposition of tax.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-21",
+      "number": "44-11-2.1.",
+      "heading": "Surtax.",
+      "text": "Surtax.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-22",
+      "number": "44-11-2.2.",
+      "heading": "Pass-through entities — Definitions — Withholding — Returns.",
+      "text": "Pass-through entities — Definitions — Withholding — Returns.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-23",
+      "number": "44-11-2.3.",
+      "heading": "Pass-through entities — Election to pay state income tax at the entity level.",
+      "text": "Pass-through entities — Election to pay state income tax at the entity level.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-3",
+      "number": "44-11-3.",
+      "heading": "Filing of returns — Due date.",
+      "text": "Filing of returns — Due date.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-4",
+      "number": "44-11-4.",
+      "heading": "Returns of affiliated groups of corporations.",
+      "text": "Returns of affiliated groups of corporations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-41",
+      "number": "44-11-4.1.",
+      "heading": "Combined reporting.",
+      "text": "Combined reporting.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-5",
+      "number": "44-11-5.",
+      "heading": "Extension of time for filing of returns.",
+      "text": "Extension of time for filing of returns.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-6",
+      "number": "44-11-6.",
+      "heading": "Determination and payment of tax due — Hearings and redeterminations.",
+      "text": "Determination and payment of tax due — Hearings and redeterminations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-7",
+      "number": "44-11-7.",
+      "heading": "Interest on delinquency payments.",
+      "text": "Interest on delinquency payments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-71",
+      "number": "44-11-7.1.",
+      "heading": "Limitations on assessment.",
+      "text": "Limitations on assessment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-8",
+      "number": "44-11-8.",
+      "heading": "Lien on real estate.",
+      "text": "Lien on real estate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-9",
+      "number": "44-11-9.",
+      "heading": "Records, statements, and rules and regulations.",
+      "text": "Records, statements, and rules and regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-10",
+      "number": "44-11-10.",
+      "heading": "Returns and statements required to show whether corporation liable.",
+      "text": "Returns and statements required to show whether corporation liable.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-11",
+      "number": "44-11-11.",
+      "heading": "“Net income” defined.",
+      "text": "“Net income” defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-111",
+      "number": "44-11-11.1.",
+      "heading": "Amortization of air or water pollution prevention or hazardous solid waste control",
+      "text": "facilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-112",
+      "number": "44-11-11.2.",
+      "heading": "Definition of “treatment facility”.",
+      "text": "Definition of “treatment facility”.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-113",
+      "number": "44-11-11.3.",
+      "heading": "Accelerated amortization deductions for certain manufacturers.",
+      "text": "Accelerated amortization deductions for certain manufacturers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-12",
+      "number": "44-11-12.",
+      "heading": "Dividends and interest excluded from net income.",
+      "text": "Dividends and interest excluded from net income.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-13",
+      "number": "44-11-13.",
+      "heading": "Entire net income of business wholly within state.",
+      "text": "Entire net income of business wholly within state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-14",
+      "number": "44-11-14.",
+      "heading": "Allocation of income from business partially within state.",
+      "text": "Allocation of income from business partially within state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-141",
+      "number": "44-11-14.1.",
+      "heading": "Certified facility apportionment exclusion.",
+      "text": "Certified facility apportionment exclusion.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-142",
+      "number": "44-11-14.2.",
+      "heading": "Allocation and apportionment of regulated investment companies and securities brokerage",
+      "text": "services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-143",
+      "number": "44-11-14.3.",
+      "heading": "Credit card banks — Allocation and apportionment of income.",
+      "text": "Credit card banks — Allocation and apportionment of income.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-144",
+      "number": "44-11-14.4.",
+      "heading": "Allocation and apportionment — Retirement and pension plans.",
+      "text": "Allocation and apportionment — Retirement and pension plans.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-145",
+      "number": "44-11-14.5.",
+      "heading": "International investment management service income.",
+      "text": "International investment management service income.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-146",
+      "number": "44-11-14.6.",
+      "heading": "Allocation and apportionment — Manufacturers.",
+      "text": "Allocation and apportionment — Manufacturers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-15",
+      "number": "44-11-15.",
+      "heading": "Variation of method of allocating income.",
+      "text": "Variation of method of allocating income.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-16",
+      "number": "44-11-16",
+      "heading": "44-11-18. Repealed.",
+      "text": "44-11-18. Repealed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-19",
+      "number": "44-11-19.",
+      "heading": "Supplemental returns — Additional tax or refund.",
+      "text": "Supplemental returns — Additional tax or refund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-20",
+      "number": "44-11-20.",
+      "heading": "Claims for refund — Hearing upon denial.",
+      "text": "Claims for refund — Hearing upon denial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-21",
+      "number": "44-11-21.",
+      "heading": "Information confidential — Types of disclosure authorized — Penalties for unauthorized",
+      "text": "disclosure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-22",
+      "number": "44-11-22.",
+      "heading": "Tax administrator’s power to summon witnesses and evidence.",
+      "text": "Tax administrator’s power to summon witnesses and evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-23",
+      "number": "44-11-23.",
+      "heading": "Service of summons.",
+      "text": "Service of summons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-24",
+      "number": "44-11-24.",
+      "heading": "Enforcement of summons.",
+      "text": "Enforcement of summons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-25",
+      "number": "44-11-25.",
+      "heading": "Determination of tax without return.",
+      "text": "Determination of tax without return.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-26",
+      "number": "44-11-26.",
+      "heading": "Pecuniary penalty for failure to file return or to pay tax or for negligence.",
+      "text": "Pecuniary penalty for failure to file return or to pay tax or for negligence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-261",
+      "number": "44-11-26.1.",
+      "heading": "Revocation of articles or authority to transact business for nonpayment of tax.",
+      "text": "Revocation of articles or authority to transact business for nonpayment of tax.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-27",
+      "number": "44-11-27.",
+      "heading": "Pecuniary penalty for fraud.",
+      "text": "Pecuniary penalty for fraud.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-28",
+      "number": "44-11-28.",
+      "heading": "Collection of pecuniary penalties.",
+      "text": "Collection of pecuniary penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-29",
+      "number": "44-11-29.",
+      "heading": "Notice to tax administrator of sale of assets — Tax due.",
+      "text": "Notice to tax administrator of sale of assets — Tax due.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-291",
+      "number": "44-11-29.1.",
+      "heading": "Letters of good standing — Fees.",
+      "text": "Letters of good standing — Fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-30",
+      "number": "44-11-30.",
+      "heading": "Examination of taxpayer’s records — Witnesses.",
+      "text": "Examination of taxpayer’s records — Witnesses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-31",
+      "number": "44-11-31.",
+      "heading": "Examinations as to liability of transferee.",
+      "text": "Examinations as to liability of transferee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-32",
+      "number": "44-11-32.",
+      "heading": "Violations by corporations.",
+      "text": "Violations by corporations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-33",
+      "number": "44-11-33.",
+      "heading": "Violations by individuals.",
+      "text": "Violations by individuals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-34",
+      "number": "44-11-34.",
+      "heading": "Criminal penalty for failure to file return.",
+      "text": "Criminal penalty for failure to file return.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-35",
+      "number": "44-11-35.",
+      "heading": "Appeals.",
+      "text": "Appeals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-36",
+      "number": "44-11-36.",
+      "heading": "Liability of fiduciaries.",
+      "text": "Liability of fiduciaries.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-37",
+      "number": "44-11-37.",
+      "heading": "General collection powers.",
+      "text": "General collection powers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-38",
+      "number": "44-11-38.",
+      "heading": "Collection by writ of execution.",
+      "text": "Collection by writ of execution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-39",
+      "number": "44-11-39.",
+      "heading": "Tax as debt to state.",
+      "text": "Tax as debt to state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-40",
+      "number": "44-11-40.",
+      "heading": "Severability.",
+      "text": "Severability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-41",
+      "number": "44-11-41.",
+      "heading": "Tax credit for machine tool, metal trade or plastic process technician apprenticeships.",
+      "text": "Tax credit for machine tool, metal trade or plastic process technician apprenticeships.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-42",
+      "number": "44-11-42.",
+      "heading": "Repealed.",
+      "text": "Repealed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-43",
+      "number": "44-11-43.",
+      "heading": "Passive investment treatment.",
+      "text": "Passive investment treatment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-44",
+      "number": "44-11-44.",
+      "heading": "Annual Rhode Island corporate income and tax data report.",
+      "text": "Annual Rhode Island corporate income and tax data report.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-44-11-45",
+      "number": "44-11-45.",
+      "heading": "Repealed.",
+      "text": "Repealed.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

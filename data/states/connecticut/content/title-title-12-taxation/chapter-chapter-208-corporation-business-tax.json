@@ -1,0 +1,854 @@
+{
+  "state": "connecticut",
+  "path": "title-title-12-taxation/chapter-chapter-208-corporation-business-tax",
+  "sections": [
+    {
+      "id": "section-12-213",
+      "number": "12-213.",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-214",
+      "number": "12-214.",
+      "heading": "Imposition of tax. Surcharge.",
+      "text": "Imposition of tax. Surcharge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-214a",
+      "number": "12-214a",
+      "heading": "and 12-215. - Effective date of subsection (7) of section 12-214. Certain gross rentals to be tax-exempt.",
+      "text": "and 12-215. - Effective date of subsection (7) of section 12-214. Certain gross rentals to be tax-exempt.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-216",
+      "number": "12-216.",
+      "heading": "Payment of tax by out-of-state corporations.",
+      "text": "Payment of tax by out-of-state corporations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-216a",
+      "number": "12-216a.",
+      "heading": "Payment of tax by companies having economic nexus with state. Applicability to companies treated as foreign corporations by the Internal Revenue Code.",
+      "text": "Payment of tax by companies having economic nexus with state. Applicability to companies treated as foreign corporations by the Internal Revenue Code.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217",
+      "number": "12-217.",
+      "heading": "Deductions from gross income. Net income and operating loss carry-over of S corporations and combined groups.",
+      "text": "Deductions from gross income. Net income and operating loss carry-over of S corporations and combined groups.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217aa",
+      "number": "12-217aa.",
+      "heading": "Order of credits.",
+      "text": "Order of credits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217aaa",
+      "number": "12-217aaa.",
+      "heading": "Accumulated research and development tax credits.",
+      "text": "Accumulated research and development tax credits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217a",
+      "number": "12-217a",
+      "heading": "and 12-217b. - Deduction for investment in depreciable property. Tax credit for expenditures for water pollution abatement facilities.",
+      "text": "and 12-217b. - Deduction for investment in depreciable property. Tax credit for expenditures for water pollution abatement facilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217bb",
+      "number": "12-217bb.",
+      "heading": "Tax credit for electric suppliers hiring displaced workers.",
+      "text": "Tax credit for electric suppliers hiring displaced workers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217bbb",
+      "number": "12-217bbb.",
+      "heading": "Accumulated research and experimental expenditures tax credits and accumulated research and development tax credits",
+      "text": "Innovation investment fund tax credit auction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217c",
+      "number": "12-217c",
+      "heading": "and 12-217d. - Tax credit for expenditures for: Air pollution abatement facilities; industrial waste treatment facilities.",
+      "text": "and 12-217d. - Tax credit for expenditures for: Air pollution abatement facilities; industrial waste treatment facilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217cc",
+      "number": "12-217cc.",
+      "heading": "Tax credit for certain small businesses obtaining financing from federal Small Business Administration",
+      "text": "For income years commencing prior to January 1, 2014.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217dd",
+      "number": "12-217dd.",
+      "heading": "Tax credit for donation of land for open space or educational use.",
+      "text": "Tax credit for donation of land for open space or educational use.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217e",
+      "number": "12-217e.",
+      "heading": "Tax credits for certain manufacturing, service and eligible facilities",
+      "text": "No credit to be first claimed for income years commencing on or after January 1, 2018.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217ee",
+      "number": "12-217ee.",
+      "heading": "Refund of unused credits under sections 12-217j and 12-217n.",
+      "text": "Refund of unused credits under sections 12-217j and 12-217n.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217f",
+      "number": "12-217f.",
+      "heading": "Tax credit for employers participating in certain state-approved programs combining high school study and part-time employment.",
+      "text": "Tax credit for employers participating in certain state-approved programs combining high school study and part-time employment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217ff",
+      "number": "12-217ff.",
+      "heading": "Tax credit for donation of land for educational use. No credit allowed on or after January 1, 2013.",
+      "text": "Tax credit for donation of land for educational use. No credit allowed on or after January 1, 2013.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217g",
+      "number": "12-217g.",
+      "heading": "Tax credits for apprenticeship training in manufacturing, construction and plastics-related trades.",
+      "text": "Tax credits for apprenticeship training in manufacturing, construction and plastics-related trades.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217gg",
+      "number": "12-217gg.",
+      "heading": "Tax credit for employment expansion project.",
+      "text": "Tax credit for employment expansion project.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217h",
+      "number": "12-217h.",
+      "heading": "Tax credit for expenditures to establish day care facilities for children of employees.",
+      "text": "Tax credit for expenditures to establish day care facilities for children of employees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217hh",
+      "number": "12-217hh.",
+      "heading": "Tax credit for hiring displaced worker.",
+      "text": "Tax credit for hiring displaced worker.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217i",
+      "number": "12-217i.",
+      "heading": "Tax credits for investments in vehicles powered by clean alternative fuels or electricity, for construction of or improvements to alternative fuel filling stations and for converting motor vehicles to utilize alternative fuels",
+      "text": "For income years commencing prior to January 1, 2008.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217ii",
+      "number": "12-217ii.",
+      "heading": "Jobs creation tax credit program. No eligibility certificates issued on or after January 1, 2012.",
+      "text": "Jobs creation tax credit program. No eligibility certificates issued on or after January 1, 2012.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217j",
+      "number": "12-217j.",
+      "heading": "Tax credit for research and experimental expenditures.",
+      "text": "Tax credit for research and experimental expenditures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217jj",
+      "number": "12-217jj.",
+      "heading": "Film production tax credit. Regulations.",
+      "text": "Film production tax credit. Regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217k",
+      "number": "12-217k.",
+      "heading": "Tax credit for employee training.",
+      "text": "Tax credit for employee training.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217kk",
+      "number": "12-217kk.",
+      "heading": "Tax credit for infrastructure projects in the entertainment industry. Regulations.",
+      "text": "Tax credit for infrastructure projects in the entertainment industry. Regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217l",
+      "number": "12-217l.",
+      "heading": "Tax credit for expenditures for grants to institutions of higher education for research and development related to technological advancements.",
+      "text": "Tax credit for expenditures for grants to institutions of higher education for research and development related to technological advancements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217ll",
+      "number": "12-217ll.",
+      "heading": "Tax credit for digital animation production companies. Regulations.",
+      "text": "Tax credit for digital animation production companies. Regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217m",
+      "number": "12-217m.",
+      "heading": "Tax credit for taxpayers occupying new facilities and creating new jobs.",
+      "text": "Tax credit for taxpayers occupying new facilities and creating new jobs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217mm",
+      "number": "12-217mm.",
+      "heading": "Tax credit for green buildings. No initial credit voucher issued after November 30, 2017.",
+      "text": "Tax credit for green buildings. No initial credit voucher issued after November 30, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217n",
+      "number": "12-217n.",
+      "heading": "Rolling tax credit for research and development expenses. Carryforward limit.",
+      "text": "Rolling tax credit for research and development expenses. Carryforward limit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217nn",
+      "number": "12-217nn.",
+      "heading": "Qualified small business job creation tax credit program. No credit allowed in income years commencing on or after January 1, 2013.",
+      "text": "Qualified small business job creation tax credit program. No credit allowed in income years commencing on or after January 1, 2013.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217o",
+      "number": "12-217o.",
+      "heading": "Tax credit for machinery and equipment expenditures.",
+      "text": "Tax credit for machinery and equipment expenditures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217oo",
+      "number": "12-217oo.",
+      "heading": "Vocational rehabilitation job creation tax credit program. No credit allowed for income years commencing on or after January 1, 2012.",
+      "text": "Vocational rehabilitation job creation tax credit program. No credit allowed for income years commencing on or after January 1, 2012.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217p",
+      "number": "12-217p.",
+      "heading": "Tax credits for taxpayer providing housing for low and moderate income employees.",
+      "text": "Tax credits for taxpayer providing housing for low and moderate income employees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217pp",
+      "number": "12-217pp.",
+      "heading": "Job expansion tax credit program. No credit allowed for new jobs created on or after January 1, 2014.",
+      "text": "Job expansion tax credit program. No credit allowed for new jobs created on or after January 1, 2014.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217q",
+      "number": "12-217q",
+      "heading": "and 12-217r. - Tax credit for expenditures for: Construction of or improvements to alternative fuel filling stations; converting motor vehicles to utilize alternative fuels",
+      "text": "and 12-217r. - Tax credit for expenditures for: Construction of or improvements to alternative fuel filling stations; converting motor vehicles to utilize alternative fuels.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217qq",
+      "number": "12-217qq.",
+      "heading": "Tax credit for employers making student loan payments.",
+      "text": "Tax credit for employers making student loan payments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217rr",
+      "number": "12-217rr.",
+      "heading": "Tax credits for cash contributions to youth development organizations. Sunset.",
+      "text": "Tax credits for cash contributions to youth development organizations. Sunset.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217s",
+      "number": "12-217s.",
+      "heading": "Tax credit for expenditures related to traffic reduction programs.",
+      "text": "Tax credit for expenditures related to traffic reduction programs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217ss",
+      "number": "12-217ss.",
+      "heading": "(Note: This section is effective January 1, 2025.) Tax credits for share plan program.",
+      "text": "(Note: This section is effective January 1, 2025.) Tax credits for share plan program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217t",
+      "number": "12-217t.",
+      "heading": "Tax credit for personal property taxes paid on electronic data processing equipment.",
+      "text": "Tax credit for personal property taxes paid on electronic data processing equipment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217tt",
+      "number": "12-217tt.",
+      "heading": "Tax credit for contributions into ABLE accounts of employees.",
+      "text": "Tax credit for contributions into ABLE accounts of employees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217u",
+      "number": "12-217u.",
+      "heading": "Tax credit for financial institutions constructing new facilities and creating new jobs. For income years commencing prior to January 1, 2014.",
+      "text": "Tax credit for financial institutions constructing new facilities and creating new jobs. For income years commencing prior to January 1, 2014.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217uu",
+      "number": "12-217uu",
+      "heading": "to 12-217yy. - Reserved for future use.",
+      "text": "to 12-217yy. - Reserved for future use.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217v",
+      "number": "12-217v.",
+      "heading": "Tax credit for qualifying corporations in enterprise zones.",
+      "text": "Tax credit for qualifying corporations in enterprise zones.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217w",
+      "number": "12-217w.",
+      "heading": "*(See end of section for amended version and effective date.) Tax credit for investment in fixed capital.",
+      "text": "*(See end of section for amended version and effective date.) Tax credit for investment in fixed capital.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217x",
+      "number": "12-217x.",
+      "heading": "Tax credit for human capital investment.",
+      "text": "Tax credit for human capital investment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217y",
+      "number": "12-217y.",
+      "heading": "Tax credit for employing persons who are receiving benefits from the temporary family assistance program.",
+      "text": "Tax credit for employing persons who are receiving benefits from the temporary family assistance program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217z",
+      "number": "12-217z.",
+      "heading": "Business Tax Credit and Tax Policy Review Committee.",
+      "text": "Business Tax Credit and Tax Policy Review Committee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-217zz",
+      "number": "12-217zz.",
+      "heading": "Limit on credits under this chapter.",
+      "text": "Limit on credits under this chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-218",
+      "number": "12-218.",
+      "heading": "Apportionment of net income.",
+      "text": "Apportionment of net income.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-218a",
+      "number": "12-218a.",
+      "heading": "Apportionment of tax on insurance company.",
+      "text": "Apportionment of tax on insurance company.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-218b",
+      "number": "12-218b.",
+      "heading": "Apportionment of net income of financial service companies.",
+      "text": "Apportionment of net income of financial service companies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-218c",
+      "number": "12-218c.",
+      "heading": "Restrictions on the deductibility of certain intangible expenses and interest expenses with a related member.",
+      "text": "Restrictions on the deductibility of certain intangible expenses and interest expenses with a related member.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-218d",
+      "number": "12-218d.",
+      "heading": "Restriction on the deductibility of interest expenses or costs related to certain transactions with related members.",
+      "text": "Restriction on the deductibility of interest expenses or costs related to certain transactions with related members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-218e",
+      "number": "12-218e.",
+      "heading": "Combined group's net income. Apportionment percentage. Net operating loss. Carryover. Additional tax base. Nexus combined base tax.",
+      "text": "Combined group's net income. Apportionment percentage. Net operating loss. Carryover. Additional tax base. Nexus combined base tax.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-218f",
+      "number": "12-218f.",
+      "heading": "Combined group determined on world-wide basis, affiliated group basis or water's-edge basis. Tax havens.",
+      "text": "Combined group determined on world-wide basis, affiliated group basis or water's-edge basis. Tax havens.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-218g",
+      "number": "12-218g.",
+      "heading": "Net deferred tax liability and assets. Deductions.",
+      "text": "Net deferred tax liability and assets. Deductions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-218h",
+      "number": "12-218h.",
+      "heading": "Valuation allowance. Deductions.",
+      "text": "Valuation allowance. Deductions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-219",
+      "number": "12-219.",
+      "heading": "Capital base tax. Phase-out. Surcharge.",
+      "text": "Capital base tax. Phase-out. Surcharge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-219a",
+      "number": "12-219a.",
+      "heading": "Apportionment of tax base in and out of state. Insurance companies excepted.",
+      "text": "Apportionment of tax base in and out of state. Insurance companies excepted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-219b",
+      "number": "12-219b.",
+      "heading": "Election with respect to apportionment of net income.",
+      "text": "Election with respect to apportionment of net income.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-220",
+      "number": "12-220",
+      "heading": "to 12-221. - Allocation of minimum tax base. Apportionment of additional tax. Allocation in special cases.",
+      "text": "to 12-221. - Allocation of minimum tax base. Apportionment of additional tax. Allocation in special cases.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-221a",
+      "number": "12-221a.",
+      "heading": "Petition for alternative method of apportionment. Regulations.",
+      "text": "Petition for alternative method of apportionment. Regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-222",
+      "number": "12-222.",
+      "heading": "Annual return. Designated taxable member of combined group. Duties.",
+      "text": "Annual return. Designated taxable member of combined group. Duties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-223",
+      "number": "12-223.",
+      "heading": "Returns of affiliated corporations.",
+      "text": "Returns of affiliated corporations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-223a",
+      "number": "12-223a.",
+      "heading": "Combined corporation business tax return.",
+      "text": "Combined corporation business tax return.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-223b",
+      "number": "12-223b.",
+      "heading": "Intercompany rents and business receipts.",
+      "text": "Intercompany rents and business receipts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-223c",
+      "number": "12-223c.",
+      "heading": "Minimum tax in combined return.",
+      "text": "Minimum tax in combined return.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-223d",
+      "number": "12-223d.",
+      "heading": "Assessments against one or more taxpayers in combined return.",
+      "text": "Assessments against one or more taxpayers in combined return.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-223e",
+      "number": "12-223e.",
+      "heading": "Readjustment of taxes on revision of combined return.",
+      "text": "Readjustment of taxes on revision of combined return.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-223f",
+      "number": "12-223f.",
+      "heading": "Preference tax due from corporations filing a combined return.",
+      "text": "Preference tax due from corporations filing a combined return.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-224",
+      "number": "12-224.",
+      "heading": "Return of fiduciary.",
+      "text": "Return of fiduciary.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-225",
+      "number": "12-225.",
+      "heading": "Supplemental and amended returns. Refund claim.",
+      "text": "Supplemental and amended returns. Refund claim.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-226",
+      "number": "12-226.",
+      "heading": "Correction of returns; additional tax; refunds.",
+      "text": "Correction of returns; additional tax; refunds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-226a",
+      "number": "12-226a.",
+      "heading": "Adjustments by the commissioner. Regulations.",
+      "text": "Adjustments by the commissioner. Regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-227",
+      "number": "12-227.",
+      "heading": "Interest on refunds.",
+      "text": "Interest on refunds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-228",
+      "number": "12-228.",
+      "heading": "Refunds to be made from General Fund.",
+      "text": "Refunds to be made from General Fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-229",
+      "number": "12-229.",
+      "heading": "Failure to pay tax or make return. Penalty. Waiver of penalty authorized.",
+      "text": "Failure to pay tax or make return. Penalty. Waiver of penalty authorized.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-230",
+      "number": "12-230.",
+      "heading": "Forfeiture of corporate rights for failure to make returns.",
+      "text": "Forfeiture of corporate rights for failure to make returns.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-231",
+      "number": "12-231.",
+      "heading": "Penalties for wilful violation of requirements related to payment of tax or delivery of documentation.",
+      "text": "Penalties for wilful violation of requirements related to payment of tax or delivery of documentation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-231a",
+      "number": "12-231a.",
+      "heading": "Formation of insurance company affiliate of holding company to evade tax.",
+      "text": "Formation of insurance company affiliate of holding company to evade tax.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-232",
+      "number": "12-232.",
+      "heading": "Authority to take testimony under oath; subpoenas.",
+      "text": "Authority to take testimony under oath; subpoenas.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-233",
+      "number": "12-233.",
+      "heading": "Examination of returns by commissioner. Deadlines for mailing deficiency assessments. Penalties for deficiencies. Payment by taxpayer.",
+      "text": "Examination of returns by commissioner. Deadlines for mailing deficiency assessments. Penalties for deficiencies. Payment by taxpayer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-234",
+      "number": "12-234.",
+      "heading": "Settlement with Treasurer.",
+      "text": "Settlement with Treasurer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-235",
+      "number": "12-235.",
+      "heading": "Delinquent taxes; interest; collection.",
+      "text": "Delinquent taxes; interest; collection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-235a",
+      "number": "12-235a.",
+      "heading": "Disallowance of credits if taxes due and unpaid.",
+      "text": "Disallowance of credits if taxes due and unpaid.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-236",
+      "number": "12-236.",
+      "heading": "Hearing by commissioner.",
+      "text": "Hearing by commissioner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-237",
+      "number": "12-237.",
+      "heading": "Appeal.",
+      "text": "Appeal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-238",
+      "number": "12-238.",
+      "heading": "Abatement of taxes.",
+      "text": "Abatement of taxes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-239",
+      "number": "12-239.",
+      "heading": "Abatement of taxes on motor bus company in receivership.",
+      "text": "Abatement of taxes on motor bus company in receivership.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-240",
+      "number": "12-240.",
+      "heading": "Publication and disclosure of information.",
+      "text": "Publication and disclosure of information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-241",
+      "number": "12-241.",
+      "heading": "Tax to be in lieu of other taxes.",
+      "text": "Tax to be in lieu of other taxes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-241a",
+      "number": "12-241a.",
+      "heading": "Definition.",
+      "text": "Definition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-242",
+      "number": "12-242.",
+      "heading": "Regulations.",
+      "text": "Regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-242a",
+      "number": "12-242a",
+      "heading": "to 12-242c. - Definitions. When declaration of estimated tax required. Installment payment on estimated tax.",
+      "text": "to 12-242c. - Definitions. When declaration of estimated tax required. Installment payment on estimated tax.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-242d",
+      "number": "12-242d.",
+      "heading": "Installment payment of estimated tax. Interest on underpayments.",
+      "text": "Installment payment of estimated tax. Interest on underpayments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-242e",
+      "number": "12-242e.",
+      "heading": "Disposition of installments.",
+      "text": "Disposition of installments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-242f",
+      "number": "12-242f.",
+      "heading": "Obligations of fiduciary.",
+      "text": "Obligations of fiduciary.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-242g",
+      "number": "12-242g.",
+      "heading": "Overpayments.",
+      "text": "Overpayments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-242h",
+      "number": "12-242h.",
+      "heading": "Regulations.",
+      "text": "Regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-242i",
+      "number": "12-242i.",
+      "heading": "Declaration as return.",
+      "text": "Declaration as return.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-12-242j",
+      "number": "12-242j",
+      "heading": "to 12-242z. - Reserved for future use.",
+      "text": "to 12-242z. - Reserved for future use.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

@@ -1,0 +1,630 @@
+{
+  "state": "vermont",
+  "path": "title-title-18-health/chapter-chapter221health-care-administration",
+  "sections": [
+    {
+      "id": "section-retary",
+      "number": "retary",
+      "heading": "of the Senate",
+      "text": "of the Senate",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9401",
+      "number": "9401.",
+      "heading": "Policy",
+      "text": "Policy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9402",
+      "number": "9402.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9403",
+      "number": "9403.",
+      "heading": "Statewide Health Care Delivery Strategic Plan",
+      "text": "Statewide Health Care Delivery Strategic Plan",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9403a",
+      "number": "9403a.",
+      "heading": "Health Care Delivery Advisory Committee",
+      "text": "Health Care Delivery Advisory Committee",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9403b",
+      "number": "9403b.",
+      "heading": "Vermont Steering Committee for Comprehensive Primary Health Care",
+      "text": "Vermont Steering Committee for Comprehensive Primary Health Care",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9404",
+      "number": "9404.",
+      "heading": "Administration",
+      "text": "Administration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9405",
+      "number": "9405.",
+      "heading": "State Health Improvement Plan; Health Resource Allocation Plan",
+      "text": "State Health Improvement Plan; Health Resource Allocation Plan",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9405a",
+      "number": "9405a.",
+      "heading": "Public participation and strategic planning",
+      "text": "Public participation and strategic planning",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9405b",
+      "number": "9405b.",
+      "heading": "Hospital community reports and ambulatory surgical center quality reports",
+      "text": "Hospital community reports and ambulatory surgical center quality reports",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9405c",
+      "number": "9405c.",
+      "heading": "Notice of acquisition",
+      "text": "Notice of acquisition",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9406",
+      "number": "9406.",
+      "heading": "Reporting on participation in 340B drug pricing program [Repealed effective January 1, 2031]",
+      "text": "Reporting on participation in 340B drug pricing program [Repealed effective January 1, 2031]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9407",
+      "number": "9407.",
+      "heading": "Outpatient prescription drugs; limitations on hospital charges [Effective January 1, 2026]",
+      "text": "Outpatient prescription drugs; limitations on hospital charges [Effective January 1, 2026]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9408",
+      "number": "9408.",
+      "heading": "Common claims forms and procedures",
+      "text": "Common claims forms and procedures",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9408a",
+      "number": "9408a.",
+      "heading": "Uniform provider credentialing",
+      "text": "Uniform provider credentialing",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9409",
+      "number": "9409.",
+      "heading": "Health care provider bargaining groups",
+      "text": "Health care provider bargaining groups",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9409a",
+      "number": "9409a.",
+      "heading": "Repealed. 2011, No. 171 (Adj. Sess.), § 41(b), effective May 16, 2012.",
+      "text": "Repealed. 2011, No. 171 (Adj. Sess.), § 41(b), effective May 16, 2012.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9410",
+      "number": "9410.",
+      "heading": "Health care database",
+      "text": "Health care database",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9411",
+      "number": "9411.",
+      "heading": "Interactive price transparency dashboard",
+      "text": "Interactive price transparency dashboard",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9412",
+      "number": "9412.",
+      "heading": "Enforcement",
+      "text": "Enforcement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9413",
+      "number": "9413.",
+      "heading": "Health care quality and price comparison",
+      "text": "Health care quality and price comparison",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9414",
+      "number": "9414.",
+      "heading": "Quality assurance for managed care",
+      "text": "Quality assurance for managed care",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9414a",
+      "number": "9414a.",
+      "heading": "Annual reporting by health insurers",
+      "text": "Annual reporting by health insurers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9415",
+      "number": "9415.",
+      "heading": "Repealed. 2015, No. 54, § 61.",
+      "text": "Repealed. 2015, No. 54, § 61.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9416",
+      "number": "9416.",
+      "heading": "Vermont Program for Quality in Health Care",
+      "text": "Vermont Program for Quality in Health Care",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9417",
+      "number": "9417.",
+      "heading": "Tax-advantaged accounts for health-related expenses; administration; rulemaking",
+      "text": "Tax-advantaged accounts for health-related expenses; administration; rulemaking",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9418",
+      "number": "9418.",
+      "heading": "Payment for health care services",
+      "text": "Payment for health care services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9418a",
+      "number": "9418a.",
+      "heading": "Processing claims, downcoding, and adherence to coding rules  [Effective until January 1, 2026; see also section 9418a effective January 1, 2026 set out below]",
+      "text": "Processing claims, downcoding, and adherence to coding rules [Effective until January 1, 2026; see also section 9418a effective January 1, 2026 set out below]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9418b",
+      "number": "9418b.",
+      "heading": "Prior authorization",
+      "text": "Prior authorization",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9418c",
+      "number": "9418c.",
+      "heading": "Fair contract standards",
+      "text": "Fair contract standards",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9418d",
+      "number": "9418d.",
+      "heading": "Contract amendments",
+      "text": "Contract amendments",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9418e",
+      "number": "9418e.",
+      "heading": "Most favored nation clauses prohibited",
+      "text": "Most favored nation clauses prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9418f",
+      "number": "9418f.",
+      "heading": "Rental network contracts",
+      "text": "Rental network contracts",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9418g",
+      "number": "9418g.",
+      "heading": "Enforcement",
+      "text": "Enforcement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9419",
+      "number": "9419.",
+      "heading": "Charges for access to medical records",
+      "text": "Charges for access to medical records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9420",
+      "number": "9420.",
+      "heading": "Conversion of nonprofit hospitals",
+      "text": "Conversion of nonprofit hospitals",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9421",
+      "number": "9421.",
+      "heading": "Pharmacy benefit management; registration; insurer audit of pharmacy benefit manager activities [Repealed effective July 1, 2029]",
+      "text": "Pharmacy benefit management; registration; insurer audit of pharmacy benefit manager activities [Repealed effective July 1, 2029]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9422",
+      "number": "9422.",
+      "heading": "Credit card payments optional for providers",
+      "text": "Credit card payments optional for providers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9423-9424",
+      "number": "9423-9424.",
+      "heading": "Repealed. 1995, No. 180 (Adj. Sess.), § 22.",
+      "text": "Repealed. 1995, No. 180 (Adj. Sess.), § 22.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9431",
+      "number": "9431.",
+      "heading": "Policy and purpose",
+      "text": "Policy and purpose",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9432",
+      "number": "9432.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9433",
+      "number": "9433.",
+      "heading": "Administration",
+      "text": "Administration",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9434",
+      "number": "9434.",
+      "heading": "Certificate of need; general rules",
+      "text": "Certificate of need; general rules",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9435",
+      "number": "9435.",
+      "heading": "Exclusions",
+      "text": "Exclusions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9436",
+      "number": "9436.",
+      "heading": "Repealed. 2003, No. 53, § 27(3).",
+      "text": "Repealed. 2003, No. 53, § 27(3).",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9437",
+      "number": "9437.",
+      "heading": "Criteria",
+      "text": "Criteria",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9438",
+      "number": "9438.",
+      "heading": "Repealed. 1995, No.180 (Adj. Sess.), § 32.",
+      "text": "Repealed. 1995, No.180 (Adj. Sess.), § 32.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9439",
+      "number": "9439.",
+      "heading": "Competing applications",
+      "text": "Competing applications",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9440",
+      "number": "9440.",
+      "heading": "Procedures",
+      "text": "Procedures",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9440a",
+      "number": "9440a.",
+      "heading": "Applications, information, and testimony; oath required",
+      "text": "Applications, information, and testimony; oath required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9440b",
+      "number": "9440b.",
+      "heading": "Information technology; review procedures",
+      "text": "Information technology; review procedures",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9441",
+      "number": "9441.",
+      "heading": "Fees",
+      "text": "Fees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9442",
+      "number": "9442.",
+      "heading": "Bonds",
+      "text": "Bonds",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9443",
+      "number": "9443.",
+      "heading": "Expiration of certificates of need",
+      "text": "Expiration of certificates of need",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9444",
+      "number": "9444.",
+      "heading": "Revocation of certificates; material change",
+      "text": "Revocation of certificates; material change",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9445",
+      "number": "9445.",
+      "heading": "Enforcement",
+      "text": "Enforcement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9446",
+      "number": "9446.",
+      "heading": "Home health agencies; geographic service areas",
+      "text": "Home health agencies; geographic service areas",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9451",
+      "number": "9451.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9452",
+      "number": "9452.",
+      "heading": "Repealed. 1995, No. 180 (Adj. Sess.), § 36.",
+      "text": "Repealed. 1995, No. 180 (Adj. Sess.), § 36.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9453",
+      "number": "9453.",
+      "heading": "Powers and duties",
+      "text": "Powers and duties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9454",
+      "number": "9454.",
+      "heading": "Hospitals; duties",
+      "text": "Hospitals; duties",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9455",
+      "number": "9455.",
+      "heading": "Repealed. 1995, No. 180 (Adj. Sess.), § 36.",
+      "text": "Repealed. 1995, No. 180 (Adj. Sess.), § 36.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9456",
+      "number": "9456.",
+      "heading": "Budget review",
+      "text": "Budget review",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9457",
+      "number": "9457.",
+      "heading": "Information available to the public",
+      "text": "Information available to the public",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9458",
+      "number": "9458.",
+      "heading": "Hospital networks; structure; financial operations",
+      "text": "Hospital networks; structure; financial operations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9461",
+      "number": "9461.",
+      "heading": "Quality measures",
+      "text": "Quality measures",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9462",
+      "number": "9462.",
+      "heading": "Quality improvement projects",
+      "text": "Quality improvement projects",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9471",
+      "number": "9471.",
+      "heading": "Definitions [Repealed effective July 1, 2029]",
+      "text": "Definitions [Repealed effective July 1, 2029]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9472",
+      "number": "9472.",
+      "heading": "Pharmacy benefit managers; required practices with respect to health insurers and covered persons [Repealed effective July 1, 2029]",
+      "text": "Pharmacy benefit managers; required practices with respect to health insurers and covered persons [Repealed effective July 1, 2029]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9473",
+      "number": "9473.",
+      "heading": "Pharmacy benefit managers; required practices with respect to pharmacies [Repealed effective July 1, 2029]",
+      "text": "Pharmacy benefit managers; required practices with respect to pharmacies [Repealed effective July 1, 2029]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9474",
+      "number": "9474.",
+      "heading": "Enforcement [Repealed effective July 1, 2029]",
+      "text": "Enforcement [Repealed effective July 1, 2029]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9481",
+      "number": "9481.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9482",
+      "number": "9482.",
+      "heading": "Financial assistance policies for large health care facilities",
+      "text": "Financial assistance policies for large health care facilities",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9483",
+      "number": "9483.",
+      "heading": "Implementation of financial assistance policy",
+      "text": "Implementation of financial assistance policy",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9484",
+      "number": "9484.",
+      "heading": "Public education and information",
+      "text": "Public education and information",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9485",
+      "number": "9485.",
+      "heading": "Prohibition on sale or reporting of medical debt",
+      "text": "Prohibition on sale or reporting of medical debt",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9486",
+      "number": "9486.",
+      "heading": "Prohibition of waiver of rights",
+      "text": "Prohibition of waiver of rights",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9487",
+      "number": "9487.",
+      "heading": "Enforcement",
+      "text": "Enforcement",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

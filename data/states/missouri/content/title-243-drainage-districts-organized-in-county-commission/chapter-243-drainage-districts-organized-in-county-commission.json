@@ -1,0 +1,502 @@
+{
+  "state": "missouri",
+  "path": "title-243-drainage-districts-organized-in-county-commission/chapter-243-drainage-districts-organized-in-county-commission",
+  "sections": [
+    {
+      "id": "section-243010",
+      "number": "243.010",
+      "heading": "Definitions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243020",
+      "number": "243.020",
+      "heading": "County commission authorized to organize drainage districts.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243030",
+      "number": "243.030",
+      "heading": "Petition to be filed — bond required.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243040",
+      "number": "243.040",
+      "heading": "County commission to appoint counsel.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243050",
+      "number": "243.050",
+      "heading": "County commission to appoint engineer and viewers — qualifications and duties.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243060",
+      "number": "243.060",
+      "heading": "Time of hearing to be published — form of notice.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243070",
+      "number": "243.070",
+      "heading": "Remonstrance may be filed — judgment, effect.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243075",
+      "number": "243.075",
+      "heading": "Dissolution of district, when, how.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243080",
+      "number": "243.080",
+      "heading": "Location of improvement — report to contain data as to cost.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243090",
+      "number": "243.090",
+      "heading": "Report to be filed, when — landowners may be heard — vacancies, how filled.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243100",
+      "number": "243.100",
+      "heading": "Limitations for assessment of benefits.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243110",
+      "number": "243.110",
+      "heading": "Notice of filing of report to be published — form.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243120",
+      "number": "243.120",
+      "heading": "Exceptions to report — appeal to circuit court — procedure — new notice to ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243130",
+      "number": "243.130",
+      "heading": "Condemnation of additional land.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243140",
+      "number": "243.140",
+      "heading": "Lands lying outside district may be annexed, when — proceedings.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243150",
+      "number": "243.150",
+      "heading": "Taxes to be levied against county-owned swamplands, how paid.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243160",
+      "number": "243.160",
+      "heading": "Authority to complete improvements in county commission — powers of procedure.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243170",
+      "number": "243.170",
+      "heading": "District engineer to be appointed — duties — bond required.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243180",
+      "number": "243.180",
+      "heading": "Engineer to let work — bidders to give bond — county commission to approve ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243190",
+      "number": "243.190",
+      "heading": "Engineer to issue certificate of acceptance, when — provisions for payment ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243200",
+      "number": "243.200",
+      "heading": "Provisions for necessary construction or enlargement — when owned by ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243210",
+      "number": "243.210",
+      "heading": "Provisions of this chapter applicable to old channels or sloughs.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243220",
+      "number": "243.220",
+      "heading": "Repairs and improvements, how made — hearing when cost exceeds maintenance ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243230",
+      "number": "243.230",
+      "heading": "County commission procedure after hearing.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243240",
+      "number": "243.240",
+      "heading": "County commissions to maintain efficiency and have management and control.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243250",
+      "number": "243.250",
+      "heading": "Lateral ditches — drains — may be connected — provisions — penalty for ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243260",
+      "number": "243.260",
+      "heading": "Districts may contract with other districts for outlets — costs determined, how.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243270",
+      "number": "243.270",
+      "heading": "Drainage district may contract to furnish drainage for cities and towns.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243280",
+      "number": "243.280",
+      "heading": "Equipment may be leased or rented — provisions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243290",
+      "number": "243.290",
+      "heading": "County commission to levy tax to pay preliminary expense.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243300",
+      "number": "243.300",
+      "heading": "County commission to levy tax on benefits assessed — form of county clerk's ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243310",
+      "number": "243.310",
+      "heading": "Permanent drainage tax record shall be kept — method — additional levies.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243320",
+      "number": "243.320",
+      "heading": "Public roads and railroads to pay benefits.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243330",
+      "number": "243.330",
+      "heading": "Maintenance tax, how apportioned — commission may purchase equipment — cost ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243340",
+      "number": "243.340",
+      "heading": "Privilege to pay drainage tax in full.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243350",
+      "number": "243.350",
+      "heading": "Apportionment of annual installments — drainage tax book, form — taxes due, ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243360",
+      "number": "243.360",
+      "heading": "Drainage tax — collector to furnish bond.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243370",
+      "number": "243.370",
+      "heading": "Drainage taxes constitute a lien — court action when delinquent — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243380",
+      "number": "243.380",
+      "heading": "Surplus funds, how used.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243390",
+      "number": "243.390",
+      "heading": "Drainage district bonds — provisions for issuance.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243400",
+      "number": "243.400",
+      "heading": "County commission authorized to pledge bonds — manner.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243410",
+      "number": "243.410",
+      "heading": "County treasurer to be custodian of district funds — duties.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243420",
+      "number": "243.420",
+      "heading": "Fees for services.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243430",
+      "number": "243.430",
+      "heading": "Claims for fees, how paid.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243440",
+      "number": "243.440",
+      "heading": "Drainage proceedings to be recorded — method.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243450",
+      "number": "243.450",
+      "heading": "All or portions of districts may reorganize and consolidate under sections ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243460",
+      "number": "243.460",
+      "heading": "Notice to be published — form — jurisdiction of circuit court.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243470",
+      "number": "243.470",
+      "heading": "Objections to petition for consolidation may be filed — proceedings.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243475",
+      "number": "243.475",
+      "heading": "Consolidation of district organized by circuit court and district organized ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243480",
+      "number": "243.480",
+      "heading": "Failure or refusal of official to perform duty — penalty.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243490",
+      "number": "243.490",
+      "heading": "County collector liable, when — penalty.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243500",
+      "number": "243.500",
+      "heading": "Validity of bonds issued unquestionable.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243510",
+      "number": "243.510",
+      "heading": "Suits to be brought in name of state.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243520",
+      "number": "243.520",
+      "heading": "Appeals — procedure.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243530",
+      "number": "243.530",
+      "heading": "Chapter declared remedial in character and purpose.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243540",
+      "number": "243.540",
+      "heading": "Penalty for violation of provisions of chapter.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243550",
+      "number": "243.550",
+      "heading": "Petition for reassessment of benefits, form — procedure for maintenance ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243551",
+      "number": "243.551",
+      "heading": "County commission to appoint three viewers, qualifications, duties — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243553",
+      "number": "243.553",
+      "heading": "Installments payable, when.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243560",
+      "number": "243.560",
+      "heading": "Bond issues authorized, amount — rate — payable when — county treasurer to ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243561",
+      "number": "243.561",
+      "heading": "County commission to appropriate money to pay principal and interest on ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-243563",
+      "number": "243.563",
+      "heading": "Proceeds of assessment insufficient to pay principal and interest on bonds, ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

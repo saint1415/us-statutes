@@ -1,0 +1,646 @@
+{
+  "state": "florida",
+  "path": "title-chapter-0721/chapter-chapter-0721",
+  "sections": [
+    {
+      "id": "section-72101short",
+      "number": "721.01Short",
+      "heading": "title.721.02Purposes.721.03Scope of chapter",
+      "text": "721.04Saving clause.721.05Definitions.721.056Supervisory duties of developer.721.06Contracts for purchase of timeshare interests.721.065Resale purchase agreements.721.07Public offering statement.721.071Trade secrets.721.075Incidental benefits.721.08Escrow",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72102purposes",
+      "number": "721.02Purposes",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72103scope",
+      "number": "721.03Scope",
+      "heading": "of chapter.",
+      "text": "of chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72104saving",
+      "number": "721.04Saving",
+      "heading": "clause.",
+      "text": "clause.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72105definitions",
+      "number": "721.05Definitions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-721056supervisory",
+      "number": "721.056Supervisory",
+      "heading": "duties of developer.",
+      "text": "duties of developer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72106contracts",
+      "number": "721.06Contracts",
+      "heading": "for purchase of timeshare interests.",
+      "text": "for purchase of timeshare interests.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-721065resale",
+      "number": "721.065Resale",
+      "heading": "purchase agreements.",
+      "text": "purchase agreements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72107public",
+      "number": "721.07Public",
+      "heading": "offering statement.",
+      "text": "offering statement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-721071trade",
+      "number": "721.071Trade",
+      "heading": "secrets.",
+      "text": "secrets.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-721075incidental",
+      "number": "721.075Incidental",
+      "heading": "benefits.",
+      "text": "benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72108escrow",
+      "number": "721.08Escrow",
+      "heading": "accounts; nondisturbance instruments; alternate security arrangements; transfer of legal title.",
+      "text": "accounts; nondisturbance instruments; alternate security arrangements; transfer of legal title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72109reservation",
+      "number": "721.09Reservation",
+      "heading": "agreements; escrows.",
+      "text": "agreements; escrows.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72110cancellation",
+      "number": "721.10Cancellation",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72111advertising",
+      "number": "721.11Advertising",
+      "heading": "materials; oral statements.",
+      "text": "materials; oral statements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-721111prize",
+      "number": "721.111Prize",
+      "heading": "and gift promotional offers.",
+      "text": "and gift promotional offers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72112recordkeeping",
+      "number": "721.12Recordkeeping",
+      "heading": "by seller.",
+      "text": "by seller.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-721121recordkeeping",
+      "number": "721.121Recordkeeping",
+      "heading": "by resale service providers and lead dealers.",
+      "text": "by resale service providers and lead dealers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-721125termination",
+      "number": "721.125Termination",
+      "heading": "of timeshare plans.",
+      "text": "of timeshare plans.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7211255extension",
+      "number": "721.1255Extension",
+      "heading": "of timeshare plans.",
+      "text": "of timeshare plans.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72113management",
+      "number": "721.13Management",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72114discharge",
+      "number": "721.14Discharge",
+      "heading": "of managing entity.",
+      "text": "of managing entity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72115assessments",
+      "number": "721.15Assessments",
+      "heading": "for common expenses.",
+      "text": "for common expenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72116liens",
+      "number": "721.16Liens",
+      "heading": "for overdue assessments; liens for labor performed on, or materials furnished to, a timeshare unit.",
+      "text": "for overdue assessments; liens for labor performed on, or materials furnished to, a timeshare unit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-721165insurance",
+      "number": "721.165Insurance",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72117transfer",
+      "number": "721.17Transfer",
+      "heading": "of interest; resale transfer agreements.",
+      "text": "of interest; resale transfer agreements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72118exchange",
+      "number": "721.18Exchange",
+      "heading": "programs; filing of information and other materials; filing fees; unlawful acts in connection with an exchange program.",
+      "text": "programs; filing of information and other materials; filing fees; unlawful acts in connection with an exchange program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72119provisions",
+      "number": "721.19Provisions",
+      "heading": "requiring purchase or lease of timeshare property by owners’ association or purchasers; validity.",
+      "text": "requiring purchase or lease of timeshare property by owners’ association or purchasers; validity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72120licensing",
+      "number": "721.20Licensing",
+      "heading": "requirements; suspension or revocation of license; exceptions to applicability; collection of advance fees for listings unlawful.",
+      "text": "requirements; suspension or revocation of license; exceptions to applicability; collection of advance fees for listings unlawful.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-721205resale",
+      "number": "721.205Resale",
+      "heading": "service providers; disclosure obligations.",
+      "text": "service providers; disclosure obligations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72122partition",
+      "number": "721.22Partition",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72123securities",
+      "number": "721.23Securities",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-urities",
+      "number": "urities",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72124firesafety",
+      "number": "721.24Firesafety",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72125zoning",
+      "number": "721.25Zoning",
+      "heading": "and building.",
+      "text": "and building.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72126regulation",
+      "number": "721.26Regulation",
+      "heading": "by division.",
+      "text": "by division.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-721265service",
+      "number": "721.265Service",
+      "heading": "of process.",
+      "text": "of process.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72127annual",
+      "number": "721.27Annual",
+      "heading": "fee for each timeshare unit in plan.",
+      "text": "fee for each timeshare unit in plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72128division",
+      "number": "721.28Division",
+      "heading": "of Florida Condominiums, Timeshares, and Mobile Homes Trust Fund.",
+      "text": "of Florida Condominiums, Timeshares, and Mobile Homes Trust Fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72129recording",
+      "number": "721.29Recording",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-721301florida",
+      "number": "721.301Florida",
+      "heading": "Timesharing, Vacation Club, and Hospitality Program.",
+      "text": "Timesharing, Vacation Club, and Hospitality Program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72132effect",
+      "number": "721.32Effect",
+      "heading": "of ch. 2000-302.",
+      "text": "of ch. 2000-302.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72102purposes",
+      "number": "721.02Purposes.",
+      "heading": "The purposes of this chapter are to:(1)Give statutory recognition to real property timeshare plans and personal property timeshare plans in this state",
+      "text": "(2)Establish procedures for the creation, sale, exchange, promotion, and operation of timeshare plans.(3)Provide full and fair disclosure to the purc",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-s",
+      "number": "s",
+      "heading": "718.202 and 719.202, relating to sales or reservation deposits prior to closing.",
+      "text": "718.202 and 719.202, relating to sales or reservation deposits prior to closing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72105definitions",
+      "number": "721.05Definitions.",
+      "heading": "As used in this chapter, the term:(1)“Accommodation” means any apartment, condominium or cooperative unit, cabin, lodge, hotel or motel room, campground, cruise ship cabin, houseboat or other vessel, recreational or other motor vehicle, or any private or commercial structure which is real or persona",
+      "text": "As used in this chapter, the term:(1)“Accommodation” means any apartment, condominium or cooperative unit, cabin, lodge, hotel or motel room, campground, cruise ship cabin, houseboat or other vessel, recreational or other motor vehicle, or any private or commercial structure which is real or personal property and designed for overnight occupancy by one or more individuals. The term does not include an incidental benefit as defined in this section.(2)“Agreement for deed” means any written contract utilized in the sale of timeshare estates which provides that legal title will not be conveyed to the purchaser until the contract price has been paid in full and the terms of payment of which extend for a period in excess of 180 days after either the date of execution of the contract or completion of construction, whichever occurs later.(3)“Agreement for transfer” means any written contract utilized in the sale of personal property timeshare interests which provides that legal title will not be transferred to the purchaser until the contract price has been paid in full and the terms of payment of which extend for a period in excess of 180 days after either the date of execution of the contract or completion of construction, whichever occurs later.(4)“Assessment” means the share of funds required for the payment of common expenses which is assessed from time to time against each purchaser by the managing entity.(5)“Closing” means:(a)For any plan selling timeshare estates, conveyance of the legal or beneficial title to a timeshare estate as evidenced by the delivery of a deed for conveyance of legal title, or other instrument for conveyance of beneficial title, to the purchaser or to the clerk of the court for recording or conveyance of the equitable title to a timeshare estate as evidenced by the irretrievable delivery of an agreement for deed to the clerk of the court for recording.(b)For any plan selling timeshare licenses or personal property timeshare interests, the final execution and delivery by all parties of the last document necessary for vesting in the purchaser the full rights available under the plan.(6)“Common expenses” means:(a)Those expenses, fees, or taxes properly incurred for the maintenance, operation, and repair of the accommodations or facilities, or both, constituting the timeshare plan.(b)Any other expenses, fees, or taxes designated as common expenses in a timeshare instrument.(c)Any past due and uncollected ad valorem taxes assessed against a timeshare development pursuant to s. 192.037.(7)“Completion of construction” means:(a)1.That a certificate of occupancy has been issued for the entire building in which the timeshare unit being sold is located, or for the improvement, or that the equivalent authorization has been issued, by the governmental body having jurisdiction;2.In a jurisdiction in which no certificate of occupancy or equivalent authorization is issued, that the construction, finishing, and equipping of the building or improvements according to the plans and specifications have been substantially completed; or3.With respect to personal property timeshare plans, that all accommodations have been manufactured or built and acquired or leased by the developer, owners’ association, managing entity, trustee, or other person for the use of purchasers as set forth in the timeshare instrument; and(b)That all accommodations and facilities of the timeshare plan are available for use in a manner identical in all material respects to the manner portrayed by the promotional material, advertising, and filed public offering statements.(8)“Conspicuous type” means:(a)Type in upper and lower case letters two point sizes larger than the largest nonconspicuous type, exclusive of headings, on the page on which it appears but in at least 10-point type; or(b)Where the use of 10-point type would be impractical or impossible with respect to a particular piece of written advertising material, a different style of type or print may be used, so long as the print remains conspicuous under the circumstances.Where conspicuous type is required, it must be separated on all sides from other type and print. Conspicuous type may be utilized in contracts for purchase or public offering statements only where required by law or as authorized by the division.(9)“Contract” means any agreement conferring the rights and obligations of a timeshare plan on the purchaser.(10)“Developer” includes:(a)1.A “creating developer,” which means any person who creates the timeshare plan;2.A “successor developer,” which means any person who succeeds to the interest of the persons in this subsection by sale, lease, assignment, mortgage, or other transfer, but the term includes only those persons who offer timeshare interests in the ordinary course of business; and3.A “concurrent developer,” which means any person acting concurrently with the persons in this subsection with the purpose of offering timeshare interests in the ordinary course of business.(b)The term “developer” does not include:1.An owner of a timeshare interest who has acquired the timeshare interest for his or her own use and occupancy and who later offers it for resale; provided that a rebuttable presumption exists that an owner who has acquired more than seven timeshare interests did not acquire them for his or her own use and occupancy;2.A managing entity, not otherwise a developer, that offers, or engages a third party to offer on its behalf, timeshare interests in a timeshare plan which it manages, provided that such offer complies with the provisions of s. 721.065;3.A person who owns or is conveyed, assigned, or transferred more than seven timeshare interests and who subsequently conveys, assigns, or transfers all acquired timeshare interests to a single purchaser in a single transaction, which transaction may occur in stages; or4.A person who acquires or has the right to acquire more than seven timeshare interests from a developer or other interestholder in connection with a loan, securitization, conduit, or similar financing arrangement transaction and who subsequently arranges for all or a portion of the timeshare interests to be offered by a developer in the ordinary course of business on its own behalf or on behalf of such person.(c)A successor or concurrent developer is exempt from any liability inuring to a predecessor or concurrent developer of the same timeshare plan, except as provided in s. 721.15(7). This exemption does not apply to any of the successor or concurrent developer’s responsibilities, duties, or liabilities with respect to the timeshare plan which accrue after the date the successor or concurrent developer became a successor or concurrent developer, and such transfer does not constitute a fraudulent transfer. A transfer by a predecessor developer to a successor or concurrent developer shall be deemed fraudulent if the predecessor developer made the transfer:1.With actual intent to hinder, delay, or defraud any purchaser or the division; or2.To a person that would constitute an insider under s. 726.102.This paragraph does not relieve any successor or concurrent developer from the obligation to comply with the provisions of any applicable timeshare instrument.(11)“Division” means the Division of Florida Condominiums, Timeshares, and Mobile Homes of the Department of Business and Professional Regulation.(12)“Enrolled” means paid membership in an exchange program or membership in an exchange program evidenced by written acceptance or confirmation of membership.(13)“Escrow account” means an account established solely for the purposes set forth in this chapter with a financial institution located within this state.(14)“Escrow agent” includes only:(a)A savings and loan association, bank, trust company, or other financial institution, any of which must be located in this state and any of which must have a net worth in excess of $5 million;(b)An attorney who is a member of The Florida Bar or his or her law firm;(c)A real estate broker who is licensed pursuant to chapter 475 or his or her brokerage firm; or(d)A title insurance agent that is licensed pursuant to s. 626.8417, a title insurance agency that is licensed pursuant to s. 626.8418, or a title insurer authorized to transact business in this state pursuant to s. 624.401.(15)“Exchange company” means any person owning or operating, or owning and operating, an exchange program.(16)“Exchange program” means any method, arrangement, or procedure for the voluntary exchange of the right to use and occupy accommodations and facilities among purchasers. The term does not include the assignment of the right to use and occupy accommodations and facilities to purchasers pursuant to a particular multisite timeshare plan’s reservation system. Any method, arrangement, or procedure that otherwise meets this definition, wherein the purchaser’s total contractual financial obligation exceeds $3,000 per any individual, recurring timeshare period, shall be regulated as a multisite timeshare plan in accordance with part II.(17)“Facility” means any permanent amenity, including any structure, furnishing, fixture, equipment, service, improvement, or real or personal property, improved or unimproved, other than an accommodation of the timeshare plan, which is made available to the purchasers of a timeshare plan. The term does not include an incidental benefit as defined in this section.(18)“Filed public offering statement” means a public offering statement that has been filed with the division pursuant to s. 721.07(5) or s. 721.55.(19)“Incidental benefit” means an accommodation, product, service, discount, or other benefit which is offered to a prospective purchaser of a timeshare plan or to a purchaser of a timeshare plan prior to the expiration of his or her initial 10-day voidability period pursuant to s. 721.10; which is not an exchange program as defined in subsection (16); and which complies with the provisions of s. 721.075. The term shall not include an offer of the use of the accommodations and facilities of the timeshare plan on a free or discounted one-time basis.(20)“Independent,” for purposes of determining eligibility of escrow agents and trustees pursuant to s. 721.03(7), means that:(a)The escrow agent or trustee is not a relative, as described in s. 112.3135(1)(d), or an employee of the developer, seller, or managing entity, or of any officer, director, affiliate, or subsidiary thereof.(b)There is no financial relationship, other than the payment of fiduciary fees or as otherwise provided in this subsection, between the escrow agent or trustee and the developer, seller, or managing entity, or any officer, director, affiliate, or subsidiary thereof.(c)Compensation paid by the developer to an escrow agent or trustee for services rendered shall not be paid from funds in the escrow or trust account unless and until the developer is otherwise entitled to receive the disbursement of such funds from the escrow or trust account pursuant to this chapter.(d)A person shall not be disqualified to serve as an escrow agent or a trustee solely because of the following:1.A nonemployee, attorney-client relationship exists between the developer and the escrow agent or trustee;2.The escrow agent or trustee provides brokerage services as defined by chapter 475 for the developer;3.The escrow agent or trustee provides the developer with routine banking services which do not include construction or receivables financing or any other lending activities; or4.The escrow agent or trustee performs closings for the developer or seller or issues owner’s or lender’s title insurance commitments or policies in connection with such closings.(21)(a)“Interestholder” means a developer, an owner of the underlying fee or owner of the underlying personal property, a mortgagee, judgment creditor, or other lienor, or any other person having an interest in or lien or encumbrance against the accommodations or facilities of the timeshare plan.(b)With respect to a multisite timeshare plan governed by part II which contains a component site that is also part of a single-site timeshare plan or condominium or other property regime, the term, except as to any timeshare interest, timeshare unit, or other unit that is specifically subject to, or otherwise dedicated to, the multisite timeshare plan, does not include a developer; an owner of the underlying fee or owner of the underlying personal property; a mortgagee, judgment creditor, or other lienor; or any other person having an interest in or lien or encumbrance against a timeshare interest in such single-site timeshare plan, or an interest in or lien or encumbrance against a timeshare unit or other unit in such condominium or property regime. This paragraph is intended only as a clarification of existing law.(22)“Managing entity” means the person who operates or maintains the timeshare plan pursuant to s. 721.13(1).(23)“Memorandum of agreement” means a written document, in a form sufficient to permit the document to be recorded or otherwise filed in the appropriate public records and to provide constructive notice of its contents under applicable law, which includes the names of the seller and the purchasers, a legal description of the timeshare property or other sufficient description for a personal property timeshare plan, and all timeshare interests to be included in such document, and a description of the type of timeshare interest sold by the seller.(24)“Offer to sell,” “offer for sale,” “offered for sale,” or “offer” means the solicitation, advertisement, or inducement, or any other method or attempt, to encourage any person to acquire the opportunity to participate in a timeshare plan.(25)“One-to-one use right to use night requirement ratio” means that the sum of the nights that owners are entitled to use in a given 12-month period shall not exceed the number of nights available for use by those owners during the same 12-month period. No individual timeshare unit may be counted as providing more than 365 use nights per 12-month period or more than 366 use nights per 12-month period that includes February 29. The use rights of each owner shall be counted without regard to whether the owner’s use rights have been suspended for failure to pay assessments or otherwise.(26)“Owner of the underlying fee” or “owner of the underlying personal property” means any person having an interest in the real property or personal property comprising or underlying the accommodations or facilities of a timeshare plan at or subsequent to the time of creation of the timeshare plan.(27)“Owners’ association” means an association made up of all owners of timeshare interests in a timeshare plan, including developers and purchasers of such timeshare plan.(28)“Personal property timeshare interest” means a right to occupy an accommodation located on or in or comprised of personal property that is not permanently affixed to real property, whether or not coupled with a beneficial or ownership interest in the accommodations or personal property.(29)“Public offering statement” means the written materials describing a single-site timeshare plan or a multisite timeshare plan, including a text and any exhibits attached thereto as required by ss. 721.07, 721.55, and 721.551. The term “public offering statement” shall refer to both a filed public offering statement and a purchaser public offering statement.(30)“Purchaser” means any person, other than a developer, who by means of a voluntary transfer acquires a legal or equitable interest in a timeshare plan other than as security for an obligation.(31)“Purchaser public offering statement” means that portion of the filed public offering statement which must be delivered to purchasers pursuant to s. 721.07(6) or s. 721.551.(32)“Regulated short-term product” means a contractual right, offered by the seller, to use accommodations of a timeshare plan or other accommodations, provided that:(a)The agreement to purchase the short-term right to use is executed in this state on the same day that the prospective purchaser receives an offer to acquire an interest in a timeshare plan and does not execute a purchase contract, after attending a sales presentation; and(b)The acquisition of the right to use includes an agreement that all or a portion of the consideration paid by the prospective purchaser for the right to use will be applied to or credited against the price of a future purchase of a timeshare interest, or that the cost of a future purchase of a timeshare interest will be fixed or locked in at a specified price.(33)“Seller” means any developer or any other person, or any agent or employee thereof, who offers timeshare interests in the ordinary course of business. The term “seller” does not include:(a)An owner of a timeshare interest who has acquired the timeshare interest for his or her own use and occupancy and who later offers it for resale; provided that a rebuttable presumption shall exist that an owner who has acquired more than seven timeshare interests did not acquire them for his or her own use and occupancy;(b)A managing entity, not otherwise a seller, that offers, or engages a third party to offer on its behalf, timeshare interests in a timeshare plan which it manages, provided that such offer complies with the provisions of s. 721.065;(c)A person who owns or is conveyed, assigned, or transferred more than seven timeshare interests and who subsequently conveys, assigns, or transfers all acquired timeshare interests to a single purchaser in a single transaction, which transaction may occur in stages; or(d)A person who has acquired or has the right to acquire more than seven timeshare interests from a developer or other interestholder in connection with a loan, securitization, conduit, or similar financing arrangement and who subsequently arranges for all or a portion of the timeshare interests to be offered by one or more developers in the ordinary course of business on their own behalves or on behalf of such person.(34)“Timeshare estate” means a right to occupy a timeshare unit, coupled with a freehold estate or an estate for years with a future interest in a timeshare property or a specified portion thereof, or coupled with an ownership interest in a condominium unit pursuant to s. 718.103, an ownership interest in a cooperative unit pursuant to s. 719.103, or a direct or indirect beneficial interest in a trust that complies in all respects with s. 721.08(2)(c)4. or s. 721.53(1)(e), provided that the trust does not contain any personal property timeshare interests. A timeshare estate is a parcel of real property under the laws of this state.(35)“Timeshare instrument” means one or more documents, by whatever name denominated, creating or governing the operation of a timeshare plan.(36)“Timeshare interest” means a timeshare estate, a personal property timeshare interest, or a timeshare license.(37)“Timeshare license” means a right to occupy a timeshare unit, which right is not a personal property timeshare interest or a timeshare estate.(38)“Timeshare period” means the period or periods of time when a purchaser of a timeshare interest is afforded the opportunity to use the accommodations of a timeshare plan.(39)“Timeshare plan” means any arrangement, plan, scheme, or similar device, other than an exchange program, whether by membership, agreement, tenancy in common, sale, lease, deed, rental agreement, license, or right-to-use agreement or by any other means, whereby a purchaser, for consideration, receives ownership rights in or a right to use accommodations, and facilities, if any, for a period of time less than a full year during any given year, but not necessarily for consecutive years. The term “timeshare plan” includes:(a)A “personal property timeshare plan,” which means a timeshare plan in which the accommodations are comprised of personal property that is not permanently affixed to real property; and(b)A “real property timeshare plan,” which means a timeshare plan in which the accommodations of the timeshare plan are comprised of or permanently affixed to real property.(40)“Timeshare property” means one or more timeshare units subject to the same timeshare instrument, together with any other property or rights to property appurtenant to those timeshare units. Notwithstanding anything to the contrary contained in chapter 718 or chapter 719, the timeshare instrument for a timeshare condominium or cooperative may designate personal property, contractual rights, affiliation agreements of component sites of vacation clubs, exchange companies, or reservation systems, or any other agreements or personal property, as common elements or limited common elements of the timeshare condominium or cooperative.(41)“Timeshare unit” means an accommodation of a timeshare plan which is divided into timeshare periods. Any timeshare unit in which a door or doors connecting two or more separate rooms are capable of being locked to create two or more private dwellings shall only constitute one timeshare unit for purposes of this chapter, unless the timeshare instrument provides that timeshare interests may be separately conveyed in such locked-off portions.(42)“Lead dealer” means any person who sells or otherwise provides a resale service provider or any other person with personal contact information for five or more owners of timeshare interests. In the event a lead dealer is not a natural person, the term shall also include the natural person providing personal contact information to a resale service provider or other person on behalf of the lead dealer entity. The term does not include developers, managing entities, or exchange companies to the extent they provide others with personal contact information about owners of timeshare interests in their own timeshare plans or members of their own exchange programs. The term does not include persons providing personal contact information that is not designed specifically or primarily to identify owners of timeshare interests even though the information provided may include five or more owners of timeshare interests.(43)“Personal contact information” means any information that can be used to contact the owner of a specific timeshare interest, including, but not limited to, the owner’s name, address, telephone number, and e-mail address.(44)“Resale service provider” means any resale advertiser, or other person or entity, including any agent or employee of such person or entity, who offers or uses telemarketing, direct mail, e-mail, or any other means of communication in connection with the offering of resale brokerage or resale advertising services to consumer timeshare resellers. The term does not include developers or managing entities to the extent they offer resale brokerage or resale advertising services to owners of timeshare interests in their own timeshare plans; resale brokers to the extent that resale advertising services are offered in connection with resale brokerage services and no fee for the advertising service is collected in advance; or a consumer timeshare reseller who acquires a timeshare interest or timeshare interests for his or her own use and occupancy and who later offers the timeshare interest or timeshare interests for rent or offers for resale in a given calendar year seven or fewer of the timeshare interests that he or she acquired for his or her own use and occupancy.(45)“Consumer resale timeshare interest” means:(a)A timeshare interest owned by a purchaser;(b)One or more reserved occupancy rights relating to a timeshare interest owned by a purchaser; or(c)One or more reserved occupancy rights relating to, or arranged through, an exchange program in which a purchaser is a member.(46)“Consumer timeshare reseller” means a purchaser who acquires a timeshare interest for his or her own use and occupancy and later offers the timeshare interest for resale or rental.(47)“Resale broker” means any person, or any agent or employee of such person, who is licensed pursuant to chapter 475 and who offers or provides resale brokerage services to consumer timeshare resellers for compensation or valuable consideration, regardless of whether the offer is made in person, by mail, by telephone, through the Internet, or by any other medium of communication.(48)“Resale brokerage services” means, with respect to a consumer resale timeshare interest in a timeshare property located or offered within this state, any activity that directly or indirectly consists of any of the activities described in s. 475.01(1)(a).(49)“Resale advertiser” means any person who offers, personally or through an agent, resale advertising services to consumer timeshare resellers for compensation or valuable consideration, regardless of whether the offer is made in person, by mail, by telephone, through the Internet, or by any other medium of communication. The term does not include:(a)A resale broker to the extent that resale advertising services are offered in connection with timeshare resale brokerage services and no fee for the resale advertising service is collected in advance;(b)A developer or managing entity to the extent that either of them offers resale advertising services to owners of timeshare interests in their own timeshare plans; or(c)A newspaper, periodical, or website owner, operator, or publisher, unless the newspaper, periodical, or website owner, operator, or publisher derives more than 10 percent of its gross revenue from providing resale advertising services. For purposes of this paragraph, the calculation of gross revenue derived from providing resale advertising services includes revenue of any affiliate, parent, agent, and subsidiary of the newspaper, periodical, or website owner, operator, or publisher, so long as the resulting percentage of gross revenue is not decreased by the inclusion of such affiliate, parent, subsidiary, or agent in the calculation.(50)“Resale advertising service” means any good or service relating to, or a promise of assistance in connection with, advertising or promoting the resale or rental of a consumer resale timeshare interest located or offered within this state, including any offer to advertise or promote the sale or purchase of any such interest.(51)“Resale transfer agreement” means a contract or other agreement between a person offering timeshare interest transfer services and a consumer timeshare reseller, in which the person offering timeshare interest transfer services agrees to provide such services as described in s. 721.17(3).(52)“Timeshare interest transfer services” means any good or service relating to an offer or agreement to transfer ownership of a consumer resale timeshare interest, or assistance with or a promise of assistance in connection with the transfer of ownership of a consumer resale timeshare interest, as described in s. 721.17(3). The term does not include resale advertising services as provided in this chapter.History.—s. 1, ch. 81-172; s. 3, ch. 83-264; ss. 1, 2, ch. 84-256; s. 17, ch. 85-60; s. 25, ch. 91-103; s. 5, ch. 91-236; s. 5, ch. 91-426; s. 2, ch. 93-58; s. 240, ch. 94-218; s. 2, ch. 95-274; s. 891, ch. 97-102; s. 2, ch. 98-36; s. 17, ch. 98-322; s. 9, ch. 2000-302; s. 3, ch. 2004-279; s. 2, ch. 2007-75; s. 65, ch. 2008-240; s. 7, ch. 2009-133; s. 2, ch. 2012-76; s. 2, ch. 2013-159; s. 5, ch. 2013-189; s. 1, ch. 2015-144; s. 1, ch. 2017-22.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-urity",
+      "number": "urity",
+      "heading": "provisions.",
+      "text": "provisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72110cancellation",
+      "number": "721.10Cancellation.",
+      "heading": "(1)A purchaser has the right to cancel the contract until midnight on the 10th calendar day after the later of:(a)The execution date of the contract; or(b)The day on which the purchaser received the last of all documents required to be provided to him or her, including the notice required by s",
+      "text": "721.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72113management",
+      "number": "721.13Management.",
+      "heading": "(1)(a)For each timeshare plan, the developer shall provide for a managing entity, which shall be either the developer, a separate manager or management firm, or an owners’ association",
+      "text": "Any owners’ association shall be created prior to the first closing of the sale of a timeshare interest.(b)1.With r",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-721165insurance",
+      "number": "721.165Insurance.",
+      "heading": "(1)Notwithstanding any provision contained in the timeshare instrument or in this chapter, chapter 718, or chapter 719 to the contrary, the managing entity shall use due diligence to obtain adequate casualty insurance as a common expense of the timeshare plan to protect the timeshare property agains",
+      "text": "(1)Notwithstanding any provision contained in the timeshare instrument or in this chapter, chapter 718, or chapter 719 to the contrary, the managing entity shall use due diligence to obtain adequate casualty insurance as a common expense of the timeshare plan to protect the timeshare property against all reasonably foreseeable perils, in such covered amounts and subject to such reasonable exclusions and reasonable deductibles as are consistent with the provisions of this section.(2)In making the determination as to whether the insurance obtained pursuant to subsection (1) is adequate, the managing entity shall take into account the following factors, among others as may be applicable:(a)Available insurance coverages and related premiums in the marketplace.(b)Amounts of any related deductibles, types of exclusions, and coverage limitations; provided that, for purposes of this paragraph, a deductible of 5 percent or less shall be deemed to be reasonable per se.(c)The probable maximum loss relating to the insured timeshare property during the policy term.(d)The extent to which a given peril is insurable under commercially reasonable terms.(e)Amounts of any deferred maintenance or replacement reserves on hand.(f)Geography and any special risks associated with the location of the timeshare property.(g)The age and type of construction of the timeshare property.(3)Notwithstanding any provision contained in this section or in the timeshare instrument to the contrary, insurance shall be procured and maintained by the managing entity for the timeshare property as a common expense of the timeshare plan against such perils, in such coverages, and subject to such reasonable deductions or reasonable exclusions as may be required by:(a)An institutional lender to a developer, for so long as such lender holds a mortgage encumbering any interest in or lien against a portion of the timeshare property; or(b)Any holder or pledgee of, or any institutional lender having a security interest in, a pool of promissory notes secured by mortgages or other security interests relating to the timeshare plan, executed by purchasers in connection with such purchasers’ acquisition of timeshare interests in such timeshare property, or any agent, underwriter, placement agent, trustee, servicer, custodian, or other portfolio manager acting on behalf of such holder, pledgee, or institutional lender, for so long as any such notes and mortgages or other security interests remain outstanding.(4)Notwithstanding any provision contained in the timeshare instrument or in this chapter, chapter 718, or chapter 719 to the contrary, the managing entity is authorized to apply any existing reserves for deferred maintenance and capital expenditures toward payment of insurance deductibles or the repair or replacement of the timeshare property after a casualty without regard to the purposes for which such reserves were originally established.(5)A copy of each policy of insurance in effect shall be made available for reasonable inspection by purchasers and their authorized agents.History.—s. 1, ch. 81-172; s. 54, ch. 85-62; s. 24, ch. 2000-302; s. 9, ch. 2007-75.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72122partition",
+      "number": "721.22Partition.",
+      "heading": "(1)No action for partition of any timeshare unit shall lie, unless otherwise provided for in the contract between the seller and the purchaser",
+      "text": "(2)If a timeshare estate exists as an estate for years with a future interest, the estate for years shall not be deemed to have merged with the future intere",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72123securities",
+      "number": "721.23Securities.",
+      "heading": "Timeshare plans are not securities under the provisions of chapter 517 or its successor.History.—s. 1, ch. 81-172; s. 57, ch. 85-62.",
+      "text": "Timeshare plans are not securities under the provisions of chapter 517 or its successor.History.—s. 1, ch. 81-172; s. 57, ch. 85-62.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-urities",
+      "number": "urities.",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72124firesafety",
+      "number": "721.24Firesafety.",
+      "heading": "(1)Any:(a)Facility or accommodation of a timeshare plan, as defined in this chapter, chapter 718, or chapter 719, which is of three stories or more and for which the construction contract has been let after September 30, 1983, with interior corridors which do not have direct access from the timeshar",
+      "text": "(1)Any:(a)Facility or accommodation of a timeshare plan, as defined in this chapter, chapter 718, or chapter 719, which is of three stories or more and for which the construction contract has been let after September 30, 1983, with interior corridors which do not have direct access from the timeshare unit to exterior means of egress, or(b)Building over 75 feet in height that has direct access from the timeshare unit to exterior means of egress and for which the construction contract has been let after September 30, 1983,shall be equipped with an automatic sprinkler system installed in compliance with the provisions prescribed in the National Fire Protection Association publication NFPA No. 13 (1985), “Standards for the Installation of Sprinkler Systems.” The sprinkler installation may be omitted in closets which are not over 24 square feet in area and in bathrooms which are not over 55 square feet in area, which closets and bathrooms are located in timeshare units. Each timeshare unit shall be equipped with an approved listed single-station smoke detector meeting the minimum requirements of NFPA-74 (1984), “Standards for the Installation, Maintenance and Use of Household Fire Warning Equipment,” powered from the building electrical service, notwithstanding the number of stories in the structure, if the contract for construction is let after September 30, 1983. Single-station smoke detection is not required when a timeshare unit’s smoke detectors are connected to a central alarm system which also alarms locally.(2)Any timeshare unit of a timeshare plan, as defined in this chapter, chapter 718, or chapter 719 which is of three stories or more and for which the construction contract was let before October 1, 1983, shall be equipped with:(a)A system which complies with subsection (1); or(b)An approved sprinkler system for all interior corridors, public areas, storage rooms, closets, kitchen areas, and laundry rooms, less individual timeshare units, if the following conditions are met:1.There is a minimum 1-hour separation between each timeshare unit and between each timeshare unit and a corridor.2.The building is constructed of noncombustible materials.3.The egress conditions meet the requirements of s. 5-3 of the Life Safety Code, NFPA 101 (1985).4.The building has a complete automatic fire detection system which meets the requirements of NFPA-72A (1987) and NFPA-72E (1984), including smoke detectors in each timeshare unit individually annunciating to a panel at a supervised location.(3)The Division of State Fire Marshal of the Department of Financial Services may prescribe uniform standards for firesafety equipment for timeshare units of timeshare plans for which the construction contracts were let before October 1, 1983. An entire building shall be equipped as outlined, except that the approved sprinkler system may be delayed by the Division of State Fire Marshal until October 1, 1991, on a schedule for complete compliance in accordance with rules adopted by the Division of State Fire Marshal, which schedule shall include a provision for a 1-year extension which may be granted not more than three times for any individual requesting an extension. The entire system must be installed and operational by October 1, 1994. The Division of State Fire Marshal shall not grant an extension for the approved sprinkler system unless a written request for the extension and a construction work schedule is submitted. The Division of State Fire Marshal may grant an extension upon demonstration that compliance with this section by the date required would impose an extreme hardship and a disproportionate financial impact. Any establishment that has been granted an extension by the Division of State Fire Marshal shall post, in a conspicuous place on the premises, a public notice stating that the establishment has not yet installed the approved sprinkler system required by law.(4)The provisions for installation of single-station smoke detectors required in subsection (1) and subparagraph (2)(b)4. shall be waived by the Division of State Fire Marshal for any establishment for which the construction contract was let before October 1, 1983, and which is under three stories in height, if each individual timeshare unit is equipped with a smoke detector approved by the Division of State Fire Marshal.(5)The Division of State Fire Marshal shall adopt, in accordance with the provisions of chapter 120, any rules necessary for the implementation and enforcement of this section. The Division of State Fire Marshal shall enforce this section in accordance with the provisions of chapter 633.(6)Accommodations and facilities of personal property timeshare plans shall be exempt from the requirements of this section.History.—s. 55, ch. 90-339; s. 30, ch. 2000-302; s. 1893, ch. 2003-261; s. 20, ch. 2004-279.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72129recording",
+      "number": "721.29Recording.",
+      "heading": "If any timeshare plan accommodations or facilities are located in any jurisdiction that does not have recording laws or will not record any document or instrument required to be recorded pursuant to this chapter, the division shall have the discretion to accept an alternative method of protecting pu",
+      "text": "If any timeshare plan accommodations or facilities are located in any jurisdiction that does not have recording laws or will not record any document or instrument required to be recorded pursuant to this chapter, the division shall have the discretion to accept an alternative method of protecting purchasers’ rights that will be effective under the laws of that other jurisdiction.History.—s. 33, ch. 2000-302.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72150short",
+      "number": "721.50Short",
+      "heading": "title.721.51Legislative purpose; scope",
+      "text": "721.52Definitions.721.53Subordination instruments; alternate security arrangements.721.55Multisite timeshare plan public offering statement.721.551Delivery of multisite timeshare plan purchaser public offering statement.721.552Additions, substitutions, or delet",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72151legislative",
+      "number": "721.51Legislative",
+      "heading": "purpose; scope.",
+      "text": "purpose; scope.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72152definitions",
+      "number": "721.52Definitions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72153subordination",
+      "number": "721.53Subordination",
+      "heading": "instruments; alternate security arrangements.",
+      "text": "instruments; alternate security arrangements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72155multisite",
+      "number": "721.55Multisite",
+      "heading": "timeshare plan public offering statement.",
+      "text": "timeshare plan public offering statement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-721551delivery",
+      "number": "721.551Delivery",
+      "heading": "of multisite timeshare plan purchaser public offering statement.",
+      "text": "of multisite timeshare plan purchaser public offering statement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72156management",
+      "number": "721.56Management",
+      "heading": "of multisite timeshare plans; reservation systems; demand balancing.",
+      "text": "of multisite timeshare plans; reservation systems; demand balancing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72157offering",
+      "number": "721.57Offering",
+      "heading": "of timeshare estates in specific multisite timeshare plans; required provisions in the timeshare instrument.",
+      "text": "of timeshare estates in specific multisite timeshare plans; required provisions in the timeshare instrument.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72158filing",
+      "number": "721.58Filing",
+      "heading": "fee; annual fee.",
+      "text": "fee; annual fee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72152definitions",
+      "number": "721.52Definitions.",
+      "heading": "As used in this chapter, the term:(1)“Applicable law” means the law of the jurisdiction where the accommodations and facilities referred to are located",
+      "text": "(2)“Component site” means a specific geographic site where a portion of the accommodations and facilities of the multisite timeshare plan are locate",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72180short",
+      "number": "721.80Short",
+      "heading": "title.721.81Legislative purpose",
+      "text": "721.82Definitions.721.83Consolidation of judicial foreclosure actions.721.84Appointment of a registered agent; duties.721.85Service to notice address or on registered agent.721.855Procedure for the trustee foreclosure of assessment liens.721.856Procedure for the trust",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72181legislative",
+      "number": "721.81Legislative",
+      "heading": "purpose.",
+      "text": "purpose.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72182definitions",
+      "number": "721.82Definitions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72183consolidation",
+      "number": "721.83Consolidation",
+      "heading": "of judicial foreclosure actions.",
+      "text": "of judicial foreclosure actions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72184appointment",
+      "number": "721.84Appointment",
+      "heading": "of a registered agent; duties.",
+      "text": "of a registered agent; duties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72185service",
+      "number": "721.85Service",
+      "heading": "to notice address or on registered agent.",
+      "text": "to notice address or on registered agent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-721855procedure",
+      "number": "721.855Procedure",
+      "heading": "for the trustee foreclosure of assessment liens.",
+      "text": "for the trustee foreclosure of assessment liens.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-721856procedure",
+      "number": "721.856Procedure",
+      "heading": "for the trustee foreclosure of mortgage liens.",
+      "text": "for the trustee foreclosure of mortgage liens.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7218561administrative",
+      "number": "721.8561Administrative",
+      "heading": "fee.",
+      "text": "fee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72186miscellaneous",
+      "number": "721.86Miscellaneous",
+      "heading": "provisions.",
+      "text": "provisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72182definitions",
+      "number": "721.82Definitions.",
+      "heading": "As used in this part, the term:(1)“Amounts secured by the lien” means all amounts secured by an assessment lien or mortgage lien, including, but not limited to, all past due amounts, accrued interest, late fees, taxes, advances for the payment of taxes, insurance and maintenance of the timeshare int",
+      "text": "As used in this part, the term:(1)“Amounts secured by the lien” means all amounts secured by an assessment lien or mortgage lien, including, but not limited to, all past due amounts, accrued interest, late fees, taxes, advances for the payment of taxes, insurance and maintenance of the timeshare interest, and any fees or costs incurred by the lienholder or trustee, including any reasonable attorney’s fees, trustee’s fees, and costs incurred in connection with the default.(2)“Assessment lien” means:(a)A lien for delinquent assessments as provided in ss. 718.116, 719.108, and 721.16; or(b)A lien for unpaid ad valorem assessments, tax assessments, and special assessments as provided in s. 192.037(8).(3)“Junior interestholder” means any person who has a lien or interest of record against a timeshare interest in the county or counties in which the timeshare interest is located, which is inferior to the mortgage lien or assessment lien being foreclosed under this part.(4)“Lienholder” means a holder of an assessment lien or a holder of a mortgage lien, as applicable. A receiver appointed under s. 721.26 is a lienholder for purposes of foreclosure of assessment liens under this part.(5)“Mortgage” has the same meaning set forth in s. 697.01.(6)“Mortgage lien” means a security interest in a timeshare interest created by a mortgage encumbering the timeshare interest.(7)“Mortgagee” means a person holding a mortgage lien.(8)“Mortgagor” means a person granting a mortgage lien or a person who has assumed the obligation secured by a mortgage lien.(9)“Notice address” means:(a)As to an assessment lien, the address of the owner of a timeshare interest as reflected by the books and records of the timeshare plan under ss. 721.13(4) and 721.15(7).(b)As to a mortgage lien:1.The address of the mortgagor as set forth in the mortgage, the promissory note or a separate document executed by the mortgagor at the time the mortgage lien was created, or the most current address of the mortgagor according to the records of the mortgagee; and2.If the owner of the timeshare interest is different from the mortgagor, the address of the owner of the timeshare interest as reflected by the books and records of the mortgagee.(c)As to a junior interestholder, the address as set forth in the recorded instrument creating the junior lien or interest, or in any recorded amendment thereto changing the address, or in any written notification by the junior interestholder to the foreclosing lienholder changing the address.(d)As to an owner of a timeshare interest, mortgagor, or junior interestholder whose current address is not the address as determined by paragraph (a), paragraph (b), or paragraph (c), such address as is known to be the current address.(10)“Obligor” means the mortgagor, the person subject to an assessment lien, or the record owner of the timeshare interest.(11)“Permitted delivery service” means any nationally recognized common carrier delivery service, international airmail service that allows for return receipt service, or a service recognized by an international jurisdiction as the equivalent of certified, registered mail for that jurisdiction.(12)“Registered agent” means an agent duly appointed by the obligor under s. 721.84 for the purpose of accepting all notices and service of process under this part. A registered agent may be an individual resident in this state whose business office qualifies as a registered office, or a domestic or foreign corporation or a not-for-profit corporation as defined in chapter 617 authorized to transact business or to conduct its affairs in this state, whose business office qualifies as a registered office. A registered agent for any obligor may not be the lienholder or the attorney for the lienholder.(13)“Registered office” means the street address of the business office of the registered agent appointed under s. 721.84, located in this state.(14)“Trustee” means an attorney who is a member in good standing of The Florida Bar and who has been practicing law for at least 5 years or that attorney’s law firm, or a title insurer authorized to transact business in this state under s. 624.401 and who has been authorized to transact business for at least 5 years, appointed as trustee or as substitute trustee in accordance with s. 721.855 or s. 721.856. A receiver appointed under s. 721.26 may act as a trustee under s. 721.855. A trustee must be independent as defined in s. 721.05(20).History.—s. 13, ch. 98-36; s. 43, ch. 2000-302; s. 6, ch. 2010-134; s. 6, ch. 2013-159.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72196purpose72197timeshare",
+      "number": "721.96Purpose.721.97Timeshare",
+      "heading": "commissioner of deeds.721.98Powers of the division.",
+      "text": "commissioner of deeds.721.98Powers of the division.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72196purpose",
+      "number": "721.96Purpose",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72197timeshare",
+      "number": "721.97Timeshare",
+      "heading": "commissioner of deeds.",
+      "text": "commissioner of deeds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72198powers",
+      "number": "721.98Powers",
+      "heading": "of the division.",
+      "text": "of the division.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-72196purpose",
+      "number": "721.96Purpose.",
+      "heading": "The purpose of this part is to provide for the appointment of commissioners of deeds to take acknowledgments, proofs of execution, and oaths outside the United States in connection with the execution of any deed, mortgage, deed of trust, contract, power of attorney, or any other agreement, instrumen",
+      "text": "The purpose of this part is to provide for the appointment of commissioners of deeds to take acknowledgments, proofs of execution, and oaths outside the United States in connection with the execution of any deed, mortgage, deed of trust, contract, power of attorney, or any other agreement, instrument or writing concerning, relating to, or to be used or recorded in connection with a timeshare estate, personal property timeshare interest, timeshare license, any property subject to a timeshare plan, or the operation of a timeshare plan located within this state.History.—s. 14, ch. 98-36; s. 31, ch. 2004-279.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

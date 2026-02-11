@@ -1,0 +1,382 @@
+{
+  "state": "nevada",
+  "path": "title-nrs-042/chapter-nrs-042",
+  "sections": [
+    {
+      "id": "section-42001",
+      "number": "42.001",
+      "heading": "Definitions;",
+      "text": "exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42005",
+      "number": "42.005",
+      "heading": "Exemplary",
+      "text": "and punitive damages: In general; limitations on amount of award; determination\n\nin subsequent proceeding.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42007",
+      "number": "42.007",
+      "heading": "Exemplary",
+      "text": "and punitive damages: Limitations on liability by employer for wrongful act of employee;\n\nexception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42010",
+      "number": "42.010",
+      "heading": "Exemplary",
+      "text": "and punitive damages: Injury caused by operation of vehicle after consumption\n\nor use of alcohol or another substance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42021",
+      "number": "42.021",
+      "heading": "Actions",
+      "text": "based on professional negligence of providers of health care: Introduction of\n\ncertain evidence relating to collateral benefits; restrictions on source of\n\ncollateral benefits; payment of future damages by periodic payments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42200",
+      "number": "42.200",
+      "heading": "Short",
+      "text": "title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42205",
+      "number": "42.205",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42210",
+      "number": "42.210",
+      "heading": "Annuity",
+      "text": "issuer� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42215",
+      "number": "42.215",
+      "heading": "Assignee�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42220",
+      "number": "42.220",
+      "heading": "Dependents�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42225",
+      "number": "42.225",
+      "heading": "Discounted",
+      "text": "present value� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42230",
+      "number": "42.230",
+      "heading": "Gross",
+      "text": "advance amount� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42235",
+      "number": "42.235",
+      "heading": "Independent",
+      "text": "professional advice� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42240",
+      "number": "42.240",
+      "heading": "Interested",
+      "text": "party� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42245",
+      "number": "42.245",
+      "heading": "Net",
+      "text": "advance amount� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42250",
+      "number": "42.250",
+      "heading": "Payee�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42255",
+      "number": "42.255",
+      "heading": "Periodic",
+      "text": "payments� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42260",
+      "number": "42.260",
+      "heading": "Qualified",
+      "text": "assignment agreement� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42265",
+      "number": "42.265",
+      "heading": "Renewal",
+      "text": "date� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42270",
+      "number": "42.270",
+      "heading": "Settled",
+      "text": "claim� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42275",
+      "number": "42.275",
+      "heading": "Structured",
+      "text": "settlement� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42280",
+      "number": "42.280",
+      "heading": "Structured",
+      "text": "settlement agreement� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42285",
+      "number": "42.285",
+      "heading": "Structured",
+      "text": "settlement obligor� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42290",
+      "number": "42.290",
+      "heading": "Structured",
+      "text": "settlement payment rights� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42295",
+      "number": "42.295",
+      "heading": "Structured",
+      "text": "settlement purchase company� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42300",
+      "number": "42.300",
+      "heading": "Structured",
+      "text": "settlement transfer proceeding� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42305",
+      "number": "42.305",
+      "heading": "Terms",
+      "text": "of the structured settlement� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42310",
+      "number": "42.310",
+      "heading": "Transfer�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42315",
+      "number": "42.315",
+      "heading": "Transfer",
+      "text": "agreement� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42320",
+      "number": "42.320",
+      "heading": "Transfer",
+      "text": "expense� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42325",
+      "number": "42.325",
+      "heading": "Transfer",
+      "text": "order� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42330",
+      "number": "42.330",
+      "heading": "Transferee�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42335",
+      "number": "42.335",
+      "heading": "Unit�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42337",
+      "number": "42.337",
+      "heading": "Regulations.",
+      "text": "Regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42340",
+      "number": "42.340",
+      "heading": "Requirement",
+      "text": "to register as structured settlement purchase company; application; fees; certification\n\nof surety bond or letter of credit that meets certain requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42345",
+      "number": "42.345",
+      "heading": "Statement",
+      "text": "concerning obligation for child support required for issuance or renewal of\n\nregistration as structured settlement purchase company. [Effective until the\n\ndate of the repeal of 42 U.S.C. � 666, the federal law requiring each state to\n\nestablish procedures for withholding, suspending and restricting the\n\nprofessional, occupational and recreational licenses for child support\n\narrearages and for noncompliance with certain processes relating to paternity\n\nor child support proceedings.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42350",
+      "number": "42.350",
+      "heading": "Suspension",
+      "text": "of registration as structured settlement purchase company; reinstatement of\n\nregistration. [Effective until the date of the repeal of 42 U.S.C. � 666, the\n\nfederal law requiring each state to establish procedures for withholding,\n\nsuspending and restricting the professional, occupational and recreational\n\nlicenses for child support arrearages and for noncompliance with certain\n\nprocesses relating to paternity or child support proceedings.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42355",
+      "number": "42.355",
+      "heading": "Notice",
+      "text": "of judgment against structured settlement purchase company; contents of notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42360",
+      "number": "42.360",
+      "heading": "Surety",
+      "text": "bond: Liability of surety not affected by certain acts; notice required before\n\ncancellation or modification; automatic expiration of registration for\n\ncancellation or noncomplying modification; modification or cancellation does\n\nnot affect liability incurred previously.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42365",
+      "number": "42.365",
+      "heading": "Certain",
+      "text": "persons exempt from registration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42370",
+      "number": "42.370",
+      "heading": "Prohibited",
+      "text": "acts; remedies for violation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42375",
+      "number": "42.375",
+      "heading": "Applicant",
+      "text": "for approval of transfer of structured settlement payment rights required to\n\nprovide evidence of registration; transfer order signed by court constitutes\n\nqualified order under federal law if transferee is registered.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42380",
+      "number": "42.380",
+      "heading": "Required",
+      "text": "disclosures to payee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42385",
+      "number": "42.385",
+      "heading": "Approval",
+      "text": "of transfers of structured settlement payment rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42390",
+      "number": "42.390",
+      "heading": "Effects",
+      "text": "of transfer of structured settlement payment rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42395",
+      "number": "42.395",
+      "heading": "Procedure",
+      "text": "for approval of transfer of structured settlement payment rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-42400",
+      "number": "42.400",
+      "heading": "General",
+      "text": "provisions; construction.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

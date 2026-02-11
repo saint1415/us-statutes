@@ -1,0 +1,926 @@
+{
+  "state": "nevada",
+  "path": "title-nrs-583/chapter-nrs-583",
+  "sections": [
+    {
+      "id": "section-583005",
+      "number": "583.005",
+      "heading": "Department�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583010",
+      "number": "583.010",
+      "heading": "Sale",
+      "text": "or offer for sale of unsound, diseased or unwholesome fish, meat or game\n\nunlawful; civil penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583030",
+      "number": "583.030",
+      "heading": "Possession",
+      "text": "with intent to sell carcass of diseased or improperly slaughtered animal\n\nunlawful; civil penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583040",
+      "number": "583.040",
+      "heading": "Sale",
+      "text": "or possession with intent to sell carcass of animal slaughtered or prepared\n\nunder insanitary conditions unlawful; insanitary conditions in slaughterhouses;\n\ncivil penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583045",
+      "number": "583.045",
+      "heading": "Sale",
+      "text": "or offer for sale of meat of foreign country without label stating country of\n\norigin prohibited; civil penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583050",
+      "number": "583.050",
+      "heading": "Equine",
+      "text": "animals: Sale of meat without informing purchaser unlawful; peddling meat\n\nwithout possession of hide unlawful; civil penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583055",
+      "number": "583.055",
+      "heading": "Program",
+      "text": "for grading and certifying meats, prepared meats and meat products:\n\nEstablishment; cooperative agreements; regulations; fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583060",
+      "number": "583.060",
+      "heading": "Sale",
+      "text": "or offer for sale of unsound, diseased or unwholesome produce unlawful; civil\n\npenalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583065",
+      "number": "583.065",
+      "heading": "Adoption",
+      "text": "by reference of federal standards for growing, harvesting, packing and holding\n\nof produce for human consumption; performance of inspections; enforcement;\n\nregulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583070",
+      "number": "583.070",
+      "heading": "Sale",
+      "text": "or offer for sale of unsound, diseased or unwholesome poultry unlawful; civil\n\npenalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583080",
+      "number": "583.080",
+      "heading": "Possession",
+      "text": "with intent to sell carcass of diseased or improperly slaughtered or processed\n\nfowl unlawful; civil penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583085",
+      "number": "583.085",
+      "heading": "Permit",
+      "text": "for slaughter and sale of raw poultry to consumer at farm or other facility:\n\nRegulations; requirements; fees; farm or facility deemed official\n\nestablishment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583110",
+      "number": "583.110",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583111",
+      "number": "583.111",
+      "heading": "Addled�",
+      "text": "and �white rot� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583112",
+      "number": "583.112",
+      "heading": "Adherent",
+      "text": "yolk� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583113",
+      "number": "583.113",
+      "heading": "Black",
+      "text": "rot� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583114",
+      "number": "583.114",
+      "heading": "Black",
+      "text": "spot� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583115",
+      "number": "583.115",
+      "heading": "Blood",
+      "text": "streak� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583116",
+      "number": "583.116",
+      "heading": "Consumer�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583117",
+      "number": "583.117",
+      "heading": "Fresh",
+      "text": "eggs,� �ranch eggs� and �farm eggs� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583118",
+      "number": "583.118",
+      "heading": "Incubated",
+      "text": "eggs� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583119",
+      "number": "583.119",
+      "heading": "Moldy�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583120",
+      "number": "583.120",
+      "heading": "Retailer�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583130",
+      "number": "583.130",
+      "heading": "State",
+      "text": "Quarantine Officer: Regulations; grades and standards for eggs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583140",
+      "number": "583.140",
+      "heading": "Sale",
+      "text": "of eggs unfit for human food prohibited; denatured eggs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583150",
+      "number": "583.150",
+      "heading": "Sale",
+      "text": "of unbranded or unstamped incubated eggs unlawful.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583160",
+      "number": "583.160",
+      "heading": "Sale",
+      "text": "of fresh eggs not conforming to classifications unlawful.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583170",
+      "number": "583.170",
+      "heading": "Sale",
+      "text": "or offer for sale of eggs without designation of size and quality unlawful.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583180",
+      "number": "583.180",
+      "heading": "Size",
+      "text": "and style of printing for designation of size and quality of eggs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583190",
+      "number": "583.190",
+      "heading": "Marking",
+      "text": "of containers when eggs sold in lots of half cases or more.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583200",
+      "number": "583.200",
+      "heading": "Applicability",
+      "text": "of provisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583210",
+      "number": "583.210",
+      "heading": "Civil",
+      "text": "penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583211",
+      "number": "583.211",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583212",
+      "number": "583.212",
+      "heading": "Business",
+      "text": "owner or operator� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583213",
+      "number": "583.213",
+      "heading": "Cage-free",
+      "text": "housing system� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583214",
+      "number": "583.214",
+      "heading": "Egg",
+      "text": "products� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583215",
+      "number": "583.215",
+      "heading": "Egg-laying",
+      "text": "hen� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583216",
+      "number": "583.216",
+      "heading": "Enclosure�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583217",
+      "number": "583.217",
+      "heading": "Farm�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583218",
+      "number": "583.218",
+      "heading": "Farm",
+      "text": "owner or operator� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583219",
+      "number": "583.219",
+      "heading": "Multi-tiered",
+      "text": "aviary� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5832205",
+      "number": "583.2205",
+      "heading": "Partially",
+      "text": "slatted system� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583221",
+      "number": "583.221",
+      "heading": "Sale�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583222",
+      "number": "583.222",
+      "heading": "Shell",
+      "text": "egg� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583223",
+      "number": "583.223",
+      "heading": "Single-level,",
+      "text": "all-litter floor system� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583224",
+      "number": "583.224",
+      "heading": "Usable",
+      "text": "floor space� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583231",
+      "number": "583.231",
+      "heading": "Legislative",
+      "text": "declaration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583235",
+      "number": "583.235",
+      "heading": "Applicability.",
+      "text": "Applicability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583237",
+      "number": "583.237",
+      "heading": "Prohibitions",
+      "text": "on confining egg-laying hens in certain enclosures; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583239",
+      "number": "583.239",
+      "heading": "Endorsement",
+      "text": "to sell, offer or expose for sale or transport for sale egg products or shell\n\neggs: Requirement; application; issuance; inspection; duration; notice of\n\nrenewal; prohibition on charging fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583241",
+      "number": "583.241",
+      "heading": "Endorsement",
+      "text": "to sell, offer or expose for sale or transport for sale egg products or shell\n\neggs: Denial, suspension or revocation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583243",
+      "number": "583.243",
+      "heading": "Endorsement",
+      "text": "to sell, offer or expose for sale or transport for sale egg products or shell\n\neggs: Appeal of denial, suspension or revocation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583245",
+      "number": "583.245",
+      "heading": "Business",
+      "text": "owners and operators: Prohibition on engaging in certain acts; requirement to\n\nobtain, retain and provide copies of certain certificates; reliance in good\n\nfaith is defense.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583247",
+      "number": "583.247",
+      "heading": "Enforcement;",
+      "text": "free access to farm or business and records of farm or business.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583249",
+      "number": "583.249",
+      "heading": "Regulations.",
+      "text": "Regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583251",
+      "number": "583.251",
+      "heading": "Civil",
+      "text": "penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583255",
+      "number": "583.255",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583265",
+      "number": "583.265",
+      "heading": "Adulterated�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583268",
+      "number": "583.268",
+      "heading": "Animal",
+      "text": "food manufacturer� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583272",
+      "number": "583.272",
+      "heading": "Capable",
+      "text": "of use as human food� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583275",
+      "number": "583.275",
+      "heading": "Container�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583277",
+      "number": "583.277",
+      "heading": "Custom",
+      "text": "processing establishment� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583285",
+      "number": "583.285",
+      "heading": "Immediate",
+      "text": "container� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583295",
+      "number": "583.295",
+      "heading": "Inspector�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583305",
+      "number": "583.305",
+      "heading": "Intrastate",
+      "text": "commerce� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583315",
+      "number": "583.315",
+      "heading": "Label�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583317",
+      "number": "583.317",
+      "heading": "Labeling�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583325",
+      "number": "583.325",
+      "heading": "Livestock�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583335",
+      "number": "583.335",
+      "heading": "Meat�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583339",
+      "number": "583.339",
+      "heading": "Meat",
+      "text": "broker� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583345",
+      "number": "583.345",
+      "heading": "Meat",
+      "text": "food product� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583355",
+      "number": "583.355",
+      "heading": "Misbranded�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583357",
+      "number": "583.357",
+      "heading": "Mobile",
+      "text": "processing unit� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583365",
+      "number": "583.365",
+      "heading": "Officer�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583368",
+      "number": "583.368",
+      "heading": "Official",
+      "text": "certificate� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583372",
+      "number": "583.372",
+      "heading": "Official",
+      "text": "device� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583375",
+      "number": "583.375",
+      "heading": "Official",
+      "text": "establishment� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583385",
+      "number": "583.385",
+      "heading": "Official",
+      "text": "inspection mark� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583389",
+      "number": "583.389",
+      "heading": "Official",
+      "text": "mark� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583405",
+      "number": "583.405",
+      "heading": "Poultry�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583407",
+      "number": "583.407",
+      "heading": "Poultry",
+      "text": "product� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583408",
+      "number": "583.408",
+      "heading": "Poultry",
+      "text": "products broker� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583411",
+      "number": "583.411",
+      "heading": "Processed�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583413",
+      "number": "583.413",
+      "heading": "Renderer�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583415",
+      "number": "583.415",
+      "heading": "Shipping",
+      "text": "container� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583425",
+      "number": "583.425",
+      "heading": "Wholesome",
+      "text": "Meat Act� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583429",
+      "number": "583.429",
+      "heading": "Wholesome",
+      "text": "Poultry Products Act� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583435",
+      "number": "583.435",
+      "heading": "Declaration",
+      "text": "of policy; administration by Department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583439",
+      "number": "583.439",
+      "heading": "Compliance",
+      "text": "required in intrastate commerce.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583445",
+      "number": "583.445",
+      "heading": "Ante",
+      "text": "mortem and postmortem inspection; quarantine; condemnation; processing in lieu\n\nof condemnation under certain circumstances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583448",
+      "number": "583.448",
+      "heading": "Authorization",
+      "text": "by State Quarantine Officer for person to act as inspector.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583451",
+      "number": "583.451",
+      "heading": "Authority",
+      "text": "of owner or operator of official establishment to act as inspector.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583453",
+      "number": "583.453",
+      "heading": "Permit",
+      "text": "for official establishment: Application; inspection; nontransferability;\n\nposting.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583454",
+      "number": "583.454",
+      "heading": "License",
+      "text": "for custom processing establishment or mobile processing unit: Regulations;\n\nrequirements; fees; establishment or unit deemed official establishment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583455",
+      "number": "583.455",
+      "heading": "Official",
+      "text": "establishment: Method of operation; requirements for approval; licensing by\n\nlocal government.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583458",
+      "number": "583.458",
+      "heading": "Official",
+      "text": "establishment: Suspension and reinstatement of permit; revocation of permit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583465",
+      "number": "583.465",
+      "heading": "Labeling",
+      "text": "and marking of carcasses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583469",
+      "number": "583.469",
+      "heading": "False",
+      "text": "or misleading markings, labels or containers: Use prohibited; stop orders;\n\nhearings; appeal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583472",
+      "number": "583.472",
+      "heading": "Unlawful",
+      "text": "advertising of meat or meat products; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583475",
+      "number": "583.475",
+      "heading": "Unlawful",
+      "text": "acts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583476",
+      "number": "583.476",
+      "heading": "Return",
+      "text": "of processed carcass of livestock, game mammal or bird other than one delivered\n\nfor processing prohibited; marking of carcass required; penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583477",
+      "number": "583.477",
+      "heading": "Equine",
+      "text": "carcasses or parts: Identification marks or labels required; separate\n\nprocessing may be required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583481",
+      "number": "583.481",
+      "heading": "Registration",
+      "text": "of name, address and trade name of business required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583485",
+      "number": "583.485",
+      "heading": "Records;",
+      "text": "examination of facilities and inventory.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583495",
+      "number": "583.495",
+      "heading": "Penalties;",
+      "text": "persons not subject to penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583505",
+      "number": "583.505",
+      "heading": "Reporting",
+      "text": "of violations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583527",
+      "number": "583.527",
+      "heading": "Inspection",
+      "text": "of articles not intended for use as food for humans prohibited; denaturing or\n\nother identification required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583529",
+      "number": "583.529",
+      "heading": "Detention",
+      "text": "of articles for investigation of violations; removal of official marks.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583537",
+      "number": "583.537",
+      "heading": "Regulation",
+      "text": "of commerce in dead or diseased animals or poultry.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583539",
+      "number": "583.539",
+      "heading": "Regulation",
+      "text": "of storage and handling of carcasses and products.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583543",
+      "number": "583.543",
+      "heading": "Penalty",
+      "text": "for acceptance of bribes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583545",
+      "number": "583.545",
+      "heading": "State",
+      "text": "law inapplicable to act or transaction regulated by federal act; agreements\n\nwith Federal Government.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583549",
+      "number": "583.549",
+      "heading": "Injunctive",
+      "text": "relief; specific enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583555",
+      "number": "583.555",
+      "heading": "Costs",
+      "text": "of inspection; schedule of killing days.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-583700",
+      "number": "583.700",
+      "heading": "Civil",
+      "text": "penalties; deposit and use of money.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

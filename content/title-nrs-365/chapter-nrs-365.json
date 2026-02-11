@@ -1,0 +1,790 @@
+{
+  "state": "nevada",
+  "path": "title-nrs-365/chapter-nrs-365",
+  "sections": [
+    {
+      "id": "section-365010",
+      "number": "365.010",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365015",
+      "number": "365.015",
+      "heading": "Aviation",
+      "text": "fuel� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365020",
+      "number": "365.020",
+      "heading": "Dealer�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365026",
+      "number": "365.026",
+      "heading": "Department�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365028",
+      "number": "365.028",
+      "heading": "Ethanol�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365031",
+      "number": "365.031",
+      "heading": "Exporter�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365035",
+      "number": "365.035",
+      "heading": "Fuel",
+      "text": "for jet or turbine-powered aircraft� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365038",
+      "number": "365.038",
+      "heading": "Governmental",
+      "text": "entity� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365040",
+      "number": "365.040",
+      "heading": "Highway�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365045",
+      "number": "365.045",
+      "heading": "Methanol�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365050",
+      "number": "365.050",
+      "heading": "Motor",
+      "text": "vehicle� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365060",
+      "number": "365.060",
+      "heading": "Motor",
+      "text": "vehicle fuel� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365070",
+      "number": "365.070",
+      "heading": "Person�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365076",
+      "number": "365.076",
+      "heading": "Rack�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365080",
+      "number": "365.080",
+      "heading": "Retailer�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365084",
+      "number": "365.084",
+      "heading": "Supplier�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365088",
+      "number": "365.088",
+      "heading": "Terminal�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365092",
+      "number": "365.092",
+      "heading": "Transporter�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365095",
+      "number": "365.095",
+      "heading": "Fuel",
+      "text": "deemed distributed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365100",
+      "number": "365.100",
+      "heading": "Administration",
+      "text": "and enforcement by Department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365110",
+      "number": "365.110",
+      "heading": "Rules",
+      "text": "and regulations of Department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365115",
+      "number": "365.115",
+      "heading": "Standards",
+      "text": "for determining whether alcohol is used as fuel or liquor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365120",
+      "number": "365.120",
+      "heading": "Appointment",
+      "text": "of assistants or agents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365130",
+      "number": "365.130",
+      "heading": "Examinations,",
+      "text": "audits and inquiries.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365138",
+      "number": "365.138",
+      "heading": "Confidentiality",
+      "text": "of certain records and information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365140",
+      "number": "365.140",
+      "heading": "Exchange",
+      "text": "of information with other states.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365142",
+      "number": "365.142",
+      "heading": "Unlawful",
+      "text": "disclosure of information; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365150",
+      "number": "365.150",
+      "heading": "Money",
+      "text": "to augment administration of chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365170",
+      "number": "365.170",
+      "heading": "Rates",
+      "text": "of taxes on aviation fuel and fuel for jet or turbine-powered aircraft; duties\n\nof dealers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365175",
+      "number": "365.175",
+      "heading": "Rate",
+      "text": "of tax on certain motor vehicle fuel; duties of suppliers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365180",
+      "number": "365.180",
+      "heading": "Additional",
+      "text": "excise tax of 3.6 cents per gallon levied on certain motor vehicle fuel; duties\n\nof suppliers and Department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365185",
+      "number": "365.185",
+      "heading": "Additional",
+      "text": "excise tax levied on motor vehicle fuel if federal tax reduced or discontinued;\n\nduties of suppliers and Department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365190",
+      "number": "365.190",
+      "heading": "Additional",
+      "text": "excise tax of 1.75 cents per gallon levied on certain motor vehicle fuel;\n\nduties of suppliers, purchasers and Department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365192",
+      "number": "365.192",
+      "heading": "Additional",
+      "text": "excise tax of 1 cent per gallon levied on certain motor vehicle fuel; duties of\n\nsuppliers, purchasers and Department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365200",
+      "number": "365.200",
+      "heading": "Imposition",
+      "text": "of excise tax on certain other fuels for motor vehicles; certain fuels imported\n\nin fuel tanks of motor vehicles; exempt motor vehicle fuel sold for nonexempt\n\nuse; limitation on payments of tax for same fuel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365203",
+      "number": "365.203",
+      "heading": "Optional",
+      "text": "imposition of additional tax on fuel for jet or turbine-powered aircraft and\n\naviation fuel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365210",
+      "number": "365.210",
+      "heading": "Limitations",
+      "text": "on levy of excise, privilege or occupational tax by political subdivision or\n\nmunicipal corporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365220",
+      "number": "365.220",
+      "heading": "Exempt",
+      "text": "transactions and sales.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365230",
+      "number": "365.230",
+      "heading": "Exempt",
+      "text": "sales of fuel in individual quantities of 500 gallons or less for export;\n\nduties of dealer or supplier and purchaser.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365240",
+      "number": "365.240",
+      "heading": "Reports",
+      "text": "of exempt exports and sales; marking of invoices for exempt sales.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365250",
+      "number": "365.250",
+      "heading": "Time",
+      "text": "to claim exemption on dealer�s export to another state.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365260",
+      "number": "365.260",
+      "heading": "When",
+      "text": "motor vehicle fuel not deemed to be exported.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365270",
+      "number": "365.270",
+      "heading": "Acting",
+      "text": "as dealer, supplier, exporter or transporter without license unlawful.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365280",
+      "number": "365.280",
+      "heading": "Application",
+      "text": "for license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365290",
+      "number": "365.290",
+      "heading": "Form,",
+      "text": "conditions and amount of bond; deposit in lieu of bond.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365300",
+      "number": "365.300",
+      "heading": "Issuance",
+      "text": "or denial of license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365302",
+      "number": "365.302",
+      "heading": "Hearing",
+      "text": "on denial of license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365304",
+      "number": "365.304",
+      "heading": "Term",
+      "text": "and transferability of license; regulations for renewal of license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365306",
+      "number": "365.306",
+      "heading": "Duties",
+      "text": "upon discontinuance, sale or transfer of business.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365310",
+      "number": "365.310",
+      "heading": "Suspension,",
+      "text": "cancellation or revocation of license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365322",
+      "number": "365.322",
+      "heading": "Importation,",
+      "text": "sale, distribution, use and storage of certain motor vehicle fuel prohibited\n\nwithout payment of taxes; exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365324",
+      "number": "365.324",
+      "heading": "Collection",
+      "text": "of taxes on certain motor vehicle fuel by supplier; purchase of fuel by supplier\n\nor exporter; records of sales between suppliers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365327",
+      "number": "365.327",
+      "heading": "Collection",
+      "text": "of tax by unlicensed person: Submission of monthly statements; payment of tax.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365330",
+      "number": "365.330",
+      "heading": "Due",
+      "text": "date of tax; when payment by mail is deemed received; receipt for payment;\n\nretention of percentage of tax for certain costs; maintenance of separate\n\naccount.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365335",
+      "number": "365.335",
+      "heading": "Establishment",
+      "text": "of procedure requiring suppliers to submit tax returns electronically.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365340",
+      "number": "365.340",
+      "heading": "When",
+      "text": "tax becomes delinquent; deposit of proceeds from penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365346",
+      "number": "365.346",
+      "heading": "Liability",
+      "text": "of retailer of aviation fuel when taxes not paid; verification by retailer of\n\nidentification number.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365351",
+      "number": "365.351",
+      "heading": "Liability",
+      "text": "of responsible person for willful failure to collect or pay tax or willful\n\nattempt to evade payment of tax.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365370",
+      "number": "365.370",
+      "heading": "Tax",
+      "text": "refunds: Persons entitled; payment by prescribed classes; minimum claims.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365380",
+      "number": "365.380",
+      "heading": "Presentation",
+      "text": "of claim for refund; maintenance of certain records; limitation on refund of\n\ntax on motor vehicle fuel for off-highway use; Department may require claimant\n\nto become dealer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365390",
+      "number": "365.390",
+      "heading": "Payment",
+      "text": "of refund by Department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365400",
+      "number": "365.400",
+      "heading": "Payment",
+      "text": "of refund based on duplicate invoice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365410",
+      "number": "365.410",
+      "heading": "Examination",
+      "text": "of claimant�s books and records; effect of refusal to permit examination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365420",
+      "number": "365.420",
+      "heading": "Time",
+      "text": "for application for refund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365430",
+      "number": "365.430",
+      "heading": "Sources",
+      "text": "and manner of payment of refunds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365440",
+      "number": "365.440",
+      "heading": "Granting",
+      "text": "of credit in lieu of refund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365445",
+      "number": "365.445",
+      "heading": "Refund",
+      "text": "to farmer or rancher on basis of bulk purchases; procedure; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365450",
+      "number": "365.450",
+      "heading": "Injunction",
+      "text": "or other process to prevent collection prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365460",
+      "number": "365.460",
+      "heading": "Action",
+      "text": "to recover amount paid: Protest required; venue.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365470",
+      "number": "365.470",
+      "heading": "Action",
+      "text": "to recover amount paid: Time to sue; waiver of right; consideration of grounds\n\nof illegality.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365480",
+      "number": "365.480",
+      "heading": "Judgment",
+      "text": "for plaintiff: Disposition of amount; interest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365490",
+      "number": "365.490",
+      "heading": "Judgment",
+      "text": "not to be rendered for plaintiff when action is by or in name of assignee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365500",
+      "number": "365.500",
+      "heading": "Dealers,",
+      "text": "suppliers, exporters and transporters: Maintenance of certain records;\n\nexaminations, investigations and inspections by Department; fee for examination\n\noutside State; statements of contents of records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365505",
+      "number": "365.505",
+      "heading": "Records",
+      "text": "of shipments of certain motor vehicle fuel: Preparation by supplier and\n\nprovision to certain purchasers; use by transporter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365510",
+      "number": "365.510",
+      "heading": "Records",
+      "text": "of retailers: Maintenance, contents and inspection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365515",
+      "number": "365.515",
+      "heading": "Monthly",
+      "text": "statements by exporters.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365520",
+      "number": "365.520",
+      "heading": "Monthly",
+      "text": "reports of deliveries by transporters.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365530",
+      "number": "365.530",
+      "heading": "Documentation",
+      "text": "required when transporting certain fuels; failure to produce documentation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365531",
+      "number": "365.531",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365532",
+      "number": "365.532",
+      "heading": "Construction,",
+      "text": "maintenance and repair� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365534",
+      "number": "365.534",
+      "heading": "Right-of-way�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365535",
+      "number": "365.535",
+      "heading": "Proceeds",
+      "text": "of tax on motor vehicle fuel paid on fuel used in watercraft for recreational\n\npurposes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365540",
+      "number": "365.540",
+      "heading": "General",
+      "text": "requirements for particular proceeds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365545",
+      "number": "365.545",
+      "heading": "Proceeds",
+      "text": "of taxes on fuel for jet or turbine-powered aircraft.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365550",
+      "number": "365.550",
+      "heading": "Proceeds",
+      "text": "of tax levied pursuant toNRS 365.180.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365560",
+      "number": "365.560",
+      "heading": "Proceeds",
+      "text": "of tax levied pursuant toNRS 365.190.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365562",
+      "number": "365.562",
+      "heading": "Proceeds",
+      "text": "of tax levied pursuant toNRS 365.192.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365565",
+      "number": "365.565",
+      "heading": "Proceeds",
+      "text": "of tax derived from aviation fuel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365570",
+      "number": "365.570",
+      "heading": "Unlawful",
+      "text": "acts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365572",
+      "number": "365.572",
+      "heading": "False",
+      "text": "or fraudulent reports: Penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365575",
+      "number": "365.575",
+      "heading": "Sale",
+      "text": "or distribution of motor vehicle fuel in this State by exporter: Prohibition;\n\npenalty; payment of taxes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365580",
+      "number": "365.580",
+      "heading": "Penalty",
+      "text": "for other violations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365590",
+      "number": "365.590",
+      "heading": "Payment",
+      "text": "of cost of prosecution of violator.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365593",
+      "number": "365.593",
+      "heading": "Disciplinary",
+      "text": "action for fraudulent use of motor vehicle fuel or sale of unlawfully\n\nformulated motor vehicle fuel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365597",
+      "number": "365.597",
+      "heading": "Disciplinary",
+      "text": "action for sale of motor vehicle fuel which exceeds ethanol tolerance\n\nprescribed by federal law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365600",
+      "number": "365.600",
+      "heading": "Imposition",
+      "text": "and deposit of administrative fines; injunctions and other remedies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365605",
+      "number": "365.605",
+      "heading": "Sealing",
+      "text": "of fuel pump or metered pipes and hoses of rack: Conditions; notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-365610",
+      "number": "365.610",
+      "heading": "Enforcement",
+      "text": "by sheriffs and other peace officers.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

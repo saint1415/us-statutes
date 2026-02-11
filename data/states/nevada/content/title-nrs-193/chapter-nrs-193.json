@@ -1,0 +1,750 @@
+{
+  "state": "nevada",
+  "path": "title-nrs-193/chapter-nrs-193",
+  "sections": [
+    {
+      "id": "section-193010",
+      "number": "193.010",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193011",
+      "number": "193.011",
+      "heading": "Boat�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1930115",
+      "number": "193.0115",
+      "heading": "Bond�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193012",
+      "number": "193.012",
+      "heading": "Break�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1930125",
+      "number": "193.0125",
+      "heading": "Building�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193013",
+      "number": "193.013",
+      "heading": "Corrupt�",
+      "text": "and �corruptly� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193014",
+      "number": "193.014",
+      "heading": "Dwelling",
+      "text": "house� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1930145",
+      "number": "193.0145",
+      "heading": "Enter�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1930148",
+      "number": "193.0148",
+      "heading": "Gender",
+      "text": "identity or expression� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1930155",
+      "number": "193.0155",
+      "heading": "Indicted,�",
+      "text": "�indictment,� �informed against� and �information� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193016",
+      "number": "193.016",
+      "heading": "Judge�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1930165",
+      "number": "193.0165",
+      "heading": "Jurors�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193017",
+      "number": "193.017",
+      "heading": "Knowingly�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1930175",
+      "number": "193.0175",
+      "heading": "Malice�",
+      "text": "and �maliciously� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193018",
+      "number": "193.018",
+      "heading": "Neglect,�",
+      "text": "�negligence,� �negligent� and �negligently� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1930185",
+      "number": "193.0185",
+      "heading": "Nighttime�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193019",
+      "number": "193.019",
+      "heading": "Officer�",
+      "text": "and �public officer� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1930195",
+      "number": "193.0195",
+      "heading": "Owner�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1930205",
+      "number": "193.0205",
+      "heading": "Person�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193021",
+      "number": "193.021",
+      "heading": "Personal",
+      "text": "property� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1930215",
+      "number": "193.0215",
+      "heading": "Prison�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193022",
+      "number": "193.022",
+      "heading": "Prisoner�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1930225",
+      "number": "193.0225",
+      "heading": "Property�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193023",
+      "number": "193.023",
+      "heading": "Railway�",
+      "text": "or �railroad� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1930235",
+      "number": "193.0235",
+      "heading": "Real",
+      "text": "property� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193024",
+      "number": "193.024",
+      "heading": "Signature�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1930245",
+      "number": "193.0245",
+      "heading": "Writing�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193030",
+      "number": "193.030",
+      "heading": "Construction",
+      "text": "of provisions of title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193040",
+      "number": "193.040",
+      "heading": "Intent",
+      "text": "to defraud. [Replaced in revision byNRS\n\n193.205.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193045",
+      "number": "193.045",
+      "heading": "Repeated",
+      "text": "conviction as element or aggravation of offense: Place of former conviction\n\nimmaterial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193050",
+      "number": "193.050",
+      "heading": "Conduct",
+      "text": "constituting crime; prohibited or unlawful acts; common law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193060",
+      "number": "193.060",
+      "heading": "Construction",
+      "text": "of provisions similar to existing laws.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193070",
+      "number": "193.070",
+      "heading": "Effect",
+      "text": "of provisions upon past offenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193075",
+      "number": "193.075",
+      "heading": "Effect",
+      "text": "of repeal of statute: Penalty previously imposed; prior violations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193080",
+      "number": "193.080",
+      "heading": "Application",
+      "text": "to existing civil rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193090",
+      "number": "193.090",
+      "heading": "Civil",
+      "text": "remedies preserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193100",
+      "number": "193.100",
+      "heading": "Proceedings",
+      "text": "to impeach or remove officers and others preserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193105",
+      "number": "193.105",
+      "heading": "Termination",
+      "text": "of employment, removal from office or impeachment of public employee or officer\n\nupon conviction for sale of controlled substance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193110",
+      "number": "193.110",
+      "heading": "Authority",
+      "text": "of courts-martial unaffected; punishment for contempt unaffected.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193120",
+      "number": "193.120",
+      "heading": "Classification",
+      "text": "of crimes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193130",
+      "number": "193.130",
+      "heading": "Categories",
+      "text": "and punishment of felonies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193140",
+      "number": "193.140",
+      "heading": "Punishment",
+      "text": "of gross misdemeanors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193150",
+      "number": "193.150",
+      "heading": "Punishment",
+      "text": "of misdemeanors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193151",
+      "number": "193.151",
+      "heading": "Prohibited",
+      "text": "act is misdemeanor when no penalty imposed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193153",
+      "number": "193.153",
+      "heading": "Punishment",
+      "text": "for attempts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193155",
+      "number": "193.155",
+      "heading": "Penalty",
+      "text": "for public offense proportionate to value of property affected or loss resulting\n\nfrom offense.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193160",
+      "number": "193.160",
+      "heading": "Penalty",
+      "text": "for misdemeanor by corporations when not fixed by statute.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1931605",
+      "number": "193.1605",
+      "heading": "Minimum",
+      "text": "punishment for gross misdemeanor committed on property of school, at activity\n\nsponsored by school or on school bus.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193161",
+      "number": "193.161",
+      "heading": "Felony",
+      "text": "committed on property of school, at activity sponsored by school or on school\n\nbus.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193162",
+      "number": "193.162",
+      "heading": "Felony",
+      "text": "committed by adult with assistance of child.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193163",
+      "number": "193.163",
+      "heading": "Use",
+      "text": "of handgun containing metal-penetrating bullet in commission of crime.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193165",
+      "number": "193.165",
+      "heading": "Use",
+      "text": "of deadly weapon or tear gas in commission of crime; restriction on probation\n\nand suspension of sentence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193166",
+      "number": "193.166",
+      "heading": "Felony",
+      "text": "committed in violation of order for protection or order to restrict conduct;\n\nrestriction on probation and suspension of sentence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193167",
+      "number": "193.167",
+      "heading": "Certain",
+      "text": "crimes committed against person 60 years of age or older or against vulnerable\n\nperson.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1931675",
+      "number": "193.1675",
+      "heading": "Commission",
+      "text": "of crime because of certain actual or perceived characteristics of person or\n\ngroup of persons; burden of proof.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1931677",
+      "number": "193.1677",
+      "heading": "Commission",
+      "text": "of crime because victim is first responder.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1931678",
+      "number": "193.1678",
+      "heading": "Commission",
+      "text": "of crime because victim is spouse or child of first responder.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193168",
+      "number": "193.168",
+      "heading": "Felony",
+      "text": "committed to promote activities of criminal gang; restriction on probation and\n\nsuspension of sentence; expert testimony.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1931685",
+      "number": "193.1685",
+      "heading": "Felony",
+      "text": "committed with intent to commit, cause, aid, further or conceal act of\n\nterrorism.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193169",
+      "number": "193.169",
+      "heading": "Limitation",
+      "text": "on imposition of additional and alternative penalties; alternative allegations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193170",
+      "number": "193.170",
+      "heading": "Prohibited",
+      "text": "act is misdemeanor when no penalty imposed. [Replaced in revision byNRS 193.151.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193190",
+      "number": "193.190",
+      "heading": "To",
+      "text": "constitute crime there must be unity of act and intent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193200",
+      "number": "193.200",
+      "heading": "Intent:",
+      "text": "How manifested.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193205",
+      "number": "193.205",
+      "heading": "Intent",
+      "text": "to defraud.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193210",
+      "number": "193.210",
+      "heading": "When",
+      "text": "person considered to be of sound mind.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193220",
+      "number": "193.220",
+      "heading": "When",
+      "text": "voluntary intoxication may be considered.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193225",
+      "number": "193.225",
+      "heading": "Prohibition",
+      "text": "against certain defenses involving sexual orientation or gender identity or\n\nexpression of victim.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193230",
+      "number": "193.230",
+      "heading": "Lawful",
+      "text": "resistance to commission of public offense: Who may make.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193240",
+      "number": "193.240",
+      "heading": "Resistance",
+      "text": "by party about to be injured.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193250",
+      "number": "193.250",
+      "heading": "Resistance",
+      "text": "by other persons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193260",
+      "number": "193.260",
+      "heading": "Persons",
+      "text": "acting by command of officers of justice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193270",
+      "number": "193.270",
+      "heading": "Acts",
+      "text": "punishable under foreign law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193280",
+      "number": "193.280",
+      "heading": "Defendant",
+      "text": "allowed to introduce in evidence foreign acquittal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193290",
+      "number": "193.290",
+      "heading": "Conviction",
+      "text": "or acquittal in other county is sufficient defense.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193300",
+      "number": "193.300",
+      "heading": "Punishment",
+      "text": "for contempt.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193301",
+      "number": "193.301",
+      "heading": "Omission",
+      "text": "to perform duty: When not punishable.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1933015",
+      "number": "193.3015",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193302",
+      "number": "193.302",
+      "heading": "Chemical",
+      "text": "agent� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1933025",
+      "number": "193.3025",
+      "heading": "Peace",
+      "text": "officer� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193303",
+      "number": "193.303",
+      "heading": "Physical",
+      "text": "force� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193304",
+      "number": "193.304",
+      "heading": "Prohibition",
+      "text": "against use of deadly force.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193305",
+      "number": "193.305",
+      "heading": "Prohibited",
+      "text": "acts relating to choke holds and compressing the airway or restricting the\n\nbreath of a person; requirement to ensure medical aid rendered to certain\n\npersons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193306",
+      "number": "193.306",
+      "heading": "Prohibited",
+      "text": "acts and duties relating to restraint chairs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193307",
+      "number": "193.307",
+      "heading": "Prohibited",
+      "text": "acts relating to protests and demonstrations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193308",
+      "number": "193.308",
+      "heading": "Duty",
+      "text": "of another peace officer to intervene to prevent or stop unjustified use of\n\nphysical force; duty to report observation of unjustified use of physical\n\nforce; retaliation prohibited; training required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193309",
+      "number": "193.309",
+      "heading": "Duties",
+      "text": "of law enforcement agencies, the Central Repository for Nevada Records of\n\nCriminal History and Attorney General relating to use-of-force data. [Effective\n\non the date that the Director of the Department of Public Safety determines\n\nthat there is sufficient funding to carry out the provisions of this section.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193310",
+      "number": "193.310",
+      "heading": "Sending",
+      "text": "letters: When offense deemed complete; venue.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193320",
+      "number": "193.320",
+      "heading": "Omission",
+      "text": "to perform duty: When not punishable. [Replaced in revision byNRS 193.301.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193330",
+      "number": "193.330",
+      "heading": "Punishment",
+      "text": "for attempts. [Replaced in revision byNRS\n\n193.153.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193340",
+      "number": "193.340",
+      "heading": "Required",
+      "text": "disclosure of certain information by provider of Internet service; penalty;\n\nissuance and enforcement of administrative subpoena; fee for information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193350",
+      "number": "193.350",
+      "heading": "Use",
+      "text": "of force by peace officer: Prohibited acts; requirement to ensure medical aid\n\nrendered to person injured. [Replaced in revision byNRS 193.305.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193355",
+      "number": "193.355",
+      "heading": "Use",
+      "text": "of force by peace officer: Duty of another peace officer to intervene to\n\nprevent or stop unjustified use of physical force; duty to report observation\n\nof unjustified use of physical force; retaliation prohibited; training\n\nrequired. [Replaced in revision byNRS\n\n193.308.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-193360",
+      "number": "193.360",
+      "heading": "Duty",
+      "text": "of state and local law enforcement agencies to submit data relating to crimes\n\nmanifesting evidence of prejudice based on race, color, religion, national\n\norigin, physical or mental disability, sexual orientation or gender identity or\n\nexpression; limitation on use of data.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

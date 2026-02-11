@@ -1,0 +1,558 @@
+{
+  "state": "new-hampshire",
+  "path": "title-title-xii-public-safety-and-welfare/chapter-chapter-169-b-delinquent-children",
+  "sections": [
+    {
+      "id": "section-169-b1",
+      "number": "169-B:1",
+      "heading": "Applicability of Chapter, Purpose.",
+      "text": "Applicability of Chapter, Purpose.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b2",
+      "number": "169-B:2",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b2-a",
+      "number": "169-B:2-a",
+      "heading": "Parental Responsibility.",
+      "text": "Parental Responsibility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b3",
+      "number": "169-B:3",
+      "heading": "Jurisdiction.",
+      "text": "Jurisdiction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b4",
+      "number": "169-B:4",
+      "heading": "Jurisdiction Over Certain Persons.",
+      "text": "Jurisdiction Over Certain Persons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b5",
+      "number": "169-B:5",
+      "heading": "Venue.",
+      "text": "Venue.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b5-a",
+      "number": "169-B:5-a",
+      "heading": "Filing Reports, Evaluations, and Other Records.",
+      "text": "Filing Reports, Evaluations, and Other Records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b6",
+      "number": "169-B:6",
+      "heading": "Petition.",
+      "text": "Petition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b6-a",
+      "number": "169-B:6-a",
+      "heading": "Notice of Petition to Department of Health and Human Services.",
+      "text": "Notice of Petition to Department of Health and Human Services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b7",
+      "number": "169-B:7",
+      "heading": "Issuance of Summons and Notice.",
+      "text": "Issuance of Summons and Notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b8",
+      "number": "169-B:8",
+      "heading": "Failure to Appear;  Felony Against Person or Property;  Felony Drug Offense;  Warrant.",
+      "text": "Failure to Appear; Felony Against Person or Property; Felony Drug Offense; Warrant.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b9",
+      "number": "169-B:9",
+      "heading": "Arrest or Taking Minor Into Custody.",
+      "text": "Arrest or Taking Minor Into Custody.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b9-a",
+      "number": "169-B:9-a",
+      "heading": "Use of Alternatives to Secure Detention.",
+      "text": "Use of Alternatives to Secure Detention.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b9-b",
+      "number": "169-B:9-b",
+      "heading": "Recognition of Foreign Probation Officers.",
+      "text": "Recognition of Foreign Probation Officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b10",
+      "number": "169-B:10",
+      "heading": "Juvenile Diversion.",
+      "text": "Juvenile Diversion.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b11",
+      "number": "169-B:11",
+      "heading": "Release Prior to Arraignment.",
+      "text": "Release Prior to Arraignment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b11-a",
+      "number": "169-B:11-a",
+      "heading": "Minor's Welfare;  Findings Regarding Removal.",
+      "text": "Minor's Welfare; Findings Regarding Removal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b12",
+      "number": "169-B:12",
+      "heading": "Appointment of Counsel;  Waiver of Counsel.",
+      "text": "Appointment of Counsel; Waiver of Counsel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b12-a",
+      "number": "169-B:12-a",
+      "heading": "Repealed by 2020, 26:36, I, effective July 1, 2021.",
+      "text": "Repealed by 2020, 26:36, I, effective July 1, 2021.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b13",
+      "number": "169-B:13",
+      "heading": "Arraignment;  Court Referrals;  Uncompensated Public Service by Minors.",
+      "text": "Arraignment; Court Referrals; Uncompensated Public Service by Minors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b14",
+      "number": "169-B:14",
+      "heading": "Release or Detention Pending Adjudicatory Hearing.",
+      "text": "Release or Detention Pending Adjudicatory Hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b15",
+      "number": "169-B:15",
+      "heading": "No Detention at Jail.",
+      "text": "No Detention at Jail.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b15-a",
+      "number": "169-B:15-a",
+      "heading": "Inspection of Facilities;  Lock-up Log.",
+      "text": "Inspection of Facilities; Lock-up Log.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b15-b",
+      "number": "169-B:15-b",
+      "heading": "Notification of Right to Request Records.",
+      "text": "Notification of Right to Request Records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b15-c",
+      "number": "169-B:15-c",
+      "heading": "Facilities;  Digital Video Recording.",
+      "text": "Facilities; Digital Video Recording.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b16",
+      "number": "169-B:16",
+      "heading": "Adjudicatory Hearing.",
+      "text": "Adjudicatory Hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b16-a",
+      "number": "169-B:16-a",
+      "heading": "Limits on Extended Detention Following Adjudicatory Hearing.",
+      "text": "Limits on Extended Detention Following Adjudicatory Hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b17",
+      "number": "169-B:17",
+      "heading": "Burden of Proof.",
+      "text": "Burden of Proof.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b18",
+      "number": "169-B:18",
+      "heading": "Custody Pending Final Disposition.",
+      "text": "Custody Pending Final Disposition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b19",
+      "number": "169-B:19",
+      "heading": "Dispositional Hearing.",
+      "text": "Dispositional Hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b19-a",
+      "number": "169-B:19-a",
+      "heading": "Out-of-District Placement.",
+      "text": "Out-of-District Placement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b19-b",
+      "number": "169-B:19-b",
+      "heading": "Presumption in Favor of In-State Placements.",
+      "text": "Presumption in Favor of In-State Placements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b19-c",
+      "number": "169-B:19-c",
+      "heading": "Court Order for Services, Placements, and Programs Required for Minors From Certain Providers Qualified for Third-Party Payment.",
+      "text": "Court Order for Services, Placements, and Programs Required for Minors From Certain Providers Qualified for Third-Party Payment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b19-d",
+      "number": "169-B:19-d",
+      "heading": "Placement in a Qualified Residential Treatment Program.",
+      "text": "Placement in a Qualified Residential Treatment Program.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b19-e",
+      "number": "169-B:19-e",
+      "heading": "Placement for Evaluation.",
+      "text": "Placement for Evaluation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b20",
+      "number": "169-B:20",
+      "heading": "Determination of Competence.",
+      "text": "Determination of Competence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b21",
+      "number": "169-B:21",
+      "heading": "Mental Health and Substance Abuse Evaluation.",
+      "text": "Mental Health and Substance Abuse Evaluation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b22",
+      "number": "169-B:22",
+      "heading": "Disposition of a Minor With a Disability.",
+      "text": "Disposition of a Minor With a Disability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b22-a",
+      "number": "169-B:22-a",
+      "heading": "Notice to School District of Out-of-Home Placement;  Development of Transition Plan.",
+      "text": "Notice to School District of Out-of-Home Placement; Development of Transition Plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b23",
+      "number": "169-B:23",
+      "heading": "Orders for Health Examination and Treatment.",
+      "text": "Orders for Health Examination and Treatment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b24",
+      "number": "169-B:24",
+      "heading": "Transfer to Superior Court.",
+      "text": "Transfer to Superior Court.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b25",
+      "number": "169-B:25",
+      "heading": "Petition by County Attorney or Attorney General.",
+      "text": "Petition by County Attorney or Attorney General.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b26",
+      "number": "169-B:26",
+      "heading": "Petition by Minor.",
+      "text": "Petition by Minor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b27",
+      "number": "169-B:27",
+      "heading": "Treatment of Juvenile as Adult.",
+      "text": "Treatment of Juvenile as Adult.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b28",
+      "number": "169-B:28",
+      "heading": "Disqualification of Judge.",
+      "text": "Disqualification of Judge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b29",
+      "number": "169-B:29",
+      "heading": "Appeals.",
+      "text": "Appeals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b30",
+      "number": "169-B:30",
+      "heading": "Committal of Children Under Eleven.",
+      "text": "Committal of Children Under Eleven.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b31",
+      "number": "169-B:31",
+      "heading": "Case Closure and Review of Disposition.",
+      "text": "Case Closure and Review of Disposition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b31-a",
+      "number": "169-B:31-a",
+      "heading": "Permanency Hearings.",
+      "text": "Permanency Hearings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b31-b",
+      "number": "169-B:31-b",
+      "heading": "Data Collection;  Reporting Requirement.",
+      "text": "Data Collection; Reporting Requirement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b31-c",
+      "number": "169-B:31-c",
+      "heading": "Dispositions and Case Closure in Certain Cases.",
+      "text": "Dispositions and Case Closure in Certain Cases.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b32",
+      "number": "169-B:32",
+      "heading": "Limitations of Authority Conferred.",
+      "text": "Limitations of Authority Conferred.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b33",
+      "number": "169-B:33",
+      "heading": "Religious Preference.",
+      "text": "Religious Preference.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b34",
+      "number": "169-B:34",
+      "heading": "Court Sessions;  Access to Information.",
+      "text": "Court Sessions; Access to Information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b35",
+      "number": "169-B:35",
+      "heading": "Juvenile Case and Court Records.",
+      "text": "Juvenile Case and Court Records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b35-a",
+      "number": "169-B:35-a",
+      "heading": "Access to Information by Victims of Violent Crime.",
+      "text": "Access to Information by Victims of Violent Crime.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b36",
+      "number": "169-B:36",
+      "heading": "Penalty for Disclosure of Juvenile Records.",
+      "text": "Penalty for Disclosure of Juvenile Records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b37",
+      "number": "169-B:37",
+      "heading": "Publication of Delinquency Restricted.",
+      "text": "Publication of Delinquency Restricted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b38",
+      "number": "169-B:38",
+      "heading": "Penalty for Forbidden Publication.",
+      "text": "Penalty for Forbidden Publication.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b39",
+      "number": "169-B:39",
+      "heading": "Repealed by 1989, 285:12, eff. July 28, 1989.",
+      "text": "Repealed by 1989, 285:12, eff. July 28, 1989.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b40",
+      "number": "169-B:40",
+      "heading": "Liability for Expenses Incurred.",
+      "text": "Liability for Expenses Incurred.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b41",
+      "number": "169-B:41",
+      "heading": "Intentional Contribution to Delinquency.",
+      "text": "Intentional Contribution to Delinquency.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b42",
+      "number": "169-B:42",
+      "heading": "Procedure.",
+      "text": "Procedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b43",
+      "number": "169-B:43",
+      "heading": "Court Orders.",
+      "text": "Court Orders.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b44",
+      "number": "169-B:44",
+      "heading": "Civil Action for Compensation.",
+      "text": "Civil Action for Compensation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b45",
+      "number": "169-B:45",
+      "heading": "Vandalism by Minors.",
+      "text": "Vandalism by Minors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b46",
+      "number": "169-B:46",
+      "heading": "Publication Permitted.",
+      "text": "Publication Permitted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b47",
+      "number": "169-B:47",
+      "heading": "Severability.",
+      "text": "Severability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-169-b48",
+      "number": "169-B:48",
+      "heading": "Repealed by 2023, 1:6, eff. Nov. 1, 2024.",
+      "text": "Repealed by 2023, 1:6, eff. Nov. 1, 2024.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

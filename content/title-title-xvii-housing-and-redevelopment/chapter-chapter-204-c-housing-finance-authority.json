@@ -1,0 +1,774 @@
+{
+  "state": "new-hampshire",
+  "path": "title-title-xvii-housing-and-redevelopment/chapter-chapter-204-c-housing-finance-authority",
+  "sections": [
+    {
+      "id": "section-204-c1",
+      "number": "204-C:1",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c2",
+      "number": "204-C:2",
+      "heading": "Authority Established.",
+      "text": "Authority Established.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c3",
+      "number": "204-C:3",
+      "heading": "Housing Finance Board.",
+      "text": "Housing Finance Board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c4",
+      "number": "204-C:4",
+      "heading": "Meetings of Board.",
+      "text": "Meetings of Board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c5",
+      "number": "204-C:5",
+      "heading": "Executive Director;  Operations.",
+      "text": "Executive Director; Operations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c6",
+      "number": "204-C:6",
+      "heading": "Surety Required.",
+      "text": "Surety Required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c7",
+      "number": "204-C:7",
+      "heading": "Disqualification of Member.",
+      "text": "Disqualification of Member.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c8",
+      "number": "204-C:8",
+      "heading": "General Powers.",
+      "text": "General Powers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c8-a",
+      "number": "204-C:8-a",
+      "heading": "Publication Required.",
+      "text": "Publication Required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c8-b",
+      "number": "204-C:8-b",
+      "heading": "Terms and Conditions of Municipal Grants or Loans.",
+      "text": "Terms and Conditions of Municipal Grants or Loans.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c9",
+      "number": "204-C:9",
+      "heading": "Rulemaking Authority.",
+      "text": "Rulemaking Authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c10",
+      "number": "204-C:10",
+      "heading": "Bonds by Certain Mortgagors.",
+      "text": "Bonds by Certain Mortgagors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c11",
+      "number": "204-C:11",
+      "heading": "Area of Operation;  Sole Statewide Public Housing Agency.",
+      "text": "Area of Operation; Sole Statewide Public Housing Agency.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c11-a",
+      "number": "204-C:11-a",
+      "heading": "Financing for Community Providers.",
+      "text": "Financing for Community Providers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c12",
+      "number": "204-C:12",
+      "heading": "Exempt from Department of Transportation Supervision.",
+      "text": "Exempt from Department of Transportation Supervision.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c13",
+      "number": "204-C:13",
+      "heading": "Repealed by 1988, 240:9, eff. July 1, 1988.",
+      "text": "Repealed by 1988, 240:9, eff. July 1, 1988.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c14",
+      "number": "204-C:14",
+      "heading": "Bonds Subject to Federal Laws.",
+      "text": "Bonds Subject to Federal Laws.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c15",
+      "number": "204-C:15",
+      "heading": "Mortgage Loans.",
+      "text": "Mortgage Loans.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c16",
+      "number": "204-C:16",
+      "heading": "Conditions on Mortgage Loans.",
+      "text": "Conditions on Mortgage Loans.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c17",
+      "number": "204-C:17",
+      "heading": "Purchase of Mortgage Loans and Loans.",
+      "text": "Purchase of Mortgage Loans and Loans.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c18",
+      "number": "204-C:18",
+      "heading": "Conditions on Purchase of Mortgage or Loan.",
+      "text": "Conditions on Purchase of Mortgage or Loan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c19",
+      "number": "204-C:19",
+      "heading": "Loans to Lending Institutions.",
+      "text": "Loans to Lending Institutions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c20",
+      "number": "204-C:20",
+      "heading": "Findings.",
+      "text": "Findings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c21",
+      "number": "204-C:21",
+      "heading": "Regulatory Agreements for Mortgage Loans.",
+      "text": "Regulatory Agreements for Mortgage Loans.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c22",
+      "number": "204-C:22",
+      "heading": "Rent Levels.",
+      "text": "Rent Levels.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c23",
+      "number": "204-C:23",
+      "heading": "Adjustments of Rents.",
+      "text": "Adjustments of Rents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c24",
+      "number": "204-C:24",
+      "heading": "Tenants and Operations.",
+      "text": "Tenants and Operations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c25",
+      "number": "204-C:25",
+      "heading": "Repealed by 2014, 323:7, eff. Sept. 30, 2014.",
+      "text": "Repealed by 2014, 323:7, eff. Sept. 30, 2014.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c26",
+      "number": "204-C:26",
+      "heading": "Bonds of Authority.",
+      "text": "Bonds of Authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c27",
+      "number": "204-C:27",
+      "heading": "Bonds for Refunding Purposes.",
+      "text": "Bonds for Refunding Purposes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c28",
+      "number": "204-C:28",
+      "heading": "General Obligations.",
+      "text": "General Obligations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c29",
+      "number": "204-C:29",
+      "heading": "Maturity Dates.",
+      "text": "Maturity Dates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c30",
+      "number": "204-C:30",
+      "heading": "Investment of Authority Money.",
+      "text": "Investment of Authority Money.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c31",
+      "number": "204-C:31",
+      "heading": "Subordinate Obligations.",
+      "text": "Subordinate Obligations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c32",
+      "number": "204-C:32",
+      "heading": "Conditions on Obligations.",
+      "text": "Conditions on Obligations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c33",
+      "number": "204-C:33",
+      "heading": "Perfection of Pledge.",
+      "text": "Perfection of Pledge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c34",
+      "number": "204-C:34",
+      "heading": "Personal Liability Limited.",
+      "text": "Personal Liability Limited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c35",
+      "number": "204-C:35",
+      "heading": "Purchase of Obligations by Authority.",
+      "text": "Purchase of Obligations by Authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c36",
+      "number": "204-C:36",
+      "heading": "Conditions for Approval.",
+      "text": "Conditions for Approval.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c37",
+      "number": "204-C:37",
+      "heading": "Trust Agreements.",
+      "text": "Trust Agreements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c38",
+      "number": "204-C:38",
+      "heading": "Validity of Signatures.",
+      "text": "Validity of Signatures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c39",
+      "number": "204-C:39",
+      "heading": "Validity of Obligations.",
+      "text": "Validity of Obligations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c40",
+      "number": "204-C:40",
+      "heading": "Reserve Funds.",
+      "text": "Reserve Funds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c41",
+      "number": "204-C:41",
+      "heading": "Requests for Appropriations.",
+      "text": "Requests for Appropriations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c42",
+      "number": "204-C:42",
+      "heading": "Remedies of Bondholders and Noteholders.",
+      "text": "Remedies of Bondholders and Noteholders.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c43",
+      "number": "204-C:43",
+      "heading": "Alteration of Rights of Bondholders and Noteholders.",
+      "text": "Alteration of Rights of Bondholders and Noteholders.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c44",
+      "number": "204-C:44",
+      "heading": "Credit of State Not Pledged.",
+      "text": "Credit of State Not Pledged.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c45",
+      "number": "204-C:45",
+      "heading": "Obligations as Legal Investments.",
+      "text": "Obligations as Legal Investments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c46",
+      "number": "204-C:46",
+      "heading": "Audit and Annual Reports.",
+      "text": "Audit and Annual Reports.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c47",
+      "number": "204-C:47",
+      "heading": "Repealed by 2025, 121:5, eff. Aug. 23, 2025.",
+      "text": "Repealed by 2025, 121:5, eff. Aug. 23, 2025.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c48",
+      "number": "204-C:48",
+      "heading": "Authorization to Accept State Money.",
+      "text": "Authorization to Accept State Money.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c49",
+      "number": "204-C:49",
+      "heading": "Tax Exemption.",
+      "text": "Tax Exemption.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c50",
+      "number": "204-C:50",
+      "heading": "Statutory Construction.",
+      "text": "Statutory Construction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c51",
+      "number": "204-C:51",
+      "heading": "Local Laws and Taxes.",
+      "text": "Local Laws and Taxes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c52",
+      "number": "204-C:52",
+      "heading": "Relation to Other Agencies.",
+      "text": "Relation to Other Agencies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c53",
+      "number": "204-C:53",
+      "heading": "Exemption from Administrative Procedure Act.",
+      "text": "Exemption from Administrative Procedure Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c54",
+      "number": "204-C:54",
+      "heading": "Separability.",
+      "text": "Separability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c55",
+      "number": "204-C:55",
+      "heading": "Inconsistent Provisions in Other Laws Superseded.",
+      "text": "Inconsistent Provisions in Other Laws Superseded.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c56",
+      "number": "204-C:56",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c57",
+      "number": "204-C:57",
+      "heading": "Fund Established.",
+      "text": "Fund Established.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-unknown",
+      "number": ":",
+      "heading": "204-C:57-a, 204-C:57-b Repealed by 1994, 386:13, I, as amended by 1995, 306:8, eff. July 1, 1996.",
+      "text": "204-C:57-a, 204-C:57-b Repealed by 1994, 386:13, I, as amended by 1995, 306:8, eff. July 1, 1996.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c58",
+      "number": "204-C:58",
+      "heading": "Oversight of Projects.",
+      "text": "Oversight of Projects.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c59",
+      "number": "204-C:59",
+      "heading": "Capitalization of Fund.",
+      "text": "Capitalization of Fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c60",
+      "number": "204-C:60",
+      "heading": "Investments of Funds.",
+      "text": "Investments of Funds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c61",
+      "number": "204-C:61",
+      "heading": "Role of Authority Concerning Funds.",
+      "text": "Role of Authority Concerning Funds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c62",
+      "number": "204-C:62",
+      "heading": "Rulemaking.",
+      "text": "Rulemaking.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c63",
+      "number": "204-C:63",
+      "heading": "Purpose.",
+      "text": "Purpose.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c64",
+      "number": "204-C:64",
+      "heading": "Program Established.",
+      "text": "Program Established.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c65",
+      "number": "204-C:65",
+      "heading": "Loans for Down Payments;  Priority.",
+      "text": "Loans for Down Payments; Priority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c66",
+      "number": "204-C:66",
+      "heading": "Sale of Property.",
+      "text": "Sale of Property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c67",
+      "number": "204-C:67",
+      "heading": "Public Benefit.",
+      "text": "Public Benefit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c68",
+      "number": "204-C:68",
+      "heading": "Rulemaking.",
+      "text": "Rulemaking.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c69",
+      "number": "204-C:69",
+      "heading": "Coordination with Other Programs.",
+      "text": "Coordination with Other Programs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c70",
+      "number": "204-C:70",
+      "heading": "Investment of Funds.",
+      "text": "Investment of Funds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c71",
+      "number": "204-C:71",
+      "heading": "Purpose.",
+      "text": "Purpose.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c72",
+      "number": "204-C:72",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c73",
+      "number": "204-C:73",
+      "heading": "Rulemaking.",
+      "text": "Rulemaking.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c74",
+      "number": "204-C:74",
+      "heading": "Administration;  Eligibility;  Demonstration.",
+      "text": "Administration; Eligibility; Demonstration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c75",
+      "number": "204-C:75",
+      "heading": "Guarantee.",
+      "text": "Guarantee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c76",
+      "number": "204-C:76",
+      "heading": "Guarantee Certificate Conclusive.",
+      "text": "Guarantee Certificate Conclusive.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c77",
+      "number": "204-C:77",
+      "heading": "Subrogation and Order of Payment.",
+      "text": "Subrogation and Order of Payment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c78",
+      "number": "204-C:78",
+      "heading": "Guarantee Fee.",
+      "text": "Guarantee Fee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c79",
+      "number": "204-C:79",
+      "heading": "Guarantee;  Credit of State Pledged.",
+      "text": "Guarantee; Credit of State Pledged.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c80",
+      "number": "204-C:80",
+      "heading": "Purpose.",
+      "text": "Purpose.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c81",
+      "number": "204-C:81",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c82",
+      "number": "204-C:82",
+      "heading": "Fund Established.",
+      "text": "Fund Established.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c83",
+      "number": "204-C:83",
+      "heading": "Program Design.",
+      "text": "Program Design.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c84",
+      "number": "204-C:84",
+      "heading": "Investment of Funds.",
+      "text": "Investment of Funds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c85",
+      "number": "204-C:85",
+      "heading": "Rulemaking.",
+      "text": "Rulemaking.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c86",
+      "number": "204-C:86",
+      "heading": "Coordination with Other Programs.",
+      "text": "Coordination with Other Programs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c87",
+      "number": "204-C:87",
+      "heading": "Assistance to Applicants.",
+      "text": "Assistance to Applicants.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c88",
+      "number": "204-C:88",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c89",
+      "number": "204-C:89",
+      "heading": "Lead Paint Hazard Remediation Fund Established.",
+      "text": "Lead Paint Hazard Remediation Fund Established.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c90",
+      "number": "204-C:90",
+      "heading": "Eligibility.",
+      "text": "Eligibility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c91",
+      "number": "204-C:91",
+      "heading": "Use of Federal Funds.",
+      "text": "Use of Federal Funds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-204-c92",
+      "number": "204-C:92",
+      "heading": "Rulemaking.",
+      "text": "Rulemaking.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

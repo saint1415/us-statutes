@@ -1,0 +1,382 @@
+{
+  "state": "nevada",
+  "path": "title-nrs-150/chapter-nrs-150",
+  "sections": [
+    {
+      "id": "section-150010",
+      "number": "150.010",
+      "heading": "Expenses",
+      "text": "and compensation of personal representative.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150020",
+      "number": "150.020",
+      "heading": "General",
+      "text": "compensation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150025",
+      "number": "150.025",
+      "heading": "Compensation",
+      "text": "of personal representative who is an attorney.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150030",
+      "number": "150.030",
+      "heading": "Compensation",
+      "text": "for extraordinary services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150040",
+      "number": "150.040",
+      "heading": "Contracts",
+      "text": "for higher compensation void.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150050",
+      "number": "150.050",
+      "heading": "Allowance",
+      "text": "on compensation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150060",
+      "number": "150.060",
+      "heading": "Attorneys",
+      "text": "for personal representatives and minor, absent, unborn, incapacitated or\n\nnonresident heirs: General compensation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1500605",
+      "number": "150.0605",
+      "heading": "Attorneys",
+      "text": "for petitioners generally: Compensation when estate�s value does not exceed\n\n$100,000.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150061",
+      "number": "150.061",
+      "heading": "Attorneys",
+      "text": "for personal representatives: Compensation for extraordinary services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150063",
+      "number": "150.063",
+      "heading": "Attorneys",
+      "text": "for personal representatives: Apportionment of compensation for two or more\n\nattorneys.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150065",
+      "number": "150.065",
+      "heading": "Attorneys",
+      "text": "for personal representatives: Allowance of compensation after period for\n\ncreditors to file claims against estate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150067",
+      "number": "150.067",
+      "heading": "Attorneys",
+      "text": "for personal representatives: Final compensation; petition; notice; hearing and\n\norder.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150070",
+      "number": "150.070",
+      "heading": "Liability",
+      "text": "of personal representative; accounting required for property sold over\n\ninventoried value.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150075",
+      "number": "150.075",
+      "heading": "Waiver",
+      "text": "of accounting.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150080",
+      "number": "150.080",
+      "heading": "First",
+      "text": "account: Filing and contents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150100",
+      "number": "150.100",
+      "heading": "Penalties",
+      "text": "for failure to file first account.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150105",
+      "number": "150.105",
+      "heading": "Annual",
+      "text": "account: Contents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150110",
+      "number": "150.110",
+      "heading": "Final",
+      "text": "account: Filing; penalties for failure to file.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150115",
+      "number": "150.115",
+      "heading": "Supplementary",
+      "text": "account to final account.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150120",
+      "number": "150.120",
+      "heading": "Accounting",
+      "text": "when authority of personal representative ceases.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150130",
+      "number": "150.130",
+      "heading": "Accounts",
+      "text": "of deceased or incapacitated personal representative: Accounting by personal\n\nrepresentative, guardian or attorney.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150140",
+      "number": "150.140",
+      "heading": "Revocation",
+      "text": "of letters when personal representative absconds and fails to account.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150150",
+      "number": "150.150",
+      "heading": "Vouchers",
+      "text": "for payments: Filing not required; examination and audit; lost or unavailable.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150160",
+      "number": "150.160",
+      "heading": "Account",
+      "text": "and petition for settlement: Hearing and notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150170",
+      "number": "150.170",
+      "heading": "Contest",
+      "text": "of account: Rights of interested person; hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150180",
+      "number": "150.180",
+      "heading": "Appointment",
+      "text": "of attorney to represent minor, unborn, incapacitated or absent heirs and\n\ndevisees; fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150190",
+      "number": "150.190",
+      "heading": "Proof",
+      "text": "of notice necessary before allowance of account.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150200",
+      "number": "150.200",
+      "heading": "Allowance",
+      "text": "and confirmation of account.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150210",
+      "number": "150.210",
+      "heading": "Effect",
+      "text": "of order settling account.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150225",
+      "number": "150.225",
+      "heading": "Payments",
+      "text": "to be made according to will; sources of payment if provision or property of\n\nwill insufficient.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150230",
+      "number": "150.230",
+      "heading": "Duty",
+      "text": "to pay certain expenses, allowances, debts and claims upon receipt of\n\nsufficient money; discretion to pay certain smaller debts; funeral expenses and\n\nexpenses of last illness not charged to community share of surviving spouse.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150240",
+      "number": "150.240",
+      "heading": "Order",
+      "text": "of court for payment of debts; treatment of classes of creditors; discharge of\n\npersonal representative upon compliance with order if property of estate\n\nexhausted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150250",
+      "number": "150.250",
+      "heading": "Claims",
+      "text": "not yet due and contingent or disputed claim.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150260",
+      "number": "150.260",
+      "heading": "Liability",
+      "text": "of personal representative.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150270",
+      "number": "150.270",
+      "heading": "Claim",
+      "text": "not included in order of payment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150280",
+      "number": "150.280",
+      "heading": "Closing",
+      "text": "administration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150290",
+      "number": "150.290",
+      "heading": "Short",
+      "text": "title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150300",
+      "number": "150.300",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150310",
+      "number": "150.310",
+      "heading": "Proration",
+      "text": "of tax among persons interested in estate; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150320",
+      "number": "150.320",
+      "heading": "Direction",
+      "text": "for apportionment of estate tax: Precedence; limitation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150330",
+      "number": "150.330",
+      "heading": "Jurisdiction",
+      "text": "of court; methods of proration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150340",
+      "number": "150.340",
+      "heading": "Present",
+      "text": "and future estates: Charge of tax against corpus without apportionment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150350",
+      "number": "150.350",
+      "heading": "Property",
+      "text": "not possessed by personal representative: Recovery from person in possession or\n\ninterested in estate; court may direct payment; expenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150360",
+      "number": "150.360",
+      "heading": "Court",
+      "text": "order directing amounts of tax to be charged against or paid by takers of\n\nestate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150370",
+      "number": "150.370",
+      "heading": "Retention",
+      "text": "of jurisdiction by court.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150380",
+      "number": "150.380",
+      "heading": "Apportionment",
+      "text": "of tax and expenses imposed and incurred on property located or administered in\n\nthis State in estate of nonresident.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-150400",
+      "number": "150.400",
+      "heading": "Apportionment;",
+      "text": "limitations.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

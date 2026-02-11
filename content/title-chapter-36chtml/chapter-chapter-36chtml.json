@@ -1,0 +1,1582 @@
+{
+  "state": "north-carolina",
+  "path": "title-chapter-36chtml/chapter-chapter-36chtml",
+  "sections": [
+    {
+      "id": "section-1",
+      "number": "1",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-1-101",
+      "number": "36C-1-101.",
+      "heading": "Short title.",
+      "text": "Short title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-1-102",
+      "number": "36C-1-102.",
+      "heading": "Scope.",
+      "text": "Scope.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-1-103",
+      "number": "36C-1-103.",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-1-104",
+      "number": "36C-1-104.",
+      "heading": "Knowledge.",
+      "text": "Knowledge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-1-105",
+      "number": "36C-1-105.",
+      "heading": "Default and mandatory rules.",
+      "text": "Default and mandatory rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-1-106",
+      "number": "36C-1-106.",
+      "heading": "Common law of trusts; principles of equity.",
+      "text": "Common law of trusts; principles of equity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-1-107",
+      "number": "36C-1-107.",
+      "heading": "Governing law.",
+      "text": "Governing law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-1-108",
+      "number": "36C-1-108.",
+      "heading": "Principal place of administration.",
+      "text": "Principal place of administration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-1-109",
+      "number": "36C-1-109.",
+      "heading": "Methods and waiver of notice.",
+      "text": "Methods and waiver of notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-1-110",
+      "number": "36C-1-110.",
+      "heading": "Others treated as qualified beneficiaries.",
+      "text": "Others treated as qualified beneficiaries.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-1-111",
+      "number": "36C-1-111.",
+      "heading": "Nonjudicial settlement agreements.",
+      "text": "Nonjudicial settlement agreements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-1-112",
+      "number": "36C-1-112.",
+      "heading": "Rules of construction.",
+      "text": "Rules of construction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-1-113",
+      "number": "36C-1-113.",
+      "heading": "Construction of certain formula clauses applicable to estates of decedents dying in calendar year 2010.",
+      "text": "Construction of certain formula clauses applicable to estates of decedents dying in calendar year 2010.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-1-114",
+      "number": "36C-1-114.",
+      "heading": "Insurable interest of trustee.",
+      "text": "Insurable interest of trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2",
+      "number": "2",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-2-201",
+      "number": "36C-2-201.",
+      "heading": "Role of court in administration of trust.",
+      "text": "Role of court in administration of trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-2-202",
+      "number": "36C-2-202.",
+      "heading": "Jurisdiction over trustee and beneficiary.",
+      "text": "Jurisdiction over trustee and beneficiary.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-2-203",
+      "number": "36C-2-203.",
+      "heading": "Subject matter jurisdiction.",
+      "text": "Subject matter jurisdiction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-2-204",
+      "number": "36C-2-204.",
+      "heading": "Venue.",
+      "text": "Venue.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-2-205",
+      "number": "36C-2-205.",
+      "heading": "Commencement of proceedings, pleadings, consolidation, and joinder.",
+      "text": "Commencement of proceedings, pleadings, consolidation, and joinder.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-2-206",
+      "number": "36C-2-206.",
+      "heading": "Representation of parties.",
+      "text": "Representation of parties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-2-207",
+      "number": "36C-2-207.",
+      "heading": "Waiver of notice.",
+      "text": "Waiver of notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-2-208",
+      "number": "36C-2-208.",
+      "heading": "Accounting to clerk.",
+      "text": "Accounting to clerk.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-2-209",
+      "number": "36C-2-209.",
+      "heading": "Qualification and accounting of trustee of a testamentary trust.",
+      "text": "Qualification and accounting of trustee of a testamentary trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3",
+      "number": "3",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-3-301",
+      "number": "36C-3-301.",
+      "heading": "Representation: basic effect.",
+      "text": "Representation: basic effect.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-3-302",
+      "number": "36C-3-302.",
+      "heading": "Representation by holder of power of revocation or general power of appointment.",
+      "text": "Representation by holder of power of revocation or general power of appointment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-3-303",
+      "number": "36C-3-303.",
+      "heading": "Representation by fiduciaries, parents, and other persons.",
+      "text": "Representation by fiduciaries, parents, and other persons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-3-304",
+      "number": "36C-3-304.",
+      "heading": "Representation by person having substantially identical interest.",
+      "text": "Representation by person having substantially identical interest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-3-305",
+      "number": "36C-3-305.",
+      "heading": "Appointment of representative; scope of representation.",
+      "text": "Appointment of representative; scope of representation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4",
+      "number": "4",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4-401",
+      "number": "36C-4-401.",
+      "heading": "Methods of creating trust.",
+      "text": "Methods of creating trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4-4011",
+      "number": "36C-4-401.1.",
+      "heading": "Interest of trustee as beneficiary of life insurance or other death benefit sufficient to support inter vivos or testamentary trust.",
+      "text": "Interest of trustee as beneficiary of life insurance or other death benefit sufficient to support inter vivos or testamentary trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4-4012",
+      "number": "36C-4-401.2.",
+      "heading": "Creation of trust by a court.",
+      "text": "Creation of trust by a court.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4-402",
+      "number": "36C-4-402.",
+      "heading": "Requirements for creation.",
+      "text": "Requirements for creation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4-403",
+      "number": "36C-4-403.",
+      "heading": "Trusts created in other jurisdictions.",
+      "text": "Trusts created in other jurisdictions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4-404",
+      "number": "36C-4-404.",
+      "heading": "Trust purposes.",
+      "text": "Trust purposes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4-405",
+      "number": "36C-4-405.",
+      "heading": "Charitable purposes.",
+      "text": "Charitable purposes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4-4051",
+      "number": "36C-4-405.1.",
+      "heading": "Enforcement of charitable gift or trust.",
+      "text": "Enforcement of charitable gift or trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4-4052",
+      "number": "36C-4-405.2.",
+      "heading": "Spending rules applicable to charitable trusts.",
+      "text": "Spending rules applicable to charitable trusts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4-406",
+      "number": "36C-4-406.",
+      "heading": "Creation of trust induced by fraud, duress, or undue influence.",
+      "text": "Creation of trust induced by fraud, duress, or undue influence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4-407",
+      "number": "36C-4-407.",
+      "heading": "Evidence of oral trust.",
+      "text": "Evidence of oral trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4-408",
+      "number": "36C-4-408.",
+      "heading": "Trust for care of animal.",
+      "text": "Trust for care of animal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4-409",
+      "number": "36C-4-409.",
+      "heading": "Noncharitable trust without ascertainable beneficiary.",
+      "text": "Noncharitable trust without ascertainable beneficiary.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4-410",
+      "number": "36C-4-410.",
+      "heading": "Modification or termination of trust; proceedings for approval or disapproval.",
+      "text": "Modification or termination of trust; proceedings for approval or disapproval.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4-411",
+      "number": "36C-4-411.",
+      "heading": "Modification or termination of noncharitable irrevocable trust by consent.",
+      "text": "Modification or termination of noncharitable irrevocable trust by consent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4-412",
+      "number": "36C-4-412.",
+      "heading": "Modification or termination because of unanticipated circumstances or inability to administer trust effectively.",
+      "text": "Modification or termination because of unanticipated circumstances or inability to administer trust effectively.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4-413",
+      "number": "36C-4-413.",
+      "heading": "Cy pres.",
+      "text": "Cy pres.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4-414",
+      "number": "36C-4-414.",
+      "heading": "Modification or termination of uneconomic trust.",
+      "text": "Modification or termination of uneconomic trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4-415",
+      "number": "36C-4-415.",
+      "heading": "Reformation to correct mistakes.",
+      "text": "Reformation to correct mistakes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4-416",
+      "number": "36C-4-416.",
+      "heading": "Modification to achieve settlor's tax objectives.",
+      "text": "Modification to achieve settlor's tax objectives.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4-417",
+      "number": "36C-4-417.",
+      "heading": "Combination and division of trusts.",
+      "text": "Combination and division of trusts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4-418",
+      "number": "36C-4-418.",
+      "heading": "Distribution upon termination of trust.",
+      "text": "Distribution upon termination of trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4-419",
+      "number": "36C-4-419.",
+      "heading": "Effect of inalienable interest on modification or termination.",
+      "text": "Effect of inalienable interest on modification or termination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4a",
+      "number": "4A",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4a-1",
+      "number": "36C-4A-1.",
+      "heading": "Prohibited transactions.",
+      "text": "Prohibited transactions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4a-2",
+      "number": "36C-4A-2.",
+      "heading": "Reformation of charitable remainder trust.",
+      "text": "Reformation of charitable remainder trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4b",
+      "number": "4B",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4b-1",
+      "number": "36C-4B-1.",
+      "heading": "Short title.",
+      "text": "Short title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4b-2",
+      "number": "36C-4B-2.",
+      "heading": "General rule.",
+      "text": "General rule.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4b-3",
+      "number": "36C-4B-3.",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4b-4",
+      "number": "36C-4B-4.",
+      "heading": "Administrative provisions applicable to both charitable remainder annuity trusts and charitable remainder unitrusts.",
+      "text": "Administrative provisions applicable to both charitable remainder annuity trusts and charitable remainder unitrusts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4b-5",
+      "number": "36C-4B-5.",
+      "heading": "Administrative provisions applicable to charitable remainder trusts only.",
+      "text": "Administrative provisions applicable to charitable remainder trusts only.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4b-6",
+      "number": "36C-4B-6.",
+      "heading": "Administrative provisions applicable to charitable remainder unitrusts only.",
+      "text": "Administrative provisions applicable to charitable remainder unitrusts only.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4b-7",
+      "number": "36C-4B-7.",
+      "heading": "Interpretation.",
+      "text": "Interpretation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4c",
+      "number": "4C",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4c-1",
+      "number": "36C-4C-1.",
+      "heading": "Proceedings for validity of a revocable trust.",
+      "text": "Proceedings for validity of a revocable trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4c-2",
+      "number": "36C-4C-2.",
+      "heading": "Establishing validity of a revocable trust before death.",
+      "text": "Establishing validity of a revocable trust before death.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4c-3",
+      "number": "36C-4C-3.",
+      "heading": "Venue.",
+      "text": "Venue.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4c-4",
+      "number": "36C-4C-4.",
+      "heading": "Contents of petition for revocable trust validity.",
+      "text": "Contents of petition for revocable trust validity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4c-5",
+      "number": "36C-4C-5.",
+      "heading": "Declaration by court; bar to contesting validity of trust.",
+      "text": "Declaration by court; bar to contesting validity of trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-4c-6",
+      "number": "36C-4C-6.",
+      "heading": "Confidentiality.",
+      "text": "Confidentiality.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5",
+      "number": "5",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-5-501",
+      "number": "36C-5-501.",
+      "heading": "Rights of beneficiary's creditor or assignee.",
+      "text": "Rights of beneficiary's creditor or assignee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-5-502",
+      "number": "36C-5-502.",
+      "heading": "Spendthrift provision.",
+      "text": "Spendthrift provision.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-5-503",
+      "number": "36C-5-503.",
+      "heading": "Exceptions to spendthrift provision.",
+      "text": "Exceptions to spendthrift provision.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-5-504",
+      "number": "36C-5-504.",
+      "heading": "Discretionary trusts; effect of standard.",
+      "text": "Discretionary trusts; effect of standard.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-5-505",
+      "number": "36C-5-505.",
+      "heading": "Creditor's claim against settlor.",
+      "text": "Creditor's claim against settlor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-5-506",
+      "number": "36C-5-506.",
+      "heading": "Overdue distribution.",
+      "text": "Overdue distribution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-5-507",
+      "number": "36C-5-507.",
+      "heading": "Personal obligations of trustee.",
+      "text": "Personal obligations of trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-5-508",
+      "number": "36C-5-508.",
+      "heading": "Protective trusts.",
+      "text": "Protective trusts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6",
+      "number": "6",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-6-601",
+      "number": "36C-6-601.",
+      "heading": "Capacity of settlor of revocable trust.",
+      "text": "Capacity of settlor of revocable trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-6-602",
+      "number": "36C-6-602.",
+      "heading": "Revocation or amendment of revocable trust.",
+      "text": "Revocation or amendment of revocable trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-6-6021",
+      "number": "36C-6-602.1.",
+      "heading": "Exercise of settlor's powers with respect to revocable trust by agent or guardian.",
+      "text": "Exercise of settlor's powers with respect to revocable trust by agent or guardian.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-6-603",
+      "number": "36C-6-603.",
+      "heading": "Settlor's control of revocable trust.",
+      "text": "Settlor's control of revocable trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-6-604",
+      "number": "36C-6-604.",
+      "heading": "Limitation on action contesting validity of revocable trust; distribution of trust property.",
+      "text": "Limitation on action contesting validity of revocable trust; distribution of trust property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-6-605",
+      "number": "36C-6-605.",
+      "heading": "Failure of disposition of property of a trust by lapse or otherwise.",
+      "text": "Failure of disposition of property of a trust by lapse or otherwise.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-6-606",
+      "number": "36C-6-606.",
+      "heading": "Revocation of provisions in revocable trust by divorce or annulment; revival.",
+      "text": "Revocation of provisions in revocable trust by divorce or annulment; revival.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-6-607",
+      "number": "36C-6-607.",
+      "heading": "Modification or termination of a revocable trust.",
+      "text": "Modification or termination of a revocable trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7",
+      "number": "7",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-7-701",
+      "number": "36C-7-701.",
+      "heading": "Accepting or declining trusteeship.",
+      "text": "Accepting or declining trusteeship.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-7-702",
+      "number": "36C-7-702.",
+      "heading": "Trustee's bond.",
+      "text": "Trustee's bond.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-7-703",
+      "number": "36C-7-703.",
+      "heading": "Cotrustees.",
+      "text": "Cotrustees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-7-704",
+      "number": "36C-7-704.",
+      "heading": "Vacancy in trusteeship; appointment of successor.",
+      "text": "Vacancy in trusteeship; appointment of successor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-7-705",
+      "number": "36C-7-705.",
+      "heading": "Resignation of trustee.",
+      "text": "Resignation of trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-7-706",
+      "number": "36C-7-706.",
+      "heading": "Removal of trustee.",
+      "text": "Removal of trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-7-707",
+      "number": "36C-7-707.",
+      "heading": "Delivery of property by former trustee.",
+      "text": "Delivery of property by former trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-7-708",
+      "number": "36C-7-708.",
+      "heading": "Compensation of trustee.",
+      "text": "Compensation of trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-7-709",
+      "number": "36C-7-709.",
+      "heading": "Reimbursement of expenses.",
+      "text": "Reimbursement of expenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8",
+      "number": "8",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8-801",
+      "number": "36C-8-801.",
+      "heading": "Duty to administer trust.",
+      "text": "Duty to administer trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8-802",
+      "number": "36C-8-802.",
+      "heading": "Duty of loyalty.",
+      "text": "Duty of loyalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8-803",
+      "number": "36C-8-803.",
+      "heading": "Impartiality.",
+      "text": "Impartiality.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8-804",
+      "number": "36C-8-804.",
+      "heading": "Prudent administration.",
+      "text": "Prudent administration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8-805",
+      "number": "36C-8-805.",
+      "heading": "Cost of administration.",
+      "text": "Cost of administration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8-806",
+      "number": "36C-8-806.",
+      "heading": "Trustee's skills.",
+      "text": "Trustee's skills.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8-807",
+      "number": "36C-8-807.",
+      "heading": "Delegation by trustee.",
+      "text": "Delegation by trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8-808",
+      "number": "36C-8-808.",
+      "heading": "Powers of a settlor to take certain actions with respect to the trust.",
+      "text": "Powers of a settlor to take certain actions with respect to the trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8-809",
+      "number": "36C-8-809.",
+      "heading": "Control and protection of trust property.",
+      "text": "Control and protection of trust property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8-810",
+      "number": "36C-8-810.",
+      "heading": "Record keeping and identification of trust property.",
+      "text": "Record keeping and identification of trust property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8-811",
+      "number": "36C-8-811.",
+      "heading": "Enforcement and defense of claims.",
+      "text": "Enforcement and defense of claims.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8-812",
+      "number": "36C-8-812.",
+      "heading": "Collecting trust property.",
+      "text": "Collecting trust property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8-813",
+      "number": "36C-8-813.",
+      "heading": "Duty to inform and report.",
+      "text": "Duty to inform and report.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8-814",
+      "number": "36C-8-814.",
+      "heading": "Discretionary powers; tax savings.",
+      "text": "Discretionary powers; tax savings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8-815",
+      "number": "36C-8-815.",
+      "heading": "General powers of trustee.",
+      "text": "General powers of trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8-816",
+      "number": "36C-8-816.",
+      "heading": "Specific powers of trustee.",
+      "text": "Specific powers of trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8-8161",
+      "number": "36C-8-816.1:",
+      "heading": "Repealed by Session 2017-121, s. 2.4, effective July 18, 2017.",
+      "text": "Repealed by Session 2017-121, s. 2.4, effective July 18, 2017.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8-817",
+      "number": "36C-8-817.",
+      "heading": "Distribution upon termination.",
+      "text": "Distribution upon termination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8-818",
+      "number": "36C-8-818.",
+      "heading": "Notice of deceased Medicaid beneficiaries.",
+      "text": "Notice of deceased Medicaid beneficiaries.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8a",
+      "number": "8A",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8a-1",
+      "number": "36C-8A-1.",
+      "heading": "\"Power holder\" defined.",
+      "text": "\"Power holder\" defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8a-2",
+      "number": "36C-8A-2.",
+      "heading": "Powers of a power holder.",
+      "text": "Powers of a power holder.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8a-3",
+      "number": "36C-8A-3.",
+      "heading": "Duty and liability of power holder.",
+      "text": "Duty and liability of power holder.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8a-4",
+      "number": "36C-8A-4.",
+      "heading": "Duty and liability of trustee.",
+      "text": "Duty and liability of trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8a-41",
+      "number": "36C-8A-4.1.",
+      "heading": "Limitations of actions against power holder for breach of trust.",
+      "text": "Limitations of actions against power holder for breach of trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8a-42",
+      "number": "36C-8A-4.2.",
+      "heading": "Defenses in action against power holder.",
+      "text": "Defenses in action against power holder.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8a-5",
+      "number": "36C-8A-5.",
+      "heading": "Compensation and reimbursement of expenses of power holder.",
+      "text": "Compensation and reimbursement of expenses of power holder.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8a-6",
+      "number": "36C-8A-6.",
+      "heading": "Jurisdiction over power holder.",
+      "text": "Jurisdiction over power holder.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8a-7",
+      "number": "36C-8A-7.",
+      "heading": "Accepting or declining the appointment as power holder.",
+      "text": "Accepting or declining the appointment as power holder.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8a-8",
+      "number": "36C-8A-8.",
+      "heading": "Vacancy in the office of the power holder.",
+      "text": "Vacancy in the office of the power holder.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8a-9",
+      "number": "36C-8A-9.",
+      "heading": "More than one power holder.",
+      "text": "More than one power holder.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8a-10",
+      "number": "36C-8A-10.",
+      "heading": "Resignation of power holder.",
+      "text": "Resignation of power holder.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8a-11",
+      "number": "36C-8A-11.",
+      "heading": "Removal of power holder.",
+      "text": "Removal of power holder.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8a-12",
+      "number": "36C-8A-12.",
+      "heading": "Power holder's bond.",
+      "text": "Power holder's bond.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8b",
+      "number": "8B",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-1",
+      "number": "36C-8B-1.",
+      "heading": "Short title.",
+      "text": "Short title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-2",
+      "number": "36C-8B-2.",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-3",
+      "number": "36C-8B-3.",
+      "heading": "Scope.",
+      "text": "Scope.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-4",
+      "number": "36C-8B-4.",
+      "heading": "Fiduciary duty.",
+      "text": "Fiduciary duty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-5",
+      "number": "36C-8B-5.",
+      "heading": "Application; governing law.",
+      "text": "Application; governing law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-6",
+      "number": "36C-8B-6.",
+      "heading": "Reasonable reliance.",
+      "text": "Reasonable reliance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-7",
+      "number": "36C-8B-7.",
+      "heading": "Notice; exercise of decanting power.",
+      "text": "Notice; exercise of decanting power.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-8",
+      "number": "36C-8B-8.",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-9",
+      "number": "36C-8B-9.",
+      "heading": "Court involvement.",
+      "text": "Court involvement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-10",
+      "number": "36C-8B-10.",
+      "heading": "Formalities.",
+      "text": "Formalities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-11",
+      "number": "36C-8B-11.",
+      "heading": "Decanting power.",
+      "text": "Decanting power.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-12",
+      "number": "36C-8B-12.",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-13",
+      "number": "36C-8B-13.",
+      "heading": "Trust for beneficiary with disability.",
+      "text": "Trust for beneficiary with disability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-14",
+      "number": "36C-8B-14.",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-15",
+      "number": "36C-8B-15.",
+      "heading": "Trust limitation on decanting.",
+      "text": "Trust limitation on decanting.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-16",
+      "number": "36C-8B-16.",
+      "heading": "Change in compensation.",
+      "text": "Change in compensation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-17",
+      "number": "36C-8B-17.",
+      "heading": "Relief from liability and indemnification.",
+      "text": "Relief from liability and indemnification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-18",
+      "number": "36C-8B-18.",
+      "heading": "Removal or replacement of authorized fiduciary.",
+      "text": "Removal or replacement of authorized fiduciary.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-19",
+      "number": "36C-8B-19.",
+      "heading": "Tax-related limitations.",
+      "text": "Tax-related limitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-20",
+      "number": "36C-8B-20.",
+      "heading": "Duration of second trust.",
+      "text": "Duration of second trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-21",
+      "number": "36C-8B-21.",
+      "heading": "Need to distribute not required.",
+      "text": "Need to distribute not required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-22",
+      "number": "36C-8B-22.",
+      "heading": "Saving provision.",
+      "text": "Saving provision.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-23",
+      "number": "36C-8B-23.",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-24",
+      "number": "36C-8B-24.",
+      "heading": "Terms of second trust.",
+      "text": "Terms of second trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-25",
+      "number": "36C-8B-25.",
+      "heading": "Settlor.",
+      "text": "Settlor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-26",
+      "number": "36C-8B-26.",
+      "heading": "Later-discovered property.",
+      "text": "Later-discovered property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-27",
+      "number": "36C-8B-27.",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-28",
+      "number": "36C-8B-28.",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-29",
+      "number": "36C-8B-29.",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-8b-30",
+      "number": "36C-8B-30.",
+      "heading": "Reserved.",
+      "text": "Reserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9",
+      "number": "9",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-9-901",
+      "number": "36C-9-901.",
+      "heading": "Prudent investor rule; applicability.",
+      "text": "Prudent investor rule; applicability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-9-902",
+      "number": "36C-9-902.",
+      "heading": "Standard of care; portfolio strategy; risk and return objectives.",
+      "text": "Standard of care; portfolio strategy; risk and return objectives.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-9-903",
+      "number": "36C-9-903.",
+      "heading": "Diversification.",
+      "text": "Diversification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-9-9031",
+      "number": "36C-9-903.1.",
+      "heading": "Duties as to life insurance.",
+      "text": "Duties as to life insurance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-9-904",
+      "number": "36C-9-904.",
+      "heading": "Duties at inception of trusteeship.",
+      "text": "Duties at inception of trusteeship.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-9-905",
+      "number": "36C-9-905.",
+      "heading": "Reviewing compliance.",
+      "text": "Reviewing compliance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-9-906",
+      "number": "36C-9-906.",
+      "heading": "Effect on charitable remainder trusts.",
+      "text": "Effect on charitable remainder trusts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-9-907",
+      "number": "36C-9-907.",
+      "heading": "Short title.",
+      "text": "Short title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-10",
+      "number": "10",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-10-1001",
+      "number": "36C-10-1001.",
+      "heading": "Remedies for breach of trust.",
+      "text": "Remedies for breach of trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-10-1002",
+      "number": "36C-10-1002.",
+      "heading": "Damages for breach of trust.",
+      "text": "Damages for breach of trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-10-1003",
+      "number": "36C-10-1003.",
+      "heading": "Liability in absence of breach.",
+      "text": "Liability in absence of breach.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-10-1004",
+      "number": "36C-10-1004.",
+      "heading": "Attorneys' fees and costs.",
+      "text": "Attorneys' fees and costs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-10-1005",
+      "number": "36C-10-1005.",
+      "heading": "Limitation of action against trustee.",
+      "text": "Limitation of action against trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-10-1006",
+      "number": "36C-10-1006.",
+      "heading": "Reliance on trust instrument.",
+      "text": "Reliance on trust instrument.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-10-1007",
+      "number": "36C-10-1007.",
+      "heading": "Event affecting administration or distribution.",
+      "text": "Event affecting administration or distribution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-10-1008",
+      "number": "36C-10-1008.",
+      "heading": "Exculpation of trustee.",
+      "text": "Exculpation of trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-10-1009",
+      "number": "36C-10-1009.",
+      "heading": "Beneficiary's consent, release, or ratification.",
+      "text": "Beneficiary's consent, release, or ratification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-10-1010",
+      "number": "36C-10-1010.",
+      "heading": "Limitation on personal liability of trustee.",
+      "text": "Limitation on personal liability of trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-10-1011",
+      "number": "36C-10-1011.",
+      "heading": "Interest as general partner.",
+      "text": "Interest as general partner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-10-1012",
+      "number": "36C-10-1012.",
+      "heading": "Protection of person dealing with trustee.",
+      "text": "Protection of person dealing with trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-10-1013",
+      "number": "36C-10-1013.",
+      "heading": "Certification of trust.",
+      "text": "Certification of trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11",
+      "number": "11",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-11-1101",
+      "number": "36C-11-1101.",
+      "heading": "Uniformity of application and construction.",
+      "text": "Uniformity of application and construction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-11-1102",
+      "number": "36C-11-1102.",
+      "heading": "Electronic records and signatures.",
+      "text": "Electronic records and signatures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-11-1103",
+      "number": "36C-11-1103.",
+      "heading": "Severability clause.",
+      "text": "Severability clause.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-11-1104",
+      "number": "36C-11-1104.",
+      "heading": "Trustee signatures.",
+      "text": "Trustee signatures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-11-1105",
+      "number": "36C-11-1105:",
+      "heading": "Reserved for future codification purposes.",
+      "text": "Reserved for future codification purposes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36c-11-1106",
+      "number": "36C-11-1106.",
+      "heading": "Application to existing relationships.",
+      "text": "Application to existing relationships.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

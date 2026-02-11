@@ -1,0 +1,2998 @@
+{
+  "state": "nevada",
+  "path": "title-nrs-463/chapter-nrs-463",
+  "sections": [
+    {
+      "id": "section-463010",
+      "number": "463.010",
+      "heading": "Short",
+      "text": "title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630129",
+      "number": "463.0129",
+      "heading": "Public",
+      "text": "policy of state concerning gaming; license or approval revocable privilege.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463013",
+      "number": "463.013",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630133",
+      "number": "463.0133",
+      "heading": "Affiliate�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630134",
+      "number": "463.0134",
+      "heading": "Applicant�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630135",
+      "number": "463.0135",
+      "heading": "Application�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630136",
+      "number": "463.0136",
+      "heading": "Associated",
+      "text": "equipment� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46301365",
+      "number": "463.01365",
+      "heading": "Banking",
+      "text": "game� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630137",
+      "number": "463.0137",
+      "heading": "Board�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630139",
+      "number": "463.0139",
+      "heading": "Capital",
+      "text": "lease� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46301395",
+      "number": "463.01395",
+      "heading": "Cash",
+      "text": "access and wagering instrument service provider� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463014",
+      "number": "463.014",
+      "heading": "Cashless",
+      "text": "wagering system� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630141",
+      "number": "463.0141",
+      "heading": "Chair�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630142",
+      "number": "463.0142",
+      "heading": "Charitable",
+      "text": "lottery� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630143",
+      "number": "463.0143",
+      "heading": "City�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630144",
+      "number": "463.0144",
+      "heading": "Club",
+      "text": "venue� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46301443",
+      "number": "463.01443",
+      "heading": "Club",
+      "text": "venue employee� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46301447",
+      "number": "463.01447",
+      "heading": "Club",
+      "text": "venue operator� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630145",
+      "number": "463.0145",
+      "heading": "Commission�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630146",
+      "number": "463.0146",
+      "heading": "Commissioner�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46301463",
+      "number": "463.01463",
+      "heading": "Contest�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46301464",
+      "number": "463.01464",
+      "heading": "Covered",
+      "text": "asset� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463014645",
+      "number": "463.014645",
+      "heading": "Covered",
+      "text": "person� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46301465",
+      "number": "463.01465",
+      "heading": "Credit",
+      "text": "card� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46301467",
+      "number": "463.01467",
+      "heading": "Credit",
+      "text": "instrument� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46301469",
+      "number": "463.01469",
+      "heading": "Debit",
+      "text": "instrument� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630147",
+      "number": "463.0147",
+      "heading": "Disseminator�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46301473",
+      "number": "463.01473",
+      "heading": "Electronic",
+      "text": "transfer of money� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630148",
+      "number": "463.0148",
+      "heading": "Establishment�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463015",
+      "number": "463.015",
+      "heading": "Executive",
+      "text": "Director� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630152",
+      "number": "463.0152",
+      "heading": "Game�",
+      "text": "and �gambling game� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630153",
+      "number": "463.0153",
+      "heading": "Gaming�",
+      "text": "and �gambling� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630155",
+      "number": "463.0155",
+      "heading": "Gaming",
+      "text": "device� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630157",
+      "number": "463.0157",
+      "heading": "Gaming",
+      "text": "employee� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630158",
+      "number": "463.0158",
+      "heading": "Gaming",
+      "text": "enterprise district� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630159",
+      "number": "463.0159",
+      "heading": "Gaming",
+      "text": "license� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46301595",
+      "number": "463.01595",
+      "heading": "Gaming",
+      "text": "salon� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630161",
+      "number": "463.0161",
+      "heading": "Gross",
+      "text": "revenue� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630163",
+      "number": "463.0163",
+      "heading": "Hearing",
+      "text": "examiner� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630164",
+      "number": "463.0164",
+      "heading": "Independent",
+      "text": "agent� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46301642",
+      "number": "463.01642",
+      "heading": "Information",
+      "text": "service� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463016425",
+      "number": "463.016425",
+      "heading": "Interactive",
+      "text": "gaming� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463016427",
+      "number": "463.016427",
+      "heading": "Interactive",
+      "text": "gaming facility� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46301643",
+      "number": "463.01643",
+      "heading": "Inter-casino",
+      "text": "linked system� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630165",
+      "number": "463.0165",
+      "heading": "License�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630167",
+      "number": "463.0167",
+      "heading": "License",
+      "text": "fees� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630169",
+      "number": "463.0169",
+      "heading": "Licensed",
+      "text": "gaming establishment� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630171",
+      "number": "463.0171",
+      "heading": "Licensee�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46301715",
+      "number": "463.01715",
+      "heading": "Manufacture�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630172",
+      "number": "463.0172",
+      "heading": "Manufacturer�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630173",
+      "number": "463.0173",
+      "heading": "Manufacturer�s,",
+      "text": "seller�s or distributor�s license� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630175",
+      "number": "463.0175",
+      "heading": "Member,�",
+      "text": "�Board member� and �Commission member� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630177",
+      "number": "463.0177",
+      "heading": "Nonrestricted",
+      "text": "license� and �nonrestricted operation� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630178",
+      "number": "463.0178",
+      "heading": "Operate",
+      "text": "interactive gaming� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630179",
+      "number": "463.0179",
+      "heading": "Operation�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463018",
+      "number": "463.018",
+      "heading": "Operator",
+      "text": "of a slot machine route� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630181",
+      "number": "463.0181",
+      "heading": "Party�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630182",
+      "number": "463.0182",
+      "heading": "Periodic",
+      "text": "payments� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630185",
+      "number": "463.0185",
+      "heading": "Quarter�",
+      "text": "and �calendar quarter� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46301855",
+      "number": "463.01855",
+      "heading": "Race",
+      "text": "book� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46301858",
+      "number": "463.01858",
+      "heading": "Registered",
+      "text": "as a gaming employee� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630186",
+      "number": "463.0186",
+      "heading": "Regulation�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46301862",
+      "number": "463.01862",
+      "heading": "Representative",
+      "text": "of value� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46301865",
+      "number": "463.01865",
+      "heading": "Resort",
+      "text": "hotel� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630187",
+      "number": "463.0187",
+      "heading": "Respondent�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630189",
+      "number": "463.0189",
+      "heading": "Restricted",
+      "text": "license� and �restricted operation� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630191",
+      "number": "463.0191",
+      "heading": "Slot",
+      "text": "machine� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630193",
+      "number": "463.0193",
+      "heading": "Sports",
+      "text": "pool� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46301955",
+      "number": "463.01955",
+      "heading": "Temporarily",
+      "text": "registered as a gaming employee� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630196",
+      "number": "463.0196",
+      "heading": "Tournament�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46301962",
+      "number": "463.01962",
+      "heading": "Wager�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46301963",
+      "number": "463.01963",
+      "heading": "Wagering",
+      "text": "credit� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46301967",
+      "number": "463.01967",
+      "heading": "Wagering",
+      "text": "instrument� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4630199",
+      "number": "463.0199",
+      "heading": "Attorney",
+      "text": "General is legal adviser for Board and Commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463021",
+      "number": "463.021",
+      "heading": "Creation;",
+      "text": "composition; terms; meetings; recommendations advisory and not binding; Review\n\nPanel of Committee to consider certain appeals; advisory committee on gaming\n\neducation; appointment of members, terms and duties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463022",
+      "number": "463.022",
+      "heading": "Creation;",
+      "text": "number of members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463023",
+      "number": "463.023",
+      "heading": "Members:",
+      "text": "Qualifications and eligibility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463024",
+      "number": "463.024",
+      "heading": "Members:",
+      "text": "Appointment; Chair; terms; removal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463025",
+      "number": "463.025",
+      "heading": "Members:",
+      "text": "Discharge of duties; certain political activities prohibited; oaths.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463026",
+      "number": "463.026",
+      "heading": "Members:",
+      "text": "Salaries.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463027",
+      "number": "463.027",
+      "heading": "Board",
+      "text": "to furnish administrative and clerical services and equipment to Commission;\n\nadministrative costs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463028",
+      "number": "463.028",
+      "heading": "Offices.",
+      "text": "Offices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463029",
+      "number": "463.029",
+      "heading": "Meetings;",
+      "text": "quorum.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463030",
+      "number": "463.030",
+      "heading": "Creation;",
+      "text": "number of members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463040",
+      "number": "463.040",
+      "heading": "Members:",
+      "text": "Qualifications and eligibility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463050",
+      "number": "463.050",
+      "heading": "Members:",
+      "text": "Appointment; terms; Chair and Executive Director; removal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463060",
+      "number": "463.060",
+      "heading": "Members:",
+      "text": "Other employment and certain political activities and financial interests\n\nprohibited; oaths.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463070",
+      "number": "463.070",
+      "heading": "Members:",
+      "text": "Compensation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463080",
+      "number": "463.080",
+      "heading": "Organization;",
+      "text": "administrative expenses; employees; plan concerning employees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463085",
+      "number": "463.085",
+      "heading": "Executive",
+      "text": "Secretary: Appointment; removal; duties; other employment prohibited; salary.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463095",
+      "number": "463.095",
+      "heading": "Employment",
+      "text": "of consultants.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463100",
+      "number": "463.100",
+      "heading": "Offices.",
+      "text": "Offices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463110",
+      "number": "463.110",
+      "heading": "Meetings;",
+      "text": "quorum; investigative hearings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463120",
+      "number": "463.120",
+      "heading": "Records",
+      "text": "of Board and Commission; confidential treatment of certain information; report\n\nto Legislature by Board; access by Board and Commission to certain records of\n\nNevada Tax Commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463123",
+      "number": "463.123",
+      "heading": "Report",
+      "text": "to Commission by Board; delinquent debts; designation of bad debts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463125",
+      "number": "463.125",
+      "heading": "Commission",
+      "text": "may require certain nonrestricted licensees to report and maintain records of\n\ntransactions involving cash; absolute immunity from civil liability for certain\n\ndisclosures about transactions involving cash; absolute privilege of certain\n\ndocuments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463140",
+      "number": "463.140",
+      "heading": "General",
+      "text": "powers and duties of Board and Commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4631405",
+      "number": "463.1405",
+      "heading": "Investigation",
+      "text": "of qualifications of applicants and observation of conduct of licensees and\n\nother persons by Board; absolute powers of Board and Commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463141",
+      "number": "463.141",
+      "heading": "Initiation",
+      "text": "of proceedings and actions to enforce chapters.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463142",
+      "number": "463.142",
+      "heading": "Civil",
+      "text": "action by Board to collect fees, interest, penalty or tax; attachment; records\n\nas evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463143",
+      "number": "463.143",
+      "heading": "Exercise",
+      "text": "of other necessary powers by Commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463144",
+      "number": "463.144",
+      "heading": "Commission",
+      "text": "and Board may refuse to reveal certain matters in court or administrative\n\nproceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4631445",
+      "number": "463.1445",
+      "heading": "Board,",
+      "text": "Commission and their agents deemed essential employees during budgetary or\n\nfiscal crisis necessitating closure of nonessential agencies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463145",
+      "number": "463.145",
+      "heading": "Adoption,",
+      "text": "amendment and repeal: Procedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463150",
+      "number": "463.150",
+      "heading": "Required",
+      "text": "provisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463151",
+      "number": "463.151",
+      "heading": "Regulations",
+      "text": "requiring exclusion or ejection of certain persons from licensed\n\nestablishments: Persons included.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463152",
+      "number": "463.152",
+      "heading": "Regulations",
+      "text": "requiring exclusion or ejection of certain persons from licensed\n\nestablishments: Notice to person whose name is placed on list.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463153",
+      "number": "463.153",
+      "heading": "Regulations",
+      "text": "requiring exclusion or ejection of certain persons from licensed\n\nestablishments: Hearing; disposition; judicial review.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463154",
+      "number": "463.154",
+      "heading": "Regulations",
+      "text": "requiring exclusion or ejection of certain persons from licensed\n\nestablishments: Penalties for failure to exclude or eject.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463155",
+      "number": "463.155",
+      "heading": "Regulations",
+      "text": "requiring exclusion or ejection of certain persons from licensed\n\nestablishments: Unlawful entry by person whose name has been placed on list;\n\npenalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463156",
+      "number": "463.156",
+      "heading": "Regulations",
+      "text": "concerning financial practices of licensees: Adoption.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463157",
+      "number": "463.157",
+      "heading": "Regulations",
+      "text": "concerning financial practices of licensees: Minimum procedures for control of\n\ninternal fiscal affairs of nonrestricted licensees; internal audits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463158",
+      "number": "463.158",
+      "heading": "Regulations",
+      "text": "concerning financial practices of licensees: Periodic financial reports from\n\nnonrestricted licensees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463159",
+      "number": "463.159",
+      "heading": "Regulations",
+      "text": "concerning financial practices of licensees: Audits, compilations and reviews\n\nof financial statements of nonrestricted licensees; independent accountants.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4631592",
+      "number": "463.1592",
+      "heading": "Regulations",
+      "text": "concerning financial practices of licensees: Organization of audit function of\n\nNevada Gaming Control Board; economic research and planning function.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4631593",
+      "number": "463.1593",
+      "heading": "Regulations",
+      "text": "concerning financial practices of licensees: Duties of Legislative Auditor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4631595",
+      "number": "463.1595",
+      "heading": "Regulations",
+      "text": "concerning financial practices of licensees: Computation and reporting of\n\nwinnings, compensation and gross revenue; submission of fees, interest,\n\npenalties and taxes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4631596",
+      "number": "463.1596",
+      "heading": "Regulations",
+      "text": "concerning recovery of gaming debts by patrons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4631597",
+      "number": "463.1597",
+      "heading": "Regulations",
+      "text": "concerning licensing of corporations and limited partnerships.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4631598",
+      "number": "463.1598",
+      "heading": "Regulations",
+      "text": "governing sale or offering for sale of securities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4631599",
+      "number": "463.1599",
+      "heading": "Regulations",
+      "text": "governing operation of slot machine routes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46315993",
+      "number": "463.15993",
+      "heading": "Regulations",
+      "text": "governing approval and operation of inter-casino linked systems.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46315995",
+      "number": "463.15995",
+      "heading": "Regulations",
+      "text": "governing charging of fee for admission to area in which gaming is conducted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46315997",
+      "number": "463.15997",
+      "heading": "Regulations",
+      "text": "concerning development and deployment of certain gaming devices, associated\n\nequipment and various gaming support systems.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46315999",
+      "number": "463.15999",
+      "heading": "Regulations",
+      "text": "requiring registration of club venue employees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463160",
+      "number": "463.160",
+      "heading": "Licenses",
+      "text": "required; unlawful to permit certain gaming activities to be conducted without\n\nlicense; exceptions; separate license required for each location where\n\noperation of race book or sports pool conducted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4631605",
+      "number": "463.1605",
+      "heading": "Limitation",
+      "text": "on approval of nonrestricted license in county whose population is 100,000 or\n\nmore; additional local regulation of resort hotels permissible.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463161",
+      "number": "463.161",
+      "heading": "License",
+      "text": "to operate 15 or fewer slot machines: Conditions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463162",
+      "number": "463.162",
+      "heading": "State",
+      "text": "gaming license required where equipment, services or property delivered or\n\nfurnished for gaming interest or revenue; exemptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4631625",
+      "number": "463.1625",
+      "heading": "Preliminary",
+      "text": "finding of suitability; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463163",
+      "number": "463.163",
+      "heading": "Operation",
+      "text": "of gaming device in restricted area of public transportation facility: Prior\n\napproval of Board required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463164",
+      "number": "463.164",
+      "heading": "Offering",
+      "text": "of game or gambling game for play: Recommendation of Board or approval of\n\nCommission required; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463165",
+      "number": "463.165",
+      "heading": "Licensing",
+      "text": "of certain persons having significant influence over gaming operation of\n\nlicensee; remuneration, contracts and employment prohibited for certain\n\nunsuitable or unlicensed persons; termination of contracts or agreements for\n\nservices or employment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463166",
+      "number": "463.166",
+      "heading": "Contracts",
+      "text": "or agreements with certain unsuitable or unlicensed persons prohibited;\n\ntermination of contract or agreement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4631665",
+      "number": "463.1665",
+      "heading": "Licensing,",
+      "text": "registration, suitability or approval of applicants who are governmental\n\nentities or owned or controlled by governmental entities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463167",
+      "number": "463.167",
+      "heading": "Suitability",
+      "text": "or licensing of certain persons furnishing services or property or doing\n\nbusiness with gaming licensee; termination of association.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463168",
+      "number": "463.168",
+      "heading": "Suitability",
+      "text": "of certain persons providing transmission services in association with\n\nlicensee; termination of association.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463169",
+      "number": "463.169",
+      "heading": "Registration",
+      "text": "or licensing of person conducting certain tournaments or contests in\n\nassociation with gaming licensee; termination of association.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463170",
+      "number": "463.170",
+      "heading": "Qualifications",
+      "text": "for license, finding of suitability or approval; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463172",
+      "number": "463.172",
+      "heading": "Power",
+      "text": "of Chair to approve transfer of interest in license, registration, finding of\n\nsuitability or approval to or from inter vivos trust; approval of Chair\n\nrequired before amendment to inter vivos trust effective.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4631725",
+      "number": "463.1725",
+      "heading": "Power",
+      "text": "of Chair to approve spouse, next of kin, personal representative, guardian or\n\nheir of holder of license who is deceased or has been judicially declared\n\ndisabled to temporarily engage in certain activities without procuring state\n\ngaming license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463173",
+      "number": "463.173",
+      "heading": "Restrictions",
+      "text": "on person denied license or found unsuitable.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463174",
+      "number": "463.174",
+      "heading": "Board",
+      "text": "to maintain list of unsuitable and unlicensed persons; removal of name from\n\nlist.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463175",
+      "number": "463.175",
+      "heading": "Exemption",
+      "text": "of bank or trustee of employee stock ownership plan acting as fiduciary from\n\ncertain requirements; limitation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463177",
+      "number": "463.177",
+      "heading": "Exemption",
+      "text": "of governing body leasing portion of facility for public transportation for\n\noperation of slot machines.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463180",
+      "number": "463.180",
+      "heading": "Qualifications",
+      "text": "for county license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463190",
+      "number": "463.190",
+      "heading": "Qualifications",
+      "text": "for municipal license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463200",
+      "number": "463.200",
+      "heading": "Application",
+      "text": "for state license: Contents; supplemental forms.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463210",
+      "number": "463.210",
+      "heading": "Investigation",
+      "text": "of applicant; order of Board recommending approval or denial of license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463220",
+      "number": "463.220",
+      "heading": "Action",
+      "text": "by Commission on application; further investigation; hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463225",
+      "number": "463.225",
+      "heading": "Issuance",
+      "text": "of state licenses; bonds and deposits; account for bonds of state gaming\n\nlicensees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463230",
+      "number": "463.230",
+      "heading": "Issuance",
+      "text": "of county license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463240",
+      "number": "463.240",
+      "heading": "State",
+      "text": "license prerequisite to county or municipal license; confidentiality of certain\n\ninformation provided to county or municipality.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463242",
+      "number": "463.242",
+      "heading": "Preparation",
+      "text": "by Board of basic form of application and supporting documents for licensing by\n\ncounty and city.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463245",
+      "number": "463.245",
+      "heading": "Single",
+      "text": "establishment not to contain more than one licensed operation; exceptions;\n\ncertain agreements for sharing of revenue prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463250",
+      "number": "463.250",
+      "heading": "Taxing",
+      "text": "powers preserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463260",
+      "number": "463.260",
+      "heading": "Posting",
+      "text": "and inspection of licenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463270",
+      "number": "463.270",
+      "heading": "Renewal",
+      "text": "of state license; voluntary surrender of state license; penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463280",
+      "number": "463.280",
+      "heading": "Renewal",
+      "text": "of county license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463290",
+      "number": "463.290",
+      "heading": "Report",
+      "text": "furnished by licensee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463300",
+      "number": "463.300",
+      "heading": "Unlawful",
+      "text": "transfer of ownership.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463302",
+      "number": "463.302",
+      "heading": "Moving",
+      "text": "location of establishment and transferring restricted or nonrestricted license:\n\nExclusive authority of Board to approve; conditions for approval; exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463305",
+      "number": "463.305",
+      "heading": "Approval",
+      "text": "of gaming device required; list of approved gaming devices; removal of gaming\n\ndevice following suspension or revocation of approval; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463307",
+      "number": "463.307",
+      "heading": "Permissible",
+      "text": "wagering instrumentalities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633072",
+      "number": "463.3072",
+      "heading": "Legislative",
+      "text": "findings and declarations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633074",
+      "number": "463.3074",
+      "heading": "Applicability",
+      "text": "ofNRS 463.3072to463.3094, inclusive.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633076",
+      "number": "463.3076",
+      "heading": "Location",
+      "text": "of proposed establishment within Las Vegas Boulevard gaming corridor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633078",
+      "number": "463.3078",
+      "heading": "Location",
+      "text": "of proposed establishment within rural Clark County gaming zone.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463308",
+      "number": "463.308",
+      "heading": "Approval",
+      "text": "of nonrestricted license for establishment located outside of gaming enterprise\n\ndistrict prohibited; expansion of establishment located in gaming enterprise\n\ndistrict limited; increase in number of games or slot machines at establishment\n\nlocated outside of gaming enterprise district prohibited after certain date.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633082",
+      "number": "463.3082",
+      "heading": "Approval",
+      "text": "of nonrestricted license for proposed establishment located within Las Vegas\n\nBoulevard gaming corridor and rural Clark County gaming zone prohibited unless\n\nlocation designated gaming enterprise district.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633084",
+      "number": "463.3084",
+      "heading": "Gaming",
+      "text": "enterprise district: Petition for designation of location if within Las Vegas\n\nBoulevard gaming corridor or rural Clark County gaming zone; petitioner�s\n\nburden of proof; hearing; limitation on subsequent petition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633086",
+      "number": "463.3086",
+      "heading": "Gaming",
+      "text": "enterprise district: Petition for designation of location if outside of Las\n\nVegas Boulevard gaming corridor and rural Clark County gaming zone; notice of\n\nhearing; hearing; petitioner�s burden of proof; limitation on subsequent\n\npetition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633088",
+      "number": "463.3088",
+      "heading": "Gaming",
+      "text": "enterprise district: Procedure for appealing denial or grant of petition to\n\ndesignate location outside of Las Vegas Boulevard gaming corridor and rural\n\nClark County gaming zone.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463309",
+      "number": "463.309",
+      "heading": "Duty",
+      "text": "of local government to provide and update map showing location of gaming\n\nenterprise districts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633092",
+      "number": "463.3092",
+      "heading": "Duty",
+      "text": "of certain persons to erect and maintain sign on property to indicate intent to\n\nuse, sell or lease for operation of establishment with nonrestricted license;\n\nrequirements for sign.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633094",
+      "number": "463.3094",
+      "heading": "Description",
+      "text": "of Las Vegas urban growth zone.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463310",
+      "number": "463.310",
+      "heading": "Investigations",
+      "text": "and initiation of complaints by Board; proceedings before Commission; powers\n\nand duties of Commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633105",
+      "number": "463.3105",
+      "heading": "Inapplicability",
+      "text": "of certain provisions of Open Meeting Law to certain investigatory proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463311",
+      "number": "463.311",
+      "heading": "Emergency",
+      "text": "order of Commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463312",
+      "number": "463.312",
+      "heading": "Contents",
+      "text": "and service of complaint; answer; effect of failure to answer or appear; notice\n\nof hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633125",
+      "number": "463.3125",
+      "heading": "Hearing:",
+      "text": "Subpoena; payment of fees, subsistence and transportation for witness;\n\ndeposition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463313",
+      "number": "463.313",
+      "heading": "Hearings:",
+      "text": "Procedure; use of affidavit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633133",
+      "number": "463.3133",
+      "heading": "Hearings",
+      "text": "other than investigative hearings: Procedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633136",
+      "number": "463.3136",
+      "heading": "Amended",
+      "text": "or supplemental pleadings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463314",
+      "number": "463.314",
+      "heading": "Contempt.",
+      "text": "Contempt.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633145",
+      "number": "463.3145",
+      "heading": "Written",
+      "text": "decision and order of Commission; rehearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463315",
+      "number": "463.315",
+      "heading": "Judicial",
+      "text": "review: Petition; intervention; stay of enforcement; priority if supervisor\n\nappointed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463316",
+      "number": "463.316",
+      "heading": "Judicial",
+      "text": "review: Record on review.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463317",
+      "number": "463.317",
+      "heading": "Judicial",
+      "text": "review: Additional evidence taken by Commission; review confined to record;\n\ncourt may affirm, remand or reverse.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463318",
+      "number": "463.318",
+      "heading": "Judicial",
+      "text": "review: Appeal to appellate court; exclusive method of review for disciplinary\n\nhearings; certain actions not subject to judicial review.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463320",
+      "number": "463.320",
+      "heading": "Collection",
+      "text": "and disposition of state fees for licenses and penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463323",
+      "number": "463.323",
+      "heading": "Collection",
+      "text": "and disposition of county fees for licenses in county whose population is less\n\nthan 700,000.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463325",
+      "number": "463.325",
+      "heading": "Collection",
+      "text": "and disposition of county fees for licenses in county whose population is 700,000\n\nor more.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463327",
+      "number": "463.327",
+      "heading": "Decrease",
+      "text": "in rate of property tax of incorporated city receiving apportioned gaming\n\nlicense revenue.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463330",
+      "number": "463.330",
+      "heading": "Costs",
+      "text": "of administration; Nevada Gaming Control Board Revolving Account; limitations\n\non expenditures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463331",
+      "number": "463.331",
+      "heading": "Investigative",
+      "text": "Fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463334",
+      "number": "463.334",
+      "heading": "Credit",
+      "text": "reports of persons seeking employment with licensee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463335",
+      "number": "463.335",
+      "heading": "Gaming",
+      "text": "employee must be registered with Board; notice of change of employment; investigation\n\nof applicant; fee; expiration of registration; suspension of or objection to\n\nregistration; hearing and review; confidentiality of records; suspension of\n\nregistration for failure to comply with provisions ofchapter 179Dof NRS.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46333505",
+      "number": "463.33505",
+      "heading": "Renewal",
+      "text": "of registration as gaming employee: Application to include information relating\n\nto state business license; denial of renewal for unpaid debt assigned to State\n\nController for collection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633351",
+      "number": "463.3351",
+      "heading": "Payment",
+      "text": "of child support: Statement by applicant for registration as gaming employee;\n\ngrounds for denial of registration; duty of Board. [Effective until the date of\n\nthe repeal of 42 U.S.C. � 666, the federal law requiring each state to\n\nestablish procedures for withholding, suspending and restricting the\n\nprofessional, occupational and recreational licenses for child support\n\narrearages and for noncompliance with certain processes relating to paternity\n\nor child support proceedings.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633352",
+      "number": "463.3352",
+      "heading": "Suspension",
+      "text": "of registration as gaming employee for failure to pay child support or comply\n\nwith certain subpoenas or warrants; reinstatement of registration. [Effective\n\nuntil the date of the repeal of 42 U.S.C. � 666, the federal law requiring each\n\nstate to establish procedures for withholding, suspending and restricting the\n\nprofessional, occupational and recreational licenses for child support\n\narrearages and for noncompliance with certain processes relating to paternity\n\nor child support proceedings.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633353",
+      "number": "463.3353",
+      "heading": "Temporary",
+      "text": "suspension of registration as gaming employee if arrested by agent of Board;\n\nregulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633354",
+      "number": "463.3354",
+      "heading": "Application",
+      "text": "for registration as gaming employee to include social security number of\n\napplicant. [Effective until the date of the repeal of 42 U.S.C. � 666, the\n\nfederal law requiring each state to establish procedures for withholding,\n\nsuspending and restricting the professional, occupational and recreational\n\nlicenses for child support arrearages and for noncompliance with certain\n\nprocesses relating to paternity or child support proceedings.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463336",
+      "number": "463.336",
+      "heading": "Issuance",
+      "text": "of order summarily suspending registration as gaming employee; hearing; notice\n\nof defense.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463337",
+      "number": "463.337",
+      "heading": "Revocation",
+      "text": "of registration as gaming employee: Grounds; power of Commission; judicial\n\nreview.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463339",
+      "number": "463.339",
+      "heading": "Disclosure",
+      "text": "by applicant for licensing, registration, finding of suitability, preliminary\n\nfinding of suitability or required approval or consent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633403",
+      "number": "463.3403",
+      "heading": "Confidentiality",
+      "text": "of information relating to termination of employment of gaming employee or\n\nindependent agent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633407",
+      "number": "463.3407",
+      "heading": "Absolute",
+      "text": "privilege of certain communications and documents; restrictions on and\n\nprotections against disclosure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463341",
+      "number": "463.341",
+      "heading": "Order",
+      "text": "of court for release of confidential information: Procedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463342",
+      "number": "463.342",
+      "heading": "Person",
+      "text": "with disability entitled to services of interpreter at hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463343",
+      "number": "463.343",
+      "heading": "Declaratory",
+      "text": "judgment; limitations on injunctive relief.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463344",
+      "number": "463.344",
+      "heading": "Enforcement",
+      "text": "of certain security interests against licensees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463345",
+      "number": "463.345",
+      "heading": "Early",
+      "text": "closing dates in certain transfers of gaming property prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633455",
+      "number": "463.3455",
+      "heading": "Provision",
+      "text": "regarding responsibility for fees and taxes required in certain transfers of\n\ngaming property or interest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463346",
+      "number": "463.346",
+      "heading": "Injunctions.",
+      "text": "Injunctions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633465",
+      "number": "463.3465",
+      "heading": "Prosecution",
+      "text": "by Attorney General of violations of gaming laws.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463347",
+      "number": "463.347",
+      "heading": "Penalty",
+      "text": "for possession of device, equipment or material illegally manufactured, sold or\n\ndistributed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463350",
+      "number": "463.350",
+      "heading": "Gaming",
+      "text": "or employment in gaming prohibited for persons under 21; exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463355",
+      "number": "463.355",
+      "heading": "District",
+      "text": "attorney, sheriff and chief of police to furnish information obtained during\n\ninvestigation or prosecution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633557",
+      "number": "463.3557",
+      "heading": "Electronic",
+      "text": "transfer of money to game or gaming device by credit card prohibited;\n\nexception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633558",
+      "number": "463.3558",
+      "heading": "Approval",
+      "text": "of debit instrument required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463360",
+      "number": "463.360",
+      "heading": "Penalties.",
+      "text": "Penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463361",
+      "number": "463.361",
+      "heading": "Enforceability",
+      "text": "and resolution of gaming debts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463362",
+      "number": "463.362",
+      "heading": "Resolution",
+      "text": "of disputes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463363",
+      "number": "463.363",
+      "heading": "Petition",
+      "text": "for hearing by Board; notice and conduct of hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463364",
+      "number": "463.364",
+      "heading": "Burden",
+      "text": "of proof on party seeking reconsideration; decision of Board or hearing\n\nexaminer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463366",
+      "number": "463.366",
+      "heading": "Payment",
+      "text": "of claim after decision of Board or hearing examiner becomes final; deposit and\n\nwithdrawal of amount of claim upon judicial review.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633662",
+      "number": "463.3662",
+      "heading": "Judicial",
+      "text": "review: Petition; intervention; stay of enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633664",
+      "number": "463.3664",
+      "heading": "Judicial",
+      "text": "review: Record on review.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633666",
+      "number": "463.3666",
+      "heading": "Judicial",
+      "text": "review: Additional evidence taken by Board or hearing examiner; review confined\n\nto record; court may affirm, remand or reverse.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633668",
+      "number": "463.3668",
+      "heading": "Judicial",
+      "text": "review: Appeal; exclusive method of review; costs to transcribe proceedings and\n\ntransmit record.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463368",
+      "number": "463.368",
+      "heading": "Credit",
+      "text": "instruments: Validity; enforcement; redemption; penalties; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463369",
+      "number": "463.369",
+      "heading": "Records",
+      "text": "to be maintained; expiration of obligation to pay patron; quarterly report;\n\npayment of percentage of value to Commission; regulations; �wagering voucher�\n\ndefined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463370",
+      "number": "463.370",
+      "heading": "Monthly",
+      "text": "fee for state license; fee for licensee operating less than full month;\n\nproportionate share of other persons; underpayments and overpayments; cessation\n\nof operation; offset of certain losses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463371",
+      "number": "463.371",
+      "heading": "Computation",
+      "text": "of gross revenue: Credit instruments; cash and its equivalents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633715",
+      "number": "463.3715",
+      "heading": "Computation",
+      "text": "of gross revenue: Items which may be deducted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633717",
+      "number": "463.3717",
+      "heading": "Compilation",
+      "text": "of information concerning gross revenue reported by licensees; summary of\n\ncompiled information available for public review.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463372",
+      "number": "463.372",
+      "heading": "Slot",
+      "text": "machines: Counting for purposes of administering quarterly fee and annual taxes\n\nand fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463373",
+      "number": "463.373",
+      "heading": "Quarterly",
+      "text": "fee for state license for restricted operation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463375",
+      "number": "463.375",
+      "heading": "Quarterly",
+      "text": "fee for state license for nonrestricted operation; proportionate share of other\n\npersons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463380",
+      "number": "463.380",
+      "heading": "Annual",
+      "text": "fee for state license based on number of games operated.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463383",
+      "number": "463.383",
+      "heading": "Quarterly",
+      "text": "fee for state license based on number of games operated.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463385",
+      "number": "463.385",
+      "heading": "Annual",
+      "text": "excise tax upon slot machines: Imposition; collection; proportionate share of\n\nother persons; deposit and use of receipts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633855",
+      "number": "463.3855",
+      "heading": "Annual",
+      "text": "fee for license for operator of slot machine route.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633856",
+      "number": "463.3856",
+      "heading": "Annual",
+      "text": "fee for license for operator of information service; collection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633857",
+      "number": "463.3857",
+      "heading": "Fees",
+      "text": "from licensee who concludes gaming operation: Final fee based on total\n\noutstanding value of collectible credit instruments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463386",
+      "number": "463.386",
+      "heading": "Credit",
+      "text": "for prepaid fees for license upon transfer of gaming license for continuing\n\noperation; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463387",
+      "number": "463.387",
+      "heading": "Refund",
+      "text": "of excessive state fees or taxes paid; procedure; interest; time within which\n\nclaim for refund must be filed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463388",
+      "number": "463.388",
+      "heading": "Determination",
+      "text": "of deficiency: Recomputation or estimate of taxes or fees; accrual of interest\n\non unpaid taxes; offsetting overpayments; refund of excess.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633881",
+      "number": "463.3881",
+      "heading": "Determination",
+      "text": "of deficiency: Notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633882",
+      "number": "463.3882",
+      "heading": "Determination",
+      "text": "of deficiency: Lien.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4633883",
+      "number": "463.3883",
+      "heading": "Redetermination:",
+      "text": "Time for filing and contents of petition; hearing; finality of order; judicial\n\nreview.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463389",
+      "number": "463.389",
+      "heading": "Remedies",
+      "text": "of State are cumulative.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463390",
+      "number": "463.390",
+      "heading": "Quarterly",
+      "text": "fee for county license; penalty for late payment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463395",
+      "number": "463.395",
+      "heading": "Limitations",
+      "text": "on amount of fee for license or rate of tax imposed by local government.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463400",
+      "number": "463.400",
+      "heading": "Penalty",
+      "text": "for willful evasion of payment of fees for license and other acts and\n\nomissions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4634071",
+      "number": "463.4071",
+      "heading": "Application",
+      "text": "for license to operate gaming salon; fee; costs for investigation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4634073",
+      "number": "463.4073",
+      "heading": "Regulations",
+      "text": "establishing policies and procedures for approval of license to operate gaming\n\nsalon and standards of operation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4634076",
+      "number": "463.4076",
+      "heading": "Admission",
+      "text": "of patrons to gaming salon: Conditions; restrictions; resolution of disputes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463408",
+      "number": "463.408",
+      "heading": "Application;",
+      "text": "fee; conditions and limitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463410",
+      "number": "463.410",
+      "heading": "Exemption",
+      "text": "of State from operation of 15 U.S.C. � 1172.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463420",
+      "number": "463.420",
+      "heading": "Legal",
+      "text": "shipments of gambling devices into State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463421",
+      "number": "463.421",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4634212",
+      "number": "463.4212",
+      "heading": "Live",
+      "text": "broadcast� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4634214",
+      "number": "463.4214",
+      "heading": "Racing",
+      "text": "meet� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4634216",
+      "number": "463.4216",
+      "heading": "Track�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4634218",
+      "number": "463.4218",
+      "heading": "User�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463422",
+      "number": "463.422",
+      "heading": "Proposal",
+      "text": "by disseminator for exclusive right to disseminate live broadcast for racing\n\nmeet; determination of necessity of hearing; notice; determination without\n\nhearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463423",
+      "number": "463.423",
+      "heading": "Hearing",
+      "text": "panel: Appointment; qualifications; expenses; agreements for services;\n\nadditional personnel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463424",
+      "number": "463.424",
+      "heading": "Procedure",
+      "text": "at hearing; submission of recommendation to Board; action on recommendation;\n\nregulations for contents of proposals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463425",
+      "number": "463.425",
+      "heading": "Administrative",
+      "text": "review of decision of Board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463426",
+      "number": "463.426",
+      "heading": "Powers",
+      "text": "of Board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463427",
+      "number": "463.427",
+      "heading": "Unauthorized",
+      "text": "use or dissemination of live broadcast prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463430",
+      "number": "463.430",
+      "heading": "Unlawful",
+      "text": "to disseminate information without license; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463435",
+      "number": "463.435",
+      "heading": "Renewal",
+      "text": "of license: Application to include information relating to state business\n\nlicense; denial of renewal for unpaid debt assigned to State Controller for\n\ncollection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463440",
+      "number": "463.440",
+      "heading": "Regulation",
+      "text": "and control of dissemination of information: Public policy of State; power of\n\nCommission; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463445",
+      "number": "463.445",
+      "heading": "Control",
+      "text": "of rates charged by disseminator; report of financial information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463450",
+      "number": "463.450",
+      "heading": "Fees:",
+      "text": "Amount; collection; overpayment or underpayment; deposit in State General Fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463460",
+      "number": "463.460",
+      "heading": "Licensee",
+      "text": "to furnish information without discrimination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463462",
+      "number": "463.462",
+      "heading": "Payment",
+      "text": "of child support: Statement by applicant for license; grounds for denial of\n\nlicense; duty of Commission. [Effective until the date of the repeal of 42\n\nU.S.C. � 666, the federal law requiring each state to establish procedures for\n\nwithholding, suspending and restricting the professional, occupational and\n\nrecreational licenses for child support arrearages and for noncompliance with\n\ncertain processes relating to paternity or child support proceedings.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463464",
+      "number": "463.464",
+      "heading": "Suspension",
+      "text": "of license for failure to pay child support or comply with certain subpoenas or\n\nwarrants; reinstatement of license. [Effective until the date of the repeal of\n\n42 U.S.C. � 666, the federal law requiring each state to establish procedures\n\nfor withholding, suspending and restricting the professional, occupational and\n\nrecreational licenses for child support arrearages and for noncompliance with\n\ncertain processes relating to paternity or child support proceedings.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463466",
+      "number": "463.466",
+      "heading": "Application",
+      "text": "for license to include social security number of applicant. [Effective until\n\nthe date of the repeal of 42 U.S.C. � 666, the federal law requiring each state\n\nto establish procedures for withholding, suspending and restricting the professional,\n\noccupational and recreational licenses for child support arrearages and for\n\nnoncompliance with certain processes relating to paternity or child support\n\nproceedings.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463480",
+      "number": "463.480",
+      "heading": "Penalty.",
+      "text": "Penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463482",
+      "number": "463.482",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4634825",
+      "number": "463.4825",
+      "heading": "Affiliated",
+      "text": "company� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463483",
+      "number": "463.483",
+      "heading": "Director�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463484",
+      "number": "463.484",
+      "heading": "Equity",
+      "text": "security� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4634845",
+      "number": "463.4845",
+      "heading": "General",
+      "text": "partner� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463485",
+      "number": "463.485",
+      "heading": "Holding",
+      "text": "company� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4634855",
+      "number": "463.4855",
+      "heading": "Interest",
+      "text": "in a limited-liability company� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463486",
+      "number": "463.486",
+      "heading": "Intermediary",
+      "text": "company� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4634862",
+      "number": "463.4862",
+      "heading": "Limited-liability",
+      "text": "company� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4634863",
+      "number": "463.4863",
+      "heading": "Limited",
+      "text": "partner� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4634864",
+      "number": "463.4864",
+      "heading": "Limited",
+      "text": "partnership� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4634865",
+      "number": "463.4865",
+      "heading": "Limited",
+      "text": "partnership interest� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4634866",
+      "number": "463.4866",
+      "heading": "Manager�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4634867",
+      "number": "463.4867",
+      "heading": "Member�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4634868",
+      "number": "463.4868",
+      "heading": "Pension",
+      "text": "or employee benefit plan� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4634869",
+      "number": "463.4869",
+      "heading": "Proscribed",
+      "text": "activity� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463487",
+      "number": "463.487",
+      "heading": "Publicly",
+      "text": "traded corporation� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463488",
+      "number": "463.488",
+      "heading": "Subsidiary�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463489",
+      "number": "463.489",
+      "heading": "Policy",
+      "text": "of State; waiver of requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463490",
+      "number": "463.490",
+      "heading": "Qualifications",
+      "text": "for state gaming license for corporations other than publicly traded\n\ncorporations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463505",
+      "number": "463.505",
+      "heading": "Prior",
+      "text": "approval by Chair of Board required to grant option to purchase security issued\n\nby corporation other than publicly traded corporation or to dispose of existing\n\noption to acquire such security; review of denial of approval.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463510",
+      "number": "463.510",
+      "heading": "Prior",
+      "text": "approval by Commission required for other disposition of securities issued by\n\ncorporation other than publicly traded corporation; restrictions on unsuitable\n\npersons; statement on certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463520",
+      "number": "463.520",
+      "heading": "Registration",
+      "text": "with Board by corporations other than publicly traded corporations; required\n\ninformation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463530",
+      "number": "463.530",
+      "heading": "Individual",
+      "text": "licensing of officers and directors of corporations other than publicly traded\n\ncorporations; other persons required to be licensed individually.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463540",
+      "number": "463.540",
+      "heading": "Limitation",
+      "text": "on certain powers of corporations other than publicly traded corporations after\n\nlicensing; approval of Commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463550",
+      "number": "463.550",
+      "heading": "Required",
+      "text": "reports and statements; income tax return.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463560",
+      "number": "463.560",
+      "heading": "Termination",
+      "text": "of employment of employee found unsuitable or whose license is denied or\n\nrevoked; licensing of successor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463563",
+      "number": "463.563",
+      "heading": "Policy",
+      "text": "of State; waiver of requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463564",
+      "number": "463.564",
+      "heading": "Qualifications",
+      "text": "for state gaming license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4635665",
+      "number": "463.5665",
+      "heading": "Prior",
+      "text": "approval by Chair of Board required to grant option to purchase interest in\n\nlimited partnership or to dispose of existing option to acquire such interest;\n\nreview of denial of approval.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463567",
+      "number": "463.567",
+      "heading": "Prior",
+      "text": "approval by Commission required for other disposition of interest in limited\n\npartnership; restrictions on unsuitable persons; statement on certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463568",
+      "number": "463.568",
+      "heading": "Registration",
+      "text": "with Board; required information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463569",
+      "number": "463.569",
+      "heading": "Individual",
+      "text": "licensing and registration of partners and other persons; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463571",
+      "number": "463.571",
+      "heading": "Required",
+      "text": "reports and statements; income tax return.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463572",
+      "number": "463.572",
+      "heading": "Termination",
+      "text": "of employment of employee found unsuitable or whose license is denied or\n\nrevoked; licensing of successor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463573",
+      "number": "463.573",
+      "heading": "Policy",
+      "text": "of State; waiver of requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4635731",
+      "number": "463.5731",
+      "heading": "Qualifications",
+      "text": "for state gaming license.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46357325",
+      "number": "463.57325",
+      "heading": "Prior",
+      "text": "approval by Chair of Board required to hold option to purchase interest in\n\nlimited-liability company or to dispose of existing option to acquire such\n\ninterest; review of denial of approval.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4635733",
+      "number": "463.5733",
+      "heading": "Prior",
+      "text": "approval by Commission required for other disposition of interest in\n\nlimited-liability company; restrictions on unsuitable persons; statement on\n\ncertificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4635734",
+      "number": "463.5734",
+      "heading": "Registration",
+      "text": "with Board; required information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4635735",
+      "number": "463.5735",
+      "heading": "Individual",
+      "text": "licensing and registration of members, directors, managers and other persons;\n\nregulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4635736",
+      "number": "463.5736",
+      "heading": "Required",
+      "text": "reports and statements; income tax returns.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4635737",
+      "number": "463.5737",
+      "heading": "Removal",
+      "text": "or modification of employment of employee, director or manager who is found\n\nunsuitable or whose license is denied or revoked; licensing of successor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463575",
+      "number": "463.575",
+      "heading": "Applicability",
+      "text": "ofNRS 463.575to463.615, inclusive; exemption for publicly\n\ntraded corporation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463585",
+      "number": "463.585",
+      "heading": "Requirements",
+      "text": "if corporation or other business organization is or becomes subsidiary;\n\ninvestigations; restrictions on unsuitable persons; statement on certificate,\n\nsecurities; other requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463595",
+      "number": "463.595",
+      "heading": "Individual",
+      "text": "licensing of officers, employees and other persons; removal from position if\n\nfound unsuitable or if license is denied or revoked; suspension of suitability\n\nby Commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463605",
+      "number": "463.605",
+      "heading": "Information",
+      "text": "required if corporation or other business organization is or becomes\n\nsubsidiary.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463615",
+      "number": "463.615",
+      "heading": "Penalties",
+      "text": "for noncompliance with laws and regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463621",
+      "number": "463.621",
+      "heading": "Legislative",
+      "text": "declaration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463622",
+      "number": "463.622",
+      "heading": "Policy",
+      "text": "of State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463623",
+      "number": "463.623",
+      "heading": "Regulations",
+      "text": "concerning certain corporate acquisitions, repurchases of securities and\n\ncorporate defense tactics.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463625",
+      "number": "463.625",
+      "heading": "Exemptions",
+      "text": "from certain requirements; compliance withNRS\n\n463.635to463.645, inclusive.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463627",
+      "number": "463.627",
+      "heading": "Registration",
+      "text": "of corporation of another country: Application; investigation; expenses of\n\ninvestigation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463633",
+      "number": "463.633",
+      "heading": "Registration",
+      "text": "of corporation of another country: Matters considered by Board; rejection\n\nwithout hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463635",
+      "number": "463.635",
+      "heading": "Publicly",
+      "text": "traded corporation owning or controlling applicant or licensee: Duties; power\n\nof Board and Commission to investigate; procedure for Board to deregister\n\ncorporation that ceases to engage in gaming activities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463637",
+      "number": "463.637",
+      "heading": "Individual",
+      "text": "licensing of directors, officers and employees; removal from position if found\n\nunsuitable or if license is denied or revoked; suspension of suitability by\n\nCommission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463639",
+      "number": "463.639",
+      "heading": "Required",
+      "text": "reports and statements; income tax return; documents filed with Commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463641",
+      "number": "463.641",
+      "heading": "Penalties",
+      "text": "for noncompliance with laws and regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463643",
+      "number": "463.643",
+      "heading": "Suitability",
+      "text": "of persons acquiring beneficial ownership of any voting security or beneficial\n\nor record ownership of any nonvoting security or debt security in publicly\n\ntraded corporation; report or notification of acquisition; exception;\n\napplication; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463645",
+      "number": "463.645",
+      "heading": "Remuneration,",
+      "text": "contracts and employment prohibited for certain unsuitable or unlicensed\n\npersons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463650",
+      "number": "463.650",
+      "heading": "License",
+      "text": "required for manufacture, selling or distribution of gaming device, cashless\n\nwagering system or interactive gaming system for use or play in Nevada;\n\nexceptions; applicability ofNRS 463.482to463.645, inclusive; certain persons\n\nconducting business in Nevada to submit copy of registration with Attorney\n\nGeneral of the United States to the Board; unlawful to distribute certain items\n\nto jurisdictions where such items are illegal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4636505",
+      "number": "463.6505",
+      "heading": "Renewal",
+      "text": "of license: Application to include information relating to state business\n\nlicense; denial of renewal for unpaid debt assigned to State Controller for\n\ncollection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463651",
+      "number": "463.651",
+      "heading": "Payment",
+      "text": "of child support: Statement by applicant for license; grounds for denial of\n\nlicense; duty of Commission. [Effective until the date of the repeal of 42\n\nU.S.C. � 666, the federal law requiring each state to establish procedures for\n\nwithholding, suspending and restricting the professional, occupational and\n\nrecreational licenses for child support arrearages and for noncompliance with\n\ncertain processes relating to paternity or child support proceedings.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463652",
+      "number": "463.652",
+      "heading": "Suspension",
+      "text": "of license for failure to pay child support or comply with certain subpoenas or\n\nwarrants; reinstatement of license. [Effective until the date of the repeal of\n\n42 U.S.C. � 666, the federal law requiring each state to establish procedures\n\nfor withholding, suspending and restricting the professional, occupational and\n\nrecreational licenses for child support arrearages and for noncompliance with\n\ncertain processes relating to paternity or child support proceedings.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463653",
+      "number": "463.653",
+      "heading": "Application",
+      "text": "for license to include social security number of applicant. [Effective until\n\nthe date of the repeal of 42 U.S.C. � 666, the federal law requiring each state\n\nto establish procedures for withholding, suspending and restricting the professional,\n\noccupational and recreational licenses for child support arrearages and for\n\nnoncompliance with certain processes relating to paternity or child support\n\nproceedings.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463655",
+      "number": "463.655",
+      "heading": "Effect",
+      "text": "of determination that manufacturer or distributor is unsuitable to hold\n\nlicense.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463660",
+      "number": "463.660",
+      "heading": "Amount",
+      "text": "and disposition of fees for licenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463665",
+      "number": "463.665",
+      "heading": "Regulations:",
+      "text": "Registration and finding of suitability for manufacturer or distributor of\n\nassociated equipment or person with significant involvement in manufacturing or\n\ndistribution of associated equipment; degree of review; fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463670",
+      "number": "463.670",
+      "heading": "Inspection",
+      "text": "of games, gaming devices, associated equipment, cashless wagering systems and\n\ninteractive gaming systems; fees; regulations; Commission may require filing of\n\napplication for finding of suitability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463673",
+      "number": "463.673",
+      "heading": "Legislative",
+      "text": "findings; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463677",
+      "number": "463.677",
+      "heading": "Legislative",
+      "text": "findings; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463680",
+      "number": "463.680",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463700",
+      "number": "463.700",
+      "heading": "Application",
+      "text": "for approval; investigations; revolving fund for expenses of investigation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463710",
+      "number": "463.710",
+      "heading": "Notices,",
+      "text": "reports and other information required to be filed with Board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463715",
+      "number": "463.715",
+      "heading": "Finding",
+      "text": "of suitability of certain activities or associations of licensee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463720",
+      "number": "463.720",
+      "heading": "Prohibited",
+      "text": "practices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463745",
+      "number": "463.745",
+      "heading": "Legislative",
+      "text": "findings and declarations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463747",
+      "number": "463.747",
+      "heading": "Governor",
+      "text": "may enter into agreements with certain governments for purposes of interactive\n\ngaming; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463750",
+      "number": "463.750",
+      "heading": "License",
+      "text": "required for person to operate interactive gaming or to manufacture interactive\n\ngaming systems; registration required to act as service provider; powers and duties\n\nof Commission; regulations; conditions; limitations; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463760",
+      "number": "463.760",
+      "heading": "Initial",
+      "text": "license fee for manufacturers; renewal fee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463765",
+      "number": "463.765",
+      "heading": "Initial",
+      "text": "license fee to operate interactive gaming; renewal fee; regulations relating to\n\nincreasing and decreasing fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463767",
+      "number": "463.767",
+      "heading": "Commission",
+      "text": "may adopt seal to identify certain gaming licenses or registrations;\n\nunauthorized use of seal; penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463770",
+      "number": "463.770",
+      "heading": "Monthly",
+      "text": "license fee based on gross revenue from operating interactive gaming; liability\n\nof manufacturer entitled to share revenue from interactive gaming system.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463775",
+      "number": "463.775",
+      "heading": "Exemptions",
+      "text": "from certain fees and taxes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463780",
+      "number": "463.780",
+      "heading": "Enforceability",
+      "text": "of interactive gaming debts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463785",
+      "number": "463.785",
+      "heading": "Commission",
+      "text": "may authorize promotional schemes; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463790",
+      "number": "463.790",
+      "heading": "Resort",
+      "text": "hotel required to maintain plan; contents; annual review; confidentiality.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463810",
+      "number": "463.810",
+      "heading": "Global",
+      "text": "risk management� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463820",
+      "number": "463.820",
+      "heading": "Regulations.",
+      "text": "Regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-463830",
+      "number": "463.830",
+      "heading": "Creation;",
+      "text": "members; duties; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4",
+      "number": "4",
+      "heading": "of Article 6",
+      "text": "of Article 6",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

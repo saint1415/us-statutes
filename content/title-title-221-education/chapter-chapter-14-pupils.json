@@ -1,0 +1,966 @@
+{
+  "state": "virginia",
+  "path": "title-title-221-education/chapter-chapter-14-pupils",
+  "sections": [
+    {
+      "id": "section-1",
+      "number": "1.",
+      "heading": "Compulsory School Attendance§ 22",
+      "text": "1-254. Compulsory attendance required; excuses and waivers; alternative education program attendance; exemptions from article§ 22.1-254.01. Certain students required to attend summer school or after-school sessions§ 22.1-254.02. Students transferring from a public sc",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-254",
+      "number": "22.1-254.",
+      "heading": "Compulsory attendance required; excuses and waivers; alternative education program attendance; exemptions from article",
+      "text": "Compulsory attendance required; excuses and waivers; alternative education program attendance; exemptions from article",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-25401",
+      "number": "22.1-254.01.",
+      "heading": "Certain students required to attend summer school or after-school sessions",
+      "text": "Certain students required to attend summer school or after-school sessions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-25402",
+      "number": "22.1-254.02.",
+      "heading": "Students transferring from a public school",
+      "text": "Students transferring from a public school",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2541",
+      "number": "22.1-254.1.",
+      "heading": "Declaration of policy; requirements for home instruction of children",
+      "text": "Declaration of policy; requirements for home instruction of children",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2542",
+      "number": "22.1-254.2.",
+      "heading": "Testing for high school equivalency; eligibility; guidelines",
+      "text": "Testing for high school equivalency; eligibility; guidelines",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-255",
+      "number": "22.1-255.",
+      "heading": "Nonresident children",
+      "text": "Nonresident children",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-256",
+      "number": "22.1-256.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-258",
+      "number": "22.1-258.",
+      "heading": "Appointment of attendance officers; notification when pupil fails to report to school; plan; conference; court proceedings",
+      "text": "Appointment of attendance officers; notification when pupil fails to report to school; plan; conference; court proceedings",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-259",
+      "number": "22.1-259.",
+      "heading": "Teachers to keep daily attendance records",
+      "text": "Teachers to keep daily attendance records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-260",
+      "number": "22.1-260.",
+      "heading": "Reports of children enrolled and not enrolled; nonattendance",
+      "text": "Reports of children enrolled and not enrolled; nonattendance",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-261",
+      "number": "22.1-261.",
+      "heading": "Attendance officer to make list of children not enrolled; duties of attendance officer",
+      "text": "Attendance officer to make list of children not enrolled; duties of attendance officer",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-262",
+      "number": "22.1-262.",
+      "heading": "Complaint to court when parent fails to comply with law",
+      "text": "Complaint to court when parent fails to comply with law",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-263",
+      "number": "22.1-263.",
+      "heading": "Violation constitutes misdemeanor",
+      "text": "Violation constitutes misdemeanor",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-264",
+      "number": "22.1-264.",
+      "heading": "Misdemeanor to make false statements as to age",
+      "text": "Misdemeanor to make false statements as to age",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2641",
+      "number": "22.1-264.1.",
+      "heading": "Misdemeanor to make false statements as to school division or attendance zone residency; penalty",
+      "text": "Misdemeanor to make false statements as to school division or attendance zone residency; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-265",
+      "number": "22.1-265.",
+      "heading": "Inducing children to absent themselves",
+      "text": "Inducing children to absent themselves",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-266",
+      "number": "22.1-266.",
+      "heading": "Law-enforcement officers and truant children",
+      "text": "Law-enforcement officers and truant children",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-267",
+      "number": "22.1-267.",
+      "heading": "Proceedings against habitually absent child",
+      "text": "Proceedings against habitually absent child",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-268",
+      "number": "22.1-268.",
+      "heading": "Duty of attorneys for the Commonwealth to prosecute cases arising under article; jurisdiction of offenses",
+      "text": "Duty of attorneys for the Commonwealth to prosecute cases arising under article; jurisdiction of offenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-269",
+      "number": "22.1-269.",
+      "heading": "Board to enforce",
+      "text": "Board to enforce",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2691",
+      "number": "22.1-269.1.",
+      "heading": "Alternative attendance programs",
+      "text": "Alternative attendance programs",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2",
+      "number": "2.",
+      "heading": "Health Provisions",
+      "text": "Health Provisions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-270",
+      "number": "22.1-270.",
+      "heading": "Preschool physical examinations",
+      "text": "Preschool physical examinations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-271",
+      "number": "22.1-271.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2711",
+      "number": "22.1-271.1.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2712",
+      "number": "22.1-271.2.",
+      "heading": "Immunization requirements",
+      "text": "Immunization requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2713",
+      "number": "22.1-271.3.",
+      "heading": "Guidelines for school attendance for children infected with human immunodeficiency virus; school personnel training required; notification of school personnel in certain cases",
+      "text": "Guidelines for school attendance for children infected with human immunodeficiency virus; school personnel training required; notification of school personnel in certain cases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2714",
+      "number": "22.1-271.4.",
+      "heading": "Health requirements for home-instructed, exempted, and excused children",
+      "text": "Health requirements for home-instructed, exempted, and excused children",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2715",
+      "number": "22.1-271.5.",
+      "heading": "Guidelines and policies and procedures on concussions in student-athletes",
+      "text": "Guidelines and policies and procedures on concussions in student-athletes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2716",
+      "number": "22.1-271.6.",
+      "heading": "School division policies and procedures on concussions in students",
+      "text": "School division policies and procedures on concussions in students",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2717",
+      "number": "22.1-271.7.",
+      "heading": "Public middle and high school student-athletes; pre-participation physical examination",
+      "text": "Public middle and high school student-athletes; pre-participation physical examination",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2718",
+      "number": "22.1-271.8.",
+      "heading": "Sudden cardiac arrest prevention in student-athletes",
+      "text": "Sudden cardiac arrest prevention in student-athletes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2719",
+      "number": "22.1-271.9.",
+      "heading": "Cardiac emergency response or emergency action plans required",
+      "text": "Cardiac emergency response or emergency action plans required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-27110",
+      "number": "22.1-271.10.",
+      "heading": "Guidelines and policies on student-athlete extreme heat safety and protection",
+      "text": "Guidelines and policies on student-athlete extreme heat safety and protection",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-272",
+      "number": "22.1-272.",
+      "heading": "Contagious and infectious diseases",
+      "text": "Contagious and infectious diseases",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2721",
+      "number": "22.1-272.1.",
+      "heading": "Responsibility to contact parent of student at imminent risk of suicide; notice to be given to social services if parental abuse or neglect; Board of Education to develop guidelines for parental contact",
+      "text": "Responsibility to contact parent of student at imminent risk of suicide; notice to be given to social services if parental abuse or neglect; Board of Education to develop guidelines for parental contact",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-27211",
+      "number": "22.1-272.1:1.",
+      "heading": "School-connected student overdose policies; parental notification; guidelines",
+      "text": "School-connected student overdose policies; parental notification; guidelines",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2722",
+      "number": "22.1-272.2.",
+      "heading": "Department; model memorandum of understanding; partnerships with community mental health services providers or a nationally recognized school-based telehealth provider",
+      "text": "Department; model memorandum of understanding; partnerships with community mental health services providers or a nationally recognized school-based telehealth provider",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2723",
+      "number": "22.1-272.3.",
+      "heading": "Student access to telehealth services; school division policies",
+      "text": "Student access to telehealth services; school division policies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-273",
+      "number": "22.1-273.",
+      "heading": "Vision and hearing of student to be tested; exceptions",
+      "text": "Vision and hearing of student to be tested; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2731",
+      "number": "22.1-273.1.",
+      "heading": "Annual screening for scoliosis",
+      "text": "Annual screening for scoliosis",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2732",
+      "number": "22.1-273.2.",
+      "heading": "Parent educational information regarding eating disorders",
+      "text": "Parent educational information regarding eating disorders",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2733",
+      "number": "22.1-273.3.",
+      "heading": "Parent educational information regarding tobacco and nicotine vapor products",
+      "text": "Parent educational information regarding tobacco and nicotine vapor products",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2734",
+      "number": "22.1-273.4.",
+      "heading": "Department of Education; guidance and resources; applied behavior analysis services",
+      "text": "Department of Education; guidance and resources; applied behavior analysis services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-274",
+      "number": "22.1-274.",
+      "heading": "School health services",
+      "text": "School health services",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-27401",
+      "number": "22.1-274.01.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-274011",
+      "number": "22.1-274.01:1.",
+      "heading": "Students who are diagnosed with diabetes; self-care; insertion and reinsertion of insulin pump",
+      "text": "Students who are diagnosed with diabetes; self-care; insertion and reinsertion of insulin pump",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-27402",
+      "number": "22.1-274.02.",
+      "heading": "Certain memorandum of agreement required",
+      "text": "Certain memorandum of agreement required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2741",
+      "number": "22.1-274.1.",
+      "heading": "Criteria to identify toxic art materials; labeling; use in certain grades prohibited",
+      "text": "Criteria to identify toxic art materials; labeling; use in certain grades prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2742",
+      "number": "22.1-274.2.",
+      "heading": "Possession and administration of inhaled asthma medications, epinephrine, glucagon, and seizure rescue medications by certain students or school board employees",
+      "text": "Possession and administration of inhaled asthma medications, epinephrine, glucagon, and seizure rescue medications by certain students or school board employees",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-27421",
+      "number": "22.1-274.2:1.",
+      "heading": "Grade nine and grade 10 health education Standards of Learning; severe allergic reaction awareness training",
+      "text": "Grade nine and grade 10 health education Standards of Learning; severe allergic reaction awareness training",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2743",
+      "number": "22.1-274.3.",
+      "heading": "Policies regarding medication recommendations by school personnel",
+      "text": "Policies regarding medication recommendations by school personnel",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2744",
+      "number": "22.1-274.4.",
+      "heading": "Public elementary and secondary schools; automated external defibrillators required",
+      "text": "Public elementary and secondary schools; automated external defibrillators required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-27441",
+      "number": "22.1-274.4:1.",
+      "heading": "Opioid antagonist procurement, placement, maintenance, and administration; staff and faculty training; policies and requirements",
+      "text": "Opioid antagonist procurement, placement, maintenance, and administration; staff and faculty training; policies and requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2745",
+      "number": "22.1-274.5.",
+      "heading": "Topical sunscreen",
+      "text": "Topical sunscreen",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2746",
+      "number": "22.1-274.6.",
+      "heading": "Seizure management and action plan; training",
+      "text": "Seizure management and action plan; training",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2747",
+      "number": "22.1-274.7.",
+      "heading": "Students with disabilities; individualized education programs; individualized accommodations and supports during emergency situations and evacuations",
+      "text": "Students with disabilities; individualized education programs; individualized accommodations and supports during emergency situations and evacuations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2748",
+      "number": "22.1-274.8.",
+      "heading": "School boards; bleeding control programs; bleeding control kits",
+      "text": "School boards; bleeding control programs; bleeding control kits",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-275",
+      "number": "22.1-275.",
+      "heading": "Protective eye devices",
+      "text": "Protective eye devices",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2751",
+      "number": "22.1-275.1.",
+      "heading": "School health advisory board",
+      "text": "School health advisory board",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3",
+      "number": "3.",
+      "heading": "Discipline",
+      "text": "Discipline",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-276",
+      "number": "22.1-276.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-27601",
+      "number": "22.1-276.01.",
+      "heading": "Definitions",
+      "text": "Definitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2761",
+      "number": "22.1-276.1.",
+      "heading": "Expired",
+      "text": "Expired",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2762",
+      "number": "22.1-276.2.",
+      "heading": "Removal of students from classes",
+      "text": "Removal of students from classes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2763",
+      "number": "22.1-276.3.",
+      "heading": "Ineligibility of students to compete in athletic competitions",
+      "text": "Ineligibility of students to compete in athletic competitions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-277",
+      "number": "22.1-277.",
+      "heading": "Suspensions and expulsions of students generally",
+      "text": "Suspensions and expulsions of students generally",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-27701",
+      "number": "22.1-277.01.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-27704",
+      "number": "22.1-277.04.",
+      "heading": "Short-term suspension; procedures; readmission",
+      "text": "Short-term suspension; procedures; readmission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-27705",
+      "number": "22.1-277.05.",
+      "heading": "Long-term suspensions; procedures; readmission",
+      "text": "Long-term suspensions; procedures; readmission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-27706",
+      "number": "22.1-277.06.",
+      "heading": "Expulsions; procedures; readmission",
+      "text": "Expulsions; procedures; readmission",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-27707",
+      "number": "22.1-277.07.",
+      "heading": "Expulsion of students under certain circumstances; exceptions",
+      "text": "Expulsion of students under certain circumstances; exceptions",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-277071",
+      "number": "22.1-277.07:1.",
+      "heading": "Policies prohibiting possession of firearms",
+      "text": "Policies prohibiting possession of firearms",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-27708",
+      "number": "22.1-277.08.",
+      "heading": "Expulsion of students for certain drug offenses",
+      "text": "Expulsion of students for certain drug offenses",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2771",
+      "number": "22.1-277.1.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2772",
+      "number": "22.1-277.2.",
+      "heading": "Authority to exclude students under certain circumstances; petition for readmission; alternative education program",
+      "text": "Authority to exclude students under certain circumstances; petition for readmission; alternative education program",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-27721",
+      "number": "22.1-277.2:1.",
+      "heading": "Disciplinary authority of school boards under certain circumstances; alternative education program",
+      "text": "Disciplinary authority of school boards under certain circumstances; alternative education program",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-27722",
+      "number": "22.1-277.2:2.",
+      "heading": "Alternative education program data",
+      "text": "Alternative education program data",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-278",
+      "number": "22.1-278.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-279",
+      "number": "22.1-279.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2791",
+      "number": "22.1-279.1.",
+      "heading": "Corporal punishment prohibited",
+      "text": "Corporal punishment prohibited",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-27911",
+      "number": "22.1-279.1:1.",
+      "heading": "The use of seclusion and restraint in public schools; Board of Education regulations",
+      "text": "The use of seclusion and restraint in public schools; Board of Education regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2792",
+      "number": "22.1-279.2.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2793",
+      "number": "22.1-279.3.",
+      "heading": "Parental responsibility and involvement requirements",
+      "text": "Parental responsibility and involvement requirements",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-27931",
+      "number": "22.1-279.3:1.",
+      "heading": "Reports of certain acts to school authorities; reports of certain acts by school authorities to parents; reports of certain acts by school authorities to law enforcement",
+      "text": "Reports of certain acts to school authorities; reports of certain acts by school authorities to parents; reports of certain acts by school authorities to law enforcement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-27932",
+      "number": "22.1-279.3:2.",
+      "heading": "Public elementary and secondary school students; protective orders; notification",
+      "text": "Public elementary and secondary school students; protective orders; notification",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-27933",
+      "number": "22.1-279.3:3.",
+      "heading": "Alternative school discipline process for certain incidents",
+      "text": "Alternative school discipline process for certain incidents",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2794",
+      "number": "22.1-279.4.",
+      "heading": "Information regarding prosecution for certain crimes",
+      "text": "Information regarding prosecution for certain crimes",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2795",
+      "number": "22.1-279.5.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2796",
+      "number": "22.1-279.6.",
+      "heading": "Board of Education guidelines and model policies for codes of student conduct; school board regulations",
+      "text": "Board of Education guidelines and model policies for codes of student conduct; school board regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2797",
+      "number": "22.1-279.7.",
+      "heading": "Guidelines for student searches",
+      "text": "Guidelines for student searches",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2798",
+      "number": "22.1-279.8.",
+      "heading": "School safety audits and school crisis, emergency management, and medical emergency response plans required",
+      "text": "School safety audits and school crisis, emergency management, and medical emergency response plans required",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2799",
+      "number": "22.1-279.9.",
+      "heading": "Development of programs to prevent crime and violence; hazing prevention training program",
+      "text": "Development of programs to prevent crime and violence; hazing prevention training program",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-27910",
+      "number": "22.1-279.10.",
+      "heading": "School resource officers; data",
+      "text": "School resource officers; data",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-280",
+      "number": "22.1-280.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2801",
+      "number": "22.1-280.1.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2802",
+      "number": "22.1-280.2.",
+      "heading": "School crime line defined; development of school crime lines authorized; local school boards' authority; Board to promulgate regulations",
+      "text": "School crime line defined; development of school crime lines authorized; local school boards' authority; Board to promulgate regulations",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-28021",
+      "number": "22.1-280.2:1.",
+      "heading": "Employment of school security officers",
+      "text": "Employment of school security officers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-28022",
+      "number": "22.1-280.2:2.",
+      "heading": "Public School Security Equipment Grant Act of 2013",
+      "text": "Public School Security Equipment Grant Act of 2013",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-28023",
+      "number": "22.1-280.2:3.",
+      "heading": "School boards; safety and security personnel",
+      "text": "School boards; safety and security personnel",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-28024",
+      "number": "22.1-280.2:4.",
+      "heading": "School boards; firearms on school property",
+      "text": "School boards; firearms on school property",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2803",
+      "number": "22.1-280.3.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2804",
+      "number": "22.1-280.4.",
+      "heading": "School board action regarding destruction of property",
+      "text": "School board action regarding destruction of property",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4",
+      "number": "4.",
+      "heading": "Triennial Census [Repealed]",
+      "text": "Triennial Census [Repealed]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-281",
+      "number": "22.1-281.",
+      "heading": "Repealed",
+      "text": "Repealed",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5",
+      "number": "5.",
+      "heading": "Pupil Records",
+      "text": "Pupil Records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-287",
+      "number": "22.1-287.",
+      "heading": "Limitations on access to records",
+      "text": "Limitations on access to records",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-28701",
+      "number": "22.1-287.01.",
+      "heading": "Student information; release to federal government agencies",
+      "text": "Student information; release to federal government agencies",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-28702",
+      "number": "22.1-287.02.",
+      "heading": "Students' personally identifiable information",
+      "text": "Students' personally identifiable information",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-28703",
+      "number": "22.1-287.03.",
+      "heading": "Unique student identification numbers",
+      "text": "Unique student identification numbers",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-28704",
+      "number": "22.1-287.04.",
+      "heading": "Uniformed services-connected students",
+      "text": "Uniformed services-connected students",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-28705",
+      "number": "22.1-287.05.",
+      "heading": "Student identification cards; 988 Suicide and Crisis Lifeline; requirement",
+      "text": "Student identification cards; 988 Suicide and Crisis Lifeline; requirement",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2871",
+      "number": "22.1-287.1.",
+      "heading": "Directory information",
+      "text": "Directory information",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-288",
+      "number": "22.1-288.",
+      "heading": "Furnishing information to public or private school or institution of higher education or private business or professional school or institution of higher education or military force",
+      "text": "Furnishing information to public or private school or institution of higher education or private business or professional school or institution of higher education or military force",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2881",
+      "number": "22.1-288.1.",
+      "heading": "Notation in school records of missing children; local law-enforcement cooperation",
+      "text": "Notation in school records of missing children; local law-enforcement cooperation",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2882",
+      "number": "22.1-288.2.",
+      "heading": "Receipt, dissemination and maintenance of records of certain law-enforcement information",
+      "text": "Receipt, dissemination and maintenance of records of certain law-enforcement information",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-2883",
+      "number": "22.1-288.3.",
+      "heading": "Records; redaction of foster parent's address upon written request",
+      "text": "Records; redaction of foster parent's address upon written request",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-289",
+      "number": "22.1-289.",
+      "heading": "Transfer and management of scholastic records; disclosure of information in court notices; penalty",
+      "text": "Transfer and management of scholastic records; disclosure of information in court notices; penalty",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-221-28901",
+      "number": "22.1-289.01.",
+      "heading": "School service providers; school-affiliated entities; school-issued devices; student personal information",
+      "text": "School service providers; school-affiliated entities; school-issued devices; student personal information",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

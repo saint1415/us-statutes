@@ -1,0 +1,358 @@
+{
+  "state": "wisconsin",
+  "path": "title-chapter-040/chapter-chapter-040",
+  "sections": [
+    {
+      "id": "section-4001creation",
+      "number": "40.01Creation",
+      "heading": "and purpose.",
+      "text": "and purpose.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-40015compliance",
+      "number": "40.015Compliance",
+      "heading": "with federal tax laws.",
+      "text": "with federal tax laws.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4002definitions",
+      "number": "40.02Definitions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4003powers",
+      "number": "40.03Powers",
+      "heading": "and duties.",
+      "text": "and duties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4004accounts",
+      "number": "40.04Accounts",
+      "heading": "and reserves.",
+      "text": "and reserves.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4005contributions",
+      "number": "40.05Contributions",
+      "heading": "and premiums.",
+      "text": "and premiums.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4006reports",
+      "number": "40.06Reports",
+      "heading": "and payments.",
+      "text": "and payments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4007records",
+      "number": "40.07Records",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4008benefit",
+      "number": "40.08Benefit",
+      "heading": "assignments and corrections.",
+      "text": "assignments and corrections.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4019rights",
+      "number": "40.19Rights",
+      "heading": "preserved.",
+      "text": "preserved.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4020creation",
+      "number": "40.20Creation",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4021participating",
+      "number": "40.21Participating",
+      "heading": "employers.",
+      "text": "employers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4022participating",
+      "number": "40.22Participating",
+      "heading": "employees.",
+      "text": "employees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4023retirement",
+      "number": "40.23Retirement",
+      "heading": "annuities.",
+      "text": "annuities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4024annuity",
+      "number": "40.24Annuity",
+      "heading": "options.",
+      "text": "options.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4025lump",
+      "number": "40.25Lump",
+      "heading": "sum payments.",
+      "text": "sum payments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4026reentry",
+      "number": "40.26Reentry",
+      "heading": "into service.",
+      "text": "into service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4027post-retirement",
+      "number": "40.27Post-retirement",
+      "heading": "adjustments.",
+      "text": "adjustments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4028variable",
+      "number": "40.28Variable",
+      "heading": "benefits.",
+      "text": "benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-40285purchase",
+      "number": "40.285Purchase",
+      "heading": "of creditable service.",
+      "text": "of creditable service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4029temporary",
+      "number": "40.29Temporary",
+      "heading": "disability; creditable service.",
+      "text": "disability; creditable service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4030intrastate",
+      "number": "40.30Intrastate",
+      "heading": "retirement reciprocity.",
+      "text": "retirement reciprocity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4031maximum",
+      "number": "40.31Maximum",
+      "heading": "benefit limitations.",
+      "text": "benefit limitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4032limitations",
+      "number": "40.32Limitations",
+      "heading": "on contributions.",
+      "text": "on contributions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4040state-federal",
+      "number": "40.40State-federal",
+      "heading": "agreement.",
+      "text": "agreement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4041coverage",
+      "number": "40.41Coverage",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4051health",
+      "number": "40.51Health",
+      "heading": "care coverage.",
+      "text": "care coverage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-40513payment",
+      "number": "40.513Payment",
+      "heading": "of stipend in lieu of health care coverage for state employees.",
+      "text": "of stipend in lieu of health care coverage for state employees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-40515health",
+      "number": "40.515Health",
+      "heading": "savings accounts; high-deductible health plan.",
+      "text": "savings accounts; high-deductible health plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4052health",
+      "number": "40.52Health",
+      "heading": "care benefits.",
+      "text": "care benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4055long-term",
+      "number": "40.55Long-term",
+      "heading": "care coverage.",
+      "text": "care coverage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4056abortion",
+      "number": "40.56Abortion",
+      "heading": "coverage prohibited.",
+      "text": "coverage prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4061income",
+      "number": "40.61Income",
+      "heading": "continuation coverage.",
+      "text": "continuation coverage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4062income",
+      "number": "40.62Income",
+      "heading": "continuation insurance benefits.",
+      "text": "continuation insurance benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4063disability",
+      "number": "40.63Disability",
+      "heading": "annuities.",
+      "text": "annuities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4065duty",
+      "number": "40.65Duty",
+      "heading": "disability and death benefits; protective occupation participants.",
+      "text": "disability and death benefits; protective occupation participants.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4070life",
+      "number": "40.70Life",
+      "heading": "insurance coverage.",
+      "text": "insurance coverage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4071death",
+      "number": "40.71Death",
+      "heading": "benefit eligibility.",
+      "text": "benefit eligibility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4072life",
+      "number": "40.72Life",
+      "heading": "insurance benefits.",
+      "text": "insurance benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4073death",
+      "number": "40.73Death",
+      "heading": "benefits.",
+      "text": "benefits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4074beneficiaries",
+      "number": "40.74Beneficiaries",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4080state",
+      "number": "40.80State",
+      "heading": "deferred compensation plan.",
+      "text": "deferred compensation plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4081deferred",
+      "number": "40.81Deferred",
+      "heading": "compensation plan authorization.",
+      "text": "compensation plan authorization.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2023-24",
+      "number": "2023-24",
+      "heading": "Wisconsin Statutes updatedthrough 2025 Wis",
+      "text": "Act 82 and through all Supreme Court Orders and Controlled Substances Board Orders filed before and in effect on January 30, 2026.Published andcertifiedunder s. 35.18. Changes effective after January 30, 2026, are designated by NOTES.(Published 1-30-26)",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

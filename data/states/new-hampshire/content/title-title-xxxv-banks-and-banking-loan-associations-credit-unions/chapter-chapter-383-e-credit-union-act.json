@@ -1,0 +1,686 @@
+{
+  "state": "new-hampshire",
+  "path": "title-title-xxxv-banks-and-banking-loan-associations-credit-unions/chapter-chapter-383-e-credit-union-act",
+  "sections": [
+    {
+      "id": "section-383-e1-101",
+      "number": "383-E:1-101",
+      "heading": "Short Title.",
+      "text": "Short Title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e1-102",
+      "number": "383-E:1-102",
+      "heading": "Scope.",
+      "text": "Scope.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e1-103",
+      "number": "383-E:1-103",
+      "heading": "Reservation of Power to Amend or Repeal.",
+      "text": "Reservation of Power to Amend or Repeal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e1-104",
+      "number": "383-E:1-104",
+      "heading": "Commissioner.",
+      "text": "Commissioner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e2-201",
+      "number": "383-E:2-201",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e3-301",
+      "number": "383-E:3-301",
+      "heading": "Agreement;  Bylaws.",
+      "text": "Agreement; Bylaws.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e3-302",
+      "number": "383-E:3-302",
+      "heading": "Name.",
+      "text": "Name.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e3-303",
+      "number": "383-E:3-303",
+      "heading": "Limitation on Use of Words \"Credit Union.\"",
+      "text": "Limitation on Use of Words \"Credit Union.\"",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e3-304",
+      "number": "383-E:3-304",
+      "heading": "Application.",
+      "text": "Application.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e3-305",
+      "number": "383-E:3-305",
+      "heading": "Investigative Powers.",
+      "text": "Investigative Powers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e3-306",
+      "number": "383-E:3-306",
+      "heading": "Hearing.",
+      "text": "Hearing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e3-307",
+      "number": "383-E:3-307",
+      "heading": "Action on Application.",
+      "text": "Action on Application.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e3-308",
+      "number": "383-E:3-308",
+      "heading": "Charter Rights;  Liability.",
+      "text": "Charter Rights; Liability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e3-309",
+      "number": "383-E:3-309",
+      "heading": "Completion of Organization.",
+      "text": "Completion of Organization.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e3-310",
+      "number": "383-E:3-310",
+      "heading": "Authorizing Commencement of Operations.",
+      "text": "Authorizing Commencement of Operations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e3-311",
+      "number": "383-E:3-311",
+      "heading": "Amendment of Bylaws.",
+      "text": "Amendment of Bylaws.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e3-312",
+      "number": "383-E:3-312",
+      "heading": "Material Change in Operating Conditions.",
+      "text": "Material Change in Operating Conditions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e4-401",
+      "number": "383-E:4-401",
+      "heading": "Deposits;  Loans.",
+      "text": "Deposits; Loans.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e4-402",
+      "number": "383-E:4-402",
+      "heading": "Use of Funds.",
+      "text": "Use of Funds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e4-403",
+      "number": "383-E:4-403",
+      "heading": "Limitations.",
+      "text": "Limitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e4-404",
+      "number": "383-E:4-404",
+      "heading": "Public Obligations.",
+      "text": "Public Obligations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e4-405",
+      "number": "383-E:4-405",
+      "heading": "Corporate Securities.",
+      "text": "Corporate Securities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e4-406",
+      "number": "383-E:4-406",
+      "heading": "Bank Stock.",
+      "text": "Bank Stock.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e4-407",
+      "number": "383-E:4-407",
+      "heading": "Investment Trust Shares.",
+      "text": "Investment Trust Shares.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e4-408",
+      "number": "383-E:4-408",
+      "heading": "Other Legal Investments.",
+      "text": "Other Legal Investments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e4-409",
+      "number": "383-E:4-409",
+      "heading": "Loan of Securities.",
+      "text": "Loan of Securities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e4-410",
+      "number": "383-E:4-410",
+      "heading": "Retention of Securities.",
+      "text": "Retention of Securities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e4-411",
+      "number": "383-E:4-411",
+      "heading": "Advantageous Federal Powers.",
+      "text": "Advantageous Federal Powers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e4-412",
+      "number": "383-E:4-412",
+      "heading": "Minors.",
+      "text": "Minors.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e4-413",
+      "number": "383-E:4-413",
+      "heading": "Deposit Accounts.",
+      "text": "Deposit Accounts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e4-414",
+      "number": "383-E:4-414",
+      "heading": "Retirement Accounts.",
+      "text": "Retirement Accounts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e4-415",
+      "number": "383-E:4-415",
+      "heading": "Interest on Escrow Accounts.",
+      "text": "Interest on Escrow Accounts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e4-416",
+      "number": "383-E:4-416",
+      "heading": "Safe Deposit Boxes.",
+      "text": "Safe Deposit Boxes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e4-417",
+      "number": "383-E:4-417",
+      "heading": "Transactions Involving Assets and Liabilities.",
+      "text": "Transactions Involving Assets and Liabilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e5-501",
+      "number": "383-E:5-501",
+      "heading": "Elections and Appointments.",
+      "text": "Elections and Appointments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e5-502",
+      "number": "383-E:5-502",
+      "heading": "Qualifications.",
+      "text": "Qualifications.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e5-503",
+      "number": "383-E:5-503",
+      "heading": "Terms of Directors and Officials.",
+      "text": "Terms of Directors and Officials.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e5-504",
+      "number": "383-E:5-504",
+      "heading": "Vacancies.",
+      "text": "Vacancies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e5-505",
+      "number": "383-E:5-505",
+      "heading": "Electing Officers.",
+      "text": "Electing Officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e5-506",
+      "number": "383-E:5-506",
+      "heading": "Responsibilities of Directors and Officers.",
+      "text": "Responsibilities of Directors and Officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e5-507",
+      "number": "383-E:5-507",
+      "heading": "Loan Officers.",
+      "text": "Loan Officers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e5-508",
+      "number": "383-E:5-508",
+      "heading": "Borrowing.",
+      "text": "Borrowing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e5-509",
+      "number": "383-E:5-509",
+      "heading": "Dividends.",
+      "text": "Dividends.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e5-510",
+      "number": "383-E:5-510",
+      "heading": "Loans to Officials.",
+      "text": "Loans to Officials.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e5-511",
+      "number": "383-E:5-511",
+      "heading": "Grounds for Expulsion.",
+      "text": "Grounds for Expulsion.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e5-512",
+      "number": "383-E:5-512",
+      "heading": "Order of Payments.",
+      "text": "Order of Payments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e5-513",
+      "number": "383-E:5-513",
+      "heading": "Lien and Right of Set-Off.",
+      "text": "Lien and Right of Set-Off.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e6-601",
+      "number": "383-E:6-601",
+      "heading": "Supervisory Committee.",
+      "text": "Supervisory Committee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e6-602",
+      "number": "383-E:6-602",
+      "heading": "Annual Audits.",
+      "text": "Annual Audits.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e6-603",
+      "number": "383-E:6-603",
+      "heading": "Exemption to Annual Audit Requirement.",
+      "text": "Exemption to Annual Audit Requirement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e6-604",
+      "number": "383-E:6-604",
+      "heading": "Report.",
+      "text": "Report.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e6-605",
+      "number": "383-E:6-605",
+      "heading": "Violations.",
+      "text": "Violations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e6-606",
+      "number": "383-E:6-606",
+      "heading": "Special Meeting After Suspension.",
+      "text": "Special Meeting After Suspension.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e6-607",
+      "number": "383-E:6-607",
+      "heading": "Compensation.",
+      "text": "Compensation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e7-701",
+      "number": "383-E:7-701",
+      "heading": "Annual Meeting.",
+      "text": "Annual Meeting.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e7-702",
+      "number": "383-E:7-702",
+      "heading": "Special Meetings.",
+      "text": "Special Meetings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e7-703",
+      "number": "383-E:7-703",
+      "heading": "Voting.",
+      "text": "Voting.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e7-704",
+      "number": "383-E:7-704",
+      "heading": "Supervisory Powers.",
+      "text": "Supervisory Powers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e7-705",
+      "number": "383-E:7-705",
+      "heading": "Filling Vacancies.",
+      "text": "Filling Vacancies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e8-801",
+      "number": "383-E:8-801",
+      "heading": "Regular Reserves.",
+      "text": "Regular Reserves.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e9-901",
+      "number": "383-E:9-901",
+      "heading": "Branching Authority.",
+      "text": "Branching Authority.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e9-902",
+      "number": "383-E:9-902",
+      "heading": "Branch Closings and Relocations.",
+      "text": "Branch Closings and Relocations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e9-903",
+      "number": "383-E:9-903",
+      "heading": "Automated Teller Machines;  Fee Disclosure.",
+      "text": "Automated Teller Machines; Fee Disclosure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e10-1001",
+      "number": "383-E:10-1001",
+      "heading": "Procedural Requirements.",
+      "text": "Procedural Requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e10-1002",
+      "number": "383-E:10-1002",
+      "heading": "Required Vote.",
+      "text": "Required Vote.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e10-1003",
+      "number": "383-E:10-1003",
+      "heading": "Name Change.",
+      "text": "Name Change.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e10-1004",
+      "number": "383-E:10-1004",
+      "heading": "Branch Offices.",
+      "text": "Branch Offices.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e11-1101",
+      "number": "383-E:11-1101",
+      "heading": "State Credit Union to Federal Credit Union.",
+      "text": "State Credit Union to Federal Credit Union.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e11-1102",
+      "number": "383-E:11-1102",
+      "heading": "Federal Credit Union to State Credit Union.",
+      "text": "Federal Credit Union to State Credit Union.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e11-1103",
+      "number": "383-E:11-1103",
+      "heading": "Rules.",
+      "text": "Rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e12-1201",
+      "number": "383-E:12-1201",
+      "heading": "Dissolution.",
+      "text": "Dissolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e12-1202",
+      "number": "383-E:12-1202",
+      "heading": "Procedure.",
+      "text": "Procedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e13-1301",
+      "number": "383-E:13-1301",
+      "heading": "Corporate Credit Union.",
+      "text": "Corporate Credit Union.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e13-1302",
+      "number": "383-E:13-1302",
+      "heading": "Purposes.",
+      "text": "Purposes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e13-1303",
+      "number": "383-E:13-1303",
+      "heading": "Membership.",
+      "text": "Membership.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e13-1304",
+      "number": "383-E:13-1304",
+      "heading": "Charter and Name Exclusive.",
+      "text": "Charter and Name Exclusive.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e13-1305",
+      "number": "383-E:13-1305",
+      "heading": "Application;  Organization.",
+      "text": "Application; Organization.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e13-1306",
+      "number": "383-E:13-1306",
+      "heading": "Powers and Privileges.",
+      "text": "Powers and Privileges.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e13-1307",
+      "number": "383-E:13-1307",
+      "heading": "Powers.",
+      "text": "Powers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e13-1308",
+      "number": "383-E:13-1308",
+      "heading": "Participation in Central System.",
+      "text": "Participation in Central System.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e13-1309",
+      "number": "383-E:13-1309",
+      "heading": "Right of Set-Off;  Security Interest.",
+      "text": "Right of Set-Off; Security Interest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e13-1310",
+      "number": "383-E:13-1310",
+      "heading": "Meetings.",
+      "text": "Meetings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e13-1311",
+      "number": "383-E:13-1311",
+      "heading": "Fees.",
+      "text": "Fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e13-1312",
+      "number": "383-E:13-1312",
+      "heading": "Reserves.",
+      "text": "Reserves.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-383-e13-1313",
+      "number": "383-E:13-1313",
+      "heading": "Exemptions.",
+      "text": "Exemptions.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

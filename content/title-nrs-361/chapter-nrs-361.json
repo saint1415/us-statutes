@@ -1,0 +1,2390 @@
+{
+  "state": "nevada",
+  "path": "title-nrs-361/chapter-nrs-361",
+  "sections": [
+    {
+      "id": "section-361010",
+      "number": "361.010",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361013",
+      "number": "361.013",
+      "heading": "Billboard�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361015",
+      "number": "361.015",
+      "heading": "Bona",
+      "text": "fide resident� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361017",
+      "number": "361.017",
+      "heading": "Camper",
+      "text": "shell� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361020",
+      "number": "361.020",
+      "heading": "Fiscal",
+      "text": "year� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361025",
+      "number": "361.025",
+      "heading": "Full",
+      "text": "cash value� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361027",
+      "number": "361.027",
+      "heading": "Geothermal",
+      "text": "resource� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361028",
+      "number": "361.028",
+      "heading": "Manufactured",
+      "text": "home� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361029",
+      "number": "361.029",
+      "heading": "Mobile",
+      "text": "home� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361030",
+      "number": "361.030",
+      "heading": "Personal",
+      "text": "property� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361032",
+      "number": "361.032",
+      "heading": "Property",
+      "text": "of an interstate or intercounty nature� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361035",
+      "number": "361.035",
+      "heading": "Real",
+      "text": "estate� and �real property� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361040",
+      "number": "361.040",
+      "heading": "Resident�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361042",
+      "number": "361.042",
+      "heading": "Slide-in",
+      "text": "camper� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361043",
+      "number": "361.043",
+      "heading": "Taxable",
+      "text": "value� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3610435",
+      "number": "361.0435",
+      "heading": "County",
+      "text": "assessor: Dissemination to public of information concerning taxation of\n\nproperty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361044",
+      "number": "361.044",
+      "heading": "County",
+      "text": "assessor: Duty to keep certain proprietary information concerning taxpayer\n\nconfidential.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3610445",
+      "number": "361.0445",
+      "heading": "Provision",
+      "text": "of certain information regarding property taxes on Internet.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3610447",
+      "number": "361.0447",
+      "heading": "Report",
+      "text": "to county treasurer of change in ownership of residential real property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361045",
+      "number": "361.045",
+      "heading": "Taxable",
+      "text": "property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361050",
+      "number": "361.050",
+      "heading": "United",
+      "text": "States property exempted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361055",
+      "number": "361.055",
+      "heading": "Exemption",
+      "text": "of state lands and property generally; payments by Department of Wildlife in\n\nlieu of taxes; apportionment of payments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361060",
+      "number": "361.060",
+      "heading": "Property",
+      "text": "of counties, cities, towns, Nevada Rural Housing Authority and certain other\n\npolitical subdivisions exempted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3610605",
+      "number": "361.0605",
+      "heading": "Property",
+      "text": "related to public use of privately owned park exempted; exclusion.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361061",
+      "number": "361.061",
+      "heading": "Property",
+      "text": "related to public use of privately owned airport exempted; exclusion.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361062",
+      "number": "361.062",
+      "heading": "Property",
+      "text": "of trusts for furtherance of public functions exempted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361065",
+      "number": "361.065",
+      "heading": "Property",
+      "text": "of school districts and charter schools exempted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361067",
+      "number": "361.067",
+      "heading": "Vehicles",
+      "text": "exempted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361068",
+      "number": "361.068",
+      "heading": "Business",
+      "text": "inventories and consumables, livestock, bees, certain pipe and agricultural\n\nequipment, boats, campers, fine art for public display and certain personal\n\nproperty of nonresidents exempted; establishment of de minimis exemption for\n\npersonal property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3610683",
+      "number": "361.0683",
+      "heading": "Partial",
+      "text": "abatement of taxes imposed on personal property located at new or expanded data\n\ncenter. [Effective through December 31, 2056.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3610687",
+      "number": "361.0687",
+      "heading": "Partial",
+      "text": "abatement of taxes imposed on certain new or expanded businesses. [Effective\n\nthrough June 30, 2032.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361069",
+      "number": "361.069",
+      "heading": "Household",
+      "text": "goods and furniture exempted; exclusion of rental property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361070",
+      "number": "361.070",
+      "heading": "Drainage",
+      "text": "ditches, canals and irrigation systems exempted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361073",
+      "number": "361.073",
+      "heading": "Property",
+      "text": "of water users� nonprofit associations and nonprofit cooperative corporations\n\nexempted.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361075",
+      "number": "361.075",
+      "heading": "Exemption",
+      "text": "of unpatented mines and mining claims.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361077",
+      "number": "361.077",
+      "heading": "Exemption",
+      "text": "of property used for control of air or water pollution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361078",
+      "number": "361.078",
+      "heading": "Exemption",
+      "text": "of residential property containing shelter protecting against radioactive\n\nfallout.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361080",
+      "number": "361.080",
+      "heading": "Exemption",
+      "text": "of property of surviving spouses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361082",
+      "number": "361.082",
+      "heading": "Exemption",
+      "text": "of portions of certain property used for housing and related facilities for\n\npersons with low incomes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361083",
+      "number": "361.083",
+      "heading": "Exemption",
+      "text": "of certain property and buildings used for care or relief of orphan children,\n\nor of sick, infirm or indigent persons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361084",
+      "number": "361.084",
+      "heading": "Exemption",
+      "text": "of single-family residence that replaces single-family residence partially or\n\ncompletely destroyed in certain emergencies or disasters.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361085",
+      "number": "361.085",
+      "heading": "Exemption",
+      "text": "of property of persons who are blind.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361086",
+      "number": "361.086",
+      "heading": "Exemption",
+      "text": "of certain property used for housing and related facilities for very low-income\n\nelderly persons or very low-income persons with disabilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361087",
+      "number": "361.087",
+      "heading": "Exemption",
+      "text": "of residential improvements made to remove barriers to persons with\n\ndisabilities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361088",
+      "number": "361.088",
+      "heading": "Exemption",
+      "text": "of property of Nathan Adelson Hospice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361090",
+      "number": "361.090",
+      "heading": "Veterans�",
+      "text": "exemptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3610905",
+      "number": "361.0905",
+      "heading": "Waiver",
+      "text": "of veteran�s exemption; designation of any amount of exemption for credit to\n\nGift Account for veterans homes in southern or northern Nevada.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361091",
+      "number": "361.091",
+      "heading": "Exemption",
+      "text": "for veteran who has incurred service-connected disability and surviving spouse\n\nof such a veteran.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361095",
+      "number": "361.095",
+      "heading": "Exemptions",
+      "text": "of veterans� organizations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361096",
+      "number": "361.096",
+      "heading": "Exemption",
+      "text": "of certain property leased or rented to charter school.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361098",
+      "number": "361.098",
+      "heading": "Exemption",
+      "text": "of property of charitable foundations established by Board of Regents of\n\nUniversity of Nevada.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361099",
+      "number": "361.099",
+      "heading": "Exemption",
+      "text": "of certain real and personal property leased or rented to Nevada System of\n\nHigher Education.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361100",
+      "number": "361.100",
+      "heading": "Exemption",
+      "text": "of property of university fraternities and sororities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361105",
+      "number": "361.105",
+      "heading": "Exemptions",
+      "text": "of nonprofit private schools.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361106",
+      "number": "361.106",
+      "heading": "Exemption",
+      "text": "of property of certain apprenticeship programs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361107",
+      "number": "361.107",
+      "heading": "Exemption",
+      "text": "of property of Pershing County Kids, Horses, Rodeo Inc.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361110",
+      "number": "361.110",
+      "heading": "Exemptions",
+      "text": "of certain organizations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361111",
+      "number": "361.111",
+      "heading": "Exemption",
+      "text": "of certain property of Archaeological Conservancy, Nature Conservancy, American\n\nLand Conservancy and Nevada Land Conservancy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361115",
+      "number": "361.115",
+      "heading": "Exemptions",
+      "text": "of property of Nevada Children�s Foundation, Inc., Nevada Heritage Association,\n\nInc., and Habitat for Humanity International.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361125",
+      "number": "361.125",
+      "heading": "Exemption",
+      "text": "of churches, chapels and land used exclusively for worship.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361130",
+      "number": "361.130",
+      "heading": "Exemption",
+      "text": "of public cemeteries and graveyards.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361132",
+      "number": "361.132",
+      "heading": "Exemption",
+      "text": "of certain private cemeteries and places of burial.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361135",
+      "number": "361.135",
+      "heading": "Exemptions",
+      "text": "of certain lodges, societies and similar charitable or benevolent\n\norganizations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361140",
+      "number": "361.140",
+      "heading": "Exemptions",
+      "text": "of certain charitable corporations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361145",
+      "number": "361.145",
+      "heading": "Exemptions",
+      "text": "of noncommercial theaters.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361150",
+      "number": "361.150",
+      "heading": "Exemptions",
+      "text": "of volunteer fire departments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361155",
+      "number": "361.155",
+      "heading": "Exemptions:",
+      "text": "Filing of claims and designations; duration and amount; assessment and penalty\n\nfor erroneous grant or renewal; review of late or denied claim.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3611565",
+      "number": "361.1565",
+      "heading": "Certain",
+      "text": "exemptions reduced to extent of exemption from governmental services tax.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361157",
+      "number": "361.157",
+      "heading": "Exempt",
+      "text": "real estate subject to taxation if used as residence or in business conducted\n\nfor profit; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361159",
+      "number": "361.159",
+      "heading": "Exempt",
+      "text": "personal property subject to taxation if used in business conducted for profit;\n\nexceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361160",
+      "number": "361.160",
+      "heading": "Personal",
+      "text": "property in transit� defined; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361165",
+      "number": "361.165",
+      "heading": "Warehouse",
+      "text": "books and records: Designation of �no situs� property; contents; inspection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361180",
+      "number": "361.180",
+      "heading": "Civil",
+      "text": "action for collection of taxes evaded.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361185",
+      "number": "361.185",
+      "heading": "Penalty",
+      "text": "for false statement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361186",
+      "number": "361.186",
+      "heading": "Collection",
+      "text": "of admission fee for exhibition of art: Conditions; reduction of exemption;\n\npayment of and credit against resulting tax.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361187",
+      "number": "361.187",
+      "heading": "Applicability",
+      "text": "of exemption to owner of leased art.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361189",
+      "number": "361.189",
+      "heading": "Parceling",
+      "text": "system.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361190",
+      "number": "361.190",
+      "heading": "Manner",
+      "text": "of description until parceling system established.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361195",
+      "number": "361.195",
+      "heading": "Land",
+      "text": "surveyed under authority of United States.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361200",
+      "number": "361.200",
+      "heading": "City",
+      "text": "lots.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361205",
+      "number": "361.205",
+      "heading": "Description",
+      "text": "with reference to map or plat.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361210",
+      "number": "361.210",
+      "heading": "Description",
+      "text": "with reference to unofficial map filed with county assessor or county\n\ncommissioners.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361215",
+      "number": "361.215",
+      "heading": "Description",
+      "text": "with reference to map in possession of county or county officer: Identification\n\nof parcels; display of map; reference to map.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361220",
+      "number": "361.220",
+      "heading": "Description",
+      "text": "by metes and bounds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361221",
+      "number": "361.221",
+      "heading": "Certification",
+      "text": "required; Appraiser�s Certification Board; examinations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3612212",
+      "number": "361.2212",
+      "heading": "Petition",
+      "text": "to review criminal history of person to determine whether criminal history\n\ndisqualifies person from obtaining certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361222",
+      "number": "361.222",
+      "heading": "Temporary",
+      "text": "certificate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3612224",
+      "number": "361.2224",
+      "heading": "Application",
+      "text": "for certificate to include social security number of applicant. [Effective\n\nuntil the date of the repeal of 42 U.S.C. � 666, the federal law requiring each\n\nstate to establish procedures for withholding, suspending and restricting the\n\nprofessional, occupational and recreational licenses for child support\n\narrearages and for noncompliance with certain processes relating to paternity\n\nor child support proceedings.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3612225",
+      "number": "361.2225",
+      "heading": "Statement",
+      "text": "by applicant concerning payment of child support; grounds for denial of\n\ncertificate; duty of Department. [Effective until the date of the repeal of 42\n\nU.S.C. � 666, the federal law requiring each state to establish procedures for\n\nwithholding, suspending and restricting the professional, occupational and\n\nrecreational licenses for child support arrearages and for noncompliance with\n\ncertain processes relating to paternity or child support proceedings.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3612226",
+      "number": "361.2226",
+      "heading": "Suspension",
+      "text": "of certificate for failure to pay child support or comply with certain\n\nsubpoenas or warrants; reinstatement. [Effective until the date of the repeal\n\nof 42 U.S.C. � 666, the federal law requiring each state to establish\n\nprocedures for withholding, suspending and restricting the professional,\n\noccupational and recreational licenses for child support arrearages and for\n\nnoncompliance with certain processes relating to paternity or child support\n\nproceedings.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3612227",
+      "number": "361.2227",
+      "heading": "Renewal",
+      "text": "of certificate: Application to include information relating to state business\n\nlicense; grounds for denial of renewal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361223",
+      "number": "361.223",
+      "heading": "Continuing",
+      "text": "education: Annual training requirement; waiver.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361224",
+      "number": "361.224",
+      "heading": "Effect",
+      "text": "of failure to meet requirements for continuing education.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3612242",
+      "number": "361.2242",
+      "heading": "Department",
+      "text": "of Taxation prohibited from denying application for certificate based solely on\n\nimmigration or citizenship status; applicant without social security number\n\nauthorized to provide alternative personally identifying number; disclosure and\n\nconfidentiality of social security number and alternative personally\n\nidentifying number.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361225",
+      "number": "361.225",
+      "heading": "Rate",
+      "text": "of assessment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361227",
+      "number": "361.227",
+      "heading": "Determination",
+      "text": "of taxable value.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3612275",
+      "number": "361.2275",
+      "heading": "Determination",
+      "text": "of status of property as leased or used.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361228",
+      "number": "361.228",
+      "heading": "Intangible",
+      "text": "personal property: Exemption from taxation; prohibition against consideration\n\nof value; consideration of attributes of real property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3612285",
+      "number": "361.2285",
+      "heading": "Adoption",
+      "text": "of regulations regarding use of income approach for valuation of real property\n\nused to conduct business.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361229",
+      "number": "361.229",
+      "heading": "Adjustment",
+      "text": "of actual age of improvements in computation of depreciation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361233",
+      "number": "361.233",
+      "heading": "Assessment",
+      "text": "and valuation of real property within common-interest community.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361235",
+      "number": "361.235",
+      "heading": "Assessment",
+      "text": "of corporate stock and property of partnership; taxation of corporate property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361240",
+      "number": "361.240",
+      "heading": "Assessment",
+      "text": "of undivided property of deceased and insane persons; payment of taxes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361244",
+      "number": "361.244",
+      "heading": "Classification",
+      "text": "of mobile or manufactured homes and factory-built housing as real property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3612445",
+      "number": "361.2445",
+      "heading": "Conversion",
+      "text": "of mobile or manufactured home from real to personal property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361245",
+      "number": "361.245",
+      "heading": "Personal",
+      "text": "property subject to security interest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361260",
+      "number": "361.260",
+      "heading": "Method",
+      "text": "of assessing property for taxation; appraisals and reappraisals.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361261",
+      "number": "361.261",
+      "heading": "Determination",
+      "text": "of assessed value of property that is not being reappraised: Adoption of\n\nfactors for improvements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361263",
+      "number": "361.263",
+      "heading": "Issuance",
+      "text": "of subpoenas by county assessors; duty of state and local governmental entities\n\nto provide documents and other information to county assessor; protection of\n\ninformation from disclosure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361265",
+      "number": "361.265",
+      "heading": "Written",
+      "text": "statement concerning personal property: Demand; contents; return of statement;\n\nvaluation of unlisted property claimed by absent or unknown person; penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361275",
+      "number": "361.275",
+      "heading": "Liability",
+      "text": "of county assessor for taxes not assessed through willful or inexcusable\n\nneglect; duties of county auditor and county treasurer regarding property not\n\nassessed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361280",
+      "number": "361.280",
+      "heading": "District",
+      "text": "attorney to report unassessed property to county commissioners; hearing; action\n\nagainst county assessor; levy of double amount of taxes against person refusing\n\nto give statement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361295",
+      "number": "361.295",
+      "heading": "Assessment",
+      "text": "of real property by two counties: Examination and determination by Department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361300",
+      "number": "361.300",
+      "heading": "Time",
+      "text": "and manner for completion of secured tax roll; list of taxpayers and\n\nvaluations; notice of assessed valuation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361305",
+      "number": "361.305",
+      "heading": "Preparation",
+      "text": "by county assessor of maps or plats of city blocks and subdivisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361310",
+      "number": "361.310",
+      "heading": "Time",
+      "text": "and manner for completion of assessment roll; closing and reopening of roll as\n\nto changes; appeal of changes; log of changes to secured roll.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361315",
+      "number": "361.315",
+      "heading": "Meetings",
+      "text": "to establish valuation for purposes of assessment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361318",
+      "number": "361.318",
+      "heading": "Reports",
+      "text": "by companies that use property of interstate or intercounty nature: Filing\n\nrequirements; extension of time to file; failure to file.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361320",
+      "number": "361.320",
+      "heading": "Determination",
+      "text": "and allocation of valuation for property of interstate or intercounty nature;\n\nbilling, collection and remittance of taxes on private car lines.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3613205",
+      "number": "361.3205",
+      "heading": "Central",
+      "text": "assessment roll for property of interstate or intercounty nature; notice of\n\nassessment; payment; apportionment of taxes; recovery of delinquent taxes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361321",
+      "number": "361.321",
+      "heading": "Report",
+      "text": "of new construction by business; valuation for assessment purposes;\n\nsupplemental tax bill; payment and apportionment of taxes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361323",
+      "number": "361.323",
+      "heading": "Determination",
+      "text": "and apportionment of valuation for property of electric light and power\n\ncompanies used to generate or transmit electricity for use outside State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361325",
+      "number": "361.325",
+      "heading": "Nevada",
+      "text": "Tax Commission to establish valuations of mobile homes and land; property escaping\n\ntaxation to be placed on assessment roll.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361330",
+      "number": "361.330",
+      "heading": "Effect",
+      "text": "of noncompliance on assessment and collection of taxes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361333",
+      "number": "361.333",
+      "heading": "Procedure.",
+      "text": "Procedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361334",
+      "number": "361.334",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361335",
+      "number": "361.335",
+      "heading": "Notice",
+      "text": "of completion of assessment roll and of meeting of county board of\n\nequalization.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361340",
+      "number": "361.340",
+      "heading": "County",
+      "text": "boards of equalization: Membership; additional panels; clerk; compensation;\n\ncompliance with regulations; meetings; procedural requirements; attendance of\n\ndistrict attorney and assessor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361342",
+      "number": "361.342",
+      "heading": "Date",
+      "text": "of postmark deemed date of filing of appeal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361345",
+      "number": "361.345",
+      "heading": "Power",
+      "text": "of county board of equalization to change valuation of property; review of\n\nchanges in valuation and estimation of certain property by county assessor;\n\nnotice of addition to assessed valuation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361350",
+      "number": "361.350",
+      "heading": "List",
+      "text": "of assessments increased by county board of equalization; hearing before State\n\nBoard of Equalization.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361355",
+      "number": "361.355",
+      "heading": "Complaints",
+      "text": "of overvaluation or excessive valuation by reason of undervaluation or\n\nnonassessment of other property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361356",
+      "number": "361.356",
+      "heading": "Appeal",
+      "text": "to county board of equalization where inequity exists.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361357",
+      "number": "361.357",
+      "heading": "Appeal",
+      "text": "to county board of equalization where full cash value of property is less than\n\nits taxable value.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361360",
+      "number": "361.360",
+      "heading": "Appeals",
+      "text": "to State Board of Equalization.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361362",
+      "number": "361.362",
+      "heading": "Appeal",
+      "text": "on behalf of owner of property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361365",
+      "number": "361.365",
+      "heading": "Records",
+      "text": "of hearings of county board of equalization: Format and contents; transmittal\n\nto State Board of Equalization; availability to public; duties of complainant\n\nwho requests transcript.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361375",
+      "number": "361.375",
+      "heading": "State",
+      "text": "Board of Equalization: Composition; qualifications; terms; removal;\n\ncompensation; quorum; adoption of and compliance with regulations; staff.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361380",
+      "number": "361.380",
+      "heading": "Meetings",
+      "text": "of State Board of Equalization; notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361385",
+      "number": "361.385",
+      "heading": "Public",
+      "text": "sessions; persons may appear by attorney or file statements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361390",
+      "number": "361.390",
+      "heading": "Duties",
+      "text": "of county assessor; projections for current and upcoming fiscal years.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361395",
+      "number": "361.395",
+      "heading": "Equalization",
+      "text": "of property values and review of tax rolls by State Board of Equalization;\n\nnotice of proposed increase in valuation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361400",
+      "number": "361.400",
+      "heading": "Appeals",
+      "text": "from action of county boards of equalization.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361402",
+      "number": "361.402",
+      "heading": "Direct",
+      "text": "appeals to State Board of Equalization from valuation by Department of certain\n\nproperty used in connection with mining.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361403",
+      "number": "361.403",
+      "heading": "Direct",
+      "text": "appeals to State Board of Equalization from valuations of Nevada Tax\n\nCommission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361405",
+      "number": "361.405",
+      "heading": "Certification",
+      "text": "of changes in assessed valuation; notice of increased valuation; duties of\n\ncounty auditors and tax receivers; inclusion of net proceeds of minerals in\n\nassessed valuation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361410",
+      "number": "361.410",
+      "heading": "Judicial",
+      "text": "review: Availability and restrictions; prosecution and defense; burden of\n\nproof.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361420",
+      "number": "361.420",
+      "heading": "Payment",
+      "text": "of taxes under protest; action for recovery of taxes; limitation of action.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361425",
+      "number": "361.425",
+      "heading": "Distribution",
+      "text": "of taxes paid under protest; payment of judgments pursuant toNRS 361.420; duties of county commissioners\n\nand Governor pertaining to interest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361430",
+      "number": "361.430",
+      "heading": "Burden",
+      "text": "of proof on plaintiff in action brought underNRS\n\n361.420.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361435",
+      "number": "361.435",
+      "heading": "Consolidation",
+      "text": "of actions; venue.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361445",
+      "number": "361.445",
+      "heading": "Basis",
+      "text": "for property taxation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361450",
+      "number": "361.450",
+      "heading": "Liens",
+      "text": "for taxes: Attachment; superiority; expiration of lien on mobile or\n\nmanufactured home.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361453",
+      "number": "361.453",
+      "heading": "Limitation",
+      "text": "on total ad valorem tax levy; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3614535",
+      "number": "361.4535",
+      "heading": "Projections",
+      "text": "of revenue from ad valorem taxes: Duties of county assessors and Department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361454",
+      "number": "361.454",
+      "heading": "Determination",
+      "text": "by county auditor of effect of tentative budget on each taxpayer; dissemination\n\nof information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3614545",
+      "number": "361.4545",
+      "heading": "Publication",
+      "text": "of informational notices regarding tentative budgets and tax rates.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3614547",
+      "number": "361.4547",
+      "heading": "Nevada",
+      "text": "Tax Commission to certify combined tax rate to boards of county commissioners;\n\nprocedure when additional levy of taxes ad valorem approved by voters of school\n\ndistrict causes combined rate to exceed statutory limitation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361455",
+      "number": "361.455",
+      "heading": "Procedure",
+      "text": "for reducing combined rate within statutory limitation; revised budgets.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361457",
+      "number": "361.457",
+      "heading": "Establishment",
+      "text": "of combined tax rate: Prohibited agreements between local governments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361460",
+      "number": "361.460",
+      "heading": "Levy",
+      "text": "of tax rate by county commissioners: Resolution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361463",
+      "number": "361.463",
+      "heading": "Reduction",
+      "text": "of tax levy which exceeds statutory limitation; priority of taxes levied for\n\npayment of bonded indebtedness.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361465",
+      "number": "361.465",
+      "heading": "Extension",
+      "text": "and delivery of tax roll after levy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361470",
+      "number": "361.470",
+      "heading": "Tax",
+      "text": "receiver charged with full amount of taxes levied.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361471",
+      "number": "361.471",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36147111",
+      "number": "361.47111",
+      "heading": "Ad",
+      "text": "valorem taxes� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3614712",
+      "number": "361.4712",
+      "heading": "Ad",
+      "text": "valorem taxes levied in a county� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3614715",
+      "number": "361.4715",
+      "heading": "Combined",
+      "text": "overlapping tax rate� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3614721",
+      "number": "361.4721",
+      "heading": "Taxing",
+      "text": "entity� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3614722",
+      "number": "361.4722",
+      "heading": "Partial",
+      "text": "abatement of taxes levied on property for which assessed valuation has been\n\nestablished or on remainder parcel of real property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3614723",
+      "number": "361.4723",
+      "heading": "Partial",
+      "text": "abatement of taxes levied on certain single-family residences.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3614724",
+      "number": "361.4724",
+      "heading": "Partial",
+      "text": "abatement of taxes levied on certain residential rental dwellings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3614725",
+      "number": "361.4725",
+      "heading": "Exemption",
+      "text": "from partial abatements following certain fluctuations in taxable value of\n\nproperty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3614726",
+      "number": "361.4726",
+      "heading": "Exemption",
+      "text": "from partial abatements for certain new taxes and increases in existing taxes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3614727",
+      "number": "361.4727",
+      "heading": "Increase",
+      "text": "in rate of tax for payment of obligations secured by proceeds of tax:\n\nPrerequisites; effect on partial abatements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3614728",
+      "number": "361.4728",
+      "heading": "Levy",
+      "text": "of tax upon approval of voters at rate that is exempt from partial abatements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-36147285",
+      "number": "361.47285",
+      "heading": "Calculation",
+      "text": "of partial abatement when single-family residence is replaced after partial or\n\ncomplete destruction in certain emergencies or disasters.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3614729",
+      "number": "361.4729",
+      "heading": "Calculation",
+      "text": "of partial abatement when taxable value of real property is reduced because of\n\ndestruction, removal or overassessment of improvement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3614732",
+      "number": "361.4732",
+      "heading": "Effect",
+      "text": "of annexation of real property to taxing entity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3614733",
+      "number": "361.4733",
+      "heading": "Adoption",
+      "text": "of regulations by Committee on Local Government Finance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3614734",
+      "number": "361.4734",
+      "heading": "Review",
+      "text": "of determination of applicability of partial abatement; appeal of decision upon\n\nreview; judicial review.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3614735",
+      "number": "361.4735",
+      "heading": "Penalty",
+      "text": "for false claim of partial abatement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361475",
+      "number": "361.475",
+      "heading": "County",
+      "text": "treasurers to be tax receivers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361480",
+      "number": "361.480",
+      "heading": "Notice",
+      "text": "to taxpayers; individual tax bills.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361482",
+      "number": "361.482",
+      "heading": "Collection",
+      "text": "of tax levied by State.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361483",
+      "number": "361.483",
+      "heading": "Time",
+      "text": "for payment of taxes; penalties; notification of certain provisions regarding\n\nwaiver or reduction of penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3614835",
+      "number": "361.4835",
+      "heading": "Waiver",
+      "text": "of all or part of interest and penalty for late payment of taxes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361484",
+      "number": "361.484",
+      "heading": "Abatement",
+      "text": "of taxes on real or personal property acquired by Federal Government, State or\n\npolitical subdivision.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361485",
+      "number": "361.485",
+      "heading": "Duties",
+      "text": "of tax receiver when taxes paid; certain overpayments not refunded; certain\n\ndeficiencies not collected.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361486",
+      "number": "361.486",
+      "heading": "Payment",
+      "text": "of interest on overpayment of taxes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361505",
+      "number": "361.505",
+      "heading": "Migratory",
+      "text": "property: Definition; placement on unsecured tax roll; proration of tax.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361510",
+      "number": "361.510",
+      "heading": "Preparation",
+      "text": "of blank receipts for payment of taxes on movable personal property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361525",
+      "number": "361.525",
+      "heading": "Penalties",
+      "text": "for tax receiver giving other than required receipts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361530",
+      "number": "361.530",
+      "heading": "Reservation",
+      "text": "and disposition of commission on personal property tax collected.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361535",
+      "number": "361.535",
+      "heading": "Date",
+      "text": "taxes become delinquent; penalty for delinquency; collection by seizure and\n\nsale of personal property or alternative methods; disposition of excess\n\nproceeds from sale of certain property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361545",
+      "number": "361.545",
+      "heading": "Monthly",
+      "text": "returns of county assessor to county auditor and county treasurer; duties of\n\ncounty auditor and county treasurer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361550",
+      "number": "361.550",
+      "heading": "Penalty",
+      "text": "for county assessor�s neglect or refusal; duties of county auditor and district\n\nattorney.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361555",
+      "number": "361.555",
+      "heading": "Actions",
+      "text": "against county auditor for losses sustained by State and county through\n\ndefalcation of county assessor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361560",
+      "number": "361.560",
+      "heading": "Action",
+      "text": "to recover personal property tax.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3615605",
+      "number": "361.5605",
+      "heading": "County",
+      "text": "commissioners may designate county treasurer to collect personal property\n\ntaxes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3615607",
+      "number": "361.5607",
+      "heading": "Designation",
+      "text": "of taxes on personal property as uncollectible.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361561",
+      "number": "361.561",
+      "heading": "Applicability",
+      "text": "to certain vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361562",
+      "number": "361.562",
+      "heading": "Report",
+      "text": "to county assessor of purchase, repossession or entry into State of mobile or\n\nmanufactured home; manner of assessment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3615625",
+      "number": "361.5625",
+      "heading": "Filing",
+      "text": "requirements for owners of at least 25 mobile or manufactured homes leased\n\nwithin county for commercial purposes and not converted to real property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3615641",
+      "number": "361.5641",
+      "heading": "Allowable",
+      "text": "credit for tax paid on another mobile or manufactured home sold or exchanged or\n\npaid to state of previous residence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3615643",
+      "number": "361.5643",
+      "heading": "Issuance",
+      "text": "of sticker by county assessor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3615644",
+      "number": "361.5644",
+      "heading": "Penalty",
+      "text": "for noncompliance; seizure and sale of mobile or manufactured home.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3615648",
+      "number": "361.5648",
+      "heading": "Mailing",
+      "text": "of notice of delinquent taxes: Duties of tax receiver; contents of notice;\n\nsecond notice; costs; limitation of liability for failure to provide.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361565",
+      "number": "361.565",
+      "heading": "Publication",
+      "text": "of notice of delinquent taxes: Time, manner and costs of publication; contents\n\nof notice.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361567",
+      "number": "361.567",
+      "heading": "Expedited",
+      "text": "procedure for sale of abandoned property; inspection of property to determine\n\nabandonment; required notice and affidavit; judicial review; criteria for\n\ndetermining abandonment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361570",
+      "number": "361.570",
+      "heading": "Trustee�s",
+      "text": "certificate: Issuance to county treasurer; effect; contents; recordation;\n\nannual assessment of property held in trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361577",
+      "number": "361.577",
+      "heading": "Costs",
+      "text": "of abating nuisance chargeable against property held by county treasurer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361580",
+      "number": "361.580",
+      "heading": "Accounting",
+      "text": "by tax receiver to county auditor following period for redemption; duties of\n\ncounty auditor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361585",
+      "number": "361.585",
+      "heading": "Execution",
+      "text": "and delivery of deeds to county treasurer as trustee after period of\n\nredemption; reconveyance of property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361590",
+      "number": "361.590",
+      "heading": "Contents,",
+      "text": "recordation and effect of deeds to county treasurer as trustee after period of\n\nredemption; presumption of legality of proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361595",
+      "number": "361.595",
+      "heading": "Conveyances",
+      "text": "of property held in trust by county treasurer: Procedure; order of county\n\ncommissioners; deeds to purchasers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361600",
+      "number": "361.600",
+      "heading": "Limitation",
+      "text": "of action to recover land sold for taxes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361603",
+      "number": "361.603",
+      "heading": "Acquisition",
+      "text": "by local government or Nevada System of Higher Education of property held in\n\ntrust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361604",
+      "number": "361.604",
+      "heading": "Acquisition",
+      "text": "by Indian tribe of property held in trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361605",
+      "number": "361.605",
+      "heading": "Rental",
+      "text": "of property held in trust; application of rents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361606",
+      "number": "361.606",
+      "heading": "Leases",
+      "text": "for development of oil, gas and geothermal resources: Authority to lease\n\nproperty held in trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361607",
+      "number": "361.607",
+      "heading": "Leases",
+      "text": "for development of oil, gas and geothermal resources: Procedure for leasing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361608",
+      "number": "361.608",
+      "heading": "Leases",
+      "text": "for development of oil, gas and geothermal resources: Term of lease.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361610",
+      "number": "361.610",
+      "heading": "Disposition",
+      "text": "of amounts received from sale price, rents or redemption of property held in\n\ntrust; no charge against county for services of officer; claims for and\n\nagreements concerning recovery of excess proceeds; authorization of person to\n\nfile claim and collect property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361615",
+      "number": "361.615",
+      "heading": "Liability",
+      "text": "of county treasurer for failure to perform duties of trust.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361620",
+      "number": "361.620",
+      "heading": "Payment",
+      "text": "of penalties, interest and costs into county general fund.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361625",
+      "number": "361.625",
+      "heading": "Payment",
+      "text": "of delinquent taxes before sale and institution of suit; filing of tax receipt.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361630",
+      "number": "361.630",
+      "heading": "Service",
+      "text": "of tax receipt upon district attorney: Effect; liability for negligence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361635",
+      "number": "361.635",
+      "heading": "Preparation",
+      "text": "and delivery of certified lists of delinquencies to district attorney;\n\ncommencement of action.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361640",
+      "number": "361.640",
+      "heading": "Additional",
+      "text": "bond of district attorney.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361645",
+      "number": "361.645",
+      "heading": "Evidentiary",
+      "text": "effect of list of delinquent taxes and certificate of assignment of tax lien.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361650",
+      "number": "361.650",
+      "heading": "Parties;",
+      "text": "venue and jurisdiction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361655",
+      "number": "361.655",
+      "heading": "Form",
+      "text": "of complaint by district attorney.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361660",
+      "number": "361.660",
+      "heading": "Complaint",
+      "text": "and summons may contain more specific description of property than is contained\n\nin assessment roll.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361665",
+      "number": "361.665",
+      "heading": "Issuance",
+      "text": "of summons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361670",
+      "number": "361.670",
+      "heading": "Service",
+      "text": "of summons on personal defendant and real estate and improvements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361675",
+      "number": "361.675",
+      "heading": "Publication",
+      "text": "and posting to be completed 10 days before date set for appearance; return as\n\nconclusive evidence of service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361680",
+      "number": "361.680",
+      "heading": "Form",
+      "text": "of notice of action by district attorney.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361685",
+      "number": "361.685",
+      "heading": "Notices",
+      "text": "and affidavits: Filing with county recorder; evidentiary effect of copies;\n\ncosts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361690",
+      "number": "361.690",
+      "heading": "Entry",
+      "text": "of default and final judgment on failure of defendant to appear.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361695",
+      "number": "361.695",
+      "heading": "Answer",
+      "text": "of defendant.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361700",
+      "number": "361.700",
+      "heading": "Judgments,",
+      "text": "liens and execution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361705",
+      "number": "361.705",
+      "heading": "Effect",
+      "text": "of deeds derived from sale of real property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361710",
+      "number": "361.710",
+      "heading": "Applicability",
+      "text": "of NRS, N.R.C.P. and NRAP to proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361715",
+      "number": "361.715",
+      "heading": "Fees",
+      "text": "of officers; taxing and apportionment of costs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361720",
+      "number": "361.720",
+      "heading": "Duties",
+      "text": "of district attorney on collection of delinquent taxes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361725",
+      "number": "361.725",
+      "heading": "Return",
+      "text": "of list of delinquent taxes and statement of those remaining uncollected to\n\ncounty auditor; board of county commissioners may strike off uncollectible\n\ntaxes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361730",
+      "number": "361.730",
+      "heading": "Penalties",
+      "text": "for district attorney failing or refusing to pay over tax money.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3617303",
+      "number": "361.7303",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3617307",
+      "number": "361.7307",
+      "heading": "Assignee�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361731",
+      "number": "361.731",
+      "heading": "Tax",
+      "text": "lien� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3617311",
+      "number": "361.7311",
+      "heading": "Agreements",
+      "text": "for assignment of tax liens.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3617312",
+      "number": "361.7312",
+      "heading": "Assignment",
+      "text": "of tax lien by county treasurer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3617314",
+      "number": "361.7314",
+      "heading": "Posting",
+      "text": "of bond by assignee; exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3617316",
+      "number": "361.7316",
+      "heading": "Time",
+      "text": "and conditions of assignment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3617318",
+      "number": "361.7318",
+      "heading": "Certificate",
+      "text": "of assignment: Issuance; contents; security interest.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361732",
+      "number": "361.732",
+      "heading": "Issuance",
+      "text": "of duplicate certificate of assignment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3617322",
+      "number": "361.7322",
+      "heading": "Record",
+      "text": "of assignment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3617326",
+      "number": "361.7326",
+      "heading": "Redemption",
+      "text": "of tax lien after assignment: Amount of required payment; issuance, contents\n\nand recording of release of lien.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361733",
+      "number": "361.733",
+      "heading": "Commencement",
+      "text": "of action for collection by assignee; notice of action and claim.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361736",
+      "number": "361.736",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3617362",
+      "number": "361.7362",
+      "heading": "Claim�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3617364",
+      "number": "361.7364",
+      "heading": "Household�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3617366",
+      "number": "361.7366",
+      "heading": "Income�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3617368",
+      "number": "361.7368",
+      "heading": "Occupied",
+      "text": "by the owner� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361737",
+      "number": "361.737",
+      "heading": "Property",
+      "text": "tax accrued� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3617372",
+      "number": "361.7372",
+      "heading": "Single-family",
+      "text": "residence� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3617374",
+      "number": "361.7374",
+      "heading": "Powers",
+      "text": "and duties of Department.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3617376",
+      "number": "361.7376",
+      "heading": "Eligibility",
+      "text": "to file claim for postponement; maximum amount that may be postponed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3617378",
+      "number": "361.7378",
+      "heading": "Determination",
+      "text": "of claimant for household.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361738",
+      "number": "361.738",
+      "heading": "Filing,",
+      "text": "form, contents and execution of claims; availability of forms.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3617382",
+      "number": "361.7382",
+      "heading": "Action",
+      "text": "by county treasurer on claims; review of decisions on claims.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3617384",
+      "number": "361.7384",
+      "heading": "Confidentiality",
+      "text": "of information contained in claims.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3617386",
+      "number": "361.7386",
+      "heading": "Issuance,",
+      "text": "contents and recording of certificates of eligibility.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3617388",
+      "number": "361.7388",
+      "heading": "Accrual",
+      "text": "of interest on amounts postponed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361739",
+      "number": "361.739",
+      "heading": "Attachment",
+      "text": "of liens for postponed amounts; collection of postponed amounts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3617392",
+      "number": "361.7392",
+      "heading": "Submission",
+      "text": "of request for statement of amount postponed; preparation and provision of\n\nstatement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3617394",
+      "number": "361.7394",
+      "heading": "Time",
+      "text": "when postponed amounts become due; payments authorized before amounts become\n\ndue.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3617396",
+      "number": "361.7396",
+      "heading": "Denial",
+      "text": "or revocation of claims; penalty and assessment upon revocation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3617398",
+      "number": "361.7398",
+      "heading": "Criminal",
+      "text": "penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361745",
+      "number": "361.745",
+      "heading": "Quarterly",
+      "text": "remittances from county treasurer to State Controller; payments upon order of\n\nState Controller.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361755",
+      "number": "361.755",
+      "heading": "Apportionment",
+      "text": "of taxes by county treasurers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361765",
+      "number": "361.765",
+      "heading": "Correction",
+      "text": "of clerical and typographical errors on tax rolls.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361767",
+      "number": "361.767",
+      "heading": "Assessment",
+      "text": "of personal property that was not assessed or was underassessed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361768",
+      "number": "361.768",
+      "heading": "Correction",
+      "text": "of overassessment of real or personal property because of factual error;\n\nadjustment for partial or complete destruction of real property improvement or\n\npersonal property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361769",
+      "number": "361.769",
+      "heading": "Assessment",
+      "text": "of real property not on secured roll.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361770",
+      "number": "361.770",
+      "heading": "Assessment",
+      "text": "of newly constructed real property as personal property when not assessed for\n\ncurrent tax year.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361773",
+      "number": "361.773",
+      "heading": "Correction",
+      "text": "of tax rolls to indicate that certain single-family residences are eligible for\n\npartial abatement from taxation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361777",
+      "number": "361.777",
+      "heading": "Priority",
+      "text": "of partial abatements and partial exemptions from taxation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361780",
+      "number": "361.780",
+      "heading": "Procedure",
+      "text": "for issuance of deed when property sold for delinquent taxes; contents,\n\nrecordation and effect of deed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361790",
+      "number": "361.790",
+      "heading": "Payment",
+      "text": "of taxes on parcel of real property that is part of larger parcel upon which\n\ntaxes are delinquent: Procedure; receipt.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361797",
+      "number": "361.797",
+      "heading": "Allowance",
+      "text": "for taxes on property admitted to state program for preservation of railroad\n\nlines on which service has been discontinued.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361900",
+      "number": "361.900",
+      "heading": "Application",
+      "text": "for establishment; calculation of payment required; issuance of certificate;\n\nagreement for installment payments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361905",
+      "number": "361.905",
+      "heading": "Duties",
+      "text": "of State Treasurer and county assessor upon issuance of certificate; payment of\n\ntaxes; deficiencies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361910",
+      "number": "361.910",
+      "heading": "Duration",
+      "text": "of validity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361915",
+      "number": "361.915",
+      "heading": "Relinquishment.",
+      "text": "Relinquishment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-361920",
+      "number": "361.920",
+      "heading": "Allodial",
+      "text": "Title Trust Account; regulations of State Treasurer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1",
+      "number": "1",
+      "heading": "of Article 10",
+      "text": "of Article 10",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

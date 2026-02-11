@@ -1,0 +1,718 @@
+{
+  "state": "washington",
+  "path": "title-title-79/chapter-title-79",
+  "sections": [
+    {
+      "id": "section-title-79",
+      "number": "Title 79",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-show-dispositions",
+      "number": "Show Dispositions",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7902",
+      "number": "79.02",
+      "heading": "Public lands management—General.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7910",
+      "number": "79.10",
+      "heading": "Land management authorities and policies.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7911",
+      "number": "79.11",
+      "heading": "State land sales.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7913",
+      "number": "79.13",
+      "heading": "Land leases.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7914",
+      "number": "79.14",
+      "heading": "Mineral, coal, oil, and gas leases.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7915",
+      "number": "79.15",
+      "heading": "Sale of valuable materials.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7917",
+      "number": "79.17",
+      "heading": "Land transfers.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7919",
+      "number": "79.19",
+      "heading": "Land bank.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7922",
+      "number": "79.22",
+      "heading": "Acquisition, management, and disposition of state forestlands.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7924",
+      "number": "79.24",
+      "heading": "Capitol building lands.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7936",
+      "number": "79.36",
+      "heading": "Easements over public lands.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7938",
+      "number": "79.38",
+      "heading": "Access roads.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7944",
+      "number": "79.44",
+      "heading": "Assessments and charges against lands of the state.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7964",
+      "number": "79.64",
+      "heading": "Funds for managing and administering lands.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7970",
+      "number": "79.70",
+      "heading": "Natural area preserves.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7971",
+      "number": "79.71",
+      "heading": "Washington natural resources conservation areas.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7973",
+      "number": "79.73",
+      "heading": "Milwaukee road corridor.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-79100",
+      "number": "79.100",
+      "heading": "Derelict vessels.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-79105",
+      "number": "79.105",
+      "heading": "Aquatic lands—General.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-79110",
+      "number": "79.110",
+      "heading": "Aquatic lands—Easements and rights-of-way.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-79115",
+      "number": "79.115",
+      "heading": "Aquatic lands—Harbor areas.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-79120",
+      "number": "79.120",
+      "heading": "Aquatic lands—Waterways and streets.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-79125",
+      "number": "79.125",
+      "heading": "Aquatic lands—Tidelands and shorelands.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-79130",
+      "number": "79.130",
+      "heading": "Aquatic lands—Beds of navigable waters.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-79135",
+      "number": "79.135",
+      "heading": "Aquatic lands—Oysters, geoducks, shellfish, other aquacultural uses, and marine aquatic plants.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-79140",
+      "number": "79.140",
+      "heading": "Aquatic lands—Valuable materials.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-79145",
+      "number": "79.145",
+      "heading": "Marine plastic debris.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-79150",
+      "number": "79.150",
+      "heading": "Forest biomass materials located on state lands.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-79155",
+      "number": "79.155",
+      "heading": "Community forest trusts.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-79160",
+      "number": "79.160",
+      "heading": "Derelict aquatic structures.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7936310",
+      "number": "79.36.310",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7936340",
+      "number": "79.36.340",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4712",
+      "number": "47.12",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8828",
+      "number": "88.28",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4312",
+      "number": "43.12",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4708",
+      "number": "47.08",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6508095",
+      "number": "65.08.095",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3634",
+      "number": "36.34",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8508370",
+      "number": "85.08.370",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-728280",
+      "number": "7.28.280",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-728",
+      "number": "7.28",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-804",
+      "number": "8.04",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4301210",
+      "number": "43.01.210",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3704",
+      "number": "37.04",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3708",
+      "number": "37.08",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4330340",
+      "number": "43.30.340",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-4330345",
+      "number": "43.30.345",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7915400",
+      "number": "79.15.400",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7915440",
+      "number": "79.15.440",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8609",
+      "number": "86.09",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3682140",
+      "number": "36.82.140",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-79115020",
+      "number": "79.115.020",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3712",
+      "number": "37.12",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-784",
+      "number": "7.84",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1724",
+      "number": "17.24",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3933",
+      "number": "39.33",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8703",
+      "number": "87.03",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1504090",
+      "number": "15.04.090",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8040060",
+      "number": "80.40.060",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-79a25",
+      "number": "79A.25",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7852450",
+      "number": "78.52.450",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-79a05",
+      "number": "79A.05",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1712",
+      "number": "17.12",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7712",
+      "number": "77.12",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-9108",
+      "number": "91.08",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8916",
+      "number": "89.16",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8930016",
+      "number": "89.30.016",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8930223",
+      "number": "89.30.223",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8832",
+      "number": "88.32",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7911005",
+      "number": "79.11.005",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5824",
+      "number": "58.24",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7936370",
+      "number": "79.36.370",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7936590",
+      "number": "79.36.590",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3521230",
+      "number": "35.21.230",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-3521250",
+      "number": "35.21.250",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-6412",
+      "number": "64.12",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8912",
+      "number": "89.12",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7712360",
+      "number": "77.12.360",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-5820",
+      "number": "58.20",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1704",
+      "number": "17.04",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-8824",
+      "number": "88.24",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7924020",
+      "number": "79.24.020",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7924090",
+      "number": "79.24.090",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7924040",
+      "number": "79.24.040",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7924060",
+      "number": "79.24.060",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7924070",
+      "number": "79.24.070",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-7924030",
+      "number": "79.24.030",
+      "heading": "",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

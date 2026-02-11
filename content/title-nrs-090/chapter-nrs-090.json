@@ -1,0 +1,934 @@
+{
+  "state": "nevada",
+  "path": "title-nrs-090/chapter-nrs-090",
+  "sections": [
+    {
+      "id": "section-90211",
+      "number": "90.211",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90215",
+      "number": "90.215",
+      "heading": "Administrator�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90220",
+      "number": "90.220",
+      "heading": "Broker-dealer�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90223",
+      "number": "90.223",
+      "heading": "Commission�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90225",
+      "number": "90.225",
+      "heading": "Depository",
+      "text": "institution� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90230",
+      "number": "90.230",
+      "heading": "Division�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90235",
+      "number": "90.235",
+      "heading": "Filing�",
+      "text": "and �file� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90240",
+      "number": "90.240",
+      "heading": "Financial",
+      "text": "or institutional investor� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90245",
+      "number": "90.245",
+      "heading": "Fraud,�",
+      "text": "�deceit� and �defraud� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90250",
+      "number": "90.250",
+      "heading": "Investment",
+      "text": "adviser� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90253",
+      "number": "90.253",
+      "heading": "Investment",
+      "text": "Adviser Registration Depository� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90255",
+      "number": "90.255",
+      "heading": "Issuer�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90257",
+      "number": "90.257",
+      "heading": "Nevada",
+      "text": "certified investor� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90260",
+      "number": "90.260",
+      "heading": "Nonissuer",
+      "text": "transaction� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90265",
+      "number": "90.265",
+      "heading": "Person�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90270",
+      "number": "90.270",
+      "heading": "Price",
+      "text": "amendment� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90275",
+      "number": "90.275",
+      "heading": "Promoter�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90276",
+      "number": "90.276",
+      "heading": "Provider",
+      "text": "of viatical settlements� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-902775",
+      "number": "90.2775",
+      "heading": "Qualifying",
+      "text": "private fund� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90278",
+      "number": "90.278",
+      "heading": "Representative",
+      "text": "of an investment adviser� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90280",
+      "number": "90.280",
+      "heading": "Sale�",
+      "text": "and �sell� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90285",
+      "number": "90.285",
+      "heading": "Sales",
+      "text": "representative� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90290",
+      "number": "90.290",
+      "heading": "Securities",
+      "text": "Act of 1933,� �Securities Exchange Act of 1934,� �Public Utility Holding\n\nCompany Act of 1935,� �Investment Company Act of 1940,� �Investment Advisers\n\nAct of 1940,� �Employees Retirement Income Security Act of 1974,� �National\n\nHousing Act� and �Commodity Exchange Act� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90292",
+      "number": "90.292",
+      "heading": "Securities",
+      "text": "exchange� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90295",
+      "number": "90.295",
+      "heading": "Security�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90300",
+      "number": "90.300",
+      "heading": "Self-regulatory",
+      "text": "organization� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90305",
+      "number": "90.305",
+      "heading": "State�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90307",
+      "number": "90.307",
+      "heading": "Transfer",
+      "text": "agent� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90308",
+      "number": "90.308",
+      "heading": "Viatical",
+      "text": "settlement investment� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90309",
+      "number": "90.309",
+      "heading": "Viator�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90310",
+      "number": "90.310",
+      "heading": "Licensing",
+      "text": "of broker-dealers, sales representatives and transfer agents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90320",
+      "number": "90.320",
+      "heading": "Exempt",
+      "text": "broker-dealers and sales representatives.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90330",
+      "number": "90.330",
+      "heading": "Licensing",
+      "text": "of investment advisers and representatives of investment advisers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90340",
+      "number": "90.340",
+      "heading": "Exempt",
+      "text": "investment advisers and representatives of investment advisers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90345",
+      "number": "90.345",
+      "heading": "Investment",
+      "text": "advisers to certain private funds exempt from licensing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90350",
+      "number": "90.350",
+      "heading": "Application.",
+      "text": "[Effective until the date of the repeal of 42 U.S.C. � 666, the federal law\n\nrequiring each state to establish procedures for withholding, suspending and\n\nrestricting the professional, occupational and recreational licenses for child\n\nsupport arrearages and for noncompliance with certain processes relating to\n\npaternity or child support proceedings.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90360",
+      "number": "90.360",
+      "heading": "Licensing",
+      "text": "fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90370",
+      "number": "90.370",
+      "heading": "Examinations:",
+      "text": "Requirement for licensure; administration; waiver.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90372",
+      "number": "90.372",
+      "heading": "Eligibility",
+      "text": "of officer or director of issuer for waiver from examination for licensure as\n\nsales representative or broker-dealer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90375",
+      "number": "90.375",
+      "heading": "Application",
+      "text": "for issuance or renewal of license: Statement regarding obligation of child\n\nsupport required; grounds for denial of license; duty of Administrator.\n\n[Effective until the date of the repeal of 42 U.S.C. � 666, the federal law\n\nrequiring each state to establish procedures for withholding, suspending and\n\nrestricting the professional, occupational and recreational licenses for child\n\nsupport arrearages and for noncompliance with certain processes relating to\n\npaternity or child support proceedings.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90377",
+      "number": "90.377",
+      "heading": "Application",
+      "text": "for renewal of license to include information relating to state business\n\nlicense; denial of renewal for unpaid debt assigned to State Controller for\n\ncollection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90380",
+      "number": "90.380",
+      "heading": "Licensing:",
+      "text": "General provisions. [Effective until the date of the repeal of 42 U.S.C. � 666,\n\nthe federal law requiring each state to establish procedures for withholding,\n\nsuspending and restricting the professional, occupational and recreational\n\nlicenses for child support arrearages and for noncompliance with certain\n\nprocesses relating to paternity or child support proceedings.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90390",
+      "number": "90.390",
+      "heading": "Requirements",
+      "text": "after licensing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90400",
+      "number": "90.400",
+      "heading": "Licensing",
+      "text": "of successor firms.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90410",
+      "number": "90.410",
+      "heading": "Power",
+      "text": "of inspection.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90415",
+      "number": "90.415",
+      "heading": "Fee",
+      "text": "for inspection of records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90420",
+      "number": "90.420",
+      "heading": "Grounds",
+      "text": "for denial, suspension, revocation, fine or condition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90425",
+      "number": "90.425",
+      "heading": "Unethical",
+      "text": "or dishonest practices: Use of certain certifications and professional\n\ndesignations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90430",
+      "number": "90.430",
+      "heading": "Denial,",
+      "text": "suspension, revocation, fine or condition on grounds of lack of qualification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90435",
+      "number": "90.435",
+      "heading": "Mandatory",
+      "text": "suspension of license for failure to pay child support or comply with certain\n\nsubpoenas or warrants; reinstatement of license. [Effective until the date of\n\nthe repeal of 42 U.S.C. � 666, the federal law requiring each state to\n\nestablish procedures for withholding, suspending and restricting the\n\nprofessional, occupational and recreational licenses for child support\n\narrearages and for noncompliance with certain processes relating to paternity\n\nor child support proceedings.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90440",
+      "number": "90.440",
+      "heading": "Withdrawal.",
+      "text": "Withdrawal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90450",
+      "number": "90.450",
+      "heading": "Custody",
+      "text": "of client�s securities and money.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90453",
+      "number": "90.453",
+      "heading": "Registration",
+      "text": "required; exemption; regulations; investigation of persons associated with\n\napplicant; denial, suspension or revocation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-904535",
+      "number": "90.4535",
+      "heading": "Description",
+      "text": "of person �associated with� securities exchange or applicant for registration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90454",
+      "number": "90.454",
+      "heading": "Limitations",
+      "text": "on trading of security.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90456",
+      "number": "90.456",
+      "heading": "Fee",
+      "text": "for transactions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90457",
+      "number": "90.457",
+      "heading": "Use",
+      "text": "of unregistered exchange by broker-dealer or representative prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90460",
+      "number": "90.460",
+      "heading": "Registration",
+      "text": "requirement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90465",
+      "number": "90.465",
+      "heading": "Expeditious",
+      "text": "processing of notice of claim of exemption from registration requirement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90470",
+      "number": "90.470",
+      "heading": "Registration",
+      "text": "by filing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90480",
+      "number": "90.480",
+      "heading": "Registration",
+      "text": "by coordination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90490",
+      "number": "90.490",
+      "heading": "Registration",
+      "text": "by qualification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90500",
+      "number": "90.500",
+      "heading": "Provisions",
+      "text": "applicable to registration generally.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90510",
+      "number": "90.510",
+      "heading": "Denial,",
+      "text": "suspension or revocation of registration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90520",
+      "number": "90.520",
+      "heading": "Exempt",
+      "text": "securities; filing and fee required for exemption.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90530",
+      "number": "90.530",
+      "heading": "Exempt",
+      "text": "transactions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90533",
+      "number": "90.533",
+      "heading": "Additional",
+      "text": "requirements for certain transactions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90540",
+      "number": "90.540",
+      "heading": "Additional",
+      "text": "exemptions; fee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90550",
+      "number": "90.550",
+      "heading": "Revocation",
+      "text": "of exemptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90560",
+      "number": "90.560",
+      "heading": "Filing",
+      "text": "of sales and advertising literature.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90565",
+      "number": "90.565",
+      "heading": "Filing",
+      "text": "of notice before initial offering of securities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90567",
+      "number": "90.567",
+      "heading": "Filing",
+      "text": "of notice after first sale of securities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90570",
+      "number": "90.570",
+      "heading": "Offer,",
+      "text": "sale and purchase.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90575",
+      "number": "90.575",
+      "heading": "Fiduciary",
+      "text": "duty of broker-dealers, sales representatives, investment advisers and representatives\n\nof investment advisers; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90580",
+      "number": "90.580",
+      "heading": "Manipulation",
+      "text": "of market.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90590",
+      "number": "90.590",
+      "heading": "Prohibited",
+      "text": "transactions by investment advisers and representatives of investment advisers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90600",
+      "number": "90.600",
+      "heading": "Misleading",
+      "text": "filings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90605",
+      "number": "90.605",
+      "heading": "False",
+      "text": "or fraudulent representations in investigations, proceedings or prosecutions;\n\noffering false evidence; destroying evidence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90610",
+      "number": "90.610",
+      "heading": "Unlawful",
+      "text": "representation concerning licensing, registration or exemption.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90611",
+      "number": "90.611",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-906115",
+      "number": "90.6115",
+      "heading": "Designated",
+      "text": "reporter� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90612",
+      "number": "90.612",
+      "heading": "Exploitation�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-906125",
+      "number": "90.6125",
+      "heading": "Older",
+      "text": "person� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90613",
+      "number": "90.613",
+      "heading": "Reasonable",
+      "text": "cause to believe� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-906135",
+      "number": "90.6135",
+      "heading": "Vulnerable",
+      "text": "person� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90614",
+      "number": "90.614",
+      "heading": "Duty",
+      "text": "of broker-dealers and investment advisers to provide training; reporting to\n\ndesignated reporter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-906145",
+      "number": "90.6145",
+      "heading": "Designated",
+      "text": "reporter: Designation; duty to report; immunity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90615",
+      "number": "90.615",
+      "heading": "Authority",
+      "text": "of Attorney General and district attorney.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90620",
+      "number": "90.620",
+      "heading": "Investigations",
+      "text": "and subpoenas.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90630",
+      "number": "90.630",
+      "heading": "Enforcement.",
+      "text": "Enforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90640",
+      "number": "90.640",
+      "heading": "Power",
+      "text": "of court to grant relief.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90650",
+      "number": "90.650",
+      "heading": "Criminal",
+      "text": "penalties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90660",
+      "number": "90.660",
+      "heading": "Civil",
+      "text": "liability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90670",
+      "number": "90.670",
+      "heading": "Statute",
+      "text": "of limitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90680",
+      "number": "90.680",
+      "heading": "Offer",
+      "text": "of rescission and settlement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90690",
+      "number": "90.690",
+      "heading": "Burden",
+      "text": "of proof.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90700",
+      "number": "90.700",
+      "heading": "Liability:",
+      "text": "General provisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90710",
+      "number": "90.710",
+      "heading": "Administration",
+      "text": "of chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90715",
+      "number": "90.715",
+      "heading": "Strict",
+      "text": "interpretation of provisions; waiver of enforcement; no-action letter; fee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90720",
+      "number": "90.720",
+      "heading": "Prohibitions",
+      "text": "on use of information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90730",
+      "number": "90.730",
+      "heading": "Public",
+      "text": "information and confidentiality.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90740",
+      "number": "90.740",
+      "heading": "Cooperation",
+      "text": "with other agencies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90750",
+      "number": "90.750",
+      "heading": "Regulations,",
+      "text": "forms and orders.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90755",
+      "number": "90.755",
+      "heading": "Authority",
+      "text": "to adopt regulations and orders consistent with federal Jumpstart Our Business\n\nStartups Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90760",
+      "number": "90.760",
+      "heading": "Good",
+      "text": "faith reliance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90770",
+      "number": "90.770",
+      "heading": "Consent",
+      "text": "to service of process.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90780",
+      "number": "90.780",
+      "heading": "Administrative",
+      "text": "files and records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90785",
+      "number": "90.785",
+      "heading": "Biennial",
+      "text": "report of Administrator.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90790",
+      "number": "90.790",
+      "heading": "Administrative",
+      "text": "proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90800",
+      "number": "90.800",
+      "heading": "Summary",
+      "text": "order of Administrator; notice and opportunity for hearing; final order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90820",
+      "number": "90.820",
+      "heading": "Emergency",
+      "text": "administrative proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90830",
+      "number": "90.830",
+      "heading": "Scope",
+      "text": "of chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90840",
+      "number": "90.840",
+      "heading": "Contract",
+      "text": "provisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90845",
+      "number": "90.845",
+      "heading": "Payment",
+      "text": "of fees by electronic transfer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90847",
+      "number": "90.847",
+      "heading": "Electronic",
+      "text": "delivery of records and applications.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-90860",
+      "number": "90.860",
+      "heading": "Short",
+      "text": "title; uniformity of application and construction.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

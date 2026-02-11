@@ -1,0 +1,2582 @@
+{
+  "state": "nevada",
+  "path": "title-nrs-278/chapter-nrs-278",
+  "sections": [
+    {
+      "id": "section-278010",
+      "number": "278.010",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780103",
+      "number": "278.0103",
+      "heading": "Aboveground",
+      "text": "utility� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780105",
+      "number": "278.0105",
+      "heading": "Affordable",
+      "text": "housing� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780107",
+      "number": "278.0107",
+      "heading": "Average",
+      "text": "residential density� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278011",
+      "number": "278.011",
+      "heading": "Building",
+      "text": "code� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780115",
+      "number": "278.0115",
+      "heading": "Building",
+      "text": "official� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278012",
+      "number": "278.012",
+      "heading": "Cities",
+      "text": "and counties� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780125",
+      "number": "278.0125",
+      "heading": "City",
+      "text": "surveyor� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278013",
+      "number": "278.013",
+      "heading": "Commission�",
+      "text": "and �planning commission� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780135",
+      "number": "278.0135",
+      "heading": "Common-interest",
+      "text": "community� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278014",
+      "number": "278.014",
+      "heading": "County",
+      "text": "surveyor� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780145",
+      "number": "278.0145",
+      "heading": "Final",
+      "text": "map� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780147",
+      "number": "278.0147",
+      "heading": "Gaming",
+      "text": "enterprise district� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278015",
+      "number": "278.015",
+      "heading": "Governing",
+      "text": "body� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780153",
+      "number": "278.0153",
+      "heading": "Historic",
+      "text": "neighborhood� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780155",
+      "number": "278.0155",
+      "heading": "Improvement�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780157",
+      "number": "278.0157",
+      "heading": "Infrastructure�",
+      "text": "and �public facilities� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278016",
+      "number": "278.016",
+      "heading": "Local",
+      "text": "ordinance� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780165",
+      "number": "278.0165",
+      "heading": "Lot�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780166",
+      "number": "278.0166",
+      "heading": "Military",
+      "text": "installation� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780167",
+      "number": "278.0167",
+      "heading": "Mobile",
+      "text": "home park� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278017",
+      "number": "278.017",
+      "heading": "Parcel",
+      "text": "map� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780172",
+      "number": "278.0172",
+      "heading": "Regional",
+      "text": "planning coalition� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780173",
+      "number": "278.0173",
+      "heading": "Renewable",
+      "text": "energy� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27801735",
+      "number": "278.01735",
+      "heading": "Renewable",
+      "text": "energy generation project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780174",
+      "number": "278.0174",
+      "heading": "Residential",
+      "text": "dwelling unit� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780175",
+      "number": "278.0175",
+      "heading": "Right-of-way�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780177",
+      "number": "278.0177",
+      "heading": "Rural",
+      "text": "preservation neighborhood� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278018",
+      "number": "278.018",
+      "heading": "Streets�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780185",
+      "number": "278.0185",
+      "heading": "Subdivider�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278019",
+      "number": "278.019",
+      "heading": "Tentative",
+      "text": "map� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27801902",
+      "number": "278.01902",
+      "heading": "Tier",
+      "text": "one affordable housing� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27801904",
+      "number": "278.01904",
+      "heading": "Tier",
+      "text": "three affordable housing� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27801906",
+      "number": "278.01906",
+      "heading": "Tier",
+      "text": "two affordable housing� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780191",
+      "number": "278.0191",
+      "heading": "Undeveloped",
+      "text": "land� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780193",
+      "number": "278.0193",
+      "heading": "Used",
+      "text": "for residential purposes� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780195",
+      "number": "278.0195",
+      "heading": "Utility",
+      "text": "project� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278020",
+      "number": "278.020",
+      "heading": "Regulation",
+      "text": "by governing bodies of improvement of land and location of structures for\n\ngeneral welfare.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780201",
+      "number": "278.0201",
+      "heading": "Agreement",
+      "text": "with governing body concerning development of land: Manner and contents;\n\napplicable ordinances, resolutions and regulations; restrictions on subsequent\n\naction by governing body.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780203",
+      "number": "278.0203",
+      "heading": "Agreement",
+      "text": "with governing body concerning development of land: Approval by ordinance;\n\nrecording.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780205",
+      "number": "278.0205",
+      "heading": "Agreement",
+      "text": "with governing body concerning development of land: Amendment or cancellation;\n\nreview of development by governing body; notice; approval of amendment; filing\n\nand recording of notice of cancellation or amendment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802053",
+      "number": "278.02053",
+      "heading": "Agreements",
+      "text": "with governing body concerning development of land: Public hearing required\n\nbefore unilateral amendment or cancellation by governing body; notice required;\n\nwaiver of complaint, protest or objection if not timely presented.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780207",
+      "number": "278.0207",
+      "heading": "Agreement",
+      "text": "with governing body concerning development of land: Recording of certified copy\n\nof ordinance adopting agreement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802073",
+      "number": "278.02073",
+      "heading": "Building",
+      "text": "permit for residential or commercial project: Extension of period of validity\n\nwhen financing is not available and land is leased for renewable energy\n\ngeneration project.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802075",
+      "number": "278.02075",
+      "heading": "Authority",
+      "text": "to establish urban agriculture zone; conditions and limitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802076",
+      "number": "278.02076",
+      "heading": "Authority",
+      "text": "of governing body to designate historic neighborhood; requirements and\n\nprocedure for designation of area as historic neighborhood.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802077",
+      "number": "278.02077",
+      "heading": "Prohibition",
+      "text": "against prohibiting or unreasonably restricting use of system for obtaining\n\nwind energy; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780208",
+      "number": "278.0208",
+      "heading": "Prohibition",
+      "text": "against prohibiting or unreasonably restricting use of system for obtaining\n\nsolar energy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802081",
+      "number": "278.02081",
+      "heading": "Mandatory",
+      "text": "consideration of certain standards and guidelines if governing body establishes\n\ncommittee or task force on sustainable energy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802083",
+      "number": "278.02083",
+      "heading": "Prohibition",
+      "text": "against restricting right of owner to display United States flag on real\n\nproperty; limitations; recovery of attorney�s fees and costs in action for\n\nenforcement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802085",
+      "number": "278.02085",
+      "heading": "Amateur",
+      "text": "radio: Limitations on restrictions on amateur service communications;\n\nlimitations on regulation of station antenna structures; exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780209",
+      "number": "278.0209",
+      "heading": "Factory-built",
+      "text": "housing: Inclusion in definition of �single-family residence�; standards for\n\nsafety and development; installation prohibited under certain circumstances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802095",
+      "number": "278.02095",
+      "heading": "Manufactured",
+      "text": "homes: Inclusion in definition of �single-family residence�; governing body to\n\nadopt standards for placement outside mobile home park; surrender of\n\ncertificate of title of certain manufactured homes to Housing Division;\n\nlimitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780211",
+      "number": "278.0211",
+      "heading": "Standards",
+      "text": "and specifications relating to school buildings in certain counties to be\n\nconsistent and developed in conjunction with school district.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780213",
+      "number": "278.0213",
+      "heading": "Obstruction",
+      "text": "of outdoor advertising structures by certain improvement projects: Required\n\naction by governing body; limitations on authorized actions; implementation and\n\napplicability of provisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780215",
+      "number": "278.0215",
+      "heading": "Nonconforming",
+      "text": "outdoor advertising structures: City or county to pay just compensation or\n\nauthorize relocation if it requires removal or prohibits routine maintenance;\n\nexceptions; required removal of structure pursuant to amortization schedule\n\nprohibited; public hearing required in certain circumstances; appeal of amount\n\nof just compensation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780217",
+      "number": "278.0217",
+      "heading": "Certain",
+      "text": "documents to be retained by governing body or other entity that causes notices\n\nof hearing to be provided.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278022",
+      "number": "278.022",
+      "heading": "Restriction",
+      "text": "of adult motion picture theaters and bookstores: Declaration of legislative\n\nintent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780221",
+      "number": "278.0221",
+      "heading": "Restriction",
+      "text": "of adult motion picture theaters and bookstores: Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780222",
+      "number": "278.0222",
+      "heading": "Restriction",
+      "text": "of adult motion picture theaters and bookstores: Authority of commission and\n\ngoverning body.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780226",
+      "number": "278.0226",
+      "heading": "Preparation",
+      "text": "of annual plan for capital improvements; contents of plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780228",
+      "number": "278.0228",
+      "heading": "Governing",
+      "text": "body to develop and maintain water resource plan; contents of plan; decennial\n\nupdate of plan; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278023",
+      "number": "278.023",
+      "heading": "Enactment",
+      "text": "of separate zoning and planning ordinances for specific parts of territories.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780231",
+      "number": "278.0231",
+      "heading": "Requirement",
+      "text": "to place street address or identifying number on exterior of certain buildings;\n\nnotice of violation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802313",
+      "number": "278.02313",
+      "heading": "Maintenance,",
+      "text": "reconstruction and repair of sidewalks: Circumstances under which governing\n\nbody may compel action by owner of property.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802315",
+      "number": "278.02315",
+      "heading": "Inclusion",
+      "text": "of provisions for placement of recycling containers in plans for construction\n\nor major renovation of apartment complex or condominium.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802317",
+      "number": "278.02317",
+      "heading": "Governing",
+      "text": "body may not require dedication of real property as condition for issuance of\n\nbuilding permit; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780232",
+      "number": "278.0232",
+      "heading": "Closure",
+      "text": "or conversion of mobile home park: Report required to be filed with planning\n\ncommission or governing body.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802325",
+      "number": "278.02325",
+      "heading": "Conversion",
+      "text": "of existing mobile home park into individually owned lots: Restrictions\n\ngoverning body, commission or board may not impose as condition of approval.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802327",
+      "number": "278.02327",
+      "heading": "Application",
+      "text": "for matter relating to land use planning required to be complete for acceptance\n\nby governing body; review for completeness; procedure for return of incomplete\n\napplication; submission of corrected application; preliminary application\n\nprocess.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802329",
+      "number": "278.02329",
+      "heading": "List",
+      "text": "of applications relating to land use planning required to be published on\n\nInternet website by governing body; monthly updates; required information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780233",
+      "number": "278.0233",
+      "heading": "Actions",
+      "text": "against agency: Conditions and limitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780235",
+      "number": "278.0235",
+      "heading": "Actions",
+      "text": "against agency: Commencement; memorandum of points and authorities; reply.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780237",
+      "number": "278.0237",
+      "heading": "Actions",
+      "text": "against agency: Defenses; attorney�s fees, court costs and interest; remedy\n\ncumulative.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802373",
+      "number": "278.02373",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802374",
+      "number": "278.02374",
+      "heading": "Halfway",
+      "text": "house for persons recovering from alcohol and other substance use disorders�\n\ndefined. [Replaced in revision byNRS\n\n278.023757.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802375",
+      "number": "278.02375",
+      "heading": "Home",
+      "text": "for individual residential care� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278023757",
+      "number": "278.023757",
+      "heading": "Recovery",
+      "text": "house for persons recovering from alcohol or other substance use disorders�\n\ndefined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802376",
+      "number": "278.02376",
+      "heading": "Residential",
+      "text": "facility for groups� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802377",
+      "number": "278.02377",
+      "heading": "Certain",
+      "text": "homes and facilities to be included in definition of �single-family residence�\n\nin city and county ordinances; exclusions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780239",
+      "number": "278.0239",
+      "heading": "Supremacy",
+      "text": "of limits upon development established by certain special legislative acts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278024",
+      "number": "278.024",
+      "heading": "Powers",
+      "text": "of Nevada Tahoe Regional Planning Agency. [Effective upon the proclamation by\n\nthe Governor of this State of the withdrawal by the State of California from\n\nthe Tahoe Regional Planning Compact or of a finding by the Governor of this\n\nState that the Tahoe Regional Planning Agency has become unable to perform its\n\nduties or exercise its powers.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278025",
+      "number": "278.025",
+      "heading": "Powers",
+      "text": "of regional planning agency created by interstate compact.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802507",
+      "number": "278.02507",
+      "heading": "Applicability.",
+      "text": "Applicability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802514",
+      "number": "278.02514",
+      "heading": "Authority",
+      "text": "to establish regional planning coalition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802521",
+      "number": "278.02521",
+      "heading": "Legislative",
+      "text": "intent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802528",
+      "number": "278.02528",
+      "heading": "Regional",
+      "text": "planning coalition authorized to develop comprehensive regional policy plan;\n\ncontents; prerequisites to adoption and amendment of plan; designation of\n\nregional transportation commission to administer plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802535",
+      "number": "278.02535",
+      "heading": "Regional",
+      "text": "planning coalition: Study and development of incentives for certain types of\n\ndevelopment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802542",
+      "number": "278.02542",
+      "heading": "Regional",
+      "text": "planning coalition: Powers; establishment of definition for term �project of\n\nregional significance.�",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802549",
+      "number": "278.02549",
+      "heading": "Governing",
+      "text": "bodies to submit plans to regional planning coalition for review under certain\n\ncircumstances; certain public entities to ensure consistency of land use plans\n\nand decisions with any comprehensive regional policy plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802556",
+      "number": "278.02556",
+      "heading": "Governing",
+      "text": "body prohibited from adopting or amending certain plans under certain\n\ncircumstances unless regional planning coalition afforded opportunity to make\n\nrecommendations; exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802563",
+      "number": "278.02563",
+      "heading": "Regional",
+      "text": "planning coalition to annually prepare, adopt and submit budget to local\n\ngovernments in region.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780257",
+      "number": "278.0257",
+      "heading": "Regional",
+      "text": "planning coalition authorized to employ persons and contract for services to\n\ncarry out certain duties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802577",
+      "number": "278.02577",
+      "heading": "Authority",
+      "text": "of regional planning coalition relating to review of plans of public entities\n\nfor conformance with comprehensive regional policy plan; grants to city or\n\ncounty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802584",
+      "number": "278.02584",
+      "heading": "Regional",
+      "text": "planning coalition to consult with local air pollution control board and\n\nregional transportation commission for consistency of action and to carry out\n\nprogram of integrated, long-range planning; consideration of alternatives.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802587",
+      "number": "278.02587",
+      "heading": "Bus",
+      "text": "turnouts: Designation of locations for and funding of construction by regional\n\ntransportation commission; construction pursuant to interlocal or cooperative\n\nagreement; technical advisory committee. [Repealed.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802591",
+      "number": "278.02591",
+      "heading": "Analysis",
+      "text": "by governing body of cost to construct infrastructure in undeveloped area:\n\nEstablishment; contents; approval.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802598",
+      "number": "278.02598",
+      "heading": "Governing",
+      "text": "body authorized to negotiate master development agreements to carry out plan\n\nfor infrastructure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278026",
+      "number": "278.026",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780261",
+      "number": "278.0261",
+      "heading": "Legislative",
+      "text": "findings and declaration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780262",
+      "number": "278.0262",
+      "heading": "Regional",
+      "text": "planning commission: Creation; membership; chair; compensation; training.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780263",
+      "number": "278.0263",
+      "heading": "Regional",
+      "text": "planning commission: Request for assistance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802632",
+      "number": "278.02632",
+      "heading": "Regional",
+      "text": "planning commission: Study and development of incentives for certain types of\n\ndevelopment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780264",
+      "number": "278.0264",
+      "heading": "Governing",
+      "text": "board for regional planning: Creation; membership; chair; compensation;\n\noperational needs; capacity to sue and be sued; budget.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780265",
+      "number": "278.0265",
+      "heading": "Governing",
+      "text": "board for regional planning: Adoption of regulations; prescription of training\n\nfor members of regional planning commission; fees for services provided; entry\n\ninto cooperative agreements and interlocal agreements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780266",
+      "number": "278.0266",
+      "heading": "Director",
+      "text": "of regional planning: Appointment; qualifications; powers and duties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780268",
+      "number": "278.0268",
+      "heading": "Appointment",
+      "text": "of subcommittees and advisory committees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780272",
+      "number": "278.0272",
+      "heading": "Development,",
+      "text": "review and amendment of regional plan; public hearings required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780274",
+      "number": "278.0274",
+      "heading": "Contents",
+      "text": "of regional plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780276",
+      "number": "278.0276",
+      "heading": "Adoption",
+      "text": "of regional plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780277",
+      "number": "278.0277",
+      "heading": "Project",
+      "text": "of regional significance: Adoption of guidelines and procedures for review of\n\nproposal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780278",
+      "number": "278.0278",
+      "heading": "Project",
+      "text": "of regional significance: Finding of conformance with adopted regional plan\n\nrequired before final approval and commencement of construction; appeal of\n\ndetermination to governing board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802784",
+      "number": "278.02784",
+      "heading": "Joint",
+      "text": "planning area: Designation in regional plan; master plan required for area.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802786",
+      "number": "278.02786",
+      "heading": "Joint",
+      "text": "planning area: Procedure for recommendation and adoption of master plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27802788",
+      "number": "278.02788",
+      "heading": "Adoption",
+      "text": "of master plan for sphere of influence; appeal of decision concerning use of\n\nland within sphere of influence.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278028",
+      "number": "278.028",
+      "heading": "Review",
+      "text": "and amendment of existing master plan, facilities plan or other similar plan;\n\nobjection filed with regional planning commission; appeal of final\n\ndetermination to board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780282",
+      "number": "278.0282",
+      "heading": "Review",
+      "text": "of proposed adoption or amendment of master plan, facilities plan or other\n\nsimilar plan; objection filed with regional planning commission; appeal of\n\nfinal determination to board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780284",
+      "number": "278.0284",
+      "heading": "Conformity",
+      "text": "of local ordinances and regulations to master plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780286",
+      "number": "278.0286",
+      "heading": "Annual",
+      "text": "report by local planning commission; local government to file information\n\nrelating to proposed actions concerning regional plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2780288",
+      "number": "278.0288",
+      "heading": "Exempted",
+      "text": "region.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278029",
+      "number": "278.029",
+      "heading": "Facilities",
+      "text": "plan not required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278030",
+      "number": "278.030",
+      "heading": "Creation",
+      "text": "by cities and counties; number of members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278040",
+      "number": "278.040",
+      "heading": "Members:",
+      "text": "Appointment; qualifications; compensation and expenses; terms; removal;\n\nvacancies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278050",
+      "number": "278.050",
+      "heading": "Meetings;",
+      "text": "rules; records; continuances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278060",
+      "number": "278.060",
+      "heading": "Chair:",
+      "text": "Election; term.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278070",
+      "number": "278.070",
+      "heading": "Additional",
+      "text": "officers; employees; consultants.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278080",
+      "number": "278.080",
+      "heading": "Expenditures;",
+      "text": "operational needs.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278090",
+      "number": "278.090",
+      "heading": "Regional",
+      "text": "planning commission: Creation; selection of representatives.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278100",
+      "number": "278.100",
+      "heading": "Regional",
+      "text": "planning commission: Members; terms; membership on city or county planning\n\ncommission not public office; compensation; removal; vacancies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278110",
+      "number": "278.110",
+      "heading": "Regional",
+      "text": "planning commission: Chair; employees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278120",
+      "number": "278.120",
+      "heading": "Regional",
+      "text": "planning commission: Appropriation of money for expenses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278130",
+      "number": "278.130",
+      "heading": "Regional",
+      "text": "planning commission: Performance of duties and functions of city or county\n\nplanning commission; regional or intergovernmental decisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278140",
+      "number": "278.140",
+      "heading": "Regional",
+      "text": "planning districts: Formation and functions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278145",
+      "number": "278.145",
+      "heading": "Report",
+      "text": "of location of utility project.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278147",
+      "number": "278.147",
+      "heading": "Facilities",
+      "text": "for use, manufacture, processing, transfer or storage of explosives or certain\n\nother substances: Conditional use permit required; application for and issuance\n\nof conditional use permit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278150",
+      "number": "278.150",
+      "heading": "Master",
+      "text": "plan: Preparation and adoption by planning commission; adoption by governing\n\nbody of city or county.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278160",
+      "number": "278.160",
+      "heading": "Elements",
+      "text": "of master plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278165",
+      "number": "278.165",
+      "heading": "Development",
+      "text": "and adoption of aboveground utility plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278170",
+      "number": "278.170",
+      "heading": "Coordination",
+      "text": "of master plans; adoption of all or parts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278180",
+      "number": "278.180",
+      "heading": "School",
+      "text": "sites: Commission to notify school boards of preparation of plans for community\n\nand public buildings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278185",
+      "number": "278.185",
+      "heading": "Notice",
+      "text": "of plan for future construction of school.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278190",
+      "number": "278.190",
+      "heading": "Promotion",
+      "text": "of plans and regulations; consultations and advice; entry upon land; general\n\npowers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278200",
+      "number": "278.200",
+      "heading": "Form",
+      "text": "of master plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278210",
+      "number": "278.210",
+      "heading": "Adoption",
+      "text": "of master plan and amendments by commission: Notice; hearing; neighborhood\n\nmeeting; resolution; frequency of certain amendments; attested copies;\n\ncertification by electronic means.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278220",
+      "number": "278.220",
+      "heading": "Adoption",
+      "text": "of master plan or part thereof by governing body; change to plan adopted by\n\ncommission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278225",
+      "number": "278.225",
+      "heading": "Governing",
+      "text": "body may establish by ordinance procedure for adopting minor amendments to\n\nmaster plan; public hearing and notice required before adoption of ordinance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278230",
+      "number": "278.230",
+      "heading": "Governing",
+      "text": "body to put adopted master plan into effect.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278235",
+      "number": "278.235",
+      "heading": "Adoption",
+      "text": "of measures to maintain and develop affordable housing to carry out housing\n\nplan required in master plan; conditions under which governing body may reduce\n\nor subsidize certain fees; annual reports.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278237",
+      "number": "278.237",
+      "heading": "Governing",
+      "text": "body to submit annual report of housing elements required in master plan to\n\ncertain state agencies and advisory committees; required information; Housing\n\nDivision to compile and post annual reports on Internet website.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278240",
+      "number": "278.240",
+      "heading": "Approval",
+      "text": "required for certain dedications, closures, abandonments, construction or authorizations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278243",
+      "number": "278.243",
+      "heading": "City",
+      "text": "or county authorized to represent own interests in certain matters if governing\n\nbody has adopted master plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278246",
+      "number": "278.246",
+      "heading": "City",
+      "text": "or county authorized to enter into certain actions if governing body has\n\nadopted master plan.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278250",
+      "number": "278.250",
+      "heading": "Zoning",
+      "text": "districts and regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278253",
+      "number": "278.253",
+      "heading": "Ordinance",
+      "text": "for zoning of tiny houses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278260",
+      "number": "278.260",
+      "heading": "Determination,",
+      "text": "establishment, enforcement and amendment of zoning regulations, restrictions\n\nand boundaries: Procedure and prerequisites; notice and hearing; signs;\n\nadditional fee for certain applications.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278262",
+      "number": "278.262",
+      "heading": "Hearing",
+      "text": "examiners: Power of governing body to appoint.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278263",
+      "number": "278.263",
+      "heading": "Hearing",
+      "text": "examiners: Compensation; qualifications; removal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278264",
+      "number": "278.264",
+      "heading": "Hearing",
+      "text": "examiners: Rules of procedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278265",
+      "number": "278.265",
+      "heading": "Hearing",
+      "text": "examiners: Notice and hearing; duties and powers; final action on certain\n\nmatters; appeal of final action.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27826503",
+      "number": "278.26503",
+      "heading": "Establishment",
+      "text": "of procedures for issuance of permit or special use permit for construction of\n\nproject.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-27826506",
+      "number": "278.26506",
+      "heading": "Petition",
+      "text": "for review of decision of planning commission or governing body by Public\n\nUtilities Commission of Nevada; judicial review; regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278270",
+      "number": "278.270",
+      "heading": "Creation.",
+      "text": "Creation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278280",
+      "number": "278.280",
+      "heading": "Members:",
+      "text": "Appointment; compensation; terms; removal; vacancies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278290",
+      "number": "278.290",
+      "heading": "Meetings,",
+      "text": "rules and records.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278300",
+      "number": "278.300",
+      "heading": "Powers.",
+      "text": "Powers.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278310",
+      "number": "278.310",
+      "heading": "Appeals:",
+      "text": "Persons entitled to appeal to board of adjustment; procedure; appeals from\n\ndecisions of board of adjustment; alternative procedure if board of adjustment\n\nhas not been created.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278315",
+      "number": "278.315",
+      "heading": "Granting",
+      "text": "of variances, special and conditional use permits and other special exceptions\n\nby board of adjustment, planning commission or hearing examiner; appeal of\n\ndecision.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278319",
+      "number": "278.319",
+      "heading": "Granting",
+      "text": "of minor deviations without hearing; appeal of decision.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2783195",
+      "number": "278.3195",
+      "heading": "Governing",
+      "text": "body to adopt ordinance allowing appeal to governing body concerning certain\n\ndecisions regarding use of land; required contents of ordinance; appeal of\n\ndecision of governing body to district court.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278320",
+      "number": "278.320",
+      "heading": "Subdivision�",
+      "text": "defined; exemptions for certain land.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278325",
+      "number": "278.325",
+      "heading": "Mapping",
+      "text": "for industrial or commercial development; restriction on sale of parcel for\n\nresidential use; requirements for creating boundary by conveyance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278326",
+      "number": "278.326",
+      "heading": "Local",
+      "text": "ordinances governing improvements, mapping, accuracy, engineering and related\n\nsubjects.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278327",
+      "number": "278.327",
+      "heading": "Approval",
+      "text": "of map does not preclude further division.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278328",
+      "number": "278.328",
+      "heading": "Final",
+      "text": "action by planning commission on tentative map and final map: Authorization;\n\nappeal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278329",
+      "number": "278.329",
+      "heading": "Relief",
+      "text": "from requirement to dedicate certain easements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2783295",
+      "number": "278.3295",
+      "heading": "State",
+      "text": "Environmental Commission authorized to adopt regulations related to review of\n\ntentative and final maps of subdivision.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278330",
+      "number": "278.330",
+      "heading": "Preparation",
+      "text": "of tentative map; filing and distribution of copies; action by planning\n\ncommission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278335",
+      "number": "278.335",
+      "heading": "Review",
+      "text": "of tentative map by agencies of State; reviews and inspections by district\n\nboard of health.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2783355",
+      "number": "278.3355",
+      "heading": "Review",
+      "text": "of tentative map by supplier of water in county whose population is 700,000 or\n\nmore.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278337",
+      "number": "278.337",
+      "heading": "Board",
+      "text": "of Wildlife Commissioners authorized to adopt regulations related to review of\n\ntentative map by Department of Wildlife; fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278340",
+      "number": "278.340",
+      "heading": "Review",
+      "text": "by city of tentative map of subdivision proposed to be located within 1 mile of\n\nboundary of city.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278345",
+      "number": "278.345",
+      "heading": "Review",
+      "text": "by county of tentative map of subdivision proposed to be located within 1 mile\n\nof boundary of unincorporated area of county.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278346",
+      "number": "278.346",
+      "heading": "Tentative",
+      "text": "map to be forwarded to school board; acquisition or disposal of school site.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278347",
+      "number": "278.347",
+      "heading": "Review",
+      "text": "of tentative map by general improvement district and supplier of water under\n\ncertain circumstances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278348",
+      "number": "278.348",
+      "heading": "Review",
+      "text": "of tentative map by irrigation district in county whose population is less than\n\n100,000.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2783485",
+      "number": "278.3485",
+      "heading": "Review",
+      "text": "of tentative map for subdivision of land containing irrigation ditch located\n\noutside irrigation district in county whose population is less than 100,000.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278349",
+      "number": "278.349",
+      "heading": "Action",
+      "text": "on tentative map by governing body; considerations in determining action on\n\ntentative map; final disposition.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278350",
+      "number": "278.350",
+      "heading": "Limitations",
+      "text": "on time for action on tentative or final map; effect of certain agreements\n\nextending time limits covering portion of approved tentative map.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278353",
+      "number": "278.353",
+      "heading": "Disclosure",
+      "text": "required when property offered for sale before final map recorded.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278360",
+      "number": "278.360",
+      "heading": "Requirements",
+      "text": "for presentation of final map or series of final maps; extensions of time.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278371",
+      "number": "278.371",
+      "heading": "Survey,",
+      "text": "setting of monuments and preparation of final map; performance bond.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278372",
+      "number": "278.372",
+      "heading": "Final",
+      "text": "map: Requirements and contents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278373",
+      "number": "278.373",
+      "heading": "Certificates",
+      "text": "and acknowledgments to appear on final map.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278374",
+      "number": "278.374",
+      "heading": "Certificate",
+      "text": "of owner of land; report and guarantee of title company.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278375",
+      "number": "278.375",
+      "heading": "Certificate",
+      "text": "of professional land surveyor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278376",
+      "number": "278.376",
+      "heading": "Certificate",
+      "text": "by county or city surveyor or by county or city engineer.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2783765",
+      "number": "278.3765",
+      "heading": "Certificate",
+      "text": "by supplier of water.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278377",
+      "number": "278.377",
+      "heading": "Certificates",
+      "text": "of certain governmental entities required; appeal from adverse decision of\n\nDivision of Environmental Protection; copies of certain certificates to be\n\nfurnished to subdivider and purchaser.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278378",
+      "number": "278.378",
+      "heading": "Certificate",
+      "text": "by clerk of governing body, planning commission or other authorized person or\n\nagency; clerk to present final map to county recorder for recording.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278380",
+      "number": "278.380",
+      "heading": "Approval",
+      "text": "of final map: General requirements; acceptance of dedications; imposition and\n\nappeal of requirements for improvements and security.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278385",
+      "number": "278.385",
+      "heading": "Approval",
+      "text": "of final map: Submission of plans to install water meters.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278390",
+      "number": "278.390",
+      "heading": "Title",
+      "text": "to dedicated property passes when final map recorded; offer of dedication may\n\nremain open.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278450",
+      "number": "278.450",
+      "heading": "Fee",
+      "text": "for recording final map.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278460",
+      "number": "278.460",
+      "heading": "Requirements",
+      "text": "for recording final map; county recorder to provide copy of final map or access\n\nto digital final map to county assessor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278461",
+      "number": "278.461",
+      "heading": "General",
+      "text": "requirements; exemptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278462",
+      "number": "278.462",
+      "heading": "Requirements",
+      "text": "which may be imposed by governing body.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2784625",
+      "number": "278.4625",
+      "heading": "Minimum",
+      "text": "size of mobile home lot.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278463",
+      "number": "278.463",
+      "heading": "Survey",
+      "text": "required; exception.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278464",
+      "number": "278.464",
+      "heading": "Action",
+      "text": "on parcel map by planning commission, governing body or other authorized person\n\nor agency; waiver of requirement for map and survey; consideration of certain\n\ncriteria authorized in determining approval of certain parcel maps; appeals;\n\ncertificate of approval of parcel map.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278466",
+      "number": "278.466",
+      "heading": "Form",
+      "text": "and contents of parcel map; reference to parcel number and recording.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278467",
+      "number": "278.467",
+      "heading": "Preparation,",
+      "text": "recordation and contents of document which may be required if parcel map\n\nwaived; statement indicating that property taxes have been paid; county\n\nrecorder to provide copy of document or access to digital document to county\n\nassessor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278468",
+      "number": "278.468",
+      "heading": "Duties",
+      "text": "of preparer of parcel map upon approval; duties of county recorder.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278469",
+      "number": "278.469",
+      "heading": "Map",
+      "text": "to indicate record of survey not in conflict with planning and zoning\n\nrequirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278471",
+      "number": "278.471",
+      "heading": "Divisions",
+      "text": "of land subject toNRS 278.471to278.4725, inclusive; exemption.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2784713",
+      "number": "278.4713",
+      "heading": "Preparation,",
+      "text": "contents and filing of tentative map; affidavit required.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2784715",
+      "number": "278.4715",
+      "heading": "Waiver",
+      "text": "of requirement to file tentative map; designation of easements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278472",
+      "number": "278.472",
+      "heading": "Final",
+      "text": "map: Filing; form and contents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2784725",
+      "number": "278.4725",
+      "heading": "Final",
+      "text": "map: Action by planning commission or governing body; appeal; procedures in\n\nevent of disapproval; conditions for approval; filing; contents; fee for\n\nrecording; county recorder to provide copy of final map or access to digital\n\nfinal map to county assessor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278473",
+      "number": "278.473",
+      "heading": "Certificate",
+      "text": "of amendment to correct or amend recorded plat, survey or map if correction or\n\namendment does not change location of survey monument, property line or\n\nboundary line: Request; preparation, contents and recordation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278475",
+      "number": "278.475",
+      "heading": "Amended",
+      "text": "plat, survey or map to correct or amend recorded plat, survey or map if\n\ncorrection or amendment changes location of survey monument, property line or\n\nboundary line: Request; preparation and recordation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278477",
+      "number": "278.477",
+      "heading": "Amendment",
+      "text": "of recorded plat, map or survey which changes location of survey monument,\n\nproperty line or boundary line: Procedures and requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278478",
+      "number": "278.478",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2784781",
+      "number": "278.4781",
+      "heading": "Landscaping�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2784783",
+      "number": "278.4783",
+      "heading": "Public",
+      "text": "lighting� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2784785",
+      "number": "278.4785",
+      "heading": "Security",
+      "text": "wall� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2784787",
+      "number": "278.4787",
+      "heading": "Assumption",
+      "text": "of maintenance by governing body.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2784789",
+      "number": "278.4789",
+      "heading": "Provision",
+      "text": "through association for common-interest community; notice of failure to\n\nmaintain; hearings; remedies of governing body.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278479",
+      "number": "278.479",
+      "heading": "Contiguous�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278480",
+      "number": "278.480",
+      "heading": "Vacation",
+      "text": "or abandonment of street or easement: Procedures, prerequisites and effect;\n\nappeal; reservation of certain easements; sale of vacated portion.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278490",
+      "number": "278.490",
+      "heading": "Reversion",
+      "text": "of maps and reversion of division of land to acreage: Procedure and\n\nrequirements; exemption from certain requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2784925",
+      "number": "278.4925",
+      "heading": "Merger",
+      "text": "and resubdivision of land without reversion to acreage: Authority; procedure;\n\ndelineation of remaining streets and easements; crediting of security.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2784955",
+      "number": "278.4955",
+      "heading": "Requirements",
+      "text": "for submitting map of reversion.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278496",
+      "number": "278.496",
+      "heading": "Requirements",
+      "text": "for presenting map of reversion for recording.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2784965",
+      "number": "278.4965",
+      "heading": "Map",
+      "text": "of reversion must include certificate of approval from appropriate person.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278497",
+      "number": "278.497",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2784971",
+      "number": "278.4971",
+      "heading": "Apartment",
+      "text": "house� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2784973",
+      "number": "278.4973",
+      "heading": "Mobile",
+      "text": "home� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2784975",
+      "number": "278.4975",
+      "heading": "Mobile",
+      "text": "home lot� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2784977",
+      "number": "278.4977",
+      "heading": "Residential",
+      "text": "dwelling unit� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2784979",
+      "number": "278.4979",
+      "heading": "Governing",
+      "text": "body may by ordinance require dedication of land for parks or playgrounds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278498",
+      "number": "278.498",
+      "heading": "Ordinance",
+      "text": "requiring dedication: Conformity to or adoption of plan for recreation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2784981",
+      "number": "278.4981",
+      "heading": "Ordinance",
+      "text": "requiring dedication: Contents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2784982",
+      "number": "278.4982",
+      "heading": "Land",
+      "text": "dedicated for park or playground: Compensation of developer for excess; plan\n\nfor development; time limited for development.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2784983",
+      "number": "278.4983",
+      "heading": "Residential",
+      "text": "construction tax.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2784985",
+      "number": "278.4985",
+      "heading": "Applicability",
+      "text": "to planned unit developments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2784987",
+      "number": "278.4987",
+      "heading": "Provisions",
+      "text": "for dedication and residential construction tax mutually exclusive; concurrent\n\napplication prohibited.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278563",
+      "number": "278.563",
+      "heading": "Construction",
+      "text": "committee� and �deed restriction� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278564",
+      "number": "278.564",
+      "heading": "Construction",
+      "text": "committee: Establishment and operation pursuant to deed restrictions; officers\n\nof committee to file affidavit with building official on annual basis; required\n\ncontents of affidavit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278565",
+      "number": "278.565",
+      "heading": "Deed",
+      "text": "restrictions: Copy to be filed with tentative map and with building official\n\nand presented to prospective purchaser; recording of original copy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278566",
+      "number": "278.566",
+      "heading": "Written",
+      "text": "report of construction committee required before building official may issue\n\nbuilding permit; application for written report; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278567",
+      "number": "278.567",
+      "heading": "Procedure",
+      "text": "when construction committee inoperative.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278568",
+      "number": "278.568",
+      "heading": "Applicability",
+      "text": "to preexisting subdivisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278569",
+      "number": "278.569",
+      "heading": "Reservation",
+      "text": "in map of right-of-way for existing irrigation ditch.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2785691",
+      "number": "278.5691",
+      "heading": "Dedication",
+      "text": "of right to appropriate water: Prerequisites to supplier of water requiring\n\ndedication; prohibitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2785692",
+      "number": "278.5692",
+      "heading": "Approval",
+      "text": "of adjustments to boundary lines by governing body.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2785693",
+      "number": "278.5693",
+      "heading": "Requirements",
+      "text": "for adjustment of boundary line or transfer of land involving adjacent\n\nproperty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2785695",
+      "number": "278.5695",
+      "heading": "County",
+      "text": "recorder required to indicate on copy of plot, plat, map or survey that\n\nsubsequent changes should be examined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2785697",
+      "number": "278.5697",
+      "heading": "Validity",
+      "text": "of electronic documents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278570",
+      "number": "278.570",
+      "heading": "Building",
+      "text": "official: Purpose; appointment; compensation; certification and continuing\n\neducation; employees; expenditures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278573",
+      "number": "278.573",
+      "heading": "Statement",
+      "text": "of restrictions: Delivery to owner of residence who is issued permit for\n\nconstruction thereon; acknowledgment of receipt; text.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278575",
+      "number": "278.575",
+      "heading": "Program",
+      "text": "to allow independent contractors to review plans for and inspect buildings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278577",
+      "number": "278.577",
+      "heading": "Certain",
+      "text": "cities and counties to require certification and continuing education for\n\npersons who act as building official, review plans or inspect structure or\n\nbuilding or portion thereof; exception; application in smaller counties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278580",
+      "number": "278.580",
+      "heading": "Building",
+      "text": "codes: Adoption; fees for permits; applicability to State and Nevada System of\n\nHigher Education; authorization of use of materials and technologies that\n\nconserve resources in construction and use of solar or wind energy; adoption of\n\nseismic provisions and standards.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278581",
+      "number": "278.581",
+      "heading": "Adoption,",
+      "text": "enforcement and application of construction and energy codes in county whose\n\npopulation is 100,000 or more.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278582",
+      "number": "278.582",
+      "heading": "Standards",
+      "text": "for plumbing fixtures and landscape irrigation fixtures in certain structures;\n\ncertification; compliance with federal law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278583",
+      "number": "278.583",
+      "heading": "National",
+      "text": "Electrical Code: Applicability; approval; modification.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278584",
+      "number": "278.584",
+      "heading": "Adoption",
+      "text": "of building code or ordinance requiring baby changing table in certain\n\npermanent buildings and facilities; applicability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2785846",
+      "number": "278.5846",
+      "heading": "Adoption",
+      "text": "of building code requiring certain public restrooms be made accessible to\n\npersons of any gender identity or expression; applicability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278585",
+      "number": "278.585",
+      "heading": "Compliance",
+      "text": "with appropriate city or county building code.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278586",
+      "number": "278.586",
+      "heading": "Adoption",
+      "text": "of building code or other action by local government requiring installation of\n\nautomatic fire sprinkler system in new residential dwelling units and other\n\nstructures.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278587",
+      "number": "278.587",
+      "heading": "Duty",
+      "text": "of city or county building official to notify State Board of Professional\n\nEngineers and Land Surveyors concerning submission of incomplete or rejected\n\nplans.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278589",
+      "number": "278.589",
+      "heading": "Duty",
+      "text": "of city or county building official to notify State Board of Architecture,\n\nInterior Design and Residential Design concerning submission of incomplete or\n\nrejected plans.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278590",
+      "number": "278.590",
+      "heading": "Unlawful",
+      "text": "sale or transfer of divided land; penalties; remedies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278600",
+      "number": "278.600",
+      "heading": "Unlawful",
+      "text": "recording of map by recorder: Penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278610",
+      "number": "278.610",
+      "heading": "Unlawful",
+      "text": "to erect, construct, reconstruct, alter or change use of structure without\n\nbuilding permit; requirements for obtaining permit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278630",
+      "number": "278.630",
+      "heading": "Violation",
+      "text": "of provisions concerning maps: County assessor to determine and report\n\ndiscrepancies and not place on tax roll or maps any land for which discrepancy\n\nexists; investigation; prosecution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278640",
+      "number": "278.640",
+      "heading": "Applicability",
+      "text": "ofNRS 278.640to278.675, inclusive.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278645",
+      "number": "278.645",
+      "heading": "Imposition",
+      "text": "by Governor of plans and zoning regulations in absence of local action;\n\nextension of time for local action.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278650",
+      "number": "278.650",
+      "heading": "Requirements",
+      "text": "of plans and zoning regulations; enforcement; hearings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278655",
+      "number": "278.655",
+      "heading": "Purposes",
+      "text": "and goals of comprehensive physical planning.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278660",
+      "number": "278.660",
+      "heading": "Notice",
+      "text": "to Governor of proposed building construction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278665",
+      "number": "278.665",
+      "heading": "Governor",
+      "text": "may contract for appropriate services.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278670",
+      "number": "278.670",
+      "heading": "Duration",
+      "text": "of plans and zoning regulations imposed by Governor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278675",
+      "number": "278.675",
+      "heading": "Power",
+      "text": "of Governor to institute civil actions to remedy violations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278710",
+      "number": "278.710",
+      "heading": "Imposition",
+      "text": "of tax on privilege of development; special election; rate of tax; collection\n\nof tax; use of revenue; applicability ofchapter\n\n278Bof NRS.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278750",
+      "number": "278.750",
+      "heading": "Creation",
+      "text": "and administration; credit of interest and income; expenditure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278780",
+      "number": "278.780",
+      "heading": "Legislative",
+      "text": "findings and declaration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278782",
+      "number": "278.782",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278784",
+      "number": "278.784",
+      "heading": "Agency�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278786",
+      "number": "278.786",
+      "heading": "Governing",
+      "text": "body� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278788",
+      "number": "278.788",
+      "heading": "Planning",
+      "text": "commission� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278790",
+      "number": "278.790",
+      "heading": "Region�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278791",
+      "number": "278.791",
+      "heading": "Restricted",
+      "text": "gaming license� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278792",
+      "number": "278.792",
+      "heading": "Nevada",
+      "text": "Tahoe Regional Planning Agency: Creation; composition of governing body.\n\n[Effective until the proclamation by the Governor of this State of the\n\nwithdrawal by the State of California from the Tahoe Regional Planning Compact\n\nor of a finding by the Governor of this State that the Tahoe Regional Planning\n\nAgency has become unable to perform its duties or exercise its powers.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278794",
+      "number": "278.794",
+      "heading": "Terms",
+      "text": "of office of members of governing body. [Effective until the proclamation by\n\nthe Governor of this State of the withdrawal by the State of California from\n\nthe Tahoe Regional Planning Compact or of a finding by the Governor of this\n\nState that the Tahoe Regional Planning Agency has become unable to perform its\n\nduties or exercise its powers.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278796",
+      "number": "278.796",
+      "heading": "Vacancies.",
+      "text": "Vacancies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278798",
+      "number": "278.798",
+      "heading": "Expenses",
+      "text": "of members and agency.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278800",
+      "number": "278.800",
+      "heading": "Officers:",
+      "text": "Election; terms; vacancies.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278802",
+      "number": "278.802",
+      "heading": "Meetings.",
+      "text": "Meetings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278804",
+      "number": "278.804",
+      "heading": "Quorum;",
+      "text": "voting; rules of procedure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278806",
+      "number": "278.806",
+      "heading": "Office;",
+      "text": "records; budget.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278808",
+      "number": "278.808",
+      "heading": "Advisory",
+      "text": "planning commission: Appointment; composition. [Effective until the\n\nproclamation by the Governor of this State of the withdrawal by the State of\n\nCalifornia from the Tahoe Regional Planning Compact or of a finding by the\n\nGovernor of this State that the Tahoe Regional Planning Agency has become\n\nunable to perform its duties or exercise its powers.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278810",
+      "number": "278.810",
+      "heading": "Executive",
+      "text": "Officer; staff; attorney.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2788111",
+      "number": "278.8111",
+      "heading": "Regional",
+      "text": "plan: Adoption and review; contents. [Effective upon the proclamation by the\n\nGovernor of this State of the withdrawal by the State of California from the\n\nTahoe Regional Planning Compact or of a finding by the Governor of this State\n\nthat the Tahoe Regional Planning Agency has become unable to perform its duties\n\nor exercise its powers.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2788113",
+      "number": "278.8113",
+      "heading": "Regional",
+      "text": "plan: Public hearings by planning commission in preparing plan and amendments;\n\naction by governing body. [Effective upon the proclamation by the Governor of\n\nthis State of the withdrawal by the State of California from the Tahoe Regional\n\nPlanning Compact or of a finding by the Governor of this State that the Tahoe\n\nRegional Planning Agency has become unable to perform its duties or exercise\n\nits powers.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2788115",
+      "number": "278.8115",
+      "heading": "Regional",
+      "text": "plan: Correlated elements. [Effective upon the proclamation by the Governor of\n\nthis State of the withdrawal by the State of California from the Tahoe Regional\n\nPlanning Compact or of a finding by the Governor of this State that the Tahoe\n\nRegional Planning Agency has become unable to perform its duties or exercise\n\nits powers.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2788117",
+      "number": "278.8117",
+      "heading": "Regional",
+      "text": "plan: Formulation, maintenance, realization and administration. [Effective upon\n\nthe proclamation by the Governor of this State of the withdrawal by the State\n\nof California from the Tahoe Regional Planning Compact or of a finding by the Governor\n\nof this State that the Tahoe Regional Planning Agency has become unable to\n\nperform its duties or exercise its powers.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2788119",
+      "number": "278.8119",
+      "heading": "Maintenance",
+      "text": "and availability of data, maps and other information; assistance in exchanges\n\nof property. [Effective upon the proclamation by the Governor of this State of\n\nthe withdrawal by the State of California from the Tahoe Regional Planning\n\nCompact or of a finding by the Governor of this State that the Tahoe Regional\n\nPlanning Agency has become unable to perform its duties or exercise its\n\npowers.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278812",
+      "number": "278.812",
+      "heading": "Review",
+      "text": "of applications approved by local authorities. [Effective until the\n\nproclamation by the Governor of this State of the withdrawal by the State of\n\nCalifornia from the Tahoe Regional Planning Compact or of a finding by the\n\nGovernor of this State that the Tahoe Regional Planning Agency has become\n\nunable to perform its duties or exercise its powers.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2788121",
+      "number": "278.8121",
+      "heading": "Review",
+      "text": "and approval of public works. [Effective upon the proclamation by the Governor\n\nof this State of the withdrawal by the State of California from the Tahoe\n\nRegional Planning Compact or of a finding by the Governor of this State that\n\nthe Tahoe Regional Planning Agency has become unable to perform its duties or\n\nexercise its powers.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2788123",
+      "number": "278.8123",
+      "heading": "Review",
+      "text": "and approval of proposals by Agency: Time limitations. [Effective upon the\n\nproclamation by the Governor of this State of the withdrawal by the State of\n\nCalifornia from the Tahoe Regional Planning Compact or of a finding by the\n\nGovernor of this State that the Tahoe Regional Planning Agency has become\n\nunable to perform its duties or exercise its powers.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2788125",
+      "number": "278.8125",
+      "heading": "Permitted",
+      "text": "and conforming uses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-2788127",
+      "number": "278.8127",
+      "heading": "Exemption",
+      "text": "from and intendment ofNRS 278.8125.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278813",
+      "number": "278.813",
+      "heading": "Ordinances,",
+      "text": "rules and regulations; general and regional standards. [Effective upon the\n\nproclamation by the Governor of this State of the withdrawal by the State of\n\nCalifornia from the Tahoe Regional Planning Compact or of a finding by the\n\nGovernor of this State that the Tahoe Regional Planning Agency has become\n\nunable to perform its duties or exercise its powers.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278814",
+      "number": "278.814",
+      "heading": "Ordinances:",
+      "text": "Publication by title; copies transmitted to political subdivisions within\n\nregion.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278816",
+      "number": "278.816",
+      "heading": "Enforcement",
+      "text": "of ordinances, rules, regulations and policies; jurisdiction of courts.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278818",
+      "number": "278.818",
+      "heading": "Violation",
+      "text": "of ordinance, rule or regulation: Penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278820",
+      "number": "278.820",
+      "heading": "Fees",
+      "text": "for services of Agency. [Effective until the proclamation by the Governor of\n\nthis State of the withdrawal by the State of California from the Tahoe Regional\n\nPlanning Compact or of a finding by the Governor of this State that the Tahoe\n\nRegional Planning Agency has become unable to perform its duties or exercise\n\nits powers.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278822",
+      "number": "278.822",
+      "heading": "Powers",
+      "text": "of local authorities subordinate to those of Agency.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278824",
+      "number": "278.824",
+      "heading": "Limitations",
+      "text": "on powers of Agency. [Effective until the proclamation by the Governor of this\n\nState of the withdrawal by the State of California from the Tahoe Regional\n\nPlanning Compact or of a finding by the Governor of this State that the Tahoe\n\nRegional Planning Agency has become unable to perform its duties or exercise\n\nits powers.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278826",
+      "number": "278.826",
+      "heading": "Assumption",
+      "text": "of powers and duties by Agency. [Effective upon the proclamation by the\n\nGovernor of this State of the withdrawal by the State of California from the\n\nTahoe Regional Planning Compact or of a finding by the Governor of this State\n\nthat the Tahoe Regional Planning Agency has become unable to perform its duties\n\nor exercise its powers.]",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-278828",
+      "number": "278.828",
+      "heading": "Unlawful",
+      "text": "contract or purchase by member of governing body; penalties.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

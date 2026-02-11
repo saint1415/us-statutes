@@ -1,0 +1,622 @@
+{
+  "state": "missouri",
+  "path": "title-632-comprehensive-psychiatric-services/chapter-632-comprehensive-psychiatric-services",
+  "sections": [
+    {
+      "id": "section-632005",
+      "number": "632.005",
+      "heading": "Definitions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632010",
+      "number": "632.010",
+      "heading": "Responsibilities, powers, functions and duties of division.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632015",
+      "number": "632.015",
+      "heading": "Division director to be chief administrative officer.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632020",
+      "number": "632.020",
+      "heading": "Advisory council for comprehensive psychiatric services — members, number, ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632025",
+      "number": "632.025",
+      "heading": "Services to be provided.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632030",
+      "number": "632.030",
+      "heading": "Department to develop state plan, contents.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632035",
+      "number": "632.035",
+      "heading": "Department director to establish regions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632040",
+      "number": "632.040",
+      "heading": "Department director may establish regional councils — division director to ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632045",
+      "number": "632.045",
+      "heading": "Duties of regional advisory councils — plans — employment of staff.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632050",
+      "number": "632.050",
+      "heading": "Division to identify community-based services.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632055",
+      "number": "632.055",
+      "heading": "Division to provide services.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632060",
+      "number": "632.060",
+      "heading": "Department may establish outpatient clinics — cooperation with others.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632070",
+      "number": "632.070",
+      "heading": "Department of social services to cooperate with mental health department — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632105",
+      "number": "632.105",
+      "heading": "Adults to be accepted for evaluation, when, by whom — may then be admitted ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632110",
+      "number": "632.110",
+      "heading": "Minors to be accepted for evaluation, when, by whom — may then be admitted ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632115",
+      "number": "632.115",
+      "heading": "Juveniles to be admitted by heads of facilities when committed.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632120",
+      "number": "632.120",
+      "heading": "Incompetents to be accepted by heads of facilities upon application — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632150",
+      "number": "632.150",
+      "heading": "Release of voluntary patients — voluntary patient may be involuntarily ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632155",
+      "number": "632.155",
+      "heading": "Release of voluntary minor patients, consent required — may be ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632175",
+      "number": "632.175",
+      "heading": "Review of patient's condition, by whom, when — release or placement — copy ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632305",
+      "number": "632.305",
+      "heading": "Detention for evaluation and treatment, who may request — procedure — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632310",
+      "number": "632.310",
+      "heading": "Facilities to accept certain applicants — evaluation to follow — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632312",
+      "number": "632.312",
+      "heading": "Transportation costs, sheriff may be reimbursed.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632315",
+      "number": "632.315",
+      "heading": "Copies of admission application to be furnished.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632320",
+      "number": "632.320",
+      "heading": "Time limits for certain procedures.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632325",
+      "number": "632.325",
+      "heading": "Information to be furnished to patient and others, when.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632330",
+      "number": "632.330",
+      "heading": "Additional detention and treatment may be requested — contents of petition.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632335",
+      "number": "632.335",
+      "heading": "Court procedures relating to continued detention or outpatient detention ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632337",
+      "number": "632.337",
+      "heading": "Immediate inpatient detention during court-ordered outpatient detention and ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632340",
+      "number": "632.340",
+      "heading": "Further additional detention or outpatient detention and treatment may be ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632345",
+      "number": "632.345",
+      "heading": "Physician or licensed psychologist to be appointed, qualifications — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632350",
+      "number": "632.350",
+      "heading": "Conduct of hearing — jury question — result.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632355",
+      "number": "632.355",
+      "heading": "Additional detention or period of outpatient detention and treatment may be ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632360",
+      "number": "632.360",
+      "heading": "Discharge of patient, when — procedure.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632365",
+      "number": "632.365",
+      "heading": "Where detention to take place.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632370",
+      "number": "632.370",
+      "heading": "Transfer of patient by department, procedure — transfer to federal ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632375",
+      "number": "632.375",
+      "heading": "Patient to be evaluated, when — report to certain persons — court may ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632380",
+      "number": "632.380",
+      "heading": "Provisions of chapter not to apply to certain persons.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632385",
+      "number": "632.385",
+      "heading": "Patient to be placed outside facility, when — conditions — duration — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632390",
+      "number": "632.390",
+      "heading": "Head of program to release certain patients — notification to interested ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632392",
+      "number": "632.392",
+      "heading": "Release of patient involuntarily detained, duties of department — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632395",
+      "number": "632.395",
+      "heading": "Court may order transfer of custody to federal facility, when — head of ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632400",
+      "number": "632.400",
+      "heading": "Reexamination of detained person.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632405",
+      "number": "632.405",
+      "heading": "Prosecutor's duties.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632410",
+      "number": "632.410",
+      "heading": "Venue — change of jurisdiction.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632415",
+      "number": "632.415",
+      "heading": "Court to maintain register of attorneys available to represent patients — ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632420",
+      "number": "632.420",
+      "heading": "Certain examining physicians to be paid by state.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632425",
+      "number": "632.425",
+      "heading": "Physician-patient, psychologist-patient privileges waived in detention ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632430",
+      "number": "632.430",
+      "heading": "Appeals — to have priority — attorney general to be notified and to ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632435",
+      "number": "632.435",
+      "heading": "Habeas corpus.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632440",
+      "number": "632.440",
+      "heading": "No liability for health care professionals, public officials and certain ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632445",
+      "number": "632.445",
+      "heading": "No liability for petitioners.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632450",
+      "number": "632.450",
+      "heading": "Representation by attorney required — duties of attorney.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632455",
+      "number": "632.455",
+      "heading": "Patient, absent without permission, return may be requested, when.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632475",
+      "number": "632.475",
+      "heading": "Sexual psychopaths committed before August 13, 1980, effect — application ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632480",
+      "number": "632.480",
+      "heading": "Definitions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632483",
+      "number": "632.483",
+      "heading": "Notice to attorney general, when — contents of notice — immunity from ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632484",
+      "number": "632.484",
+      "heading": "Detention and evaluation of persons alleged to be sexually violent ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632486",
+      "number": "632.486",
+      "heading": "Petition filed by attorney general, when — copy of multidisciplinary team's ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632489",
+      "number": "632.489",
+      "heading": "Probable cause determined — sexually violent predator taken into custody, ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632492",
+      "number": "632.492",
+      "heading": "Trial — procedure — assistance of counsel, right to jury, when.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632495",
+      "number": "632.495",
+      "heading": "Unanimous verdict required — offender committed to custody of department of ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632498",
+      "number": "632.498",
+      "heading": "Annual examination of mental condition, not required, when — annual review ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632501",
+      "number": "632.501",
+      "heading": "Petition for release — hearing (when director approves).",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632504",
+      "number": "632.504",
+      "heading": "Subsequent petitions for release — approval or denial procedures.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632505",
+      "number": "632.505",
+      "heading": "Conditional release — interagency agreements for supervision, plan — court ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632507",
+      "number": "632.507",
+      "heading": "Attorney general to inform victims — notification of proceedings.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632510",
+      "number": "632.510",
+      "heading": "Release of information, when.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632513",
+      "number": "632.513",
+      "heading": "Sealed records of proceedings — access permitted, when.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632520",
+      "number": "632.520",
+      "heading": "Offender committing violence against an ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632525",
+      "number": "632.525",
+      "heading": "Abrogation of case law, sexually violent offense definition.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632550",
+      "number": "632.550",
+      "heading": "Definitions.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632553",
+      "number": "632.553",
+      "heading": "Department to designate county for demonstration project — advisory board, ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632555",
+      "number": "632.555",
+      "heading": "Governing board for project, members, terms, duties.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632557",
+      "number": "632.557",
+      "heading": "Reports to governor and general assembly.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632560",
+      "number": "632.560",
+      "heading": "Mental health care provider requirements.",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-632575",
+      "number": "632.575",
+      "heading": "Unlawful use of unmanned aircraft over a mental health hospital, offense of ...",
+      "text": "",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

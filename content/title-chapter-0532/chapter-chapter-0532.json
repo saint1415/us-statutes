@@ -1,0 +1,30 @@
+{
+  "state": "florida",
+  "path": "title-chapter-0532/chapter-chapter-0532",
+  "sections": [
+    {
+      "id": "section-53201payment",
+      "number": "532.01Payment",
+      "heading": "by check, draft, or other order for payment.532.02Payment by other device.532.04Payment by direct deposit of funds.",
+      "text": "by check, draft, or other order for payment.532.02Payment by other device.532.04Payment by direct deposit of funds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53202payment",
+      "number": "532.02Payment",
+      "heading": "by other device.",
+      "text": "by other device.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-53204payment",
+      "number": "532.04Payment",
+      "heading": "by direct deposit of funds.",
+      "text": "by direct deposit of funds.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

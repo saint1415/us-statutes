@@ -1,0 +1,1862 @@
+{
+  "state": "nevada",
+  "path": "title-nrs-116/chapter-nrs-116",
+  "sections": [
+    {
+      "id": "section-116001",
+      "number": "116.001",
+      "heading": "Short",
+      "text": "title.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116003",
+      "number": "116.003",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116005",
+      "number": "116.005",
+      "heading": "Administrator�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116007",
+      "number": "116.007",
+      "heading": "Affiliate",
+      "text": "of a declarant� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116009",
+      "number": "116.009",
+      "heading": "Allocated",
+      "text": "interests� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116011",
+      "number": "116.011",
+      "heading": "Association�",
+      "text": "and �unit-owners� association� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116013",
+      "number": "116.013",
+      "heading": "Certificate�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116015",
+      "number": "116.015",
+      "heading": "Commission�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116017",
+      "number": "116.017",
+      "heading": "Common",
+      "text": "elements� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116019",
+      "number": "116.019",
+      "heading": "Common",
+      "text": "expenses� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116021",
+      "number": "116.021",
+      "heading": "Common-interest",
+      "text": "community� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116023",
+      "number": "116.023",
+      "heading": "Community",
+      "text": "manager� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116025",
+      "number": "116.025",
+      "heading": "Complaint�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116027",
+      "number": "116.027",
+      "heading": "Condominium�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116029",
+      "number": "116.029",
+      "heading": "Converted",
+      "text": "building� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116031",
+      "number": "116.031",
+      "heading": "Cooperative�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116033",
+      "number": "116.033",
+      "heading": "Dealer�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116035",
+      "number": "116.035",
+      "heading": "Declarant�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116037",
+      "number": "116.037",
+      "heading": "Declaration�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116039",
+      "number": "116.039",
+      "heading": "Developmental",
+      "text": "rights� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116041",
+      "number": "116.041",
+      "heading": "Dispose�",
+      "text": "and �disposition� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116043",
+      "number": "116.043",
+      "heading": "Division�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116045",
+      "number": "116.045",
+      "heading": "Executive",
+      "text": "board� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116047",
+      "number": "116.047",
+      "heading": "Financial",
+      "text": "statement� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116049",
+      "number": "116.049",
+      "heading": "Governing",
+      "text": "documents� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116051",
+      "number": "116.051",
+      "heading": "Hearing",
+      "text": "panel� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116053",
+      "number": "116.053",
+      "heading": "Identifying",
+      "text": "number� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116055",
+      "number": "116.055",
+      "heading": "Leasehold",
+      "text": "common-interest community� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116057",
+      "number": "116.057",
+      "heading": "Liability",
+      "text": "for common expenses� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116059",
+      "number": "116.059",
+      "heading": "Limited",
+      "text": "common element� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1160605",
+      "number": "116.0605",
+      "heading": "Major",
+      "text": "component of the common elements� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116061",
+      "number": "116.061",
+      "heading": "Management",
+      "text": "of a common-interest community� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116063",
+      "number": "116.063",
+      "heading": "Master",
+      "text": "association� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116064",
+      "number": "116.064",
+      "heading": "Nonresidential",
+      "text": "condominium� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116065",
+      "number": "116.065",
+      "heading": "Offering�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116067",
+      "number": "116.067",
+      "heading": "Ombudsman�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116069",
+      "number": "116.069",
+      "heading": "Party",
+      "text": "to the complaint� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116073",
+      "number": "116.073",
+      "heading": "Person�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116075",
+      "number": "116.075",
+      "heading": "Planned",
+      "text": "community� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116077",
+      "number": "116.077",
+      "heading": "Proprietary",
+      "text": "lease� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116079",
+      "number": "116.079",
+      "heading": "Purchaser�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116081",
+      "number": "116.081",
+      "heading": "Real",
+      "text": "estate� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116083",
+      "number": "116.083",
+      "heading": "Residential",
+      "text": "use� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116085",
+      "number": "116.085",
+      "heading": "Respondent�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116087",
+      "number": "116.087",
+      "heading": "Security",
+      "text": "interest� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116089",
+      "number": "116.089",
+      "heading": "Special",
+      "text": "declarant�s rights� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116091",
+      "number": "116.091",
+      "heading": "Time",
+      "text": "share� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116093",
+      "number": "116.093",
+      "heading": "Unit�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116095",
+      "number": "116.095",
+      "heading": "Unit�s",
+      "text": "owner� defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1161104",
+      "number": "116.1104",
+      "heading": "Provisions",
+      "text": "of chapter may not be varied by agreement, waived or evaded; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11611045",
+      "number": "116.11045",
+      "heading": "Provisions",
+      "text": "of chapter do not invalidate or modify tariffs, rules and standards of public\n\nutility; consistency of governing documents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1161105",
+      "number": "116.1105",
+      "heading": "Categorization",
+      "text": "of property in certain common-interest communities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1161106",
+      "number": "116.1106",
+      "heading": "Applicability",
+      "text": "of local ordinances, regulations and building codes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1161107",
+      "number": "116.1107",
+      "heading": "Eminent",
+      "text": "domain.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1161108",
+      "number": "116.1108",
+      "heading": "Supplemental",
+      "text": "general principles of law applicable.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11611085",
+      "number": "116.11085",
+      "heading": "Provisions",
+      "text": "of chapter prevail over conflicting provisions governing certain business\n\nentities generally.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1161109",
+      "number": "116.1109",
+      "heading": "Construction",
+      "text": "against implicit repeal; uniformity of application and construction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1161112",
+      "number": "116.1112",
+      "heading": "Unconscionable",
+      "text": "agreement or term of contract.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1161113",
+      "number": "116.1113",
+      "heading": "Obligation",
+      "text": "of good faith.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1161114",
+      "number": "116.1114",
+      "heading": "Remedies",
+      "text": "to be liberally administered.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1161118",
+      "number": "116.1118",
+      "heading": "Relation",
+      "text": "to Electronic Signatures in Global and National Commerce Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1161201",
+      "number": "116.1201",
+      "heading": "Applicability;",
+      "text": "regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1161203",
+      "number": "116.1203",
+      "heading": "Exception",
+      "text": "for small planned communities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1161206",
+      "number": "116.1206",
+      "heading": "Provisions",
+      "text": "of governing documents in violation of chapter deemed to conform with chapter\n\nby operation of law; procedure for certain amendments to governing documents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11612065",
+      "number": "116.12065",
+      "heading": "Notice",
+      "text": "of changes to governing documents.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11612075",
+      "number": "116.12075",
+      "heading": "Applicability",
+      "text": "to nonresidential condominiums.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11612077",
+      "number": "116.12077",
+      "heading": "Applicability",
+      "text": "to planned communities with nonresidential units.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1161209",
+      "number": "116.1209",
+      "heading": "Other",
+      "text": "exempt real estate arrangements; other exempt covenants.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1162101",
+      "number": "116.2101",
+      "heading": "Creation",
+      "text": "of common-interest communities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1162102",
+      "number": "116.2102",
+      "heading": "Unit",
+      "text": "boundaries.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1162103",
+      "number": "116.2103",
+      "heading": "Construction",
+      "text": "and validity of declaration and bylaws.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1162104",
+      "number": "116.2104",
+      "heading": "Description",
+      "text": "of units.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1162105",
+      "number": "116.2105",
+      "heading": "Contents",
+      "text": "of declaration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1162106",
+      "number": "116.2106",
+      "heading": "Leasehold",
+      "text": "common-interest communities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1162107",
+      "number": "116.2107",
+      "heading": "Allocation",
+      "text": "of allocated interests.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1162108",
+      "number": "116.2108",
+      "heading": "Limited",
+      "text": "common elements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1162109",
+      "number": "116.2109",
+      "heading": "Plats.",
+      "text": "Plats.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116211",
+      "number": "116.211",
+      "heading": "Exercise",
+      "text": "of developmental rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1162111",
+      "number": "116.2111",
+      "heading": "Alterations",
+      "text": "of units; access to units.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1162112",
+      "number": "116.2112",
+      "heading": "Relocation",
+      "text": "of boundaries between adjoining units.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1162113",
+      "number": "116.2113",
+      "heading": "Subdivision",
+      "text": "of units.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1162114",
+      "number": "116.2114",
+      "heading": "Monuments",
+      "text": "as boundaries.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1162115",
+      "number": "116.2115",
+      "heading": "Use",
+      "text": "for purposes of sales.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1162116",
+      "number": "116.2116",
+      "heading": "Easement",
+      "text": "rights; validity of existing restrictions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1162117",
+      "number": "116.2117",
+      "heading": "Amendment",
+      "text": "of declaration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11621175",
+      "number": "116.21175",
+      "heading": "Procedure",
+      "text": "for seeking confirmation from district court of certain amendments to\n\ndeclaration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1162118",
+      "number": "116.2118",
+      "heading": "Termination",
+      "text": "of common-interest community.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11621183",
+      "number": "116.21183",
+      "heading": "Rights",
+      "text": "of creditors following termination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11621185",
+      "number": "116.21185",
+      "heading": "Respective",
+      "text": "interests of units� owners following termination.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11621188",
+      "number": "116.21188",
+      "heading": "Effect",
+      "text": "of foreclosure or enforcement of lien or encumbrance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1162119",
+      "number": "116.2119",
+      "heading": "Rights",
+      "text": "of secured lenders.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116212",
+      "number": "116.212",
+      "heading": "Master",
+      "text": "associations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11621205",
+      "number": "116.21205",
+      "heading": "Reallocation",
+      "text": "of costs of administering common elements of certain master associations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1162121",
+      "number": "116.2121",
+      "heading": "Merger",
+      "text": "or consolidation of common-interest communities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1162122",
+      "number": "116.2122",
+      "heading": "Addition",
+      "text": "of unspecified real estate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1162124",
+      "number": "116.2124",
+      "heading": "Termination",
+      "text": "following catastrophe.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1163101",
+      "number": "116.3101",
+      "heading": "Organization",
+      "text": "of unit-owners� association.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1163102",
+      "number": "116.3102",
+      "heading": "Powers",
+      "text": "of unit-owners� association; limitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1163103",
+      "number": "116.3103",
+      "heading": "Power",
+      "text": "of executive board to act on behalf of association; members and officers are\n\nfiduciaries; duty of care; application of business-judgment rule and conflict\n\nof interest rules; limitations on power.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116310305",
+      "number": "116.310305",
+      "heading": "Power",
+      "text": "of executive board to impose construction penalties for failure of unit�s owner\n\nto adhere to certain schedules relating to design, construction, occupancy or\n\nuse of unit or improvement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631031",
+      "number": "116.31031",
+      "heading": "Power",
+      "text": "of executive board to impose fines and other sanctions for violations of\n\ngoverning documents; regulations; limitations; procedural requirements;\n\ncontinuing violations; collection of past due fines; statement of balance owed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116310312",
+      "number": "116.310312",
+      "heading": "Power",
+      "text": "of executive board to enter grounds of unit to conduct certain maintenance or\n\nremove or abate public nuisance or to enter grounds or interior of unit to\n\nabate water or sewage leak or take other action; holder of security interest in\n\nunit required to provide certain information to association; imposition of\n\nfines and costs; lien against unit; limitation on liability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116310313",
+      "number": "116.310313",
+      "heading": "Collection",
+      "text": "of past due obligation; charge of reasonable fee to collect.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116310315",
+      "number": "116.310315",
+      "heading": "Accounting",
+      "text": "for fines imposed by association.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631032",
+      "number": "116.31032",
+      "heading": "Period",
+      "text": "of declarant�s control of association; representation of units� owners on\n\nexecutive board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631034",
+      "number": "116.31034",
+      "heading": "Election",
+      "text": "of members of executive board and officers of association; term of office of\n\nmember of executive board; staggered terms; eligibility to be candidate for or\n\nmember of executive board or officer of association; required disclosures;\n\nprocedure for conducting elections; certification by member of executive board\n\nof understanding of governing documents and provisions of chapter.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631035",
+      "number": "116.31035",
+      "heading": "Publications",
+      "text": "containing mention of candidate or ballot question: Requirements; limitations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631036",
+      "number": "116.31036",
+      "heading": "Removal",
+      "text": "of member of executive board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631037",
+      "number": "116.31037",
+      "heading": "Indemnification",
+      "text": "and defense of member of executive board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631038",
+      "number": "116.31038",
+      "heading": "Delivery",
+      "text": "to association of property held or controlled by declarant.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631039",
+      "number": "116.31039",
+      "heading": "Delivery",
+      "text": "to association of additional common elements constructed by declarant or\n\nsuccessor declarant.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116310395",
+      "number": "116.310395",
+      "heading": "Delivery",
+      "text": "to association of converted building reserve deficit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1163104",
+      "number": "116.3104",
+      "heading": "Transfer",
+      "text": "of special declarant�s right.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631043",
+      "number": "116.31043",
+      "heading": "Liabilities",
+      "text": "and obligations of person who succeeds to special declarant�s rights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631046",
+      "number": "116.31046",
+      "heading": "Successor",
+      "text": "not subject to certain claims against or other obligations of transferor of\n\nspecial declarant�s right.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1163105",
+      "number": "116.3105",
+      "heading": "Termination",
+      "text": "of contracts and leases of declarant.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1163106",
+      "number": "116.3106",
+      "heading": "Bylaws.",
+      "text": "Bylaws.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631065",
+      "number": "116.31065",
+      "heading": "Rules.",
+      "text": "Rules.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631068",
+      "number": "116.31068",
+      "heading": "Notice",
+      "text": "to units� owners.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631069",
+      "number": "116.31069",
+      "heading": "Establishment",
+      "text": "and maintenance of Internet website or electronic portal.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116310695",
+      "number": "116.310695",
+      "heading": "Internet",
+      "text": "website or electronic portal that provides ability to pay obligations\n\nelectronically: Cybersecurity insurance; suspension of payments assigned for\n\ncollection; compliance with requirements relating to personal information;\n\nrequirement to conduct evaluation and make determination that providing ability\n\nto pay obligations electronically is in best interest of association.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1163107",
+      "number": "116.3107",
+      "heading": "Upkeep",
+      "text": "of common-interest community.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631073",
+      "number": "116.31073",
+      "heading": "Maintenance,",
+      "text": "repair, restoration and replacement of security walls.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631075",
+      "number": "116.31075",
+      "heading": "Meetings",
+      "text": "of rural agricultural residential common-interest communities: Compliance with\n\nOpen Meeting Law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1163108",
+      "number": "116.3108",
+      "heading": "Meetings",
+      "text": "of units� owners of association; opening and counting of ballots for election\n\nof members of executive board required; frequency of meetings; calling special\n\nmeetings; requirements concerning notice and agendas; requirements concerning\n\nminutes of meetings; right of units� owners to make audio recordings of\n\nmeetings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631083",
+      "number": "116.31083",
+      "heading": "Meetings",
+      "text": "of executive board; frequency of meetings; notice of meetings; periodic review\n\nof certain financial and legal matters at meetings; requirements concerning\n\nminutes of meetings; right of units� owners to make audio recordings of certain\n\nmeetings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631084",
+      "number": "116.31084",
+      "heading": "Voting",
+      "text": "by member of executive board; disclosures; abstention from voting on certain\n\nmatters.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631085",
+      "number": "116.31085",
+      "heading": "Right",
+      "text": "of units� owners to speak at certain meetings; limitations on right;\n\nlimitations on power of executive board to meet in executive session; procedure\n\ngoverning hearings on alleged violations; requirements concerning minutes of\n\ncertain meetings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631086",
+      "number": "116.31086",
+      "heading": "Solicitation",
+      "text": "of bids for association project; bids to be opened and read aloud at meeting of\n\nexecutive board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631087",
+      "number": "116.31087",
+      "heading": "Right",
+      "text": "of units� owners to have certain complaints placed on agenda of meeting of\n\nexecutive board.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631088",
+      "number": "116.31088",
+      "heading": "Meetings",
+      "text": "regarding civil actions; requirements for commencing or ratifying certain civil\n\nactions; right of units� owners to request dismissal of certain civil actions;\n\ndisclosure of terms and conditions of settlements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1163109",
+      "number": "116.3109",
+      "heading": "Quorum.",
+      "text": "Quorum.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116311",
+      "number": "116.311",
+      "heading": "Voting",
+      "text": "by units� owners; use of absentee ballots and proxies; voting by lessees of\n\nleased units; association prohibited from voting as owner of unit; voting\n\nwithout a meeting.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631105",
+      "number": "116.31105",
+      "heading": "Voting",
+      "text": "by delegates or representatives; limitations; procedure for electing delegates\n\nor representatives.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631107",
+      "number": "116.31107",
+      "heading": "Voting",
+      "text": "by units� owners: Prohibited acts; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1163111",
+      "number": "116.3111",
+      "heading": "Tort",
+      "text": "and contract liability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1163112",
+      "number": "116.3112",
+      "heading": "Conveyance",
+      "text": "or encumbrance of common elements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1163113",
+      "number": "116.3113",
+      "heading": "Insurance:",
+      "text": "General requirements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631133",
+      "number": "116.31133",
+      "heading": "Insurance:",
+      "text": "Policies; use of proceeds; certificates or memoranda of insurance.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631135",
+      "number": "116.31135",
+      "heading": "Insurance:",
+      "text": "Repair or replacement of damaged or destroyed portion of community.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631138",
+      "number": "116.31138",
+      "heading": "Insurance:",
+      "text": "Variance or waiver of provisions in community restricted to nonresidential use.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116311395",
+      "number": "116.311395",
+      "heading": "Funds",
+      "text": "of association to be deposited or invested at certain financial institutions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1163114",
+      "number": "116.3114",
+      "heading": "Surplus",
+      "text": "funds.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631142",
+      "number": "116.31142",
+      "heading": "Preparation",
+      "text": "and presentation of financial statements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631144",
+      "number": "116.31144",
+      "heading": "Audit",
+      "text": "and review of financial statements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1163115",
+      "number": "116.3115",
+      "heading": "Assessments",
+      "text": "for common expenses; funding of adequate reserves; collection of interest on\n\npast due assessments; calculation of assessments for particular types of common\n\nexpenses; notice of meetings regarding assessments for capital improvements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631151",
+      "number": "116.31151",
+      "heading": "Annual",
+      "text": "distribution to units� owners of operating and reserve budgets or summaries of\n\nsuch budgets and policy for collection of fees, fines, assessments or costs;\n\nratification of budget.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631152",
+      "number": "116.31152",
+      "heading": "Study",
+      "text": "of reserves; duties of executive board regarding study; qualifications of\n\nperson who conducts study; contents of study; submission of summary of study to\n\nDivision; use of money credited against residential construction tax for upkeep\n\nof park facilities and related improvements identified in study.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631153",
+      "number": "116.31153",
+      "heading": "Signatures",
+      "text": "required for withdrawals of certain association funds; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631155",
+      "number": "116.31155",
+      "heading": "Fees",
+      "text": "imposed on associations or master associations to pay for costs of\n\nadministering Office of Ombudsman and Commission; administrative penalties for\n\nfailure to pay; interest on unpaid fees; limitations on amount of fees and\n\npenalties; procedure to recover fees, penalties or interest imposed in error.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631158",
+      "number": "116.31158",
+      "heading": "Registration",
+      "text": "of associations with Ombudsman; contents of form for registration.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1163116",
+      "number": "116.3116",
+      "heading": "Liens",
+      "text": "against units for assessments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631162",
+      "number": "116.31162",
+      "heading": "Foreclosure",
+      "text": "of liens: Mailing or delivery of notice of delinquent assessment; recording of\n\nnotice of default and election to sell; period during which unit�s owner may\n\npay lien to avoid foreclosure; limitations on type of lien that may be\n\nforeclosed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116311625",
+      "number": "116.311625",
+      "heading": "Foreclosure",
+      "text": "of liens: Limitations, requirements and procedures applicable to servicemembers\n\nand their dependents; penalty; liability; tolling.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116311627",
+      "number": "116.311627",
+      "heading": "Foreclosure",
+      "text": "of liens: Limitations, requirements and procedures applicable to federal\n\nworkers, tribal workers and state workers and household members and landlords\n\nof such workers in connection with shutdown; penalty; liability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631163",
+      "number": "116.31163",
+      "heading": "Foreclosure",
+      "text": "of liens: Mailing of notice of default and election to sell to certain\n\ninterested persons.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116311635",
+      "number": "116.311635",
+      "heading": "Foreclosure",
+      "text": "of liens: Providing notice of time and place of sale; service of notice of\n\nsale; contents of notice of sale; proof of service.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631164",
+      "number": "116.31164",
+      "heading": "Foreclosure",
+      "text": "of liens: Procedure for conducting sale; satisfaction of lien before sale;\n\npersons prohibited from purchasing unit; execution and delivery of deed; use of\n\nproceeds of sale.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631166",
+      "number": "116.31166",
+      "heading": "Foreclosure",
+      "text": "of liens: Title vested in purchaser subject to right of redemption; sale does\n\nnot extinguish first security interest if superior amount of lien is satisfied;\n\ncertificate of sale; exercise of right of redemption; deed without warranty;\n\neffect of recitals in deed; bona fide purchasers and bona fide encumbrancers\n\nfor value.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631168",
+      "number": "116.31168",
+      "heading": "Foreclosure",
+      "text": "of liens: Requests by interested persons for notice of default and election to\n\nsell or notice of sale.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1163117",
+      "number": "116.3117",
+      "heading": "Liens",
+      "text": "against association.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631175",
+      "number": "116.31175",
+      "heading": "Maintenance",
+      "text": "and availability of books, records and other papers of association: General\n\nrequirements; exceptions; general records concerning certain violations;\n\nenforcement by Ombudsman; limitations on amount that may be charged to conduct\n\nreview.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1163118",
+      "number": "116.3118",
+      "heading": "Maintenance",
+      "text": "and availability of certain financial records necessary to provide information\n\nrequired for resale of units; right of units� owners to inspect, examine,\n\nphotocopy and audit records of association.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631183",
+      "number": "116.31183",
+      "heading": "Retaliatory",
+      "text": "action prohibited; separate action by unit�s owner.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631184",
+      "number": "116.31184",
+      "heading": "Threats,",
+      "text": "harassment and other conduct prohibited; penalty.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631185",
+      "number": "116.31185",
+      "heading": "Prohibition",
+      "text": "against certain personnel soliciting or accepting compensation, gratuity or\n\nremuneration under certain circumstances.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631187",
+      "number": "116.31187",
+      "heading": "Prohibition",
+      "text": "against certain personnel contracting with association or accepting commission,\n\npersonal profit or compensation from association; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11631189",
+      "number": "116.31189",
+      "heading": "Bribery",
+      "text": "of community manager or member of executive board; penalties; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1163119",
+      "number": "116.3119",
+      "heading": "Association",
+      "text": "as trustee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116318",
+      "number": "116.318",
+      "heading": "Right",
+      "text": "of units� owners to keep pet.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116320",
+      "number": "116.320",
+      "heading": "Right",
+      "text": "of units� owners to display flag of the United States or of the State of Nevada\n\nin certain areas; conditions and limitations on exercise of right.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116325",
+      "number": "116.325",
+      "heading": "Right",
+      "text": "of units� owners to exhibit political signs in certain areas; conditions and\n\nlimitations on exercise of right.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116330",
+      "number": "116.330",
+      "heading": "Right",
+      "text": "of units� owners to install or maintain drought tolerant landscaping;\n\nconditions and limitations on exercise of right; installation of drought\n\ntolerant landscaping within common elements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116332",
+      "number": "116.332",
+      "heading": "Right",
+      "text": "of units� owners to store containers for collection of solid waste or\n\nrecyclable materials; adoption of rules by association.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116335",
+      "number": "116.335",
+      "heading": "Association",
+      "text": "prohibited from requiring unit�s owner to obtain approval to rent or lease\n\nunit; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116340",
+      "number": "116.340",
+      "heading": "Transient",
+      "text": "commercial use of units within certain planned communities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116345",
+      "number": "116.345",
+      "heading": "Association",
+      "text": "of planned community prohibited from taking certain actions regarding property,\n\nbuildings and structures within planned community; validity of existing\n\nrestrictions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116347",
+      "number": "116.347",
+      "heading": "Prohibition",
+      "text": "against restricting hours construction work may begin; exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116350",
+      "number": "116.350",
+      "heading": "Limitations",
+      "text": "regarding regulation of certain roads, streets, alleys or other thoroughfares;\n\npermissible regulation of parking or storage of certain vehicles.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1164101",
+      "number": "116.4101",
+      "heading": "Applicability;",
+      "text": "exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1164102",
+      "number": "116.4102",
+      "heading": "Liability",
+      "text": "for preparation and delivery of public offering statement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1164103",
+      "number": "116.4103",
+      "heading": "Public",
+      "text": "offering statement: General provisions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11641035",
+      "number": "116.41035",
+      "heading": "Public",
+      "text": "offering statement: Limitations for certain small offerings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1164104",
+      "number": "116.4104",
+      "heading": "Public",
+      "text": "offering statement: Common-interest communities subject to developmental\n\nrights.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1164105",
+      "number": "116.4105",
+      "heading": "Public",
+      "text": "offering statement: Time shares.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1164106",
+      "number": "116.4106",
+      "heading": "Public",
+      "text": "offering statement: Common-interest community containing converted building.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1164107",
+      "number": "116.4107",
+      "heading": "Public",
+      "text": "offering statement: Common-interest community registered with Securities and\n\nExchange Commission or State of Nevada.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1164108",
+      "number": "116.4108",
+      "heading": "Purchaser�s",
+      "text": "right to cancel.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1164109",
+      "number": "116.4109",
+      "heading": "Resales",
+      "text": "of units.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-11641095",
+      "number": "116.41095",
+      "heading": "Required",
+      "text": "form of information statement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116411",
+      "number": "116.411",
+      "heading": "Escrow",
+      "text": "of deposits; furnishing of bond in lieu of deposit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1164111",
+      "number": "116.4111",
+      "heading": "Release",
+      "text": "of liens.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1164112",
+      "number": "116.4112",
+      "heading": "Converted",
+      "text": "buildings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1164113",
+      "number": "116.4113",
+      "heading": "Express",
+      "text": "warranties of quality.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1164114",
+      "number": "116.4114",
+      "heading": "Implied",
+      "text": "warranties of quality.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1164115",
+      "number": "116.4115",
+      "heading": "Exclusion",
+      "text": "or modification of warranties of quality.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1164116",
+      "number": "116.4116",
+      "heading": "Statute",
+      "text": "of limitations for warranties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1164117",
+      "number": "116.4117",
+      "heading": "Effect",
+      "text": "of violations on rights of action; civil action for damages for failure or\n\nrefusal to comply with provisions of chapter or governing documents; members of\n\nexecutive board not personally liable to victims of crimes; circumstances under\n\nwhich punitive damages may be awarded; attorney�s fees.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1164118",
+      "number": "116.4118",
+      "heading": "Labeling",
+      "text": "of promotional material.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1164119",
+      "number": "116.4119",
+      "heading": "Declarant�s",
+      "text": "obligation to complete and restore.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116412",
+      "number": "116.412",
+      "heading": "Substantial",
+      "text": "completion of units.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116600",
+      "number": "116.600",
+      "heading": "Commission",
+      "text": "for Common-Interest Communities and Condominium Hotels: Creation; appointment and\n\nqualifications of members; terms of office; compensation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116605",
+      "number": "116.605",
+      "heading": "Commission",
+      "text": "for Common-Interest Communities and Condominium Hotels: Courses of instruction\n\nfor members.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116610",
+      "number": "116.610",
+      "heading": "Commission",
+      "text": "for Common-Interest Communities and Condominium Hotels: Election of officers;\n\nmeetings; quorum.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116615",
+      "number": "116.615",
+      "heading": "Administration",
+      "text": "of chapter; regulations of Commission and Real Estate Administrator; delegation\n\nof authority; publications.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116620",
+      "number": "116.620",
+      "heading": "Employment",
+      "text": "of personnel by Real Estate Division; designation of deputy attorney general by\n\nAttorney General; legal opinions and assistance by deputy attorney general.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116623",
+      "number": "116.623",
+      "heading": "Petitions",
+      "text": "for declaratory orders or advisory opinions: Regulations; scope; contents of\n\npetition; filing; period for response.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116625",
+      "number": "116.625",
+      "heading": "Ombudsman",
+      "text": "for Owners in Common-Interest Communities and Condominium Hotels: Creation of\n\noffice; appointment; qualifications; powers and duties.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116630",
+      "number": "116.630",
+      "heading": "Account",
+      "text": "for Common-Interest Communities and Condominium Hotels: Creation;\n\nadministration; sources; uses.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116635",
+      "number": "116.635",
+      "heading": "Immunity.",
+      "text": "Immunity.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116640",
+      "number": "116.640",
+      "heading": "Service",
+      "text": "of notice and other information upon Commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116643",
+      "number": "116.643",
+      "heading": "Authority",
+      "text": "for Commission or Real Estate Administrator to adopt regulations requiring\n\nadditional disclosures for sale of unit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116645",
+      "number": "116.645",
+      "heading": "Authority",
+      "text": "for Real Estate Division to conduct business electronically; regulations; fees;\n\nuse of unsworn declaration; exclusions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116660",
+      "number": "116.660",
+      "heading": "Issuance",
+      "text": "and enforcement of subpoenas.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116662",
+      "number": "116.662",
+      "heading": "Witnesses:",
+      "text": "Payment of fees and mileage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116665",
+      "number": "116.665",
+      "heading": "Conducting",
+      "text": "hearings and other proceedings; collection of information; development and promotion\n\nof educational guidelines; accreditation of programs of education and research.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116670",
+      "number": "116.670",
+      "heading": "Establishment",
+      "text": "of standards for subsidizing arbitration, mediation and educational programs;\n\nacceptance of gifts, grants and donations; agreements and cooperation with\n\nother entities.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116675",
+      "number": "116.675",
+      "heading": "Appointment",
+      "text": "of hearing panels; delegation of powers and duties; appeals to Commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116680",
+      "number": "116.680",
+      "heading": "Use",
+      "text": "of audio or video teleconference for hearings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116745",
+      "number": "116.745",
+      "heading": "Violation�",
+      "text": "defined.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116750",
+      "number": "116.750",
+      "heading": "Jurisdiction",
+      "text": "of Real Estate Division, Ombudsman, Commission and hearing panels.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116755",
+      "number": "116.755",
+      "heading": "Rights,",
+      "text": "remedies and penalties are cumulative and not exclusive; limitations on power\n\nof Commission and hearing panels regarding internal activities of association.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116757",
+      "number": "116.757",
+      "heading": "Confidentiality",
+      "text": "of records: Certain records relating to complaint or investigation deemed\n\nconfidential; certain records relating to disciplinary action deemed public\n\nrecords.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116760",
+      "number": "116.760",
+      "heading": "Right",
+      "text": "of person aggrieved by alleged violation to file affidavit with Real Estate\n\nDivision; procedure for filing affidavit; administrative fine or sanctions for\n\nfiling false or fraudulent affidavit; designation as vexatious affiant.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116765",
+      "number": "116.765",
+      "heading": "Referral",
+      "text": "of affidavit to Ombudsman for assistance in resolving alleged violation; report\n\nby Ombudsman; investigation by Real Estate Division; determination of whether\n\nto file complaint with Commission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116770",
+      "number": "116.770",
+      "heading": "Procedure",
+      "text": "for hearing complaints: Time for holding hearing; continuances; notices;\n\nevidence; answers; defaults.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116775",
+      "number": "116.775",
+      "heading": "Representation",
+      "text": "by attorney.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116780",
+      "number": "116.780",
+      "heading": "Decisions",
+      "text": "on complaints.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116785",
+      "number": "116.785",
+      "heading": "Remedial",
+      "text": "and disciplinary action: Orders to cease and desist and to correct violations;\n\nadministrative fines; removal from office or position; payment of costs;\n\nexemptions from liability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116790",
+      "number": "116.790",
+      "heading": "Remedial",
+      "text": "and disciplinary action: Audit of association; requiring association to hire\n\ncommunity manager who holds certificate; appointment of receiver.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116793",
+      "number": "116.793",
+      "heading": "Complaint",
+      "text": "for violation of fee provisions; procedure; fine for violation.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-116795",
+      "number": "116.795",
+      "heading": "Injunctions.",
+      "text": "Injunctions.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}

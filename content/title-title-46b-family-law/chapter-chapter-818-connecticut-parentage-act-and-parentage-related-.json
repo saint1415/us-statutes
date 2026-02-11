@@ -1,0 +1,918 @@
+{
+  "state": "connecticut",
+  "path": "title-title-46b-family-law/chapter-chapter-818-connecticut-parentage-act-and-parentage-related-",
+  "sections": [
+    {
+      "id": "section-46b-450",
+      "number": "46b-450.",
+      "heading": "Short title: Connecticut Parentage Act.",
+      "text": "Short title: Connecticut Parentage Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-451",
+      "number": "46b-451.",
+      "heading": "Definitions.",
+      "text": "Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-452",
+      "number": "46b-452.",
+      "heading": "Scope.",
+      "text": "Scope.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-453",
+      "number": "46b-453.",
+      "heading": "Applicable law.",
+      "text": "Applicable law.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-454",
+      "number": "46b-454.",
+      "heading": "Authorized court. Exceptions.",
+      "text": "Authorized court. Exceptions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-455",
+      "number": "46b-455",
+      "heading": "to 46b-457. - Reserved for future use.",
+      "text": "to 46b-457. - Reserved for future use.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-458",
+      "number": "46b-458.",
+      "heading": "Standing to maintain proceedings.",
+      "text": "Standing to maintain proceedings.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-459",
+      "number": "46b-459.",
+      "heading": "Notice of proceeding.",
+      "text": "Notice of proceeding.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-460",
+      "number": "46b-460.",
+      "heading": "Personal jurisdiction.",
+      "text": "Personal jurisdiction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-461",
+      "number": "46b-461.",
+      "heading": "Venue.",
+      "text": "Venue.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-462",
+      "number": "46b-462.",
+      "heading": "Temporary order.",
+      "text": "Temporary order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-463",
+      "number": "46b-463.",
+      "heading": "Child as party.",
+      "text": "Child as party.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-464",
+      "number": "46b-464.",
+      "heading": "Public access to proceedings and documents filed with court.",
+      "text": "Public access to proceedings and documents filed with court.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-465",
+      "number": "46b-465.",
+      "heading": "Dismissal for want of prosecution.",
+      "text": "Dismissal for want of prosecution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-466",
+      "number": "46b-466.",
+      "heading": "Order adjudicating parentage.",
+      "text": "Order adjudicating parentage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-467",
+      "number": "46b-467.",
+      "heading": "Court authority to order name of child changed.",
+      "text": "Court authority to order name of child changed.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-468",
+      "number": "46b-468.",
+      "heading": "Binding effect of determination of parentage.",
+      "text": "Binding effect of determination of parentage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-469",
+      "number": "46b-469.",
+      "heading": "Adjudicating parentage of child with adjudicated parent.",
+      "text": "Adjudicating parentage of child with adjudicated parent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-470",
+      "number": "46b-470.",
+      "heading": "Data privacy.",
+      "text": "Data privacy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-471",
+      "number": "46b-471.",
+      "heading": "Establishment of parent-child relationship.",
+      "text": "Establishment of parent-child relationship.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-472",
+      "number": "46b-472.",
+      "heading": "No discrimination based on marital status or gender of parent or circumstance of birth of child.",
+      "text": "No discrimination based on marital status or gender of parent or circumstance of birth of child.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-473",
+      "number": "46b-473.",
+      "heading": "Consequences of establishing parentage.",
+      "text": "Consequences of establishing parentage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-474",
+      "number": "46b-474.",
+      "heading": "Application of provisions to parent-child relationship.",
+      "text": "Application of provisions to parent-child relationship.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-475",
+      "number": "46b-475.",
+      "heading": "Adjudicating competing claims of parentage.",
+      "text": "Adjudicating competing claims of parentage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-476",
+      "number": "46b-476.",
+      "heading": "Acknowlegment of parentage.",
+      "text": "Acknowlegment of parentage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-477",
+      "number": "46b-477.",
+      "heading": "Execution of acknowledgment of parentage.",
+      "text": "Execution of acknowledgment of parentage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-478",
+      "number": "46b-478.",
+      "heading": "Rules for acknowledgment of parentage.",
+      "text": "Rules for acknowledgment of parentage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-479",
+      "number": "46b-479.",
+      "heading": "Effect of acknowledgment of parentage.",
+      "text": "Effect of acknowledgment of parentage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-480",
+      "number": "46b-480.",
+      "heading": "No filing fee.",
+      "text": "No filing fee.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-481",
+      "number": "46b-481.",
+      "heading": "Ratification barred.",
+      "text": "Ratification barred.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-482",
+      "number": "46b-482.",
+      "heading": "Procedure for recission.",
+      "text": "Procedure for recission.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-483",
+      "number": "46b-483.",
+      "heading": "Challenge after expiration period for recission. Procedure for challenge.",
+      "text": "Challenge after expiration period for recission. Procedure for challenge.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-484",
+      "number": "46b-484.",
+      "heading": "Full faith and credit.",
+      "text": "Full faith and credit.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-485",
+      "number": "46b-485.",
+      "heading": "Forms for acknowledgment of parentage.",
+      "text": "Forms for acknowledgment of parentage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-486",
+      "number": "46b-486.",
+      "heading": "Release of information.",
+      "text": "Release of information.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-487",
+      "number": "46b-487.",
+      "heading": "Adoption of regulations.",
+      "text": "Adoption of regulations.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-488",
+      "number": "46b-488.",
+      "heading": "Presumption of parentage.",
+      "text": "Presumption of parentage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-489",
+      "number": "46b-489.",
+      "heading": "Adjudicating parentage of child with presumed parent.",
+      "text": "Adjudicating parentage of child with presumed parent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-490",
+      "number": "46b-490.",
+      "heading": "Adjudicating claim of de facto parentage of child.",
+      "text": "Adjudicating claim of de facto parentage of child.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-491",
+      "number": "46b-491.",
+      "heading": "Commencement of court proceeding to adjudicate claim of de facto parentage of child.",
+      "text": "Commencement of court proceeding to adjudicate claim of de facto parentage of child.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-492",
+      "number": "46b-492",
+      "heading": "to 46b-494. - Reserved for future use.",
+      "text": "to 46b-494. - Reserved for future use.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-495",
+      "number": "46b-495.",
+      "heading": "Genetic testing. Definitions.",
+      "text": "Genetic testing. Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-496",
+      "number": "46b-496.",
+      "heading": "Scope and limitations of genetic testing.",
+      "text": "Scope and limitations of genetic testing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-497",
+      "number": "46b-497.",
+      "heading": "Authority to order or deny genetic testing.",
+      "text": "Authority to order or deny genetic testing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-498",
+      "number": "46b-498.",
+      "heading": "Requirements for genetic testing.",
+      "text": "Requirements for genetic testing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-499",
+      "number": "46b-499.",
+      "heading": "Report of genetic testing.",
+      "text": "Report of genetic testing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-500",
+      "number": "46b-500.",
+      "heading": "Challenge to genetic testing results.",
+      "text": "Challenge to genetic testing results.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-501",
+      "number": "46b-501.",
+      "heading": "Cost of genetic testing.",
+      "text": "Cost of genetic testing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-502",
+      "number": "46b-502.",
+      "heading": "Additional genetic testing.",
+      "text": "Additional genetic testing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-503",
+      "number": "46b-503.",
+      "heading": "Adjudicating parentage of child with alleged genetic parent.",
+      "text": "Adjudicating parentage of child with alleged genetic parent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-504",
+      "number": "46b-504.",
+      "heading": "Confidentiality of genetic testing.",
+      "text": "Confidentiality of genetic testing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-505",
+      "number": "46b-505.",
+      "heading": "Admissibility of results of genetic testing.",
+      "text": "Admissibility of results of genetic testing.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-506",
+      "number": "46b-506",
+      "heading": "to 46b-508. - Reserved for future use.",
+      "text": "to 46b-508. - Reserved for future use.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-509",
+      "number": "46b-509.",
+      "heading": "Applicability.",
+      "text": "Applicability.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-510",
+      "number": "46b-510.",
+      "heading": "Parental status of donor.",
+      "text": "Parental status of donor.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-511",
+      "number": "46b-511.",
+      "heading": "Parentage of child of assisted reproduction.",
+      "text": "Parentage of child of assisted reproduction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-512",
+      "number": "46b-512.",
+      "heading": "Consent to assisted reproduction.",
+      "text": "Consent to assisted reproduction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-513",
+      "number": "46b-513.",
+      "heading": "Limitation on spouse's dispute of parentage.",
+      "text": "Limitation on spouse's dispute of parentage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-514",
+      "number": "46b-514.",
+      "heading": "Effect of certain legal proceedings regarding marriage.",
+      "text": "Effect of certain legal proceedings regarding marriage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-515",
+      "number": "46b-515.",
+      "heading": "Withdrawal of consent.",
+      "text": "Withdrawal of consent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-516",
+      "number": "46b-516.",
+      "heading": "Parental status of deceased person.",
+      "text": "Parental status of deceased person.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-517",
+      "number": "46b-517.",
+      "heading": "Assisted reproduction: Order of parentage.",
+      "text": "Assisted reproduction: Order of parentage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-518",
+      "number": "46b-518",
+      "heading": "to 46b-520. - Reserved for future use.",
+      "text": "to 46b-520. - Reserved for future use.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-521",
+      "number": "46b-521.",
+      "heading": "Surrogacy agreements. Definitions.",
+      "text": "Surrogacy agreements. Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-522",
+      "number": "46b-522.",
+      "heading": "Eligibility to enter into gestational or genetic agreement.",
+      "text": "Eligibility to enter into gestational or genetic agreement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-523",
+      "number": "46b-523.",
+      "heading": "Requirements of gestational or surrogacy agreement: Process.",
+      "text": "Requirements of gestational or surrogacy agreement: Process.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-524",
+      "number": "46b-524.",
+      "heading": "Requirements of gestational or genetic surrogacy agreement: Content.",
+      "text": "Requirements of gestational or genetic surrogacy agreement: Content.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-525",
+      "number": "46b-525.",
+      "heading": "Effect of subsequent change of marital status of surrogate.",
+      "text": "Effect of subsequent change of marital status of surrogate.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-526",
+      "number": "46b-526.",
+      "heading": "Effect of subsequent change of marital status of intended parent.",
+      "text": "Effect of subsequent change of marital status of intended parent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-527",
+      "number": "46b-527.",
+      "heading": "Exclusive, continuing jurisdiction.",
+      "text": "Exclusive, continuing jurisdiction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-528",
+      "number": "46b-528.",
+      "heading": "Termination of gestational surrogacy agreement.",
+      "text": "Termination of gestational surrogacy agreement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-529",
+      "number": "46b-529.",
+      "heading": "Parentage under gestational surrogacy agreement.",
+      "text": "Parentage under gestational surrogacy agreement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-530",
+      "number": "46b-530.",
+      "heading": "Gestational surrogacy agreement: Parentage of deceased intended parent.",
+      "text": "Gestational surrogacy agreement: Parentage of deceased intended parent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-531",
+      "number": "46b-531.",
+      "heading": "Gestational surrogacy agreement: Judgment of parentage.",
+      "text": "Gestational surrogacy agreement: Judgment of parentage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-532",
+      "number": "46b-532.",
+      "heading": "Effect of gestational surrogacy agreement.",
+      "text": "Effect of gestational surrogacy agreement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-533",
+      "number": "46b-533.",
+      "heading": "Requirements to validate genetic surrogacy agreement.",
+      "text": "Requirements to validate genetic surrogacy agreement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-534",
+      "number": "46b-534.",
+      "heading": "Termination of genetic surrogacy agreement.",
+      "text": "Termination of genetic surrogacy agreement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-535",
+      "number": "46b-535.",
+      "heading": "Parentage under validated genetic surrogacy agreement.",
+      "text": "Parentage under validated genetic surrogacy agreement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-536",
+      "number": "46b-536.",
+      "heading": "Effect of nonvalidated genetic surrogacy agreement.",
+      "text": "Effect of nonvalidated genetic surrogacy agreement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-537",
+      "number": "46b-537.",
+      "heading": "Genetic surrogacy agreement: Parentage of deceased intended parent.",
+      "text": "Genetic surrogacy agreement: Parentage of deceased intended parent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-538",
+      "number": "46b-538.",
+      "heading": "Breach of genetic surrogacy agreement.",
+      "text": "Breach of genetic surrogacy agreement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-539",
+      "number": "46b-539",
+      "heading": "to 46b-541. - Reserved for future use.",
+      "text": "to 46b-541. - Reserved for future use.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-542",
+      "number": "46b-542.",
+      "heading": "Information about donor. Definitions.",
+      "text": "Information about donor. Definitions.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-543",
+      "number": "46b-543.",
+      "heading": "Application of provisions re collection of gametes.",
+      "text": "Application of provisions re collection of gametes.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-544",
+      "number": "46b-544.",
+      "heading": "Collection of information by gamete bank or fertility clinic.",
+      "text": "Collection of information by gamete bank or fertility clinic.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-545",
+      "number": "46b-545.",
+      "heading": "Declaration regarding identity disclosure.",
+      "text": "Declaration regarding identity disclosure.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-546",
+      "number": "46b-546.",
+      "heading": "Disclosure of identifying information and medical history.",
+      "text": "Disclosure of identifying information and medical history.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-547",
+      "number": "46b-547.",
+      "heading": "Recordkeeping.",
+      "text": "Recordkeeping.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-548",
+      "number": "46b-548",
+      "heading": "to 46b-550. - Reserved for future use.",
+      "text": "to 46b-550. - Reserved for future use.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-551",
+      "number": "46b-551.",
+      "heading": "Uniformity of application and construction.",
+      "text": "Uniformity of application and construction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-552",
+      "number": "46b-552.",
+      "heading": "Relation to Electronic Signatures in Global and National Commerce Act.",
+      "text": "Relation to Electronic Signatures in Global and National Commerce Act.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-553",
+      "number": "46b-553.",
+      "heading": "Transitional provision.",
+      "text": "Transitional provision.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-554",
+      "number": "46b-554",
+      "heading": "to 46b-559. - Reserved for future use.",
+      "text": "to 46b-559. - Reserved for future use.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-560",
+      "number": "46b-560.",
+      "heading": "(Formerly Sec. 46b-160). - Petition to adjudicate parentage",
+      "text": "Continuance of case. Evidence. Jurisdiction over alleged parent. Personal service. Petition to include answer form, notice and application for appointment of counsel. Genetic tests. Default judgment, when.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-561",
+      "number": "46b-561.",
+      "heading": "(Formerly Sec. 46b-161). - Procedure brought prior to birth of child.",
+      "text": "(Formerly Sec. 46b-161). - Procedure brought prior to birth of child.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-562",
+      "number": "46b-562.",
+      "heading": "(Formerly Sec. 46b-162). - Action by state or town.",
+      "text": "(Formerly Sec. 46b-162). - Action by state or town.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-563",
+      "number": "46b-563.",
+      "heading": "(Formerly Sec. 46b-163). - Action not defeated by stillbirth or other premature termination of pregnancy.",
+      "text": "(Formerly Sec. 46b-163). - Action not defeated by stillbirth or other premature termination of pregnancy.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-564",
+      "number": "46b-564.",
+      "heading": "(Formerly Sec. 46b-165). - Testimony of parent or alleged parent.",
+      "text": "(Formerly Sec. 46b-165). - Testimony of parent or alleged parent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-565",
+      "number": "46b-565.",
+      "heading": "(Formerly Sec. 46b-168). - Assessment of costs for genetic tests.",
+      "text": "(Formerly Sec. 46b-168). - Assessment of costs for genetic tests.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-566",
+      "number": "46b-566.",
+      "heading": "(Formerly Sec. 46b-168a). - Genetic tests in IV-D support cases when parentage is at issue.",
+      "text": "(Formerly Sec. 46b-168a). - Genetic tests in IV-D support cases when parentage is at issue.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-567",
+      "number": "46b-567.",
+      "heading": "(Formerly Sec. 46b-169). - Compelling disclosure of name of alleged genetic parent. Institution of action.",
+      "text": "(Formerly Sec. 46b-169). - Compelling disclosure of name of alleged genetic parent. Institution of action.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-568",
+      "number": "46b-568.",
+      "heading": "(Formerly Sec. 46b-170). - Withdrawal of petition. Agreement of settlement.",
+      "text": "(Formerly Sec. 46b-170). - Withdrawal of petition. Agreement of settlement.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-569",
+      "number": "46b-569.",
+      "heading": "(Formerly Sec. 46b-171). - Judgment of court or family support magistrate. Support orders. Past-due support. Reopened judgment of parentage.",
+      "text": "(Formerly Sec. 46b-171). - Judgment of court or family support magistrate. Support orders. Past-due support. Reopened judgment of parentage.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-570",
+      "number": "46b-570.",
+      "heading": "(Formerly Sec. 46b-172). - Agreement to support; judgment. Proceeding to obtain order of support.",
+      "text": "(Formerly Sec. 46b-172). - Agreement to support; judgment. Proceeding to obtain order of support.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-571",
+      "number": "46b-571.",
+      "heading": "(Formerly Sec. 46b-172a). - Filing of claim for parentage by alleged genetic parent",
+      "text": "Attorney General as party. Child as party. Hearing. Rights and responsibilities upon adjudication or acknowledgment of parentage. Claim for parentage after death of alleged genetic parent.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-572",
+      "number": "46b-572.",
+      "heading": "(Formerly Sec. 46b-174). - Enforcement and modification of prior orders and agreements.",
+      "text": "(Formerly Sec. 46b-174). - Enforcement and modification of prior orders and agreements.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-573",
+      "number": "46b-573.",
+      "heading": "(Formerly Sec. 46b-176). - Continued liability of person committed for failure to comply with order.",
+      "text": "(Formerly Sec. 46b-176). - Continued liability of person committed for failure to comply with order.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-574",
+      "number": "46b-574.",
+      "heading": "(Formerly Sec. 46b-177). - Support of defendant while imprisoned.",
+      "text": "(Formerly Sec. 46b-177). - Support of defendant while imprisoned.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-575",
+      "number": "46b-575.",
+      "heading": "(Formerly Sec. 46b-178). - Wage execution.",
+      "text": "(Formerly Sec. 46b-178). - Wage execution.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-576",
+      "number": "46b-576.",
+      "heading": "(Formerly Sec. 46b-179). - Foreign parentage judgments.",
+      "text": "(Formerly Sec. 46b-179). - Foreign parentage judgments.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-577",
+      "number": "46b-577.",
+      "heading": "(Formerly Sec. 46b-179a). - Registry of foreign parentage judgments. Filing of certified copy and certification of final judgment.",
+      "text": "(Formerly Sec. 46b-179a). - Registry of foreign parentage judgments. Filing of certified copy and certification of final judgment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-578",
+      "number": "46b-578.",
+      "heading": "(Formerly Sec. 46b-179b). - Enforcement of foreign parentage judgment.",
+      "text": "(Formerly Sec. 46b-179b). - Enforcement of foreign parentage judgment.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-579",
+      "number": "46b-579.",
+      "heading": "(Formerly Sec. 46b-179c). - Notification of filing judgment. Proof of service to be filed with court.",
+      "text": "(Formerly Sec. 46b-179c). - Notification of filing judgment. Proof of service to be filed with court.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-46b-580",
+      "number": "46b-580.",
+      "heading": "(Formerly Sec. 46b-179d). - Enforcement of foreign parentage judgment stayed by other pending actions.",
+      "text": "(Formerly Sec. 46b-179d). - Enforcement of foreign parentage judgment stayed by other pending actions.",
+      "history": "",
+      "source_url": ""
+    }
+  ]
+}
