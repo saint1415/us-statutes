@@ -14,73 +14,73 @@
       "id": "section-22-11-1011",
       "number": "22-11-101.1",
       "heading": "Definitions.",
-      "text": "Definitions.",
+      "text": "22-11-101.1. Definitions.\n\n(a) As used in this chapter, \"Vendor\" means a person engaged in selling, leasing, marketing, designing, building or maintaining electronic voting systems for tabulating election results to the state or counties.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/wyoming/title-22/chapter-11/section-22-11-101-1/"
     },
     {
       "id": "section-22-11-102",
       "number": "22-11-102",
       "heading": "Use Authorized; Purchase or Lease.",
-      "text": "Use Authorized; Purchase or Lease.",
+      "text": "22-11-102. Use authorized; purchase or lease.\n\nThe board of county commissioners of each county may adopt for use, either experimentally or permanently, in any election in any or all polling places within the county, any electronic voting system authorized by law.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/wyoming/title-22/chapter-11/section-22-11-102/"
     },
     {
       "id": "section-22-11-103",
       "number": "22-11-103",
       "heading": "Capabilities Required.",
-      "text": "Capabilities Required.",
+      "text": "22-11-103. Capabilities required.\n\n(a) Every electronic voting system adopted for use in Wyoming shall:\n\n(i) Provide for voting in secrecy;\n\n(ii) Permit each voter to vote at any election for all candidates and offices, and on any question, for which he is lawfully entitled to vote;\n\n(iii) Permit voting either by paper ballot, by ballot card or by other mechanical, magnetic or electrical means by which a vote may be recorded;\n\n(iv) Permit each voter, at presidential elections, by one (1) mark to vote for candidates of one (1) party for president, vice-president and presidential electors or to write in a name for president;\n\n(v) Provide for replacement of spoiled ballots;\n\n(vi) Permit both absentee and write-in voting;\n\n(vii) Provide automatic tabulating equipment which shall reject choices recorded on a ballot exceeding the number allowed, and at a primary election reject choices for candidates from a party other than the party for which a preference is expressed;\n\n(viii) Be suitably designed to function safely, efficiently and accurately, when properly operated, in recording, tabulating and counting every vote cast;\n\n(ix) Repealed By Laws 1998, ch. 100, 5.\n\n(x) Be certified by the secretary of state as provided in subsections (d) through (g) of this section;\n\n(xi) Have and use an air gap.\n\n(b) Repealed By Laws 1998, ch. 100, 5.\n\n(c) The secretary of state may from time to time as necessary promulgate rules and regulations consistent with subsection (a) of this section and with all other requirements of this Election Code to govern the characteristics of electronic voting systems that may be used in Wyoming. The rules shall ensure the fairness and accuracy of elections. The rules may govern both the characteristics of the systems and the procedures to be followed in using the systems. The rules shall allow the county clerks to follow appropriate recommendations of the vendors of the systems for maintenance and management of the systems to the extent these recommendations are not inconsistent with this Election Code and with the rules. The rules shall be adopted following consultation with the county clerks.\n\n(d) A vendor shall file in the office of the secretary of state an application for certification of an electronic voting system and the secretary of state shall approve the application before any electronic voting system to be used in an election conducted under this code may be distributed, sold or upgraded by the vendor. The application for certification of an electronic voting system shall contain the following documentation:\n\n(i) Proof that the electronic voting system has been certified by the United States election assistance commission;\n\n(ii) Proof that the electronic voting system meets the voluntary voting system guidelines adopted by the United States election assistance commission;\n\n(iii) Proof that the electronic voting system complies with the provisions of this chapter;\n\n(iv) A Wyoming certificate of good standing for the vendor from the office of the secretary of state dated not more than ninety (90) days prior to the date the application is filed;\n\n(v) Proof of the vendor's escrow account containing the source code for the electronic voting system and system components for which certification is being sought including any source code updates; and\n\n(vi) The checksum value associated with the escrowed source code for the electronic voting system and system components for which certification is being sought;\n\n(vii) All related manuals, including but not limited to, technical manuals for repair and maintenance of the electronic voting system, operations manuals for election officials, printer manuals for ballot production and all other written documents prepared by the vendor that describe the operation, use and maintenance of the electronic voting system;\n\n(viii) A list of applicable patents and copyrights on the electronic voting system;\n\n(ix) A history of the electronic voting system to include a complete description of the electronic voting system, the date the electronic voting system was produced and a complete list of the states that have used the electronic voting system;\n\n(x) A list of any written complaints or concerns made to the vendor by other jurisdictions including county or local jurisdictions on the electronic voting system and a description of the resolution of the complaints or concerns. If there are no written complaints or concerns made to the vendor by other jurisdictions on the electronic voting system then the vendor shall provide a statement to that effect;\n\n(xi) A list of all denials of certification for the electronic voting system made to the vendor by other jurisdictions including state, county or local jurisdictions which shall include official documentation on the resolution of the denial of certification or a statement from the state, county or local jurisdiction explaining why the denial was not resolved.\n\n(e) The secretary of state may deny an application for certification of an electronic voting system as required by subsection (d) of this section or withdraw certification of an electronic voting system for any of the following reasons:\n\n(i) A county clerk notifies the secretary of state of and the secretary of state determines that the electronic voting system fails to meet the requirements necessary for approval of certification or ongoing certification provided in subsection (d) of this section; or\n\n(ii) The vendor fails to notify the secretary of state of necessary enhancements or adjustments to the electronic voting system;\n\n(iii) The election voting system does not produce accurate results and reports as required by law;\n\n(iv) Changes are made in the electronic voting system that do not comply with the requirements for certification as required by subsection (d) of this section;\n\n(v) The electronic voting system is no longer used by any county in Wyoming or is no longer available for purchase or repair from the company.\n\n(f) Before being used, any new electronic voting system that is purchased by either the state or a county shall be certified pursuant to this section.\n\n(g) Every county in Wyoming shall keep an inventory of all electronic voting systems being used in that county. The inventory shall include the following information:\n\n(i) The type of electronic voting system used;\n\n(ii) The quantity of each electronic voting system;\n\n(iii) The serial number of each electronic voting system;\n\n(iv) The software version, if applicable, of each electronic voting system; and\n\n(v) The firmware version, if applicable, of each piece of hardware used in an electronic voting system.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/wyoming/title-22/chapter-11/section-22-11-103/"
     },
     {
       "id": "section-22-11-104",
       "number": "22-11-104",
       "heading": "Conduct of Elections in Which Systems Utilized.",
-      "text": "Conduct of Elections in Which Systems Utilized.",
+      "text": "22-11-104. Conduct of elections in which systems utilized.\n\n(a) All provisions of the Election Code governing the conduct of elections shall apply to elections in which electronic voting systems are used, except that the county clerk of any county in which an electronic voting system is used may make such modifications in ballot form as are necessary to facilitate the use of the electronic voting system and yet maintain the integrity of the election and the intent of the law.\n\n(b) The county clerk of each county using an electronic voting system shall:\n\n(i) Determine whether paper ballots, ballot cards or a combination of both will be used in each polling place;\n\n(ii) Before the day of election deliver to each polling place using an electronic voting system:\n\n(A) A sufficient number of voting devices and ballots;\n\n(B) Repealed By Laws 2014, Ch. 108, 2.\n\n(C) Other appropriate instructional materials or devices; and\n\n(D) All other materials required by law.\n\n(iii) Before testing an electronic voting system for an election, notify the county chairman of each political party having a candidate on the ballot, stating the time and place of the test. The political party representatives and representatives of independent candidates may be present for the test, which shall be held at least two (2) weeks before the election. The test shall ascertain that the automatic tabulating equipment will accurately count the votes cast for all offices and all measures. The test shall be conducted by processing a preaudited group of paper ballots or ballot cards on which are recorded a predetermined number of valid votes for each candidate and on each measure and shall include for each office one (1) or more ballots which have votes in excess of the number allowed by law in order to test the ability of the automatic tabulating equipment to reject such votes. During the test a different number of valid votes shall be assigned to each candidate for an office, and for and against each measure. If any error is detected, the cause of it shall be ascertained and corrected and an errorless count shall be secured and certified to by the county clerk. On completion of the count, the programs, test materials and ballots shall be sealed and retained as provided for paper ballots;\n\n(iv) Designate one (1) or more counting centers;\n\n(v) Provide adequate security for the delivery of all ballots to the designated counting center;\n\n(vi) Provide that if any ballot is damaged or defective so that it cannot be properly counted by the automatic tabulating equipment, a true, duplicate copy shall be made by counting board members and substituted for the damaged or defective ballot. All duplicate ballots shall be clearly labeled \"Duplicate\" and shall bear a serial number which shall be recorded on the damaged or defective ballot. Damaged or defective ballots shall be delivered with the returns to the county clerk;\n\n(vii) Ensure that every electronic voting system used in the county has and uses an air gap.\n\n(c) In addition to any other duties prescribed by law, election judges in polling places using an electronic voting system shall:\n\n(i) Repealed By Laws 2014, Ch. 108, 2.\n\n(ii) Provide adequate instruction in the use of the voting device to each voter before he enters the voting booth. Additional instruction may be provided as specified by law.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/wyoming/title-22/chapter-11/section-22-11-104/"
     },
     {
       "id": "section-22-11-105",
       "number": "22-11-105",
       "heading": "Spoiled Ballots.",
-      "text": "Spoiled Ballots.",
+      "text": "22-11-105. Spoiled ballots.\n\nAny voter who spoils his paper ballot or ballot card may return it and secure a replacement. The word \"Spoiled\" shall be written across the face of the voided ballot, and it shall be placed in an envelope for spoiled ballots. Spoiled ballots shall be delivered with the returns to the county clerk.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/wyoming/title-22/chapter-11/section-22-11-105/"
     },
     {
       "id": "section-22-11-106",
       "number": "22-11-106",
       "heading": "Procedure After Voter Marks Paper Ballot.",
-      "text": "Procedure After Voter Marks Paper Ballot.",
+      "text": "22-11-106. Procedure after voter marks paper ballot.\n\nAfter marking the paper ballot, the voter shall place the ballot in the voting machine. If the votes are being counted at a central counting center as authorized by W.S. 22-14-114(b), the voter shall instead place the paper ballot in the ballot box.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/wyoming/title-22/chapter-11/section-22-11-106/"
     },
     {
       "id": "section-22-11-107",
       "number": "22-11-107",
       "heading": "Failure of Automatic Tabulating Equipment.",
-      "text": "Failure of Automatic Tabulating Equipment.",
+      "text": "22-11-107. Failure of automatic tabulating equipment.\n\nIf the automatic tabulating equipment fails during the ballot count, the counting board shall use an alternate method of counting the ballots.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/wyoming/title-22/chapter-11/section-22-11-107/"
     },
     {
       "id": "section-22-11-108",
       "number": "22-11-108",
       "heading": "Retabulation.",
-      "text": "Retabulation.",
+      "text": "22-11-108. Retabulation.\n\nA retabulation may be performed at the discretion of the county clerk. If the retabulation indicates a different count, the result of the last retabulation shall be the official result unless a recount is conducted. If the difference in the retabulations affects the result of any race or ballot proposition, a recount under W.S. 22-16-109(a) shall be conducted.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/wyoming/title-22/chapter-11/section-22-11-108/"
     },
     {
       "id": "section-22-11-109",
       "number": "22-11-109",
       "heading": "Post Election Audit.",
-      "text": "Post Election Audit.",
+      "text": "22-11-109. Post election audit.\n\nThe county clerk shall conduct a random audit of ballots by processing the preaudited group of test ballots as described in W.S. 22-11-104(b)(iii) on five percent (5%) of the automated tabulating equipment for that county, but on not less than one (1) machine, within thirty (30) days of any election in which the tabulating equipment was used.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/wyoming/title-22/chapter-11/section-22-11-109/"
     }
   ]
 }

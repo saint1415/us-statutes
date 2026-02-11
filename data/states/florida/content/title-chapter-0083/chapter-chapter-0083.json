@@ -4,8 +4,8 @@
   "sections": [
     {
       "id": "section-83001application",
-      "number": "83.001Application",
-      "heading": "",
+      "number": "83.001",
+      "heading": "Application",
       "text": "",
       "history": "",
       "source_url": ""
@@ -228,8 +228,8 @@
     },
     {
       "id": "section-8341application",
-      "number": "83.41Application",
-      "heading": "",
+      "number": "83.41",
+      "heading": "Application",
       "text": "",
       "history": "",
       "source_url": ""
@@ -244,16 +244,16 @@
     },
     {
       "id": "section-83425preemption",
-      "number": "83.425Preemption",
-      "heading": "",
+      "number": "83.425",
+      "heading": "Preemption",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-8343definitions",
-      "number": "83.43Definitions",
-      "heading": "",
+      "number": "83.43",
+      "heading": "Definitions",
       "text": "",
       "history": "",
       "source_url": ""
@@ -540,16 +540,16 @@
     },
     {
       "id": "section-83803definitions",
-      "number": "83.803Definitions",
-      "heading": "",
+      "number": "83.803",
+      "heading": "Definitions",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83805lien",
-      "number": "83.805Lien",
-      "heading": "",
+      "number": "83.805",
+      "heading": "Lien",
       "text": "",
       "history": "",
       "source_url": ""
@@ -572,8 +572,8 @@
     },
     {
       "id": "section-83808contracts",
-      "number": "83.808Contracts",
-      "heading": "",
+      "number": "83.808",
+      "heading": "Contracts",
       "text": "",
       "history": "",
       "source_url": ""
