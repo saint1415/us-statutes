@@ -5,11 +5,11 @@
       "state_abbr": "AL",
       "code_name": "Code of Alabama",
       "source": "official_website",
-      "last_updated": "2026-02-10T14:10:33.007362+00:00",
+      "last_updated": "2026-02-10T23:41:30.638566+00:00",
       "stats": {
-        "titles": 0,
-        "chapters": 0,
-        "sections": 0
+        "titles": 16,
+        "chapters": 357,
+        "sections": 3602
       }
     },
     {
@@ -17,11 +17,23 @@
       "state_abbr": "AK",
       "code_name": "Alaska Statutes",
       "source": "official_website",
-      "last_updated": "2026-02-10T12:54:42.087768+00:00",
+      "last_updated": "2026-02-10T23:41:28.555507+00:00",
       "stats": {
         "titles": 4,
         "chapters": 299,
-        "sections": 1843
+        "sections": 1918
+      }
+    },
+    {
+      "state": "arizona",
+      "state_abbr": "AZ",
+      "code_name": "Arizona Revised Statutes",
+      "source": "official_website",
+      "last_updated": "2026-02-10T23:45:43.341534+00:00",
+      "stats": {
+        "titles": 10,
+        "chapters": 2905,
+        "sections": 8207
       }
     },
     {
@@ -41,7 +53,7 @@
       "state_abbr": "CA",
       "code_name": "California Codes",
       "source": "official_website",
-      "last_updated": "2026-02-10T14:11:23.284226+00:00",
+      "last_updated": "2026-02-10T23:40:48.922114+00:00",
       "stats": {
         "titles": 5,
         "chapters": 5,
@@ -53,23 +65,23 @@
       "state_abbr": "CO",
       "code_name": "Colorado Revised Statutes",
       "source": "official_website",
-      "last_updated": "2026-02-10T14:11:59.707203+00:00",
+      "last_updated": "2026-02-10T23:41:55.897651+00:00",
       "stats": {
-        "titles": 5,
-        "chapters": 5,
-        "sections": 7
+        "titles": 45,
+        "chapters": 411,
+        "sections": 1952
       }
     },
     {
       "state": "connecticut",
       "state_abbr": "CT",
       "code_name": "Connecticut General Statutes",
-      "source": "state_provided",
-      "last_updated": "2026-02-09T22:02:59.990022+00:00",
+      "source": "official_website",
+      "last_updated": "2026-02-10T23:46:38.364280+00:00",
       "stats": {
-        "titles": 81,
-        "chapters": 81,
-        "sections": 113
+        "titles": 74,
+        "chapters": 1143,
+        "sections": 29990
       }
     },
     {
@@ -77,7 +89,7 @@
       "state_abbr": "DE",
       "code_name": "Delaware Code",
       "source": "official_website",
-      "last_updated": "2026-02-10T13:55:02.935006+00:00",
+      "last_updated": "2026-02-10T23:43:00.886953+00:00",
       "stats": {
         "titles": 31,
         "chapters": 949,
@@ -100,12 +112,12 @@
       "state": "florida",
       "state_abbr": "FL",
       "code_name": "Florida Statutes",
-      "source": "state_provided",
-      "last_updated": "2026-02-10T14:10:34.246014+00:00",
+      "source": "official_website",
+      "last_updated": "2026-02-10T23:44:48.209253+00:00",
       "stats": {
-        "titles": 0,
-        "chapters": 0,
-        "sections": 0
+        "titles": 635,
+        "chapters": 635,
+        "sections": 26368
       }
     },
     {
@@ -113,11 +125,11 @@
       "state_abbr": "GA",
       "code_name": "Official Code of Georgia Annotated",
       "source": "official_website",
-      "last_updated": "2026-02-10T14:10:58.852991+00:00",
+      "last_updated": "2026-02-10T23:44:40.122901+00:00",
       "stats": {
-        "titles": 0,
-        "chapters": 0,
-        "sections": 0
+        "titles": 52,
+        "chapters": 893,
+        "sections": 7551
       }
     },
     {
@@ -125,11 +137,11 @@
       "state_abbr": "ID",
       "code_name": "Idaho Statutes",
       "source": "official_website",
-      "last_updated": "2026-02-10T14:11:11.854406+00:00",
+      "last_updated": "2026-02-10T23:43:48.418291+00:00",
       "stats": {
-        "titles": 0,
-        "chapters": 0,
-        "sections": 0
+        "titles": 18,
+        "chapters": 235,
+        "sections": 2744
       }
     },
     {
@@ -137,11 +149,11 @@
       "state_abbr": "IL",
       "code_name": "Illinois Compiled Statutes",
       "source": "official_website",
-      "last_updated": "2026-02-10T14:11:12.317321+00:00",
+      "last_updated": "2026-02-10T23:45:00.497623+00:00",
       "stats": {
-        "titles": 0,
-        "chapters": 0,
-        "sections": 0
+        "titles": 4,
+        "chapters": 271,
+        "sections": 3144
       }
     },
     {
@@ -149,11 +161,11 @@
       "state_abbr": "IN",
       "code_name": "Indiana Code",
       "source": "official_website",
-      "last_updated": "2026-02-10T14:11:12.641811+00:00",
+      "last_updated": "2026-02-10T23:45:57.786231+00:00",
       "stats": {
-        "titles": 0,
-        "chapters": 0,
-        "sections": 0
+        "titles": 35,
+        "chapters": 64,
+        "sections": 2115
       }
     },
     {
@@ -161,11 +173,11 @@
       "state_abbr": "KY",
       "code_name": "Kentucky Revised Statutes",
       "source": "official_website",
-      "last_updated": "2026-02-10T13:57:50.810276+00:00",
+      "last_updated": "2026-02-10T23:47:33.328344+00:00",
       "stats": {
-        "titles": 10,
-        "chapters": 10,
-        "sections": 35
+        "titles": 202,
+        "chapters": 203,
+        "sections": 4442
       }
     },
     {
@@ -173,7 +185,7 @@
       "state_abbr": "LA",
       "code_name": "Louisiana Revised Statutes",
       "source": "official_website",
-      "last_updated": "2026-02-10T14:11:25.076277+00:00",
+      "last_updated": "2026-02-10T23:45:24.665003+00:00",
       "stats": {
         "titles": 0,
         "chapters": 0,
@@ -185,19 +197,19 @@
       "state_abbr": "ME",
       "code_name": "Maine Revised Statutes",
       "source": "official_website",
-      "last_updated": "2026-02-10T14:11:25.387578+00:00",
+      "last_updated": "2026-02-10T23:49:12.988967+00:00",
       "stats": {
-        "titles": 0,
-        "chapters": 0,
-        "sections": 0
+        "titles": 64,
+        "chapters": 3145,
+        "sections": 3624
       }
     },
     {
       "state": "maryland",
       "state_abbr": "MD",
       "code_name": "Maryland Code",
-      "source": "state_provided",
-      "last_updated": "2026-02-10T14:10:53.030548+00:00",
+      "source": "official_website",
+      "last_updated": "2026-02-10T22:13:28.522504+00:00",
       "stats": {
         "titles": 0,
         "chapters": 0,
@@ -209,7 +221,7 @@
       "state_abbr": "MA",
       "code_name": "Massachusetts General Laws",
       "source": "official_website",
-      "last_updated": "2026-02-10T12:56:48.730216+00:00",
+      "last_updated": "2026-02-10T23:45:40.656115+00:00",
       "stats": {
         "titles": 15,
         "chapters": 15,
@@ -221,11 +233,11 @@
       "state_abbr": "MN",
       "code_name": "Minnesota Statutes",
       "source": "official_website",
-      "last_updated": "2026-02-10T14:11:35.148082+00:00",
+      "last_updated": "2026-02-10T23:47:48.931620+00:00",
       "stats": {
-        "titles": 0,
-        "chapters": 0,
-        "sections": 0
+        "titles": 103,
+        "chapters": 1133,
+        "sections": 1179
       }
     },
     {
@@ -233,11 +245,11 @@
       "state_abbr": "MS",
       "code_name": "Mississippi Code",
       "source": "official_website",
-      "last_updated": "2026-02-10T14:11:35.459501+00:00",
+      "last_updated": "2026-02-10T23:55:46.972116+00:00",
       "stats": {
-        "titles": 0,
-        "chapters": 0,
-        "sections": 0
+        "titles": 50,
+        "chapters": 1063,
+        "sections": 11829
       }
     },
     {
@@ -245,11 +257,11 @@
       "state_abbr": "MO",
       "code_name": "Missouri Revised Statutes",
       "source": "official_website",
-      "last_updated": "2026-02-10T13:05:07.338117+00:00",
+      "last_updated": "2026-02-10T23:47:12.600799+00:00",
       "stats": {
-        "titles": 112,
-        "chapters": 112,
-        "sections": 173
+        "titles": 458,
+        "chapters": 458,
+        "sections": 30169
       }
     },
     {
@@ -257,11 +269,11 @@
       "state_abbr": "MT",
       "code_name": "Montana Code Annotated",
       "source": "official_website",
-      "last_updated": "2026-02-10T14:11:35.779485+00:00",
+      "last_updated": "2026-02-10T23:48:31.721794+00:00",
       "stats": {
-        "titles": 0,
-        "chapters": 0,
-        "sections": 0
+        "titles": 1,
+        "chapters": 1,
+        "sections": 10
       }
     },
     {
@@ -269,7 +281,7 @@
       "state_abbr": "NE",
       "code_name": "Revised Statutes of Nebraska",
       "source": "state_provided",
-      "last_updated": "2026-02-10T12:57:44.097776+00:00",
+      "last_updated": "2026-02-10T22:46:10.560245+00:00",
       "stats": {
         "titles": 1,
         "chapters": 1,
@@ -281,11 +293,23 @@
       "state_abbr": "NV",
       "code_name": "Nevada Revised Statutes",
       "source": "official_website",
-      "last_updated": "2026-02-10T13:02:50.294056+00:00",
+      "last_updated": "2026-02-10T23:48:57.632878+00:00",
       "stats": {
-        "titles": 83,
-        "chapters": 83,
-        "sections": 157
+        "titles": 569,
+        "chapters": 569,
+        "sections": 34145
+      }
+    },
+    {
+      "state": "new-hampshire",
+      "state_abbr": "NH",
+      "code_name": "New Hampshire Revised Statutes",
+      "source": "official_website",
+      "last_updated": "2026-02-10T23:49:22.973135+00:00",
+      "stats": {
+        "titles": 65,
+        "chapters": 1317,
+        "sections": 28435
       }
     },
     {
@@ -293,7 +317,7 @@
       "state_abbr": "NJ",
       "code_name": "New Jersey Statutes",
       "source": "official_website",
-      "last_updated": "2026-02-10T14:11:36.083299+00:00",
+      "last_updated": "2026-02-10T22:46:49.480649+00:00",
       "stats": {
         "titles": 0,
         "chapters": 0,
@@ -313,15 +337,39 @@
       }
     },
     {
+      "state": "north-carolina",
+      "state_abbr": "NC",
+      "code_name": "North Carolina General Statutes",
+      "source": "official_website",
+      "last_updated": "2026-02-10T23:49:22.288502+00:00",
+      "stats": {
+        "titles": 396,
+        "chapters": 396,
+        "sections": 44176
+      }
+    },
+    {
+      "state": "north-dakota",
+      "state_abbr": "ND",
+      "code_name": "North Dakota Century Code",
+      "source": "official_website",
+      "last_updated": "2026-02-10T23:51:18.822284+00:00",
+      "stats": {
+        "titles": 2,
+        "chapters": 2,
+        "sections": 3622
+      }
+    },
+    {
       "state": "ohio",
       "state_abbr": "OH",
       "code_name": "Ohio Revised Code",
       "source": "official_website",
-      "last_updated": "2026-02-10T14:11:47.063893+00:00",
+      "last_updated": "2026-02-10T23:51:59.462676+00:00",
       "stats": {
-        "titles": 0,
-        "chapters": 0,
-        "sections": 0
+        "titles": 34,
+        "chapters": 975,
+        "sections": 3521
       }
     },
     {
@@ -329,11 +377,11 @@
       "state_abbr": "OK",
       "code_name": "Oklahoma Statutes",
       "source": "official_website",
-      "last_updated": "2026-02-10T13:07:28.074836+00:00",
+      "last_updated": "2026-02-10T23:51:59.100703+00:00",
       "stats": {
-        "titles": 6,
-        "chapters": 6,
-        "sections": 138
+        "titles": 3,
+        "chapters": 16,
+        "sections": 4154
       }
     },
     {
@@ -341,11 +389,11 @@
       "state_abbr": "OR",
       "code_name": "Oregon Revised Statutes",
       "source": "official_website",
-      "last_updated": "2026-02-10T14:11:47.419880+00:00",
+      "last_updated": "2026-02-10T23:51:15.472620+00:00",
       "stats": {
-        "titles": 0,
-        "chapters": 0,
-        "sections": 0
+        "titles": 259,
+        "chapters": 259,
+        "sections": 2399
       }
     },
     {
@@ -353,7 +401,7 @@
       "state_abbr": "PA",
       "code_name": "Pennsylvania Consolidated Statutes",
       "source": "official_website",
-      "last_updated": "2026-02-10T13:08:58.592672+00:00",
+      "last_updated": "2026-02-10T23:51:56.466800+00:00",
       "stats": {
         "titles": 52,
         "chapters": 52,
@@ -361,11 +409,23 @@
       }
     },
     {
+      "state": "rhode-island",
+      "state_abbr": "RI",
+      "code_name": "Rhode Island General Laws",
+      "source": "official_website",
+      "last_updated": "2026-02-10T23:54:35.136578+00:00",
+      "stats": {
+        "titles": 46,
+        "chapters": 2395,
+        "sections": 28464
+      }
+    },
+    {
       "state": "south-carolina",
       "state_abbr": "SC",
       "code_name": "South Carolina Code of Laws",
       "source": "official_website",
-      "last_updated": "2026-02-10T13:21:54.815855+00:00",
+      "last_updated": "2026-02-10T23:53:34.738579+00:00",
       "stats": {
         "titles": 62,
         "chapters": 1281,
@@ -377,7 +437,7 @@
       "state_abbr": "SD",
       "code_name": "South Dakota Codified Laws",
       "source": "official_website",
-      "last_updated": "2026-02-10T14:12:00.279568+00:00",
+      "last_updated": "2026-02-10T23:51:59.994854+00:00",
       "stats": {
         "titles": 3,
         "chapters": 3,
@@ -389,11 +449,11 @@
       "state_abbr": "TN",
       "code_name": "Tennessee Code",
       "source": "official_website",
-      "last_updated": "2026-02-10T14:11:47.473980+00:00",
+      "last_updated": "2026-02-10T23:52:10.909854+00:00",
       "stats": {
-        "titles": 0,
-        "chapters": 0,
-        "sections": 0
+        "titles": 1,
+        "chapters": 1,
+        "sections": 1
       }
     },
     {
@@ -401,7 +461,7 @@
       "state_abbr": "TX",
       "code_name": "Texas Statutes",
       "source": "official_website",
-      "last_updated": "2026-02-10T14:11:47.783239+00:00",
+      "last_updated": "2026-02-10T23:52:01.865733+00:00",
       "stats": {
         "titles": 0,
         "chapters": 0,
@@ -425,11 +485,11 @@
       "state_abbr": "VT",
       "code_name": "Vermont Statutes",
       "source": "official_website",
-      "last_updated": "2026-02-10T13:17:17.632684+00:00",
+      "last_updated": "2026-02-10T23:54:17.187997+00:00",
       "stats": {
-        "titles": 43,
-        "chapters": 43,
-        "sections": 88
+        "titles": 76,
+        "chapters": 1239,
+        "sections": 17625
       }
     },
     {
@@ -437,11 +497,11 @@
       "state_abbr": "VA",
       "code_name": "Code of Virginia",
       "source": "official_website",
-      "last_updated": "2026-02-10T13:18:35.864521+00:00",
+      "last_updated": "2026-02-10T23:54:51.102796+00:00",
       "stats": {
         "titles": 76,
-        "chapters": 76,
-        "sections": 91
+        "chapters": 1599,
+        "sections": 35737
       }
     },
     {
@@ -449,11 +509,11 @@
       "state_abbr": "WA",
       "code_name": "Revised Code of Washington",
       "source": "official_website",
-      "last_updated": "2026-02-10T14:12:02.685696+00:00",
+      "last_updated": "2026-02-10T23:53:19.044517+00:00",
       "stats": {
-        "titles": 18,
-        "chapters": 18,
-        "sections": 22
+        "titles": 101,
+        "chapters": 101,
+        "sections": 5363
       }
     },
     {
@@ -461,11 +521,11 @@
       "state_abbr": "WV",
       "code_name": "West Virginia Code",
       "source": "official_website",
-      "last_updated": "2026-02-10T14:11:47.830256+00:00",
+      "last_updated": "2026-02-10T23:54:11.069414+00:00",
       "stats": {
-        "titles": 0,
-        "chapters": 0,
-        "sections": 0
+        "titles": 62,
+        "chapters": 62,
+        "sections": 27933
       }
     },
     {
@@ -473,11 +533,11 @@
       "state_abbr": "WI",
       "code_name": "Wisconsin Statutes",
       "source": "official_website",
-      "last_updated": "2026-02-10T14:11:48.211813+00:00",
+      "last_updated": "2026-02-10T23:54:27.064230+00:00",
       "stats": {
-        "titles": 0,
-        "chapters": 0,
-        "sections": 0
+        "titles": 129,
+        "chapters": 129,
+        "sections": 5046
       }
     },
     {
@@ -485,7 +545,7 @@
       "state_abbr": "WY",
       "code_name": "Wyoming Statutes",
       "source": "official_website",
-      "last_updated": "2026-02-10T14:11:48.197049+00:00",
+      "last_updated": "2026-02-10T23:54:19.178654+00:00",
       "stats": {
         "titles": 0,
         "chapters": 0,
