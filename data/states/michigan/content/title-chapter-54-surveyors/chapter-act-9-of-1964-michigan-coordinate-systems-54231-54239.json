@@ -6,89 +6,89 @@
       "id": "section-54231",
       "number": "54.231",
       "heading": "Michigan Coordinate System of 1927 and Michigan Coordinate System of 1983 Established; Division of State Into North Zone, Central Zone, and South Zone",
-      "text": "Section 54.231a - Definitions.Section 54.232 - Land Description.Section 54.233 - Use of Coordinates.Section 54.234 - Tract Extending From 1 Coordinat",
+      "text": "(1) The systems of plane coordinates which are established by the NOAA/NGS for defining and stating the positions of points on or near the surface of the earth within this state shall be known and designated as the Michigan coordinate system of 1927, or MCS 27, and the Michigan coordinate system of 1983, or MCS 83.\n\n(2) For the purpose of the use of these systems, the state is divided into a north zone, a central zone, and a south zone.\n\n(3) The area included in the following counties constitutes the north zone: Gogebic, Ontonagon, Houghton, Keweenaw, Baraga, Iron, Marquette, Dickinson, Menominee, Alger, Delta, Schoolcraft, Luce, Chippewa, and Mackinac.\n\n(4) The area included in the following counties constitutes the central zone: Emmet, Cheboygan, Presque Isle, Charlevoix, Leelanau, Antrim, Otsego, Montmorency, Alpena, Benzie, Grand Traverse, Kalkaska, Crawford, Oscoda, Alcona, Manistee, Wexford, Missaukee, Roscommon, Ogemaw, Iosco, Mason, Lake, Osceola, Clare, Gladwin, and Arenac.\n\n(5) The area included in the following counties constitutes the south zone: Oceana, Newaygo, Mecosta, Isabella, Midland, Bay, Huron, Muskegon, Montcalm, Gratiot, Saginaw, Tuscola, Sanilac, Ottawa, Kent, Ionia, Clinton, Shiawassee, Genesee, Lapeer, St. Clair, Allegan, Barry, Eaton, Ingham, Livingston, Oakland, Macomb, Van Buren, Kalamazoo, Calhoun, Jackson, Washtenaw, Wayne, Berrien, Cass, St. Joseph, Branch, Hillsdale, Lenawee, and Monroe.\n\nHistory:1964, Act 9, Eff. Aug. 28, 1964 ;-- Am. 1988, Act 154, Imd. Eff. June 14, 1988",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/michigan/chapter-54/statute-act-9-of-1964/section-54-231/"
     },
     {
       "id": "section-54231a",
       "number": "54.231a",
       "heading": "Definitions.",
-      "text": "Definitions.",
+      "text": "As used in this act:\n\n(a) \"Coordinates\" means the x and y plane rectangular coordinate values computed for a geographic position from a pair of mutually perpendicular axes. These axes are the meridian and parallel, defined in sections 5 and 5a, whose intersection defines the origin of each zone.\n\n(b) \"FGCC\" means the federal geodetic control committee of the United States department of commerce or a successor agency to the committee.\n\n(c) \"NOAA/NGS\" means the national oceanic and atmospheric administration/national geodetic survey or a successor agency to the administration.\n\nHistory:Add. 1988, Act 154, Imd. Eff. June 14, 1988",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/michigan/chapter-54/statute-act-9-of-1964/section-54-231a/"
     },
     {
       "id": "section-54232",
       "number": "54.232",
       "heading": "Land Description.",
-      "text": "Land Description.",
+      "text": "(1) As established for use in the north zone, the Michigan coordinate system of 1927 or the Michigan coordinate system of 1983 shall be named, and in any land description in which it is used, shall be designated, respectively, the Michigan coordinate system of 1927, north zone, or the Michigan coordinate system of 1983, north zone.\n\n(2) As established for use in the central zone, the Michigan coordinate system of 1927 or the Michigan coordinate system of 1983 shall be named, and in any land description in which it is used, shall be designated, respectively, the Michigan coordinate system of 1927, central zone, or the Michigan coordinate system of 1983, central zone.\n\n(3) As established for use in the south zone, the Michigan coordinate system of 1927 or the Michigan coordinate system of 1983 shall be named, and in any land description in which it is used, shall be designated, respectively, the Michigan coordinate system of 1927, south zone, or the Michigan coordinate system of 1983, south zone.\n\nHistory:1964, Act 9, Eff. Aug. 28, 1964 ;-- Am. 1988, Act 154, Imd. Eff. June 14, 1988",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/michigan/chapter-54/statute-act-9-of-1964/section-54-232/"
     },
     {
       "id": "section-54233",
       "number": "54.233",
       "heading": "Use of Coordinates.",
-      "text": "Use of Coordinates.",
+      "text": "The coordinates for a point on or near the earth's surface that are used to express the geographic position of that point in the appropriate zone of this system shall consist of 2 distances. Each distance shall be expressed in United States survey feet (1 foot = 12/39.37 meters) and decimals of a survey foot if using the Michigan coordinate system of 1927, or shall be expressed in meters and decimals of a meter or in international feet (1 foot = 0.3048 meter) and decimals of an international foot if using the Michigan coordinate system of 1983. One of these distances, to be known as the \"x-coordinate\", shall give the position in an east and west direction; the other distance, to be known as the \"y-coordinate\", shall give the position in a north and south direction. The coordinates shall depend upon and conform to values published by the NOAA/NGS for the monumented points of the North American horizontal geodetic control network, the coordinates of which monumented points were computed on the systems designated in this act.\n\nHistory:1964, Act 9, Eff. Aug. 28, 1964 ;-- Am. 1988, Act 154, Imd. Eff. June 14, 1988",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/michigan/chapter-54/statute-act-9-of-1964/section-54-233/"
     },
     {
       "id": "section-54234",
       "number": "54.234",
       "heading": "Tract Extending From 1 Coordinate Zone Into Another Coordinate Zone; Reference to Boundaries.",
-      "text": "Tract Extending From 1 Coordinate Zone Into Another Coordinate Zone; Reference to Boundaries.",
+      "text": "If a tract of land is defined by a single description and extends from 1 into another of the coordinate zones described in section 1, the positions of all points on the tract's boundaries may be referred to either of the 2 zones. The zone which is used for reference shall be specifically named in the description.\n\nHistory:1964, Act 9, Eff. Aug. 28, 1964 ;-- Am. 1988, Act 154, Imd. Eff. June 14, 1988",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/michigan/chapter-54/statute-act-9-of-1964/section-54-234/"
     },
     {
       "id": "section-54235",
       "number": "54.235",
       "heading": "Michigan Coordinate System of 1927; Definition; Determination of Position.",
-      "text": "Michigan Coordinate System of 1927; Definition; Determination of Position.",
+      "text": "(1) For the purposes of more precisely defining the Michigan coordinate system of 1927, the following definition by the NOAA/NGS is adopted:\n\n(a) The Michigan coordinate system of 1927, north zone, is a Lambert conformal projection of the Clarke spheroid of 1866, magnified in linear dimension by a factor of 1.0000382, having standard parallels at north latitudes 45 degrees 29 minutes and 47 degrees 5 minutes, along which parallels the scale shall be exact. The origin of coordinates is at the intersection of the meridian 87 degrees zero minutes west of Greenwich and the parallel 44 degrees 47 minutes north latitude. This origin is given the coordinates: x = 2,000,000 feet and y = 0 feet.\n\n(b) The Michigan coordinate system of 1927, central zone, is a Lambert conformal projection of the Clarke spheroid of 1866, magnified in linear dimension by a factor of 1.0000382, having standard parallels at north latitude 44 degrees 11 minutes and 45 degrees 42 minutes, along which parallels the scale shall be exact. The origin of coordinates is at the intersection of the meridian 84 degrees 20 minutes west of Greenwich and the parallel 43 degrees 19 minutes north latitude. This origin is given the coordinates: x = 2,000,000 feet and y = 0 feet.\n\n(c) The Michigan coordinate system of 1927, south zone, is a Lambert conformal projection of the Clarke spheroid of 1866, magnified in linear dimension by a factor of 1.0000382, having standard parallels at north latitude 42 degrees 6 minutes and 43 degrees 40 minutes along which parallels the scale shall be exact. The origin of coordinates is at the intersection of the meridian 84 degrees 20 minutes west of Greenwich and the parallel 41 degrees 30 minutes north latitude. This origin is given the coordinates: x = 2,000,000 feet and y = 0 feet.\n\n(2) The position of the Michigan coordinate system of 1927 shall be as determined from horizontal geodetic control points established throughout the state in conformity with the standards of accuracy and specifications for first order or second order geodetic surveying as prepared and published by the FGCC, the geodetic positions of which control points were rigidly adjusted on the North American datum of 1927 and the coordinates of which were computed on the Michigan coordinate system of 1927.\n\nHistory:1964, Act 9, Eff. Aug. 28, 1964 ;-- Am. 1988, Act 154, Imd. Eff. June 14, 1988",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/michigan/chapter-54/statute-act-9-of-1964/section-54-235/"
     },
     {
       "id": "section-54235a",
       "number": "54.235a",
       "heading": "Michigan Coordinate System of 1983; Definition; Determination of Position.",
-      "text": "Michigan Coordinate System of 1983; Definition; Determination of Position.",
+      "text": "(1) For purposes of more precisely defining the Michigan coordinate system of 1983, the following definition by the NOAA/NGS is adopted:\n\n(a) The Michigan coordinate system of 1983, north zone, is a Lambert conformal projection of the North American datum of 1983, having standard parallels at north latitudes 45 degrees 29 minutes and 47 degrees 5 minutes, along which parallels the scale shall be exact. The origin of coordinates is at the intersection of the meridian 87 degrees zero minutes west of Greenwich and the parallel 44 degrees 47 minutes north latitude. This origin is given the coordinates: x = 8,000,000 meters and y = 0 meters.\n\n(b) The Michigan coordinate system of 1983, central zone, is a Lambert conformal projection of the North American datum of 1983, having standard parallels at north latitude 44 degrees 11 minutes and 45 degrees 42 minutes, along which parallels the scale shall be exact. The origin of coordinates is at the intersection of the meridian 84 degrees 22 minutes west of Greenwich and the parallel 43 degrees 19 minutes north latitude. This origin is given the coordinates: x = 6,000,000 meters and y = 0 meters.\n\n(c) The Michigan coordinate system of 1983, south zone, is a Lambert conformal projection of the North American datum of 1983, having standard parallels at north latitude 42 degrees 6 minutes and 43 degrees 40 minutes, along which parallels the scale shall be exact. The origin of coordinates is at the intersection of the meridian 84 degrees 22 minutes west of Greenwich and the parallel 41 degrees 30 minutes north latitude. This origin is given the coordinates: x = 4,000,000 meters and y = 0 meters.\n\n(2) The position of the Michigan coordinate system of 1983 shall be as determined from horizontal geodetic control points established throughout the state in conformity with the standards of accuracy and specifications for first order or second order geodetic surveying as prepared and published by the FGCC, the geodetic positions of which control points were rigidly adjusted on the North American datum of 1983 and the coordinates of which were computed on the Michigan coordinate system of 1983. Standards and specifications of the FGCC in force on the date of a survey shall apply to that survey.\n\nHistory:Add. 1988, Act 154, Imd. Eff. June 14, 1988",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/michigan/chapter-54/statute-act-9-of-1964/section-54-235a/"
     },
     {
       "id": "section-54236",
       "number": "54.236",
       "heading": "Presentation of Coordinates for Recording; Contents of Recording Document.",
-      "text": "Presentation of Coordinates for Recording; Contents of Recording Document.",
+      "text": "Coordinates based on either Michigan coordinate system described in this act, purporting to define the position of a point or a land boundary corner, shall not be presented to be recorded unless the recording document contains an estimate, expressed as a standard deviation, of the positional tolerance of the coordinates being recorded. The recording document shall also contain a description of the nearest first or second order horizontal geodetic control monument from which the coordinates being recorded were determined and the method of survey for that determination. If the position of the described first or second order geodetic control monument is not published by the NOAA/NGS, the recording document shall contain a certificate signed by a land surveyor licensed under article 20 of the occupational code, Act No. 299 of the Public Acts of 1980, being sections 339.2001 to 339.2014 of the Michigan Compiled Laws, which certificate states that the described control monument and its coordinates have been established and determined in conformance with the specifications given in section 5 or 5a.\n\nHistory:1964, Act 9, Eff. Aug. 28, 1964 ;-- Am. 1988, Act 154, Imd. Eff. June 14, 1988",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/michigan/chapter-54/statute-act-9-of-1964/section-54-236/"
     },
     {
       "id": "section-54237",
       "number": "54.237",
       "heading": "Use of Coordinates on Map, Report of Survey, or Other Document.",
-      "text": "Use of Coordinates on Map, Report of Survey, or Other Document.",
+      "text": "(1) The use of the term Michigan coordinate system of 1927 on a map, report of survey, or other document shall be limited to coordinates based on the Michigan coordinate system of 1927 as defined in section 5.\n\n(2) The use of the term Michigan coordinate system of 1983 on a map, report of survey, or other document shall be limited to coordinates based on the Michigan coordinate system of 1983 as defined in section 5a.\n\nHistory:1964, Act 9, Eff. Aug. 28, 1964 ;-- Am. 1988, Act 154, Imd. Eff. June 14, 1988",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/michigan/chapter-54/statute-act-9-of-1964/section-54-237/"
     },
     {
       "id": "section-54238",
       "number": "54.238",
       "heading": "Describing Location of Survey Station or Land Boundary Corner; Conflicting Descriptions.",
-      "text": "Describing Location of Survey Station or Land Boundary Corner; Conflicting Descriptions.",
+      "text": "(1) For the purpose of describing the location of a survey station or land boundary corner in the state of Michigan, it shall be considered a complete, legal, and satisfactory description of that location to give the position of the survey station or land boundary corner by the Michigan coordinate system of 1927 or the Michigan coordinate system of 1983.\n\n(2) If the Michigan coordinate system of 1927 or the Michigan coordinate system of 1983 is used to describe a tract of land which in the same document is also described by reference to a subdivision, line, or corner of the United States public land surveys, or to a subdivision plat duly recorded in accordance with the subdivision control act of 1967, Act No. 288 of the Public Acts of 1967, being sections 560.101 to 560.293 of the Michigan Compiled Laws, the description by coordinates shall be construed as supplemental to the basic description of the subdivision, line, or corner contained in the official plats and field notes filed of record, and in the event of a conflict, the description by reference to the subdivision, line, or corner of the United States public land surveys, or to the recorded subdivision plat, shall prevail over the description by coordinates.\n\nHistory:1964, Act 9, Eff. Aug. 28, 1964 ;-- Am. 1988, Act 154, Imd. Eff. June 14, 1988",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/michigan/chapter-54/statute-act-9-of-1964/section-54-238/"
     },
     {
       "id": "section-54239",
       "number": "54.239",
       "heading": "Sole System After December 31, 1989.",
-      "text": "Sole System After December 31, 1989.",
+      "text": "The Michigan coordinate system of 1927 shall not be used after December 31, 1989. The Michigan coordinate system of 1983 shall be the sole system used after December 31, 1989.\n\nHistory:1964, Act 9, Eff. Aug. 28, 1964 ;-- Am. 1988, Act 154, Imd. Eff. June 14, 1988",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/michigan/chapter-54/statute-act-9-of-1964/section-54-239/"
     }
   ]
 }
