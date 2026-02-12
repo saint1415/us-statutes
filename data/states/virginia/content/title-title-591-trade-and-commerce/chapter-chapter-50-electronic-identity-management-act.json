@@ -6,49 +6,49 @@
       "id": "section-591-550",
       "number": "59.1-550.",
       "heading": "Definitions§ 59.1-551. Trustmark; warranty§ 59",
-      "text": "1-552. Establishment of liability; limitation of liability§ 59.1-553. Commercially reasonable security procedures for electronic fund transfers§ 59.1-554. Applicability of chapter§ 59.1-555. Sovereign immunity",
+      "text": "As used in this chapter, unless the context requires a different meaning:\n\n\"Attribute provider\" means an entity, or a supplier, employee, or agent thereof, that acts as the authoritative record of identifying information about an identity credential holder.\n\n\"Commonwealth identity management standards\" means the minimum specifications and standards that must be included in an identity trust framework so as to define liability pursuant to this chapter that are set forth in guidance documents approved by the Secretary of Administration pursuant to Chapter 4.3 (§ 2.2-436 et seq.) of Title 2.2.\n\n\"Federated digital identity system\" or \"federation\" means a digital identity system that (i) utilizes federated identity management to enable the portability of identity information across otherwise autonomous security domains; (ii) is compliant with the Commonwealth's identity management standards and with the provisions of the governing identity trust framework; (iii) has established identity, security, privacy, technology, and enforcement rules and policies adhered to by certified identity providers that are members of the federated digital identity system; (iv) includes as members federation administrators, federation operators, identity trust framework operators, and identity providers; and (v) allows, but does not require, relying parties to be members of the federated digital identity system in order to accept an identity credential issued by a certified identity provider to verify an identity credential holder's identity.\n\n\"Federated identity management\" means a process that allows the conveyance of identity credentials and authentication information across digital identity systems through the use of a common set of policies, practices, and protocols for managing the identity of users and devices across security domains.\n\n\"Federation administrator\" means a person or entity that certifies compliance with the Commonwealth's identity management standards by either a federation operator or an identity trust framework operator at the time of issuance of identity credentials, identity and entitlement attributes, or trustmarks.\n\n\"Federation operator\" means the entity that (i) defines rule and policies for member parties to a federation; (ii) certifies identity and entitlement attribute providers to be members of and issue identity credentials pursuant to the federation; and (iii) evaluates participation in the federation to ensure compliance by members of the federation with its rules and policies, including the ability to request audits of participants for verification of compliance.\n\n\"Identity attribute\" means identifying information associated with an identity credential holder.\n\n\"Identity credential\" means the data, or the physical object upon which the data may reside, that an identity credential holder may present to verify or authenticate his identity in a digital or online transaction.\n\n\"Identity credential holder\" means a person bound to or in possession of an identity credential who has agreed to the terms and conditions of the identity provider.\n\n\"Identity proofer\" means a person or entity authorized to act as a representative of an identity provider in the confirmation of a potential identity credential holder's identification and identity attributes prior to issuing an identity credential to a person.\n\n\"Identity provider\" means an entity, or a supplier, employee, or agent thereof, certified by an identity trust framework operator to provide identity credentials that may be used by an identity credential holder to assert his identity, or any related attributes, in a digital or online transaction. For purposes of this chapter, \"identity provider\" includes an attribute provider, an identity proofer, and any suppliers, employees, or agents thereof.\n\n\"Identity trust framework\" means a digital identity system with established identity, security, privacy, technology, and enforcement rules and policies adhered to by certified identity providers that are members of the identity trust framework. Members of an identity trust framework include identity trust framework operators and identity providers. Relying parties may be, but are not required to be, a member of an identity trust framework in order to accept an identity credential issued by a certified identity provider to verify an identity credential holder's identity.\n\n\"Identity trust framework operator\" means the entity that (i) defines rules and policies for member parties to an identity trust framework, (ii) certifies identity providers to be members of and issue identity credentials pursuant to the identity trust framework, and (iii) evaluates participation in the identity trust framework to ensure compliance by members of the identity trust framework with its rules and policies, including the ability to request audits of participants for verification of compliance.\n\n\"Relying party\" is an individual or entity that relies on the validity of an identity credential or an associated trustmark.\n\n\"Trustmark\" means a machine-readable official seal, authentication feature, certification, license, or logo that may be provided by an identity trust framework operator to certified identity providers within its identity trust framework or federation to signify that the identity provider complies with the written rules and policies of the identity trust framework or federation.\n\n2015, cc. 482, 483; 2020, cc. 736, 738.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/virginia/title-59-1/chapter-50/section-59-1-550/"
     },
     {
       "id": "section-591-551",
       "number": "59.1-551.",
       "heading": "Trustmark; warranty",
-      "text": "Trustmark; warranty",
+      "text": "The use of a trustmark on an identity credential provides a warranty by the identity provider that the written rules and policies of the identity trust framework or federation of which it is a member have been adhered to in asserting the identity and any related attributes contained on the identity credential. No other warranties are applicable unless expressly provided by the identity provider.\n\n2015, cc. 482, 483; 2020, c. 736.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/virginia/title-59-1/chapter-50/section-59-1-551/"
     },
     {
       "id": "section-591-552",
       "number": "59.1-552.",
       "heading": "Establishment of liability; limitation of liability",
-      "text": "Establishment of liability; limitation of liability",
+      "text": "A. An identity trust framework operator, identity provider, federation administrator, or federation operator shall be liable if the issuance of an identity credential or assignment of an identity attribute, or a trustmark, is not in compliance with the Commonwealth's identity management standards in place at the time of issuance. Further, the identity trust framework operator or identity provider shall be liable for noncompliance with applicable terms of any contractual agreement with a contracting party and any written rules and policies of the identity trust framework or federation of which it is a member.\n\nB. An identity trust framework operator, identity provider, federation administrator, or federation operator shall not be liable if the issuance of the identity credential or assignment of an identity attribute or a trustmark was in compliance with (i) the Commonwealth's identity management standards in place at the time of issuance or assignment, (ii) applicable terms of any contractual agreement with a contracting party, and (iii) any written rules and policies of the identity trust framework or federation of which it is a member, provided such identity trust framework operator or identity provider did not commit an act or omission that constitutes gross negligence or willful misconduct. An identity trust framework operator or identity provider shall not be liable for misuse of an identity credential by the identity credential holder or by any other person who misuses an identity credential.\n\n2015, cc. 482, 483; 2020, c. 736.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/virginia/title-59-1/chapter-50/section-59-1-552/"
     },
     {
       "id": "section-591-553",
       "number": "59.1-553.",
       "heading": "Commercially reasonable security procedures for electronic fund transfers",
-      "text": "Commercially reasonable security procedures for electronic fund transfers",
+      "text": "Use of an identity credential or identity attribute shall satisfy any requirement for a commercially reasonable security or attribution procedure in Title 8.4A, the Uniform Electronic Transactions Act (§ 59.1-479 et seq.), and the Uniform Computer Information Transactions Act (§ 59.1-501.1 et seq.), provided that the identity credential or identity attribute was issued or assigned in accordance with (i) the Commonwealth's identity management standards in place at the time of issuance or assignment, (ii) the terms of any contractual agreement, and (iii) any written rules and policies of the identity trust framework or federation of which the issuer is a member.\n\n2015, cc. 482, 483; 2020, c. 736.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/virginia/title-59-1/chapter-50/section-59-1-553/"
     },
     {
       "id": "section-591-554",
       "number": "59.1-554.",
       "heading": "Applicability of chapter",
-      "text": "Applicability of chapter",
+      "text": "The provisions of this chapter shall not be construed to require any individual or entity to rely on or accept any identity credential or attribute issued in accordance with Commonwealth identity management standards or this chapter.\n\n2015, cc. 482, 483.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/virginia/title-59-1/chapter-50/section-59-1-554/"
     },
     {
       "id": "section-591-555",
       "number": "59.1-555.",
       "heading": "Sovereign immunity",
-      "text": "Sovereign immunity",
+      "text": "No provisions of this chapter nor any act or omission of a state, regional, or local governmental entity related to the issuance of electronic identity credentials or attributes or the administration or participation in an identity trust framework or federation related to the issuance of electronic identity credentials or attributes shall be deemed a waiver of sovereign immunity to which the governmental entity or its officers, employees, or agents are otherwise entitled.\n\n2015, cc. 482, 483; 2020, c. 736.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/virginia/title-59-1/chapter-50/section-59-1-555/"
     }
   ]
 }
