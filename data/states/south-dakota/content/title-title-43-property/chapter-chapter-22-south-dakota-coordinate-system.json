@@ -6,17 +6,17 @@
       "id": "section-43-22-1",
       "number": "43-22-1",
       "heading": "Designation of South Dakota state plane coordinate system",
-      "text": "Section 43-22-2 - Division of state into zones for purpose of system.Section 43-22-3 - Repealed.Section 43-22-4 - . RepealedSection 43-22-4 - Counties included in south zone.Section 43-22-5 - Zone designations.Section 43-22-6 - Definition of",
+      "text": "43-22-1. Designation of South Dakota state plane coordinate system.\n\nThe most recent system of plane coordinates established by the National Geodetic Survey for defining and stating the geographic positions or locations of points on, within, or above the surface of the earth within the State of South Dakota are hereafter to be known and designated as the South Dakota state plane coordinate system.\n\nSource: SL 1947, ch 231, §1; SDC Supp 1960, §18.0301; SL 1988, ch 349, §1; SL 2022, ch 163, §1.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/south-dakota/title-43/chapter-22/section-43-22-1/"
     },
     {
       "id": "section-43-22-2",
       "number": "43-22-2",
       "heading": "Division of state into zones for purpose of system.",
-      "text": "Division of state into zones for purpose of system.",
+      "text": "43-22-2. Division of state into zones for purpose of system.\n\nFor the purposes of this chapter, the South Dakota state plane coordinate system is divided into zones established by the National Geodetic Survey as a component of the National Spatial Reference System. Each zone shall be uniquely and consistently defined within the South Dakota state plane coordinate system.\n\nSource: SL 1947, ch 231, §1; SDC Supp 1960, §18.0301; SL 1988, ch 349, §2; SL 2022, ch 163, §2.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/south-dakota/title-43/chapter-22/section-43-22-2/"
     },
     {
       "id": "section-43-22-3",
@@ -30,25 +30,25 @@
       "id": "section-43-22-4",
       "number": "43-22-4",
       "heading": "Repealed",
-      "text": "Repealed",
+      "text": "43-22-4. Repealed.\n\nSource: SL 1947, ch 231, §1; SDC Supp 1960, §18.0301; SL 1983, ch 13, §6; SL 2015, ch 56 (HJR 1005), eff. May 1, 2015; SL 2022, ch 163, §13.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/south-dakota/title-43/chapter-22/section-43-22-4-d-1/"
     },
     {
       "id": "section-43-22-5",
       "number": "43-22-5",
       "heading": "Zone designations.",
-      "text": "Zone designations.",
+      "text": "43-22-5. Zone designations.\n\nThe South Dakota state plane coordinate system shall be named in any land description in which it is used, and the zone used shall be specified.\n\nSource: SL 1947, ch 231, §2; SDC Supp 1960, §18.0302; SL 1988, ch 349, §3; SL 2022, ch 163, §3.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/south-dakota/title-43/chapter-22/section-43-22-5/"
     },
     {
       "id": "section-43-22-6",
       "number": "43-22-6",
       "heading": "Definition of system.",
-      "text": "Definition of system.",
+      "text": "43-22-6. Definition of system.\n\nThe official geodetic datums that geodetic coordinates, including latitude, longitude, ellipsoid height, orthometric height, or dynamic height, are referenced within this state, shall be defined for the National Spatial Reference System or its successor.\n\nSource: SL 1947, ch 231, §5; SDC Supp 1960, §18.0305 (1); SL 1988, ch 349, §4; SL 2022, ch 163, §4.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/south-dakota/title-43/chapter-22/section-43-22-6/"
     },
     {
       "id": "section-43-22-7",
@@ -62,33 +62,33 @@
       "id": "section-43-22-8",
       "number": "43-22-8",
       "heading": "Plane coordinate values--X and Easting--Y and Northing--Definitions.",
-      "text": "Plane coordinate values--X and Easting--Y and Northing--Definitions.",
+      "text": "43-22-8. Plane coordinate values--X and Easting--Y and Northing--Definitions.\n\nThe plane coordinate values of a point on the earth's surface, to be used to express the geographic position or location of such point in the appropriate zone of the South Dakota state plane coordinate system, consist of two distances, expressed in feet and decimals of a foot or meters and decimals of a meter. If the values are expressed in feet, a definition of one foot equals 0.3048 meter exactly is used as the standard foot for the South Dakota state plane coordinate system. One of the two distances, to be known as the east or x-coordinate, gives the distance east of the y-axis; the other, to be known as the north or y-coordinate, gives the distance north of the x-axis. The y-axis of any zone is parallel with the central meridian of that zone. The x-axis of any zone is at the right angles to the central meridian of that zone. Height is the coordinate value of the vertical elements of the National Spatial Reference System expressed as feet or meters and identified as ellipsoid height or orthometric height.\n\nSource: SL 1947, ch 231, §3; SDC Supp 1960, §18.0303; SL 1988, ch 349, §6; SL 1991, ch 364; SL 2022, ch 163, §5.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/south-dakota/title-43/chapter-22/section-43-22-8/"
     },
     {
       "id": "section-43-22-9",
       "number": "43-22-9",
       "heading": "Recordation of land description based on coordinate system--Limitation.",
-      "text": "Recordation of land description based on coordinate system--Limitation.",
+      "text": "43-22-9. Recordation of land description based on coordinate system--Limitation.\n\nNo coordinates based on the South Dakota state plane coordinate system purporting to define the position of a point on a land boundary may be presented to be recorded in any plat, easement, exhibit, deed, certified corner records, or other document unless the coordinate or coordinates are accompanied by a description of the horizontal datum, realization, and methodology used and published within the same document.\n\nSource: SL 1947, ch 231, §6; SDC Supp 1960, §18.0306; SL 1988, ch 349, §7; SL 2022, ch 163, §6.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/south-dakota/title-43/chapter-22/section-43-22-9/"
     },
     {
       "id": "section-43-22-10",
       "number": "43-22-10",
       "heading": "Use of terms on maps, reports of survey, or other documents--Limitation.",
-      "text": "Use of terms on maps, reports of survey, or other documents--Limitation.",
+      "text": "43-22-10. Use of terms on maps, reports of survey, or other documents--Limitation.\n\nThe use of the term, South Dakota state plane coordinate system, on any map, report of survey, or other documents, is limited to coordinates based on the South Dakota state plane coordinate system as defined in this chapter.\n\nSource: SL 1947, ch 231, §7; SDC Supp 1960, §18.0307; SL 1988, ch 349, §8; SL 2022, ch 163, §7.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/south-dakota/title-43/chapter-22/section-43-22-10/"
     },
     {
       "id": "section-43-22-11",
       "number": "43-22-11",
       "heading": "Description of land located in more than one zone.",
-      "text": "Description of land located in more than one zone.",
+      "text": "43-22-11. Description of land located in more than one zone.\n\nIf any tract of land to be defined by a single description extends from one coordinate zone into another coordinate zone, the positions of all points on its boundaries may be referred to by the zone that is used being specifically named in the description.\n\nSource: SL 1947, ch 231, §4; SDC Supp 1960, §18.0304; SL 1988, ch 349, §9; SL 2022, ch 163, §8.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/south-dakota/title-43/chapter-22/section-43-22-11/"
     },
     {
       "id": "section-43-22-12",
@@ -102,33 +102,33 @@
       "id": "section-43-22-121",
       "number": "43-22-12.1",
       "heading": "Description of location on system of plane coordinates.",
-      "text": "Description of location on system of plane coordinates.",
+      "text": "43-22-12.1. Description of location on system of plane coordinates.\n\nFor purposes of describing the location of any survey station or land boundary corner in the state, it is a complete, legal, and satisfactory description of the location to give the position of the survey station or land boundary corner on the system of plane coordinates defined in this chapter. Whenever coordinates based on the South Dakota state plane coordinate system are used to describe any tract of land that in the same document is also described by reference to any subdivision, line, or corner of the United States Public Lands Survey, the description by coordinates must be construed as supplemental to the basic description of the subdivision, line, or corner contained in the official plats and field notes filed of record, and in the event of any conflict, the description by reference to the subdivision, line, or corner of the United States Public Lands Survey prevails over the description by coordinates.\n\nSource: SL 1988, ch 349, §11; SL 2022, ch 163, §9.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/south-dakota/title-43/chapter-22/section-43-22-12-1/"
     },
     {
       "id": "section-43-22-13",
       "number": "43-22-13",
       "heading": "Purchaser, mortgagee, or insurer not required to rely on description which depends exclusively upon coordinate system.",
-      "text": "Purchaser, mortgagee, or insurer not required to rely on description which depends exclusively upon coordinate system.",
+      "text": "43-22-13. Purchaser, mortgagee, or insurer not required to rely on description which depends exclusively upon coordinate system.\n\nNothing contained in this chapter requires a purchaser, mortgagee, or insurer of real property to rely wholly on a land description, any part of which depends exclusively upon the South Dakota state plane coordinate system.\n\nSource: SL 1947, ch 231, §9; SDC Supp 1960, §18.0309; SL 1988, ch 349, §12; SL 2022, ch 163, §10.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/south-dakota/title-43/chapter-22/section-43-22-13/"
     },
     {
       "id": "section-43-22-14",
       "number": "43-22-14",
       "heading": "Repealed",
-      "text": "Repealed",
+      "text": "43-22-14. Repealed.\n\nSource: SL 1988, ch 349, §13; SL 2022, ch 163, §14.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/south-dakota/title-43/chapter-22/section-43-22-14-d-1/"
     },
     {
       "id": "section-43-22-15",
       "number": "43-22-15",
       "heading": "Application of geodetic reference networks.",
-      "text": "Application of geodetic reference networks.",
+      "text": "43-22-15. Application of geodetic reference networks.\n\nThe provisions of this chapter may not be construed to prohibit the appropriate use of other geodetic reference networks.\n\nSource: SL 2022, ch 163, §11.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/south-dakota/title-43/chapter-22/section-43-22-15/"
     }
   ]
 }
