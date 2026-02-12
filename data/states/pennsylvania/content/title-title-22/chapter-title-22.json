@@ -4,7 +4,7 @@
   "sections": [
     {
       "id": "section-501appointment",
-      "number": "501.Appointment",
+      "number": "501",
       "heading": "by nonprofit corporations.",
       "text": "by nonprofit corporations.",
       "history": "",
@@ -12,15 +12,15 @@
     },
     {
       "id": "section-3301appointment",
-      "number": "3301.Appointment",
-      "heading": "",
+      "number": "3301",
+      "heading": "Appointment",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3302oath",
-      "number": "3302.Oath",
+      "number": "3302",
       "heading": "of office.",
       "text": "of office.",
       "history": "",
@@ -28,7 +28,7 @@
     },
     {
       "id": "section-3303powers",
-      "number": "3303.Powers",
+      "number": "3303",
       "heading": "and duties.",
       "text": "and duties.",
       "history": "",
@@ -36,7 +36,7 @@
     },
     {
       "id": "section-3304compensation",
-      "number": "3304.Compensation",
+      "number": "3304",
       "heading": "and liability.",
       "text": "and liability.",
       "history": "",
@@ -44,7 +44,7 @@
     },
     {
       "id": "section-3701scope",
-      "number": "3701.Scope",
+      "number": "3701",
       "heading": "of chapter.",
       "text": "of chapter.",
       "history": "",
@@ -52,15 +52,15 @@
     },
     {
       "id": "section-3702definitions",
-      "number": "3702.Definitions",
-      "heading": "",
-      "text": "",
+      "number": "3702",
+      "heading": "Definitions",
+      "text": "§ 3702. Specifications.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/pennsylvania/title-22/chapter-37/section-3702/"
     },
     {
       "id": "section-3703appointment",
-      "number": "3703.Appointment",
+      "number": "3703",
       "heading": "required.",
       "text": "required.",
       "history": "",
@@ -68,7 +68,7 @@
     },
     {
       "id": "section-3704appointment",
-      "number": "3704.Appointment",
+      "number": "3704",
       "heading": "by nonprofit corporations.",
       "text": "by nonprofit corporations.",
       "history": "",
@@ -76,7 +76,7 @@
     },
     {
       "id": "section-3705qualifications",
-      "number": "3705.Qualifications",
+      "number": "3705",
       "heading": "for appointment.",
       "text": "for appointment.",
       "history": "",
@@ -84,7 +84,7 @@
     },
     {
       "id": "section-3707termination",
-      "number": "3707.Termination",
+      "number": "3707",
       "heading": "of appointment.",
       "text": "of appointment.",
       "history": "",
@@ -92,7 +92,7 @@
     },
     {
       "id": "section-3708powers",
-      "number": "3708.Powers",
+      "number": "3708",
       "heading": "and authority; jurisdiction.",
       "text": "and authority; jurisdiction.",
       "history": "",
@@ -100,15 +100,15 @@
     },
     {
       "id": "section-3709penalties",
-      "number": "3709.Penalties",
-      "heading": "",
+      "number": "3709",
+      "heading": "Penalties",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3710search",
-      "number": "3710.Search",
+      "number": "3710",
       "heading": "warrants.",
       "text": "warrants.",
       "history": "",
@@ -116,7 +116,7 @@
     },
     {
       "id": "section-3711limitation",
-      "number": "3711.Limitation",
+      "number": "3711",
       "heading": "on possession of firearms.",
       "text": "on possession of firearms.",
       "history": "",
@@ -124,7 +124,7 @@
     },
     {
       "id": "section-3712training",
-      "number": "3712.Training",
+      "number": "3712",
       "heading": "program.",
       "text": "program.",
       "history": "",
@@ -132,7 +132,7 @@
     },
     {
       "id": "section-3713continuing",
-      "number": "3713.Continuing",
+      "number": "3713",
       "heading": "education program.",
       "text": "education program.",
       "history": "",
@@ -140,7 +140,7 @@
     },
     {
       "id": "section-3714statewide",
-      "number": "3714.Statewide",
+      "number": "3714",
       "heading": "registry.",
       "text": "registry.",
       "history": "",
@@ -148,7 +148,7 @@
     },
     {
       "id": "section-3715humane",
-      "number": "3715.Humane",
+      "number": "3715",
       "heading": "Society Police Officer Advisory Board.",
       "text": "Society Police Officer Advisory Board.",
       "history": "",
@@ -156,15 +156,15 @@
     },
     {
       "id": "section-3716costs",
-      "number": "3716.Costs",
-      "heading": "",
+      "number": "3716",
+      "heading": "Costs",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3717disposition",
-      "number": "3717.Disposition",
+      "number": "3717",
       "heading": "of moneys.",
       "text": "of moneys.",
       "history": "",
@@ -172,7 +172,7 @@
     },
     {
       "id": "section-3718applicability",
-      "number": "3718.Applicability",
+      "number": "3718",
       "heading": "to currently appointed individuals.",
       "text": "to currently appointed individuals.",
       "history": "",
@@ -180,7 +180,7 @@
     },
     {
       "id": "section-3714",
-      "number": "3714.",
+      "number": "3714",
       "heading": "Statewide registry.",
       "text": "Statewide registry.",
       "history": "",

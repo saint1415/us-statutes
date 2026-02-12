@@ -4,7 +4,7 @@
   "sections": [
     {
       "id": "section-6101scope",
-      "number": "6101.Scope",
+      "number": "6101",
       "heading": "and short title.",
       "text": "and short title.",
       "history": "",
@@ -12,15 +12,15 @@
     },
     {
       "id": "section-6102definitions",
-      "number": "6102.Definitions",
-      "heading": "",
+      "number": "6102",
+      "heading": "Definitions",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-6111license",
-      "number": "6111.License",
+      "number": "6111",
       "heading": "requirements.",
       "text": "requirements.",
       "history": "",
@@ -28,7 +28,7 @@
     },
     {
       "id": "section-6112exceptions",
-      "number": "6112.Exceptions",
+      "number": "6112",
       "heading": "to license requirements.",
       "text": "to license requirements.",
       "history": "",
@@ -36,7 +36,7 @@
     },
     {
       "id": "section-6121general",
-      "number": "6121.General",
+      "number": "6121",
       "heading": "requirements.",
       "text": "requirements.",
       "history": "",
@@ -44,7 +44,7 @@
     },
     {
       "id": "section-6122powers",
-      "number": "6122.Powers",
+      "number": "6122",
       "heading": "conferred on certain licensees engaged in the mortgage loan business.",
       "text": "conferred on certain licensees engaged in the mortgage loan business.",
       "history": "",
@@ -52,7 +52,7 @@
     },
     {
       "id": "section-6123mortgage",
-      "number": "6123.Mortgage",
+      "number": "6123",
       "heading": "loan business prohibitions.",
       "text": "loan business prohibitions.",
       "history": "",
@@ -60,7 +60,7 @@
     },
     {
       "id": "section-6124prohibited",
-      "number": "6124.Prohibited",
+      "number": "6124",
       "heading": "clauses in mortgage loan documents.",
       "text": "clauses in mortgage loan documents.",
       "history": "",
@@ -68,7 +68,7 @@
     },
     {
       "id": "section-6125mortgage",
-      "number": "6125.Mortgage",
+      "number": "6125",
       "heading": "lending authority.",
       "text": "lending authority.",
       "history": "",
@@ -76,7 +76,7 @@
     },
     {
       "id": "section-6126requirements",
-      "number": "6126.Requirements",
+      "number": "6126",
       "heading": "as to open-end loans.",
       "text": "as to open-end loans.",
       "history": "",
@@ -84,7 +84,7 @@
     },
     {
       "id": "section-6131application",
-      "number": "6131.Application",
+      "number": "6131",
       "heading": "for license.",
       "text": "for license.",
       "history": "",
@@ -92,7 +92,7 @@
     },
     {
       "id": "section-61311prelicensing",
-      "number": "6131.1.Prelicensing",
+      "number": "6131.1",
       "heading": "and continuing education.",
       "text": "and continuing education.",
       "history": "",
@@ -100,7 +100,7 @@
     },
     {
       "id": "section-6132license",
-      "number": "6132.License",
+      "number": "6132",
       "heading": "fees.",
       "text": "fees.",
       "history": "",
@@ -108,7 +108,7 @@
     },
     {
       "id": "section-6133issuance",
-      "number": "6133.Issuance",
+      "number": "6133",
       "heading": "of license.",
       "text": "of license.",
       "history": "",
@@ -116,7 +116,7 @@
     },
     {
       "id": "section-6134license",
-      "number": "6134.License",
+      "number": "6134",
       "heading": "duration.",
       "text": "duration.",
       "history": "",
@@ -124,7 +124,7 @@
     },
     {
       "id": "section-6135licensee",
-      "number": "6135.Licensee",
+      "number": "6135",
       "heading": "requirements.",
       "text": "requirements.",
       "history": "",
@@ -132,7 +132,7 @@
     },
     {
       "id": "section-6136licensee",
-      "number": "6136.Licensee",
+      "number": "6136",
       "heading": "limitations.",
       "text": "limitations.",
       "history": "",
@@ -140,7 +140,7 @@
     },
     {
       "id": "section-6137surrender",
-      "number": "6137.Surrender",
+      "number": "6137",
       "heading": "of license.",
       "text": "of license.",
       "history": "",
@@ -148,7 +148,7 @@
     },
     {
       "id": "section-6138authority",
-      "number": "6138.Authority",
+      "number": "6138",
       "heading": "of department.",
       "text": "of department.",
       "history": "",
@@ -156,15 +156,15 @@
     },
     {
       "id": "section-6140penalties",
-      "number": "6140.Penalties",
-      "heading": "",
+      "number": "6140",
+      "heading": "Penalties",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-6141mortgage",
-      "number": "6141.Mortgage",
+      "number": "6141",
       "heading": "servicers.",
       "text": "servicers.",
       "history": "",
@@ -172,15 +172,15 @@
     },
     {
       "id": "section-6151applicability",
-      "number": "6151.Applicability",
-      "heading": "",
-      "text": "",
+      "number": "6151",
+      "heading": "Applicability",
+      "text": "§ 6151. Applicability.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/pennsylvania/title-7/chapter-61/section-6151/"
     },
     {
       "id": "section-6152relationship",
-      "number": "6152.Relationship",
+      "number": "6152",
       "heading": "to other laws.",
       "text": "to other laws.",
       "history": "",
@@ -188,7 +188,7 @@
     },
     {
       "id": "section-6153preservation",
-      "number": "6153.Preservation",
+      "number": "6153",
       "heading": "of existing contracts.",
       "text": "of existing contracts.",
       "history": "",
@@ -196,7 +196,7 @@
     },
     {
       "id": "section-6154procedure",
-      "number": "6154.Procedure",
+      "number": "6154",
       "heading": "for determination of noncompliance with Federal law (Repealed).",
       "text": "for determination of noncompliance with Federal law (Repealed).",
       "history": "",
@@ -204,7 +204,7 @@
     },
     {
       "id": "section-6122",
-      "number": "6122.",
+      "number": "6122",
       "heading": "Powers conferred on certain licensees engaged in the mortgage loan business.",
       "text": "Powers conferred on certain licensees engaged in the mortgage loan business.",
       "history": "",
@@ -212,7 +212,7 @@
     },
     {
       "id": "section-61311",
-      "number": "6131.1.",
+      "number": "6131.1",
       "heading": "Prelicensing and continuing education.",
       "text": "Prelicensing and continuing education.",
       "history": "",
@@ -220,7 +220,7 @@
     },
     {
       "id": "section-6137",
-      "number": "6137.",
+      "number": "6137",
       "heading": "Surrender of license.",
       "text": "Surrender of license.",
       "history": "",
@@ -228,7 +228,7 @@
     },
     {
       "id": "section-6139",
-      "number": "6139.",
+      "number": "6139",
       "heading": "Suspension, revocation or refusal.",
       "text": "Suspension, revocation or refusal.",
       "history": "",
@@ -236,7 +236,7 @@
     },
     {
       "id": "section-6154",
-      "number": "6154.",
+      "number": "6154",
       "heading": "Procedure for determination of noncompliance with Federal law (Repealed).",
       "text": "Procedure for determination of noncompliance with Federal law (Repealed).",
       "history": "",

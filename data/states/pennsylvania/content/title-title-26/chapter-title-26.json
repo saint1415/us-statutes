@@ -4,7 +4,7 @@
   "sections": [
     {
       "id": "section-907payments",
-      "number": "907.Payments",
+      "number": "907",
       "heading": "not to be considered as income or resources.",
       "text": "not to be considered as income or resources.",
       "history": "",
@@ -12,7 +12,7 @@
     },
     {
       "id": "section-709",
-      "number": "709.",
+      "number": "709",
       "heading": "Condemnee's costs where no declaration of taking filed.",
       "text": "Condemnee's costs where no declaration of taking filed.",
       "history": "",
@@ -20,7 +20,7 @@
     },
     {
       "id": "section-710",
-      "number": "710.",
+      "number": "710",
       "heading": "Limited reimbursement of appraisal, attorney and engineering fees.",
       "text": "Limited reimbursement of appraisal, attorney and engineering fees.",
       "history": "",
@@ -28,7 +28,7 @@
     },
     {
       "id": "section-201",
-      "number": "201.",
+      "number": "201",
       "heading": "Short title of chapter.",
       "text": "Short title of chapter.",
       "history": "",
@@ -36,7 +36,7 @@
     },
     {
       "id": "section-208",
-      "number": "208.",
+      "number": "208",
       "heading": "Eminent domain of land subject to conservation easement.",
       "text": "Eminent domain of land subject to conservation easement.",
       "history": "",
@@ -44,7 +44,7 @@
     },
     {
       "id": "section-201short",
-      "number": "201.Short",
+      "number": "201",
       "heading": "title of chapter.",
       "text": "title of chapter.",
       "history": "",
@@ -52,23 +52,23 @@
     },
     {
       "id": "section-202definitions",
-      "number": "202.Definitions",
-      "heading": "",
+      "number": "202",
+      "heading": "Definitions",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-203applicability",
-      "number": "203.Applicability",
-      "heading": "",
-      "text": "",
+      "number": "203",
+      "heading": "Applicability",
+      "text": "§ 203. Applicability.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/pennsylvania/title-26/chapter-2/section-203/"
     },
     {
       "id": "section-204eminent",
-      "number": "204.Eminent",
+      "number": "204",
       "heading": "domain for private business prohibited.",
       "text": "domain for private business prohibited.",
       "history": "",
@@ -76,15 +76,15 @@
     },
     {
       "id": "section-205blight",
-      "number": "205.Blight",
-      "heading": "",
+      "number": "205",
+      "heading": "Blight",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-206extraterritorial",
-      "number": "206.Extraterritorial",
+      "number": "206",
       "heading": "takings.",
       "text": "takings.",
       "history": "",
@@ -92,7 +92,7 @@
     },
     {
       "id": "section-207eminent",
-      "number": "207.Eminent",
+      "number": "207",
       "heading": "domain of agricultural property.",
       "text": "domain of agricultural property.",
       "history": "",
@@ -100,7 +100,7 @@
     },
     {
       "id": "section-208eminent",
-      "number": "208.Eminent",
+      "number": "208",
       "heading": "domain of land subject to conservation easement.",
       "text": "domain of land subject to conservation easement.",
       "history": "",
@@ -108,15 +108,15 @@
     },
     {
       "id": "section-301venue",
-      "number": "301.Venue",
-      "heading": "",
+      "number": "301",
+      "heading": "Venue",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-302declaration",
-      "number": "302.Declaration",
+      "number": "302",
       "heading": "of taking.",
       "text": "of taking.",
       "history": "",
@@ -124,7 +124,7 @@
     },
     {
       "id": "section-303security",
-      "number": "303.Security",
+      "number": "303",
       "heading": "required.",
       "text": "required.",
       "history": "",
@@ -132,7 +132,7 @@
     },
     {
       "id": "section-304recording",
-      "number": "304.Recording",
+      "number": "304",
       "heading": "notice of condemnation.",
       "text": "notice of condemnation.",
       "history": "",
@@ -140,7 +140,7 @@
     },
     {
       "id": "section-305notice",
-      "number": "305.Notice",
+      "number": "305",
       "heading": "to condemnee.",
       "text": "to condemnee.",
       "history": "",
@@ -148,7 +148,7 @@
     },
     {
       "id": "section-306preliminary",
-      "number": "306.Preliminary",
+      "number": "306",
       "heading": "objections.",
       "text": "objections.",
       "history": "",
@@ -156,7 +156,7 @@
     },
     {
       "id": "section-308revocation",
-      "number": "308.Revocation",
+      "number": "308",
       "heading": "of condemnation proceedings.",
       "text": "of condemnation proceedings.",
       "history": "",
@@ -164,7 +164,7 @@
     },
     {
       "id": "section-309right",
-      "number": "309.Right",
+      "number": "309",
       "heading": "to enter property prior to condemnation.",
       "text": "to enter property prior to condemnation.",
       "history": "",
@@ -172,7 +172,7 @@
     },
     {
       "id": "section-310abandonment",
-      "number": "310.Abandonment",
+      "number": "310",
       "heading": "of project.",
       "text": "of project.",
       "history": "",
@@ -180,7 +180,7 @@
     },
     {
       "id": "section-501agreement",
-      "number": "501.Agreement",
+      "number": "501",
       "heading": "as to damages.",
       "text": "as to damages.",
       "history": "",
@@ -188,15 +188,15 @@
     },
     {
       "id": "section-503view",
-      "number": "503.View",
-      "heading": "",
+      "number": "503",
+      "heading": "View",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-504appointment",
-      "number": "504.Appointment",
+      "number": "504",
       "heading": "of viewers.",
       "text": "of viewers.",
       "history": "",
@@ -204,7 +204,7 @@
     },
     {
       "id": "section-505service",
-      "number": "505.Service",
+      "number": "505",
       "heading": "of notice of view and hearing.",
       "text": "of notice of view and hearing.",
       "history": "",
@@ -212,7 +212,7 @@
     },
     {
       "id": "section-506additional",
-      "number": "506.Additional",
+      "number": "506",
       "heading": "condemnees, mortgagees and intervention.",
       "text": "condemnees, mortgagees and intervention.",
       "history": "",
@@ -220,7 +220,7 @@
     },
     {
       "id": "section-507joint",
-      "number": "507.Joint",
+      "number": "507",
       "heading": "claims.",
       "text": "claims.",
       "history": "",
@@ -228,7 +228,7 @@
     },
     {
       "id": "section-508appointment",
-      "number": "508.Appointment",
+      "number": "508",
       "heading": "of trustee or guardian ad litem.",
       "text": "of trustee or guardian ad litem.",
       "history": "",
@@ -236,7 +236,7 @@
     },
     {
       "id": "section-509furnishing",
-      "number": "509.Furnishing",
+      "number": "509",
       "heading": "of plans to viewers.",
       "text": "of plans to viewers.",
       "history": "",
@@ -244,7 +244,7 @@
     },
     {
       "id": "section-510powers",
-      "number": "510.Powers",
+      "number": "510",
       "heading": "of viewers.",
       "text": "of viewers.",
       "history": "",
@@ -252,7 +252,7 @@
     },
     {
       "id": "section-511administrative",
-      "number": "511.Administrative",
+      "number": "511",
       "heading": "matters for viewers' hearings.",
       "text": "matters for viewers' hearings.",
       "history": "",
@@ -260,7 +260,7 @@
     },
     {
       "id": "section-512report",
-      "number": "512.Report",
+      "number": "512",
       "heading": "of viewers.",
       "text": "of viewers.",
       "history": "",
@@ -268,15 +268,15 @@
     },
     {
       "id": "section-513disagreement",
-      "number": "513.Disagreement",
-      "heading": "",
+      "number": "513",
+      "heading": "Disagreement",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-514filing",
-      "number": "514.Filing",
+      "number": "514",
       "heading": "of report of viewers.",
       "text": "of report of viewers.",
       "history": "",
@@ -284,15 +284,15 @@
     },
     {
       "id": "section-515reports",
-      "number": "515.Reports",
-      "heading": "",
+      "number": "515",
+      "heading": "Reports",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-516right",
-      "number": "516.Right",
+      "number": "516",
       "heading": "of appeal.",
       "text": "of appeal.",
       "history": "",
@@ -300,15 +300,15 @@
     },
     {
       "id": "section-517appeals",
-      "number": "517.Appeals",
-      "heading": "",
+      "number": "517",
+      "heading": "Appeals",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-518disposition",
-      "number": "518.Disposition",
+      "number": "518",
       "heading": "of appeal.",
       "text": "of appeal.",
       "history": "",
@@ -316,7 +316,7 @@
     },
     {
       "id": "section-519allocation",
-      "number": "519.Allocation",
+      "number": "519",
       "heading": "of damages.",
       "text": "of damages.",
       "history": "",
@@ -324,7 +324,7 @@
     },
     {
       "id": "section-520waiver",
-      "number": "520.Waiver",
+      "number": "520",
       "heading": "of viewers' proceedings and termination by stipulation.",
       "text": "of viewers' proceedings and termination by stipulation.",
       "history": "",
@@ -332,7 +332,7 @@
     },
     {
       "id": "section-521liens",
-      "number": "521.Liens",
+      "number": "521",
       "heading": "and distribution of damages.",
       "text": "and distribution of damages.",
       "history": "",
@@ -340,7 +340,7 @@
     },
     {
       "id": "section-522payment",
-      "number": "522.Payment",
+      "number": "522",
       "heading": "into court and distribution.",
       "text": "into court and distribution.",
       "history": "",
@@ -348,7 +348,7 @@
     },
     {
       "id": "section-701just",
-      "number": "701.Just",
+      "number": "701",
       "heading": "compensation; other damages.",
       "text": "compensation; other damages.",
       "history": "",
@@ -356,7 +356,7 @@
     },
     {
       "id": "section-702measure",
-      "number": "702.Measure",
+      "number": "702",
       "heading": "of damages.",
       "text": "of damages.",
       "history": "",
@@ -364,7 +364,7 @@
     },
     {
       "id": "section-703fair",
-      "number": "703.Fair",
+      "number": "703",
       "heading": "market value.",
       "text": "market value.",
       "history": "",
@@ -372,7 +372,7 @@
     },
     {
       "id": "section-704effect",
-      "number": "704.Effect",
+      "number": "704",
       "heading": "of imminence of condemnation.",
       "text": "of imminence of condemnation.",
       "history": "",
@@ -380,7 +380,7 @@
     },
     {
       "id": "section-705contiguous",
-      "number": "705.Contiguous",
+      "number": "705",
       "heading": "tracts and unity of use.",
       "text": "tracts and unity of use.",
       "history": "",
@@ -388,7 +388,7 @@
     },
     {
       "id": "section-706effect",
-      "number": "706.Effect",
+      "number": "706",
       "heading": "of condemnation use on after value.",
       "text": "of condemnation use on after value.",
       "history": "",
@@ -396,7 +396,7 @@
     },
     {
       "id": "section-707removal",
-      "number": "707.Removal",
+      "number": "707",
       "heading": "of machinery, equipment or fixtures.",
       "text": "of machinery, equipment or fixtures.",
       "history": "",
@@ -404,7 +404,7 @@
     },
     {
       "id": "section-708expenses",
-      "number": "708.Expenses",
+      "number": "708",
       "heading": "incidental to transfer of title.",
       "text": "incidental to transfer of title.",
       "history": "",
@@ -412,7 +412,7 @@
     },
     {
       "id": "section-710limited",
-      "number": "710.Limited",
+      "number": "710",
       "heading": "reimbursement of appraisal, attorney and engineering fees.",
       "text": "reimbursement of appraisal, attorney and engineering fees.",
       "history": "",
@@ -420,7 +420,7 @@
     },
     {
       "id": "section-711payment",
-      "number": "711.Payment",
+      "number": "711",
       "heading": "on account of increased mortgage costs.",
       "text": "on account of increased mortgage costs.",
       "history": "",
@@ -428,7 +428,7 @@
     },
     {
       "id": "section-712loss",
-      "number": "712.Loss",
+      "number": "712",
       "heading": "of rentals because of imminence of condemnation.",
       "text": "of rentals because of imminence of condemnation.",
       "history": "",
@@ -436,7 +436,7 @@
     },
     {
       "id": "section-713delay",
-      "number": "713.Delay",
+      "number": "713",
       "heading": "compensation.",
       "text": "compensation.",
       "history": "",
@@ -444,7 +444,7 @@
     },
     {
       "id": "section-714consequential",
-      "number": "714.Consequential",
+      "number": "714",
       "heading": "damages.",
       "text": "damages.",
       "history": "",
@@ -452,7 +452,7 @@
     },
     {
       "id": "section-715damages",
-      "number": "715.Damages",
+      "number": "715",
       "heading": "for vacation of roads.",
       "text": "for vacation of roads.",
       "history": "",
@@ -460,7 +460,7 @@
     },
     {
       "id": "section-716attempted",
-      "number": "716.Attempted",
+      "number": "716",
       "heading": "avoidance of monetary just compensation.",
       "text": "avoidance of monetary just compensation.",
       "history": "",
@@ -468,15 +468,15 @@
     },
     {
       "id": "section-901definitions",
-      "number": "901.Definitions",
-      "heading": "",
+      "number": "901",
+      "heading": "Definitions",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-902moving",
-      "number": "902.Moving",
+      "number": "902",
       "heading": "and related expenses of displaced persons.",
       "text": "and related expenses of displaced persons.",
       "history": "",
@@ -484,7 +484,7 @@
     },
     {
       "id": "section-903replacement",
-      "number": "903.Replacement",
+      "number": "903",
       "heading": "housing for homeowners.",
       "text": "housing for homeowners.",
       "history": "",
@@ -492,7 +492,7 @@
     },
     {
       "id": "section-904replacement",
-      "number": "904.Replacement",
+      "number": "904",
       "heading": "housing for tenants and others.",
       "text": "housing for tenants and others.",
       "history": "",
@@ -500,7 +500,7 @@
     },
     {
       "id": "section-905housing",
-      "number": "905.Housing",
+      "number": "905",
       "heading": "replacement authorization.",
       "text": "replacement authorization.",
       "history": "",
@@ -508,15 +508,15 @@
     },
     {
       "id": "section-906regulations",
-      "number": "906.Regulations",
-      "heading": "",
+      "number": "906",
+      "heading": "Regulations",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-1103trial",
-      "number": "1103.Trial",
+      "number": "1103",
       "heading": "in court on appeal.",
       "text": "in court on appeal.",
       "history": "",
@@ -524,7 +524,7 @@
     },
     {
       "id": "section-1104competency",
-      "number": "1104.Competency",
+      "number": "1104",
       "heading": "of condemnee as witness.",
       "text": "of condemnee as witness.",
       "history": "",
@@ -532,7 +532,7 @@
     },
     {
       "id": "section-1105evidence",
-      "number": "1105.Evidence",
+      "number": "1105",
       "heading": "generally.",
       "text": "generally.",
       "history": "",

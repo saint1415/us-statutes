@@ -4,15 +4,15 @@
   "sections": [
     {
       "id": "section-101definitions",
-      "number": "101.Definitions",
-      "heading": "",
+      "number": "101",
+      "heading": "Definitions",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-102implementing",
-      "number": "102.Implementing",
+      "number": "102",
       "heading": "regulations.",
       "text": "regulations.",
       "history": "",
@@ -20,7 +20,7 @@
     },
     {
       "id": "section-103administrative",
-      "number": "103.Administrative",
+      "number": "103",
       "heading": "Agency Law.",
       "text": "Agency Law.",
       "history": "",
@@ -28,7 +28,7 @@
     },
     {
       "id": "section-104commonwealth",
-      "number": "104.Commonwealth",
+      "number": "104",
       "heading": "Documents Law (Reserved).",
       "text": "Documents Law (Reserved).",
       "history": "",
@@ -36,7 +36,7 @@
     },
     {
       "id": "section-105local",
-      "number": "105.Local",
+      "number": "105",
       "heading": "Agency Law.",
       "text": "Agency Law.",
       "history": "",
@@ -44,7 +44,7 @@
     },
     {
       "id": "section-501scope",
-      "number": "501.Scope",
+      "number": "501",
       "heading": "of subchapter.",
       "text": "of subchapter.",
       "history": "",
@@ -52,23 +52,23 @@
     },
     {
       "id": "section-502representation",
-      "number": "502.Representation",
-      "heading": "",
-      "text": "",
+      "number": "502",
+      "heading": "Representation",
+      "text": "§ 502. Representation.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/pennsylvania/title-2/chapter-5/section-502/"
     },
     {
       "id": "section-503discipline",
-      "number": "503.Discipline",
-      "heading": "",
+      "number": "503",
+      "heading": "Discipline",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-504hearing",
-      "number": "504.Hearing",
+      "number": "504",
       "heading": "and record.",
       "text": "and record.",
       "history": "",
@@ -76,7 +76,7 @@
     },
     {
       "id": "section-505evidence",
-      "number": "505.Evidence",
+      "number": "505",
       "heading": "and cross-examination.",
       "text": "and cross-examination.",
       "history": "",
@@ -84,7 +84,7 @@
     },
     {
       "id": "section-5051interpreters",
-      "number": "505.1.Interpreters",
+      "number": "505.1",
       "heading": "for the deaf (Deleted by amendment).",
       "text": "for the deaf (Deleted by amendment).",
       "history": "",
@@ -92,7 +92,7 @@
     },
     {
       "id": "section-506briefs",
-      "number": "506.Briefs",
+      "number": "506",
       "heading": "and oral argument.",
       "text": "and oral argument.",
       "history": "",
@@ -100,7 +100,7 @@
     },
     {
       "id": "section-507contents",
-      "number": "507.Contents",
+      "number": "507",
       "heading": "and service of adjudications.",
       "text": "and service of adjudications.",
       "history": "",
@@ -108,7 +108,7 @@
     },
     {
       "id": "section-508notice",
-      "number": "508.Notice",
+      "number": "508",
       "heading": "to Department of Justice.",
       "text": "to Department of Justice.",
       "history": "",
@@ -116,7 +116,7 @@
     },
     {
       "id": "section-551scope",
-      "number": "551.Scope",
+      "number": "551",
       "heading": "of subchapter.",
       "text": "of subchapter.",
       "history": "",
@@ -124,15 +124,15 @@
     },
     {
       "id": "section-552representation",
-      "number": "552.Representation",
-      "heading": "",
-      "text": "",
+      "number": "552",
+      "heading": "Representation",
+      "text": "§ 552. Representation.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/pennsylvania/title-2/chapter-5/section-552/"
     },
     {
       "id": "section-553hearing",
-      "number": "553.Hearing",
+      "number": "553",
       "heading": "and record.",
       "text": "and record.",
       "history": "",
@@ -140,7 +140,7 @@
     },
     {
       "id": "section-554evidence",
-      "number": "554.Evidence",
+      "number": "554",
       "heading": "and cross-examination.",
       "text": "and cross-examination.",
       "history": "",
@@ -148,7 +148,7 @@
     },
     {
       "id": "section-555contents",
-      "number": "555.Contents",
+      "number": "555",
       "heading": "and service of adjudications.",
       "text": "and service of adjudications.",
       "history": "",
@@ -156,7 +156,7 @@
     },
     {
       "id": "section-561scope",
-      "number": "561.Scope",
+      "number": "561",
       "heading": "of subchapter.",
       "text": "of subchapter.",
       "history": "",
@@ -164,7 +164,7 @@
     },
     {
       "id": "section-562duties",
-      "number": "562.Duties",
+      "number": "562",
       "heading": "of department.",
       "text": "of department.",
       "history": "",
@@ -172,7 +172,7 @@
     },
     {
       "id": "section-563appointment",
-      "number": "563.Appointment",
+      "number": "563",
       "heading": "of interpreter.",
       "text": "of interpreter.",
       "history": "",
@@ -180,7 +180,7 @@
     },
     {
       "id": "section-564replacement",
-      "number": "564.Replacement",
+      "number": "564",
       "heading": "of interpreter.",
       "text": "of interpreter.",
       "history": "",
@@ -188,15 +188,15 @@
     },
     {
       "id": "section-565oath",
-      "number": "565.Oath",
-      "heading": "",
+      "number": "565",
+      "heading": "Oath",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-566confidential",
-      "number": "566.Confidential",
+      "number": "566",
       "heading": "communications in presence of interpreter.",
       "text": "communications in presence of interpreter.",
       "history": "",
@@ -204,7 +204,7 @@
     },
     {
       "id": "section-567cost",
-      "number": "567.Cost",
+      "number": "567",
       "heading": "of providing interpreter.",
       "text": "of providing interpreter.",
       "history": "",
@@ -212,15 +212,15 @@
     },
     {
       "id": "section-568funding",
-      "number": "568.Funding",
-      "heading": "",
+      "number": "568",
+      "heading": "Funding",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-581scope",
-      "number": "581.Scope",
+      "number": "581",
       "heading": "of subchapter.",
       "text": "of subchapter.",
       "history": "",
@@ -228,7 +228,7 @@
     },
     {
       "id": "section-582duties",
-      "number": "582.Duties",
+      "number": "582",
       "heading": "of department.",
       "text": "of department.",
       "history": "",
@@ -236,7 +236,7 @@
     },
     {
       "id": "section-583appointment",
-      "number": "583.Appointment",
+      "number": "583",
       "heading": "of interpreter.",
       "text": "of interpreter.",
       "history": "",
@@ -244,7 +244,7 @@
     },
     {
       "id": "section-584replacement",
-      "number": "584.Replacement",
+      "number": "584",
       "heading": "of interpreter.",
       "text": "of interpreter.",
       "history": "",
@@ -252,15 +252,15 @@
     },
     {
       "id": "section-585oath",
-      "number": "585.Oath",
-      "heading": "",
+      "number": "585",
+      "heading": "Oath",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-586confidential",
-      "number": "586.Confidential",
+      "number": "586",
       "heading": "communications in presence of interpreter.",
       "text": "communications in presence of interpreter.",
       "history": "",
@@ -268,7 +268,7 @@
     },
     {
       "id": "section-587cost",
-      "number": "587.Cost",
+      "number": "587",
       "heading": "of providing interpreter.",
       "text": "of providing interpreter.",
       "history": "",
@@ -276,23 +276,23 @@
     },
     {
       "id": "section-588funding",
-      "number": "588.Funding",
-      "heading": "",
+      "number": "588",
+      "heading": "Funding",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-591definitions",
-      "number": "591.Definitions",
-      "heading": "",
+      "number": "591",
+      "heading": "Definitions",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-592rights",
-      "number": "592.Rights",
+      "number": "592",
       "heading": "and services.",
       "text": "and services.",
       "history": "",
@@ -300,7 +300,7 @@
     },
     {
       "id": "section-593alternative",
-      "number": "593.Alternative",
+      "number": "593",
       "heading": "method of testimony.",
       "text": "method of testimony.",
       "history": "",
@@ -308,7 +308,7 @@
     },
     {
       "id": "section-701scope",
-      "number": "701.Scope",
+      "number": "701",
       "heading": "of subchapter.",
       "text": "of subchapter.",
       "history": "",
@@ -316,15 +316,15 @@
     },
     {
       "id": "section-702appeals",
-      "number": "702.Appeals",
-      "heading": "",
+      "number": "702",
+      "heading": "Appeals",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-703scope",
-      "number": "703.Scope",
+      "number": "703",
       "heading": "of review.",
       "text": "of review.",
       "history": "",
@@ -332,7 +332,7 @@
     },
     {
       "id": "section-704disposition",
-      "number": "704.Disposition",
+      "number": "704",
       "heading": "of appeal.",
       "text": "of appeal.",
       "history": "",
@@ -340,7 +340,7 @@
     },
     {
       "id": "section-751scope",
-      "number": "751.Scope",
+      "number": "751",
       "heading": "of subchapter.",
       "text": "of subchapter.",
       "history": "",
@@ -348,15 +348,15 @@
     },
     {
       "id": "section-752appeals",
-      "number": "752.Appeals",
-      "heading": "",
+      "number": "752",
+      "heading": "Appeals",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-753scope",
-      "number": "753.Scope",
+      "number": "753",
       "heading": "of review.",
       "text": "of review.",
       "history": "",
@@ -364,7 +364,7 @@
     },
     {
       "id": "section-754disposition",
-      "number": "754.Disposition",
+      "number": "754",
       "heading": "of appeal.",
       "text": "of appeal.",
       "history": "",
@@ -372,7 +372,7 @@
     },
     {
       "id": "section-5051",
-      "number": "505.1.",
+      "number": "505.1",
       "heading": "Interpreters for the deaf (Deleted by amendment).",
       "text": "Interpreters for the deaf (Deleted by amendment).",
       "history": "",
@@ -380,7 +380,7 @@
     },
     {
       "id": "section-553",
-      "number": "553.",
+      "number": "553",
       "heading": "Hearing and record.",
       "text": "Hearing and record.",
       "history": "",
@@ -388,7 +388,7 @@
     },
     {
       "id": "section-554",
-      "number": "554.",
+      "number": "554",
       "heading": "Evidence and cross-examination.",
       "text": "Evidence and cross-examination.",
       "history": "",
@@ -396,7 +396,7 @@
     },
     {
       "id": "section-564",
-      "number": "564.",
+      "number": "564",
       "heading": "Replacement of interpreter.",
       "text": "Replacement of interpreter.",
       "history": "",
@@ -404,7 +404,7 @@
     },
     {
       "id": "section-565",
-      "number": "565.",
+      "number": "565",
       "heading": "Oath.",
       "text": "Oath.",
       "history": "",
@@ -412,7 +412,7 @@
     },
     {
       "id": "section-566",
-      "number": "566.",
+      "number": "566",
       "heading": "Confidential communications in presence of interpreter.",
       "text": "Confidential communications in presence of interpreter.",
       "history": "",
@@ -420,7 +420,7 @@
     },
     {
       "id": "section-567",
-      "number": "567.",
+      "number": "567",
       "heading": "Cost of providing interpreter.",
       "text": "Cost of providing interpreter.",
       "history": "",
@@ -428,7 +428,7 @@
     },
     {
       "id": "section-568",
-      "number": "568.",
+      "number": "568",
       "heading": "Funding.",
       "text": "Funding.",
       "history": "",
@@ -436,7 +436,7 @@
     },
     {
       "id": "section-581",
-      "number": "581.",
+      "number": "581",
       "heading": "Scope of subchapter.",
       "text": "Scope of subchapter.",
       "history": "",
@@ -444,7 +444,7 @@
     },
     {
       "id": "section-582",
-      "number": "582.",
+      "number": "582",
       "heading": "Duties of department.",
       "text": "Duties of department.",
       "history": "",
@@ -452,7 +452,7 @@
     },
     {
       "id": "section-583",
-      "number": "583.",
+      "number": "583",
       "heading": "Appointment of interpreter.",
       "text": "Appointment of interpreter.",
       "history": "",
@@ -460,7 +460,7 @@
     },
     {
       "id": "section-584",
-      "number": "584.",
+      "number": "584",
       "heading": "Replacement of interpreter.",
       "text": "Replacement of interpreter.",
       "history": "",
@@ -468,7 +468,7 @@
     },
     {
       "id": "section-585",
-      "number": "585.",
+      "number": "585",
       "heading": "Oath.",
       "text": "Oath.",
       "history": "",
@@ -476,7 +476,7 @@
     },
     {
       "id": "section-586",
-      "number": "586.",
+      "number": "586",
       "heading": "Confidential communications in presence of interpreter.",
       "text": "Confidential communications in presence of interpreter.",
       "history": "",
@@ -484,7 +484,7 @@
     },
     {
       "id": "section-587",
-      "number": "587.",
+      "number": "587",
       "heading": "Cost of providing interpreter.",
       "text": "Cost of providing interpreter.",
       "history": "",
@@ -492,7 +492,7 @@
     },
     {
       "id": "section-588",
-      "number": "588.",
+      "number": "588",
       "heading": "Funding.",
       "text": "Funding.",
       "history": "",
@@ -500,7 +500,7 @@
     },
     {
       "id": "section-591",
-      "number": "591.",
+      "number": "591",
       "heading": "Definitions.",
       "text": "Definitions.",
       "history": "",
@@ -508,7 +508,7 @@
     },
     {
       "id": "section-592",
-      "number": "592.",
+      "number": "592",
       "heading": "Rights and services.",
       "text": "Rights and services.",
       "history": "",
@@ -516,7 +516,7 @@
     },
     {
       "id": "section-593",
-      "number": "593.",
+      "number": "593",
       "heading": "Alternative method of testimony.",
       "text": "Alternative method of testimony.",
       "history": "",
@@ -524,7 +524,7 @@
     },
     {
       "id": "section-753",
-      "number": "753.",
+      "number": "753",
       "heading": "Scope of review.",
       "text": "Scope of review.",
       "history": "",

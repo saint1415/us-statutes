@@ -4,7 +4,7 @@
   "sections": [
     {
       "id": "section-5101short",
-      "number": "5101.Short",
+      "number": "5101",
       "heading": "title of chapter and definitions.",
       "text": "title of chapter and definitions.",
       "history": "",
@@ -12,7 +12,7 @@
     },
     {
       "id": "section-5104",
-      "number": "5104.",
+      "number": "5104",
       "heading": "Transfer or obligation voidable as to present or future creditor.",
       "text": "Transfer or obligation voidable as to present or future creditor.",
       "history": "",
@@ -20,7 +20,7 @@
     },
     {
       "id": "section-5105",
-      "number": "5105.",
+      "number": "5105",
       "heading": "Transfer or obligation voidable as to present creditor.",
       "text": "Transfer or obligation voidable as to present creditor.",
       "history": "",
@@ -28,7 +28,7 @@
     },
     {
       "id": "section-5108",
-      "number": "5108.",
+      "number": "5108",
       "heading": "Defenses, liability and protection of transferee or obligee.",
       "text": "Defenses, liability and protection of transferee or obligee.",
       "history": "",
@@ -36,7 +36,7 @@
     },
     {
       "id": "section-5113",
-      "number": "5113.",
+      "number": "5113",
       "heading": "Uniformity of application and construction.",
       "text": "Uniformity of application and construction.",
       "history": "",
@@ -44,7 +44,7 @@
     },
     {
       "id": "section-5114",
-      "number": "5114.",
+      "number": "5114",
       "heading": "Relation to Electronic Signatures in Global and National Commerce Act.",
       "text": "Relation to Electronic Signatures in Global and National Commerce Act.",
       "history": "",
@@ -52,7 +52,7 @@
     },
     {
       "id": "section-3905",
-      "number": "3905.",
+      "number": "3905",
       "heading": "Award and administration of loans.",
       "text": "Award and administration of loans.",
       "history": "",
@@ -60,7 +60,7 @@
     },
     {
       "id": "section-4304",
-      "number": "4304.",
+      "number": "4304",
       "heading": "Notice to lien holder required for participation.",
       "text": "Notice to lien holder required for participation.",
       "history": "",
@@ -76,31 +76,31 @@
     },
     {
       "id": "section-303development",
-      "number": "303.Development",
-      "heading": "",
-      "text": "",
+      "number": "303",
+      "heading": "Development",
+      "text": "§ 303. Applicability.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/pennsylvania/title-12/chapter-3/section-303/"
     },
     {
       "id": "section-304oversight",
-      "number": "304.Oversight",
-      "heading": "",
+      "number": "304",
+      "heading": "Oversight",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-401definitions",
-      "number": "401.Definitions",
-      "heading": "",
+      "number": "401",
+      "heading": "Definitions",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-402establishment",
-      "number": "402.Establishment",
+      "number": "402",
       "heading": "and membership.",
       "text": "and membership.",
       "history": "",
@@ -108,7 +108,7 @@
     },
     {
       "id": "section-403powers",
-      "number": "403.Powers",
+      "number": "403",
       "heading": "and duties.",
       "text": "and duties.",
       "history": "",
@@ -116,7 +116,7 @@
     },
     {
       "id": "section-404administrative",
-      "number": "404.Administrative",
+      "number": "404",
       "heading": "assistance.",
       "text": "assistance.",
       "history": "",
@@ -124,15 +124,15 @@
     },
     {
       "id": "section-405report",
-      "number": "405.Report",
-      "heading": "",
+      "number": "405",
+      "heading": "Report",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-503small",
-      "number": "503.Small",
+      "number": "503",
       "heading": "Business Council.",
       "text": "Business Council.",
       "history": "",
@@ -140,7 +140,7 @@
     },
     {
       "id": "section-504regulatory",
-      "number": "504.Regulatory",
+      "number": "504",
       "heading": "review.",
       "text": "review.",
       "history": "",
@@ -148,7 +148,7 @@
     },
     {
       "id": "section-1502establishment",
-      "number": "1502.Establishment",
+      "number": "1502",
       "heading": "of commission.",
       "text": "of commission.",
       "history": "",
@@ -156,7 +156,7 @@
     },
     {
       "id": "section-1503pennsylvania-ireland",
-      "number": "1503.Pennsylvania-Ireland",
+      "number": "1503",
       "heading": "Trade Commission Fund.",
       "text": "Trade Commission Fund.",
       "history": "",
@@ -164,7 +164,7 @@
     },
     {
       "id": "section-1504membership",
-      "number": "1504.Membership",
+      "number": "1504",
       "heading": "requirements.",
       "text": "requirements.",
       "history": "",
@@ -172,23 +172,23 @@
     },
     {
       "id": "section-1505meetings",
-      "number": "1505.Meetings",
-      "heading": "",
+      "number": "1505",
+      "heading": "Meetings",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-1506applicability",
-      "number": "1506.Applicability",
-      "heading": "",
-      "text": "",
+      "number": "1506",
+      "heading": "Applicability",
+      "text": "§ 1506. Applicability.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/pennsylvania/title-12/chapter-15/section-1506/"
     },
     {
       "id": "section-1507fiduciary",
-      "number": "1507.Fiduciary",
+      "number": "1507",
       "heading": "relationship.",
       "text": "relationship.",
       "history": "",
@@ -196,7 +196,7 @@
     },
     {
       "id": "section-1508powers",
-      "number": "1508.Powers",
+      "number": "1508",
       "heading": "and duties.",
       "text": "and duties.",
       "history": "",
@@ -204,87 +204,87 @@
     },
     {
       "id": "section-1509report",
-      "number": "1509.Report",
-      "heading": "",
+      "number": "1509",
+      "heading": "Report",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-2103establishment",
-      "number": "2103.Establishment",
-      "heading": "",
-      "text": "",
+      "number": "2103",
+      "heading": "Establishment",
+      "text": "§ 2103. Organization.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/pennsylvania/title-12/chapter-21/section-2103/"
     },
     {
       "id": "section-2104application",
-      "number": "2104.Application",
-      "heading": "",
+      "number": "2104",
+      "heading": "Application",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-2105review",
-      "number": "2105.Review",
-      "heading": "",
+      "number": "2105",
+      "heading": "Review",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-2106approval",
-      "number": "2106.Approval",
-      "heading": "",
+      "number": "2106",
+      "heading": "Approval",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-2107penalty",
-      "number": "2107.Penalty",
-      "heading": "",
+      "number": "2107",
+      "heading": "Penalty",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-2108limitations",
-      "number": "2108.Limitations",
-      "heading": "",
+      "number": "2108",
+      "heading": "Limitations",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-2109guidelines",
-      "number": "2109.Guidelines",
-      "heading": "",
-      "text": "",
+      "number": "2109",
+      "heading": "Guidelines",
+      "text": "§ 2109. Prohibitions.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/pennsylvania/title-12/chapter-21/section-2109/"
     },
     {
       "id": "section-2302definitions",
-      "number": "2302.Definitions",
-      "heading": "",
+      "number": "2302",
+      "heading": "Definitions",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-2303establishment",
-      "number": "2303.Establishment",
-      "heading": "",
-      "text": "",
+      "number": "2303",
+      "heading": "Establishment",
+      "text": "§ 2303. Disbursements.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/pennsylvania/title-12/chapter-23/section-2303/"
     },
     {
       "id": "section-2304fund",
-      "number": "2304.Fund",
+      "number": "2304",
       "heading": "and accounts.",
       "text": "and accounts.",
       "history": "",
@@ -292,7 +292,7 @@
     },
     {
       "id": "section-2305authority",
-      "number": "2305.Authority",
+      "number": "2305",
       "heading": "responsibilities.",
       "text": "responsibilities.",
       "history": "",
@@ -300,7 +300,7 @@
     },
     {
       "id": "section-2306capital",
-      "number": "2306.Capital",
+      "number": "2306",
       "heading": "development loans.",
       "text": "development loans.",
       "history": "",
@@ -308,7 +308,7 @@
     },
     {
       "id": "section-2307eda",
-      "number": "2307.EDA",
+      "number": "2307",
       "heading": "loans.",
       "text": "loans.",
       "history": "",
@@ -316,7 +316,7 @@
     },
     {
       "id": "section-2308loans",
-      "number": "2308.Loans",
+      "number": "2308",
       "heading": "in distressed communities.",
       "text": "in distressed communities.",
       "history": "",
@@ -324,7 +324,7 @@
     },
     {
       "id": "section-2309pollution",
-      "number": "2309.Pollution",
+      "number": "2309",
       "heading": "prevention assistance loans.",
       "text": "prevention assistance loans.",
       "history": "",
@@ -332,7 +332,7 @@
     },
     {
       "id": "section-2310export",
-      "number": "2310.Export",
+      "number": "2310",
       "heading": "financing loans.",
       "text": "financing loans.",
       "history": "",
@@ -340,15 +340,15 @@
     },
     {
       "id": "section-23101delegation",
-      "number": "2310.1.Delegation",
-      "heading": "",
-      "text": "",
+      "number": "2310.1",
+      "heading": "Delegation",
+      "text": "§ 2310.1. Delegation.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/pennsylvania/title-12/chapter-23/section-2310.1/"
     },
     {
       "id": "section-2311reporting",
-      "number": "2311.Reporting",
+      "number": "2311",
       "heading": "and inspection.",
       "text": "and inspection.",
       "history": "",
@@ -356,31 +356,31 @@
     },
     {
       "id": "section-2312limitations",
-      "number": "2312.Limitations",
-      "heading": "",
-      "text": "",
+      "number": "2312",
+      "heading": "Limitations",
+      "text": "§ 2312. Applicability.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/pennsylvania/title-12/chapter-23/section-2312/"
     },
     {
       "id": "section-2901scope",
-      "number": "2901.Scope",
-      "heading": "",
+      "number": "2901",
+      "heading": "Scope",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-2903establishment",
-      "number": "2903.Establishment",
-      "heading": "",
-      "text": "",
+      "number": "2903",
+      "heading": "Establishment",
+      "text": "§ 2903. Establishment.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/pennsylvania/title-12/chapter-29/section-2903/"
     },
     {
       "id": "section-2904machinery",
-      "number": "2904.Machinery",
+      "number": "2904",
       "heading": "and Equipment Loan Fund.",
       "text": "and Equipment Loan Fund.",
       "history": "",
@@ -388,7 +388,7 @@
     },
     {
       "id": "section-2905eligibility",
-      "number": "2905.Eligibility",
+      "number": "2905",
       "heading": "for loans; terms and conditions.",
       "text": "for loans; terms and conditions.",
       "history": "",
@@ -396,7 +396,7 @@
     },
     {
       "id": "section-2906application",
-      "number": "2906.Application",
+      "number": "2906",
       "heading": "and administration.",
       "text": "and administration.",
       "history": "",
@@ -404,7 +404,7 @@
     },
     {
       "id": "section-2907powers",
-      "number": "2907.Powers",
+      "number": "2907",
       "heading": "of authority.",
       "text": "of authority.",
       "history": "",
@@ -412,7 +412,7 @@
     },
     {
       "id": "section-2908reporting",
-      "number": "2908.Reporting",
+      "number": "2908",
       "heading": "and inspection.",
       "text": "and inspection.",
       "history": "",
@@ -420,7 +420,7 @@
     },
     {
       "id": "section-2909nondiscrimination",
-      "number": "2909.Nondiscrimination",
+      "number": "2909",
       "heading": "(Deleted by amendment).",
       "text": "(Deleted by amendment).",
       "history": "",
@@ -428,7 +428,7 @@
     },
     {
       "id": "section-2910conflict",
-      "number": "2910.Conflict",
+      "number": "2910",
       "heading": "of interest (Deleted by amendment).",
       "text": "of interest (Deleted by amendment).",
       "history": "",
@@ -436,7 +436,7 @@
     },
     {
       "id": "section-2911reports",
-      "number": "2911.Reports",
+      "number": "2911",
       "heading": "to General Assembly.",
       "text": "to General Assembly.",
       "history": "",
@@ -444,15 +444,15 @@
     },
     {
       "id": "section-2912guidelines",
-      "number": "2912.Guidelines",
-      "heading": "",
+      "number": "2912",
+      "heading": "Guidelines",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3001scope",
-      "number": "3001.Scope",
+      "number": "3001",
       "heading": "of chapter.",
       "text": "of chapter.",
       "history": "",
@@ -460,15 +460,15 @@
     },
     {
       "id": "section-3003establishment",
-      "number": "3003.Establishment",
-      "heading": "",
-      "text": "",
+      "number": "3003",
+      "heading": "Establishment",
+      "text": "§ 3003. Establishment.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/pennsylvania/title-12/chapter-30/section-3003/"
     },
     {
       "id": "section-3004industrial",
-      "number": "3004.Industrial",
+      "number": "3004",
       "heading": "Development Fund (Reserved).",
       "text": "Development Fund (Reserved).",
       "history": "",
@@ -476,15 +476,15 @@
     },
     {
       "id": "section-3005application",
-      "number": "3005.Application",
-      "heading": "",
+      "number": "3005",
+      "heading": "Application",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3006loans",
-      "number": "3006.Loans",
+      "number": "3006",
       "heading": "for industrial development projects.",
       "text": "for industrial development projects.",
       "history": "",
@@ -492,7 +492,7 @@
     },
     {
       "id": "section-3007loans",
-      "number": "3007.Loans",
+      "number": "3007",
       "heading": "for industrial parks.",
       "text": "for industrial parks.",
       "history": "",
@@ -500,7 +500,7 @@
     },
     {
       "id": "section-3008loans",
-      "number": "3008.Loans",
+      "number": "3008",
       "heading": "for multiple-tenancy building projects.",
       "text": "for multiple-tenancy building projects.",
       "history": "",
@@ -508,7 +508,7 @@
     },
     {
       "id": "section-3009reporting",
-      "number": "3009.Reporting",
+      "number": "3009",
       "heading": "and inspection.",
       "text": "and inspection.",
       "history": "",
@@ -516,15 +516,15 @@
     },
     {
       "id": "section-3010limitations",
-      "number": "3010.Limitations",
-      "heading": "",
+      "number": "3010",
+      "heading": "Limitations",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3011job",
-      "number": "3011.Job",
+      "number": "3011",
       "heading": "creation.",
       "text": "creation.",
       "history": "",
@@ -532,7 +532,7 @@
     },
     {
       "id": "section-3201scope",
-      "number": "3201.Scope",
+      "number": "3201",
       "heading": "of chapter.",
       "text": "of chapter.",
       "history": "",
@@ -540,23 +540,23 @@
     },
     {
       "id": "section-3202definitions",
-      "number": "3202.Definitions",
-      "heading": "",
+      "number": "3202",
+      "heading": "Definitions",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3203procedure",
-      "number": "3203.Procedure",
-      "heading": "",
+      "number": "3203",
+      "heading": "Procedure",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3204determination",
-      "number": "3204.Determination",
+      "number": "3204",
       "heading": "of Pennsylvania rehearsal and tour expenses.",
       "text": "of Pennsylvania rehearsal and tour expenses.",
       "history": "",
@@ -564,23 +564,23 @@
     },
     {
       "id": "section-3205limitations",
-      "number": "3205.Limitations",
-      "heading": "",
+      "number": "3205",
+      "heading": "Limitations",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3206claim",
-      "number": "3206.Claim",
-      "heading": "",
+      "number": "3206",
+      "heading": "Claim",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3208pass-through",
-      "number": "3208.Pass-through",
+      "number": "3208",
       "heading": "entity.",
       "text": "entity.",
       "history": "",
@@ -588,23 +588,23 @@
     },
     {
       "id": "section-3209penalty",
-      "number": "3209.Penalty",
-      "heading": "",
-      "text": "",
+      "number": "3209",
+      "heading": "Penalty",
+      "text": "§ 3209. Administration.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/pennsylvania/title-12/chapter-32/section-3209/"
     },
     {
       "id": "section-3210registrations",
-      "number": "3210.Registrations",
-      "heading": "",
-      "text": "",
+      "number": "3210",
+      "heading": "Registrations",
+      "text": "§ 3210. Registrations.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/pennsylvania/title-12/chapter-32/section-3210/"
     },
     {
       "id": "section-3211department",
-      "number": "3211.Department",
+      "number": "3211",
       "heading": "guidelines and regulations.",
       "text": "guidelines and regulations.",
       "history": "",
@@ -612,7 +612,7 @@
     },
     {
       "id": "section-3212report",
-      "number": "3212.Report",
+      "number": "3212",
       "heading": "to General Assembly.",
       "text": "to General Assembly.",
       "history": "",
@@ -620,7 +620,7 @@
     },
     {
       "id": "section-3401scope",
-      "number": "3401.Scope",
+      "number": "3401",
       "heading": "of chapter.",
       "text": "of chapter.",
       "history": "",
@@ -628,47 +628,47 @@
     },
     {
       "id": "section-3402definitions",
-      "number": "3402.Definitions",
-      "heading": "",
+      "number": "3402",
+      "heading": "Definitions",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3403establishment",
-      "number": "3403.Establishment",
-      "heading": "",
-      "text": "",
+      "number": "3403",
+      "heading": "Establishment",
+      "text": "§ 3403. Establishment.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/pennsylvania/title-12/chapter-34/section-3403/"
     },
     {
       "id": "section-3404application",
-      "number": "3404.Application",
-      "heading": "",
+      "number": "3404",
+      "heading": "Application",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3405review",
-      "number": "3405.Review",
-      "heading": "",
+      "number": "3405",
+      "heading": "Review",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3406approval",
-      "number": "3406.Approval",
-      "heading": "",
+      "number": "3406",
+      "heading": "Approval",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3901scope",
-      "number": "3901.Scope",
+      "number": "3901",
       "heading": "of chapter.",
       "text": "of chapter.",
       "history": "",
@@ -676,23 +676,23 @@
     },
     {
       "id": "section-3902definitions",
-      "number": "3902.Definitions",
-      "heading": "",
+      "number": "3902",
+      "heading": "Definitions",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3903establishment",
-      "number": "3903.Establishment",
-      "heading": "",
-      "text": "",
+      "number": "3903",
+      "heading": "Establishment",
+      "text": "§ 3903. Applicability.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/pennsylvania/title-12/chapter-39/section-3903/"
     },
     {
       "id": "section-3904award",
-      "number": "3904.Award",
+      "number": "3904",
       "heading": "of grants.",
       "text": "of grants.",
       "history": "",
@@ -700,7 +700,7 @@
     },
     {
       "id": "section-3905award",
-      "number": "3905.Award",
+      "number": "3905",
       "heading": "and administration of loans.",
       "text": "and administration of loans.",
       "history": "",
@@ -708,15 +708,15 @@
     },
     {
       "id": "section-3906funds",
-      "number": "3906.Funds",
-      "heading": "",
+      "number": "3906",
+      "heading": "Funds",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3907commonwealth",
-      "number": "3907.Commonwealth",
+      "number": "3907",
       "heading": "indebtedness.",
       "text": "indebtedness.",
       "history": "",
@@ -724,7 +724,7 @@
     },
     {
       "id": "section-4101scope",
-      "number": "4101.Scope",
+      "number": "4101",
       "heading": "of chapter.",
       "text": "of chapter.",
       "history": "",
@@ -732,71 +732,71 @@
     },
     {
       "id": "section-4104application",
-      "number": "4104.Application",
-      "heading": "",
+      "number": "4104",
+      "heading": "Application",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-4105review",
-      "number": "4105.Review",
-      "heading": "",
+      "number": "4105",
+      "heading": "Review",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-4106approval",
-      "number": "4106.Approval",
-      "heading": "",
+      "number": "4106",
+      "heading": "Approval",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-4107penalty",
-      "number": "4107.Penalty",
-      "heading": "",
+      "number": "4107",
+      "heading": "Penalty",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-4108limitations",
-      "number": "4108.Limitations",
-      "heading": "",
-      "text": "",
+      "number": "4108",
+      "heading": "Limitations",
+      "text": "§ 4108. Construction.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/pennsylvania/title-12/chapter-41/section-4108/"
     },
     {
       "id": "section-4109guidelines",
-      "number": "4109.Guidelines",
-      "heading": "",
+      "number": "4109",
+      "heading": "Guidelines",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-4301purpose",
-      "number": "4301.Purpose",
-      "heading": "",
+      "number": "4301",
+      "heading": "Purpose",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-4302definitions",
-      "number": "4302.Definitions",
-      "heading": "",
+      "number": "4302",
+      "heading": "Definitions",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-4303establishment",
-      "number": "4303.Establishment",
+      "number": "4303",
       "heading": "of a program.",
       "text": "of a program.",
       "history": "",
@@ -804,7 +804,7 @@
     },
     {
       "id": "section-4304notice",
-      "number": "4304.Notice",
+      "number": "4304",
       "heading": "to lien holder required for participation.",
       "text": "to lien holder required for participation.",
       "history": "",
@@ -812,7 +812,7 @@
     },
     {
       "id": "section-4305scope",
-      "number": "4305.Scope",
+      "number": "4305",
       "heading": "of work.",
       "text": "of work.",
       "history": "",
@@ -820,23 +820,23 @@
     },
     {
       "id": "section-4306notice",
-      "number": "4306.Notice",
-      "heading": "",
+      "number": "4306",
+      "heading": "Notice",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-4307lien",
-      "number": "4307.Lien",
-      "heading": "",
+      "number": "4307",
+      "heading": "Lien",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-4308collection",
-      "number": "4308.Collection",
+      "number": "4308",
       "heading": "of assessments.",
       "text": "of assessments.",
       "history": "",
@@ -844,15 +844,15 @@
     },
     {
       "id": "section-4309bonds",
-      "number": "4309.Bonds",
-      "heading": "",
+      "number": "4309",
+      "heading": "Bonds",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-4310joint",
-      "number": "4310.Joint",
+      "number": "4310",
       "heading": "implementation.",
       "text": "implementation.",
       "history": "",
@@ -860,23 +860,23 @@
     },
     {
       "id": "section-5102insolvency",
-      "number": "5102.Insolvency",
-      "heading": "",
-      "text": "",
+      "number": "5102",
+      "heading": "Insolvency",
+      "text": "§ 5102. Applicability.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/pennsylvania/title-12/chapter-51/section-5102/"
     },
     {
       "id": "section-5103value",
-      "number": "5103.Value",
-      "heading": "",
-      "text": "",
+      "number": "5103",
+      "heading": "Value",
+      "text": "§ 5103. Advertisements.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/pennsylvania/title-12/chapter-51/section-5103/"
     },
     {
       "id": "section-5104transfer",
-      "number": "5104.Transfer",
+      "number": "5104",
       "heading": "or obligation voidable as to present or future creditor.",
       "text": "or obligation voidable as to present or future creditor.",
       "history": "",
@@ -884,7 +884,7 @@
     },
     {
       "id": "section-5105transfer",
-      "number": "5105.Transfer",
+      "number": "5105",
       "heading": "or obligation voidable as to present creditor.",
       "text": "or obligation voidable as to present creditor.",
       "history": "",
@@ -892,7 +892,7 @@
     },
     {
       "id": "section-5106when",
-      "number": "5106.When",
+      "number": "5106",
       "heading": "transfer is made or obligation is incurred.",
       "text": "transfer is made or obligation is incurred.",
       "history": "",
@@ -900,7 +900,7 @@
     },
     {
       "id": "section-5107remedies",
-      "number": "5107.Remedies",
+      "number": "5107",
       "heading": "of creditor.",
       "text": "of creditor.",
       "history": "",
@@ -908,7 +908,7 @@
     },
     {
       "id": "section-5109extinguishment",
-      "number": "5109.Extinguishment",
+      "number": "5109",
       "heading": "of claim for relief.",
       "text": "of claim for relief.",
       "history": "",
@@ -916,7 +916,7 @@
     },
     {
       "id": "section-5110governing",
-      "number": "5110.Governing",
+      "number": "5110",
       "heading": "law.",
       "text": "law.",
       "history": "",
@@ -924,7 +924,7 @@
     },
     {
       "id": "section-5111application",
-      "number": "5111.Application",
+      "number": "5111",
       "heading": "to series organization.",
       "text": "to series organization.",
       "history": "",
@@ -932,7 +932,7 @@
     },
     {
       "id": "section-5112supplementary",
-      "number": "5112.Supplementary",
+      "number": "5112",
       "heading": "provisions.",
       "text": "provisions.",
       "history": "",
@@ -940,7 +940,7 @@
     },
     {
       "id": "section-5113uniformity",
-      "number": "5113.Uniformity",
+      "number": "5113",
       "heading": "of application and construction.",
       "text": "of application and construction.",
       "history": "",
@@ -948,7 +948,7 @@
     },
     {
       "id": "section-5114relation",
-      "number": "5114.Relation",
+      "number": "5114",
       "heading": "to Electronic Signatures in Global and National Commerce Act.",
       "text": "to Electronic Signatures in Global and National Commerce Act.",
       "history": "",
@@ -956,15 +956,15 @@
     },
     {
       "id": "section-5302definitions",
-      "number": "5302.Definitions",
-      "heading": "",
+      "number": "5302",
+      "heading": "Definitions",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-5303injunctive",
-      "number": "5303.Injunctive",
+      "number": "5303",
       "heading": "relief.",
       "text": "relief.",
       "history": "",
@@ -972,15 +972,15 @@
     },
     {
       "id": "section-5304damages",
-      "number": "5304.Damages",
-      "heading": "",
+      "number": "5304",
+      "heading": "Damages",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-5305attorney",
-      "number": "5305.Attorney",
+      "number": "5305",
       "heading": "fees.",
       "text": "fees.",
       "history": "",
@@ -988,7 +988,7 @@
     },
     {
       "id": "section-5306preservation",
-      "number": "5306.Preservation",
+      "number": "5306",
       "heading": "of secrecy.",
       "text": "of secrecy.",
       "history": "",
@@ -996,7 +996,7 @@
     },
     {
       "id": "section-5307statute",
-      "number": "5307.Statute",
+      "number": "5307",
       "heading": "of limitations.",
       "text": "of limitations.",
       "history": "",
@@ -1004,7 +1004,7 @@
     },
     {
       "id": "section-5308effect",
-      "number": "5308.Effect",
+      "number": "5308",
       "heading": "on other law.",
       "text": "on other law.",
       "history": "",
@@ -1012,7 +1012,7 @@
     },
     {
       "id": "section-5501scope",
-      "number": "5501.Scope",
+      "number": "5501",
       "heading": "of chapter.",
       "text": "of chapter.",
       "history": "",
@@ -1020,15 +1020,15 @@
     },
     {
       "id": "section-5502definitions",
-      "number": "5502.Definitions",
-      "heading": "",
+      "number": "5502",
+      "heading": "Definitions",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-5503services",
-      "number": "5503.Services",
+      "number": "5503",
       "heading": "to legitimate cannabis-related businesses.",
       "text": "to legitimate cannabis-related businesses.",
       "history": "",
@@ -1036,7 +1036,7 @@
     },
     {
       "id": "section-5504protections",
-      "number": "5504.Protections",
+      "number": "5504",
       "heading": "for financial institutions, insurers, legitimate cannabis-related businesses",
       "text": "and business associates.",
       "history": "",
@@ -1044,7 +1044,7 @@
     },
     {
       "id": "section-5505access",
-      "number": "5505.Access",
+      "number": "5505",
       "heading": "to information.",
       "text": "to information.",
       "history": "",
@@ -1052,7 +1052,7 @@
     },
     {
       "id": "section-5506required",
-      "number": "5506.Required",
+      "number": "5506",
       "heading": "disclosures.",
       "text": "disclosures.",
       "history": "",
@@ -1060,7 +1060,7 @@
     },
     {
       "id": "section-5507regulations",
-      "number": "5507.Regulations",
+      "number": "5507",
       "heading": "and statements of policy.",
       "text": "and statements of policy.",
       "history": "",
@@ -1068,7 +1068,7 @@
     },
     {
       "id": "section-5601scope",
-      "number": "5601.Scope",
+      "number": "5601",
       "heading": "of chapter.",
       "text": "of chapter.",
       "history": "",
@@ -1076,15 +1076,15 @@
     },
     {
       "id": "section-5602definitions",
-      "number": "5602.Definitions",
-      "heading": "",
+      "number": "5602",
+      "heading": "Definitions",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-5603residential",
-      "number": "5603.Residential",
+      "number": "5603",
       "heading": "purposes prohibited.",
       "text": "purposes prohibited.",
       "history": "",
@@ -1092,7 +1092,7 @@
     },
     {
       "id": "section-5604access",
-      "number": "5604.Access",
+      "number": "5604",
       "heading": "by owner.",
       "text": "by owner.",
       "history": "",
@@ -1100,7 +1100,7 @@
     },
     {
       "id": "section-5606enforcement",
-      "number": "5606.Enforcement",
+      "number": "5606",
       "heading": "of owner's lien.",
       "text": "of owner's lien.",
       "history": "",
@@ -1108,7 +1108,7 @@
     },
     {
       "id": "section-5607notice",
-      "number": "5607.Notice",
+      "number": "5607",
       "heading": "of default to occupant.",
       "text": "of default to occupant.",
       "history": "",
@@ -1116,7 +1116,7 @@
     },
     {
       "id": "section-5608advertisement",
-      "number": "5608.Advertisement",
+      "number": "5608",
       "heading": "of sale.",
       "text": "of sale.",
       "history": "",
@@ -1124,7 +1124,7 @@
     },
     {
       "id": "section-5609location",
-      "number": "5609.Location",
+      "number": "5609",
       "heading": "of sale.",
       "text": "of sale.",
       "history": "",
@@ -1132,7 +1132,7 @@
     },
     {
       "id": "section-5610payment",
-      "number": "5610.Payment",
+      "number": "5610",
       "heading": "and satisfaction.",
       "text": "and satisfaction.",
       "history": "",
@@ -1140,7 +1140,7 @@
     },
     {
       "id": "section-5611conformance",
-      "number": "5611.Conformance",
+      "number": "5611",
       "heading": "with notice.",
       "text": "with notice.",
       "history": "",
@@ -1148,7 +1148,7 @@
     },
     {
       "id": "section-5612title",
-      "number": "5612.Title",
+      "number": "5612",
       "heading": "to goods purchased.",
       "text": "to goods purchased.",
       "history": "",
@@ -1156,7 +1156,7 @@
     },
     {
       "id": "section-5613right",
-      "number": "5613.Right",
+      "number": "5613",
       "heading": "of owner to purchase.",
       "text": "of owner to purchase.",
       "history": "",
@@ -1164,7 +1164,7 @@
     },
     {
       "id": "section-5614excess",
-      "number": "5614.Excess",
+      "number": "5614",
       "heading": "balance from sale.",
       "text": "balance from sale.",
       "history": "",
@@ -1172,7 +1172,7 @@
     },
     {
       "id": "section-5616limitation",
-      "number": "5616.Limitation",
+      "number": "5616",
       "heading": "on liability of owner.",
       "text": "on liability of owner.",
       "history": "",
@@ -1180,7 +1180,7 @@
     },
     {
       "id": "section-5617effect",
-      "number": "5617.Effect",
+      "number": "5617",
       "heading": "of unsigned rental agreement.",
       "text": "of unsigned rental agreement.",
       "history": "",
@@ -1188,7 +1188,7 @@
     },
     {
       "id": "section-5618termination",
-      "number": "5618.Termination",
+      "number": "5618",
       "heading": "or nonrenewal of rental agreement.",
       "text": "or nonrenewal of rental agreement.",
       "history": "",
@@ -1196,7 +1196,7 @@
     },
     {
       "id": "section-5619construction",
-      "number": "5619.Construction",
+      "number": "5619",
       "heading": "of chapter.",
       "text": "of chapter.",
       "history": "",
@@ -1204,7 +1204,7 @@
     },
     {
       "id": "section-5701legislative",
-      "number": "5701.Legislative",
+      "number": "5701",
       "heading": "intent.",
       "text": "intent.",
       "history": "",
@@ -1212,7 +1212,7 @@
     },
     {
       "id": "section-5703savings",
-      "number": "5703.Savings",
+      "number": "5703",
       "heading": "promotion program.",
       "text": "promotion program.",
       "history": "",
@@ -1220,7 +1220,7 @@
     },
     {
       "id": "section-5704compliance",
-      "number": "5704.Compliance",
+      "number": "5704",
       "heading": "with Federal regulations.",
       "text": "with Federal regulations.",
       "history": "",
@@ -1228,7 +1228,7 @@
     },
     {
       "id": "section-5705qualified",
-      "number": "5705.Qualified",
+      "number": "5705",
       "heading": "financial program.",
       "text": "financial program.",
       "history": "",
@@ -1236,7 +1236,7 @@
     },
     {
       "id": "section-5706terms",
-      "number": "5706.Terms",
+      "number": "5706",
       "heading": "and conditions.",
       "text": "and conditions.",
       "history": "",
@@ -1244,7 +1244,7 @@
     },
     {
       "id": "section-5707maintenance",
-      "number": "5707.Maintenance",
+      "number": "5707",
       "heading": "of books and records.",
       "text": "of books and records.",
       "history": "",
@@ -1252,7 +1252,7 @@
     },
     {
       "id": "section-6103contracts",
-      "number": "6103.Contracts",
+      "number": "6103",
       "heading": "and agreements.",
       "text": "and agreements.",
       "history": "",
@@ -1260,7 +1260,7 @@
     },
     {
       "id": "section-6104electronic",
-      "number": "6104.Electronic",
+      "number": "6104",
       "heading": "transactions.",
       "text": "transactions.",
       "history": "",
@@ -1268,7 +1268,7 @@
     },
     {
       "id": "section-6201scope",
-      "number": "6201.Scope",
+      "number": "6201",
       "heading": "of chapter.",
       "text": "of chapter.",
       "history": "",
@@ -1276,15 +1276,15 @@
     },
     {
       "id": "section-6202definitions",
-      "number": "6202.Definitions",
-      "heading": "",
+      "number": "6202",
+      "heading": "Definitions",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-6203authority",
-      "number": "6203.Authority",
+      "number": "6203",
       "heading": "of department.",
       "text": "of department.",
       "history": "",
@@ -1292,23 +1292,23 @@
     },
     {
       "id": "section-6204records",
-      "number": "6204.Records",
-      "heading": "",
+      "number": "6204",
+      "heading": "Records",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-6205appeals",
-      "number": "6205.Appeals",
-      "heading": "",
+      "number": "6205",
+      "heading": "Appeals",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-6206deposit",
-      "number": "6206.Deposit",
+      "number": "6206",
       "heading": "of fees and fines.",
       "text": "of fees and fines.",
       "history": "",
@@ -1316,7 +1316,7 @@
     },
     {
       "id": "section-6207distribution",
-      "number": "6207.Distribution",
+      "number": "6207",
       "heading": "of information.",
       "text": "of information.",
       "history": "",
@@ -1324,23 +1324,23 @@
     },
     {
       "id": "section-6208venue",
-      "number": "6208.Venue",
-      "heading": "",
+      "number": "6208",
+      "heading": "Venue",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-6209applicability",
-      "number": "6209.Applicability",
-      "heading": "",
-      "text": "",
+      "number": "6209",
+      "heading": "Applicability",
+      "text": "§ 6209. Applicability.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/pennsylvania/title-12/chapter-62/section-6209/"
     },
     {
       "id": "section-6210consumer",
-      "number": "6210.Consumer",
+      "number": "6210",
       "heading": "complaints.",
       "text": "complaints.",
       "history": "",
@@ -1348,7 +1348,7 @@
     },
     {
       "id": "section-6211general",
-      "number": "6211.General",
+      "number": "6211",
       "heading": "license rules.",
       "text": "license rules.",
       "history": "",
@@ -1356,7 +1356,7 @@
     },
     {
       "id": "section-6212initial",
-      "number": "6212.Initial",
+      "number": "6212",
       "heading": "license application.",
       "text": "license application.",
       "history": "",
@@ -1364,15 +1364,15 @@
     },
     {
       "id": "section-6213bond",
-      "number": "6213.Bond",
-      "heading": "",
+      "number": "6213",
+      "heading": "Bond",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-6214license",
-      "number": "6214.License",
+      "number": "6214",
       "heading": "fees.",
       "text": "fees.",
       "history": "",
@@ -1380,7 +1380,7 @@
     },
     {
       "id": "section-6215license",
-      "number": "6215.License",
+      "number": "6215",
       "heading": "certificate.",
       "text": "certificate.",
       "history": "",
@@ -1388,7 +1388,7 @@
     },
     {
       "id": "section-6216license",
-      "number": "6216.License",
+      "number": "6216",
       "heading": "renewal.",
       "text": "renewal.",
       "history": "",
@@ -1396,7 +1396,7 @@
     },
     {
       "id": "section-6217refusal",
-      "number": "6217.Refusal",
+      "number": "6217",
       "heading": "to issue license or license renewal.",
       "text": "to issue license or license renewal.",
       "history": "",
@@ -1404,7 +1404,7 @@
     },
     {
       "id": "section-6218revocation",
-      "number": "6218.Revocation",
+      "number": "6218",
       "heading": "or suspension of license.",
       "text": "or suspension of license.",
       "history": "",
@@ -1412,7 +1412,7 @@
     },
     {
       "id": "section-6219multiple",
-      "number": "6219.Multiple",
+      "number": "6219",
       "heading": "places of business.",
       "text": "places of business.",
       "history": "",
@@ -1420,47 +1420,47 @@
     },
     {
       "id": "section-6221requirements",
-      "number": "6221.Requirements",
-      "heading": "",
+      "number": "6221",
+      "heading": "Requirements",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-6222contents",
-      "number": "6222.Contents",
-      "heading": "",
+      "number": "6222",
+      "heading": "Contents",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-6223notice",
-      "number": "6223.Notice",
-      "heading": "",
+      "number": "6223",
+      "heading": "Notice",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-6224itemization",
-      "number": "6224.Itemization",
-      "heading": "",
+      "number": "6224",
+      "heading": "Itemization",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-6225disclosure",
-      "number": "6225.Disclosure",
-      "heading": "",
+      "number": "6225",
+      "heading": "Disclosure",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-6226heavy",
-      "number": "6226.Heavy",
+      "number": "6226",
       "heading": "commercial motor vehicle.",
       "text": "commercial motor vehicle.",
       "history": "",
@@ -1468,7 +1468,7 @@
     },
     {
       "id": "section-6227manufactured",
-      "number": "6227.Manufactured",
+      "number": "6227",
       "heading": "homes.",
       "text": "homes.",
       "history": "",
@@ -1476,7 +1476,7 @@
     },
     {
       "id": "section-6228prohibited",
-      "number": "6228.Prohibited",
+      "number": "6228",
       "heading": "provisions.",
       "text": "provisions.",
       "history": "",
@@ -1484,15 +1484,15 @@
     },
     {
       "id": "section-6229transfer",
-      "number": "6229.Transfer",
-      "heading": "",
+      "number": "6229",
+      "heading": "Transfer",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-6230statement",
-      "number": "6230.Statement",
+      "number": "6230",
       "heading": "of account to buyer.",
       "text": "of account to buyer.",
       "history": "",
@@ -1500,7 +1500,7 @@
     },
     {
       "id": "section-6231payment",
-      "number": "6231.Payment",
+      "number": "6231",
       "heading": "receipts.",
       "text": "receipts.",
       "history": "",
@@ -1508,7 +1508,7 @@
     },
     {
       "id": "section-6232release",
-      "number": "6232.Release",
+      "number": "6232",
       "heading": "of liens.",
       "text": "of liens.",
       "history": "",
@@ -1516,7 +1516,7 @@
     },
     {
       "id": "section-6233prohibited",
-      "number": "6233.Prohibited",
+      "number": "6233",
       "heading": "charges.",
       "text": "charges.",
       "history": "",
@@ -1524,7 +1524,7 @@
     },
     {
       "id": "section-6234waiver",
-      "number": "6234.Waiver",
+      "number": "6234",
       "heading": "of statutory protection prohibited.",
       "text": "of statutory protection prohibited.",
       "history": "",
@@ -1532,7 +1532,7 @@
     },
     {
       "id": "section-6235effect",
-      "number": "6235.Effect",
+      "number": "6235",
       "heading": "of license expiration, surrender and revocation on contracts.",
       "text": "of license expiration, surrender and revocation on contracts.",
       "history": "",
@@ -1540,23 +1540,23 @@
     },
     {
       "id": "section-6236enforcement",
-      "number": "6236.Enforcement",
-      "heading": "",
+      "number": "6236",
+      "heading": "Enforcement",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-6241insurance",
-      "number": "6241.Insurance",
-      "heading": "",
+      "number": "6241",
+      "heading": "Insurance",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-6242other",
-      "number": "6242.Other",
+      "number": "6242",
       "heading": "costs included in amount financed.",
       "text": "costs included in amount financed.",
       "history": "",
@@ -1564,7 +1564,7 @@
     },
     {
       "id": "section-6243finance",
-      "number": "6243.Finance",
+      "number": "6243",
       "heading": "charges.",
       "text": "charges.",
       "history": "",
@@ -1572,7 +1572,7 @@
     },
     {
       "id": "section-6244refinance",
-      "number": "6244.Refinance",
+      "number": "6244",
       "heading": "charges.",
       "text": "charges.",
       "history": "",
@@ -1580,7 +1580,7 @@
     },
     {
       "id": "section-6245late",
-      "number": "6245.Late",
+      "number": "6245",
       "heading": "charges.",
       "text": "charges.",
       "history": "",
@@ -1588,7 +1588,7 @@
     },
     {
       "id": "section-6246refund",
-      "number": "6246.Refund",
+      "number": "6246",
       "heading": "for prepayment of contract.",
       "text": "for prepayment of contract.",
       "history": "",
@@ -1596,7 +1596,7 @@
     },
     {
       "id": "section-6251repossession",
-      "number": "6251.Repossession",
+      "number": "6251",
       "heading": "authorized.",
       "text": "authorized.",
       "history": "",
@@ -1604,7 +1604,7 @@
     },
     {
       "id": "section-6252who",
-      "number": "6252.Who",
+      "number": "6252",
       "heading": "may repossess.",
       "text": "may repossess.",
       "history": "",
@@ -1612,7 +1612,7 @@
     },
     {
       "id": "section-6253legal",
-      "number": "6253.Legal",
+      "number": "6253",
       "heading": "proceedings.",
       "text": "proceedings.",
       "history": "",
@@ -1620,7 +1620,7 @@
     },
     {
       "id": "section-6254notice",
-      "number": "6254.Notice",
+      "number": "6254",
       "heading": "of repossession.",
       "text": "of repossession.",
       "history": "",
@@ -1628,7 +1628,7 @@
     },
     {
       "id": "section-6255personal",
-      "number": "6255.Personal",
+      "number": "6255",
       "heading": "property in repossessed motor vehicle.",
       "text": "property in repossessed motor vehicle.",
       "history": "",
@@ -1636,7 +1636,7 @@
     },
     {
       "id": "section-6257notice",
-      "number": "6257.Notice",
+      "number": "6257",
       "heading": "to police.",
       "text": "to police.",
       "history": "",
@@ -1644,7 +1644,7 @@
     },
     {
       "id": "section-6258reinstatement",
-      "number": "6258.Reinstatement",
+      "number": "6258",
       "heading": "of contract after repossession.",
       "text": "of contract after repossession.",
       "history": "",
@@ -1652,7 +1652,7 @@
     },
     {
       "id": "section-6259redemption",
-      "number": "6259.Redemption",
+      "number": "6259",
       "heading": "and termination of contract after repossession.",
       "text": "and termination of contract after repossession.",
       "history": "",
@@ -1660,7 +1660,7 @@
     },
     {
       "id": "section-6260sale",
-      "number": "6260.Sale",
+      "number": "6260",
       "heading": "of motor vehicle after repossession.",
       "text": "of motor vehicle after repossession.",
       "history": "",
@@ -1668,7 +1668,7 @@
     },
     {
       "id": "section-6261deficiency",
-      "number": "6261.Deficiency",
+      "number": "6261",
       "heading": "judgment.",
       "text": "judgment.",
       "history": "",
@@ -1676,7 +1676,7 @@
     },
     {
       "id": "section-6262procedures",
-      "number": "6262.Procedures",
+      "number": "6262",
       "heading": "for manufactured homes.",
       "text": "for manufactured homes.",
       "history": "",
@@ -1684,7 +1684,7 @@
     },
     {
       "id": "section-6271operating",
-      "number": "6271.Operating",
+      "number": "6271",
       "heading": "without license.",
       "text": "without license.",
       "history": "",
@@ -1692,7 +1692,7 @@
     },
     {
       "id": "section-6272violation",
-      "number": "6272.Violation",
+      "number": "6272",
       "heading": "of chapter provisions.",
       "text": "of chapter provisions.",
       "history": "",
@@ -1700,7 +1700,7 @@
     },
     {
       "id": "section-6273use",
-      "number": "6273.Use",
+      "number": "6273",
       "heading": "of unlicensed collector-repossessor.",
       "text": "of unlicensed collector-repossessor.",
       "history": "",
@@ -1708,7 +1708,7 @@
     },
     {
       "id": "section-6274civil",
-      "number": "6274.Civil",
+      "number": "6274",
       "heading": "penalty by department.",
       "text": "penalty by department.",
       "history": "",
@@ -1716,7 +1716,7 @@
     },
     {
       "id": "section-6275liability",
-      "number": "6275.Liability",
+      "number": "6275",
       "heading": "of sales finance company.",
       "text": "of sales finance company.",
       "history": "",
@@ -1724,7 +1724,7 @@
     },
     {
       "id": "section-6301scope",
-      "number": "6301.Scope",
+      "number": "6301",
       "heading": "of chapter.",
       "text": "of chapter.",
       "history": "",
@@ -1732,31 +1732,31 @@
     },
     {
       "id": "section-6302definitions",
-      "number": "6302.Definitions",
-      "heading": "",
+      "number": "6302",
+      "heading": "Definitions",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-6303waiver",
-      "number": "6303.Waiver",
-      "heading": "",
+      "number": "6303",
+      "heading": "Waiver",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-6304applicability",
-      "number": "6304.Applicability",
-      "heading": "",
-      "text": "",
+      "number": "6304",
+      "heading": "Applicability",
+      "text": "§ 6304. Applicability.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/pennsylvania/title-12/chapter-63/section-6304/"
     },
     {
       "id": "section-6305prohibited",
-      "number": "6305.Prohibited",
+      "number": "6305",
       "heading": "activities and provisions.",
       "text": "activities and provisions.",
       "history": "",
@@ -1764,23 +1764,23 @@
     },
     {
       "id": "section-6306assignment",
-      "number": "6306.Assignment",
-      "heading": "",
+      "number": "6306",
+      "heading": "Assignment",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-6307venue",
-      "number": "6307.Venue",
-      "heading": "",
+      "number": "6307",
+      "heading": "Venue",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-6308attorney",
-      "number": "6308.Attorney",
+      "number": "6308",
       "heading": "fees and costs.",
       "text": "fees and costs.",
       "history": "",
@@ -1788,23 +1788,23 @@
     },
     {
       "id": "section-6310lien",
-      "number": "6310.Lien",
-      "heading": "",
+      "number": "6310",
+      "heading": "Lien",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-6311validity",
-      "number": "6311.Validity",
-      "heading": "",
+      "number": "6311",
+      "heading": "Validity",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-6312discharge",
-      "number": "6312.Discharge",
+      "number": "6312",
       "heading": "of obligation.",
       "text": "of obligation.",
       "history": "",
@@ -1812,7 +1812,7 @@
     },
     {
       "id": "section-6313prepayment",
-      "number": "6313.Prepayment",
+      "number": "6313",
       "heading": "of obligation.",
       "text": "of obligation.",
       "history": "",
@@ -1820,7 +1820,7 @@
     },
     {
       "id": "section-6314acknowledgment",
-      "number": "6314.Acknowledgment",
+      "number": "6314",
       "heading": "of payment in full.",
       "text": "of payment in full.",
       "history": "",
@@ -1828,7 +1828,7 @@
     },
     {
       "id": "section-6321general",
-      "number": "6321.General",
+      "number": "6321",
       "heading": "rules.",
       "text": "rules.",
       "history": "",
@@ -1836,15 +1836,15 @@
     },
     {
       "id": "section-6322contents",
-      "number": "6322.Contents",
-      "heading": "",
+      "number": "6322",
+      "heading": "Contents",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-6323copy",
-      "number": "6323.Copy",
+      "number": "6323",
       "heading": "of agreement.",
       "text": "of agreement.",
       "history": "",
@@ -1852,7 +1852,7 @@
     },
     {
       "id": "section-6324agreement",
-      "number": "6324.Agreement",
+      "number": "6324",
       "heading": "resulting from telephone or mail communications.",
       "text": "resulting from telephone or mail communications.",
       "history": "",
@@ -1860,7 +1860,7 @@
     },
     {
       "id": "section-6325purchase",
-      "number": "6325.Purchase",
+      "number": "6325",
       "heading": "money loan; notice.",
       "text": "money loan; notice.",
       "history": "",
@@ -1868,7 +1868,7 @@
     },
     {
       "id": "section-6326statement",
-      "number": "6326.Statement",
+      "number": "6326",
       "heading": "to buyer.",
       "text": "to buyer.",
       "history": "",
@@ -1876,15 +1876,15 @@
     },
     {
       "id": "section-6327refinancing",
-      "number": "6327.Refinancing",
-      "heading": "",
+      "number": "6327",
+      "heading": "Refinancing",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-6328new",
-      "number": "6328.New",
+      "number": "6328",
       "heading": "payment schedule.",
       "text": "payment schedule.",
       "history": "",
@@ -1892,7 +1892,7 @@
     },
     {
       "id": "section-6329add-on",
-      "number": "6329.Add-on",
+      "number": "6329",
       "heading": "sales.",
       "text": "sales.",
       "history": "",
@@ -1900,15 +1900,15 @@
     },
     {
       "id": "section-6332requirements",
-      "number": "6332.Requirements",
-      "heading": "",
-      "text": "",
+      "number": "6332",
+      "heading": "Requirements",
+      "text": "§ 6332. Requirements.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/pennsylvania/title-12/chapter-63/section-6332/"
     },
     {
       "id": "section-6333applicability",
-      "number": "6333.Applicability",
+      "number": "6333",
       "heading": "and effect of subchapter.",
       "text": "and effect of subchapter.",
       "history": "",
@@ -1916,23 +1916,23 @@
     },
     {
       "id": "section-6341applicability",
-      "number": "6341.Applicability",
-      "heading": "",
-      "text": "",
+      "number": "6341",
+      "heading": "Applicability",
+      "text": "§ 6341. Adjudication.",
       "history": "",
-      "source_url": ""
+      "source_url": "https://law.justia.com/codes/pennsylvania/title-12/chapter-63/section-6341/"
     },
     {
       "id": "section-6342insurance",
-      "number": "6342.Insurance",
-      "heading": "",
+      "number": "6342",
+      "heading": "Insurance",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-6343late",
-      "number": "6343.Late",
+      "number": "6343",
       "heading": "fees.",
       "text": "fees.",
       "history": "",
@@ -1940,7 +1940,7 @@
     },
     {
       "id": "section-6344costs",
-      "number": "6344.Costs",
+      "number": "6344",
       "heading": "of collection.",
       "text": "of collection.",
       "history": "",
@@ -1948,7 +1948,7 @@
     },
     {
       "id": "section-6345finance",
-      "number": "6345.Finance",
+      "number": "6345",
       "heading": "charges.",
       "text": "charges.",
       "history": "",
@@ -1956,7 +1956,7 @@
     },
     {
       "id": "section-6346costs",
-      "number": "6346.Costs",
+      "number": "6346",
       "heading": "from nonaffiliated entity.",
       "text": "from nonaffiliated entity.",
       "history": "",
@@ -1964,7 +1964,7 @@
     },
     {
       "id": "section-6347extension",
-      "number": "6347.Extension",
+      "number": "6347",
       "heading": "and deferment.",
       "text": "and deferment.",
       "history": "",
@@ -1972,7 +1972,7 @@
     },
     {
       "id": "section-6348interest",
-      "number": "6348.Interest",
+      "number": "6348",
       "heading": "rate after maturity.",
       "text": "rate after maturity.",
       "history": "",
@@ -1980,7 +1980,7 @@
     },
     {
       "id": "section-6351willful",
-      "number": "6351.Willful",
+      "number": "6351",
       "heading": "and intentional violations.",
       "text": "and intentional violations.",
       "history": "",
@@ -1988,7 +1988,7 @@
     },
     {
       "id": "section-6353willful",
-      "number": "6353.Willful",
+      "number": "6353",
       "heading": "violations regarding finance charges.",
       "text": "violations regarding finance charges.",
       "history": "",
@@ -1996,15 +1996,15 @@
     },
     {
       "id": "section-6354corrections",
-      "number": "6354.Corrections",
-      "heading": "",
+      "number": "6354",
+      "heading": "Corrections",
       "text": "",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-6355unfair",
-      "number": "6355.Unfair",
+      "number": "6355",
       "heading": "trade practice.",
       "text": "trade practice.",
       "history": "",
@@ -2012,7 +2012,7 @@
     },
     {
       "id": "section-9701continuity",
-      "number": "9701.Continuity",
+      "number": "9701",
       "heading": "of contract under European Monetary Union.",
       "text": "of contract under European Monetary Union.",
       "history": "",
@@ -2020,7 +2020,7 @@
     },
     {
       "id": "section-9801assembled",
-      "number": "9801.Assembled",
+      "number": "9801",
       "heading": "industrial plant doctrine abolished.",
       "text": "industrial plant doctrine abolished.",
       "history": "",
@@ -2028,7 +2028,7 @@
     },
     {
       "id": "section-23101",
-      "number": "2310.1.",
+      "number": "2310.1",
       "heading": "Delegation.",
       "text": "Delegation.",
       "history": "",
@@ -2044,7 +2044,7 @@
     },
     {
       "id": "section-2909",
-      "number": "2909.",
+      "number": "2909",
       "heading": "Nondiscrimination (Deleted by amendment).",
       "text": "Nondiscrimination (Deleted by amendment).",
       "history": "",
@@ -2052,7 +2052,7 @@
     },
     {
       "id": "section-3204",
-      "number": "3204.",
+      "number": "3204",
       "heading": "Determination of Pennsylvania rehearsal and tour expenses.",
       "text": "Determination of Pennsylvania rehearsal and tour expenses.",
       "history": "",
@@ -2060,7 +2060,7 @@
     },
     {
       "id": "section-3207",
-      "number": "3207.",
+      "number": "3207",
       "heading": "Carryover, carryback and assignment of tax credit.",
       "text": "Carryover, carryback and assignment of tax credit.",
       "history": "",
@@ -2068,7 +2068,7 @@
     },
     {
       "id": "section-4310",
-      "number": "4310.",
+      "number": "4310",
       "heading": "Joint implementation.",
       "text": "Joint implementation.",
       "history": "",
@@ -2076,7 +2076,7 @@
     },
     {
       "id": "section-5607",
-      "number": "5607.",
+      "number": "5607",
       "heading": "Notice of default to occupant.",
       "text": "Notice of default to occupant.",
       "history": "",
@@ -2084,7 +2084,7 @@
     },
     {
       "id": "section-5610",
-      "number": "5610.",
+      "number": "5610",
       "heading": "Payment and satisfaction.",
       "text": "Payment and satisfaction.",
       "history": "",
@@ -2092,7 +2092,7 @@
     },
     {
       "id": "section-5616",
-      "number": "5616.",
+      "number": "5616",
       "heading": "Limitation on liability of owner.",
       "text": "Limitation on liability of owner.",
       "history": "",
@@ -2100,7 +2100,7 @@
     },
     {
       "id": "section-5617",
-      "number": "5617.",
+      "number": "5617",
       "heading": "Effect of unsigned rental agreement.",
       "text": "Effect of unsigned rental agreement.",
       "history": "",
@@ -2108,7 +2108,7 @@
     },
     {
       "id": "section-5618",
-      "number": "5618.",
+      "number": "5618",
       "heading": "Termination or nonrenewal of rental agreement.",
       "text": "Termination or nonrenewal of rental agreement.",
       "history": "",
@@ -2116,7 +2116,7 @@
     },
     {
       "id": "section-6210",
-      "number": "6210.",
+      "number": "6210",
       "heading": "Consumer complaints.",
       "text": "Consumer complaints.",
       "history": "",
@@ -2124,7 +2124,7 @@
     },
     {
       "id": "section-6211",
-      "number": "6211.",
+      "number": "6211",
       "heading": "General license rules.",
       "text": "General license rules.",
       "history": "",
@@ -2132,7 +2132,7 @@
     },
     {
       "id": "section-6212",
-      "number": "6212.",
+      "number": "6212",
       "heading": "Initial license application.",
       "text": "Initial license application.",
       "history": "",
@@ -2140,7 +2140,7 @@
     },
     {
       "id": "section-6213",
-      "number": "6213.",
+      "number": "6213",
       "heading": "Bond.",
       "text": "Bond.",
       "history": "",
@@ -2148,7 +2148,7 @@
     },
     {
       "id": "section-6214",
-      "number": "6214.",
+      "number": "6214",
       "heading": "License fees.",
       "text": "License fees.",
       "history": "",
@@ -2156,7 +2156,7 @@
     },
     {
       "id": "section-6215",
-      "number": "6215.",
+      "number": "6215",
       "heading": "License certificate.",
       "text": "License certificate.",
       "history": "",
@@ -2164,7 +2164,7 @@
     },
     {
       "id": "section-6216",
-      "number": "6216.",
+      "number": "6216",
       "heading": "License renewal.",
       "text": "License renewal.",
       "history": "",
@@ -2172,7 +2172,7 @@
     },
     {
       "id": "section-6217",
-      "number": "6217.",
+      "number": "6217",
       "heading": "Refusal to issue license or license renewal.",
       "text": "Refusal to issue license or license renewal.",
       "history": "",
@@ -2180,7 +2180,7 @@
     },
     {
       "id": "section-6218",
-      "number": "6218.",
+      "number": "6218",
       "heading": "Revocation or suspension of license.",
       "text": "Revocation or suspension of license.",
       "history": "",
@@ -2188,7 +2188,7 @@
     },
     {
       "id": "section-6219",
-      "number": "6219.",
+      "number": "6219",
       "heading": "Multiple places of business.",
       "text": "Multiple places of business.",
       "history": "",
@@ -2196,7 +2196,7 @@
     },
     {
       "id": "section-6221",
-      "number": "6221.",
+      "number": "6221",
       "heading": "Requirements.",
       "text": "Requirements.",
       "history": "",
@@ -2204,7 +2204,7 @@
     },
     {
       "id": "section-6222",
-      "number": "6222.",
+      "number": "6222",
       "heading": "Contents.",
       "text": "Contents.",
       "history": "",
@@ -2212,7 +2212,7 @@
     },
     {
       "id": "section-6223",
-      "number": "6223.",
+      "number": "6223",
       "heading": "Notice.",
       "text": "Notice.",
       "history": "",
@@ -2220,7 +2220,7 @@
     },
     {
       "id": "section-6224",
-      "number": "6224.",
+      "number": "6224",
       "heading": "Itemization.",
       "text": "Itemization.",
       "history": "",
@@ -2228,7 +2228,7 @@
     },
     {
       "id": "section-6225",
-      "number": "6225.",
+      "number": "6225",
       "heading": "Disclosure.",
       "text": "Disclosure.",
       "history": "",
@@ -2236,7 +2236,7 @@
     },
     {
       "id": "section-6226",
-      "number": "6226.",
+      "number": "6226",
       "heading": "Heavy commercial motor vehicle.",
       "text": "Heavy commercial motor vehicle.",
       "history": "",
@@ -2244,7 +2244,7 @@
     },
     {
       "id": "section-6227",
-      "number": "6227.",
+      "number": "6227",
       "heading": "Manufactured homes.",
       "text": "Manufactured homes.",
       "history": "",
@@ -2252,7 +2252,7 @@
     },
     {
       "id": "section-6228",
-      "number": "6228.",
+      "number": "6228",
       "heading": "Prohibited provisions.",
       "text": "Prohibited provisions.",
       "history": "",
@@ -2260,7 +2260,7 @@
     },
     {
       "id": "section-6229",
-      "number": "6229.",
+      "number": "6229",
       "heading": "Transfer.",
       "text": "Transfer.",
       "history": "",
@@ -2268,7 +2268,7 @@
     },
     {
       "id": "section-6230",
-      "number": "6230.",
+      "number": "6230",
       "heading": "Statement of account to buyer.",
       "text": "Statement of account to buyer.",
       "history": "",
@@ -2276,7 +2276,7 @@
     },
     {
       "id": "section-6231",
-      "number": "6231.",
+      "number": "6231",
       "heading": "Payment receipts.",
       "text": "Payment receipts.",
       "history": "",
@@ -2284,7 +2284,7 @@
     },
     {
       "id": "section-6232",
-      "number": "6232.",
+      "number": "6232",
       "heading": "Release of liens.",
       "text": "Release of liens.",
       "history": "",
@@ -2292,7 +2292,7 @@
     },
     {
       "id": "section-6233",
-      "number": "6233.",
+      "number": "6233",
       "heading": "Prohibited charges.",
       "text": "Prohibited charges.",
       "history": "",
@@ -2300,7 +2300,7 @@
     },
     {
       "id": "section-6234",
-      "number": "6234.",
+      "number": "6234",
       "heading": "Waiver of statutory protection prohibited.",
       "text": "Waiver of statutory protection prohibited.",
       "history": "",
@@ -2308,7 +2308,7 @@
     },
     {
       "id": "section-6235",
-      "number": "6235.",
+      "number": "6235",
       "heading": "Effect of license expiration, surrender and revocation on contracts.",
       "text": "Effect of license expiration, surrender and revocation on contracts.",
       "history": "",
@@ -2316,7 +2316,7 @@
     },
     {
       "id": "section-6236",
-      "number": "6236.",
+      "number": "6236",
       "heading": "Enforcement.",
       "text": "Enforcement.",
       "history": "",
@@ -2324,7 +2324,7 @@
     },
     {
       "id": "section-6241",
-      "number": "6241.",
+      "number": "6241",
       "heading": "Insurance.",
       "text": "Insurance.",
       "history": "",
@@ -2332,7 +2332,7 @@
     },
     {
       "id": "section-6242",
-      "number": "6242.",
+      "number": "6242",
       "heading": "Other costs included in amount financed.",
       "text": "Other costs included in amount financed.",
       "history": "",
@@ -2340,7 +2340,7 @@
     },
     {
       "id": "section-6243",
-      "number": "6243.",
+      "number": "6243",
       "heading": "Finance charges.",
       "text": "Finance charges.",
       "history": "",
@@ -2348,7 +2348,7 @@
     },
     {
       "id": "section-6244",
-      "number": "6244.",
+      "number": "6244",
       "heading": "Refinance charges.",
       "text": "Refinance charges.",
       "history": "",
@@ -2356,7 +2356,7 @@
     },
     {
       "id": "section-6245",
-      "number": "6245.",
+      "number": "6245",
       "heading": "Late charges.",
       "text": "Late charges.",
       "history": "",
@@ -2364,7 +2364,7 @@
     },
     {
       "id": "section-6246",
-      "number": "6246.",
+      "number": "6246",
       "heading": "Refund for prepayment of contract.",
       "text": "Refund for prepayment of contract.",
       "history": "",
@@ -2372,7 +2372,7 @@
     },
     {
       "id": "section-6251",
-      "number": "6251.",
+      "number": "6251",
       "heading": "Repossession authorized.",
       "text": "Repossession authorized.",
       "history": "",
@@ -2380,7 +2380,7 @@
     },
     {
       "id": "section-6252",
-      "number": "6252.",
+      "number": "6252",
       "heading": "Who may repossess.",
       "text": "Who may repossess.",
       "history": "",
@@ -2388,7 +2388,7 @@
     },
     {
       "id": "section-6253",
-      "number": "6253.",
+      "number": "6253",
       "heading": "Legal proceedings.",
       "text": "Legal proceedings.",
       "history": "",
@@ -2396,7 +2396,7 @@
     },
     {
       "id": "section-6254",
-      "number": "6254.",
+      "number": "6254",
       "heading": "Notice of repossession.",
       "text": "Notice of repossession.",
       "history": "",
@@ -2404,7 +2404,7 @@
     },
     {
       "id": "section-6255",
-      "number": "6255.",
+      "number": "6255",
       "heading": "Personal property in repossessed motor vehicle.",
       "text": "Personal property in repossessed motor vehicle.",
       "history": "",
@@ -2412,7 +2412,7 @@
     },
     {
       "id": "section-6256",
-      "number": "6256.",
+      "number": "6256",
       "heading": "Buyer's liability for costs.",
       "text": "Buyer's liability for costs.",
       "history": "",
@@ -2420,7 +2420,7 @@
     },
     {
       "id": "section-6257",
-      "number": "6257.",
+      "number": "6257",
       "heading": "Notice to police.",
       "text": "Notice to police.",
       "history": "",
@@ -2428,7 +2428,7 @@
     },
     {
       "id": "section-6258",
-      "number": "6258.",
+      "number": "6258",
       "heading": "Reinstatement of contract after repossession.",
       "text": "Reinstatement of contract after repossession.",
       "history": "",
@@ -2436,7 +2436,7 @@
     },
     {
       "id": "section-6259",
-      "number": "6259.",
+      "number": "6259",
       "heading": "Redemption and termination of contract after repossession.",
       "text": "Redemption and termination of contract after repossession.",
       "history": "",
@@ -2444,7 +2444,7 @@
     },
     {
       "id": "section-6260",
-      "number": "6260.",
+      "number": "6260",
       "heading": "Sale of motor vehicle after repossession.",
       "text": "Sale of motor vehicle after repossession.",
       "history": "",
@@ -2452,7 +2452,7 @@
     },
     {
       "id": "section-6261",
-      "number": "6261.",
+      "number": "6261",
       "heading": "Deficiency judgment.",
       "text": "Deficiency judgment.",
       "history": "",
@@ -2460,7 +2460,7 @@
     },
     {
       "id": "section-6262",
-      "number": "6262.",
+      "number": "6262",
       "heading": "Procedures for manufactured homes.",
       "text": "Procedures for manufactured homes.",
       "history": "",
@@ -2468,7 +2468,7 @@
     },
     {
       "id": "section-6271",
-      "number": "6271.",
+      "number": "6271",
       "heading": "Operating without license.",
       "text": "Operating without license.",
       "history": "",
@@ -2476,7 +2476,7 @@
     },
     {
       "id": "section-6272",
-      "number": "6272.",
+      "number": "6272",
       "heading": "Violation of chapter provisions.",
       "text": "Violation of chapter provisions.",
       "history": "",
@@ -2484,7 +2484,7 @@
     },
     {
       "id": "section-6273",
-      "number": "6273.",
+      "number": "6273",
       "heading": "Use of unlicensed collector-repossessor.",
       "text": "Use of unlicensed collector-repossessor.",
       "history": "",
@@ -2492,7 +2492,7 @@
     },
     {
       "id": "section-6274",
-      "number": "6274.",
+      "number": "6274",
       "heading": "Civil penalty by department.",
       "text": "Civil penalty by department.",
       "history": "",
@@ -2500,7 +2500,7 @@
     },
     {
       "id": "section-6275",
-      "number": "6275.",
+      "number": "6275",
       "heading": "Liability of sales finance company.",
       "text": "Liability of sales finance company.",
       "history": "",
@@ -2508,7 +2508,7 @@
     },
     {
       "id": "section-6309",
-      "number": "6309.",
+      "number": "6309",
       "heading": "Repossession; acceleration; right to cure.",
       "text": "Repossession; acceleration; right to cure.",
       "history": "",
@@ -2516,7 +2516,7 @@
     },
     {
       "id": "section-6324",
-      "number": "6324.",
+      "number": "6324",
       "heading": "Agreement resulting from telephone or mail communications.",
       "text": "Agreement resulting from telephone or mail communications.",
       "history": "",
@@ -2524,7 +2524,7 @@
     },
     {
       "id": "section-6325",
-      "number": "6325.",
+      "number": "6325",
       "heading": "Purchase money loan; notice.",
       "text": "Purchase money loan; notice.",
       "history": "",
@@ -2532,7 +2532,7 @@
     },
     {
       "id": "section-6333",
-      "number": "6333.",
+      "number": "6333",
       "heading": "Applicability and effect of subchapter.",
       "text": "Applicability and effect of subchapter.",
       "history": "",
@@ -2540,7 +2540,7 @@
     },
     {
       "id": "section-6346",
-      "number": "6346.",
+      "number": "6346",
       "heading": "Costs from nonaffiliated entity.",
       "text": "Costs from nonaffiliated entity.",
       "history": "",
@@ -2548,7 +2548,7 @@
     },
     {
       "id": "section-6348",
-      "number": "6348.",
+      "number": "6348",
       "heading": "Interest rate after maturity.",
       "text": "Interest rate after maturity.",
       "history": "",
@@ -2556,7 +2556,7 @@
     },
     {
       "id": "section-6351",
-      "number": "6351.",
+      "number": "6351",
       "heading": "Willful and intentional violations.",
       "text": "Willful and intentional violations.",
       "history": "",
@@ -2564,7 +2564,7 @@
     },
     {
       "id": "section-6352",
-      "number": "6352.",
+      "number": "6352",
       "heading": "Noncompliance; costs and charges.",
       "text": "Noncompliance; costs and charges.",
       "history": "",
@@ -2572,7 +2572,7 @@
     },
     {
       "id": "section-9701",
-      "number": "9701.",
+      "number": "9701",
       "heading": "Continuity of contract under European monetary union.",
       "text": "Continuity of contract under European monetary union.",
       "history": "",
@@ -2580,7 +2580,7 @@
     },
     {
       "id": "section-9801",
-      "number": "9801.",
+      "number": "9801",
       "heading": "Assembled industrial plant doctrine abolished.",
       "text": "Assembled industrial plant doctrine abolished.",
       "history": "",
