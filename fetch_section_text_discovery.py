@@ -171,13 +171,24 @@ def discover_section_urls(state: str) -> list[tuple[str, str, str, str]]:
         # Check for year-versioned index
         soup = BeautifulSoup(index_html, "html.parser")
         code_links = []
+        def is_valid_code_link(href, text, state):
+            """Check if a link is a valid code/title/chapter link."""
+            if not text or text == "Next" or len(text) < 3:
+                return False
+            if not (href.startswith(f"/codes/{state}/") or
+                    href.startswith(f"https://law.justia.com/codes/{state}/")):
+                return False
+            if re.search(r"/\d{4}/", href):
+                return False
+            normalized = href.rstrip("/")
+            if normalized.endswith(f"/codes/{state}"):
+                return False
+            return True
+
         for a in soup.find_all("a", href=True):
             href = a["href"]
             text = a.get_text(strip=True)
-            if (f"/codes/{state}/" in href and
-                    not re.search(r"/\d{4}/", href) and
-                    text and text != "Next" and
-                    href != f"/codes/{state}/"):
+            if is_valid_code_link(href, text, state):
                 full = urljoin("https://law.justia.com/", href)
                 if full not in seen:
                     seen.add(full)
@@ -185,24 +196,23 @@ def discover_section_urls(state: str) -> list[tuple[str, str, str, str]]:
 
         # If no non-year links, fetch latest year page
         if not code_links:
-            for year in ["2025", "2024", "2023", "2022"]:
+            for year in ["2026", "2025", "2024", "2023", "2022"]:
                 year_url = f"https://law.justia.com/codes/{state}/{year}/"
                 time.sleep(MIN_DELAY)
                 year_html = curl_fetch(year_url)
-                if year_html:
+                if year_html and "Just a moment" not in year_html[:2000]:
                     year_soup = BeautifulSoup(year_html, "html.parser")
                     for a in year_soup.find_all("a", href=True):
                         href = a["href"]
                         text = a.get_text(strip=True)
-                        if (f"/codes/{state}/" in href and
-                                not re.search(r"/\d{4}/", href) and
-                                text and text != "Next" and
-                                href != f"/codes/{state}/"):
+                        if is_valid_code_link(href, text, state):
                             full = urljoin("https://law.justia.com/", href)
                             if full not in seen:
                                 seen.add(full)
                                 code_links.append((full, text))
-                    break
+                    if code_links:
+                        logger.info("%s: found %d links from %s year page", state, len(code_links), year)
+                        break
 
         # Fetch code/title pages to find chapter URLs
         logger.info("%s: fetching %d code/title pages...", state, len(code_links))
@@ -217,9 +227,7 @@ def discover_section_urls(state: str) -> list[tuple[str, str, str, str]]:
             for a in code_soup.find_all("a", href=True):
                 href = a["href"]
                 text = a.get_text(strip=True)
-                if not text or f"/codes/{state}/" not in href or text == "Next":
-                    continue
-                if re.search(r"/\d{4}/", href):
+                if not is_valid_code_link(href, text, state):
                     continue
                 full = urljoin("https://law.justia.com/", href)
                 full_path = full.replace("https://law.justia.com/codes/", "").strip("/")
@@ -232,7 +240,7 @@ def discover_section_urls(state: str) -> list[tuple[str, str, str, str]]:
                     chapter_slug = parts[-1] if len(parts) > 1 else ""
 
                     # Check if this is a chapter (has section links) or title (has chapter links)
-                    if chapter_pat.search(href):
+                    if chapter_pat.search(href) or section_pat.search(href):
                         chapter_urls.append((full, text, title_slug, chapter_slug))
                     else:
                         # This might be a title page, need to go deeper
@@ -240,20 +248,25 @@ def discover_section_urls(state: str) -> list[tuple[str, str, str, str]]:
                         title_html = curl_fetch(full)
                         if title_html:
                             title_soup = BeautifulSoup(title_html, "html.parser")
+                            child_links = []
                             for a2 in title_soup.find_all("a", href=True):
                                 href2 = a2["href"]
                                 text2 = a2.get_text(strip=True)
-                                if (text2 and f"/codes/{state}/" in href2 and
-                                        chapter_pat.search(href2) and text2 != "Next"):
-                                    full2 = urljoin("https://law.justia.com/", href2)
-                                    if full2 not in seen:
-                                        seen.add(full2)
-                                        parts2 = full2.replace(f"https://law.justia.com/codes/{state}/", "").strip("/").split("/")
-                                        chapter_urls.append((
-                                            full2, text2,
-                                            parts2[0] if parts2 else title_slug,
-                                            parts2[-1] if len(parts2) > 1 else "",
-                                        ))
+                                if not is_valid_code_link(href2, text2, state):
+                                    continue
+                                full2 = urljoin("https://law.justia.com/", href2)
+                                full2_path = full2.replace("https://law.justia.com/codes/", "").strip("/")
+                                code_path_here = full.replace("https://law.justia.com/codes/", "").strip("/")
+                                if full2_path.startswith(code_path_here + "/") and full2 not in seen:
+                                    seen.add(full2)
+                                    parts2 = full2.replace(f"https://law.justia.com/codes/{state}/", "").strip("/").split("/")
+                                    child_links.append((
+                                        full2, text2,
+                                        parts2[0] if parts2 else title_slug,
+                                        parts2[-1] if len(parts2) > 1 else "",
+                                    ))
+                            # Add all child links as chapter URLs (they could be chapters or sections)
+                            chapter_urls.extend(child_links)
 
     logger.info("%s: found %d chapter URLs", state, len(chapter_urls))
 
