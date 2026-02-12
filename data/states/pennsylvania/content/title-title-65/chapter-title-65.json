@@ -3,18 +3,34 @@
   "path": "title-title-65/chapter-title-65",
   "sections": [
     {
-      "id": "section-701short",
-      "number": "701.Short",
-      "heading": "title of chapter.",
-      "text": "title of chapter.",
+      "id": "section-13a01",
+      "number": "13A01.",
+      "heading": "Scope of chapter.",
+      "text": "Scope of chapter.",
       "history": "",
       "source_url": ""
     },
     {
-      "id": "section-701",
-      "number": "701",
-      "heading": "",
-      "text": "",
+      "id": "section-13a02",
+      "number": "13A02.",
+      "heading": "Statement of intent and jurisdiction.",
+      "text": "Statement of intent and jurisdiction.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-713",
+      "number": "713.",
+      "heading": "Business transacted at unauthorized meeting void.",
+      "text": "Business transacted at unauthorized meeting void.",
+      "history": "",
+      "source_url": ""
+    },
+    {
+      "id": "section-1301",
+      "number": "1301-",
+      "heading": "1311 (Deleted by amendment)",
+      "text": "1311 (Deleted by amendment)",
       "history": "",
       "source_url": ""
     },
@@ -27,24 +43,8 @@
       "source_url": ""
     },
     {
-      "id": "section-702",
-      "number": "702",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
       "id": "section-703definitions",
       "number": "703.Definitions",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-703",
-      "number": "703",
       "heading": "",
       "text": "",
       "history": "",
@@ -59,26 +59,10 @@
       "source_url": ""
     },
     {
-      "id": "section-704",
-      "number": "704",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
       "id": "section-705recording",
       "number": "705.Recording",
       "heading": "of votes.",
       "text": "of votes.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-705",
-      "number": "705",
-      "heading": "",
-      "text": "",
       "history": "",
       "source_url": ""
     },
@@ -91,26 +75,10 @@
       "source_url": ""
     },
     {
-      "id": "section-706",
-      "number": "706",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
       "id": "section-707exceptions",
       "number": "707.Exceptions",
       "heading": "to open meetings.",
       "text": "to open meetings.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-707",
-      "number": "707",
-      "heading": "",
-      "text": "",
       "history": "",
       "source_url": ""
     },
@@ -123,26 +91,10 @@
       "source_url": ""
     },
     {
-      "id": "section-708",
-      "number": "708",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
       "id": "section-709public",
       "number": "709.Public",
       "heading": "notice.",
       "text": "notice.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-709",
-      "number": "709",
-      "heading": "",
-      "text": "",
       "history": "",
       "source_url": ""
     },
@@ -155,26 +107,10 @@
       "source_url": ""
     },
     {
-      "id": "section-710",
-      "number": "710",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
       "id": "section-7101public",
       "number": "710.1.Public",
       "heading": "participation.",
       "text": "participation.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-7101",
-      "number": "710.1",
-      "heading": "",
-      "text": "",
       "history": "",
       "source_url": ""
     },
@@ -187,26 +123,10 @@
       "source_url": ""
     },
     {
-      "id": "section-711",
-      "number": "711",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
       "id": "section-712general",
       "number": "712.General",
       "heading": "Assembly meetings covered.",
       "text": "Assembly meetings covered.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-712",
-      "number": "712",
-      "heading": "",
-      "text": "",
       "history": "",
       "source_url": ""
     },
@@ -219,14 +139,6 @@
       "source_url": ""
     },
     {
-      "id": "section-7121",
-      "number": "712.1",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
       "id": "section-713business",
       "number": "713.Business",
       "heading": "transacted at unauthorized meeting void.",
@@ -235,24 +147,8 @@
       "source_url": ""
     },
     {
-      "id": "section-713",
-      "number": "713",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
       "id": "section-714penalty",
       "number": "714.Penalty",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-714",
-      "number": "714",
       "heading": "",
       "text": "",
       "history": "",
@@ -267,14 +163,6 @@
       "source_url": ""
     },
     {
-      "id": "section-7141",
-      "number": "714.1",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
       "id": "section-715jurisdiction",
       "number": "715.Jurisdiction",
       "heading": "and venue of judicial proceedings.",
@@ -283,40 +171,8 @@
       "source_url": ""
     },
     {
-      "id": "section-715",
-      "number": "715",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
       "id": "section-716confidentiality",
       "number": "716.Confidentiality",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-716",
-      "number": "716",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-1101short",
-      "number": "1101.Short",
-      "heading": "title of chapter.",
-      "text": "title of chapter.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-1101",
-      "number": "1101",
       "heading": "",
       "text": "",
       "history": "",
@@ -331,42 +187,10 @@
       "source_url": ""
     },
     {
-      "id": "section-11011",
-      "number": "1101.1",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-1102definitions",
-      "number": "1102.Definitions",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-1102",
-      "number": "1102",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
       "id": "section-1103restricted",
       "number": "1103.Restricted",
       "heading": "activities.",
       "text": "activities.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-1103",
-      "number": "1103",
-      "heading": "",
-      "text": "",
       "history": "",
       "source_url": ""
     },
@@ -379,26 +203,10 @@
       "source_url": ""
     },
     {
-      "id": "section-1104",
-      "number": "1104",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
       "id": "section-1105statement",
       "number": "1105.Statement",
       "heading": "of financial interests.",
       "text": "of financial interests.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-1105",
-      "number": "1105",
-      "heading": "",
-      "text": "",
       "history": "",
       "source_url": ""
     },
@@ -411,26 +219,10 @@
       "source_url": ""
     },
     {
-      "id": "section-1106",
-      "number": "1106",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
       "id": "section-1107powers",
       "number": "1107.Powers",
       "heading": "and duties of commission.",
       "text": "and duties of commission.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-1107",
-      "number": "1107",
-      "heading": "",
-      "text": "",
       "history": "",
       "source_url": ""
     },
@@ -443,24 +235,8 @@
       "source_url": ""
     },
     {
-      "id": "section-1108",
-      "number": "1108",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
       "id": "section-1109penalties",
       "number": "1109.Penalties",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-1109",
-      "number": "1109",
       "heading": "",
       "text": "",
       "history": "",
@@ -475,26 +251,10 @@
       "source_url": ""
     },
     {
-      "id": "section-1110",
-      "number": "1110",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
       "id": "section-1111supplemental",
       "number": "1111.Supplemental",
       "heading": "provisions.",
       "text": "provisions.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-1111",
-      "number": "1111",
-      "heading": "",
-      "text": "",
       "history": "",
       "source_url": ""
     },
@@ -507,34 +267,10 @@
       "source_url": ""
     },
     {
-      "id": "section-1112",
-      "number": "1112",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
       "id": "section-1113severability",
       "number": "1113.Severability",
       "heading": "",
       "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-1113",
-      "number": "1113",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-1301",
-      "number": "1301-",
-      "heading": "1311 (Deleted by amendment)",
-      "text": "1311 (Deleted by amendment)",
       "history": "",
       "source_url": ""
     },
@@ -547,14 +283,6 @@
       "source_url": ""
     },
     {
-      "id": "section-13a01",
-      "number": "13A01",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
       "id": "section-13a02statement",
       "number": "13A02.Statement",
       "heading": "of intent and jurisdiction.",
@@ -563,24 +291,8 @@
       "source_url": ""
     },
     {
-      "id": "section-13a02",
-      "number": "13A02",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
       "id": "section-13a03definitions",
       "number": "13A03.Definitions",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-13a03",
-      "number": "13A03",
       "heading": "",
       "text": "",
       "history": "",
@@ -595,24 +307,8 @@
       "source_url": ""
     },
     {
-      "id": "section-13a04",
-      "number": "13A04",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
       "id": "section-13a05reporting",
       "number": "13A05.Reporting",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-13a05",
-      "number": "13A05",
       "heading": "",
       "text": "",
       "history": "",
@@ -627,14 +323,6 @@
       "source_url": ""
     },
     {
-      "id": "section-13a06",
-      "number": "13A06",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
       "id": "section-13a07prohibited",
       "number": "13A07.Prohibited",
       "heading": "activities.",
@@ -643,24 +331,8 @@
       "source_url": ""
     },
     {
-      "id": "section-13a07",
-      "number": "13A07",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
       "id": "section-13a08administration",
       "number": "13A08.Administration",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-13a08",
-      "number": "13A08",
       "heading": "",
       "text": "",
       "history": "",
@@ -675,14 +347,6 @@
       "source_url": ""
     },
     {
-      "id": "section-13a09",
-      "number": "13A09",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
       "id": "section-13a10registration",
       "number": "13A10.Registration",
       "heading": "fees; fund established; system; regulations.",
@@ -691,24 +355,8 @@
       "source_url": ""
     },
     {
-      "id": "section-13a10",
-      "number": "13A10",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
       "id": "section-13a11nonapplicability",
       "number": "13A11.Nonapplicability",
-      "heading": "",
-      "text": "",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-13a11",
-      "number": "13A11",
       "heading": "",
       "text": "",
       "history": "",
@@ -739,274 +387,10 @@
       "source_url": ""
     },
     {
-      "id": "section-701",
-      "number": "701.",
-      "heading": "Short title of chapter.",
-      "text": "Short title of chapter.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-702",
-      "number": "702.",
-      "heading": "Legislative findings and declaration.",
-      "text": "Legislative findings and declaration.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-703",
-      "number": "703.",
-      "heading": "Definitions.",
-      "text": "Definitions.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-704",
-      "number": "704.",
-      "heading": "Open meetings.",
-      "text": "Open meetings.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-705",
-      "number": "705.",
-      "heading": "Recording of votes.",
-      "text": "Recording of votes.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-706",
-      "number": "706.",
-      "heading": "Minutes of meetings, public records and recording of meetings.",
-      "text": "Minutes of meetings, public records and recording of meetings.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-707",
-      "number": "707.",
-      "heading": "Exceptions to open meetings.",
-      "text": "Exceptions to open meetings.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-708",
-      "number": "708.",
-      "heading": "Executive sessions.",
-      "text": "Executive sessions.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-709",
-      "number": "709.",
-      "heading": "Public notice.",
-      "text": "Public notice.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-710",
-      "number": "710.",
-      "heading": "Rules and regulations for conduct of meetings.",
-      "text": "Rules and regulations for conduct of meetings.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-711",
-      "number": "711.",
-      "heading": "Use of equipment during meetings.",
-      "text": "Use of equipment during meetings.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-712",
-      "number": "712.",
-      "heading": "General Assembly meetings covered.",
-      "text": "General Assembly meetings covered.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-713",
-      "number": "713.",
-      "heading": "Business transacted at unauthorized meeting void.",
-      "text": "Business transacted at unauthorized meeting void.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-714",
-      "number": "714.",
-      "heading": "Penalty.",
-      "text": "Penalty.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-715",
-      "number": "715.",
-      "heading": "Jurisdiction and venue of judicial proceedings.",
-      "text": "Jurisdiction and venue of judicial proceedings.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-716",
-      "number": "716.",
-      "heading": "Confidentiality.",
-      "text": "Confidentiality.",
-      "history": "",
-      "source_url": ""
-    },
-    {
       "id": "section-11011",
       "number": "1101.1.",
       "heading": "Purpose.",
       "text": "Purpose.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-1101",
-      "number": "1101.",
-      "heading": "Short title of chapter.",
-      "text": "Short title of chapter.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-1102",
-      "number": "1102.",
-      "heading": "Definitions.",
-      "text": "Definitions.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-1103",
-      "number": "1103.",
-      "heading": "Restricted activities.",
-      "text": "Restricted activities.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-1104",
-      "number": "1104.",
-      "heading": "Statement of financial interests required to be filed.",
-      "text": "Statement of financial interests required to be filed.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-1105",
-      "number": "1105.",
-      "heading": "Statement of financial interests.",
-      "text": "Statement of financial interests.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-1106",
-      "number": "1106.",
-      "heading": "State Ethics Commission.",
-      "text": "State Ethics Commission.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-1107",
-      "number": "1107.",
-      "heading": "Powers and duties of commission.",
-      "text": "Powers and duties of commission.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-1108",
-      "number": "1108.",
-      "heading": "Investigations by commission.",
-      "text": "Investigations by commission.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-1109",
-      "number": "1109.",
-      "heading": "Penalties.",
-      "text": "Penalties.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-1110",
-      "number": "1110.",
-      "heading": "Wrongful use of chapter.",
-      "text": "Wrongful use of chapter.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-1111",
-      "number": "1111.",
-      "heading": "Supplemental provisions.",
-      "text": "Supplemental provisions.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-1112",
-      "number": "1112.",
-      "heading": "Conflict of law.",
-      "text": "Conflict of law.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-1113",
-      "number": "1113.",
-      "heading": "Severability.",
-      "text": "Severability.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-13a01",
-      "number": "13A01.",
-      "heading": "Scope of chapter.",
-      "text": "Scope of chapter.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-13a02",
-      "number": "13A02.",
-      "heading": "Statement of intent and jurisdiction.",
-      "text": "Statement of intent and jurisdiction.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-13a03",
-      "number": "13A03.",
-      "heading": "Definitions.",
-      "text": "Definitions.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-13a04",
-      "number": "13A04.",
-      "heading": "Registration.",
-      "text": "Registration.",
       "history": "",
       "source_url": ""
     },
@@ -1055,46 +439,6 @@
       "number": "13A10.",
       "heading": "Registration fees; fund established; system; regulations.",
       "text": "Registration fees; fund established; system; regulations.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-13a11",
-      "number": "13A11.",
-      "heading": "Nonapplicability.",
-      "text": "Nonapplicability.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-2",
-      "number": "2.",
-      "heading": "Transition provisions.",
-      "text": "Transition provisions.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-4",
-      "number": "4.",
-      "heading": "Applicability.",
-      "text": "Applicability.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-5",
-      "number": "5.",
-      "heading": "Codification of existing law.",
-      "text": "Codification of existing law.",
-      "history": "",
-      "source_url": ""
-    },
-    {
-      "id": "section-7",
-      "number": "7.",
-      "heading": "Legislative intent.",
-      "text": "Legislative intent.",
       "history": "",
       "source_url": ""
     }

@@ -3,27 +3,6 @@
   "path": "title-title-13/chapter-chapter-31",
   "sections": [
     {
-      "id": "section-3101",
-      "number": "3101",
-      "heading": "",
-      "text": "This division shall be known and may be cited as the Uniform Commercial Code, Article 3, Negotiable Instruments.",
-      "source_url": "https://law.justia.com/codes/pennsylvania/title-13/chapter-31/section-3101/"
-    },
-    {
-      "id": "section-3102",
-      "number": "3102",
-      "heading": "",
-      "text": "(a) Applicability.--This division applies to negotiable instruments. It does not apply to money, to payment orders governed by Division 4A (relating to funds transfers) or to securities governed by Division 8 (relating to investment securities).\n\n(b) Conflict.--If there is conflict between this division and Division 4 (relating to bank deposits and collections) or 9 (relating to secured transactions), Division 4 and Division 9 govern.\n\n(c) Federal Reserve regulations and operating circulars.--Regulations of the Board of Governors of the Federal Reserve System and operating circulars of the Federal Reserve banks supersede any inconsistent provision of this division to the extent of the inconsistency.",
-      "source_url": "https://law.justia.com/codes/pennsylvania/title-13/chapter-31/section-3102/"
-    },
-    {
-      "id": "section-3103",
-      "number": "3103",
-      "heading": "",
-      "text": "(a) Definitions.--The following words and phrases when used in this division shall have the meanings given to them in this subsection:\n\n\"Acceptor.\"A drawee who has accepted a draft.\n\n\"Drawee.\"A person ordered in a draft to make payment.\n\n\"Drawer.\"A person who signs or is identified in a draft as a person ordering payment.\n\n\"Good faith.\"(Deleted by amendment).\n\n\"Maker.\"A person who signs or is identified in a note as a person undertaking to pay.\n\n\"Order.\"A written instruction to pay money signed by the person giving the instruction. The instruction may be addressed to any person, including the person giving the instruction, or to one or more persons jointly or in the alternative but not in succession. An authorization to pay is not an order unless the person authorized to pay is also instructed to pay.\n\n\"Ordinary care.\"In the case of a person engaged in business, means observance of reasonable commercial standards, prevailing in the area in which the person is located, with respect to the business in which the person is engaged. In the case of a bank that takes an instrument for processing for collection or payment by automated means, reasonable commercial standards do not require the bank to examine the instrument if the failure to examine does not violate the bank's prescribed procedures and the bank's procedures do not vary unreasonably from general banking usage not disapproved by this division or Division 4 (relating to bank deposits and collections).\n\n\"Party.\"A party to an instrument.\n\n\"Promise.\"A written undertaking to pay money signed by the person undertaking to pay. An acknowledgment of an obligation by the obligor is not a promise unless the obligor also undertakes to pay the obligation.\n\n\"Prove.\"With respect to a fact means to meet the burden of establishing the fact (section 1201(b)(8)).\n\n\"Remitter.\"A person who purchases an instrument from its issuer if the instrument is payable to an identified person other than the purchaser.\n\n(b) Index of other definitions in division.--Other definitions applying to this division and the sections in which they appear are:\n\n\"Acceptance.\"Section 3409.\n\n\"Accommodated party.\"Section 3419.\n\n\"Accommodation party.\"Section 3419.\n\n\"Alteration.\"Section 3407.\n\n\"Anomalous indorsement.\"Section 3205.\n\n\"Blank indorsement.\"Section 3205.\n\n\"Cashier's check.\"Section 3104.\n\n\"Certificate of deposit.\"Section 3104.\n\n\"Certified check.\"Section 3409.\n\n\"Check.\"Section 3104.\n\n\"Consideration.\"Section 3303.\n\n\"Draft.\"Section 3104.\n\n\"Holder in due course.\"Section 3302.\n\n\"Incomplete instrument.\"Section 3115.\n\n\"Indorsement.\"Section 3204.\n\n\"Indorser.\"Section 3204.\n\n\"Instrument.\"Section 3104.\n\n\"Issue.\"Section 3105.\n\n\"Issuer.\"Section 3105.\n\n\"Negotiable instrument.\"Section 3104.\n\n\"Negotiation.\"Section 3201.\n\n\"Note.\"Section 3104.\n\n\"Payable at a definite time.\"Section 3108.\n\n\"Payable on demand.\"Section 3108.\n\n\"Payable to bearer.\"Section 3109.\n\n\"Payable to order.\"Section 3109.\n\n\"Payment.\"Section 3602.\n\n\"Person entitled to enforce.\"Section 3301.\n\n\"Presentment.\"Section 3501.\n\n\"Reacquisition.\"Section 3207.\n\n\"Special indorsement.\"Section 3205.\n\n\"Teller's check.\"Section 3104.\n\n\"Transfer of instrument.\"Section 3203.\n\n\"Traveler's check.\"Section 3104.\n\n\"Value.\"Section 3303.\n\n(c) Index of definitions in other divisions.--The following definitions in other divisions of this title apply to this division:\n\n\"Bank.\"Section 4105.\n\n\"Banking day.\"Section 4104.\n\n\"Clearing house.\"Section 4104.\n\n\"Collecting bank.\"Section 4105.\n\n\"Depositary bank.\"Section 4105.\n\n\"Documentary draft.\"Section 4104.\n\n\"Intermediary bank.\"Section 4105.\n\n\"Item.\"Section 4104.\n\n\"Payor bank.\"Section 4105.\n\n\"Suspends payments.\"Section 4104.\n\n(d) Applicability of general definitions and principles.--In addition, Division 1 (relating to general provisions) contains general definitions and principles of construction and interpretation applicable throughout this division.\n\n(June 8, 2001, P.L.123, No.18, eff. July 1, 2001; Apr. 16, 2008, P.L.57, No.13, eff. 60 days)\n\n2008 Amendment.Act 13 amended the def. of \"prove\" and deleted the def. of \"good faith\" in subsec. (a).\n\n2001 Amendment.Act 18 amended subsec. (a) intro. par.\n\nCross References.Section 3103 is referred to in sections 4104, 9102 of this title.",
-      "source_url": "https://law.justia.com/codes/pennsylvania/title-13/chapter-31/section-3103/"
-    },
-    {
       "id": "section-3104",
       "number": "3104",
       "heading": "",
@@ -31,109 +10,11 @@
       "source_url": "https://law.justia.com/codes/pennsylvania/title-13/chapter-31/section-3104/"
     },
     {
-      "id": "section-3105",
-      "number": "3105",
-      "heading": "",
-      "text": "(a) Definition of \"issue\".--\"Issue\" means:\n\n(1) the first delivery of an instrument by the maker or drawer, whether to a holder or nonholder, for the purpose of giving rights on the instrument to any person; or\n\n(2) if agreed by the payee, the first transmission by the drawer to the payee of an image of an item and information derived from the item which enables the depositary bank to collect the item by transferring or presenting under Federal law an electronic check.\n\n(b) When certain instruments are binding on maker or drawer.--An unissued instrument, or an unissued incomplete instrument that is completed, is binding on the maker or drawer, but nonissuance is a defense. An instrument that is conditionally issued or is issued for a special purpose is binding on the maker or drawer, but failure of the condition or special purpose to be fulfilled is a defense.\n\n(c) Definition of \"issuer\".--\"Issuer\" applies to issued and unissued instruments and means a maker or drawer of an instrument.\n\n(July 1, 2024, P.L.450, No.41, eff. 60 days)\n\n2024 Amendment.Act 41 amended subsec. (a). See section 1 of Act 41 in the appendix to this title for special provisions relating to findings and declarations.\n\nCross References.Section 3105 is referred to in section 3103 of this title.",
-      "source_url": "https://law.justia.com/codes/pennsylvania/title-13/chapter-31/section-3105/"
-    },
-    {
-      "id": "section-3106",
-      "number": "3106",
-      "heading": "",
-      "text": "(a) When conditional.--Except as provided in this section, for the purposes of section 3104(a) (relating to negotiable instrument), a promise or order is unconditional unless it states:\n\n(1) an express condition to payment;\n\n(2) that the promise or order is subject to or governed by another writing; or\n\n(3) that rights or obligations with respect to the promise or order are stated in another writing.\n\nA reference to another writing does not of itself make the promise or order conditional.\n\n(b) When promise or order not made conditional.--A promise or order is not made conditional:\n\n(1) by a reference to another writing for a statement of rights with respect to collateral, prepayment or acceleration; or\n\n(2) because payment is limited to resort to a particular fund or source.\n\n(c) Promise or order not made conditional when countersignature as condition to payment is required.--If a promise or order requires, as a condition to payment, a countersignature by a person whose specimen signature appears on the promise or order, the condition does not make the promise or order conditional for the purposes of section 3104(a). If the person whose specimen signature appears on an instrument fails to countersign the instrument, the failure to countersign is a defense to the obligation of the issuer, but the failure does not prevent a transferee of the instrument from becoming a holder of the instrument.\n\n(d) Promise or order not made conditional by containing certain statements required by law.--If a promise or order at the time it is issued or first comes into possession of a holder contains a statement, required by applicable statutory or administrative law, to the effect that the rights of a holder or transferee are subject to claims or defenses that the issuer could assert against the original payee, the promise or order is not thereby made conditional for the purposes of section 3104(a); but if the promise or order is an instrument, there cannot be a holder in due course of the instrument.\n\nCross References.Section 3106 is referred to in section 3302 of this title.",
-      "source_url": "https://law.justia.com/codes/pennsylvania/title-13/chapter-31/section-3106/"
-    },
-    {
-      "id": "section-3107",
-      "number": "3107",
-      "heading": "",
-      "text": "Unless the instrument otherwise provides, an instrument that states the amount payable in foreign money may be paid in the foreign money or in an equivalent amount in dollars calculated by using the current bank-offered spot rate at the place of payment for the purchase of dollars on the day on which the instrument is paid.",
-      "source_url": "https://law.justia.com/codes/pennsylvania/title-13/chapter-31/section-3107/"
-    },
-    {
-      "id": "section-3108",
-      "number": "3108",
-      "heading": "",
-      "text": "(a) Payable on demand.--A promise or order is \"payable on demand\" if it:\n\n(1) states that it is payable on demand or at sight or otherwise indicates that it is payable at the will of the holder; or\n\n(2) does not state any time of payment.\n\n(b) Payable at a definite time.--A promise or order is \"payable at a definite time\" if it is payable on elapse of a definite period of time after sight or acceptance or at a fixed date or dates or at a time or times readily ascertainable at the time the promise or order is issued, subject to rights of:\n\n(1) prepayment;\n\n(2) acceleration;\n\n(3) extension at the option of the holder; or\n\n(4) extension to a further definite time at the option of the maker or acceptor or automatically upon or after a specified act or event.\n\n(c) Payable upon demand made before fixed date.--If an instrument, payable at a fixed date, is also payable upon demand made before the fixed date, the instrument is payable on demand until the fixed date and, if demand for payment is not made before that date, becomes payable at a definite time on the fixed date.\n\nCross References.Section 3108 is referred to in section 3103 of this title.",
-      "source_url": "https://law.justia.com/codes/pennsylvania/title-13/chapter-31/section-3108/"
-    },
-    {
-      "id": "section-3109",
-      "number": "3109",
-      "heading": "",
-      "text": "(a) Payable to bearer.--A promise or order is payable to bearer if it:\n\n(1) states that it is payable to bearer or to the order of bearer or otherwise indicates that the person in possession of the promise or order is entitled to payment;\n\n(2) does not state a payee; or\n\n(3) states that it is payable to or to the order of cash or otherwise indicates that it is not payable to an identified person.\n\n(b) Payable to order.--A promise or order that is not payable to bearer is payable to order if it is payable:\n\n(1) to the order of an identified person; or\n\n(2) to an identified person or order.\n\nA promise or order that is payable to order is payable to the identified person.\n\n(c) Payable to an identified person.--An instrument payable to bearer may become payable to an identified person if it is specially indorsed pursuant to section 3205(a) (relating to special indorsement; blank indorsement; anomalous indorsement). An instrument payable to an identified person may become payable to bearer if it is indorsed in blank pursuant to section 3205(b).\n\nCross References.Section 3109 is referred to in section 3103 of this title.",
-      "source_url": "https://law.justia.com/codes/pennsylvania/title-13/chapter-31/section-3109/"
-    },
-    {
       "id": "section-3110",
       "number": "3110",
       "heading": "",
       "text": "(a) Intent of issuer.--The person to whom an instrument is initially payable is determined by the intent of the person, whether or not authorized, signing as, or in the name or behalf of, the issuer of the instrument. The instrument is payable to the person intended by the signer even if that person is identified in the instrument by a name or other identification that is not that of the intended person. If more than one person signs in the name or behalf of the issuer of an instrument and all the signers do not intend the same person as payee, the instrument is payable to any person intended by one or more of the signers.\n\n(b) When signature of issuer made by automated means.--If the signature of the issuer of an instrument is made by automated means, such as a check-writing machine, the payee of the instrument is determined by the intent of the person who supplied the name or identification of the payee, whether or not authorized to do so.\n\n(c) Identification of person to whom instrument is payable and rules for determining holder.--A person to whom an instrument is payable may be identified in any way, including by name, identifying number, office or account number. For the purpose of determining the holder of an instrument, the following rules apply:\n\n(1) If an instrument is payable to an account and the account is identified only by number, the instrument is payable to the person to whom the account is payable. If an instrument is payable to an account identified by number and by the name of a person, the instrument is payable to the named person, whether or not that person is the owner of the account identified by number.\n\n(2) If an instrument is payable to:\n\n(i) a trust, an estate or a person described as trustee or representative of a trust or estate, the instrument is payable to the trustee, the representative or a successor of either, whether or not the beneficiary or estate is also named;\n\n(ii) a person described as agent or similar representative of a named or identified person, the instrument is payable to the represented person, the representative or a successor of the representative;\n\n(iii) a fund or organization that is not a legal entity, the instrument is payable to a representative of the members of the fund or organization; or\n\n(iv) an office or to a person described as holding an office, the instrument is payable to the named person, the incumbent of the office or a successor to the incumbent.\n\n(d) Instrument payable to two or more persons.--If an instrument is payable to two or more persons alternatively, it is payable to any of them and may be negotiated, discharged or enforced by any or all of them in possession of the instrument. If an instrument is payable to two or more persons not alternatively, it is payable to all of them and may be negotiated, discharged or enforced only by all of them. If an instrument payable to two or more persons is ambiguous as to whether it is payable to the persons alternatively, the instrument is payable to the persons alternatively.\n\nCross References.Section 3110 is referred to in sections 3205, 3404 of this title.",
       "source_url": "https://law.justia.com/codes/pennsylvania/title-13/chapter-31/section-3110/"
-    },
-    {
-      "id": "section-3111",
-      "number": "3111",
-      "heading": "",
-      "text": "Except as otherwise provided for items in Division 4 (relating to bank deposits and collections), an instrument is payable at the place of payment stated in the instrument. If no place of payment is stated, an instrument is payable at the address of the drawee or maker stated in the instrument. If no address is stated, the place of payment is the place of business of the drawee or maker. If a drawee or maker has more than one place of business, the place of payment is any place of business of the drawee or maker chosen by the person entitled to enforce the instrument. If the drawee or maker has no place of business, the place of payment is the residence of the drawee or maker.",
-      "source_url": "https://law.justia.com/codes/pennsylvania/title-13/chapter-31/section-3111/"
-    },
-    {
-      "id": "section-3112",
-      "number": "3112",
-      "heading": "",
-      "text": "(a) General rule.--Unless otherwise provided in the instrument:\n\n(1) an instrument is not payable with interest; and\n\n(2) interest on an interest-bearing instrument is payable from the date of the instrument.\n\n(b) Instrument may provide for interest.--Interest may be stated in an instrument as a fixed or variable amount of money or it may be expressed as a fixed or variable rate or rates. The amount or rate of interest may be stated or described in the instrument in any manner and may require reference to information not contained in the instrument. If an instrument provides for interest, but the amount of interest payable cannot be ascertained from the description, interest is payable at the judgment rate in effect at the place of payment of the instrument and at the time interest first accrues.",
-      "source_url": "https://law.justia.com/codes/pennsylvania/title-13/chapter-31/section-3112/"
-    },
-    {
-      "id": "section-3113",
-      "number": "3113",
-      "heading": "",
-      "text": "(a) Dated instrument.--An instrument may be antedated or postdated. The date stated determines the time of payment if the instrument is payable at a fixed period after date. Except as provided in section 4401(c) (relating to when bank may charge account of customer), an instrument payable on demand is not payable before the date of the instrument.\n\n(b) Undated instrument.--If an instrument is undated, its date is the date of its issue or, in the case of an unissued instrument, the date it first comes into possession of a holder.",
-      "source_url": "https://law.justia.com/codes/pennsylvania/title-13/chapter-31/section-3113/"
-    },
-    {
-      "id": "section-3114",
-      "number": "3114",
-      "heading": "",
-      "text": "If an instrument contains contradictory terms, typewritten terms prevail over printed terms, handwritten terms prevail over both, and words prevail over numbers.",
-      "source_url": "https://law.justia.com/codes/pennsylvania/title-13/chapter-31/section-3114/"
-    },
-    {
-      "id": "section-3115",
-      "number": "3115",
-      "heading": "",
-      "text": "(a) Definition of \"incomplete instrument\".--\"Incomplete instrument\" means a signed writing, whether or not issued by the signer, the contents of which show at the time of signing that it is incomplete but that the signer intended it to be completed by the addition of words or numbers.\n\n(b) Enforcement.--Subject to subsection (c), if an incomplete instrument is an instrument under section 3104 (relating to negotiable instrument), it may be enforced according to its terms if it is not completed or according to its terms as augmented by completion. If an incomplete instrument is not an instrument under section 3104, but, after completion, the requirements of section 3104 are met, the instrument may be enforced according to its terms as augmented by completion.\n\n(c) Alteration of incomplete instrument.--If words or numbers are added to an incomplete instrument without authority of the signer, there is an alteration of the incomplete instrument under section 3407 (relating to alteration).\n\n(d) Burden of establishing alteration.--The burden of establishing that words or numbers were added to an incomplete instrument without authority of the signer is on the person asserting the lack of authority.\n\nCross References.Section 3115 is referred to in sections 3103, 3412, 3413, 3414, 3415, 4207 of this title.",
-      "source_url": "https://law.justia.com/codes/pennsylvania/title-13/chapter-31/section-3115/"
-    },
-    {
-      "id": "section-3116",
-      "number": "3116",
-      "heading": "",
-      "text": "(a) Joint and several liability.--Except as otherwise provided in the instrument, two or more persons who have the same liability on an instrument as makers, drawers, acceptors, indorsers who indorse as joint payees, or anomalous indorsers are jointly and severally liable in the capacity in which they sign.\n\n(b) Contribution.--Except as provided in section 3419(e) (relating to instruments signed for accommodation) or by agreement of the affected parties, a party having joint and several liability who pays the instrument is entitled to receive from any party having the same joint and several liability contribution in accordance with applicable law.\n\n(c) Discharge.--Discharge of one party having joint and several liability by a person entitled to enforce the instrument does not affect the right under subsection (b) of a party having the same joint and several liability to receive contribution from the party discharged.",
-      "source_url": "https://law.justia.com/codes/pennsylvania/title-13/chapter-31/section-3116/"
-    },
-    {
-      "id": "section-3117",
-      "number": "3117",
-      "heading": "",
-      "text": "Subject to applicable law regarding exclusion of proof of contemporaneous or previous agreements, the obligation of a party to an instrument to pay the instrument may be modified, supplemented or nullified by a separate agreement of the obligor and a person entitled to enforce the instrument if the instrument is issued or the obligation is incurred in reliance on the agreement or as part of the same transaction giving rise to the agreement. To the extent an obligation is modified, supplemented or nullified by an agreement under this section, the agreement is a defense to the obligation.",
-      "source_url": "https://law.justia.com/codes/pennsylvania/title-13/chapter-31/section-3117/"
-    },
-    {
-      "id": "section-3118",
-      "number": "3118",
-      "heading": "",
-      "text": "(a) Note payable at definite time.--Except as provided in subsection (e), an action to enforce the obligation of a party to pay a note payable at a definite time must be commenced within six years after the due date or dates stated in the note or, if a due date is accelerated, within six years after the accelerated due date.\n\n(b) Note payable on demand.--Except as provided in subsection (d) or (e), if demand for payment is made to the maker of a note payable on demand, an action to enforce the obligation of a party to pay the note must be commenced within six years after the demand. If no demand for payment is made to the maker, an action to enforce the note is barred if neither principal nor interest on the note has been paid for a continuous period of ten years.\n\n(c) Unaccepted draft.--Except as provided in subsection (d), an action to enforce the obligation of a party to an unaccepted draft to pay the draft must be commenced within three years after dishonor of the draft or ten years after the date of the draft, whichever period expires first.\n\n(d) Certified check, teller's check, cashier's check and traveler's check.--An action to enforce the obligation of the acceptor of a certified check or the issuer of a teller's check, cashier's check or traveler's check must be commenced within three years after demand for payment is made to the acceptor or issuer, as the case may be.\n\n(e) Certificate of deposit.--An action to enforce the obligation of a party to a certificate of deposit to pay the instrument must be commenced within six years after demand for payment is made to the maker, but, if the instrument states a due date and the maker is not required to pay before that date, the six-year period begins when a demand for payment is in effect and the due date has passed.\n\n(f) Accepted draft.--An action to enforce the obligation of a party to pay an accepted draft, other than a certified check, must be commenced:\n\n(1) within six years after the due date or dates stated in the draft or acceptance if the obligation of the acceptor is payable at a definite time; or\n\n(2) within six years after the date of the acceptance if the obligation of the acceptor is payable on demand.\n\n(g) Conversion, breach of warranty and other Division 3 actions.--Unless governed by other law regarding claims for indemnity or contribution, an action:\n\n(1) for conversion of an instrument, for money had and received or like action based on conversion;\n\n(2) for breach of warranty; or\n\n(3) to enforce an obligation, duty or right arising under this division and not governed by this section;\n\nmust be commenced within three years after the cause of action accrues.",
-      "source_url": "https://law.justia.com/codes/pennsylvania/title-13/chapter-31/section-3118/"
-    },
-    {
-      "id": "section-3119",
-      "number": "3119",
-      "heading": "",
-      "text": "In an action for breach of an obligation for which a third person is answerable over pursuant to this division or Division 4 (relating to bank deposits and collections), the defendant may give the third person written notice of the litigation, and the person notified may then give similar notice to any other person who is answerable over. If the notice states that the person notified may come in and defend and that failure to do so will bind the person notified in an action later brought by the person giving the notice as to any determination of fact common to the two litigations, the person notified is so bound unless after seasonable receipt of the notice the person notified does come in and defend.",
-      "source_url": "https://law.justia.com/codes/pennsylvania/title-13/chapter-31/section-3119/"
     }
   ]
 }
