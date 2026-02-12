@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [main, data]
+    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -24,25 +24,16 @@ jobs:
           ref: main
           path: main
 
-      - name: Checkout data branch
-        uses: actions/checkout@v4
-        with:
-          ref: data
-          path: data-branch
-        continue-on-error: true
-
-      - name: Merge data into site
+      - name: Build site output
         run: |
           # Copy site files from main
           cp -r main/site/ output/
 
-          # Copy data directory from main (TOC, manifests)
+          # Copy data directory from main (TOC, manifests, index)
+          # Content files are NOT included - they are 2.4GB+ and exceed
+          # the GitHub Pages 1GB limit. The frontend fetches content
+          # directly from the raw data branch URL instead.
           cp -r main/data/ output/data/
-
-          # Overlay content files from data branch if available
-          if [ -d "data-branch/data/states" ]; then
-            cp -r data-branch/data/states/ output/data/states/
-          fi
 
       - name: Setup Python
         uses: actions/setup-python@v5
