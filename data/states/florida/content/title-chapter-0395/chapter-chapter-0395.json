@@ -4,8 +4,8 @@
   "sections": [
     {
       "id": "section-395001legislative",
-      "number": "395.001Legislative",
-      "heading": "intent.395.002Definitions.395.003Licensure; denial, suspension, and revocation",
+      "number": "395.001",
+      "heading": "Legislative intent.395.002Definitions.395.003Licensure; denial, suspension, and revocation",
       "text": "395.004Application for license; fees.395.0056Litigation notice requirement.395.009Minimum standards for clinical laboratory test results and diagnostic X-ray results; prerequisite for issuance or renewal of license.395.00",
       "history": "",
       "source_url": ""
@@ -20,328 +20,328 @@
     },
     {
       "id": "section-395004application",
-      "number": "395.004Application",
-      "heading": "for license; fees.",
+      "number": "395.004",
+      "heading": "Application for license; fees.",
       "text": "for license; fees.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3950056litigation",
-      "number": "395.0056Litigation",
-      "heading": "notice requirement.",
+      "number": "395.0056",
+      "heading": "Litigation notice requirement.",
       "text": "notice requirement.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-395009minimum",
-      "number": "395.009Minimum",
-      "heading": "standards for clinical laboratory test results and diagnostic X-ray results; prerequisite for issuance or renewal of license.",
+      "number": "395.009",
+      "heading": "Minimum standards for clinical laboratory test results and diagnostic X-ray results; prerequisite for issuance or renewal of license.",
       "text": "standards for clinical laboratory test results and diagnostic X-ray results; prerequisite for issuance or renewal of license.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3950091alternate-site",
-      "number": "395.0091Alternate-site",
-      "heading": "testing.",
+      "number": "395.0091",
+      "heading": "Alternate-site testing.",
       "text": "testing.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3950161licensure",
-      "number": "395.0161Licensure",
-      "heading": "inspection.",
+      "number": "395.0161",
+      "heading": "Licensure inspection.",
       "text": "inspection.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3950162inspection",
-      "number": "395.0162Inspection",
-      "heading": "reports.",
+      "number": "395.0162",
+      "heading": "Inspection reports.",
       "text": "reports.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3950163construction",
-      "number": "395.0163Construction",
-      "heading": "inspections; plan submission and approval; fees.",
+      "number": "395.0163",
+      "heading": "Construction inspections; plan submission and approval; fees.",
       "text": "inspections; plan submission and approval; fees.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3950185rebates",
-      "number": "395.0185Rebates",
-      "heading": "prohibited; penalties.",
+      "number": "395.0185",
+      "heading": "Rebates prohibited; penalties.",
       "text": "prohibited; penalties.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3950191staff",
-      "number": "395.0191Staff",
-      "heading": "membership and clinical privileges.",
+      "number": "395.0191",
+      "heading": "Staff membership and clinical privileges.",
       "text": "membership and clinical privileges.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3950192duty",
-      "number": "395.0192Duty",
-      "heading": "to notify physicians.",
+      "number": "395.0192",
+      "heading": "Duty to notify physicians.",
       "text": "to notify physicians.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3950193licensed",
-      "number": "395.0193Licensed",
-      "heading": "facilities; peer review; disciplinary powers; agency or partnership with physicians.",
+      "number": "395.0193",
+      "heading": "Licensed facilities; peer review; disciplinary powers; agency or partnership with physicians.",
       "text": "facilities; peer review; disciplinary powers; agency or partnership with physicians.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3950195access",
-      "number": "395.0195Access",
-      "heading": "of chiropractic physicians to diagnostic reports.",
+      "number": "395.0195",
+      "heading": "Access of chiropractic physicians to diagnostic reports.",
       "text": "of chiropractic physicians to diagnostic reports.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3950197internal",
-      "number": "395.0197Internal",
-      "heading": "risk management program.",
+      "number": "395.0197",
+      "heading": "Internal risk management program.",
       "text": "risk management program.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3951012patient",
-      "number": "395.1012Patient",
-      "heading": "safety.",
+      "number": "395.1012",
+      "heading": "Patient safety.",
       "text": "safety.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3951021treatment",
-      "number": "395.1021Treatment",
-      "heading": "of sexual assault victims.",
+      "number": "395.1021",
+      "heading": "Treatment of sexual assault victims.",
       "text": "of sexual assault victims.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3951023child",
-      "number": "395.1023Child",
-      "heading": "abuse and neglect cases; duties.",
+      "number": "395.1023",
+      "heading": "Child abuse and neglect cases; duties.",
       "text": "abuse and neglect cases; duties.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3951024patients",
-      "number": "395.1024Patients",
-      "heading": "consenting to adoptions; protocols.",
+      "number": "395.1024",
+      "heading": "Patients consenting to adoptions; protocols.",
       "text": "consenting to adoptions; protocols.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3951025infectious",
-      "number": "395.1025Infectious",
-      "heading": "diseases; notification.",
+      "number": "395.1025",
+      "heading": "Infectious diseases; notification.",
       "text": "diseases; notification.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3951027regional",
-      "number": "395.1027Regional",
-      "heading": "poison control centers.",
+      "number": "395.1027",
+      "heading": "Regional poison control centers.",
       "text": "poison control centers.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3951031emergency",
-      "number": "395.1031Emergency",
-      "heading": "medical services; communication.",
+      "number": "395.1031",
+      "heading": "Emergency medical services; communication.",
       "text": "medical services; communication.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3951041access",
-      "number": "395.1041Access",
-      "heading": "to and ensurance of emergency services; transfers; patient rights; diversion programs; reports of controlled substance overdoses.",
+      "number": "395.1041",
+      "heading": "Access to and ensurance of emergency services; transfers; patient rights; diversion programs; reports of controlled substance overdoses.",
       "text": "to and ensurance of emergency services; transfers; patient rights; diversion programs; reports of controlled substance overdoses.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3951042fentanyl",
-      "number": "395.1042Fentanyl",
-      "heading": "testing.",
+      "number": "395.1042",
+      "heading": "Fentanyl testing.",
       "text": "testing.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3951051duty",
-      "number": "395.1051Duty",
-      "heading": "to notify patients.",
+      "number": "395.1051",
+      "heading": "Duty to notify patients.",
       "text": "to notify patients.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3951052patient",
-      "number": "395.1052Patient",
-      "heading": "access to primary care and specialty providers; notification.",
+      "number": "395.1052",
+      "heading": "Patient access to primary care and specialty providers; notification.",
       "text": "access to primary care and specialty providers; notification.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3951053postpartum",
-      "number": "395.1053Postpartum",
-      "heading": "education.",
+      "number": "395.1053",
+      "heading": "Postpartum education.",
       "text": "education.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3951054birthing",
-      "number": "395.1054Birthing",
-      "heading": "quality improvement initiatives.",
+      "number": "395.1054",
+      "heading": "Birthing quality improvement initiatives.",
       "text": "quality improvement initiatives.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3951055rules",
-      "number": "395.1055Rules",
-      "heading": "and enforcement.",
+      "number": "395.1055",
+      "heading": "Rules and enforcement.",
       "text": "and enforcement.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3951056plan",
-      "number": "395.1056Plan",
-      "heading": "components addressing a hospital’s response to terrorism; public records exemption; public meetings exemption.",
+      "number": "395.1056",
+      "heading": "Plan components addressing a hospital’s response to terrorism; public records exemption; public meetings exemption.",
       "text": "components addressing a hospital’s response to terrorism; public records exemption; public meetings exemption.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-395106risk",
-      "number": "395.106Risk",
-      "heading": "pooling by certain hospitals and hospital systems.",
+      "number": "395.106",
+      "heading": "Risk pooling by certain hospitals and hospital systems.",
       "text": "pooling by certain hospitals and hospital systems.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3951061professional",
-      "number": "395.1061Professional",
-      "heading": "liability coverage.",
+      "number": "395.1061",
+      "heading": "Professional liability coverage.",
       "text": "liability coverage.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3951065criminal",
-      "number": "395.1065Criminal",
-      "heading": "and administrative penalties; moratorium.",
+      "number": "395.1065",
+      "heading": "Criminal and administrative penalties; moratorium.",
       "text": "and administrative penalties; moratorium.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-39510973powers",
-      "number": "395.10973Powers",
-      "heading": "and duties of the agency.",
+      "number": "395.10973",
+      "heading": "Powers and duties of the agency.",
       "text": "and duties of the agency.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3952050routine",
-      "number": "395.2050Routine",
-      "heading": "inquiry for organ and tissue donation; certification for procurement activities; death records review.",
+      "number": "395.2050",
+      "heading": "Routine inquiry for organ and tissue donation; certification for procurement activities; death records review.",
       "text": "inquiry for organ and tissue donation; certification for procurement activities; death records review.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-395301price",
-      "number": "395.301Price",
-      "heading": "transparency; itemized patient statement or bill; patient admission status notification.",
+      "number": "395.301",
+      "heading": "Price transparency; itemized patient statement or bill; patient admission status notification.",
       "text": "transparency; itemized patient statement or bill; patient admission status notification.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3953011billing",
-      "number": "395.3011Billing",
-      "heading": "and collection activities.",
+      "number": "395.3011",
+      "heading": "Billing and collection activities.",
       "text": "and collection activities.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3953015patient",
-      "number": "395.3015Patient",
-      "heading": "records; form and content.",
+      "number": "395.3015",
+      "heading": "Patient records; form and content.",
       "text": "records; form and content.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-395302patient",
-      "number": "395.302Patient",
-      "heading": "records; penalties for alteration.",
+      "number": "395.302",
+      "heading": "Patient records; penalties for alteration.",
       "text": "records; penalties for alteration.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3953025patient",
-      "number": "395.3025Patient",
-      "heading": "and personnel records; copies; examination.",
+      "number": "395.3025",
+      "heading": "Patient and personnel records; copies; examination.",
       "text": "and personnel records; copies; examination.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3953027patient",
-      "number": "395.3027Patient",
-      "heading": "immigration status data collection.",
+      "number": "395.3027",
+      "heading": "Patient immigration status data collection.",
       "text": "immigration status data collection.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3953035confidentiality",
-      "number": "395.3035Confidentiality",
-      "heading": "of hospital records and meetings.",
+      "number": "395.3035",
+      "heading": "Confidentiality of hospital records and meetings.",
       "text": "of hospital records and meetings.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3953036confidentiality",
-      "number": "395.3036Confidentiality",
-      "heading": "of records and meetings of entities that lease public hospitals or other public health care facilities.",
+      "number": "395.3036",
+      "heading": "Confidentiality of records and meetings of entities that lease public hospitals or other public health care facilities.",
       "text": "of records and meetings of entities that lease public hospitals or other public health care facilities.",
       "history": "",
       "source_url": ""
@@ -356,48 +356,48 @@
     },
     {
       "id": "section-3953038state-listed",
-      "number": "395.3038State-listed",
-      "heading": "stroke centers; notification of hospitals.",
+      "number": "395.3038",
+      "heading": "State-listed stroke centers; notification of hospitals.",
       "text": "stroke centers; notification of hospitals.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-39530381statewide",
-      "number": "395.30381Statewide",
-      "heading": "stroke registry.",
+      "number": "395.30381",
+      "heading": "Statewide stroke registry.",
       "text": "stroke registry.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3953039advertising",
-      "number": "395.3039Advertising",
-      "heading": "restrictions.",
+      "number": "395.3039",
+      "heading": "Advertising restrictions.",
       "text": "restrictions.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3953041emergency",
-      "number": "395.3041Emergency",
-      "heading": "medical services providers; triage and transportation of stroke victims to a stroke center.",
+      "number": "395.3041",
+      "heading": "Emergency medical services providers; triage and transportation of stroke victims to a stroke center.",
       "text": "medical services providers; triage and transportation of stroke victims to a stroke center.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3953042statewide",
-      "number": "395.3042Statewide",
-      "heading": "venous thromboembolism registry.",
+      "number": "395.3042",
+      "heading": "Statewide venous thromboembolism registry.",
       "text": "venous thromboembolism registry.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-395002definitions",
-      "number": "395.002Definitions.",
-      "heading": "As used in this chapter:(1)“Accrediting organizations” means national accreditation organizations that are approved by the Centers for Medicare and Medicaid Services and whose standards incorporate comparable licensure regulations required by the state",
+      "number": "395.002",
+      "heading": "Definitions. As used in this chapter:(1)“Accrediting organizations” means national accreditation organizations that are approved by the Centers for Medicare and Medicaid Services and whose standards incorporate comparable licensure regulations required by the state",
       "text": "(2)“Agency” means the Agency for Health Care Ad",
       "history": "",
       "source_url": ""
@@ -420,24 +420,24 @@
     },
     {
       "id": "section-3953037definitions",
-      "number": "395.3037Definitions.",
-      "heading": "As used in this act, the term:(1)“Department” means the Department of Health",
+      "number": "395.3037",
+      "heading": "Definitions. As used in this act, the term:(1)“Department” means the Department of Health",
       "text": "(2)“Agency” means the Agency for Health Care Administration.History.—s. 2, ch. 2004-325.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-13953042statewide",
-      "number": "1395.3042Statewide",
-      "heading": "venous thromboembolism registry",
+      "number": "1395.3042",
+      "heading": "Statewide venous thromboembolism registry",
       "text": "—(1)(a)The department shall contract with a private entity, that meets all of the conditions of paragraph (b), to establish and maintain, at no cost to the state, a statewide venous thromboembolism registry to ensure that the performance measures required to be submit",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-39540legislative",
-      "number": "395.40Legislative",
-      "heading": "findings and intent.395.4001Definitions",
+      "number": "395.40",
+      "heading": "Legislative findings and intent.395.4001Definitions",
       "text": "395.401Trauma services system plans; approval of trauma centers and pediatric trauma centers; procedures; renewal.395.4015State regional trauma planning; trauma regions.395.402Trauma service areas; number and location of trauma centers.395.4025Trauma centers;",
       "history": "",
       "source_url": ""
@@ -452,64 +452,64 @@
     },
     {
       "id": "section-395401trauma",
-      "number": "395.401Trauma",
-      "heading": "services system plans; approval of trauma centers and pediatric trauma centers; procedures; renewal.",
+      "number": "395.401",
+      "heading": "Trauma services system plans; approval of trauma centers and pediatric trauma centers; procedures; renewal.",
       "text": "services system plans; approval of trauma centers and pediatric trauma centers; procedures; renewal.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3954015state",
-      "number": "395.4015State",
-      "heading": "regional trauma planning; trauma regions.",
+      "number": "395.4015",
+      "heading": "State regional trauma planning; trauma regions.",
       "text": "regional trauma planning; trauma regions.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-395402trauma",
-      "number": "395.402Trauma",
-      "heading": "service areas; number and location of trauma centers.",
+      "number": "395.402",
+      "heading": "Trauma service areas; number and location of trauma centers.",
       "text": "service areas; number and location of trauma centers.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3954025trauma",
-      "number": "395.4025Trauma",
-      "heading": "centers; selection; quality assurance; records.",
+      "number": "395.4025",
+      "heading": "Trauma centers; selection; quality assurance; records.",
       "text": "centers; selection; quality assurance; records.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-395403reimbursement",
-      "number": "395.403Reimbursement",
-      "heading": "of trauma centers.",
+      "number": "395.403",
+      "heading": "Reimbursement of trauma centers.",
       "text": "of trauma centers.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3954036trauma",
-      "number": "395.4036Trauma",
-      "heading": "payments.",
+      "number": "395.4036",
+      "heading": "Trauma payments.",
       "text": "payments.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-395404reporting",
-      "number": "395.404Reporting",
-      "heading": "of trauma data; report to National Trauma Data Bank.",
+      "number": "395.404",
+      "heading": "Reporting of trauma data; report to National Trauma Data Bank.",
       "text": "of trauma data; report to National Trauma Data Bank.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3954045emergency",
-      "number": "395.4045Emergency",
-      "heading": "medical service providers; trauma transport protocols; transport of trauma alert victims to trauma centers; interfacility transfer.",
+      "number": "395.4045",
+      "heading": "Emergency medical service providers; trauma transport protocols; transport of trauma alert victims to trauma centers; interfacility transfer.",
       "text": "medical service providers; trauma transport protocols; transport of trauma alert victims to trauma centers; interfacility transfer.",
       "history": "",
       "source_url": ""
@@ -524,120 +524,120 @@
     },
     {
       "id": "section-39550quality",
-      "number": "395.50Quality",
-      "heading": "assurance activities of trauma agencies.",
+      "number": "395.50",
+      "heading": "Quality assurance activities of trauma agencies.",
       "text": "assurance activities of trauma agencies.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-39551confidentiality",
-      "number": "395.51Confidentiality",
-      "heading": "and quality assurance activities of trauma agencies.",
+      "number": "395.51",
+      "heading": "Confidentiality and quality assurance activities of trauma agencies.",
       "text": "and quality assurance activities of trauma agencies.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3954001definitions",
-      "number": "395.4001Definitions.",
-      "heading": "As used in this part, the term:(1)“Agency” means the Agency for Health Care Administration",
+      "number": "395.4001",
+      "heading": "Definitions. As used in this part, the term:(1)“Agency” means the Agency for Health Care Administration",
       "text": "(2)“Charity care” or “uncompensated trauma care” means that portion of hospital charges reported to the agency for which there is no compensation, other than restricted or unrestricted revenues provided to a h",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-1395402trauma",
-      "number": "1395.402Trauma",
-      "heading": "service areas; number and location of trauma centers",
+      "number": "1395.402",
+      "heading": "Trauma service areas; number and location of trauma centers",
       "text": "—(1)The Legislature recognizes the need for a statewide, cohesive, uniform, and integrated trauma system, as well as the need to ensure the viability of existing trauma centers when designating new trauma centers. Consistent with national standard",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-13954025trauma",
-      "number": "1395.4025Trauma",
-      "heading": "centers; selection; quality assurance; records",
+      "number": "1395.4025",
+      "heading": "Trauma centers; selection; quality assurance; records",
       "text": "—(1)For purposes of developing a system of trauma centers, the department shall use the 18 trauma service areas established in s. 395.402. The department shall designate those hospitals that are to be recognized as trauma centers.(2)(a)The department sh",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-1395403reimbursement",
-      "number": "1395.403Reimbursement",
-      "heading": "of trauma centers.—(1)All verified trauma centers shall be considered eligible to receive state funding when state funds are specifically appropriated for state-sponsored trauma centers in the General Appropriations Act",
+      "number": "1395.403",
+      "heading": "Reimbursement of trauma centers.—(1)All verified trauma centers shall be considered eligible to receive state funding when state funds are specifically appropriated for state-sponsored trauma centers in the General Appropriations Act",
       "text": "Effective July 1, 2010, the department shall make payments from the Emergency M",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-1395404reporting",
-      "number": "1395.404Reporting",
-      "heading": "of trauma data; report to National Trauma Data Bank",
+      "number": "1395.404",
+      "heading": "Reporting of trauma data; report to National Trauma Data Bank",
       "text": "—(1)Each trauma center shall participate in the National Trauma Data Bank, and the department shall solely use the National Trauma Data Bank for quality and assessment purposes.(2)Each trauma center and acute care hospital shall report to the depar",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-395405rulemaking",
-      "number": "395.405Rulemaking.",
-      "heading": "The department shall adopt and enforce all rules necessary to administer ss",
+      "number": "395.405",
+      "heading": "Rulemaking. The department shall adopt and enforce all rules necessary to administer ss",
       "text": "395.401, 395.4015, 395.402, 395.4025, 395.403, 395.404, and 395.4045.History.—s. 7, ch. 89-275; s. 17, ch. 89-283; s. 2, ch. 90-187; s. 1, ch. 90-192; s. 8, ch. 90-284; ss. 43, 98, ch. 92-289; s. 6, ch. 2000-189; s. 36, ch.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-395602rural",
-      "number": "395.602Rural",
-      "heading": "hospitals.395.603Rural hospital impact statement.395.6061Rural hospital capital improvement.395.607Rural emergency hospitals.",
+      "number": "395.602",
+      "heading": "Rural hospitals.395.603Rural hospital impact statement.395.6061Rural hospital capital improvement.395.607Rural emergency hospitals.",
       "text": "hospitals.395.603Rural hospital impact statement.395.6061Rural hospital capital improvement.395.607Rural emergency hospitals.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-395603rural",
-      "number": "395.603Rural",
-      "heading": "hospital impact statement.",
+      "number": "395.603",
+      "heading": "Rural hospital impact statement.",
       "text": "hospital impact statement.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3956061rural",
-      "number": "395.6061Rural",
-      "heading": "hospital capital improvement.",
+      "number": "395.6061",
+      "heading": "Rural hospital capital improvement.",
       "text": "hospital capital improvement.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-395607rural",
-      "number": "395.607Rural",
-      "heading": "emergency hospitals.",
+      "number": "395.607",
+      "heading": "Rural emergency hospitals.",
       "text": "emergency hospitals.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-395701annual",
-      "number": "395.701Annual",
-      "heading": "assessments on net operating revenues for inpatient and outpatient services to fund public medical assistance; administrative fines for failure to pay assessments when due; exemption",
+      "number": "395.701",
+      "heading": "Annual assessments on net operating revenues for inpatient and outpatient services to fund public medical assistance; administrative fines for failure to pay assessments when due; exemption",
       "text": "395.7016Annual appropriation.395.7017Rulemaking authority.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3957016annual",
-      "number": "395.7016Annual",
-      "heading": "appropriation.",
+      "number": "395.7016",
+      "heading": "Annual appropriation.",
       "text": "appropriation.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-3957017rulemaking",
-      "number": "395.7017Rulemaking",
-      "heading": "authority.",
+      "number": "395.7017",
+      "heading": "Rulemaking authority.",
       "text": "authority.",
       "history": "",
       "source_url": ""
@@ -652,40 +652,40 @@
     },
     {
       "id": "section-395806designation",
-      "number": "395.806Designation",
-      "heading": "of family practice teaching hospitals.",
+      "number": "395.806",
+      "heading": "Designation of family practice teaching hospitals.",
       "text": "of family practice teaching hospitals.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-395807retention",
-      "number": "395.807Retention",
-      "heading": "of family practice residents.",
+      "number": "395.807",
+      "heading": "Retention of family practice residents.",
       "text": "of family practice residents.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-395805definitions",
-      "number": "395.805Definitions.",
-      "heading": "As used in this act, the term:(1)“Agency” means the Agency for Health Care Administration",
+      "number": "395.805",
+      "heading": "Definitions. As used in this act, the term:(1)“Agency” means the Agency for Health Care Administration",
       "text": "(2)“Family practice teaching hospital” means a freestanding, community-based hospital licensed under this chapter that offers a 3-year family practice residency program accredited through the Residency Review C",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-395902behavioral",
-      "number": "395.902Behavioral",
-      "heading": "health teaching hospitals.",
+      "number": "395.902",
+      "heading": "Behavioral health teaching hospitals.",
       "text": "health teaching hospitals.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-395903behavioral",
-      "number": "395.903Behavioral",
-      "heading": "Health Teaching Hospital grant program.",
+      "number": "395.903",
+      "heading": "Behavioral Health Teaching Hospital grant program.",
       "text": "Health Teaching Hospital grant program.",
       "history": "",
       "source_url": ""

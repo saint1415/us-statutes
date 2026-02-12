@@ -4,8 +4,8 @@
   "sections": [
     {
       "id": "section-675101short",
-      "number": "675.101Short",
-      "heading": "title.675.102Scope.675.103Definitions",
+      "number": "675.101",
+      "heading": "Short title.675.102Scope.675.103Definitions",
       "text": "675.104Formal requirements.675.105Consideration.675.106Issuance, amendment, cancellation, and duration.675.107Confirmer, nominated person, and adviser.675.108Issuer’s rights and obligations.675.109Fraud and forgery.675.110Warranties.675.111Remedies.675.112Transf",
       "history": "",
       "source_url": ""
@@ -28,8 +28,8 @@
     },
     {
       "id": "section-675104formal",
-      "number": "675.104Formal",
-      "heading": "requirements.",
+      "number": "675.104",
+      "heading": "Formal requirements.",
       "text": "requirements.",
       "history": "",
       "source_url": ""
@@ -44,8 +44,8 @@
     },
     {
       "id": "section-675109fraud",
-      "number": "675.109Fraud",
-      "heading": "and forgery.",
+      "number": "675.109",
+      "heading": "Fraud and forgery.",
       "text": "and forgery.",
       "history": "",
       "source_url": ""
@@ -68,64 +68,64 @@
     },
     {
       "id": "section-675112transfer",
-      "number": "675.112Transfer",
-      "heading": "of letter of credit.",
+      "number": "675.112",
+      "heading": "Transfer of letter of credit.",
       "text": "of letter of credit.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-675113transfer",
-      "number": "675.113Transfer",
-      "heading": "by operation of law.",
+      "number": "675.113",
+      "heading": "Transfer by operation of law.",
       "text": "by operation of law.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-675114assignment",
-      "number": "675.114Assignment",
-      "heading": "of proceeds.",
+      "number": "675.114",
+      "heading": "Assignment of proceeds.",
       "text": "of proceeds.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-675115statute",
-      "number": "675.115Statute",
-      "heading": "of limitations.",
+      "number": "675.115",
+      "heading": "Statute of limitations.",
       "text": "of limitations.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-675116choice",
-      "number": "675.116Choice",
-      "heading": "of law and forum.",
+      "number": "675.116",
+      "heading": "Choice of law and forum.",
       "text": "of law and forum.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-675117subrogation",
-      "number": "675.117Subrogation",
-      "heading": "of issuer, applicant, and nominated person.",
+      "number": "675.117",
+      "heading": "Subrogation of issuer, applicant, and nominated person.",
       "text": "of issuer, applicant, and nominated person.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-675118applicability",
-      "number": "675.118Applicability",
-      "heading": "of ch. 99-137.",
+      "number": "675.118",
+      "heading": "Applicability of ch. 99-137.",
       "text": "of ch. 99-137.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-6751181security",
-      "number": "675.1181Security",
-      "heading": "interest of issuer or nominated person.",
+      "number": "675.1181",
+      "heading": "Security interest of issuer or nominated person.",
       "text": "interest of issuer or nominated person.",
       "history": "",
       "source_url": ""
@@ -140,31 +140,31 @@
     },
     {
       "id": "section-675119saving",
-      "number": "675.119Saving",
-      "heading": "clause.",
+      "number": "675.119",
+      "heading": "Saving clause.",
       "text": "clause.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-675102scope",
-      "number": "675.102Scope.",
-      "heading": "(1)This chapter applies to letters of credit and to certain rights and obligations arising out of transactions involving letters of credit",
+      "number": "675.102",
+      "heading": "Scope. (1)This chapter applies to letters of credit and to certain rights and obligations arising out of transactions involving letters of credit",
       "text": "(2)The statement of a rule in this chapter does not by itself require, imply, or negate application of the same or a different rule to a situation not provided f",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-675103definitions",
-      "number": "675.103Definitions.",
-      "heading": "(1)For purposes of this chapter:(a)“Adviser” means a person who, at the request of the issuer, a confirmer, or another adviser, notifies or requests another adviser to notify the beneficiary that a letter of credit has been issued, confirmed, or amended",
+      "number": "675.103",
+      "heading": "Definitions. (1)For purposes of this chapter:(a)“Adviser” means a person who, at the request of the issuer, a confirmer, or another adviser, notifies or requests another adviser to notify the beneficiary that a letter of credit has been issued, confirmed, or amended",
       "text": "(b)“Applicant” means a person at whose request",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-675105consideration",
-      "number": "675.105Consideration.",
+      "number": "675.105",
       "heading": "Consideration is not required to issue, amend, transfer, or cancel a letter of credit, advice, or confirmation",
       "text": "History.—s. 1, ch. 65-254; s. 1, ch. 99-137.Note.—s. 5-105, U.C.C.; supersedes ss. 674.27, 674.31.",
       "history": "",
@@ -172,16 +172,16 @@
     },
     {
       "id": "section-675110warranties",
-      "number": "675.110Warranties.",
-      "heading": "(1)If a beneficiary’s presentation is honored, the beneficiary warrants:(a)To the issuer, any other person to whom presentation is made, and the applicant that there is no fraud or forgery of the kind described in s",
+      "number": "675.110",
+      "heading": "Warranties. (1)If a beneficiary’s presentation is honored, the beneficiary warrants:(a)To the issuer, any other person to whom presentation is made, and the applicant that there is no fraud or forgery of the kind described in s",
       "text": "675.109(1); and(b)To the applicant that the drawing does not violate any agreement",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-675111remedies",
-      "number": "675.111Remedies.",
-      "heading": "(1)If an issuer wrongfully dishonors or repudiates its obligation to pay money under a letter of credit before presentation, the beneficiary, successor, or nominated person presenting on its own behalf may recover from the issuer the amount that is the subject of the dishonor or repudiation",
+      "number": "675.111",
+      "heading": "Remedies. (1)If an issuer wrongfully dishonors or repudiates its obligation to pay money under a letter of credit before presentation, the beneficiary, successor, or nominated person presenting on its own behalf may recover from the issuer the amount that is the subject of the dishonor or repudiation",
       "text": "If the",
       "history": "",
       "source_url": ""

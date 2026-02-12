@@ -4,8 +4,8 @@
   "sections": [
     {
       "id": "section-83101forgery83102uttering",
-      "number": "831.01Forgery.831.02Uttering",
-      "heading": "forged instruments.831.025Evidence in prosecution for forgery or counterfeiting",
+      "number": "831.01",
+      "heading": "Forgery.831.02Uttering forged instruments.831.025Evidence in prosecution for forgery or counterfeiting",
       "text": "831.03Forging or counterfeiting private labels; definitions.831.031Evidence.831.032Offenses involving forging or counterfeiting private labels.831.033Forging or counterfeiting private labels; destruction; forfeiture.831.",
       "history": "",
       "source_url": ""
@@ -20,24 +20,24 @@
     },
     {
       "id": "section-83102uttering",
-      "number": "831.02Uttering",
-      "heading": "forged instruments.",
+      "number": "831.02",
+      "heading": "Uttering forged instruments.",
       "text": "forged instruments.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-831025evidence",
-      "number": "831.025Evidence",
-      "heading": "in prosecution for forgery or counterfeiting.",
+      "number": "831.025",
+      "heading": "Evidence in prosecution for forgery or counterfeiting.",
       "text": "in prosecution for forgery or counterfeiting.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83103forging",
-      "number": "831.03Forging",
-      "heading": "or counterfeiting private labels; definitions.",
+      "number": "831.03",
+      "heading": "Forging or counterfeiting private labels; definitions.",
       "text": "or counterfeiting private labels; definitions.",
       "history": "",
       "source_url": ""
@@ -52,16 +52,16 @@
     },
     {
       "id": "section-831032offenses",
-      "number": "831.032Offenses",
-      "heading": "involving forging or counterfeiting private labels.",
+      "number": "831.032",
+      "heading": "Offenses involving forging or counterfeiting private labels.",
       "text": "involving forging or counterfeiting private labels.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-831033forging",
-      "number": "831.033Forging",
-      "heading": "or counterfeiting private labels; destruction; forfeiture.",
+      "number": "831.033",
+      "heading": "Forging or counterfeiting private labels; destruction; forfeiture.",
       "text": "or counterfeiting private labels; destruction; forfeiture.",
       "history": "",
       "source_url": ""
@@ -76,48 +76,48 @@
     },
     {
       "id": "section-83104penalty",
-      "number": "831.04Penalty",
-      "heading": "for changing or forging certain instruments of writing.",
+      "number": "831.04",
+      "heading": "Penalty for changing or forging certain instruments of writing.",
       "text": "for changing or forging certain instruments of writing.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83106fictitious",
-      "number": "831.06Fictitious",
-      "heading": "signature of officer of corporation.",
+      "number": "831.06",
+      "heading": "Fictitious signature of officer of corporation.",
       "text": "signature of officer of corporation.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83107forging",
-      "number": "831.07Forging",
-      "heading": "bank bills, checks, drafts, or promissory notes.",
+      "number": "831.07",
+      "heading": "Forging bank bills, checks, drafts, or promissory notes.",
       "text": "bank bills, checks, drafts, or promissory notes.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83108possessing",
-      "number": "831.08Possessing",
-      "heading": "certain forged notes, bills, checks, or drafts.",
+      "number": "831.08",
+      "heading": "Possessing certain forged notes, bills, checks, or drafts.",
       "text": "certain forged notes, bills, checks, or drafts.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83109uttering",
-      "number": "831.09Uttering",
-      "heading": "forged bills, checks, drafts, or notes.",
+      "number": "831.09",
+      "heading": "Uttering forged bills, checks, drafts, or notes.",
       "text": "forged bills, checks, drafts, or notes.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83110second",
-      "number": "831.10Second",
-      "heading": "conviction of uttering forged bills.",
+      "number": "831.10",
+      "heading": "Second conviction of uttering forged bills.",
       "text": "conviction of uttering forged bills.",
       "history": "",
       "source_url": ""
@@ -132,200 +132,200 @@
     },
     {
       "id": "section-83111bringing",
-      "number": "831.11Bringing",
-      "heading": "into the state forged bank bills, checks, drafts, or notes.",
+      "number": "831.11",
+      "heading": "Bringing into the state forged bank bills, checks, drafts, or notes.",
       "text": "into the state forged bank bills, checks, drafts, or notes.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83112fraudulently",
-      "number": "831.12Fraudulently",
-      "heading": "connecting parts of genuine instrument.",
+      "number": "831.12",
+      "heading": "Fraudulently connecting parts of genuine instrument.",
       "text": "connecting parts of genuine instrument.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83113having",
-      "number": "831.13Having",
-      "heading": "in possession uncurrent bills.",
+      "number": "831.13",
+      "heading": "Having in possession uncurrent bills.",
       "text": "in possession uncurrent bills.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83114uttering",
-      "number": "831.14Uttering",
-      "heading": "uncurrent bills.",
+      "number": "831.14",
+      "heading": "Uttering uncurrent bills.",
       "text": "uncurrent bills.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83115counterfeiting",
-      "number": "831.15Counterfeiting",
-      "heading": "coin; having 10 or more such coins in possession with intent to utter.",
+      "number": "831.15",
+      "heading": "Counterfeiting coin; having 10 or more such coins in possession with intent to utter.",
       "text": "coin; having 10 or more such coins in possession with intent to utter.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83116having",
-      "number": "831.16Having",
-      "heading": "fewer than 10 counterfeit coins in possession with intent to utter.",
+      "number": "831.16",
+      "heading": "Having fewer than 10 counterfeit coins in possession with intent to utter.",
       "text": "fewer than 10 counterfeit coins in possession with intent to utter.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83117violation",
-      "number": "831.17Violation",
-      "heading": "of s. 831.16; second or subsequent conviction.",
+      "number": "831.17",
+      "heading": "Violation of s. 831.16; second or subsequent conviction.",
       "text": "of s. 831.16; second or subsequent conviction.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83118making",
-      "number": "831.18Making",
-      "heading": "or possessing instruments for forging bills.",
+      "number": "831.18",
+      "heading": "Making or possessing instruments for forging bills.",
       "text": "or possessing instruments for forging bills.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83119making",
-      "number": "831.19Making",
-      "heading": "or having instruments for counterfeiting coin.",
+      "number": "831.19",
+      "heading": "Making or having instruments for counterfeiting coin.",
       "text": "or having instruments for counterfeiting coin.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83120counterfeit",
-      "number": "831.20Counterfeit",
-      "heading": "bills and counterfeiters’ tools to be seized.",
+      "number": "831.20",
+      "heading": "Counterfeit bills and counterfeiters’ tools to be seized.",
       "text": "bills and counterfeiters’ tools to be seized.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83121forging",
-      "number": "831.21Forging",
-      "heading": "or counterfeiting doctor’s certificate of examination.",
+      "number": "831.21",
+      "heading": "Forging or counterfeiting doctor’s certificate of examination.",
       "text": "or counterfeiting doctor’s certificate of examination.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83122damaging",
-      "number": "831.22Damaging",
-      "heading": "bank bills.",
+      "number": "831.22",
+      "heading": "Damaging bank bills.",
       "text": "bank bills.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83123impeding",
-      "number": "831.23Impeding",
-      "heading": "circulation.",
+      "number": "831.23",
+      "heading": "Impeding circulation.",
       "text": "circulation.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83124issuing",
-      "number": "831.24Issuing",
-      "heading": "shop bills similar to bank notes.",
+      "number": "831.24",
+      "heading": "Issuing shop bills similar to bank notes.",
       "text": "shop bills similar to bank notes.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83125bringing",
-      "number": "831.25Bringing",
-      "heading": "private bills similar to bank bills into the state.",
+      "number": "831.25",
+      "heading": "Bringing private bills similar to bank bills into the state.",
       "text": "private bills similar to bank bills into the state.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83126circulating",
-      "number": "831.26Circulating",
-      "heading": "any substitute for regular currency.",
+      "number": "831.26",
+      "heading": "Circulating any substitute for regular currency.",
       "text": "any substitute for regular currency.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83127issuing",
-      "number": "831.27Issuing",
-      "heading": "notes.",
+      "number": "831.27",
+      "heading": "Issuing notes.",
       "text": "notes.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83128counterfeiting",
-      "number": "831.28Counterfeiting",
-      "heading": "a payment instrument; possessing a counterfeit payment instrument; penalties.",
+      "number": "831.28",
+      "heading": "Counterfeiting a payment instrument; possessing a counterfeit payment instrument; penalties.",
       "text": "a payment instrument; possessing a counterfeit payment instrument; penalties.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83129making",
-      "number": "831.29Making",
-      "heading": "or having instruments and material for counterfeiting driver licenses or identification cards.",
+      "number": "831.29",
+      "heading": "Making or having instruments and material for counterfeiting driver licenses or identification cards.",
       "text": "or having instruments and material for counterfeiting driver licenses or identification cards.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83130medicinal",
-      "number": "831.30Medicinal",
-      "heading": "drugs; fraud in obtaining.",
+      "number": "831.30",
+      "heading": "Medicinal drugs; fraud in obtaining.",
       "text": "drugs; fraud in obtaining.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83131counterfeit",
-      "number": "831.31Counterfeit",
-      "heading": "controlled substance; sale, manufacture, delivery, or possession with intent to sell, manufacture, or deliver.",
+      "number": "831.31",
+      "heading": "Counterfeit controlled substance; sale, manufacture, delivery, or possession with intent to sell, manufacture, or deliver.",
       "text": "controlled substance; sale, manufacture, delivery, or possession with intent to sell, manufacture, or deliver.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-831311unlawful",
-      "number": "831.311Unlawful",
-      "heading": "sale, manufacture, alteration, delivery, uttering, or possession of counterfeit-resistant prescription blanks for controlled substances.",
+      "number": "831.311",
+      "heading": "Unlawful sale, manufacture, alteration, delivery, uttering, or possession of counterfeit-resistant prescription blanks for controlled substances.",
       "text": "sale, manufacture, alteration, delivery, uttering, or possession of counterfeit-resistant prescription blanks for controlled substances.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-83101forgery",
-      "number": "831.01Forgery.",
-      "heading": "Whoever falsely makes, alters, forges or counterfeits a public record, or a certificate, return or attestation of any clerk or register of a court, public register, notary public, town clerk or any public officer, in relation to a matter wherein such certificate, return or attestation may be receive",
+      "number": "831.01",
+      "heading": "Forgery. Whoever falsely makes, alters, forges or counterfeits a public record, or a certificate, return or attestation of any clerk or register of a court, public register, notary public, town clerk or any public officer, in relation to a matter wherein such certificate, return or attestation may be receive",
       "text": "Whoever falsely makes, alters, forges or counterfeits a public record, or a certificate, return or attestation of any clerk or register of a court, public register, notary public, town clerk or any public officer, in relation to a matter wherein such certificate, return or attestation may be received as a legal proof; or a charter, deed, will, testament, bond, or writing obligatory, letter of attorney, policy of insurance, bill of lading, bill of exchange or promissory note, or an order, acquittance, or discharge for money or other property, or an acceptance of a bill of exchange or promissory note for the payment of money, or any receipt for money, goods or other property, or any passage ticket, pass or other evidence of transportation issued by a common carrier, with intent to injure or defraud any person, shall be guilty of a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.History.—s. 1, ch. 1637, 1868; RS 2479; s. 6, ch. 4702, 1899; GS 3359; RGS 5206; CGL 7324; s. 1, ch. 59-31; s. 1, ch. 61-98; s. 959, ch. 71-136; s. 32, ch. 73-334.",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-831031evidence",
-      "number": "831.031Evidence.",
-      "heading": "In any proceeding under or related to ss",
+      "number": "831.031",
+      "heading": "Evidence. In any proceeding under or related to ss",
       "text": "831.03-831.034:(1)Proof that a person is in possession of more than 25 goods, labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging or any other components of any type",
       "history": "",
       "source_url": ""
     },
     {
       "id": "section-831034prosecutions",
-      "number": "831.034Prosecutions.",
-      "heading": "Notwithstanding any other provision of the law, prosecution may be had for any and all violations of ss",
+      "number": "831.034",
+      "heading": "Prosecutions. Notwithstanding any other provision of the law, prosecution may be had for any and all violations of ss",
       "text": "831.03-831.033 and for any other criminal violations that may apply. Prosecution for violation of any of the offenses described in ss. 831.03-831.033 shall not be construed to preclude the applic",
       "history": "",
       "source_url": ""
