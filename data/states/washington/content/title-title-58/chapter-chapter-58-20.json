@@ -1,0 +1,97 @@
+{
+  "state": "washington",
+  "path": "title-title-58/chapter-chapter-58-20",
+  "sections": [
+    {
+      "id": "section-58-20-111-definitions",
+      "number": "58.20.111 - Definitions.",
+      "heading": "",
+      "text": "RCW 58.20.111\n\nDefinitions.\n\nThe definitions in this section apply throughout this chapter unless the context clearly requires otherwise.(1) \"Metadata\" means data that describes other data. For the purposes of this chapter, metadata means geodetic reference system utilized, applicable epoch, statement of relative accuracy, and date of observation at a minimum. Additional metadata is encouraged if it adds value.(2) \"NGS\" means the national ocean service's national geodetic survey of the national oceanic and atmospheric administration, United States department of commerce, or its successor.(3) \"NSRS\" means the national spatial reference system or its successor.(4) \"WPCS\" means the Washington plane coordinate system, the system of plane coordinates under this chapter that is identical to the state plane coordinate system as defined for the state of Washington by NGS.\n\nThe definitions in this section apply throughout this chapter unless the context clearly requires otherwise.\n\n(1) \"Metadata\" means data that describes other data. For the purposes of this chapter, metadata means geodetic reference system utilized, applicable epoch, statement of relative accuracy, and date of observation at a minimum. Additional metadata is encouraged if it adds value.\n\n(2) \"NGS\" means the national ocean service's national geodetic survey of the national oceanic and atmospheric administration, United States department of commerce, or its successor.\n\n(3) \"NSRS\" means the national spatial reference system or its successor.\n\n(4) \"WPCS\" means the Washington plane coordinate system, the system of plane coordinates under this chapter that is identical to the state plane coordinate system as defined for the state of Washington by NGS.\n\n[ 2020 c 50 s 1.]",
+      "source_url": "https://law.justia.com/codes/washington/title-58/chapter-58-20/section-58-20-111/"
+    },
+    {
+      "id": "section-58-20-121-washington-plane-coordinate-system",
+      "number": "58.20.121 - Washington plane coordinate system.",
+      "heading": "",
+      "text": "RCW 58.20.121\n\nWashington plane coordinate system.\n\nThe most recent version of the state plane coordinate system for the state of Washington, which has been established by NGS, based on the NSRS, for defining and stating the positions or locations of points on the surface of the earth within the state of Washington must be known as the \"Washington plane coordinate system.\"\n\nThe most recent version of the state plane coordinate system for the state of Washington, which has been established by NGS, based on the NSRS, for defining and stating the positions or locations of points on the surface of the earth within the state of Washington must be known as the \"Washington plane coordinate system.\"\n\n[ 2020 c 50 s 2.]",
+      "source_url": "https://law.justia.com/codes/washington/title-58/chapter-58-20/section-58-20-121/"
+    },
+    {
+      "id": "section-58-20-140-designation-of-system-zones",
+      "number": "58.20.140 - Designation of system—Zones.",
+      "heading": "",
+      "text": "RCW 58.20.140\n\nDesignation of system—Zones.\n\nThe Washington plane coordinate system shall be named, and in any land description in which it is used it shall be designated, the \"Washington plane coordinate system,\" and the zone used must be specified.\n\nThe Washington plane coordinate system shall be named, and in any land description in which it is used it shall be designated, the \"Washington plane coordinate system,\" and the zone used must be specified.\n\n[ 2020 c 50 s 3; 1989 c 54 s 12.]",
+      "source_url": "https://law.justia.com/codes/washington/title-58/chapter-58-20/section-58-20-140/"
+    },
+    {
+      "id": "section-58-20-145-plane-coordinates",
+      "number": "58.20.145 - Plane coordinates.",
+      "heading": "",
+      "text": "RCW 58.20.145\n\nPlane coordinates.\n\n(1) The plane coordinates of a point on the earth's surface, to be used in expressing the position or location of the point in the appropriate zone of the WPCS, consist of two distances, expressed in feet and decimals of a foot or meters and decimals of a meter, along with the metadata of the observations used to determine the coordinates. One of these distances, to be known as the \"east x-coordinate,\" must give the distance east of the Y axis; the other, to be known as the \"north y-coordinate,\" must give the distance north of the X axis. The Y axis of any zone must be parallel with the central meridian of that zone. The X axis of any zone must be at right angles to the central meridian of that zone.(2) Height is the coordinate value of the vertical elements of the NSRS expressed as feet or meters and identified as ellipsoid height or orthometric height.\n\n(1) The plane coordinates of a point on the earth's surface, to be used in expressing the position or location of the point in the appropriate zone of the WPCS, consist of two distances, expressed in feet and decimals of a foot or meters and decimals of a meter, along with the metadata of the observations used to determine the coordinates. One of these distances, to be known as the \"east x-coordinate,\" must give the distance east of the Y axis; the other, to be known as the \"north y-coordinate,\" must give the distance north of the X axis. The Y axis of any zone must be parallel with the central meridian of that zone. The X axis of any zone must be at right angles to the central meridian of that zone.\n\n(2) Height is the coordinate value of the vertical elements of the NSRS expressed as feet or meters and identified as ellipsoid height or orthometric height.\n\n[ 2020 c 50 s 4.]",
+      "source_url": "https://law.justia.com/codes/washington/title-58/chapter-58-20/section-58-20-145/"
+    },
+    {
+      "id": "section-58-20-160-tracts-in-more-than-one-zone",
+      "number": "58.20.160 - Tracts in more than one zone.",
+      "heading": "",
+      "text": "RCW 58.20.160\n\nTracts in more than one zone.\n\nWhen any tract of land to be defined by a single description extends from one coordinate zone into other zones, the positions of all points on its boundaries must be referred to only one of the zones, the zone which is used being specifically named in the description along with the metadata of the observations.\n\nWhen any tract of land to be defined by a single description extends from one coordinate zone into other zones, the positions of all points on its boundaries must be referred to only one of the zones, the zone which is used being specifically named in the description along with the metadata of the observations.\n\n[ 2020 c 50 s 5; 1989 c 54 s 14.]",
+      "source_url": "https://law.justia.com/codes/washington/title-58/chapter-58-20/section-58-20-160/"
+    },
+    {
+      "id": "section-58-20-165-geodetic-datums",
+      "number": "58.20.165 - Geodetic datums.",
+      "heading": "",
+      "text": "RCW 58.20.165\n\nGeodetic datums.\n\nThe official geodetic datums to which geodetic coordinates including, but not limited to, latitude, longitude, ellipsoid height, orthometric height, or dynamic height are referenced within the state of Washington must be as defined for the NSRS.\n\nThe official geodetic datums to which geodetic coordinates including, but not limited to, latitude, longitude, ellipsoid height, orthometric height, or dynamic height are referenced within the state of Washington must be as defined for the NSRS.\n\n[ 2020 c 50 s 6.]",
+      "source_url": "https://law.justia.com/codes/washington/title-58/chapter-58-20/section-58-20-165/"
+    },
+    {
+      "id": "section-58-20-180-recording-coordinates",
+      "number": "58.20.180 - Recording coordinates.",
+      "heading": "",
+      "text": "RCW 58.20.180\n\nRecording coordinates.\n\nCoordinates based on the Washington plane coordinate system, purporting to define the position of a point on a land boundary, may be presented to be recorded in any public land records or deed records. The method and source for establishing coordinates shall be described in the land or deed record. In all instances where reference has been made to such coordinates in land surveys or deeds, the combined factors shall be stated for the survey lines used in computing ground distances and areas, along with the metadata of the observations.\n\nCoordinates based on the Washington plane coordinate system, purporting to define the position of a point on a land boundary, may be presented to be recorded in any public land records or deed records. The method and source for establishing coordinates shall be described in the land or deed record. In all instances where reference has been made to such coordinates in land surveys or deeds, the combined factors shall be stated for the survey lines used in computing ground distances and areas, along with the metadata of the observations.\n\n[ 2020 c 50 s 7; 1989 c 54 s 16.]",
+      "source_url": "https://law.justia.com/codes/washington/title-58/chapter-58-20/section-58-20-180/"
+    },
+    {
+      "id": "section-58-20-185-standard-value-one-foot",
+      "number": "58.20.185 - Standard value—One foot.",
+      "heading": "",
+      "text": "RCW 58.20.185\n\nStandard value—One foot.\n\nWhen the values are expressed in feet, one foot equals 0.3048 meters, must be used as the standard foot for WPCS.\n\nWhen the values are expressed in feet, one foot equals 0.3048 meters, must be used as the standard foot for WPCS.\n\n[ 2020 c 50 s 8.]",
+      "source_url": "https://law.justia.com/codes/washington/title-58/chapter-58-20/section-58-20-185/"
+    },
+    {
+      "id": "section-58-20-200-term-limited-use",
+      "number": "58.20.200 - Term—Limited use.",
+      "heading": "",
+      "text": "RCW 58.20.200\n\nTerm—Limited use.\n\nThe use of the term \"Washington plane coordinate system\" on any map, report of survey, or other document, shall be limited to coordinates based on the Washington plane coordinate system as defined in this chapter.\n\nThe use of the term \"Washington plane coordinate system\" on any map, report of survey, or other document, shall be limited to coordinates based on the Washington plane coordinate system as defined in this chapter.\n\n[ 2020 c 50 s 9; 1989 c 54 s 18.]",
+      "source_url": "https://law.justia.com/codes/washington/title-58/chapter-58-20/section-58-20-200/"
+    },
+    {
+      "id": "section-58-20-205-datum-conflicts",
+      "number": "58.20.205 - Datum conflicts.",
+      "heading": "",
+      "text": "RCW 58.20.205\n\nDatum conflicts.\n\nThe provisions of this chapter may not be construed to prohibit the appropriate use of other datums, other geodetic reference networks or systems, or other plane coordinate systems. Any other such datums, networks, or systems used must comply fully with the information requirements for the Washington plane coordinate system. This includes, but is not limited to: The source of the datum, network, or system; metadata of the observations; factor used to convert from meters to feet; and combined factors applied to land boundary lines used in land surveys or deeds to compute ground distances or areas.\n\nThe provisions of this chapter may not be construed to prohibit the appropriate use of other datums, other geodetic reference networks or systems, or other plane coordinate systems. Any other such datums, networks, or systems used must comply fully with the information requirements for the Washington plane coordinate system. This includes, but is not limited to: The source of the datum, network, or system; metadata of the observations; factor used to convert from meters to feet; and combined factors applied to land boundary lines used in land surveys or deeds to compute ground distances or areas.\n\n[ 2020 c 50 s 12.]",
+      "source_url": "https://law.justia.com/codes/washington/title-58/chapter-58-20/section-58-20-205/"
+    },
+    {
+      "id": "section-58-20-210-united-states-survey-prevails-conflict",
+      "number": "58.20.210 - United States survey prevails—Conflict.",
+      "heading": "",
+      "text": "RCW 58.20.210\n\nUnited States survey prevails—Conflict.\n\nWhenever coordinates based on the Washington plane coordinate system are used to describe any tract of land which in the same document is also described by reference to any subdivision, line or corner of the United States public land surveys, the description by coordinates shall be construed as supplemental to the basic description of such subdivision, line, or corner contained in the official plats and field notes filed of record, and in the event of any conflict the description by reference to the subdivision, line, or corner of the United States public land surveys shall prevail over the description by coordinates.\n\nWhenever coordinates based on the Washington plane coordinate system are used to describe any tract of land which in the same document is also described by reference to any subdivision, line or corner of the United States public land surveys, the description by coordinates shall be construed as supplemental to the basic description of such subdivision, line, or corner contained in the official plats and field notes filed of record, and in the event of any conflict the description by reference to the subdivision, line, or corner of the United States public land surveys shall prevail over the description by coordinates.\n\n[ 2020 c 50 s 10; 1989 c 54 s 19.]",
+      "source_url": "https://law.justia.com/codes/washington/title-58/chapter-58-20/section-58-20-210/"
+    },
+    {
+      "id": "section-58-20-220-real-estate-transactions-exemption",
+      "number": "58.20.220 - Real estate transactions—Exemption.",
+      "heading": "",
+      "text": "RCW 58.20.220\n\nReal estate transactions—Exemption.\n\nNothing contained in this chapter shall require any purchaser or mortgagee to rely on a description, any part of which depends exclusively upon the Washington plane coordinate system.\n\nNothing contained in this chapter shall require any purchaser or mortgagee to rely on a description, any part of which depends exclusively upon the Washington plane coordinate system.\n\n[ 2020 c 50 s 11; 1989 c 54 s 20.]",
+      "source_url": "https://law.justia.com/codes/washington/title-58/chapter-58-20/section-58-20-220/"
+    },
+    {
+      "id": "section-58-20-901-severability-1989-c-54",
+      "number": "58.20.901 - Severability—1989 c 54.",
+      "heading": "",
+      "text": "RCW 58.20.901\n\nSeverability—1989 c 54.\n\nIf any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.\n\nIf any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.\n\n[ 1989 c 54 s 21.]",
+      "source_url": "https://law.justia.com/codes/washington/title-58/chapter-58-20/section-58-20-901/"
+    }
+  ]
+}
