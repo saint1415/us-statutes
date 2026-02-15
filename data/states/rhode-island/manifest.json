@@ -4,7 +4,7 @@
   "code_name": "Rhode Island General Laws",
   "source": "official_website",
   "source_url": "https://webserver.rilegislature.gov/Statutes",
-  "last_updated": "2026-02-11T13:22:59.387494+00:00",
+  "last_updated": "2026-02-15T05:37:08.666376+00:00",
   "year": 2024,
   "structure": [
     {
@@ -21,8 +21,8 @@
     }
   ],
   "stats": {
-    "titles": 46,
-    "chapters": 2395,
-    "sections": 28464
+    "titles": 49,
+    "chapters": 2646,
+    "sections": 31561
   }
 }

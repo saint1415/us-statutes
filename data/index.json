@@ -497,11 +497,11 @@
       "state_abbr": "RI",
       "code_name": "Rhode Island General Laws",
       "source": "official_website",
-      "last_updated": "2026-02-11T13:22:59.387494+00:00",
+      "last_updated": "2026-02-15T05:37:08.666376+00:00",
       "stats": {
-        "titles": 46,
-        "chapters": 2395,
-        "sections": 28464
+        "titles": 49,
+        "chapters": 2646,
+        "sections": 31561
       }
     },
     {
@@ -509,7 +509,7 @@
       "state_abbr": "SC",
       "code_name": "South Carolina Code of Laws",
       "source": "official_website",
-      "last_updated": "2026-02-11T13:22:36.752156+00:00",
+      "last_updated": "2026-02-15T05:45:10.393316+00:00",
       "stats": {
         "titles": 62,
         "chapters": 1281,
@@ -521,11 +521,11 @@
       "state_abbr": "SD",
       "code_name": "South Dakota Codified Laws",
       "source": "official_website",
-      "last_updated": "2026-02-11T13:23:59.766716+00:00",
+      "last_updated": "2026-02-15T05:45:48.147395+00:00",
       "stats": {
-        "titles": 66,
-        "chapters": 1627,
-        "sections": 45602
+        "titles": 0,
+        "chapters": 0,
+        "sections": 0
       }
     },
     {
@@ -545,11 +545,11 @@
       "state_abbr": "TX",
       "code_name": "Texas Statutes",
       "source": "official_website",
-      "last_updated": "2026-02-11T13:26:56.853163+00:00",
+      "last_updated": "2026-02-15T05:46:25.300052+00:00",
       "stats": {
-        "titles": 2,
-        "chapters": 13,
-        "sections": 148
+        "titles": 0,
+        "chapters": 0,
+        "sections": 0
       }
     },
     {
@@ -569,11 +569,11 @@
       "state_abbr": "UT",
       "code_name": "Utah Code",
       "source": "official_website",
-      "last_updated": "2026-02-11T13:30:28.978092+00:00",
+      "last_updated": "2026-02-15T05:47:02.568683+00:00",
       "stats": {
-        "titles": 75,
-        "chapters": 526,
-        "sections": 5096
+        "titles": 0,
+        "chapters": 0,
+        "sections": 0
       }
     },
     {
@@ -605,11 +605,11 @@
       "state_abbr": "WA",
       "code_name": "Revised Code of Washington",
       "source": "official_website",
-      "last_updated": "2026-02-11T13:31:36.041111+00:00",
+      "last_updated": "2026-02-15T05:47:03.279346+00:00",
       "stats": {
-        "titles": 101,
-        "chapters": 101,
-        "sections": 5363
+        "titles": 0,
+        "chapters": 0,
+        "sections": 0
       }
     },
     {

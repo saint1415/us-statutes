@@ -4,7 +4,7 @@
   "code_name": "South Dakota Codified Laws",
   "source": "official_website",
   "source_url": "https://sdlegislature.gov/api/Statutes",
-  "last_updated": "2026-02-11T13:23:59.766716+00:00",
+  "last_updated": "2026-02-15T05:45:48.147395+00:00",
   "year": 2024,
   "structure": [
     {
@@ -21,8 +21,8 @@
     }
   ],
   "stats": {
-    "titles": 66,
-    "chapters": 1627,
-    "sections": 45602
+    "titles": 0,
+    "chapters": 0,
+    "sections": 0
   }
 }
